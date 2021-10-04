@@ -85,7 +85,7 @@ tasks:
           done
         done)
       # Als gelöscht markierte Datensätze entfernen
-      - (cd input && grep -l '<header status="deleted">' * | xargs rm)
+      - (cd input && grep -r -l '<header status="deleted">' * | xargs rm)
       # TODO: check results
 
   transform:

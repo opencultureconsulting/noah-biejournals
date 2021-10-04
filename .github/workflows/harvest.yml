@@ -18,6 +18,8 @@ jobs:
         sudo apt-get install -y ./metha.deb && rm metha.deb
     - name: install xml_split
       run: sudo apt-get install -y xml-twig-tools
+    - name: install xmllint
+      run: sudo apt-get install -y libxml2-utils
     - name: task harvest
       run: task harvest
     - name: git commit and push
