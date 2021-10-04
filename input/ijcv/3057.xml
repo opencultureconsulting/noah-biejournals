@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <header status="">
+    <identifier>oai:biejournals.de:article/3057</identifier>
+    <datestamp>2020-07-01T11:49:13Z</datestamp>
+    <setSpec>ijcv:F18</setSpec>
+  </header>
+  <metadata>
+    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title xml:lang="en-US">The Analysis of Non-Stationary Pooled Time-Series Cross-Section-Data</dc:title>
+      <dc:creator>Birkel, Christoph</dc:creator>
+      <dc:description xml:lang="en-US"> It is common in macro-level research on violent crime to analyze datasets combining a cross-section (N units) with a time-series (T periods) dimension. A large body of methodological literature accumulated since the 1990s raises questions regarding the validity of conventional models for such Pooled Time-Series Cross-Section- (PTCS) data in the presence of non-stationarity (i. e. stochastic trends). Extant research shows that conventional techniques lead to consistent estimates only under specific conditions, and standard procedures for statistical inference do not apply. The approaches proposed in the literature to test for stochastic trends and cointegration (see the introduction to this issue) are reviewed, as well as methods for estimation and inference in the non-stationary PTCS-context. A host of procedures has been developed, including methods to take simultaneously cross-section dependence and/or structural breaks into account. Thus there are now all the tools needed for valid analyses of non-stationary PTCS-data available, although many of them need large samples to perform well. The general approach to the analysis of non-stationary PTCS-data is illustrated using a data set with robbery rates for eleven West-German federal states 1971-2004. Several meaningful long-run relationships are identified and estimated in these analyses. </dc:description>
+      <dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
+      <dc:date>2015-05-28</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+      <dc:type xml:lang="en-US">Literature Review;Multivariate Analysis</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dc:format>application/epub+zip</dc:format>
+      <dc:format>application/octet-stream</dc:format>
+      <dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/3057</dc:identifier>
+      <dc:identifier>10.4119/ijcv-3057</dc:identifier>
+      <dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 8 Nr. 2 (2014); 222-242</dc:source>
+      <dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 8 No. 2 (2014); 222-242</dc:source>
+      <dc:source>1864-1385</dc:source>
+      <dc:language>eng</dc:language>
+      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3057/pdf_116</dc:relation>
+      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3057/_10</dc:relation>
+      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3057/_11</dc:relation>
+      <dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
+      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
+    </oai_dc:dc>
+  </metadata>
+  <about/>
+</Record>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Record>
+  <header status="">
+    <identifier>oai:biejournals.de:article/3059</identifier>
+    <datestamp>2020-07-01T11:49:13Z</datestamp>
+    <setSpec>ijcv:F18</setSpec>
+  </header>
+  <metadata>
+    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+      <dc:title xml:lang="en-US">Does the Magnitude of the Link between Unemployment and Crime Depend on the Crime Level? A Quantile Regression Approach</dc:title>
+      <dc:creator>Entorf, Horst</dc:creator>
+      <dc:creator>Sieger, Philip</dc:creator>
+      <dc:description xml:lang="en-US">Two alternative hypotheses – referred to as opportunity- and stigma-based behavior – suggest that the magnitude of the link between unemployment and crime also depends on preexisting local crime levels. In order to analyze conjectured nonlinearities between both variables, we use quantile regressions applied to German district panel data. While both conventional OLS and quantile regressions confirm the positive link between unemployment and crime for property crimes, results for assault differ with respect to the method of estimation. Whereas conventional mean regressions do not show any significant effect (which would confirm the usual result found for violent crimes in the literature), quantile regression reveals that size and importance of the relationship are conditional on the crime rate. The partial effect is significantly positive for moderately low and median quantiles of local assault rates.</dc:description>
+      <dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
+      <dc:date>2015-05-28</dc:date>
+      <dc:type>info:eu-repo/semantics/article</dc:type>
+      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+      <dc:type xml:lang="en-US">Quantile regression; least squares; fixed effects; longitudinal panel data</dc:type>
+      <dc:format>application/pdf</dc:format>
+      <dc:format>application/epub+zip</dc:format>
+      <dc:format>application/octet-stream</dc:format>
+      <dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/3059</dc:identifier>
+      <dc:identifier>10.4119/ijcv-3059</dc:identifier>
+      <dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 8 Nr. 2 (2014); 262-283</dc:source>
+      <dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 8 No. 2 (2014); 262-283</dc:source>
+      <dc:source>1864-1385</dc:source>
+      <dc:language>eng</dc:language>
+      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3059/pdf_117</dc:relation>
+      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3059/_6</dc:relation>
+      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3059/_7</dc:relation>
+      <dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
+      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
+    </oai_dc:dc>
+  </metadata>
+  <about/>
+</Record>
