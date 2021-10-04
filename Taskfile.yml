@@ -1,0 +1,166 @@
+version: '3'
+
+silent: true
+
+tasks:
+  default:
+    desc: harvest and transform
+    cmds:
+      - task: harvest
+      - task: transform
+      # TODO: validate
+
+  install:
+    desc: install OpenRefine and openrefine-client into subdirectory .openrefine
+    cmds:
+      - mkdir -p .openrefine
+      - wget --no-verbose -O openrefine.tar.gz https://github.com/OpenRefine/OpenRefine/releases/harvest/3.4.1/openrefine-linux-3.4.1.tar.gz
+      - tar -xzf openrefine.tar.gz -C .openrefine --strip 1 && rm openrefine.tar.gz
+      # fix path issue in OpenRefine startup file
+      - sed -i 's/cd `dirname $0`/cd "$(dirname "$0")"/' ".openrefine/refine"
+      # do not try to open OpenRefine in browser
+      - sed -i '$ a JAVA_OPTIONS=-Drefine.headless=true' ".openrefine/refine.ini"
+      # set autosave period from 5 minutes to 25 hours
+      - sed -i 's/#REFINE_AUTOSAVE_PERIOD=60/REFINE_AUTOSAVE_PERIOD=1440/' ".openrefine/refine.ini"
+      - wget --no-verbose -O .openrefine/client https://github.com/opencultureconsulting/openrefine-client/releases/harvest/v0.3.10/openrefine-client_0-3-10_linux
+      - chmod +x .openrefine/client
+
+  harvest:
+    desc: harvest all records from OAI-PMH
+    cmds:
+      - | # requirement metha
+        if [ -z "$(which metha-sync 2> /dev/null)" ]; then
+          echo 1>&2 "This script needs metha https://github.com/miku/metha/"; exit 1
+        fi
+      - | # requirement xml_split
+        if [ -z "$(which xml_split 2> /dev/null)" ]; then
+          echo 1>&2 "This script needs xml_split (xml-twig)"; exit 1
+        fi
+      - | # requirement xmllint
+        if [ -z "$(which xmllint 2> /dev/null)" ]; then
+          echo 1>&2 "This script needs xmllint"; exit 1
+        fi
+      - mkdir -p input
+      - rm -rf input/*
+      # Harvesting aller Zeitschriften
+      - metha-sync --format oai_dc https://www.beratungundsupervision.de/index.php/fs/oai
+      - metha-cat --format oai_dc https://www.beratungundsupervision.de/index.php/fs/oai > input/fs
+      - metha-sync --format oai_dc https://www.biejournals.de/index.php/lgnrw/oai
+      - metha-cat --format oai_dc https://www.biejournals.de/index.php/lgnrw/oai > input/lgnrw
+      - metha-sync --format oai_dc https://www.biejournals.de/index.php/we_os/oai
+      - metha-cat --format oai_dc https://www.biejournals.de/index.php/we_os/oai > input/we_os
+      - metha-sync --format oai_dc https://www.biuz.de/index.php/biuz/oai
+      - metha-cat --format oai_dc https://www.biuz.de/index.php/biuz/oai > input/biuz
+      - metha-sync --format oai_dc https://www.bu-praktisch.de/index.php/bupraktisch/oai
+      - metha-cat --format oai_dc https://www.bu-praktisch.de/index.php/bupraktisch/oai > input/bu-praktisch
+      - metha-sync --format oai_dc https://www.dimawe.de/index.php/dimawe/oai
+      - metha-cat --format oai_dc https://www.dimawe.de/index.php/dimawe/oai > input/dimawe
+      - metha-sync --format oai_dc https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/oai
+      - metha-cat --format oai_dc https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/oai > input/hlz
+      - metha-sync --format oai_dc https://www.hochschule-und-weiterbildung.net/index.php/zhwb/oai
+      - metha-cat --format oai_dc https://www.hochschule-und-weiterbildung.net/index.php/zhwb/oai > input/zhwb
+      - metha-sync --format oai_dc https://www.ijcv.org/index.php/ijcv/oai
+      - metha-cat --format oai_dc https://www.ijcv.org/index.php/ijcv/oai > input/ijcv
+      - metha-sync --format oai_dc https://www.inter-disciplines.org/index.php/indi/oai
+      - metha-cat --format oai_dc https://www.inter-disciplines.org/index.php/indi/oai > input/indi
+      - metha-sync --format oai_dc https://www.izgonzeit.de/index.php/izgonzeit/oai
+      - metha-cat --format oai_dc https://www.izgonzeit.de/index.php/izgonzeit/oai > input/izgonzeit
+      - metha-sync --format oai_dc https://www.jsse.org/index.php/jsse/oai
+      - metha-cat --format oai_dc https://www.jsse.org/index.php/jsse/oai > input/jsse
+      - metha-sync --format oai_dc https://www.pflb-journal.de/index.php/pflb/oai
+      - metha-cat --format oai_dc https://www.pflb-journal.de/index.php/pflb/oai > input/pflb
+      - metha-sync --format oai_dc https://www.seejph.com/index.php/seejph/oai
+      - metha-cat --format oai_dc https://www.seejph.com/index.php/seejph/oai > input/seejph
+      - metha-sync --format oai_dc https://zdb.uni-bielefeld.de/index.php/zdb/oai
+      - metha-cat --format oai_dc https://zdb.uni-bielefeld.de/index.php/zdb/oai > input/zdb
+      - | # Aufteilen in Einzeldateien
+        (cd input &&
+        for f in *; do
+          xml_split "$f"
+          rm "$f" "$f-00.xml"
+          for p in $f-*; do
+            xmllint --format --encode utf-8 "$p" > "$(xmllint --xpath "substring-after(/Record/header/identifier/text(), 'article/')" "$p").xml"
+            rm "$p"
+          done
+        done)
+      # Als gelöscht markierte Datensätze entfernen
+      - (cd input && grep -l '<header status="deleted">' * | xargs rm)
+      # TODO: check results
+
+  transform:
+    desc: transform data according to VuFind schema
+    cmds:
+      - task: start
+      - task: client
+      - task: stop
+    sources:
+      - input/**
+      - config/**
+    generates:
+      - output/**
+
+  client:
+    cmds:
+      - mkdir -p output
+      - rm -rf output/*
+      # TODO: zip input
+      - | # import main file
+        .openrefine/client \
+        --create "$(readlink -m input.zip)" \
+        --format xml \
+        --recordPath Record \
+        --projectName biejournals \
+        > >(tee -a .openrefine/log.txt) 2>&1
+      - | # apply transformation rules
+        for f in config/*.yaml; do
+          yq -o json eval "$f" > "$f".json
+          .openrefine/client biejournals --apply "$f.json" > >(tee -a .openrefine/log.txt) 2>&1
+          rm "$f.json"
+        done
+      - | # export to jsonl file
+        .openrefine/client biejournals \
+        --template "$(< config/template.txt)" \
+        --rowSeparator '' \
+        --output "$(readlink -m output/biejournals.txt)" \
+        > >(tee -a .openrefine/log.txt) 2>&1
+    ignore_error: true # workaround to avoid an orphaned Java process on error https://github.com/go-task/task/issues/141
+
+  start:
+    cmds:
+      - | # requirement yq
+        if [ -z "$(which yq 2> /dev/null)" ]; then
+          echo 1>&2 "This script needs yq https://github.com/mikefarah/yq/"; exit 1
+        fi
+      - | # requirement OpenRefine
+        if [ ! -f .openrefine/refine ]; then
+          echo 1>&2 "OpenRefine missing; try task install"; exit 1
+        fi
+      # delete temporary files of previous run
+      - rm -rf .openrefine/data .openrefine/log.txt
+      # launch OpenRefine with specific data directory and redirect its output to a log file
+      - .openrefine/refine -v warn -p 3333 -m 5120M -d data >> .openrefine/log.txt 2>&1 &
+      # wait until OpenRefine API is available
+      - timeout 30s bash -c "until wget -q -O - -o /dev/null http://localhost:3333 | cat | grep -q -o OpenRefine; do sleep 1; done"
+
+  stop:
+    cmds:
+      - | # kill OpenRefine gracefully and print stats
+        PID=$(lsof -t -i:3333)
+        echo "used $(($(ps --no-headers -o rss -p "$PID") / 1024)) MB RAM" > >(tee -a .openrefine/log.txt) 2>&1
+        echo "used $(ps --no-headers -o cputime -p "$PID") CPU time" > >(tee -a .openrefine/log.txt) 2>&1
+        kill $PID; while ps -p $PID > /dev/null; do sleep 1; done
+      # archive OpenRefine projects
+      - for p in .openrefine/data/*/; do tar --exclude "${p:17:13}.openrefine.tar.gz" -czf .openrefine/data/"${p:17:13}.openrefine.tar.gz" -C $p .; done
+      # check log file
+      - | # check log file
+        if grep -i 'exception\|error' .openrefine/log.txt
+          then echo 1>&2 "log contains warnings!"; echo; cat .openrefine/log.txt; exit 1
+          else echo "log seems to be ok"; echo; cat .openrefine/log.txt
+        fi
+
+  git:
+    desc: commit and push if something changed
+    cmds:
+      - git add -A
+      - git commit -m "latest change $(date -u)" || exit 0
+      - git push
