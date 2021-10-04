@@ -78,8 +78,9 @@ tasks:
         for f in *; do
           xml_split "$f"
           rm "$f" "$f-00.xml"
+          mkdir -p "$f"
           for p in $f-*; do
-            xmllint --format --encode utf-8 "$p" > "$(xmllint --xpath "substring-after(/Record/header/identifier/text(), 'article/')" "$p").xml"
+            xmllint --format --encode utf-8 "$p" > "$f"/"$(xmllint --xpath "substring-after(/Record/header/identifier/text(), 'article/')" "$p").xml"
             rm "$p"
           done
         done)
