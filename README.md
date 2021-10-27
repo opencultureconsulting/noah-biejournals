@@ -7,7 +7,7 @@ Dieser Workflow harvestet die Daten des Zeitschriftenservers [BieJournals](https
 - GNU/Linux (getestet mit Fedora 32)
 - JAVA 8+ (für OpenRefine)
 - go-task 3.0.0+
-- curl 7.68+
+- [metha](https://github.com/miku/metha/) 0.20.0+
 - xml_split (xml-twig), xmllint
 - yq 4.10+
 
