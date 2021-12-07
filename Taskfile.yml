@@ -78,7 +78,7 @@ tasks:
             rm "$path"
         done)
       - | # check results
-        minimum="2750"
+        minimum="2800"
         count="$(find input -name '*.xml' | wc -l)"
         if [ "$minimum" -le "$count" ]; then
           echo "Download enthält $count Datensätze"
@@ -92,6 +92,7 @@ tasks:
       - task: transform_start
       - task: transform_client
       - task: transform_stop
+      - task: transform_split
       - task: validate
     sources:
       - input/**
@@ -117,9 +118,9 @@ tasks:
       - | # prepare workspace
         mkdir -p output
         rm -rf output/*
-      - | # Alle XML-Dateien in ein temporäres Zip-Archiv packen
-        (cd input && zip -r -q tmp.zip *)
-      - | # Import (erfordert absoluten Pfad zur XML-Datei)
+      - | # create temporary zip archive
+        (cd input && zip -r -q tmp.zip */*.xml)
+      - | # import (requires absolute path)
         .openrefine/client \
         --create "$(readlink -m input/tmp.zip)" \
         --format xml \
@@ -127,37 +128,47 @@ tasks:
         --storeEmptyStrings false --trimStrings true \
         --projectName biejournals \
         > >(tee -a .openrefine/log.txt) 2>&1
-      - | # temporäres Zip-Archiv löschen
+      - | # delete temporary zip archive
         rm input/tmp.zip
-      - | # Datentransformation
+      - | # apply transformation rules
         for f in config/*.json; do
           .openrefine/client biejournals --apply "$f" > >(tee -a .openrefine/log.txt) 2>&1
         done
-      - | # Export in METS:MODS mit Templating
+      - | # templating export to METS:MODS
         .openrefine/client biejournals \
         --template "$(< config/template.txt)" \
         --rowSeparator '' \
-        --output "$(readlink -m output/biejournals.xml)" \
-        --splitToFiles true \
-        --suffixById true \
+        --output "$(readlink -m output/biejournals.txt)" \
         > >(tee -a .openrefine/log.txt) 2>&1
     ignore_error: true # workaround to avoid an orphaned Java process on error https://github.com/go-task/task/issues/141
 
   transform_stop:
     cmds:
       - | # kill OpenRefine gracefully and print stats
-        PID=$(lsof -t -i:3333)
+        PID="$(lsof -t -i:3333)"
         echo "used $(($(ps --no-headers -o rss -p "$PID") / 1024)) MB RAM" > >(tee -a .openrefine/log.txt) 2>&1
         echo "used $(ps --no-headers -o cputime -p "$PID") CPU time" > >(tee -a .openrefine/log.txt) 2>&1
         kill $PID; while ps -p $PID > /dev/null; do sleep 1; done
       - | # archive OpenRefine projects
-        for p in .openrefine/data/*/
-            do tar --exclude "${p:17:13}.openrefine.tar.gz" -czf .openrefine/data/"${p:17:13}.openrefine.tar.gz" -C $p .
+        for p in .openrefine/data/*.project/
+            do tar -czf .openrefine/data/"${p:17:13}.openrefine.tar.gz" -C $p .
         done
       - | # check log file
         if grep -i 'exception\|error' .openrefine/log.txt
           then echo 1>&2 "log contains warnings!"; echo; cat .openrefine/log.txt; exit 1
         fi
+
+  transform_split:
+    cmds:
+      - | # split into one file per record
+        (cd output &&
+        csplit -s -z biejournals.txt '/<mets:mets /' "{*}" &&
+        rm biejournals.txt)
+      - | # rename files
+        (cd output &&
+        for f in xx*
+            do mv "$f" "$(xmllint --xpath "//*[local-name(.) = 'recordIdentifier']/text()" "$f").xml"
+        done)
 
   validate:
     desc: check output and validate against METS schema
@@ -167,8 +178,8 @@ tasks:
           echo 1>&2 "This task needs xmllint"; exit 1
         fi
       - | # check results
-        minimum="2700"
-        count="$(find output -type f | wc -l)"
+        minimum="2800"
+        count="$(find output -name '*.xml' | wc -l)"
         if [ "$minimum" -le "$count" ]; then
           echo "Es wurden $count Datensätze generiert"
         else
