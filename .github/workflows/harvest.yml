@@ -12,14 +12,8 @@ jobs:
       run: |
         wget --no-verbose -O task.tar.gz https://github.com/go-task/task/releases/download/v3.2.2/task_linux_amd64.tar.gz
         sudo tar -xzf task.tar.gz -C /usr/local/bin task && rm task.tar.gz
-    - name: install metha 0.2.20
-      run: |
-        wget --no-verbose -O metha.deb https://github.com/miku/metha/releases/download/v0.2.20/metha_0.2.20_amd64.deb
-        sudo apt-get install -y ./metha.deb && rm metha.deb
-    - name: install xml_split
-      run: sudo apt-get install -y xml-twig-tools
-    - name: install xmllint
-      run: sudo apt-get install -y libxml2-utils
+    - name: install VuFindHarvest
+      run: task install_vufindharvest
     - name: task harvest
       run: task harvest
     - name: git commit and push

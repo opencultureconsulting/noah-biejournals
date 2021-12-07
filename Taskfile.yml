@@ -8,156 +8,174 @@ tasks:
     cmds:
       - task: harvest
       - task: transform
-      # TODO: validate
-
+      
   install:
-    desc: install OpenRefine and openrefine-client into subdirectory .openrefine
+    desc: install requirements into subdirectories
     cmds:
-      - mkdir -p .openrefine
-      - wget --no-verbose -O openrefine.tar.gz https://github.com/OpenRefine/OpenRefine/releases/harvest/3.4.1/openrefine-linux-3.4.1.tar.gz
-      - tar -xzf openrefine.tar.gz -C .openrefine --strip 1 && rm openrefine.tar.gz
-      # fix path issue in OpenRefine startup file
-      - sed -i 's/cd `dirname $0`/cd "$(dirname "$0")"/' ".openrefine/refine"
-      # do not try to open OpenRefine in browser
-      - sed -i '$ a JAVA_OPTIONS=-Drefine.headless=true' ".openrefine/refine.ini"
-      # set autosave period from 5 minutes to 25 hours
-      - sed -i 's/#REFINE_AUTOSAVE_PERIOD=60/REFINE_AUTOSAVE_PERIOD=1440/' ".openrefine/refine.ini"
-      - wget --no-verbose -O .openrefine/client https://github.com/opencultureconsulting/openrefine-client/releases/harvest/v0.3.10/openrefine-client_0-3-10_linux
-      - chmod +x .openrefine/client
+      - task: install_openrefine
+      - task: install_vufindharvest
+
+  install_openrefine:
+    cmds:
+      - | # install OpenRefine into subdirectory .openrefine
+        mkdir -p .openrefine
+        wget --no-verbose -O openrefine.tar.gz https://github.com/OpenRefine/OpenRefine/releases/download/3.5.0/openrefine-linux-3.5.0.tar.gz
+        tar -xzf openrefine.tar.gz -C .openrefine --strip 1 && rm openrefine.tar.gz
+      - | # fix path issue in OpenRefine startup file
+        sed -i 's/cd `dirname $0`/cd "$(dirname "$0")"/' ".openrefine/refine"
+      - | # do not try to open OpenRefine in browser
+        sed -i '$ a JAVA_OPTIONS=-Drefine.headless=true' ".openrefine/refine.ini"
+      - | # set autosave period from 5 minutes to 25 hours
+        sed -i 's/#REFINE_AUTOSAVE_PERIOD=60/REFINE_AUTOSAVE_PERIOD=1440/' ".openrefine/refine.ini"
+      - | # install openrefine-client into subdirectory .openrefine
+        wget --no-verbose -O .openrefine/client https://github.com/opencultureconsulting/openrefine-client/releases/download/v0.3.10/openrefine-client_0-3-10_linux
+        chmod +x .openrefine/client
+
+  install_vufindharvest:
+    cmds:
+      - | # requirement php
+        if [ -z "$(which php 2> /dev/null)" ]; then
+          echo 1>&2 "This task needs PHP 7.3+"; exit 1
+        fi
+      - | # requirement composer
+        if [ -z "$(which composer 2> /dev/null)" ]; then
+          echo 1>&2 "This task needs Composer https://getcomposer.org"; exit 1
+        fi
+      - | # install VuFindHarvest into subdirectory .vufindharvest
+        mkdir -p .vufindharvest
+        wget --no-verbose -O vufindharvest.zip https://github.com/vufind-org/vufindharvest/archive/v4.1.0.zip
+        unzip vufindharvest.zip && mv vufindharvest-*/* .vufindharvest && rm -r vufindharvest*
+        (cd .vufindharvest && composer install)
 
   harvest:
     desc: harvest all records from OAI-PMH
     cmds:
-      - | # requirement metha
-        if [ -z "$(which metha-sync 2> /dev/null)" ]; then
-          echo 1>&2 "This script needs metha https://github.com/miku/metha/"; exit 1
+      - | # requirement VuFindHarvest
+        if [ ! -f .vufindharvest/bin/harvest_oai.php ]; then
+          echo 1>&2 "VuFindHarvest missing; try task install_vufindharvest"; exit 1
         fi
-      - | # requirement xml_split
-        if [ -z "$(which xml_split 2> /dev/null)" ]; then
-          echo 1>&2 "This script needs xml_split (xml-twig)"; exit 1
-        fi
-      - | # requirement xmllint
-        if [ -z "$(which xmllint 2> /dev/null)" ]; then
-          echo 1>&2 "This script needs xmllint"; exit 1
-        fi
-      - mkdir -p input
-      - rm -rf input/*
-      # Harvesting aller Zeitschriften
-      - metha-sync --format oai_dc https://www.beratungundsupervision.de/index.php/fs/oai
-      - metha-cat --format oai_dc https://www.beratungundsupervision.de/index.php/fs/oai > input/fs
-      - metha-sync --format oai_dc https://www.biejournals.de/index.php/lgnrw/oai
-      - metha-cat --format oai_dc https://www.biejournals.de/index.php/lgnrw/oai > input/lgnrw
-      - metha-sync --format oai_dc https://www.biejournals.de/index.php/we_os/oai
-      - metha-cat --format oai_dc https://www.biejournals.de/index.php/we_os/oai > input/we_os
-      - metha-sync --format oai_dc https://www.biuz.de/index.php/biuz/oai
-      - metha-cat --format oai_dc https://www.biuz.de/index.php/biuz/oai > input/biuz
-      - metha-sync --format oai_dc https://www.bu-praktisch.de/index.php/bupraktisch/oai
-      - metha-cat --format oai_dc https://www.bu-praktisch.de/index.php/bupraktisch/oai > input/bu-praktisch
-      - metha-sync --format oai_dc https://www.dimawe.de/index.php/dimawe/oai
-      - metha-cat --format oai_dc https://www.dimawe.de/index.php/dimawe/oai > input/dimawe
-      - metha-sync --format oai_dc https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/oai
-      - metha-cat --format oai_dc https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/oai > input/hlz
-      - metha-sync --format oai_dc https://www.hochschule-und-weiterbildung.net/index.php/zhwb/oai
-      - metha-cat --format oai_dc https://www.hochschule-und-weiterbildung.net/index.php/zhwb/oai > input/zhwb
-      - metha-sync --format oai_dc https://www.ijcv.org/index.php/ijcv/oai
-      - metha-cat --format oai_dc https://www.ijcv.org/index.php/ijcv/oai > input/ijcv
-      - metha-sync --format oai_dc https://www.inter-disciplines.org/index.php/indi/oai
-      - metha-cat --format oai_dc https://www.inter-disciplines.org/index.php/indi/oai > input/indi
-      - metha-sync --format oai_dc https://www.izgonzeit.de/index.php/izgonzeit/oai
-      - metha-cat --format oai_dc https://www.izgonzeit.de/index.php/izgonzeit/oai > input/izgonzeit
-      - metha-sync --format oai_dc https://www.jsse.org/index.php/jsse/oai
-      - metha-cat --format oai_dc https://www.jsse.org/index.php/jsse/oai > input/jsse
-      - metha-sync --format oai_dc https://www.pflb-journal.de/index.php/pflb/oai
-      - metha-cat --format oai_dc https://www.pflb-journal.de/index.php/pflb/oai > input/pflb
-      - metha-sync --format oai_dc https://www.seejph.com/index.php/seejph/oai
-      - metha-cat --format oai_dc https://www.seejph.com/index.php/seejph/oai > input/seejph
-      - metha-sync --format oai_dc https://zdb.uni-bielefeld.de/index.php/zdb/oai
-      - metha-cat --format oai_dc https://zdb.uni-bielefeld.de/index.php/zdb/oai > input/zdb
-      - | # Aufteilen in Einzeldateien
+      - | # prepare workspace
+        mkdir -p input
+      - | # harvest all journals
+        (cd input && php ../.vufindharvest/bin/harvest_oai.php --ini ../config/harvest.ini)
+      - | # rename harvested files
         (cd input &&
-        for f in *; do
-          xml_split "$f"
-          rm "$f" "$f-00.xml"
-          mkdir -p "$f"
-          for p in $f-*; do
-            xmllint --format --encode utf-8 "$p" > "$f"/"$(xmllint --xpath "substring-after(/Record/header/identifier/text(), 'article/')" "$p").xml"
-            rm "$p"
-          done
+        find . -name '*_*.xml' |
+        while IFS= read -r path; do
+            f="${path##*/}"
+            d="${path%/*}"
+            n="${f%.*}"
+            mv -f "$path" "${d}/${n:11}.xml"
         done)
-      # Als gelöscht markierte Datensätze entfernen
-      - (cd input && grep -r -l '<header status="deleted">' * | xargs rm)
-      # TODO: check results
+      - | # handle deleted records
+        (cd input &&
+        find . -name '*.delete' |
+        while IFS= read -r path; do
+            f="${path##*/}"
+            d="${path%/*}"
+            n="${f%.*}"
+            rm -f "${d}/${n:11}.xml"
+            rm "$path"
+        done)
+      - | # check results
+        minimum="2750"
+        count="$(find input -name '*.xml' | wc -l)"
+        if [ "$minimum" -le "$count" ]; then
+          echo "Download enthält $count Datensätze"
+        else
+          echo 1>&2 "Anzahl der heruntergeladenen Datensätze (${count}) entspricht nicht der erwarteten Mindestanzahl (${minimum})! Bitte manuell prüfen."; exit 1
+        fi
 
   transform:
-    desc: transform data according to VuFind schema
+    desc: transform data to mets/mods xml
     cmds:
-      - task: start
-      - task: client
-      - task: stop
+      - task: transform_start
+      - task: transform_client
+      - task: transform_stop
+      - task: validate
     sources:
       - input/**
       - config/**
     generates:
       - output/**
 
-  client:
+  transform_start:
     cmds:
-      - mkdir -p output
-      - rm -rf output/*
-      # TODO: zip input
-      - | # import main file
+      - | # requirement OpenRefine
+        if [ ! -f .openrefine/refine ]; then
+          echo 1>&2 "OpenRefine missing; try task install_openrefine"; exit 1
+        fi
+      - | # delete temporary files of previous run
+        rm -rf .openrefine/data .openrefine/log.txt
+      - | # launch OpenRefine with specific data directory and redirect its output to a log file
+        .openrefine/refine -v warn -p 3333 -m 5120M -d data >> .openrefine/log.txt 2>&1 &
+      - | # wait until OpenRefine API is available
+        timeout 30s bash -c "until wget -q -O - -o /dev/null http://localhost:3333 | cat | grep -q -o OpenRefine; do sleep 1; done"
+
+  transform_client:
+    cmds:
+      - | # prepare workspace
+        mkdir -p output
+        rm -rf output/*
+      - | # Alle XML-Dateien in ein temporäres Zip-Archiv packen
+        (cd input && zip -r -q tmp.zip *)
+      - | # Import (erfordert absoluten Pfad zur XML-Datei)
         .openrefine/client \
-        --create "$(readlink -m input.zip)" \
+        --create "$(readlink -m input/tmp.zip)" \
         --format xml \
-        --recordPath Record \
+        --recordPath oai_dc:dc \
+        --storeEmptyStrings false --trimStrings true \
         --projectName biejournals \
         > >(tee -a .openrefine/log.txt) 2>&1
-      - | # apply transformation rules
-        for f in config/*.yaml; do
-          yq -o json eval "$f" > "$f".json
-          .openrefine/client biejournals --apply "$f.json" > >(tee -a .openrefine/log.txt) 2>&1
-          rm "$f.json"
+      - | # temporäres Zip-Archiv löschen
+        rm input/tmp.zip
+      - | # Datentransformation
+        for f in config/*.json; do
+          .openrefine/client biejournals --apply "$f" > >(tee -a .openrefine/log.txt) 2>&1
         done
-      - | # export to jsonl file
+      - | # Export in METS:MODS mit Templating
         .openrefine/client biejournals \
         --template "$(< config/template.txt)" \
         --rowSeparator '' \
-        --output "$(readlink -m output/biejournals.txt)" \
+        --output "$(readlink -m output/biejournals.xml)" \
+        --splitToFiles true \
+        --suffixById true \
         > >(tee -a .openrefine/log.txt) 2>&1
     ignore_error: true # workaround to avoid an orphaned Java process on error https://github.com/go-task/task/issues/141
 
-  start:
-    cmds:
-      - | # requirement yq
-        if [ -z "$(which yq 2> /dev/null)" ]; then
-          echo 1>&2 "This script needs yq https://github.com/mikefarah/yq/"; exit 1
-        fi
-      - | # requirement OpenRefine
-        if [ ! -f .openrefine/refine ]; then
-          echo 1>&2 "OpenRefine missing; try task install"; exit 1
-        fi
-      # delete temporary files of previous run
-      - rm -rf .openrefine/data .openrefine/log.txt
-      # launch OpenRefine with specific data directory and redirect its output to a log file
-      - .openrefine/refine -v warn -p 3333 -m 5120M -d data >> .openrefine/log.txt 2>&1 &
-      # wait until OpenRefine API is available
-      - timeout 30s bash -c "until wget -q -O - -o /dev/null http://localhost:3333 | cat | grep -q -o OpenRefine; do sleep 1; done"
-
-  stop:
+  transform_stop:
     cmds:
       - | # kill OpenRefine gracefully and print stats
         PID=$(lsof -t -i:3333)
         echo "used $(($(ps --no-headers -o rss -p "$PID") / 1024)) MB RAM" > >(tee -a .openrefine/log.txt) 2>&1
         echo "used $(ps --no-headers -o cputime -p "$PID") CPU time" > >(tee -a .openrefine/log.txt) 2>&1
         kill $PID; while ps -p $PID > /dev/null; do sleep 1; done
-      # archive OpenRefine projects
-      - for p in .openrefine/data/*/; do tar --exclude "${p:17:13}.openrefine.tar.gz" -czf .openrefine/data/"${p:17:13}.openrefine.tar.gz" -C $p .; done
-      # check log file
+      - | # archive OpenRefine projects
+        for p in .openrefine/data/*/
+            do tar --exclude "${p:17:13}.openrefine.tar.gz" -czf .openrefine/data/"${p:17:13}.openrefine.tar.gz" -C $p .
+        done
       - | # check log file
         if grep -i 'exception\|error' .openrefine/log.txt
           then echo 1>&2 "log contains warnings!"; echo; cat .openrefine/log.txt; exit 1
-          else echo "log seems to be ok"; echo; cat .openrefine/log.txt
         fi
+
+  validate:
+    desc: check output and validate against METS schema
+    cmds:
+      - | # requirement xmllint
+        if [ -z "$(which xmllint 2> /dev/null)" ]; then
+          echo 1>&2 "This task needs xmllint"; exit 1
+        fi
+      - | # check results
+        minimum="2700"
+        count="$(find output -type f | wc -l)"
+        if [ "$minimum" -le "$count" ]; then
+          echo "Es wurden $count Datensätze generiert"
+        else
+          echo 1>&2 "Anzahl der generierten Datensätze (${count}) entspricht nicht der erwarteten Mindestanzahl (${minimum})! Bitte manuell prüfen."
+        fi
+      - | # validate against METS schema
+        xmllint --schema config/mets.xsd --noout output/*.xml
 
   git:
     desc: commit and push if something changed

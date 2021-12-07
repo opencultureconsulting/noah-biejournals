@@ -1,0 +1,7 @@
+# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+tasks:
+  - name: install go-task, OpenRefine, openrefine-client and VuFindHarvest
+    init: |
+      wget --no-verbose -O task.tar.gz https://github.com/go-task/task/releases/download/v3.2.2/task_linux_amd64.tar.gz
+      sudo tar -xzf task.tar.gz -C /usr/local/bin task && rm task.tar.gz
+      task install

@@ -21,8 +21,10 @@ jobs:
     - uses: actions/upload-artifact@v2
       if: always()
       with:
-        name: OpenRefine project(s)
-        path: .openrefine/data/*.openrefine.tar.gz
+        name: OpenRefine project and logfile
+        path: |
+          .openrefine/data/*.openrefine.tar.gz
+          .openrefine/log.txt
         retention-days: 1
     - name: git commit and push
       run: |

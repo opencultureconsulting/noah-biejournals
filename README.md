@@ -6,10 +6,9 @@ Dieser Workflow harvestet die Daten des Zeitschriftenservers [BieJournals](https
 
 - GNU/Linux (getestet mit Fedora 32)
 - JAVA 8+ (für OpenRefine)
-- go-task 3.0.0+
-- [metha](https://github.com/miku/metha/) 0.20.0+
-- xml_split (xml-twig), xmllint
-- yq 4.10+
+- PHP 7.3+ und Composer (für VuFindHarvest)
+- [go-task](https://github.com/go-task/task) 3.0.0+
+- xmllint (libxml2)
 
 ## Workflow
 
