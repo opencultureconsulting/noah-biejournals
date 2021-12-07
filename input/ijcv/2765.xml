@@ -1,33 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/2765</identifier>
-    <datestamp>2020-07-01T11:49:18Z</datestamp>
-    <setSpec>ijcv:FOC</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Anomic Crime in Post-Welfarist Societies: Cult of the Individual, Integration Patterns and Delinquency</dc:title>
-      <dc:creator>Frerichs, Sabine</dc:creator>
-      <dc:creator>Münch, Richard</dc:creator>
-      <dc:creator>Sander, Monika</dc:creator>
-      <dc:description xml:lang="en-US">Post-Fordist economies come along with post-welfarist societies marked by intensified cultural individualism and increased structural inequalities. These conditions are commonly held to be conducive to relative deprivation and, thereby, anomic crime. At the same time, post-welfarist societies develop a new “balance of power” between institutions providing for welfare regulation, such as the family, the state and the (labour) market—and also the penal system. These institutions are generally expected to improve social integration, ensure conformity and thus reduce anomic crime.
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>2765</id>
+	<dc:title xml:lang="en-US">Anomic Crime in Post-Welfarist Societies: Cult of the Individual, Integration Patterns and Delinquency</dc:title>
+	<dc:creator>Frerichs, Sabine</dc:creator>
+	<dc:creator>Münch, Richard</dc:creator>
+	<dc:creator>Sander, Monika</dc:creator>
+	<dc:description xml:lang="en-US">Post-Fordist economies come along with post-welfarist societies marked by intensified cultural individualism and increased structural inequalities. These conditions are commonly held to be conducive to relative deprivation and, thereby, anomic crime. At the same time, post-welfarist societies develop a new “balance of power” between institutions providing for welfare regulation, such as the family, the state and the (labour) market—and also the penal system. These institutions are generally expected to improve social integration, ensure conformity and thus reduce anomic crime.
 Combining both perspectives, we analyse the effects of moral individualism, social inequality, and different integration strategies on crime rates in contemporary societies through the lenses of anomie theory. To test our hypotheses, we draw on time-series cross-section data compiled from different data sources (OECD, UN, WHO, WDI) for twenty developed countries in the period 1970–2004, and run multiple regressions that control for country-specific effects. Although we find some evidence that the mismatch between cultural ideal (individual inclusion) and structural reality (stratified exclusion) increases the anomic pressure, whereas conservative (family-based), social-democratic (state-based) and liberal (market-based) integration strategies to a certain extent prove effective in controlling the incidence of crime, the results are not very robust. Moreover, reservations have to be made regarding the effects of “market” income inequality as well as familialist, unionist and liberalist employment policies that are shown to have reversed effects in our sample: the former reducing, the latter occasionally increasing anomic crime.</dc:description>
-      <dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
-      <dc:date>2008-11-02</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/2765</dc:identifier>
-      <dc:identifier>10.4119/ijcv-2765</dc:identifier>
-      <dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 2 Nr. 2 (2008); 194-214</dc:source>
-      <dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 2 No. 2 (2008); 194-214</dc:source>
-      <dc:source>1864-1385</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/2765/3643</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+	<dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
+	<dc:date>2008-11-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/2765</dc:identifier>
+	<dc:identifier>10.4119/ijcv-2765</dc:identifier>
+	<dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 2 Nr. 2 (2008); 194-214</dc:source>
+	<dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 2 No. 2 (2008); 194-214</dc:source>
+	<dc:source>1864-1385</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/2765/3643</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
+</oai_dc:dc>

@@ -1,46 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3284</identifier>
-    <datestamp>2021-02-12T17:37:32Z</datestamp>
-    <setSpec>dimawe:ZNM</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Schüler*innen wiederholen selbstständig lineare Funktionen: Binnendifferenzierung im Mathematikunterricht durch gestufte Lernhilfen</dc:title>
-      <dc:creator>Hamers, Philipp</dc:creator>
-      <dc:creator>Bekel-Kastrup, Holger</dc:creator>
-      <dc:creator>Kleinert, Svea Isabel</dc:creator>
-      <dc:creator>Tegtmeier, Nina</dc:creator>
-      <dc:creator>Wilde, Matthias</dc:creator>
-      <dc:subject xml:lang="de-DE">Binnendifferenzierung</dc:subject>
-      <dc:subject xml:lang="de-DE">Mathematikunterricht</dc:subject>
-      <dc:subject xml:lang="de-DE">Lehrer*innenbildung</dc:subject>
-      <dc:subject xml:lang="de-DE">gestufte Lernhilfen</dc:subject>
-      <dc:subject xml:lang="de-DE">lineare Funktionen</dc:subject>
-      <dc:subject xml:lang="de-DE">Geraden</dc:subject>
-      <dc:subject xml:lang="de-DE">Steigungsdreieck</dc:subject>
-      <dc:subject xml:lang="de-DE">Differenzenquotient</dc:subject>
-      <dc:description xml:lang="de-DE">In dem Forschungsprojekt „Bielefelder Binnendifferenzierung in den MINT-Fächern“ (BiBi-MINT) am Oberstufen-Kolleg Bielefeld zur Verzahnung von Mathematikunterricht und Naturwissenschaftsunterricht mit gleichzeitiger Binnendifferenzierung sind unter anderem zwei gestufte Lernhilfen zur Wiederholung linearer Funktionen entstanden und evaluiert worden. Sie sind dazu geeignet, dass Schüler*innen eigenverantwortlich lineare Funktionen wiederholen und vertiefen und können ebenfalls als exemplarisches Beispiel in der Lehrer*innenbildung dienen.</dc:description>
-      <dc:publisher xml:lang="de-DE">Universität Bielefeld - Wissenschaftliche Einrichtung Oberstufen-Kolleg &amp; Bielefeld School of Education</dc:publisher>
-      <dc:date>2020-02-11</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:format>application/pdf</dc:format>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.dimawe.de/index.php/dimawe/article/view/3284</dc:identifier>
-      <dc:identifier>10.4119/dimawe-3284</dc:identifier>
-      <dc:source xml:lang="de-DE">Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.; Bd. 2 Nr. 1 (2020): Die Materialwerkstatt - Ausgabe 2; 17-22</dc:source>
-      <dc:source xml:lang="en-US">Die Materialwerkstatt; Vol. 2 No. 1 (2020): Die Materialwerkstatt - Ausgabe 2; 17-22</dc:source>
-      <dc:source>2629-5598</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.dimawe.de/index.php/dimawe/article/view/3284/3436</dc:relation>
-      <dc:relation>https://www.dimawe.de/index.php/dimawe/article/view/3284/3444</dc:relation>
-      <dc:relation>https://www.dimawe.de/index.php/dimawe/article/view/3284/3445</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2020 Philipp Hamers, Holger Bekel-Kastrup, Svea Isabel Kleinert, Nina Tegtmeier, Matthias Wilde</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3284</id>
+	<dc:title xml:lang="de-DE">Schüler*innen wiederholen selbstständig lineare Funktionen: Binnendifferenzierung im Mathematikunterricht durch gestufte Lernhilfen</dc:title>
+	<dc:creator>Hamers, Philipp</dc:creator>
+	<dc:creator>Bekel-Kastrup, Holger</dc:creator>
+	<dc:creator>Kleinert, Svea Isabel</dc:creator>
+	<dc:creator>Tegtmeier, Nina</dc:creator>
+	<dc:creator>Wilde, Matthias</dc:creator>
+	<dc:subject xml:lang="de-DE">Binnendifferenzierung</dc:subject>
+	<dc:subject xml:lang="de-DE">Mathematikunterricht</dc:subject>
+	<dc:subject xml:lang="de-DE">Lehrer*innenbildung</dc:subject>
+	<dc:subject xml:lang="de-DE">gestufte Lernhilfen</dc:subject>
+	<dc:subject xml:lang="de-DE">lineare Funktionen</dc:subject>
+	<dc:subject xml:lang="de-DE">Geraden</dc:subject>
+	<dc:subject xml:lang="de-DE">Differenzenquotient</dc:subject>
+	<dc:subject xml:lang="de-DE">Steigerungsdreieck</dc:subject>
+	<dc:description xml:lang="de-DE">In dem Forschungsprojekt „Bielefelder Binnendifferenzierung in den MINT-Fächern“ (BiBi-MINT) am Oberstufen-Kolleg Bielefeld zur Verzahnung von Mathematikunterricht und Naturwissenschaftsunterricht mit gleichzeitiger Binnendifferenzierung sind unter anderem zwei gestufte Lernhilfen zur Wiederholung linearer Funktionen entstanden und evaluiert worden. Sie sind dazu geeignet, dass Schüler*innen eigenverantwortlich lineare Funktionen wiederholen und vertiefen und können ebenfalls als exemplarisches Beispiel in der Lehrer*innenbildung dienen.</dc:description>
+	<dc:publisher xml:lang="de-DE">Universität Bielefeld - Wissenschaftliche Einrichtung Oberstufen-Kolleg &amp; Bielefeld School of Education</dc:publisher>
+	<dc:date>2020-02-11</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.dimawe.de/index.php/dimawe/article/view/3284</dc:identifier>
+	<dc:identifier>10.4119/dimawe-3284</dc:identifier>
+	<dc:source xml:lang="de-DE">Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.; Bd. 2 Nr. 1 (2020): Die Materialwerkstatt - Ausgabe 2; 17-22</dc:source>
+	<dc:source xml:lang="en-US">Die Materialwerkstatt; Vol. 2 No. 1 (2020): Die Materialwerkstatt - Ausgabe 2; 17-22</dc:source>
+	<dc:source>2629-5598</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.dimawe.de/index.php/dimawe/article/view/3284/3436</dc:relation>
+	<dc:relation>https://www.dimawe.de/index.php/dimawe/article/view/3284/3444</dc:relation>
+	<dc:relation>https://www.dimawe.de/index.php/dimawe/article/view/3284/3445</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2020 Philipp Hamers, Holger Bekel-Kastrup, Svea Isabel Kleinert, Nina Tegtmeier, Matthias Wilde</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

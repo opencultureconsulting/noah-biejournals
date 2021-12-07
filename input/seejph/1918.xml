@@ -1,30 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/1918</identifier>
-    <datestamp>2020-07-01T14:37:07Z</datestamp>
-    <setSpec>seejph:BOK</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Biographical Lexicon of Public Health</dc:title>
-      <dc:creator>Masic, Izet</dc:creator>
-      <dc:description xml:lang="en-US">Read page 1-122 for free</dc:description>
-      <dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
-      <dc:date>2017-11-06</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.seejph.com/index.php/seejph/article/view/1918</dc:identifier>
-      <dc:identifier>10.4119/seejph-1918</dc:identifier>
-      <dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Books</dc:source>
-      <dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Books</dc:source>
-      <dc:source>2197-5248</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.seejph.com/index.php/seejph/article/view/1918/1853</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2017 Izet Masic</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>1918</id>
+	<dc:title xml:lang="en-US">Biographical Lexicon of Public Health</dc:title>
+	<dc:creator>Masic, Izet</dc:creator>
+	<dc:description xml:lang="en-US">Read page 1-122 for free</dc:description>
+	<dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
+	<dc:date>2017-11-06</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.seejph.com/index.php/seejph/article/view/1918</dc:identifier>
+	<dc:identifier>10.4119/seejph-1918</dc:identifier>
+	<dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Books</dc:source>
+	<dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Books</dc:source>
+	<dc:source>2197-5248</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.seejph.com/index.php/seejph/article/view/1918/1853</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2017 Izet Masic</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

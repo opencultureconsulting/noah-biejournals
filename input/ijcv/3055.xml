@@ -1,35 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3055</identifier>
-    <datestamp>2020-07-01T11:49:12Z</datestamp>
-    <setSpec>ijcv:F18</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Cointegration and Error Correction Modelling in Time-Series Analysis: A Brief Introduction</dc:title>
-      <dc:creator>Thome, Helmut</dc:creator>
-      <dc:description xml:lang="en-US">Criminological research is often based on time-series data showing some type of trend movement. Trending time-series may correlate strongly even in cases where no causal relationship exists (spurious causality). To avoid this problem researchers often apply some technique of detrending their data, such as by differencing the series. This approach, however, may bring up another problem: that of spurious non-causality. Both problems can, in principle, be avoided if the series under investigation are “difference-stationary” (if the trend movements are stochastic) and “cointegrated” (if the stochastically changing trendmovements in different variables correspond to each other). The article gives a brief introduction to key instruments and interpretative tools applied in cointegration modelling.</dc:description>
-      <dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
-      <dc:date>2015-06-22</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:type xml:lang="en-US">introductory essay</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:format>application/epub+zip</dc:format>
-      <dc:format>application/octet-stream</dc:format>
-      <dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/3055</dc:identifier>
-      <dc:identifier>10.4119/ijcv-3055</dc:identifier>
-      <dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 8 Nr. 2 (2014); 199-208</dc:source>
-      <dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 8 No. 2 (2014); 199-208</dc:source>
-      <dc:source>1864-1385</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3055/pdf_115</dc:relation>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3055/_14</dc:relation>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3055/_15</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3055</id>
+	<dc:title xml:lang="en-US">Cointegration and Error Correction Modelling in Time-Series Analysis: A Brief Introduction</dc:title>
+	<dc:creator>Thome, Helmut</dc:creator>
+	<dc:description xml:lang="en-US">Criminological research is often based on time-series data showing some type of trend movement. Trending time-series may correlate strongly even in cases where no causal relationship exists (spurious causality). To avoid this problem researchers often apply some technique of detrending their data, such as by differencing the series. This approach, however, may bring up another problem: that of spurious non-causality. Both problems can, in principle, be avoided if the series under investigation are “difference-stationary” (if the trend movements are stochastic) and “cointegrated” (if the stochastically changing trendmovements in different variables correspond to each other). The article gives a brief introduction to key instruments and interpretative tools applied in cointegration modelling.</dc:description>
+	<dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
+	<dc:date>2015-06-22</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">introductory essay</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/epub+zip</dc:format>
+	<dc:format>application/octet-stream</dc:format>
+	<dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/3055</dc:identifier>
+	<dc:identifier>10.4119/ijcv-3055</dc:identifier>
+	<dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 8 Nr. 2 (2014); 199-208</dc:source>
+	<dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 8 No. 2 (2014); 199-208</dc:source>
+	<dc:source>1864-1385</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3055/pdf_115</dc:relation>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3055/_14</dc:relation>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3055/_15</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
+</oai_dc:dc>

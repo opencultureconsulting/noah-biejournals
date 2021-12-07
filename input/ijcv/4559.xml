@@ -1,38 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4559</identifier>
-    <datestamp>2021-07-06T12:39:29Z</datestamp>
-    <setSpec>ijcv:OPE</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Change in Juvenile Offending Versatility Predicted by Individual, Familial, and Environmental Risks</dc:title>
-      <dc:creator>Wallner, Susanne</dc:creator>
-      <dc:creator>Thomas, Hoben</dc:creator>
-      <dc:creator>Stemmler, Mark</dc:creator>
-      <dc:subject xml:lang="en-US">juvenile delinquency</dc:subject>
-      <dc:subject xml:lang="en-US">developmental risks</dc:subject>
-      <dc:subject xml:lang="en-US">longitudinal research</dc:subject>
-      <dc:subject xml:lang="en-US">developmental criminology</dc:subject>
-      <dc:subject xml:lang="en-US">regression mixture models</dc:subject>
-      <dc:description xml:lang="en-US">Developmental and life-course criminology elucidate the developmental course and change of antisociality over time, considering that longitudinal trajectories differ. Specific relations between risks and different antisociality outcomes are emphasized. We assume that adolescents have different longitudinal trajectories considering the change of offending over time and that risks contribute variably to offending pathways. The current study is based on a German research project in which adolescents (N = 577) were interviewed in two German cities. Based on self-reported crime data, we utilized the slope values of offending versatility (OV) over time as outcome values in regression mixture models capturing the trends for participants over age and exhibiting two components of offending adolescents. We explored the contribution of different risks to OV, defining specific risk patterns: Acceptance of violence and peer delinquency have significant negative effects on the emergence of OV within the group of adolescents with decreasing OV. Acceptance of violence has a significant negative effect, and corporal punishment has a significant positive effect on the emergence of OV within the group of adolescents with increasing or rather stable OV. The results underline the relevance of the violence-related risk factor corporal punishment for the emergence of OV within the last-mentioned group. 
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4559</id>
+	<dc:title xml:lang="en-US">Change in Juvenile Offending Versatility Predicted by Individual, Familial, and Environmental Risks</dc:title>
+	<dc:creator>Wallner, Susanne</dc:creator>
+	<dc:creator>Thomas, Hoben</dc:creator>
+	<dc:creator>Stemmler, Mark</dc:creator>
+	<dc:subject xml:lang="en-US">juvenile delinquency</dc:subject>
+	<dc:subject xml:lang="en-US">developmental risks</dc:subject>
+	<dc:subject xml:lang="en-US">longitudinal research</dc:subject>
+	<dc:subject xml:lang="en-US">developmental criminology</dc:subject>
+	<dc:subject xml:lang="en-US">regression mixture models</dc:subject>
+	<dc:description xml:lang="en-US">Developmental and life-course criminology elucidate the developmental course and change of antisociality over time, considering that longitudinal trajectories differ. Specific relations between risks and different antisociality outcomes are emphasized. We assume that adolescents have different longitudinal trajectories considering the change of offending over time and that risks contribute variably to offending pathways. The current study is based on a German research project in which adolescents (N = 577) were interviewed in two German cities. Based on self-reported crime data, we utilized the slope values of offending versatility (OV) over time as outcome values in regression mixture models capturing the trends for participants over age and exhibiting two components of offending adolescents. We explored the contribution of different risks to OV, defining specific risk patterns: Acceptance of violence and peer delinquency have significant negative effects on the emergence of OV within the group of adolescents with decreasing OV. Acceptance of violence has a significant negative effect, and corporal punishment has a significant positive effect on the emergence of OV within the group of adolescents with increasing or rather stable OV. The results underline the relevance of the violence-related risk factor corporal punishment for the emergence of OV within the last-mentioned group. 
  </dc:description>
-      <dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
-      <dc:date>2021-08-16</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/4559</dc:identifier>
-      <dc:identifier>10.11576/ijcv-4559</dc:identifier>
-      <dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 15 (2021)</dc:source>
-      <dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 15 (2021)</dc:source>
-      <dc:source>1864-1385</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/4559/4402</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2021 Susanne Wallner, Hoben Thomas, Mark Stemmler</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+	<dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
+	<dc:date>2021-08-16</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/4559</dc:identifier>
+	<dc:identifier>10.11576/ijcv-4559</dc:identifier>
+	<dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 15 (2021)</dc:source>
+	<dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 15 (2021)</dc:source>
+	<dc:source>1864-1385</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/4559/4402</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2021 Susanne Wallner, Hoben Thomas, Mark Stemmler</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
+</oai_dc:dc>

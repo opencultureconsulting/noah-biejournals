@@ -1,36 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3056</identifier>
-    <datestamp>2020-07-01T11:49:13Z</datestamp>
-    <setSpec>ijcv:F18</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Models for Pooled Time-Series Cross-Section Data</dc:title>
-      <dc:creator>Raffalovich, Lawrence E</dc:creator>
-      <dc:creator>Chung, Rakkoo</dc:creator>
-      <dc:description xml:lang="en-US">Several models are available for the analysis of pooled time-series cross-section (TSCS) data, defined as “repeated observations on fixed units” (Beck and Katz 1995). In this paper, we run the following models: (1) a completely pooled model, (2) fixed effects models, and (3) multi-level/hierarchical linear models. To illustrate these models, we use a Generalized Least Squares (GLS) estimator with cross-section weights and panel-corrected standard errors (with EViews 8) on the cross-national homicide trends data of forty countries from 1950 to 2005, which we source from published research (Messner et al. 2011). We describe and discuss the similarities and differences between the models, and what information each can contribute to help answer substantive research questions. We conclude with a discussion of how the models we present may help to mitigate validity threats inherent in pooled time-series cross-section data analysis.</dc:description>
-      <dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
-      <dc:date>2015-05-28</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:type xml:lang="en-US">Secondary data analysis; cross-section time-series data analysis</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:format>application/epub+zip</dc:format>
-      <dc:format>application/octet-stream</dc:format>
-      <dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/3056</dc:identifier>
-      <dc:identifier>10.4119/ijcv-3056</dc:identifier>
-      <dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 8 Nr. 2 (2014); 209-221</dc:source>
-      <dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 8 No. 2 (2014); 209-221</dc:source>
-      <dc:source>1864-1385</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3056/pdf_118</dc:relation>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3056/_12</dc:relation>
-      <dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3056/_13</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3056</id>
+	<dc:title xml:lang="en-US">Models for Pooled Time-Series Cross-Section Data</dc:title>
+	<dc:creator>Raffalovich, Lawrence E</dc:creator>
+	<dc:creator>Chung, Rakkoo</dc:creator>
+	<dc:description xml:lang="en-US">Several models are available for the analysis of pooled time-series cross-section (TSCS) data, defined as “repeated observations on fixed units” (Beck and Katz 1995). In this paper, we run the following models: (1) a completely pooled model, (2) fixed effects models, and (3) multi-level/hierarchical linear models. To illustrate these models, we use a Generalized Least Squares (GLS) estimator with cross-section weights and panel-corrected standard errors (with EViews 8) on the cross-national homicide trends data of forty countries from 1950 to 2005, which we source from published research (Messner et al. 2011). We describe and discuss the similarities and differences between the models, and what information each can contribute to help answer substantive research questions. We conclude with a discussion of how the models we present may help to mitigate validity threats inherent in pooled time-series cross-section data analysis.</dc:description>
+	<dc:publisher xml:lang="en-US">Institute for Interdisciplinary Conflict and Violence Research, Bielefeld University</dc:publisher>
+	<dc:date>2015-05-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Secondary data analysis; cross-section time-series data analysis</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/epub+zip</dc:format>
+	<dc:format>application/octet-stream</dc:format>
+	<dc:identifier>https://www.ijcv.org/index.php/ijcv/article/view/3056</dc:identifier>
+	<dc:identifier>10.4119/ijcv-3056</dc:identifier>
+	<dc:source xml:lang="de-DE">International Journal of Conflict and Violence (IJCV); Bd. 8 Nr. 2 (2014); 209-221</dc:source>
+	<dc:source xml:lang="en-US">International Journal of Conflict and Violence (IJCV); Vol. 8 No. 2 (2014); 209-221</dc:source>
+	<dc:source>1864-1385</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3056/pdf_118</dc:relation>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3056/_12</dc:relation>
+	<dc:relation>https://www.ijcv.org/index.php/ijcv/article/view/3056/_13</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2015 International Journal of Conflict and Violence</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-nd/4.0</dc:rights>
+</oai_dc:dc>

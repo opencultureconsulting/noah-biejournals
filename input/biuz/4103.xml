@@ -1,45 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4103</identifier>
-    <datestamp>2021-03-10T13:57:14Z</datestamp>
-    <setSpec>biuz:HA</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Klimaschutz mit Wald: Speicherung von Kohlenstoff im Ökosystem und Substitution fossiler Brennstoffe</dc:title>
-      <dc:title xml:lang="en-US">Climate mitigation by forests:  </dc:title>
-      <dc:creator>Schulze, Ernst-Detlef</dc:creator>
-      <dc:creator>Rock, Joachim</dc:creator>
-      <dc:creator>Kroiher, Franz</dc:creator>
-      <dc:creator>Egenolf, Vincent</dc:creator>
-      <dc:creator>Wellbrock, Nicole</dc:creator>
-      <dc:creator>Irslinger, Roland</dc:creator>
-      <dc:creator>Bolte, Andreas</dc:creator>
-      <dc:creator>Spellmann, Hermann </dc:creator>
-      <dc:subject xml:lang="de-DE">Produktsubstitution</dc:subject>
-      <dc:subject xml:lang="de-DE">Energiesubstitution</dc:subject>
-      <dc:subject xml:lang="de-DE">Kohlenstoffspeicherung</dc:subject>
-      <dc:subject xml:lang="de-DE">Anrechnung von Emissionen</dc:subject>
-      <dc:subject xml:lang="de-DE">Klimawirksamkeit</dc:subject>
-      <dc:description xml:lang="de-DE">Optionen für den Beitrag des Waldes zum Klimaschutz verfolgen den Weg des Holzes vom Wald bis zur energetischen Verwertung. Nachhaltig bewirtschafteter Wald kann mit der Bereitstellung von Holz 6 bis 8 Tonnen CO2 ha–1 Jahr–1 Emissionen aus fossilen Brennstoffen vermeiden, während nicht bewirtschafteter Wald durch die Speicherung von Kohlenstoff im Ökosystem Emissionen aus fossilen Brennstoffen kompensiert, aber keine fossilen Brennstoffe einspart.</dc:description>
-      <dc:description xml:lang="en-US">This is an overview of options by which forest management contributes to the mitigation of climate change effects. We follow the wood from harvest to its final energy use. By supply of wood, forest management can substitute 6 to 8 tons CO2 ha–1 yr–1 of fossil fuel emissions while under non-management conditions storage of carbon compensates fossil fuel emissions without reducing fossil fuel use.</dc:description>
-      <dc:publisher xml:lang="de-DE">VBiO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
-      <dc:date>2021-02-18</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4103</dc:identifier>
-      <dc:identifier>10.11576/biuz-4103</dc:identifier>
-      <dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 46-54</dc:source>
-      <dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 46-54</dc:source>
-      <dc:source>1521-415X</dc:source>
-      <dc:source>0045-205X</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.biuz.de/index.php/biuz/article/view/4103/4099</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2021 Prof. emeritus Dr. Dr. h. c. Ernst-Detlef Schulze, Dr. Joachim Rock, Franz Kroiher, Vincent Egenolf, Dr. Nicole Wellbrock, Prof. a. D. Roland Irslinger, Prof. Dr. Andreas Bolte, Prof. Dr. Hermann Spellmann</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4103</id>
+	<dc:title xml:lang="de-DE">Klimaschutz mit Wald: Speicherung von Kohlenstoff im Ökosystem und Substitution fossiler Brennstoffe</dc:title>
+	<dc:title xml:lang="en-US">Climate mitigation by forests:  </dc:title>
+	<dc:creator>Schulze, Ernst-Detlef</dc:creator>
+	<dc:creator>Rock, Joachim</dc:creator>
+	<dc:creator>Kroiher, Franz</dc:creator>
+	<dc:creator>Egenolf, Vincent</dc:creator>
+	<dc:creator>Wellbrock, Nicole</dc:creator>
+	<dc:creator>Irslinger, Roland</dc:creator>
+	<dc:creator>Bolte, Andreas</dc:creator>
+	<dc:creator>Spellmann, Hermann </dc:creator>
+	<dc:subject xml:lang="de-DE">Produktsubstitution</dc:subject>
+	<dc:subject xml:lang="de-DE">Energiesubstitution</dc:subject>
+	<dc:subject xml:lang="de-DE">Kohlenstoffspeicherung</dc:subject>
+	<dc:subject xml:lang="de-DE">Anrechnung von Emissionen</dc:subject>
+	<dc:subject xml:lang="de-DE">Klimawirksamkeit</dc:subject>
+	<dc:description xml:lang="de-DE">Optionen für den Beitrag des Waldes zum Klimaschutz verfolgen den Weg des Holzes vom Wald bis zur energetischen Verwertung. Nachhaltig bewirtschafteter Wald kann mit der Bereitstellung von Holz 6 bis 8 Tonnen CO2 ha–1 Jahr–1 Emissionen aus fossilen Brennstoffen vermeiden, während nicht bewirtschafteter Wald durch die Speicherung von Kohlenstoff im Ökosystem Emissionen aus fossilen Brennstoffen kompensiert, aber keine fossilen Brennstoffe einspart.</dc:description>
+	<dc:description xml:lang="en-US">This is an overview of options by which forest management contributes to the mitigation of climate change effects. We follow the wood from harvest to its final energy use. By supply of wood, forest management can substitute 6 to 8 tons CO2 ha–1 yr–1 of fossil fuel emissions while under non-management conditions storage of carbon compensates fossil fuel emissions without reducing fossil fuel use.</dc:description>
+	<dc:publisher xml:lang="de-DE">VBIO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
+	<dc:date>2021-02-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4103</dc:identifier>
+	<dc:identifier>10.11576/biuz-4103</dc:identifier>
+	<dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 46-54</dc:source>
+	<dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 46-54</dc:source>
+	<dc:source>1521-415X</dc:source>
+	<dc:source>0045-205X</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.biuz.de/index.php/biuz/article/view/4103/4099</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2021 Prof. emeritus Dr. Dr. h. c. Ernst-Detlef Schulze, Dr. Joachim Rock, Franz Kroiher, Vincent Egenolf, Dr. Nicole Wellbrock, Prof. a. D. Roland Irslinger, Prof. Dr. Andreas Bolte, Prof. Dr. Hermann Spellmann</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

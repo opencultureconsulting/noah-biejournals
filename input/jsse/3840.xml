@@ -1,31 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3840</identifier>
-    <datestamp>2020-12-20T09:07:08Z</datestamp>
-    <setSpec>jsse:REV</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Book Review: Helmuth Hartmeyer, H. &amp; Wegimont, L. (ed.). (2016). Global Education in Europe Revisited. Strategies and Structures - Policy, Practice and Challenges</dc:title>
-      <dc:creator>Affolderbach, Martin</dc:creator>
-      <dc:subject xml:lang="en-US">Global Education in Europe</dc:subject>
-      <dc:publisher xml:lang="en-US">sowi-online e.V., Bielefeld, Germany</dc:publisher>
-      <dc:date>2020-12-18</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:type xml:lang="en-US">Text</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.jsse.org/index.php/jsse/article/view/3840</dc:identifier>
-      <dc:identifier>10.4119/jsse-3840</dc:identifier>
-      <dc:source xml:lang="de-DE">JSSE - Journal of Social Science Education; Bd. 19 Nr. 4 (2020): Global education at crossroads</dc:source>
-      <dc:source xml:lang="en-US">JSSE - Journal of Social Science Education; Vol. 19 No. 4 (2020): Global education at crossroads</dc:source>
-      <dc:source>1618-5293</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.jsse.org/index.php/jsse/article/view/3840/3999</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2020 JSSE - Journal of Social Science Education</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3840</id>
+	<dc:title xml:lang="en-US">Book Review: Helmuth Hartmeyer, H. &amp; Wegimont, L. (ed.). (2016). Global Education in Europe Revisited. Strategies and Structures - Policy, Practice and Challenges</dc:title>
+	<dc:creator>Affolderbach, Martin</dc:creator>
+	<dc:subject xml:lang="en-US">Global Education in Europe</dc:subject>
+	<dc:publisher xml:lang="en-US">sowi-online e.V., Bielefeld, Germany</dc:publisher>
+	<dc:date>2020-12-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">Text</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.jsse.org/index.php/jsse/article/view/3840</dc:identifier>
+	<dc:identifier>10.4119/jsse-3840</dc:identifier>
+	<dc:source xml:lang="de-DE">JSSE - Journal of Social Science Education; Bd. 19 Nr. 4 (2020): Global education at crossroads</dc:source>
+	<dc:source xml:lang="en-US">JSSE - Journal of Social Science Education; Vol. 19 No. 4 (2020): Global education at crossroads</dc:source>
+	<dc:source>1618-5293</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.jsse.org/index.php/jsse/article/view/3840/3999</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2020 JSSE - Journal of Social Science Education</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

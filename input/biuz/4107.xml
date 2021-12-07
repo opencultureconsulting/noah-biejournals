@@ -1,45 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4107</identifier>
-    <datestamp>2021-03-10T13:57:14Z</datestamp>
-    <setSpec>biuz:HA</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Naturschutz und Klimawandel im Leipziger Auwald: Ein Biodiversitätshotspot an der Belastungsgrenze</dc:title>
-      <dc:title xml:lang="en-US">Biodiversity conservation and climate change in the floodplain forest of Leipzig:  </dc:title>
-      <dc:creator>Wirth, Christian</dc:creator>
-      <dc:creator>Engelmann, Rolf A.</dc:creator>
-      <dc:creator>Haack, Nora</dc:creator>
-      <dc:creator>Hartmann, Henrik</dc:creator>
-      <dc:creator>Richter, Ronny</dc:creator>
-      <dc:creator>Schnabel, Florian</dc:creator>
-      <dc:creator>Scholz, Mathias</dc:creator>
-      <dc:creator>Seele-Dilbat, Carolin</dc:creator>
-      <dc:subject xml:lang="de-DE">Hartholzauenwald</dc:subject>
-      <dc:subject xml:lang="de-DE">Naturschutz</dc:subject>
-      <dc:subject xml:lang="de-DE">Artenschutz</dc:subject>
-      <dc:subject xml:lang="de-DE">Klimawandel</dc:subject>
-      <dc:subject xml:lang="de-DE">Trockenheit</dc:subject>
-      <dc:description xml:lang="de-DE">Der Leipziger Auwald ist ein streng geschützter Hartholzauenwald mit einer hohen und spezifischen Biodiversität. Diese verdankt er seiner langen Habitattradition, seinem Baumartenreichtum und seiner Nutzungsgeschichte. Flussregulierung und Deichbau in den 1930er Jahren haben das Gebiet entwässert und die notwendigen Überflutungen unterbunden. Das hat die Struktur und die Artenzusammensetzung des Waldes stark verändert. Standortfremde Ahornarten sind auf dem Vormarsch, wodurch sich die Stieleiche nicht mehr verjüngt. Die extremen Trockenjahre 2018 und 2019 haben zu einem großflächigen Absterben vor allem der Esche geführt. Ökophysiologische Untersuchungen und Jahrringanalysen zeigen, dass die Stressbelastung in 2019 stark anstieg und das System an seine Belastungsgrenze geführt hat. Um den Hartholzauenwald zu retten, soll nun eine natürliche Überflutungs- und Grundwasserdynamik wiederhergestellt werden.</dc:description>
-      <dc:description xml:lang="en-US">The floodplain forest of Leipzig is strictly protected because of its high and unique biodiversity. This exists because of its continuous forest cover, its high richness of tree species and its management history. The river regulation in the 1930s has drained the forest and has prevented flooding which has strongly altered the structure and tree species composition of the forest. Shade-casting maple species, that were historically rare, are gaining dominance which suppresses the natural regeneration of pedunculate oak. The extreme drought years of 2018 and 2019 have led to a large-scale mortality, in particular of Common ash. Eco-physiological investigations and tree ring analyses show that the stress level in 2019 rose strongly and has pushed the system to its limits. To save the unique forest, revitalisation measures that restore the hydrological dynamics of the floodplain are planned.</dc:description>
-      <dc:publisher xml:lang="de-DE">VBiO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
-      <dc:date>2021-02-18</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4107</dc:identifier>
-      <dc:identifier>10.11576/biuz-4107</dc:identifier>
-      <dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 55-65</dc:source>
-      <dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 55-65</dc:source>
-      <dc:source>1521-415X</dc:source>
-      <dc:source>0045-205X</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.biuz.de/index.php/biuz/article/view/4107/4103</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2021 Prof. Dr. Christian Wirth, Rolf A. Engelmann, Nora Haack, Henrik Hartmann, Ronny Richter, Florian Schnabel, Mathias Scholz, Carolin Seele-Dilbat</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4107</id>
+	<dc:title xml:lang="de-DE">Naturschutz und Klimawandel im Leipziger Auwald: Ein Biodiversitätshotspot an der Belastungsgrenze</dc:title>
+	<dc:title xml:lang="en-US">Biodiversity conservation and climate change in the floodplain forest of Leipzig:  </dc:title>
+	<dc:creator>Wirth, Christian</dc:creator>
+	<dc:creator>Engelmann, Rolf A.</dc:creator>
+	<dc:creator>Haack, Nora</dc:creator>
+	<dc:creator>Hartmann, Henrik</dc:creator>
+	<dc:creator>Richter, Ronny</dc:creator>
+	<dc:creator>Schnabel, Florian</dc:creator>
+	<dc:creator>Scholz, Mathias</dc:creator>
+	<dc:creator>Seele-Dilbat, Carolin</dc:creator>
+	<dc:subject xml:lang="de-DE">Hartholzauenwald</dc:subject>
+	<dc:subject xml:lang="de-DE">Naturschutz</dc:subject>
+	<dc:subject xml:lang="de-DE">Artenschutz</dc:subject>
+	<dc:subject xml:lang="de-DE">Klimawandel</dc:subject>
+	<dc:subject xml:lang="de-DE">Trockenheit</dc:subject>
+	<dc:description xml:lang="de-DE">Der Leipziger Auwald ist ein streng geschützter Hartholzauenwald mit einer hohen und spezifischen Biodiversität. Diese verdankt er seiner langen Habitattradition, seinem Baumartenreichtum und seiner Nutzungsgeschichte. Flussregulierung und Deichbau in den 1930er Jahren haben das Gebiet entwässert und die notwendigen Überflutungen unterbunden. Das hat die Struktur und die Artenzusammensetzung des Waldes stark verändert. Standortfremde Ahornarten sind auf dem Vormarsch, wodurch sich die Stieleiche nicht mehr verjüngt. Die extremen Trockenjahre 2018 und 2019 haben zu einem großflächigen Absterben vor allem der Esche geführt. Ökophysiologische Untersuchungen und Jahrringanalysen zeigen, dass die Stressbelastung in 2019 stark anstieg und das System an seine Belastungsgrenze geführt hat. Um den Hartholzauenwald zu retten, soll nun eine natürliche Überflutungs- und Grundwasserdynamik wiederhergestellt werden.</dc:description>
+	<dc:description xml:lang="en-US">The floodplain forest of Leipzig is strictly protected because of its high and unique biodiversity. This exists because of its continuous forest cover, its high richness of tree species and its management history. The river regulation in the 1930s has drained the forest and has prevented flooding which has strongly altered the structure and tree species composition of the forest. Shade-casting maple species, that were historically rare, are gaining dominance which suppresses the natural regeneration of pedunculate oak. The extreme drought years of 2018 and 2019 have led to a large-scale mortality, in particular of Common ash. Eco-physiological investigations and tree ring analyses show that the stress level in 2019 rose strongly and has pushed the system to its limits. To save the unique forest, revitalisation measures that restore the hydrological dynamics of the floodplain are planned.</dc:description>
+	<dc:publisher xml:lang="de-DE">VBIO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
+	<dc:date>2021-02-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4107</dc:identifier>
+	<dc:identifier>10.11576/biuz-4107</dc:identifier>
+	<dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 55-65</dc:source>
+	<dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 55-65</dc:source>
+	<dc:source>1521-415X</dc:source>
+	<dc:source>0045-205X</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.biuz.de/index.php/biuz/article/view/4107/4103</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2021 Prof. Dr. Christian Wirth, Rolf A. Engelmann, Nora Haack, Henrik Hartmann, Ronny Richter, Florian Schnabel, Mathias Scholz, Carolin Seele-Dilbat</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

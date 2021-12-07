@@ -1,40 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4105</identifier>
-    <datestamp>2021-03-10T13:57:14Z</datestamp>
-    <setSpec>biuz:HA</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Wie der Mensch das System Erde verändert: Die biophysikalischen Leitplanken für nachhaltige Entwicklung</dc:title>
-      <dc:title xml:lang="en-US">How human activities change the Earth system: The biophysical guardrails for sustainable development</dc:title>
-      <dc:creator>Petrischak, Hannes</dc:creator>
-      <dc:subject xml:lang="de-DE">System Erde</dc:subject>
-      <dc:subject xml:lang="de-DE">Planetare Grenzen</dc:subject>
-      <dc:subject xml:lang="de-DE">Kippelemente</dc:subject>
-      <dc:subject xml:lang="de-DE">Anthropozän</dc:subject>
-      <dc:subject xml:lang="de-DE">Stoffkreisläufe</dc:subject>
-      <dc:subject xml:lang="de-DE">Große Beschleunigung</dc:subject>
-      <dc:subject xml:lang="de-DE">Nachhaltigkeit</dc:subject>
-      <dc:description xml:lang="de-DE">Alle Erkenntnisse über das System Erde zeigen deutlich auf, dass die Menschheit so massiv in die Prozesse des Systems eingreift, dass sich die Rahmenbedingungen für die Zukunft – allerdings schon heute spürbar – deutlich verschlechtern. Die Ergebnisse der unterschiedlichen Konzepte weisen übereinstimmend in die gleiche Richtung: Mehrere Sicherheitsgrenzen sind überschritten. Stoffkreisläufe werden im globalen Maßstab umgestaltet. Die Menschheit ist mit sich weiter beschleunigender Wirkung zur stärksten gestaltenden Kraft auf der Erde geworden. Mit dem Klimawandel und der Vernichtung von Biodiversität sind irreversible Prozesse eingeleitet, und die Funktionalität von Ökosystemen wird zunehmend eingeschränkt. Eine nachhaltige Entwicklung, die nicht zuletzt die Lebensgrundlagen der Menschheit sicherstellt, ist jedoch nur innerhalb der biophysikalischen Grenzen des Systems Erde denkbar. Unsere Konsum- und Produktionsmuster müssen sich in allererster Linie an diesen Grenzen orientieren, um nachhaltig zu sein.</dc:description>
-      <dc:description xml:lang="en-US">All scientific findings about the Earth system show clearly that humanity intervenes so massively in Earth system processes that the conditions for future generations – but already noticeable today – will deteriorate significantly. The results of different concepts point in the same direction consistently: Several planetary boundaries have been exceeded, biochemical cycles are being reshaped on a global scale, humanity has even become the most powerful formative force on earth, irreversible processes like climate change and loss of biodiversity are accelerating, the functionality of ecosystems is decreasing. Sustainable development, which ensures the safe and comfortable existence of human societies on Earth, is conceivable only within the biophysical boundaries of the Earth system. Our consumption and production patterns must first and foremost be oriented towards these boundaries in order to be sustainable.</dc:description>
-      <dc:publisher xml:lang="de-DE">VBiO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
-      <dc:date>2021-02-18</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4105</dc:identifier>
-      <dc:identifier>10.11576/biuz-4105</dc:identifier>
-      <dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 30-37</dc:source>
-      <dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 30-37</dc:source>
-      <dc:source>1521-415X</dc:source>
-      <dc:source>0045-205X</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.biuz.de/index.php/biuz/article/view/4105/4102</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2021 Dr. Hannes Petrischak</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4105</id>
+	<dc:title xml:lang="de-DE">Wie der Mensch das System Erde verändert: Die biophysikalischen Leitplanken für nachhaltige Entwicklung</dc:title>
+	<dc:title xml:lang="en-US">How human activities change the Earth system: The biophysical guardrails for sustainable development</dc:title>
+	<dc:creator>Petrischak, Hannes</dc:creator>
+	<dc:subject xml:lang="de-DE">System Erde</dc:subject>
+	<dc:subject xml:lang="de-DE">Planetare Grenzen</dc:subject>
+	<dc:subject xml:lang="de-DE">Kippelemente</dc:subject>
+	<dc:subject xml:lang="de-DE">Anthropozän</dc:subject>
+	<dc:subject xml:lang="de-DE">Stoffkreisläufe</dc:subject>
+	<dc:subject xml:lang="de-DE">Große Beschleunigung</dc:subject>
+	<dc:subject xml:lang="de-DE">Nachhaltigkeit</dc:subject>
+	<dc:description xml:lang="de-DE">Alle Erkenntnisse über das System Erde zeigen deutlich auf, dass die Menschheit so massiv in die Prozesse des Systems eingreift, dass sich die Rahmenbedingungen für die Zukunft – allerdings schon heute spürbar – deutlich verschlechtern. Die Ergebnisse der unterschiedlichen Konzepte weisen übereinstimmend in die gleiche Richtung: Mehrere Sicherheitsgrenzen sind überschritten. Stoffkreisläufe werden im globalen Maßstab umgestaltet. Die Menschheit ist mit sich weiter beschleunigender Wirkung zur stärksten gestaltenden Kraft auf der Erde geworden. Mit dem Klimawandel und der Vernichtung von Biodiversität sind irreversible Prozesse eingeleitet, und die Funktionalität von Ökosystemen wird zunehmend eingeschränkt. Eine nachhaltige Entwicklung, die nicht zuletzt die Lebensgrundlagen der Menschheit sicherstellt, ist jedoch nur innerhalb der biophysikalischen Grenzen des Systems Erde denkbar. Unsere Konsum- und Produktionsmuster müssen sich in allererster Linie an diesen Grenzen orientieren, um nachhaltig zu sein.</dc:description>
+	<dc:description xml:lang="en-US">All scientific findings about the Earth system show clearly that humanity intervenes so massively in Earth system processes that the conditions for future generations – but already noticeable today – will deteriorate significantly. The results of different concepts point in the same direction consistently: Several planetary boundaries have been exceeded, biochemical cycles are being reshaped on a global scale, humanity has even become the most powerful formative force on earth, irreversible processes like climate change and loss of biodiversity are accelerating, the functionality of ecosystems is decreasing. Sustainable development, which ensures the safe and comfortable existence of human societies on Earth, is conceivable only within the biophysical boundaries of the Earth system. Our consumption and production patterns must first and foremost be oriented towards these boundaries in order to be sustainable.</dc:description>
+	<dc:publisher xml:lang="de-DE">VBIO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
+	<dc:date>2021-02-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4105</dc:identifier>
+	<dc:identifier>10.11576/biuz-4105</dc:identifier>
+	<dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 30-37</dc:source>
+	<dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 30-37</dc:source>
+	<dc:source>1521-415X</dc:source>
+	<dc:source>0045-205X</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.biuz.de/index.php/biuz/article/view/4105/4102</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2021 Dr. Hannes Petrischak</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

@@ -1,40 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4104</identifier>
-    <datestamp>2021-03-10T13:57:14Z</datestamp>
-    <setSpec>biuz:HA</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Wie Bakterien Algen vernaschen: Süßes Festmahl mit mehreren Gängen</dc:title>
-      <dc:title xml:lang="en-US">How bacteria devour algae: Sweet feast with multiple courses</dc:title>
-      <dc:creator>Amann, Rudolf</dc:creator>
-      <dc:creator>Aspetsberger, Fanni</dc:creator>
-      <dc:subject xml:lang="de-DE">Algenblüte</dc:subject>
-      <dc:subject xml:lang="de-DE">Nordsee</dc:subject>
-      <dc:subject xml:lang="de-DE">Bakterien</dc:subject>
-      <dc:subject xml:lang="de-DE">Polysaccharide</dc:subject>
-      <dc:subject xml:lang="de-DE">Mikrobiologie</dc:subject>
-      <dc:subject xml:lang="de-DE">Kohlenstoffkreislauf</dc:subject>
-      <dc:description xml:lang="de-DE">Die massive Vermehrung winziger Algen im Meer, des Phytoplanktons, führt dazu, dass sich etwa in der Nordsee jedes Frühjahr eine sogenannte Algenblüte bildet. Die Algen bilden nicht nur die Grundlage der Nahrungskette, sie dienen auch Bakterien als Nahrung. Diese zersetzen die Algen und deren Überreste. Für die Bakterien ist dabei nicht entscheidend, welche Algenarten vorhanden sind, sondern welche Mehrfachzucker diese enthalten. Anhand der bakteriellen Genome können wir sehen, welche Bakterien vorkommen, welche Zucker sie vermutlich abbauen und welche Funktion sie im Kohlenstoffkreislauf voraussichtlich haben. Langzeituntersuchungen, Observatorien und Bioarchive sind unverzichtbar für diese Forschung, die angesichts des Klimawandels besonders relevant ist.</dc:description>
-      <dc:description xml:lang="en-US">The massive growth of tiny algae in the ocean, the phytoplankton, causes a so-called algae bloom to form every spring in the North Sea. The algae not only form the basis of the food chain, they also serve as food for bacteria, which decompose the algae and their remains. For the bacteria, it is not decisive which types of algae are present, but which polysaccharides they contain. Based on the bacterial genomes, we can see which bacteria are present, which sugars they might break down and what function they presumably have in the carbon cycle. Long-term studies, observatories and bioarchives are essential for this research, which is particularly relevant in view of climate change.</dc:description>
-      <dc:publisher xml:lang="de-DE">VBiO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
-      <dc:date>2021-02-18</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4104</dc:identifier>
-      <dc:identifier>10.11576/biuz-4104</dc:identifier>
-      <dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 66-73</dc:source>
-      <dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 66-73</dc:source>
-      <dc:source>1521-415X</dc:source>
-      <dc:source>0045-205X</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.biuz.de/index.php/biuz/article/view/4104/4100</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2021 Prof. Dr. Rudolf Amann, Fanni Aspetsberger</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4104</id>
+	<dc:title xml:lang="de-DE">Wie Bakterien Algen vernaschen: Süßes Festmahl mit mehreren Gängen</dc:title>
+	<dc:title xml:lang="en-US">How bacteria devour algae: Sweet feast with multiple courses</dc:title>
+	<dc:creator>Amann, Rudolf</dc:creator>
+	<dc:creator>Aspetsberger, Fanni</dc:creator>
+	<dc:subject xml:lang="de-DE">Algenblüte</dc:subject>
+	<dc:subject xml:lang="de-DE">Nordsee</dc:subject>
+	<dc:subject xml:lang="de-DE">Bakterien</dc:subject>
+	<dc:subject xml:lang="de-DE">Polysaccharide</dc:subject>
+	<dc:subject xml:lang="de-DE">Mikrobiologie</dc:subject>
+	<dc:subject xml:lang="de-DE">Kohlenstoffkreislauf</dc:subject>
+	<dc:description xml:lang="de-DE">Die massive Vermehrung winziger Algen im Meer, des Phytoplanktons, führt dazu, dass sich etwa in der Nordsee jedes Frühjahr eine sogenannte Algenblüte bildet. Die Algen bilden nicht nur die Grundlage der Nahrungskette, sie dienen auch Bakterien als Nahrung. Diese zersetzen die Algen und deren Überreste. Für die Bakterien ist dabei nicht entscheidend, welche Algenarten vorhanden sind, sondern welche Mehrfachzucker diese enthalten. Anhand der bakteriellen Genome können wir sehen, welche Bakterien vorkommen, welche Zucker sie vermutlich abbauen und welche Funktion sie im Kohlenstoffkreislauf voraussichtlich haben. Langzeituntersuchungen, Observatorien und Bioarchive sind unverzichtbar für diese Forschung, die angesichts des Klimawandels besonders relevant ist.</dc:description>
+	<dc:description xml:lang="en-US">The massive growth of tiny algae in the ocean, the phytoplankton, causes a so-called algae bloom to form every spring in the North Sea. The algae not only form the basis of the food chain, they also serve as food for bacteria, which decompose the algae and their remains. For the bacteria, it is not decisive which types of algae are present, but which polysaccharides they contain. Based on the bacterial genomes, we can see which bacteria are present, which sugars they might break down and what function they presumably have in the carbon cycle. Long-term studies, observatories and bioarchives are essential for this research, which is particularly relevant in view of climate change.</dc:description>
+	<dc:publisher xml:lang="de-DE">VBIO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
+	<dc:date>2021-02-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4104</dc:identifier>
+	<dc:identifier>10.11576/biuz-4104</dc:identifier>
+	<dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 1 (2021): Nachhaltigkeit und globaler Wandel; 66-73</dc:source>
+	<dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 1 (2021): Nachhaltigkeit und globaler Wandel; 66-73</dc:source>
+	<dc:source>1521-415X</dc:source>
+	<dc:source>0045-205X</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.biuz.de/index.php/biuz/article/view/4104/4100</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2021 Prof. Dr. Rudolf Amann, Fanni Aspetsberger</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

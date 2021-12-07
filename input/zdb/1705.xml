@@ -1,32 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/1705</identifier>
-    <datestamp>2020-07-02T08:17:28Z</datestamp>
-    <setSpec>zdb:ORA</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Experimentelle Gensequenzierung im Unterricht? : Kein Problem im virtuellen Genlabor</dc:title>
-      <dc:creator>Egerding, Manfred</dc:creator>
-      <dc:subject xml:lang="de-DE">Biologie</dc:subject>
-      <dc:subject xml:lang="de-DE">Didaktik</dc:subject>
-      <dc:subject xml:lang="de-DE">Gentechnik</dc:subject>
-      <dc:subject xml:lang="de-DE">570</dc:subject>
-      <dc:publisher xml:lang="de-DE">Universität Bielefeld</dc:publisher>
-      <dc:date>2003-10-23</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://zdb.uni-bielefeld.de/index.php/zdb/article/view/1705</dc:identifier>
-      <dc:identifier>10.4119/zdb-1705</dc:identifier>
-      <dc:source xml:lang="de-DE">Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen; Bd. 9 (2000); 73-82</dc:source>
-      <dc:source>2627-7255</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://zdb.uni-bielefeld.de/index.php/zdb/article/view/1705/1651</dc:relation>
-      <dc:relation>10.4119/zdb-1705</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2015 Biologie Lehren und Lernen – Zeitschrift für Didaktik der Biologie</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>1705</id>
+	<dc:title xml:lang="de-DE">Experimentelle Gensequenzierung im Unterricht? : Kein Problem im virtuellen Genlabor</dc:title>
+	<dc:creator>Egerding, Manfred</dc:creator>
+	<dc:subject xml:lang="de-DE">Biologie</dc:subject>
+	<dc:subject xml:lang="de-DE">Didaktik</dc:subject>
+	<dc:subject xml:lang="de-DE">Gentechnik</dc:subject>
+	<dc:subject xml:lang="de-DE">570</dc:subject>
+	<dc:publisher xml:lang="de-DE">Universität Bielefeld</dc:publisher>
+	<dc:date>2003-10-23</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://zdb.uni-bielefeld.de/index.php/zdb/article/view/1705</dc:identifier>
+	<dc:identifier>10.4119/zdb-1705</dc:identifier>
+	<dc:source xml:lang="de-DE">Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen; Bd. 9 (2000); 73-82</dc:source>
+	<dc:source>2627-7255</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://zdb.uni-bielefeld.de/index.php/zdb/article/view/1705/1651</dc:relation>
+	<dc:relation>10.4119/zdb-1705</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2015 Biologie Lehren und Lernen – Zeitschrift für Didaktik der Biologie</dc:rights>
+</oai_dc:dc>

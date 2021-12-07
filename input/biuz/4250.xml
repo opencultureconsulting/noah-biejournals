@@ -1,39 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4250</identifier>
-    <datestamp>2021-05-10T05:27:17Z</datestamp>
-    <setSpec>biuz:HA</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Quorum Quenching: Sprachstörungen in der Welt der Mikroben</dc:title>
-      <dc:title xml:lang="en-US">Quorum Quenching: Speech disorders in the world of microbes</dc:title>
-      <dc:creator>Vollstedt, Christel</dc:creator>
-      <dc:creator>Streit, Wolfgang</dc:creator>
-      <dc:subject xml:lang="de-DE">Bakterielle Kommunikation</dc:subject>
-      <dc:subject xml:lang="de-DE">Quorum Sensing</dc:subject>
-      <dc:subject xml:lang="de-DE">Autoinducer</dc:subject>
-      <dc:subject xml:lang="de-DE">Signalblockade</dc:subject>
-      <dc:subject xml:lang="de-DE">Quorum Quenching</dc:subject>
-      <dc:description xml:lang="de-DE">Bakterien sind in der Lage, ihre Artgenossen in der Umgebung über unterschiedliche Signalmoleküle wahrzunehmen und über bestimmte Signalwege auf steigendes Zellwachstum gemeinschaftlich zu reagieren. Bezeichnet wird dieser Vorgang als Quorum Sensing und stellt ein Art bakterielle Sprache dar. Bei pathogenen Organismen führt diese Kommunikation meist zu Prozessen, die für den Wirt, wie z. B. uns Menschen, nicht wünschenswert sind. Zu diesen Prozessen gehört beispielsweise die Biofilmbildung auf Implantaten oder Kathetern, und das Anschalten von Virulenzfaktoren, die zu Lungenentzündungen und vielen weiteren Infektionskrankheiten führen. Bisher versucht man dieser Infektionen durch die Behandlung mit Antibiotika Herr zu werden. Dies führt allerdings nicht selten zur Entstehung von Antibiotikaresistenzen bei den Bakterien. In der Natur gilt jedoch: Wo es Signale gibt, gibt es auch Wege diese zu zerstören. Dieser Vorgang wird als Quorum Quenching (QQ) bezeichnet und stellt einen geeigneten Ansatz dar, um das pathogene Verhalten von Organismen ohne den Einsatz von Antibiotika zu vermindern oder gar zu verhindern.</dc:description>
-      <dc:description xml:lang="en-US">Bacteria are able to sense their conspecifics in the environment via different signalling molecules and to react collectively to increasing cell growth via certain signalling pathways. This process is called Quorum Sensing and is a kind of bacterial language. In pathogenic organisms, this usually leads to processes that are not desirable for the host, such as us humans. These processes include, for example, biofilm formation on implants or catheters as well as induction of virulence factors that enable the development of pneumonia and many other infectious diseases. Until now, treatment with antibiotics has been used to try to control these infections, but this often leads to antibiotic resistance in the bacteria. In nature, however, where there are signals, there are also ways to destroy them. This process is called Quorum Quenching (QQ) and is a suitable approach to reduce or even prevent the pathogenic behaviour of organisms without the use of antibiotics.</dc:description>
-      <dc:publisher xml:lang="de-DE">VBiO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
-      <dc:date>2021-05-10</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4250</dc:identifier>
-      <dc:identifier>10.11576/biuz-4250</dc:identifier>
-      <dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 2 (2021): Kieselalgen; 142-149</dc:source>
-      <dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 2 (2021): Kieselalgen; 142-149</dc:source>
-      <dc:source>1521-415X</dc:source>
-      <dc:source>0045-205X</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.biuz.de/index.php/biuz/article/view/4250/4242</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2021 Christel Vollstedt, Wolfgang Streit</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4250</id>
+	<dc:title xml:lang="de-DE">Quorum Quenching: Sprachstörungen in der Welt der Mikroben</dc:title>
+	<dc:title xml:lang="en-US">Quorum Quenching: Speech disorders in the world of microbes</dc:title>
+	<dc:creator>Vollstedt, Christel</dc:creator>
+	<dc:creator>Streit, Wolfgang</dc:creator>
+	<dc:subject xml:lang="de-DE">Bakterielle Kommunikation</dc:subject>
+	<dc:subject xml:lang="de-DE">Quorum Sensing</dc:subject>
+	<dc:subject xml:lang="de-DE">Autoinducer</dc:subject>
+	<dc:subject xml:lang="de-DE">Signalblockade</dc:subject>
+	<dc:subject xml:lang="de-DE">Quorum Quenching</dc:subject>
+	<dc:description xml:lang="de-DE">Bakterien sind in der Lage, ihre Artgenossen in der Umgebung über unterschiedliche Signalmoleküle wahrzunehmen und über bestimmte Signalwege auf steigendes Zellwachstum gemeinschaftlich zu reagieren. Bezeichnet wird dieser Vorgang als Quorum Sensing und stellt ein Art bakterielle Sprache dar. Bei pathogenen Organismen führt diese Kommunikation meist zu Prozessen, die für den Wirt, wie z. B. uns Menschen, nicht wünschenswert sind. Zu diesen Prozessen gehört beispielsweise die Biofilmbildung auf Implantaten oder Kathetern, und das Anschalten von Virulenzfaktoren, die zu Lungenentzündungen und vielen weiteren Infektionskrankheiten führen. Bisher versucht man dieser Infektionen durch die Behandlung mit Antibiotika Herr zu werden. Dies führt allerdings nicht selten zur Entstehung von Antibiotikaresistenzen bei den Bakterien. In der Natur gilt jedoch: Wo es Signale gibt, gibt es auch Wege diese zu zerstören. Dieser Vorgang wird als Quorum Quenching (QQ) bezeichnet und stellt einen geeigneten Ansatz dar, um das pathogene Verhalten von Organismen ohne den Einsatz von Antibiotika zu vermindern oder gar zu verhindern.</dc:description>
+	<dc:description xml:lang="en-US">Bacteria are able to sense their conspecifics in the environment via different signalling molecules and to react collectively to increasing cell growth via certain signalling pathways. This process is called Quorum Sensing and is a kind of bacterial language. In pathogenic organisms, this usually leads to processes that are not desirable for the host, such as us humans. These processes include, for example, biofilm formation on implants or catheters as well as induction of virulence factors that enable the development of pneumonia and many other infectious diseases. Until now, treatment with antibiotics has been used to try to control these infections, but this often leads to antibiotic resistance in the bacteria. In nature, however, where there are signals, there are also ways to destroy them. This process is called Quorum Quenching (QQ) and is a suitable approach to reduce or even prevent the pathogenic behaviour of organisms without the use of antibiotics.</dc:description>
+	<dc:publisher xml:lang="de-DE">VBIO - Verband Biologie, Biowissenschaften &amp; Biomedizin in Deutschland</dc:publisher>
+	<dc:date>2021-05-10</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.biuz.de/index.php/biuz/article/view/4250</dc:identifier>
+	<dc:identifier>10.11576/biuz-4250</dc:identifier>
+	<dc:source xml:lang="de-DE">Biologie in unserer Zeit; Bd. 51 Nr. 2 (2021): Kieselalgen; 142-149</dc:source>
+	<dc:source xml:lang="en-US">Biologie in unserer Zeit; Vol. 51 No. 2 (2021): Kieselalgen; 142-149</dc:source>
+	<dc:source>1521-415X</dc:source>
+	<dc:source>0045-205X</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.biuz.de/index.php/biuz/article/view/4250/4242</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2021 Christel Vollstedt, Wolfgang Streit</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

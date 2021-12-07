@@ -1,42 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3554</identifier>
-    <datestamp>2020-12-07T11:29:58Z</datestamp>
-    <setSpec>bupraktisch:EXP</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Regenwurmforscher auf Marsmission: Originale Begegnung und Experimentieren im Biologieunter-richt der Unterstufe</dc:title>
-      <dc:creator>Hahn, Marie</dc:creator>
-      <dc:creator>Flemming, Liane</dc:creator>
-      <dc:creator>Dreesmann, Daniel</dc:creator>
-      <dc:subject xml:lang="de-DE">Regenwürmer, Dendrobena veneta, Experimentieren, NaWi-AG, Originale Begegnung, Modellorganismus, Weltraum-forschung</dc:subject>
-      <dc:description xml:lang="de-DE">Der folgende Beitrag stellt nach einer thematischen Einführung die ersten beiden Doppelstunden der Unterrichtseihe „Regenwurmforscher auf Marsmission“ vor. In dieser Unterrichtsreihe wird den Schülerinnen und Schülern selbst die Forscherrolle übertragen.
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3554</id>
+	<dc:title xml:lang="de-DE">Regenwurmforscher auf Marsmission: Originale Begegnung und Experimentieren im Biologieunter-richt der Unterstufe</dc:title>
+	<dc:creator>Hahn, Marie</dc:creator>
+	<dc:creator>Flemming, Liane</dc:creator>
+	<dc:creator>Dreesmann, Daniel</dc:creator>
+	<dc:subject xml:lang="de-DE">Regenwürmer, Dendrobena veneta, Experimentieren, NaWi-AG, Originale Begegnung, Modellorganismus, Weltraum-forschung</dc:subject>
+	<dc:description xml:lang="de-DE">Der folgende Beitrag stellt nach einer thematischen Einführung die ersten beiden Doppelstunden der Unterrichtseihe „Regenwurmforscher auf Marsmission“ vor. In dieser Unterrichtsreihe wird den Schülerinnen und Schülern selbst die Forscherrolle übertragen.
 In der ersten Doppelstunde wird dabei zunächst Fachwissen zur Biologie des Regenwurms, zu den Methoden der Erkenntnisgewinnung, zum Forschungsprozess und zum zugehörigen Forschungskontext erarbeitet. Als Forschungskontext dient ein aktuelles Projekt der Marsforschung, den Boden auf dem Mars mithilfe von Regenwürmern fruchtbar machen zu können, damit dort Nahrungs- und Nutzpflanzen angebaut werden könnten.
 Um die Eignung der Regenwürmer in diesem Kontext praktisch zu prüfen, liegt der Schwerpunkt der zweiten Doppelstunde auf der Methode des Experimentierens. Versuche mit dem Modellorganismus Dendrobena veneta werden dabei eigenständig durchgeführt und ausgewertet. Die vorgestellten Versuche dieses Artikels beinhalten in diesem Zusammenhang u.a. das Herstellen eines eigenen „Marsterrariums“ zur Langzeitbeobachtung und eine Reihe von Experimenten zu den Themen Atmungsorgan der Regenwürmer sowie Temperaturempfinden und Fortbewegung der Regenwürmer.</dc:description>
-      <dc:publisher xml:lang="de-DE">Fakultät für Biologie, Biologiedidaktik (Botanik und Zellbiologie)</dc:publisher>
-      <dc:date>2020-12-07</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
-      <dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554</dc:identifier>
-      <dc:identifier>10.4119/bupraktisch-3554</dc:identifier>
-      <dc:source xml:lang="de-DE">BU praktisch - Das Online-Journal für den Biologieunterricht; Bd. 3 Nr. 3 (2020): BU praktisch - Experimentieren, forschen und lernen ; 3</dc:source>
-      <dc:source xml:lang="en-US">BU praktisch - Das Online-Journal für den Biologieunterricht; Vol. 3 No. 3 (2020): BU praktisch - Experimentieren, forschen und lernen ; 3</dc:source>
-      <dc:source>2627-4469</dc:source>
-      <dc:source>2627-4469</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3938</dc:relation>
-      <dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3939</dc:relation>
-      <dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3940</dc:relation>
-      <dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3941</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2020 BU praktisch - Das Online-Journal für den Biologieunterricht</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+	<dc:publisher xml:lang="de-DE">Fakultät für Biologie, Biologiedidaktik (Botanik und Zellbiologie)</dc:publisher>
+	<dc:date>2020-12-07</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:format>application/vnd.openxmlformats-officedocument.wordprocessingml.document</dc:format>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554</dc:identifier>
+	<dc:identifier>10.4119/bupraktisch-3554</dc:identifier>
+	<dc:source xml:lang="de-DE">BU praktisch - Das Online-Journal für den Biologieunterricht; Bd. 3 Nr. 3 (2020): BU praktisch - Experimentieren, forschen und lernen ; 3</dc:source>
+	<dc:source xml:lang="en-US">BU praktisch - Das Online-Journal für den Biologieunterricht; Vol. 3 No. 3 (2020): BU praktisch - Experimentieren, forschen und lernen ; 3</dc:source>
+	<dc:source>2627-4469</dc:source>
+	<dc:source>2627-4469</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3938</dc:relation>
+	<dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3939</dc:relation>
+	<dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3940</dc:relation>
+	<dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/3554/3941</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2020 BU praktisch - Das Online-Journal für den Biologieunterricht</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+</oai_dc:dc>

@@ -1,40 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/1868</identifier>
-    <datestamp>2020-07-01T14:37:07Z</datestamp>
-    <setSpec>seejph:ART</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Evidence of a higher burden of multimorbidity among female patients in Albania</dc:title>
-      <dc:creator>Collaku, Ledio</dc:creator>
-      <dc:creator>Resuli, Margarita</dc:creator>
-      <dc:creator>Gjermeni, Ilir</dc:creator>
-      <dc:creator>Tase, Mihal</dc:creator>
-      <dc:subject xml:lang="en-US">Albania</dc:subject>
-      <dc:subject xml:lang="en-US">female patients</dc:subject>
-      <dc:subject xml:lang="en-US">internal medicine</dc:subject>
-      <dc:subject xml:lang="en-US">male patients</dc:subject>
-      <dc:subject xml:lang="en-US">multimorbidity</dc:subject>
-      <dc:subject xml:lang="en-US">patients</dc:subject>
-      <dc:subject xml:lang="en-US">sex.</dc:subject>
-      <dc:description xml:lang="en-US">Aim: The purpose of this study was to assess sex-differences in the prevalence of multimorbidity and the number of comorbid conditions among hospitalized patients in Tirana, the capital of Albania, a transitional country in Southeastern Europe.Methods: The current study was a case-series, which was carried out in the period August 2013–June 2014. Overall, 974 patients were enrolled (46.6% men with a mean age of 61.2±13.8 years, and 53.4% women with a mean age of 61.3±13.1 years), who were admitted at the Service of Internal Medicine and Hypertension, University Hospital Center “Mother Teresa” in Tirana. A comprehensive clinical profile was assembled for all patients in addition to socio-demographic data and information on lifestyle factors. General linear model was used to assess the association between multimorbidity (total number of diseases/conditions) and sex of the patients, controlling for socio-demographic characteristics and lifestyle factors.    Results: In crude (unadjusted) models and in age-adjusted models, female patients had a higher mean value of diseases/conditions compared to males (for both: 4.4 vs. 4.1, respectively, P=0.03). Likewise, upon adjustment for all socio-demographic characteristics, the mean number of disease/conditions was significantly higher in female patients compared to their male counterparts (4.2 vs. 3.9, respectively; P=0.03). After additional adjustment for lifestyle factors, the association between sex and number diseases/conditions was not significant anymore (p=0.16), notwithstanding the evidence of a higher mean value in women compared to men (4.2 vs. 4.0). Conclusion: Current evidence from transitional Albania suggests a higher burden of multimorbidity among female patients compared to males, which is a cause of concern. These findings should raise the awareness of health professionals and particularly policymakers and decision-makers in order to address gender issues and inequity gaps in health outcomes and burden of disease of the Albanian population.    </dc:description>
-      <dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
-      <dc:date>2018-04-10</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.seejph.com/index.php/seejph/article/view/1868</dc:identifier>
-      <dc:identifier>10.4119/seejph-1868</dc:identifier>
-      <dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume IX, 2018</dc:source>
-      <dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume IX, 2018</dc:source>
-      <dc:source>2197-5248</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.seejph.com/index.php/seejph/article/view/1868/1788</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2018 Ledio Collaku, Margarita Resuli, Ilir Gjermeni, Mihal Tase</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>1868</id>
+	<dc:title xml:lang="en-US">Evidence of a higher burden of multimorbidity among female patients in Albania</dc:title>
+	<dc:creator>Collaku, Ledio</dc:creator>
+	<dc:creator>Resuli, Margarita</dc:creator>
+	<dc:creator>Gjermeni, Ilir</dc:creator>
+	<dc:creator>Tase, Mihal</dc:creator>
+	<dc:subject xml:lang="en-US">Albania</dc:subject>
+	<dc:subject xml:lang="en-US">female patients</dc:subject>
+	<dc:subject xml:lang="en-US">internal medicine</dc:subject>
+	<dc:subject xml:lang="en-US">male patients</dc:subject>
+	<dc:subject xml:lang="en-US">multimorbidity</dc:subject>
+	<dc:subject xml:lang="en-US">patients</dc:subject>
+	<dc:subject xml:lang="en-US">sex.</dc:subject>
+	<dc:description xml:lang="en-US">Aim: The purpose of this study was to assess sex-differences in the prevalence of multimorbidity and the number of comorbid conditions among hospitalized patients in Tirana, the capital of Albania, a transitional country in Southeastern Europe.Methods: The current study was a case-series, which was carried out in the period August 2013–June 2014. Overall, 974 patients were enrolled (46.6% men with a mean age of 61.2±13.8 years, and 53.4% women with a mean age of 61.3±13.1 years), who were admitted at the Service of Internal Medicine and Hypertension, University Hospital Center “Mother Teresa” in Tirana. A comprehensive clinical profile was assembled for all patients in addition to socio-demographic data and information on lifestyle factors. General linear model was used to assess the association between multimorbidity (total number of diseases/conditions) and sex of the patients, controlling for socio-demographic characteristics and lifestyle factors.    Results: In crude (unadjusted) models and in age-adjusted models, female patients had a higher mean value of diseases/conditions compared to males (for both: 4.4 vs. 4.1, respectively, P=0.03). Likewise, upon adjustment for all socio-demographic characteristics, the mean number of disease/conditions was significantly higher in female patients compared to their male counterparts (4.2 vs. 3.9, respectively; P=0.03). After additional adjustment for lifestyle factors, the association between sex and number diseases/conditions was not significant anymore (p=0.16), notwithstanding the evidence of a higher mean value in women compared to men (4.2 vs. 4.0). Conclusion: Current evidence from transitional Albania suggests a higher burden of multimorbidity among female patients compared to males, which is a cause of concern. These findings should raise the awareness of health professionals and particularly policymakers and decision-makers in order to address gender issues and inequity gaps in health outcomes and burden of disease of the Albanian population.    </dc:description>
+	<dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
+	<dc:date>2018-04-10</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.seejph.com/index.php/seejph/article/view/1868</dc:identifier>
+	<dc:identifier>10.4119/seejph-1868</dc:identifier>
+	<dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume IX, 2018</dc:source>
+	<dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume IX, 2018</dc:source>
+	<dc:source>2197-5248</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.seejph.com/index.php/seejph/article/view/1868/1788</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2018 Ledio Collaku, Margarita Resuli, Ilir Gjermeni, Mihal Tase</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

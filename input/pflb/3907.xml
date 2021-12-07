@@ -1,38 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3907</identifier>
-    <datestamp>2020-12-10T13:35:15Z</datestamp>
-    <setSpec>pflb:BuG</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Unterricht während der Corona-Pandemie: Ein Vergleich von Schülereinschätzungen aus Baden-Württemberg und Nordrhein-Westfalen im Kontext sozialer Heterogenität</dc:title>
-      <dc:creator>Unger, Valentin</dc:creator>
-      <dc:creator>Krämer, Yoka</dc:creator>
-      <dc:creator>Wacker, Albrecht</dc:creator>
-      <dc:subject xml:lang="de-DE">Corona-Pandemie</dc:subject>
-      <dc:subject xml:lang="de-DE">Schulschließungen</dc:subject>
-      <dc:subject xml:lang="de-DE">Fernunterricht</dc:subject>
-      <dc:subject xml:lang="de-DE">Schüler*innenbefragung</dc:subject>
-      <dc:subject xml:lang="de-DE">digitale Ausstattung</dc:subject>
-      <dc:subject xml:lang="de-DE">Bildungsungerechtigkeit</dc:subject>
-      <dc:description xml:lang="de-DE">Im März 2020 wurden infolge der Corona-Pandemie die Schulen in der Bundesrepublik Deutschland geschlossen, und die Beschulung wurde als „Fernunterricht“ fortgeführt. In diesem Beitrag werden die Daten aus zwei Studien (Nordrhein-Westfalen und Baden-Württemberg) zusammengeführt, in denen zusammen N = 320 Schüler*innen zu ihrer Sicht auf den Fernunterricht befragt wurden. Die Ergebnisse aus beiden Studien benennen verschiedene Vor- und Nachteile des Fernunterrichts und verweisen – trotz einiger Diskrepanzen zwischen den Studien – insgesamt auf eine teils (zu) hohe Varianz in den Kommunikationswegen sowie eine hohe Belastung der Schüler*innen im Fernunterricht. Entgegen der öffentlichen Diskussion ergeben sich aus den Datensätzen beider Studien Hinweise darauf, dass mehrheitlich eine Ausstattung mit digitalen Endgeräten vorhanden ist. Aus den Daten der NRW-Studie lassen sich zudem erste vorsichtige Hinweise auf den Zusammenhang zwischen dem sozioökonomischen Status der Schüler*innen und dem Erfolg des Fernunterrichts ableiten, die weiteren Forschungsbedarf hinsichtlich der Bildungsbenachteiligung im Fernunterricht generieren.</dc:description>
-      <dc:publisher xml:lang="de-DE">Universität Bielefeld - Wissenschaftliche Einrichtung Oberstufen-Kolleg &amp; Bielefeld School of Education</dc:publisher>
-      <dc:date>2020-12-10</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.pflb-journal.de/index.php/pflb/article/view/3907</dc:identifier>
-      <dc:identifier>10.4119/pflb-3907</dc:identifier>
-      <dc:source xml:lang="de-DE">PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.; Bd. 2 Nr. 6 (2020): Schulische Bildung in Zeiten der Pandemie. Befunde, Konzepte und Erfahrungen mit Blick auf Schul- und Unterrichtsorganisation, Bildungsgerechtigkeit und Lehrpraxis; 84-99</dc:source>
-      <dc:source xml:lang="en-US">PraxisForschungLehrer*innenBildung; Vol. 2 No. 6 (2020): Schulische Bildung in Zeiten der Pandemie. Befunde, Konzepte und Erfahrungen mit Blick auf Schul- und Unterrichtsorganisation, Bildungsgerechtigkeit und Lehrpraxis; 84-99</dc:source>
-      <dc:source>2629-5628</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.pflb-journal.de/index.php/pflb/article/view/3907/3963</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2020 Valentin Unger, Yoka Krämer, Albrecht Wacker</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3907</id>
+	<dc:title xml:lang="de-DE">Unterricht während der Corona-Pandemie: Ein Vergleich von Schülereinschätzungen aus Baden-Württemberg und Nordrhein-Westfalen im Kontext sozialer Heterogenität</dc:title>
+	<dc:creator>Unger, Valentin</dc:creator>
+	<dc:creator>Krämer, Yoka</dc:creator>
+	<dc:creator>Wacker, Albrecht</dc:creator>
+	<dc:subject xml:lang="de-DE">Corona-Pandemie</dc:subject>
+	<dc:subject xml:lang="de-DE">Schulschließungen</dc:subject>
+	<dc:subject xml:lang="de-DE">Fernunterricht</dc:subject>
+	<dc:subject xml:lang="de-DE">Schüler*innenbefragung</dc:subject>
+	<dc:subject xml:lang="de-DE">digitale Ausstattung</dc:subject>
+	<dc:subject xml:lang="de-DE">Bildungsungerechtigkeit</dc:subject>
+	<dc:description xml:lang="de-DE">Im März 2020 wurden infolge der Corona-Pandemie die Schulen in der Bundesrepublik Deutschland geschlossen, und die Beschulung wurde als „Fernunterricht“ fortgeführt. In diesem Beitrag werden die Daten aus zwei Studien (Nordrhein-Westfalen und Baden-Württemberg) zusammengeführt, in denen zusammen N = 320 Schüler*innen zu ihrer Sicht auf den Fernunterricht befragt wurden. Die Ergebnisse aus beiden Studien benennen verschiedene Vor- und Nachteile des Fernunterrichts und verweisen – trotz einiger Diskrepanzen zwischen den Studien – insgesamt auf eine teils (zu) hohe Varianz in den Kommunikationswegen sowie eine hohe Belastung der Schüler*innen im Fernunterricht. Entgegen der öffentlichen Diskussion ergeben sich aus den Datensätzen beider Studien Hinweise darauf, dass mehrheitlich eine Ausstattung mit digitalen Endgeräten vorhanden ist. Aus den Daten der NRW-Studie lassen sich zudem erste vorsichtige Hinweise auf den Zusammenhang zwischen dem sozioökonomischen Status der Schüler*innen und dem Erfolg des Fernunterrichts ableiten, die weiteren Forschungsbedarf hinsichtlich der Bildungsbenachteiligung im Fernunterricht generieren.</dc:description>
+	<dc:publisher xml:lang="de-DE">Universität Bielefeld - Wissenschaftliche Einrichtung Oberstufen-Kolleg &amp; Bielefeld School of Education</dc:publisher>
+	<dc:date>2020-12-10</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.pflb-journal.de/index.php/pflb/article/view/3907</dc:identifier>
+	<dc:identifier>10.4119/pflb-3907</dc:identifier>
+	<dc:source xml:lang="de-DE">PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.; Bd. 2 Nr. 6 (2020): Schulische Bildung in Zeiten der Pandemie. Befunde, Konzepte und Erfahrungen mit Blick auf Schul- und Unterrichtsorganisation, Bildungsgerechtigkeit und Lehrpraxis; 84-99</dc:source>
+	<dc:source xml:lang="en-US">PraxisForschungLehrer*innenBildung; Vol. 2 No. 6 (2020): Schulische Bildung in Zeiten der Pandemie. Befunde, Konzepte und Erfahrungen mit Blick auf Schul- und Unterrichtsorganisation, Bildungsgerechtigkeit und Lehrpraxis; 84-99</dc:source>
+	<dc:source>2629-5628</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.pflb-journal.de/index.php/pflb/article/view/3907/3963</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2020 Valentin Unger, Yoka Krämer, Albrecht Wacker</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

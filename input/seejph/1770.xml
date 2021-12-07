@@ -1,41 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/1770</identifier>
-    <datestamp>2020-07-01T14:37:09Z</datestamp>
-    <setSpec>seejph:ART</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Efficacy of an IgM preparation in the treatment of patients with sepsis: a double-blind randomized clinical trial in a pediatric intensive care unit</dc:title>
-      <dc:creator>Kola, Ermira</dc:creator>
-      <dc:creator>Çelaj, Ermela</dc:creator>
-      <dc:creator>Bakalli, Iliriana</dc:creator>
-      <dc:creator>Lluka, Robert</dc:creator>
-      <dc:creator>Kuli-Lito, Gjeorgjina</dc:creator>
-      <dc:creator>Sallabanda, Sashenka</dc:creator>
-      <dc:subject xml:lang="en-US">bacterial infections</dc:subject>
-      <dc:subject xml:lang="en-US">IgM  preparation</dc:subject>
-      <dc:subject xml:lang="en-US">immunoglobulin</dc:subject>
-      <dc:subject xml:lang="en-US">immunotherapy</dc:subject>
-      <dc:subject xml:lang="en-US">Pentaglobin®</dc:subject>
-      <dc:subject xml:lang="en-US">sepsis</dc:subject>
-      <dc:description xml:lang="en-US">Aim: Additional treatments for sepsis to be administered alongside the standard therapy recommended by the Surviving Sepsis Campaign have recently undergone evaluation. Due to its anti-bacterial, anti-inflammatory and immunomodulatory properties, intravenous polyvalent immunoglobulin M (IgM)–enriched immunoglobulins (IgM preparation) has been investigated as one of these potentially valid adjunctive therapies. The aim of this trial was to assess the efficacy of an IgM preparation as adjuvant therapy in the treatment of pediatric patients with sepsis.Methods: In our study, 78 septic patients admitted to a pediatric intensive care unit (PICU) at the University Hospital Center “Mother Teresa” in Tirana, Albania, were randomized into two groups (intervention and control). All patients were treated according to standard PICU sepsis guidelines. Additionally, patients in the intervention group received the IgM preparation Pentaglobin® while patients in the control group received standard sepsis therapy, but no immunoglobulin  administration.Results: The survival rate was higher in the intervention group (87%, N=34) than in the control group (64%, N=25), and this difference was statistically significant  (P=0.03). Length of stay (LOS) was also significantly shorter in the intervention group.Conclusion: In this study conducted in Albania, use of an IgM preparation, in addition to standard sepsis therapy, led to a significant increase in the survival rate as well as a significant reduction in LOS compared with placebo, when administered in PICU patients with sepsis.</dc:description>
-      <dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
-      <dc:date>2015-12-02</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.seejph.com/index.php/seejph/article/view/1770</dc:identifier>
-      <dc:identifier>10.4119/seejph-1770</dc:identifier>
-      <dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume I, 2014</dc:source>
-      <dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume I, 2014</dc:source>
-      <dc:source>2197-5248</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.seejph.com/index.php/seejph/article/view/1770/1691</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2015 Ermira Kola, Ermela Çelaj, Iliriana Bakalli, Robert Lluka, Gjeorgjina Kuli-Lito, Sashenka Sallabanda</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>1770</id>
+	<dc:title xml:lang="en-US">Efficacy of an IgM preparation in the treatment of patients with sepsis: a double-blind randomized clinical trial in a pediatric intensive care unit</dc:title>
+	<dc:creator>Kola, Ermira</dc:creator>
+	<dc:creator>Çelaj, Ermela</dc:creator>
+	<dc:creator>Bakalli, Iliriana</dc:creator>
+	<dc:creator>Lluka, Robert</dc:creator>
+	<dc:creator>Kuli-Lito, Gjeorgjina</dc:creator>
+	<dc:creator>Sallabanda, Sashenka</dc:creator>
+	<dc:subject xml:lang="en-US">bacterial infections</dc:subject>
+	<dc:subject xml:lang="en-US">IgM  preparation</dc:subject>
+	<dc:subject xml:lang="en-US">immunoglobulin</dc:subject>
+	<dc:subject xml:lang="en-US">immunotherapy</dc:subject>
+	<dc:subject xml:lang="en-US">Pentaglobin®</dc:subject>
+	<dc:subject xml:lang="en-US">sepsis</dc:subject>
+	<dc:description xml:lang="en-US">Aim: Additional treatments for sepsis to be administered alongside the standard therapy recommended by the Surviving Sepsis Campaign have recently undergone evaluation. Due to its anti-bacterial, anti-inflammatory and immunomodulatory properties, intravenous polyvalent immunoglobulin M (IgM)–enriched immunoglobulins (IgM preparation) has been investigated as one of these potentially valid adjunctive therapies. The aim of this trial was to assess the efficacy of an IgM preparation as adjuvant therapy in the treatment of pediatric patients with sepsis.Methods: In our study, 78 septic patients admitted to a pediatric intensive care unit (PICU) at the University Hospital Center “Mother Teresa” in Tirana, Albania, were randomized into two groups (intervention and control). All patients were treated according to standard PICU sepsis guidelines. Additionally, patients in the intervention group received the IgM preparation Pentaglobin® while patients in the control group received standard sepsis therapy, but no immunoglobulin  administration.Results: The survival rate was higher in the intervention group (87%, N=34) than in the control group (64%, N=25), and this difference was statistically significant  (P=0.03). Length of stay (LOS) was also significantly shorter in the intervention group.Conclusion: In this study conducted in Albania, use of an IgM preparation, in addition to standard sepsis therapy, led to a significant increase in the survival rate as well as a significant reduction in LOS compared with placebo, when administered in PICU patients with sepsis.</dc:description>
+	<dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
+	<dc:date>2015-12-02</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.seejph.com/index.php/seejph/article/view/1770</dc:identifier>
+	<dc:identifier>10.4119/seejph-1770</dc:identifier>
+	<dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume I, 2014</dc:source>
+	<dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume I, 2014</dc:source>
+	<dc:source>2197-5248</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.seejph.com/index.php/seejph/article/view/1770/1691</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2015 Ermira Kola, Ermela Çelaj, Iliriana Bakalli, Robert Lluka, Gjeorgjina Kuli-Lito, Sashenka Sallabanda</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

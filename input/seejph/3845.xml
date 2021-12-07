@@ -1,21 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3845</identifier>
-    <datestamp>2021-03-17T17:05:32Z</datestamp>
-    <setSpec>seejph:ART</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Professionalization of Public Health – an exploratory case study</dc:title>
-      <dc:creator>Mansholt, Hilke</dc:creator>
-      <dc:creator>Czabanowska, Katarzyna </dc:creator>
-      <dc:creator>Otok, Robert </dc:creator>
-      <dc:creator>de Nooijer, Jascha </dc:creator>
-      <dc:subject xml:lang="en-US">professionalization</dc:subject>
-      <dc:subject xml:lang="en-US">public health workforce</dc:subject>
-      <dc:subject xml:lang="en-US">qualitative study</dc:subject>
-      <dc:description xml:lang="en-US">Introduction: Public health is continuously challenged by a shortage of workforce. There are various reasons for this: 1) public health is less visible than traditional health professions and people may be unfamiliar with the nature and opportunities involved in entering this career field; 2) lack of official recognition of public health as a professional category; and 3) no umbrella organization that supports its members and governs professional standards as is the case of other more established professions. To adequately address the challenges of public health for the 21st century, a key policy element will need to focus on adequately cultivating, training and growing the future workforce of professionals in the field. The aim of this study was to examine why professionalization of public health in Europe is not as robust as it deserves to be and what steps can be taken to assure an adequate supply of professionals with the proper education and training background, and career guidance to tackle the public health needs of the future.
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3845</id>
+	<dc:title xml:lang="en-US">Professionalization of Public Health – an exploratory case study</dc:title>
+	<dc:creator>Mansholt, Hilke</dc:creator>
+	<dc:creator>Czabanowska, Katarzyna </dc:creator>
+	<dc:creator>Otok, Robert </dc:creator>
+	<dc:creator>de Nooijer, Jascha </dc:creator>
+	<dc:subject xml:lang="en-US">professionalization</dc:subject>
+	<dc:subject xml:lang="en-US">public health workforce</dc:subject>
+	<dc:subject xml:lang="en-US">qualitative study</dc:subject>
+	<dc:description xml:lang="en-US">Introduction: Public health is continuously challenged by a shortage of workforce. There are various reasons for this: 1) public health is less visible than traditional health professions and people may be unfamiliar with the nature and opportunities involved in entering this career field; 2) lack of official recognition of public health as a professional category; and 3) no umbrella organization that supports its members and governs professional standards as is the case of other more established professions. To adequately address the challenges of public health for the 21st century, a key policy element will need to focus on adequately cultivating, training and growing the future workforce of professionals in the field. The aim of this study was to examine why professionalization of public health in Europe is not as robust as it deserves to be and what steps can be taken to assure an adequate supply of professionals with the proper education and training background, and career guidance to tackle the public health needs of the future.
 Method: A case study approach was used collecting data via a scoping literature review, a focus group with public health students and interviews with public health experts for convergence. Data was analysed using directed content analysis and pattern matching logic.
 Results: Public health fulfilled five out of seven attributes of a profession, such as skills, training and education, certification and an altruistic service. Recognition of Public Health as multidisciplinary and multi-professional field, derived from the interviews as an additional characteristic. A code of ethics and professional conduct and a formal organization were missing.
 Conclusion: Public health professionals and organisations that govern best practices in this field should consider introducing a shared code of ethics and professional conduct as well as establishing a coordinated body to help advance the public status as a the profession to increase interest in studying and specializing in this area.
@@ -23,20 +15,17 @@ Conclusion: Public health professionals and organisations that govern best pract
 &amp;nbsp;
 Conflicts of interest: None declared.
 &amp;nbsp;</dc:description>
-      <dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
-      <dc:date>2020-09-28</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.seejph.com/index.php/seejph/article/view/3845</dc:identifier>
-      <dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
-      <dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
-      <dc:source>2197-5248</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.seejph.com/index.php/seejph/article/view/3845/3861</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2020 Hilke Mansholt, Katarzyna  Czabanowska, Robert  Otok, Jascha  de Nooijer</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+	<dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
+	<dc:date>2020-09-28</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.seejph.com/index.php/seejph/article/view/3845</dc:identifier>
+	<dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
+	<dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
+	<dc:source>2197-5248</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.seejph.com/index.php/seejph/article/view/3845/3861</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2020 Hilke Mansholt, Katarzyna  Czabanowska, Robert  Otok, Jascha  de Nooijer</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

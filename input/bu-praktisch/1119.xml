@@ -1,36 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/1119</identifier>
-    <datestamp>2020-05-25T09:52:25Z</datestamp>
-    <setSpec>bupraktisch:Experten</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Next Generation Sequencing (NGS) von DNA: Mehr Informationen durch mehr Daten?</dc:title>
-      <dc:creator>Eggermann, Thomas</dc:creator>
-      <dc:creator>Söllner, Lukas</dc:creator>
-      <dc:creator>Kurth, Ingo</dc:creator>
-      <dc:creator>Eggermann, Katja</dc:creator>
-      <dc:creator>Begemann, Matthias</dc:creator>
-      <dc:subject xml:lang="de-DE">Humangenetik, Next Generation Sequencing (NGS), Exom, Big Data, nicht-invasive pränatale Testung (NIPT), seltene Erkrankungen, personalisierte Medizin, humangenetische Beratung</dc:subject>
-      <dc:description xml:lang="de-DE">Next Generation Sequencing (NGS) ermöglicht als Hochdurchsatzverfahren die umfassende Analyse des menschlichen Genoms. Entwicklung und diagnostischer Einsatz des NGS sind aber mit bioinformatischen und ethischen Herausforderungen verbunden. Der Beitrag beschreibt die Methodik, erläutert Chancen und Herausforderungen und zeigt anhand der nicht-invasiven pränatalen Testung (NIPT) und eines klinischen Fallbeispiels aktuelle spezifische Anwendungen und Probleme des NGS auf.</dc:description>
-      <dc:publisher xml:lang="de-DE">Fakultät für Biologie, Biologiedidaktik (Botanik und Zellbiologie)</dc:publisher>
-      <dc:date>2018-12-18</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/1119</dc:identifier>
-      <dc:identifier>10.4119/bupraktisch-1119</dc:identifier>
-      <dc:source xml:lang="de-DE">BU praktisch - Das Online-Journal für den Biologieunterricht; Bd. 1 Nr. 1 (2018): Vielfalt im Biologieunterricht; 6</dc:source>
-      <dc:source xml:lang="en-US">BU praktisch - Das Online-Journal für den Biologieunterricht; Vol. 1 No. 1 (2018): Vielfalt im Biologieunterricht; 6</dc:source>
-      <dc:source>2627-4469</dc:source>
-      <dc:source>2627-4469</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/1119/1199</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2018 BU praktisch - Das Online-Journal für den Biologieunterricht</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>1119</id>
+	<dc:title xml:lang="de-DE">Next Generation Sequencing (NGS) von DNA: Mehr Informationen durch mehr Daten?</dc:title>
+	<dc:creator>Eggermann, Thomas</dc:creator>
+	<dc:creator>Söllner, Lukas</dc:creator>
+	<dc:creator>Kurth, Ingo</dc:creator>
+	<dc:creator>Eggermann, Katja</dc:creator>
+	<dc:creator>Begemann, Matthias</dc:creator>
+	<dc:subject xml:lang="de-DE">Humangenetik, Next Generation Sequencing (NGS), Exom, Big Data, nicht-invasive pränatale Testung (NIPT), seltene Erkrankungen, personalisierte Medizin, humangenetische Beratung</dc:subject>
+	<dc:description xml:lang="de-DE">Next Generation Sequencing (NGS) ermöglicht als Hochdurchsatzverfahren die umfassende Analyse des menschlichen Genoms. Entwicklung und diagnostischer Einsatz des NGS sind aber mit bioinformatischen und ethischen Herausforderungen verbunden. Der Beitrag beschreibt die Methodik, erläutert Chancen und Herausforderungen und zeigt anhand der nicht-invasiven pränatalen Testung (NIPT) und eines klinischen Fallbeispiels aktuelle spezifische Anwendungen und Probleme des NGS auf.</dc:description>
+	<dc:publisher xml:lang="de-DE">Fakultät für Biologie, Biologiedidaktik (Botanik und Zellbiologie)</dc:publisher>
+	<dc:date>2018-12-18</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/1119</dc:identifier>
+	<dc:identifier>10.4119/bupraktisch-1119</dc:identifier>
+	<dc:source xml:lang="de-DE">BU praktisch - Das Online-Journal für den Biologieunterricht; Bd. 1 Nr. 1 (2018): Vielfalt im Biologieunterricht; 6</dc:source>
+	<dc:source xml:lang="en-US">BU praktisch - Das Online-Journal für den Biologieunterricht; Vol. 1 No. 1 (2018): Vielfalt im Biologieunterricht; 6</dc:source>
+	<dc:source>2627-4469</dc:source>
+	<dc:source>2627-4469</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.bu-praktisch.de/index.php/bupraktisch/article/view/1119/1199</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2018 BU praktisch - Das Online-Journal für den Biologieunterricht</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-nc-sa/4.0</dc:rights>
+</oai_dc:dc>

@@ -1,43 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/4711</identifier>
-    <datestamp>2021-08-24T10:21:02Z</datestamp>
-    <setSpec>pflb:ART</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Demokratie stabilisieren und Bürger*innen stärken – zwei Seiten derselben Medaille?</dc:title>
-      <dc:creator>Hedtke, Reinhold</dc:creator>
-      <dc:subject xml:lang="de-DE">Demokratie</dc:subject>
-      <dc:subject xml:lang="de-DE">Interessen</dc:subject>
-      <dc:subject xml:lang="de-DE">Ungleichheit</dc:subject>
-      <dc:subject xml:lang="de-DE">Repräsentation</dc:subject>
-      <dc:subject xml:lang="de-DE">Demokratiefördrung</dc:subject>
-      <dc:subject xml:lang="de-DE">politische Bildung</dc:subject>
-      <dc:subject xml:lang="de-DE">Partizipation</dc:subject>
-      <dc:subject xml:lang="de-DE">Demokratiebildung</dc:subject>
-      <dc:subject xml:lang="de-DE">Ökonomisierung</dc:subject>
-      <dc:subject xml:lang="de-DE">Demokratisierung</dc:subject>
-      <dc:subject xml:lang="de-DE">Kritik</dc:subject>
-      <dc:subject xml:lang="de-DE">Bürgerleitbild</dc:subject>
-      <dc:description xml:lang="de-DE">Der Beitrag diskutiert die politische Repräsentation und Partizipation von Kindern und Jugendlichen und den allgemeinen Zustand der politischen Bildung. Er thematisiert die Spannung zwischen sozialer und politischer Ungleichheit und dem Gleichheitsversprechen der Demokratie und begründet eine Akzentverschiebung hin zu einer interessenpolitischen Bildung für junge Menschen. Der Text unterstreicht die Kritikaufgabe der Wissenschaft, fordert ein Aufgreifen der Kritik der Leute und die Parteinahme der Fachdidaktik für Kinder und Jugendliche. Schließlich plädiert er für das Leitbild der schwierigen, unbequemen und gegenüber ungerechtfertigter Ungleichheit unnachgiebigen Bürger*innen.</dc:description>
-      <dc:publisher xml:lang="de-DE">Universität Bielefeld - Wissenschaftliche Einrichtung Oberstufen-Kolleg &amp; Bielefeld School of Education</dc:publisher>
-      <dc:date>2021-08-24</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:type xml:lang="de-DE">Begutachter Beitrag</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.pflb-journal.de/index.php/pflb/article/view/4711</dc:identifier>
-      <dc:identifier>10.11576/pflb-4711</dc:identifier>
-      <dc:source xml:lang="de-DE">PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.; Bd. 3 Nr. 3 (2021): Demokratiebildung als (hoch-)schulische Querschnittsaufgabe und demokratisch-politische Bildung als Prinzip der Lehrer*innen-Bildung; 85-102</dc:source>
-      <dc:source xml:lang="en-US">PraxisForschungLehrer*innenBildung; Vol. 3 No. 3 (2021): Demokratiebildung als (hoch-)schulische Querschnittsaufgabe und demokratisch-politische Bildung als Prinzip der Lehrer*innen-Bildung; 85-102</dc:source>
-      <dc:source>2629-5628</dc:source>
-      <dc:language>deu</dc:language>
-      <dc:relation>https://www.pflb-journal.de/index.php/pflb/article/view/4711/4454</dc:relation>
-      <dc:rights xml:lang="de-DE">Copyright (c) 2021 Reinhold Hedtke</dc:rights>
-      <dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>4711</id>
+	<dc:title xml:lang="de-DE">Demokratie stabilisieren und Bürger*innen stärken – zwei Seiten derselben Medaille?</dc:title>
+	<dc:creator>Hedtke, Reinhold</dc:creator>
+	<dc:subject xml:lang="de-DE">Demokratie</dc:subject>
+	<dc:subject xml:lang="de-DE">Interessen</dc:subject>
+	<dc:subject xml:lang="de-DE">Ungleichheit</dc:subject>
+	<dc:subject xml:lang="de-DE">Repräsentation</dc:subject>
+	<dc:subject xml:lang="de-DE">Demokratiefördrung</dc:subject>
+	<dc:subject xml:lang="de-DE">politische Bildung</dc:subject>
+	<dc:subject xml:lang="de-DE">Partizipation</dc:subject>
+	<dc:subject xml:lang="de-DE">Demokratiebildung</dc:subject>
+	<dc:subject xml:lang="de-DE">Ökonomisierung</dc:subject>
+	<dc:subject xml:lang="de-DE">Demokratisierung</dc:subject>
+	<dc:subject xml:lang="de-DE">Kritik</dc:subject>
+	<dc:subject xml:lang="de-DE">Bürgerleitbild</dc:subject>
+	<dc:description xml:lang="de-DE">Der Beitrag diskutiert die politische Repräsentation und Partizipation von Kindern und Jugendlichen und den allgemeinen Zustand der politischen Bildung. Er thematisiert die Spannung zwischen sozialer und politischer Ungleichheit und dem Gleichheitsversprechen der Demokratie und begründet eine Akzentverschiebung hin zu einer interessenpolitischen Bildung für junge Menschen. Der Text unterstreicht die Kritikaufgabe der Wissenschaft, fordert ein Aufgreifen der Kritik der Leute und die Parteinahme der Fachdidaktik für Kinder und Jugendliche. Schließlich plädiert er für das Leitbild der schwierigen, unbequemen und gegenüber ungerechtfertigter Ungleichheit unnachgiebigen Bürger*innen.</dc:description>
+	<dc:publisher xml:lang="de-DE">Universität Bielefeld - Wissenschaftliche Einrichtung Oberstufen-Kolleg &amp; Bielefeld School of Education</dc:publisher>
+	<dc:date>2021-08-24</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="de-DE">Begutachter Beitrag</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.pflb-journal.de/index.php/pflb/article/view/4711</dc:identifier>
+	<dc:identifier>10.11576/pflb-4711</dc:identifier>
+	<dc:source xml:lang="de-DE">PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.; Bd. 3 Nr. 3 (2021): Demokratiebildung als (hoch-)schulische Querschnittsaufgabe und demokratisch-politische Bildung als Prinzip der Lehrer*innen-Bildung; 85-102</dc:source>
+	<dc:source xml:lang="en-US">PraxisForschungLehrer*innenBildung; Vol. 3 No. 3 (2021): Demokratiebildung als (hoch-)schulische Querschnittsaufgabe und demokratisch-politische Bildung als Prinzip der Lehrer*innen-Bildung; 85-102</dc:source>
+	<dc:source>2629-5628</dc:source>
+	<dc:language>deu</dc:language>
+	<dc:relation>https://www.pflb-journal.de/index.php/pflb/article/view/4711/4454</dc:relation>
+	<dc:rights xml:lang="de-DE">Copyright (c) 2021 Reinhold Hedtke</dc:rights>
+	<dc:rights xml:lang="de-DE">https://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>

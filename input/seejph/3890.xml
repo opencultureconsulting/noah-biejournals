@@ -1,42 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/3890</identifier>
-    <datestamp>2021-03-17T17:05:32Z</datestamp>
-    <setSpec>seejph:ART</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="en-US">Childhood adversity and leisure time physical and sports activity in older adults: A cross-sectional analysis from the International Mobility in Aging Study</dc:title>
-      <dc:creator> W. Hwang, Phoebe</dc:creator>
-      <dc:creator>dos Santos Gomes, Cristiano </dc:creator>
-      <dc:creator> Auais, Mohammad</dc:creator>
-      <dc:creator> L. Braun, Kathryn</dc:creator>
-      <dc:creator> M. Pirkle, Catherine</dc:creator>
-      <dc:subject xml:lang="en-US">childhood adversity</dc:subject>
-      <dc:subject xml:lang="en-US">gerontology</dc:subject>
-      <dc:subject xml:lang="en-US">global health</dc:subject>
-      <dc:subject xml:lang="en-US">physical activity</dc:subject>
-      <dc:description xml:lang="en-US">Aim: The purpose is to examine the relationship between childhood adversity and leisure time physical activity (LTPA) among community-dwelling older adults from high and middle-income sites.
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>3890</id>
+	<dc:title xml:lang="en-US">Childhood adversity and leisure time physical and sports activity in older adults: A cross-sectional analysis from the International Mobility in Aging Study</dc:title>
+	<dc:creator> W. Hwang, Phoebe</dc:creator>
+	<dc:creator>dos Santos Gomes, Cristiano </dc:creator>
+	<dc:creator> Auais, Mohammad</dc:creator>
+	<dc:creator> L. Braun, Kathryn</dc:creator>
+	<dc:creator> M. Pirkle, Catherine</dc:creator>
+	<dc:subject xml:lang="en-US">childhood adversity</dc:subject>
+	<dc:subject xml:lang="en-US">gerontology</dc:subject>
+	<dc:subject xml:lang="en-US">global health</dc:subject>
+	<dc:subject xml:lang="en-US">physical activity</dc:subject>
+	<dc:description xml:lang="en-US">Aim: The purpose is to examine the relationship between childhood adversity and leisure time physical activity (LTPA) among community-dwelling older adults from high and middle-income sites.
 Methods: Cross-sectional analysis of 2012 data from older adult ages 64-75 years old from King-ston, Canada; St. Hyacinthe, Canada; Tirana, Albania; Manizales, Colombia; and Natal, Brazil. Principal exposure variables were childhood social and economic adversity. Covariates included participant age, sex, income, and educational attainment. Outcome variables were LTPA and lei-sure time sports activity (LTSA).
 Results: High-income sites had higher LTPA prevalence than middle-income sites. Females were less likely to engage in LTPA compared to males in Tirana (OR:0.53, 95%CI:0.30-0.94), but were more likely to engage in LTPA in Manizales (OR:2.54, 95%CI:1.54-4.18). Low education was less likely than high education to engage in LTPA in Kingston (OR:0.38, 95%CI:0.19-0.73) and Natal (OR: 0.52, 95%CI:0.28-0.97). Low income was less likely than high income to engage in LTPA in St. Hyacinthe (OR: 0.42, 95%CI:0.20-0.89) and Manizales (OR:0.33, 95%CI:0.16-0.55). In Tirana, low income was more likely than high income to engage in LTPA (OR:5.27, 95%CI:2.06-13.51).
 Conclusions: Childhood economic and social adversity were not significantly associated with LTPA. Sex, income, and education were associated with older adult PA engagement, however the direction of the association varied by site location. This suggests that the paradigms surrounding PA behavior may vary from city to city. Understanding the site-specific risk factors to PA engage-ment may better inform clinical recommendations and public health approaches to increase PA engagement among older adults across the globe.
 Conflicts of interest: None declared.</dc:description>
-      <dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
-      <dc:date>2020-10-26</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.seejph.com/index.php/seejph/article/view/3890</dc:identifier>
-      <dc:identifier>10.4119/seejph-3890</dc:identifier>
-      <dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
-      <dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
-      <dc:source>2197-5248</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.seejph.com/index.php/seejph/article/view/3890/3871</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2020 Phoebe  W. Hwang, Cristiano  dos Santos Gomes, Mohammad  Auais, Kathryn  L. Braun, Catherine  M. Pirkle</dc:rights>
-      <dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+	<dc:publisher xml:lang="en-US">Jacobs Verlag</dc:publisher>
+	<dc:date>2020-10-26</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.seejph.com/index.php/seejph/article/view/3890</dc:identifier>
+	<dc:identifier>10.4119/seejph-3890</dc:identifier>
+	<dc:source xml:lang="de-DE">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
+	<dc:source xml:lang="en-US">South Eastern European Journal of Public Health (SEEJPH); Volume XV, 2020</dc:source>
+	<dc:source>2197-5248</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.seejph.com/index.php/seejph/article/view/3890/3871</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2020 Phoebe  W. Hwang, Cristiano  dos Santos Gomes, Mohammad  Auais, Kathryn  L. Braun, Catherine  M. Pirkle</dc:rights>
+	<dc:rights xml:lang="en-US">https://creativecommons.org/licenses/by/4.0</dc:rights>
+</oai_dc:dc>

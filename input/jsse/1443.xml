@@ -1,38 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Record>
-  <header status="">
-    <identifier>oai:biejournals.de:article/1443</identifier>
-    <datestamp>2020-07-01T09:58:58Z</datestamp>
-    <setSpec>jsse:FeT</setSpec>
-  </header>
-  <metadata>
-    <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-      <dc:title xml:lang="de-DE">Beeinflusst non-formale und informale Bildung die politische Partizipation?</dc:title>
-      <dc:title xml:lang="en-US">Do non-formal and informal adult education affect citizens’ political participation during adulthood?</dc:title>
-      <dc:creator>Busse, Robin</dc:creator>
-      <dc:creator>Lischewski, Julia</dc:creator>
-      <dc:creator>Seeber, Susan</dc:creator>
-      <dc:description xml:lang="en-US">Purpose: While research on political participation hardly takes into account the effects of non-formal or informal education, the effects of formal education are well investigated. The aim of this paper is to determine the extent to which non-formal and informal education contribute to adults’ participation in different political activities when formal educational background and other socioeconomic factors are controlled. 
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/  http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><id>1443</id>
+	<dc:title xml:lang="de-DE">Beeinflusst non-formale und informale Bildung die politische Partizipation?</dc:title>
+	<dc:title xml:lang="en-US">Do non-formal and informal adult education affect citizens’ political participation during adulthood?</dc:title>
+	<dc:creator>Busse, Robin</dc:creator>
+	<dc:creator>Lischewski, Julia</dc:creator>
+	<dc:creator>Seeber, Susan</dc:creator>
+	<dc:description xml:lang="en-US">Purpose: While research on political participation hardly takes into account the effects of non-formal or informal education, the effects of formal education are well investigated. The aim of this paper is to determine the extent to which non-formal and informal education contribute to adults’ participation in different political activities when formal educational background and other socioeconomic factors are controlled. 
 Method: This paper uses data from the German National Educational Panel Study (NEPS, N=9,084). Binomial logistic regressions are used for the analyses, and average marginal effects (AMEs) are used for the model’s output.
 Findings: The findings reveal that non-formal and informal adult education significantly affect different political activities. However, the effects of non-formal and informal adult education differ with regard to the different forms of political participation. The results underline the importance of differentiated analyses of political participation and non-formal and informal adult education. In addition, the results show that some types of non-formal and informal education have a greater impact on adults of low socioeconomic status. 
 Research limitations: This paper cannot account for self-selection effects because adults’ participation in different political activities was collected only in one wave. </dc:description>
-      <dc:publisher xml:lang="en-US">sowi-online e.V., Bielefeld, Germany</dc:publisher>
-      <dc:date>2019-04-01</dc:date>
-      <dc:type>info:eu-repo/semantics/article</dc:type>
-      <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
-      <dc:type xml:lang="en-US">text</dc:type>
-      <dc:type xml:lang="de-DE">text</dc:type>
-      <dc:format>application/pdf</dc:format>
-      <dc:identifier>https://www.jsse.org/index.php/jsse/article/view/1443</dc:identifier>
-      <dc:identifier>10.4119/jsse-1443</dc:identifier>
-      <dc:source xml:lang="de-DE">JSSE - Journal of Social Science Education; Bd. 18 Nr. 4 (2019):  Participation in Non-Formal Education and Community Education - Implications for Civic and Political Capital; 5-24</dc:source>
-      <dc:source xml:lang="en-US">JSSE - Journal of Social Science Education; Vol. 18 No. 4 (2019):  Participation in Non-Formal Education and Community Education - Implications for Civic and Political Capital; 5-24</dc:source>
-      <dc:source>1618-5293</dc:source>
-      <dc:language>eng</dc:language>
-      <dc:relation>https://www.jsse.org/index.php/jsse/article/view/1443/3290</dc:relation>
-      <dc:rights xml:lang="en-US">Copyright (c) 2019 JSSE - Journal of Social Science Education</dc:rights>
-      <dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by-sa/4.0</dc:rights>
-    </oai_dc:dc>
-  </metadata>
-  <about/>
-</Record>
+	<dc:publisher xml:lang="en-US">sowi-online e.V., Bielefeld, Germany</dc:publisher>
+	<dc:date>2019-04-01</dc:date>
+	<dc:type>info:eu-repo/semantics/article</dc:type>
+	<dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+	<dc:type xml:lang="en-US">text</dc:type>
+	<dc:type xml:lang="de-DE">text</dc:type>
+	<dc:format>application/pdf</dc:format>
+	<dc:identifier>https://www.jsse.org/index.php/jsse/article/view/1443</dc:identifier>
+	<dc:identifier>10.4119/jsse-1443</dc:identifier>
+	<dc:source xml:lang="de-DE">JSSE - Journal of Social Science Education; Bd. 18 Nr. 4 (2019):  Participation in Non-Formal Education and Community Education - Implications for Civic and Political Capital; 5-24</dc:source>
+	<dc:source xml:lang="en-US">JSSE - Journal of Social Science Education; Vol. 18 No. 4 (2019):  Participation in Non-Formal Education and Community Education - Implications for Civic and Political Capital; 5-24</dc:source>
+	<dc:source>1618-5293</dc:source>
+	<dc:language>eng</dc:language>
+	<dc:relation>https://www.jsse.org/index.php/jsse/article/view/1443/3290</dc:relation>
+	<dc:rights xml:lang="en-US">Copyright (c) 2019 JSSE - Journal of Social Science Education</dc:rights>
+	<dc:rights xml:lang="en-US">http://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+</oai_dc:dc>
