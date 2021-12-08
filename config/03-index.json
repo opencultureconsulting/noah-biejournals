@@ -1,0 +1,14 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "id",
+    "expression": "grel:row.record.index",
+    "onError": "set-to-blank",
+    "newColumnName": "index",
+    "columnInsertIndex": 1
+  }
+]

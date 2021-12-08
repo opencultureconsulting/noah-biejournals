@@ -1,0 +1,169 @@
+{{
+if(row.index - row.record.fromRowIndex == 0,
+with(cross(cells['index'].value, '' , 'index'), rows,
+'<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">' + '\n' +
+'    <mets:dmdSec ID="' + 'DMD_' + cells['id'].value.escape('xml') + '">' + '\n' +
+'        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">' + '\n' +
+'            <mets:xmlData>' + '\n' +
+'                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">' + '\n' +
+                     forEach(filter(rows, r, isNonBlank(r.cells['titleInfo/title'].value)), r,
+'                    <titleInfo' + forNonBlank(r.cells['titleInfo@lang'].value, v, ' lang="' + v.escape('xml') + '"', '') + forNonBlank(r.cells['titleInfo@type'].value, v, ' type="' + v.escape('xml') + '"', '') + '>' + '\n' +
+                         forNonBlank(r.cells['titleInfo/nonsort'].value, v,
+'                        <nonSort>' + v.escape('xml') + '</nonSort>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['titleInfo/title'].value, v,
+'                        <title>' + v.escape('xml') + '</title>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['titleInfo/subTitle'].value, v,
+'                        <subTitle>' + v.escape('xml') + '</subTitle>' + '\n'
+                         , '') +
+'                    </titleInfo>' + '\n'
+                    ).join('') +
+                     forEachIndex(rows, i, r, if(r.cells['name@type'].value == 'personal',
+'                    <name type="personal"' + forNonBlank(r.cells['name@authority=gnd@valueURI'].value, v, ' authority="gnd" authorityURI="http://d-nb.info/gnd/" valueURI="' + v.escape('xml') + '"', '') + '>' + '\n' +
+'                        <displayForm>' + r.cells['name/displayForm'].value.escape('xml') + '</displayForm>' + '\n' +
+                         forNonBlank(r.cells['name/namePart@type=family'].value, v,
+'                        <namePart type="family">' + v.escape('xml') + '</namePart>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['name/namePart@type=given'].value, v,
+'                        <namePart type="given">' + v.escape('xml') + '</namePart>'  + '\n'
+                         , '') +
+                         forNonBlank(r.cells['name/nameIdentifier@type=orcid'].value, v,
+'                        <nameIdentifier type="orcid" typeURI="http://orcid.org">' + v.escape('xml') + '</nameIdentifier>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['name/role/roleTerm@authority=marcrelator'].value, v,
+'                        <role>' + '\n' +
+'                            <roleTerm type="code" authority="marcrelator">' + v.escape('xml') + '</roleTerm>' + '\n' +
+'                        </role>' + '\n'
+                         , '') +
+'                    </name>' + '\n'
+                     , '')).join('') +
+'                    <typeOfResource>text</typeOfResource>' + '\n' +
+                     forNonBlank(cells['genre@authority=dini'].value, v,
+'                    <genre authority="dini">' + v.escape('xml') + '</genre>' + '\n'
+                     , '') +
+'                    <originInfo>' + '\n' +
+                     forEach(filter(rows, r, isNonBlank(r.cells['originInfo/dateIssued'].value)), r,
+'                        <dateIssued encoding="w3cdtf"' + forNonBlank(r.cells['originInfo/dateIssued@keyDate'].value, v, ' keyDate="' + v.escape('xml') + '"', '') + '>' + r.cells['originInfo/dateIssued'].value.escape('xml') + '</dateIssued>' + '\n'
+                     ).join('') +
+                     forEach(filter(rows, r, isNonBlank(r.cells['originInfo/dateOther'].value)), r,
+'                        <dateOther encoding="w3cdtf"' + forNonBlank(r.cells['originInfo/dateOther@keyDate'].value, v, ' keyDate="' + v.escape('xml') + '"', '') + '>' + r.cells['originInfo/dateOther'].value.escape('xml') + '</dateOther>' + '\n'
+                     ).join('') +
+'                    </originInfo>' + '\n' +
+                     forNonBlank(cells['language/languageTerm@authority=iso639-2'].value, v,
+'                    <language>' + '\n' +
+'                        <languageTerm type="code" authority="iso639-2b">' + v.escape('xml') + '</languageTerm>' + '\n' +
+'                    </language>' + '\n'
+                     , '') +
+                     forNonBlank(cells['physicalDescription/extent@unit=page'].value, v,
+'                    <physicalDescription>' + '\n' +
+'                        <extent unit="page">' + v.escape('xml') + '</extent>' + '\n' +
+'                    </physicalDescription>' + '\n'
+                     , '') +
+                     forEach(filter(rows, r, isNonBlank(r.cells['abstract'].value)), r,
+'                    <abstract' + forNonBlank(r.cells['abstract@lang'].value, v, ' lang="' + v.escape('xml') + '"', '') + '>' + r.cells['abstract'].value.escape('xml') + '</abstract>' + '\n'
+                     ).join('') +
+                     forEach(filter(rows, r, isNonBlank(r.cells['note'].value)), r,
+'                    <note' + forNonBlank(r.cells['note@type'].value, v, ' type="' + v.escape('xml') + '"', '') + '>' + r.cells['note'].value.escape('xml') + '</note>' + '\n'
+                     ).join('') +
+                     if(isNonBlank(row.record.cells['subject@lang'].value.inArray('ger')),
+'                    <subject lang="ger">' + '\n'
+                     , '') +
+                     forEach(filter(rows, r, r.cells['subject@lang'].value == 'ger'), r,
+                         forEach(r.cells['subject/topic'].value, v,
+'                        <topic>' + v.trim().escape('xml') + '</topic>' + '\n'
+                         ).join('')
+                     ).join('') +
+                     if(isNonBlank(row.record.cells['subject@lang'].value.inArray('ger')),
+'                    </subject>' + '\n'
+                     , '') +
+                     if(isNonBlank(row.record.cells['subject@lang'].value.inArray('eng')),
+'                    <subject lang="eng">' + '\n'
+                     , '') +
+                     forEach(filter(rows, r, r.cells['subject@lang'].value == 'eng'), r,
+                         forEach(r.cells['subject/topic'].value, v,
+'                        <topic>' + v.trim().escape('xml') + '</topic>' + '\n'
+                         ).join('')
+                     ).join('') +
+                     if(isNonBlank(row.record.cells['subject@lang'].value.inArray('eng')),
+'                    </subject>' + '\n'
+                     , '') +
+                     forEach(filter(rows, r, isNonBlank(r.cells['classification@authority=ddc'].value)), r,
+'                    <classification authority="ddc">' + r.cells['classification@authority=ddc'].value.escape('xml') + '</classification>' + '\n'
+                     ).join('') +
+                     forEach(filter(rows, r, isNonBlank(r.cells['classification@authority=ioo@displayLabel'].value)), r,
+'                    <classification authority="ioo" displayLabel="' + r.cells['classification@authority=ioo'].value.escape('xml') + '"></classification>' + '\n'
+                     ).join('') +
+                     forEachIndex(rows, i, r, if(r.cells['relatedItem@type'].value == 'host',
+'                    <relatedItem type="host">' + '\n' +
+'                        <titleInfo>' + '\n' +
+'                            <title>' + r.cells['relatedItem/titleInfo/title'].value.escape('xml') + '</title>' + '\n' +
+'                        </titleInfo>' + '\n' +
+'                        <part>' + '\n' +
+                         forNonBlank(r.cells['relatedItem/part/detail@type=volume/number'].value, v,
+'                            <detail type="volume">' + '\n' +
+'                                <number>' + v.escape('xml') + '</number>' + '\n' +
+'                            </detail>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['relatedItem/part/detail@type=issue/number'].value, v,
+'                            <detail type="issue">' + '\n' +
+'                                <number>' + v.escape('xml') + '</number>' + '\n' +
+'                            </detail>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['relatedItem/part/extent@unit=page/start'].value, v,
+'                            <extent unit="page">' + '\n' +
+'                                <start>' + v.escape('xml') + '</start>' + '\n' +
+                                 forNonBlank(r.cells['relatedItem/part/extent@unit=page/end'].value, v,
+'                                <end>' + v.escape('xml') + '</end>' + '\n'
+                                 , '') +
+'                            </extent>' + '\n'
+                         , '') +
+'                        </part>' + '\n' +
+'                    </relatedItem>' + '\n'
+                     , '')).join('') +
+                     forNonBlank(cells['identifier@type=urn'].value, v,
+'                    <identifier type="urn">' + v.escape('xml') + '</identifier>' + '\n'
+                     , '') +
+                     forNonBlank(cells['identifier@type=doi'].value, v,
+'                    <identifier type="doi">' + v.escape('xml') + '</identifier>' + '\n'
+                     , '') +
+                     forNonBlank(cells['identifier@type=sys'].value, v,
+'                    <identifier type="sys">' + v.escape('xml') + '</identifier>' + '\n'
+                     , '') +
+                     forEach(filter(rows, r, isNonBlank(r.cells['accessCondition'].value)), r,
+'                    <accessCondition type="use and reproduction" xlink:href="' + r.cells['accessCondition@xlink:href'].value.escape('xml') + '">' + r.cells['accessCondition'].value.escape('xml') + '</accessCondition>' + '\n'
+                     ).join('') +
+'                    <recordInfo>' + '\n' +
+'                        <recordIdentifier>' + cells['id'].value.escape('xml') + '</recordIdentifier>' + '\n' +
+'                    </recordInfo>' + '\n' +
+                     forNonBlank(cells['extension/vl:doctype'].value, v,
+'                    <extension>' + '\n' +
+'                        <vl:doctype>' + v.escape('xml') + '</vl:doctype>' + '\n' +
+'                    </extension>' + '\n'
+                     , '') +
+'                </mods>' + '\n' +
+'            </mets:xmlData>' + '\n' +
+'        </mets:mdWrap>' + '\n' +
+'    </mets:dmdSec>' + '\n' +
+'    <mets:fileSec>' + '\n' +
+         forEachIndex(filter(rows, r, isNonBlank(r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value)), i, r,
+'        <mets:fileGrp USE="' + if(r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value == filter(row.record.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value, v, v.toLowercase().contains('.pdf'))[0], 'pdf upload', 'generic file') + '">' + '\n' +
+'            <mets:file MIMETYPE="' + r.cells['fileSec/fileGrp/file@MIMETYPE'].value.escape('xml') + '" ID="FILE' + i + cells['id'].value.escape('xml') + '">' + '\n' +
+'                <mets:FLocat xlink:href="' + r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value.escape('xml') + '" LOCTYPE="URL"/>' + '\n' +
+'            </mets:file>' + '\n' +
+'        </mets:fileGrp>' + '\n'
+         ).join('') +
+'    </mets:fileSec>' + '\n' +
+'    <mets:structMap TYPE="LOGICAL">' + '\n' +
+'        <mets:div TYPE="document" ID="' + cells['id'].value.escape('xml') + '" DMDID="' + 'DMD_' + cells['id'].value.escape('xml') + '">' + '\n' +
+'            <mets:fptr FILEID="' + 'FILE0' + '_' + cells['id'].value.escape('xml') + '"/>' + '\n' +
+             forEachIndex(filter(rows, r, isNonBlank(r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value)).slice(1), i, r,
+'            <mets:div TYPE="part" ID="' + 'PART' + (i+1) + '_' + cells['id'].value.escape('xml') + '" LABEL="' + r.cells['structMap/div@LABEL'].value.escape('xml') + '">' + '\n' +
+'                <mets:fptr FILEID="' + 'FILE' + (i+1) + '_' + cells['id'].value.escape('xml') + '"/>' + '\n' +
+'            </mets:div>' + '\n'
+             ).join('') +
+'        </mets:div>' + '\n' +
+'    </mets:structMap>' + '\n' +
+'</mets:mets>' + '\n'
+), '')
+}}

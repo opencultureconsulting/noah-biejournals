@@ -1,0 +1,112 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "oai_dc:dc - xsi:schemaLocation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:source",
+    "newColumnName": "dc:source"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:source - xml:lang",
+    "newColumnName": "dc:source@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:type",
+    "newColumnName": "dc:type",
+    "description": "Rename column oai_dc:dc - dc:type to dc:type"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:type - xml:lang",
+    "newColumnName": "dc:type@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:identifier",
+    "newColumnName": "dc:identifier"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:rights - xml:lang",
+    "newColumnName": "dc:rights@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:rights",
+    "newColumnName": "dc:rights"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:creator",
+    "newColumnName": "dc:creator"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:relation",
+    "newColumnName": "dc:relation"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:subject - xml:lang",
+    "newColumnName": "dc:subject@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:subject",
+    "newColumnName": "dc:subject"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:format",
+    "newColumnName": "dc:format"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:publisher - xml:lang",
+    "newColumnName": "dc:publisher@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:publisher",
+    "newColumnName": "dc:publisher"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:title - xml:lang",
+    "newColumnName": "dc:title@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:title",
+    "newColumnName": "dc:title"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:language",
+    "newColumnName": "dc:language"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - id",
+    "newColumnName": "id"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:date",
+    "newColumnName": "dc:date"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:description - xml:lang",
+    "newColumnName": "dc:description@xml:lang"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "oai_dc:dc - dc:description",
+    "newColumnName": "dc:description"
+  }
+]
