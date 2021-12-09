@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4109">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vegetarier mit Helfern</title>
+                        <subTitle>Symbionten unterstützen Herbivorie bei Käfern</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Symbiont-assisted herbivory in beetles</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaltenpoth, Martin</displayForm>
+                        <namePart type="family">Kaltenpoth</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Spezialisierung auf pflanzliche Nahrung ist einer der Faktoren, die zum außergewöhnlichen Artenreichtum einiger Käferfamilien beigetragen haben. Um die Herausforderungen einer rein herbivoren Lebensweise zu meistern, sind viele Käferarten mit mikrobiellen Symbionten assoziiert, die sie entweder im Darm oder in speziellen Organen beherbergen. Die Mikroorganismen unterstützen die Ernährung des Wirtes durch die Bereitstellung limitierter Nährstoffe, vor allem essenzieller Aminosäuren und Vitamine, durch die Produktion von Enzymen, die beim Aufschluss der pflanzlichen Zellwände helfen, oder durch die Entgiftung pflanzlicher Sekundärmetabolite. Dadurch können die Symbionten ihren Wirten die Nutzung neuer Wirtspflanzen ermöglichen und ihre Widerstandsfähigkeit gegenüber abiotischen Stressfaktoren verbessern. Angesichts des aktuellen Rückganges vieler Insektenarten und ihrer zentralen Bedeutung für die meisten terrestrischen Ökosysteme ist ein genaueres Verständnis ihrer Interaktion mit Mikroorganismen nicht nur von wissenschaftlichem Interesse, sondern auch von großer Bedeutung für den Arten- und Naturschutz.</abstract>
+                    <abstract lang="eng">A specialized herbivorous lifestyle is one of the key factors contributing to the enormous diversity of several beetle families. To cope with the challenges associated with a strictly plant-based diet, many beetle species engage in symbioses with microorganisms that they harbor in the gut or in specialized organs. These microbial symbionts support their hosts’ nutrition by supplementing limiting nutrients, specifically essential amino acids or vitamins, by providing enzymes for the digestion of plant cell wall components, or by detoxifying plant secondary metabolites. As such, the symbionts can enable their insect hosts to utilize novel food plants and improve their resistance towards abiotic stressors. Considering the current decline in insect populations and their central importance for most terrestrial ecosystems, a detailed understanding of their interactions with microorganisms is not only of fundamental interest but also of utmost relevance for nature conservation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4109</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4109">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4109/4105" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4109" DMDID="DMD_biejournals_4109">
+            <mets:fptr FILEID="FILE0_biejournals_4109"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

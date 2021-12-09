@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3024">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Self-efficacy in Anger Management and Dating Aggression in Italian Young Adults</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nocentini, Annalaura</displayForm>
+                        <namePart type="family">Nocentini</namePart>
+                        <namePart type="given">Annalaura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pastorelli, Concetta</displayForm>
+                        <namePart type="family">Pastorelli</namePart>
+                        <namePart type="given">Concetta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menesini, Ersilia</displayForm>
+                        <namePart type="family">Menesini</namePart>
+                        <namePart type="given">Ersilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An examination of the influence of self-efficacy regarding anger management on psychological and physical dating aggression using an agentic perspective of individual functioning. The investigation applied both the individual perspective (Study 1) and the interactional perspective (Study 2). The sample comprised 470 Italian young adults (223 females) (mean age across genders = 19.10; ds = 1.30) in study 1, and 62 couples in study 2 (mean age for males = 22.34; ds = 2.59; mean age for females = 19.58; ds = 1.50). The first study found that individuals’ efficacy regarding anger management affect dysfunctional behaviors toward the partner via couple conflict. The second study found that one partner’s efficacy regarding anger management affected couple conflict, which in turn affected the other partner’s psychological aggression. Results are discussed within an agentic framework of human development, where young adult partners are proactive agents of their own and their partners&apos; behaviors, contributing actively to their intimate relationship adjustment rather than just re-acting to their partners’ behaviors.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3024</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3024">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3024/pdf_91" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3024">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3024/2995" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3024" DMDID="DMD_biejournals_3024">
+            <mets:fptr FILEID="FILE0_biejournals_3024"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3024" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3024"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4104">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie Bakterien Algen vernaschen</title>
+                        <subTitle>Süßes Festmahl mit mehreren Gängen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>How bacteria devour algae</title>
+                        <subTitle>Sweet feast with multiple courses</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Amann, Rudolf</displayForm>
+                        <namePart type="family">Amann</namePart>
+                        <namePart type="given">Rudolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aspetsberger, Fanni</displayForm>
+                        <namePart type="family">Aspetsberger</namePart>
+                        <namePart type="given">Fanni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die massive Vermehrung winziger Algen im Meer, des Phytoplanktons, führt dazu, dass sich etwa in der Nordsee jedes Frühjahr eine sogenannte Algenblüte bildet. Die Algen bilden nicht nur die Grundlage der Nahrungskette, sie dienen auch Bakterien als Nahrung. Diese zersetzen die Algen und deren Überreste. Für die Bakterien ist dabei nicht entscheidend, welche Algenarten vorhanden sind, sondern welche Mehrfachzucker diese enthalten. Anhand der bakteriellen Genome können wir sehen, welche Bakterien vorkommen, welche Zucker sie vermutlich abbauen und welche Funktion sie im Kohlenstoffkreislauf voraussichtlich haben. Langzeituntersuchungen, Observatorien und Bioarchive sind unverzichtbar für diese Forschung, die angesichts des Klimawandels besonders relevant ist.</abstract>
+                    <abstract lang="eng">The massive growth of tiny algae in the ocean, the phytoplankton, causes a so-called algae bloom to form every spring in the North Sea. The algae not only form the basis of the food chain, they also serve as food for bacteria, which decompose the algae and their remains. For the bacteria, it is not decisive which types of algae are present, but which polysaccharides they contain. Based on the bacterial genomes, we can see which bacteria are present, which sugars they might break down and what function they presumably have in the carbon cycle. Long-term studies, observatories and bioarchives are essential for this research, which is particularly relevant in view of climate change.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4104</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4104">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4104/4100" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4104" DMDID="DMD_biejournals_4104">
+            <mets:fptr FILEID="FILE0_biejournals_4104"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

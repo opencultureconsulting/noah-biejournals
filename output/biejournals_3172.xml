@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3172">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehrer*innenforschung, Praxisforschung und Forschendes Lernen – Ein Bericht über Bielefelder Erfahrungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tillmann, Klaus-Jürgen</displayForm>
+                        <namePart type="family">Tillmann</namePart>
+                        <namePart type="given">Klaus-Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag werden die Erfahrungen aus der Laborschule und dem Oberstufen-Kolleg mit Lehrer*innenforschung und Praxisforschung sowie Erfahrungen aus der Lehrer*innenausbildung mit Forschendem Lernen dargestellt. Zunächst wird das Verständnis von Lehrer*innen- und Praxisforschung näher erläutert; anschließend wird am Beispiel des Oberstufen-Kollegs beschrieben, wie sich das Konzept der Lehrer*innenforschung/Praxisforschung im Laufe der Zeit verändert hat. Das Forschende Lernen in der Lehrer*innenausbildung, als ein mit der Praxisforschung verwandtes Konzept, wird in zwei curricularen Formaten vorgestellt, mit und ohne parallel stattfindende eigene Unterrichtserfahrungen der Studierenden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3172</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3172">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3172/3322" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3172" DMDID="DMD_biejournals_3172">
+            <mets:fptr FILEID="FILE0_biejournals_3172"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

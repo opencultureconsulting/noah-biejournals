@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2154">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stichworte zur Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kreft, Jürgen</displayForm>
+                        <namePart type="family">Kreft</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Supervision als Aufklärung</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2154</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2154">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2154/2021" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2154" DMDID="DMD_biejournals_2154">
+            <mets:fptr FILEID="FILE0_biejournals_2154"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,122 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1841">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Preparing society to create the world we need through ‘One Health’ education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lueddeke, George R.</displayForm>
+                        <namePart type="family">Lueddeke</namePart>
+                        <namePart type="given">George R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaufman, Gretchen E.</displayForm>
+                        <namePart type="family">Kaufman</namePart>
+                        <namePart type="given">Gretchen E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kahn, Laura H.</displayForm>
+                        <namePart type="family">Kahn</namePart>
+                        <namePart type="given">Laura H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krecek, Rosina C.</displayForm>
+                        <namePart type="family">Krecek</namePart>
+                        <namePart type="given">Rosina C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Willingham, A. Lee</displayForm>
+                        <namePart type="family">Willingham</namePart>
+                        <namePart type="given">A. Lee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stroud, Cheryl M.</displayForm>
+                        <namePart type="family">Stroud</namePart>
+                        <namePart type="given">Cheryl M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lindenmayer, Joann M.</displayForm>
+                        <namePart type="family">Lindenmayer</namePart>
+                        <namePart type="given">Joann M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaplan, Bruce</displayForm>
+                        <namePart type="family">Kaplan</namePart>
+                        <namePart type="given">Bruce</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Conti, Lisa A.</displayForm>
+                        <namePart type="family">Conti</namePart>
+                        <namePart type="given">Lisa A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Monath, Thomas P.</displayForm>
+                        <namePart type="family">Monath</namePart>
+                        <namePart type="given">Thomas P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Woodall, John (Jack)</displayForm>
+                        <namePart type="family">Woodall</namePart>
+                        <namePart type="given">John (Jack)</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Growing concerns about a threatened environment, conflicts, inequities, poverty, ideological extremes, and consumerism  are all indicative of a pressing need to reflect on the global status quo and to find constructive and long-term, sustainable strategies for planet and people. The need to give the younger generation “a better deal” for helping to shape a sustainable world has been embraced by the global One Health Commission (OHC) in association with the One Health Initiative (OHI). Envisioning a program that provides funding for national and global One Health-themed educational projects, One Health leaders - in collaboration with partners - call for collective action by legislators, public / private educators, and public health professionals to support the development and implementation of progressive and comprehensive global One Health learning opportunities. One Health (and well-being) projects led by teachers who want to make a difference could begin in primary/secondary schools and extend through graduate and professional education. The overall intent of the concept paper is to raise awareness about the urgent need for the development  and to explore the concept further through a small pre-project proposal conference  (possibly off and/or on-line) with a view to fleshing out a strong plan to fund the envisioned global learning program. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1841</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1841">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1841/1762" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1841" DMDID="DMD_biejournals_1841">
+            <mets:fptr FILEID="FILE0_biejournals_1841"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

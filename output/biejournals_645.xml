@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_645">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Taking into Account Knowledge Representations About the Crisis, Uncertainty and Risk in the Teaching Perspective</title>
+                        <subTitle>A Comparative Study of European Students in Economics Programmes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jeziorski, Agnieszka</displayForm>
+                        <namePart type="family">Jeziorski</namePart>
+                        <namePart type="given">Agnieszka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Legardez, Alain</displayForm>
+                        <namePart type="family">Legardez</namePart>
+                        <namePart type="given">Alain</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Valente, Doris</displayForm>
+                        <namePart type="family">Valente</namePart>
+                        <namePart type="given">Doris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-10-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Drawing on work conducted on the use of the analysis of social representations in a school context and on the management of relationships with knowledge about socially acute economic issues, a medium-term survey (2000 to 2009) was conducted in several European countries of students who were at the end of the cycle in their economics programmes at lycée, or secondary school. The study examined the students’ system of knowledge representations of “economic uncertainty and risk”. The aim was to identify scientific, academic and social elements of a possible representation in this domain. The analysis will focus on a comparison between Italian and French students; it will seek to identify constants and changes, to speculate on their causes and effects, and to suggest instructional strategies that may have an impact on potential obstacles and supports for academic and civic learning.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_645</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_645">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/645/666" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_645" DMDID="DMD_biejournals_645">
+            <mets:fptr FILEID="FILE0_biejournals_645"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

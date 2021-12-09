@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1641">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Naturwissenschaftliches Vorverständnis von Kindern zum Zeitpunkt der Einschulung </title>
+                        <subTitle>Eine Studie zu außerschulisch erworbenen Kenntnissen und Vorstellungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spägele, Eckart</displayForm>
+                        <namePart type="family">Spägele</namePart>
+                        <namePart type="given">Eckart</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Flintjer, Bolko</displayForm>
+                        <namePart type="family">Flintjer</namePart>
+                        <namePart type="given">Bolko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel der Studie war es ein möglichst umfassendes Bild naturwissenschaftlicher Kenntnisse und Vorstellungen von Kindern zu Beginn ihrer schulischen Laufbahn zu zeichnen. Dabei sollten die Kenntnisse in Abhängigkeit von der sozialen Herkunft und der intellektuellen Leistungsfähigkeit ermittelt werden. Aus den Befunden ergaben sich zahlreiche Hinweise auf vorhandene konzeptionelle Vorstellungen der Kinder über alle Naturwissenschaften hinweg. Zur Ermittlung vorhandener Kenntnisse wurde ein 73 Fragen umfassender Interviewbogen entwickelt, der sich an die inhaltlichen Vorgaben des baden-württembergischen Bildungsplans für Grundschulen hielt. Die intellektuelle Leistungsfähigkeit wurde durch einen standardisierten Tests (CPM), die Fertigkeiten durch Hands-on Aufgaben sowie der soziale Hintergrund durch eine entsprechende Stichprobenauswahl und einem Elternfragebogen erhoben. Insgesamt wurden innerhalb der Hauptstudie 130 Kinder untersucht. Die Ergebnisse legen dar, dass das Vorwissen der Schulanfänger im Bereich der stofflichen Natur am geringsten ist. Dabei sind die Kenntnisse wesentlich von der sozialen Herkunft geprägt. Hingegen konnte kein signifikanter Zusammenhang zwischen dem ermittelten naturwissenschaftlichen Wissen und der intellektuellen Leistungsfähigkeit festgestellt werden. Die Schulanfänger verfügen über verhältnismäßig rudimentäre konzeptionelle Vorstellungen in Bereichen, die sich mit „inneren“, nicht sichtbaren, stofflichen Vorgängen und Prozessen beschäftigen. Dabei wird in der Regel vom äußeren Eindruck auf die innere Beschaffenheit unbelebter Objekte sowie Lebewesen geschlossen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1641</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1641">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1641/1587" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1641" DMDID="DMD_biejournals_1641">
+            <mets:fptr FILEID="FILE0_biejournals_1641"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3892">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexions- und Feedbackformate zur kohärenten Ausgestaltung des Praxissemesters</title>
+                        <subTitle>Einführung in das Themenheft des QLB-Projekts KoLBi</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schellenbach-Zell, Judith</displayForm>
+                        <namePart type="family">Schellenbach-Zell</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Freund, Stefan</displayForm>
+                        <namePart type="family">Freund</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Degeling, Maria</displayForm>
+                        <namePart type="family">Degeling</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Franken, Nadine</displayForm>
+                        <namePart type="family">Franken</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Greiten, Silvia</displayForm>
+                        <namePart type="family">Greiten</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neuhaus, Daniela</displayForm>
+                        <namePart type="family">Neuhaus</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Themenheft werden Reflexions- und Feedbackformate zur kohärenten Ausgestaltung des Praxissemesters vorgestellt. Diese Formate wurden im vom BMBF geförderten Projekt „KoLBi – Kohärenz in der Lehrerbildung“ an der Bergischen Universität Wuppertal entwickelt, erprobt, erforscht und evaluiert. Die Darstellung der unterschiedlichen Formate ist so aufbereitet, dass diese hochschuldidaktisch eingesetzt werden können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3892</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3892">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3892/3896" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3892" DMDID="DMD_biejournals_3892">
+            <mets:fptr FILEID="FILE0_biejournals_3892"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

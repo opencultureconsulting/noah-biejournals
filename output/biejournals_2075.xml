@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2075">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision im Feld der stationären Hilfen zur Erziehung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lauinger, Wilfried</displayForm>
+                        <namePart type="family">Lauinger</namePart>
+                        <namePart type="given">Wilfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pape, Inken</displayForm>
+                        <namePart type="family">Pape</namePart>
+                        <namePart type="given">Inken</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der folgende Beitrag benennt die Themen und Phänomene, in denen sich strukturelle B edingungen, Ziele, Ansprüche und Anforderungen niederschlagen, wenn ihre Konkretisierung in der Arbeit von Pflegeeltern und Professionellen mit Kindern, Jugendlichen und Eltern stattfindet bzw. stattfinden soll. Die Aussagen stützen sich auf Interviews mit Führungskräften und Mitarbeitenden sowie auf die eigene Supervisorische Praxis der Verfasser in Heimen, heimähnlichen und familienanalogen Hilfen zur Erziehung. Supervidierende benötigen demnach ein stabiles Konzept, wenn sie der Sachlage angemessen begegnen, die Mitarbeitenden spürbar unterstützen und dabei selbst ausreichenden Abstand wahren wollen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2075</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2075">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2075/1942" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2075" DMDID="DMD_biejournals_2075">
+            <mets:fptr FILEID="FILE0_biejournals_2075"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

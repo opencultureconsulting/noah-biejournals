@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2407">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kompetenzentwicklung durch Forschendes Lernen? Überlegungen zur Funktion von Studienprojekten im Fach Geschichte anhand empirischer Befunde</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Considerations  Regarding  the  Function  of  Study  Projects in  the  Subject History on the Basis of Empirical Findings</title>
+                        <subTitle>Überlegungen zur Funktion von Studienprojekten im Fach Geschichte anhand empirischer Befunde</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Must, Thomas</displayForm>
+                        <namePart type="family">Must</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Aufsatz bedient sich vorliegender Befunde aus einem seit 2016 laufenden Forschungsprojekt in der Geschichtsdidaktik Bielefeld, in dem die Entwicklung domänenspezifischer Kompetenzen für das Fach Geschichte untersucht wird. Dabei werden narrative und hermeneutische Kompetenzen – als zentrale Kernkompetenzen angehender Geschichtslehrer gesehen – mithilfe von Testbögen im Zuge eines Pre-Post-Follow up-Verfahrens in lehramtsbezogenen und auf das Praxissemester gerichteten Veranstaltungen getestet. Die Didaktik stellt sich die Frage, wie weit besagte Kompetenzen bereits bis zum Masterstudium ausgebildet sind und inwiefern sie sich durch den praktischen Teil der universitären Ausbildung entwickeln? Können die vor-, nachbereitenden und begleitenden Veranstaltungen und das Praxissemester selbst diese fördern und welche Inhalte stellen geeignete Interventionen dar? Zur Beantwortung der Frage, ob Studienprojekte als Kernelement Forschenden Lernens im Praxissemester eine solche Intervention darstellen könnten, werden neben der Vorstellung relevanter Aspekte des Forschungsdesigns und -instruments bisherige Befunde herangezogen und diskutiert sowie mögliche Konsequenzen aus den Erkenntnissen generiert.</abstract>
+                    <abstract lang="eng">This article uses available findings from a research project in the didactics of history in Bielefeld running since 2016, in which the development of domain-specific competencies of student teachers in the subject history are evaluated. In the process, narrative and hermeneutic competencies – seen as main competencies of prospective history teachers – are tested in seminars, designed for preparing the students for their practical semester in school, by a PRE-POST-FOLLOW UP-method with test sheets. Leading question within the didactics is the level of said competencies after nearly completing a master’s degree and in how far they are developed through the practical phases in the academic education. Can they be promoted by the preparing and accompanying seminars and the practical semester itself? Which content provides suitable interventions? In response to the question, whether study projects – seen as main element of research-based learning in the practical semester – can present such an intervention, previous findings will be used and discussed after presenting some therefore relevant aspects of design and instrument of the research project. Furthermore, possible consequences will be generated from the results.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2407</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2407">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2407/2403" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2407" DMDID="DMD_biejournals_2407">
+            <mets:fptr FILEID="FILE0_biejournals_2407"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

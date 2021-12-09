@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3192">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schulentwicklung, Praxisforschung und interner Transfer</title>
+                        <subTitle>Das neue FEP-SE-Transfermodell am Oberstufen-Kolleg</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von als noch nicht weitreichend genug empfundenen Transferaktivitäten am Oberstufen-Kolleg im Anschluss an Forschungs- und Entwicklungsprojekte (FEP) wird im vorliegenden Beitrag die Frage nach dem Zusammenhang von Forschungs- und Entwicklungsaktivitäten einerseits und deren systematischem Nexus zur organisationsbasierten Schulentwicklung (SE) andererseits gestellt. Vor dem Hintergrund einer Defizitdiagnose herkömmlicher Schulentwicklungsmodelle erfolgt ein Plädoyer für eine „professionssensible Schulentwicklung“ sowie anhand des daraus resultierenden Konzepts einer individualisierten Schulentwicklungsarbeit das Programm eines neuen FEP-SE-Transfermodells, das am Oberstufen-Kolleg nunmehr erprobt und evaluiert wird.
+Based on transfer activities at the Oberstufen-Kolleg following research and development projects (FEP), which are perceived as not yet far-reaching enough concerning the school development, this article raises the question of the connection between research and development activities on the one hand and their systematic nexus to organization-based school development (SE) on the other. Against the background of a deficit diagnosis of conventional school development models, there is a plea for a “profession-sensitive school development” and, on the basis of the resulting concept of individualized school development work, the program of a new FEP-SE transfer model, which is now being tested and evaluated at the Oberstufen-Kolleg.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3192</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3192">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3192/3320" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3192" DMDID="DMD_biejournals_3192">
+            <mets:fptr FILEID="FILE0_biejournals_3192"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

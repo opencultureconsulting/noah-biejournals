@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1983">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen im Fach Sport</title>
+                        <subTitle>Eine (standortbestimmte) Standortbestimmung entlang fachspezifischer Bedingungen, theoretischer Rahmungen und empirisch begründeter Perspektiven</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ukley, Nils</displayForm>
+                        <namePart type="family">Ukley</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröben, Bernd</displayForm>
+                        <namePart type="family">Gröben</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Faßbeck, Golo</displayForm>
+                        <namePart type="family">Faßbeck</namePart>
+                        <namePart type="given">Golo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kastrup, Valerie</displayForm>
+                        <namePart type="family">Kastrup</namePart>
+                        <namePart type="given">Valerie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der Identifizierung fachlicher Gegenstände als Grundlage empirischer Erkenntnisgewinnung zeigt diese Standortbestimmung auf, welchen Beitrag der hochschuldidaktische Ansatz des Forschenden Lernens im Kontext selbstreflexiver studentischer Auseinandersetzungen mit den Antinomien und Widersprüchlichkeiten schulischer Praxis leisten kann. Dabei nimmt er fachspezifische Besonderheiten des Zugangs zum zukünftigen Berufsfeld in den Fokus und zeigt theoretische Reflexionsfolien hierfür auf. Aus vorliegenden empirisch gewonnenen Erkenntnissen werden letztlich Aufgaben und Arbeitsansätze für weiterführende wissenschaftliche Beschäftigung skizziert und Anschlussofferten für den Transfer auf andere Fächer und nachfolgende Aus- und Weiterbildungsformate formuliert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1983</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1983">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1983/3569" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1983" DMDID="DMD_biejournals_1983">
+            <mets:fptr FILEID="FILE0_biejournals_1983"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

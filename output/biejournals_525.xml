@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_525">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>ICCS International Civics and Citizenship Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Toots, Anu</displayForm>
+                        <namePart type="family">Toots</namePart>
+                        <namePart type="given">Anu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In November 2010 the largest international study ever conducted on civic education in secondary schools has been released in Brussels. The study was performed under the auspices of the International Association for the Evaluation of Educational Achievement (IEA), an independent consortium that brings together educational researchers and policy makers in 62 countries around the world. The IEA is probably more widely known in connection of large-scale comparative studies on educational assessment in math and science (TIMSS) and in reading (PIRLS). Yet, the association has longstanding and impressive expertise also in civic education. The first study in this area has been carried out already in 1971 (Torney et al., 1975), the second – so called CIVED in 1999 (Torney-Purta et al., 2001) and now, ten years later, 38 counties around the world participated in the third study – the IEA International Civic and Citizenship Education Study (ICCS). The study tested in 2008–2009 over 140,000 lower secondary students, over 62,000 teachers and headmasters from 5,300 schools in order to analyse how young people are prepared to undertake their roles as citizens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_525</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_525">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/525/522" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_525" DMDID="DMD_biejournals_525">
+            <mets:fptr FILEID="FILE0_biejournals_525"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

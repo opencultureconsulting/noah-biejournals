@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3317">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsperspektiven auf Unterricht im Spannungsfeld von Kontingenz und Kontinuität</title>
+                        <subTitle>Einführung in das Themenheft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bender, Saskia</displayForm>
+                        <namePart type="family">Bender</namePart>
+                        <namePart type="given">Saskia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhm-Kasper, Oliver</displayForm>
+                        <namePart type="family">Böhm-Kasper</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dempki, Carolin</displayForm>
+                        <namePart type="family">Dempki</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröben, Bernd</displayForm>
+                        <namePart type="family">Gröben</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lüken, Miriam</displayForm>
+                        <namePart type="family">Lüken</namePart>
+                        <namePart type="given">Miriam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streblow, Lilian</displayForm>
+                        <namePart type="family">Streblow</namePart>
+                        <namePart type="given">Lilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag führt in das Themenheft „Forschungsperspektiven auf Unterricht im Spannungsfeld von Kontingenz und Kontinuität“ ein, das die Bielefelder Frühjahrstagung 2019 dokumentiert. Neben einer Einführung in die Thematik und der beispielhaften Darstellung von Kontingenzphänomenen stellt der Beitrag kurz die Beiträge des Themenheftes entlang ihrer jeweiligen Forschungsperspektive auf Unterricht vor.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3317</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3317">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3317/3471" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3317" DMDID="DMD_biejournals_3317">
+            <mets:fptr FILEID="FILE0_biejournals_3317"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

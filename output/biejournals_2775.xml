@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2775">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Effects of Living in Segregated vs. Mixed Areas in Northern Ireland</title>
+                        <subTitle>A Simultaneous Analysis of Contact and Threat Effects in the Context of Micro-Level Neighbourhoods</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmid, Katharina</displayForm>
+                        <namePart type="family">Schmid</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tausch, Nicole</displayForm>
+                        <namePart type="family">Tausch</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hewstone, Miles</displayForm>
+                        <namePart type="family">Hewstone</namePart>
+                        <namePart type="given">Miles</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hughes, Joanne</displayForm>
+                        <namePart type="family">Hughes</namePart>
+                        <namePart type="given">Joanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cairns, Ed</displayForm>
+                        <namePart type="family">Cairns</namePart>
+                        <namePart type="given">Ed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This study examines the consequences of living in segregated and mixed neighbourhoods on ingroup bias and offensive action tendencies, taking into consideration the role of intergroup experiences and perceived threat. Using adult data from a cross-sectional survey in Belfast, Northern Ireland, we tested a model that examined the relationship between living in segregated (N = 396) and mixed (N = 562) neighbourhoods and positive contact, exposure to violence, perceived threat and outgroup orientations. Our results show that living in mixed neighbourhoods was associated with lower ingroup bias and reduced offensive action tendencies. These effects were partially mediated by positive contact. However, our analysis also shows that respondents living in mixed neighbourhoods report higher exposure to political violence and higher perceived threat to physical safety. These findings demonstrate the importance of examining both social experience and threat perceptions when testing the relationship between social environment and prejudice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2775</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2775">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2775/2536" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2775" DMDID="DMD_biejournals_2775">
+            <mets:fptr FILEID="FILE0_biejournals_2775"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

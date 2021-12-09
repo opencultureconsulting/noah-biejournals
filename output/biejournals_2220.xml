@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstreflexion</title>
+                        <subTitle>&quot;Das Immunsystem des Selbst&quot; - Aspekte der Mentalisierungsforschung und Überlegungen zum Transfer auf Supervision</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Annemarie</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Annemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfeifer-Voigt, Susanne</displayForm>
+                        <namePart type="family">Pfeifer-Voigt</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-12</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Es geht in diesem Artikel um einen derzeit im Rahmen der Entwicklungspsychologie einerseits und Krankheitslehre um psychische Störungen wie Borderline andererseits breit diskutierten Theorieansatz mit deutlichen Auswirkungen auf therapeutisches und pädagogisches Handeln: die Mentalisierung. Wir halten diesen Ansatz für die Supervision und einem ihrer ureigensten Anliegen - Reflexion und Selbstreflexion für wichtig und bereichernd.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2220</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2220">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2220/2129" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2220" DMDID="DMD_biejournals_2220">
+            <mets:fptr FILEID="FILE0_biejournals_2220"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3049">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Postwar Violence in Guatemala</title>
+                        <subTitle>A Mirror of the Relationship between Youth and Adult Society</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kurtenbach, Sabine</displayForm>
+                        <namePart type="family">Kurtenbach</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Postwar societies are high-risk contexts for youth participation in violence. However, there is great variation between and within postwar societies. The variation of youth participation in postwar violence can best be understood by focusing on the consequences of war and war termination on youth socialization and transitions into adulthood. Socialization and transitions into adulthood stand at the center of the interaction between youth and adult society and help to explain the variation in youth violence in contexts of high structural risk.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3049</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3049">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3049/pdf_109" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3049">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3049/3045" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3049" DMDID="DMD_biejournals_3049">
+            <mets:fptr FILEID="FILE0_biejournals_3049"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3049" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3049"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

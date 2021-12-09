@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2299">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Habitusanalyse der Frau A. - Im Dreieck aus Passung, kulturellem Kapital und geschlechtlicher Prägung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zuranski, Estera</displayForm>
+                        <namePart type="family">Zuranski</namePart>
+                        <namePart type="given">Estera</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-04-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Einen Habitus hat jeder Mensch. Der Soziologe Pierre Bourdieu entwickelte eine Methode, die gesellschaftliche Konditionierungsprozesse zu seiner Formung sichtbar macht. Angewandt in Supervision können damit Klienten von der Idee, Probleme seien stets individuell an Persönlichkeit allein aufgehängt, professionell distanziert werden. Das folgende Beispiel deckt im Rahmen einer geschlechtersensiblen Beratung Herrscher und Beherrschte auf und erklärt die Position einer Empfangsdame, die, als Folge des Selbstausschlusses von geldwerter Fortbildung, ansinnt ihr finanzielles Auskommen durch Aufstiegsheirat zu sichern. Analog der repräsentierenden Arbeitsaufgabe weicht sie unbewusst auf Äußerlichkeiten aus, die ihre Komfortzone polstern und zusätzlich den Verbleib im schlechtbezahlten Beruf fördern. Position und Disposition gehen auseinander hervor und verdeutlichen Habitus als inkorporiertes Sinnsystem, weshalb seine Ablösung ein hartes Stück Supervision-Arbeit ist.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2299</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2299">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2299/2275" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2299">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2299/2276" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2299" DMDID="DMD_biejournals_2299">
+            <mets:fptr FILEID="FILE0_biejournals_2299"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2299" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2299"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

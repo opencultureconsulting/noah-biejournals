@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3612">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kasuistik zwischen Performanz und Diskurs</title>
+                        <subTitle>Dimensionen der hochschuldidaktischen Fallauswahl für Fallrekonstruktionen im Seminarrahmen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolf, Eike</displayForm>
+                        <namePart type="family">Wolf</namePart>
+                        <namePart type="given">Eike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag differenziert zunächst zwei Formate universitärer Kasuistik (pädagogische vs. erziehungssoziologische) und skizziert deren jeweilige interaktive Orientierungsrahmen. Auf dieser Grundlage wird die Fallauswahl als zentrales hochschuldidaktisches Problem kasuistischer Praxis entlang zweier Kerndimensionen der hochschuldidaktischen Auswahl von Datenmaterial identifiziert, die unabhängig von der seminaristischen Praxis selbst bereits im Vorfeld dessen Struktur bestimmen: der Edierungs- und der Bekanntheitsgrad des Datenmaterials. Im Folgenden werden die Implikationen der Datenmaterialselektion für die seminaristische Praxis sowie die universitäre Lehrer*innenbildung und damit verknüpfte Wirkungshoffnungen der Professionalisierung diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3612</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3612">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3612/3705" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3612" DMDID="DMD_biejournals_3612">
+            <mets:fptr FILEID="FILE0_biejournals_3612"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

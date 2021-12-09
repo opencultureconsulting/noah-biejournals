@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_515">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Perpetuating the Failure</title>
+                        <subTitle>Economic Education and the Current Crisis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ötsch, Walter Otto</displayForm>
+                        <namePart type="family">Ötsch</namePart>
+                        <namePart type="given">Walter Otto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kapeller, Jakob</displayForm>
+                        <namePart type="family">Kapeller</namePart>
+                        <namePart type="given">Jakob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-08-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">While the current financial crisis had an overwhelming impact on the global economy, its effect on economics as an academic discipline has been negligible. This paper explores the relationship between the financial crisis, mainstream economic theory and the education of economists. In a nutshell it shows that (a) current economic education leaves students illiterate with respect to events like the financial crisis, (b) mainstream economic theory is unable to systemically explain the financial crisis and (c) this situation will be unaffected by the recent events. On the contrary economic education will stay pretty much the same, since it incorporates a set of ideas, perceived as influential, well-established and important by the economic community.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_515</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_515">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/515/512" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_515" DMDID="DMD_biejournals_515">
+            <mets:fptr FILEID="FILE0_biejournals_515"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

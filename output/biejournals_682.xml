@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_682">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Social Studies Education Lesson from Turkey</title>
+                        <subTitle>Human Rights</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Acikalin, Mehmet</displayForm>
+                        <namePart type="family">Acikalin</namePart>
+                        <namePart type="given">Mehmet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Social studies is a field, consisting of wide variety subjects, and the content of this field differ from one country to another.  Also, how social studies are taught may differ a lot depending on each country’s culture and educational settings. Thus, it would be very interesting to see examples of social studies lessons from various countries to understand differences and similarities regarding how social studies are taught in different parts of the world. Therefore, an example of a social studies lesson from Turkish educational context is provided for the special issue of Journal of Social Science Education. This may be the first recorded and transcribed social studies lesson from Turkey.  To my knowledge there is no other example to date of a completely recorded and transcribed social studies lesson from Turkey. Thus, this study provides an example of a social studies lesson from Turkey in order to facilitate comparison with examples of social studies lessons from other parts of the world.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_682</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_682">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/682/728" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_682">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/682/729" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_682">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/682/730" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_682" DMDID="DMD_biejournals_682">
+            <mets:fptr FILEID="FILE0_biejournals_682"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_682" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_682"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_682" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_682"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

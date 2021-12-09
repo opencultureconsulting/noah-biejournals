@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Public Health Teaching Books (Open Access)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-11-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">European Stability Pact for South Eastern Europe
+Funded by Germany 2001-2010
+PUBLIC HEALTH TEACHING BOOKS (1st edition) PUBLISHED OPEN ACCESS 
+Health Systems and Their Evidence Based Development (578 pages)
+Management in Health Care Practice (672 pages)
+Health Promotion and Disease Prevention (806 pages)
+Health Determinants in the Scope of New Public Health (633 pages)
+Public Health Strategies: A Tool for Regional Development (647 pages)
+Methods and Tools in Public Health (1014 pages)
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1910</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/pdf_1" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/pdf_2" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/pdf_3" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/pdf_4" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/pdf_5" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE6_biejournals_1910">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1910/1856" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1910" DMDID="DMD_biejournals_1910">
+            <mets:fptr FILEID="FILE0_biejournals_1910"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1910" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1910"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1910" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1910"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_1910" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_1910"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_1910" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_1910"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_1910" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_1910"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_biejournals_1910" LABEL="">
+                <mets:fptr FILEID="FILE6_biejournals_1910"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

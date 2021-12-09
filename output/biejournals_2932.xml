@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2932">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Intra-Party Dynamics and the Political Transformation of Non-State Armed Groups</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dudouet, Véronique</displayForm>
+                        <namePart type="family">Dudouet</namePart>
+                        <namePart type="given">Véronique</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-04-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Although non-state armed groups are primary stakeholders in contemporary political conflicts, there has been little research into their members’ perspectives on internal factors shaping radicalisation and de-radicalisation. State and international actors often assume that bringing rebel leaders to the negotiating table or “converting” them to peaceful politicians means weakening, splitting, or dismantling militant structures. This paper re-evaluates those assumptions in the light of rebel leaders’ own accounts of internal organisational dynamics before, during, and after political conflicts and peace settlements. Participatory action research with “insider experts” from armed movements in Northern Ireland, Kosovo, Nepal, Aceh, El Salvador, Colombia, and South Africa reveals insiders’ analysis of leadership and organisational dynamics during armed conflict and political talks and highlights the rational decision-making process whereby proactive leaders constantly (re)assess and adjust their tactics (from unarmed to armed and vice versa) as the strategic environment evolves. Horizontal and vertical communication between members is critical for enabling collective ownership of transformation processes from violent insurgency to peaceful transition and preventing internal splits and disaffection during peace negotiations. The claim that rebel organisations should be dismantled as quickly as possible during peace processes is found to be dubious, highlighting instead the importance of retaining cohesive coordination and communication structures during volatile post-war transitions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2932</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2932">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2932/pdf_40" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2932">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2932/2807" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2932" DMDID="DMD_biejournals_2932">
+            <mets:fptr FILEID="FILE0_biejournals_2932"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2932" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2932"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

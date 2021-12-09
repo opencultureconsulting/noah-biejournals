@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1097">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sociolinguistic Citizenship</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rampton, Ben</displayForm>
+                        <namePart type="family">Rampton</namePart>
+                        <namePart type="given">Ben</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cooke, Mel</displayForm>
+                        <namePart type="family">Cooke</namePart>
+                        <namePart type="given">Mel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Holmes, Sam</displayForm>
+                        <namePart type="family">Holmes</namePart>
+                        <namePart type="given">Sam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper introduces Stroud’s ‘Linguistic Citizenship’, a concept committed to democratic participation, to voice, to the heterogeneity of linguistic resources and to the political value of sociolinguistic understanding.
+Approach: It first outlines Linguistic Citizenship’s links with the ethnographic sociolinguistics inspired by Hymes, and then turns to language and language education in England.&amp;nbsp;
+Findings: The discourses of language and citizenship currently dominating the UK are very much at odds with Stroud’s conception, but the sociolinguistic citizenship outlined by Stroud is very well suited to the multilingualism of everyday urban life, and it complements a range of relatively small, independently funded educational initiatives promoting similar values. Their efforts are currently constrained by issues of scale and sustainability, although there was a period from the 1960s to the 80s when sociolinguistic citizenship was addressed within English state schooling.
+Practical implications: Sociolinguistic citizenship may at present find its most sustainable support in the collaboration between universities and not-for-pro</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1097</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1097">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1097/1238" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1097" DMDID="DMD_biejournals_1097">
+            <mets:fptr FILEID="FILE0_biejournals_1097"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

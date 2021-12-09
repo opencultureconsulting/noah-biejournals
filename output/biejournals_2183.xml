@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2183">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biografisierung der Supervision und Wandel der Nachfrage oder wohin geht die DGSv</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">&quot;Ach, Supervision oder Coaching, das sind doch nur Begriffe, Hauptsache ich bekomme den Aufrag&quot;, so oder ähnlich arbeiten und &quot;argumentierenâ€™ viele Supervisorinnen und Supervisoren, die auf das Profil von Supervision und Coaching reagieren und sich hierzu in öffentlichen Diskussionen äußern. Andersherum gibt es empfindliche Reaktionen und Anfragen an den Berufsverband DGSv, wenn es um die Formate Coaching und Beratung geht. &quot;Sind wir jetzt schon eine Deutsche Gesellschaf für Coaching und Beratung?&quot; Angst vor der Verwässerung des Formates Supervision durch Coaching, Karriere- und Organisationsberatung oder Mentoring und ähnliche Formate beschäftigen Supervisoren, Institute und den Verband. Über diese Fragen kann man sich nicht hinweglächeln. Die Herausforderungen durch das Coaching ist der Anlass, die Veränderung der Nachfrage in der Supervisionslandschaft aus einer größeren historischen Perspektive aufzuzeigen. Gleichzeitig geht es nicht nur um die viel beschworene Supervision als &quot;Markeâ€™.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2183</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2183">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2183/2060" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2183">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2183/2061" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2183" DMDID="DMD_biejournals_2183">
+            <mets:fptr FILEID="FILE0_biejournals_2183"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2183" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2183"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

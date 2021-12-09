@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2526">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Digitale Schnitzeljagd im Wald</title>
+                        <subTitle>Der Actionbound „Dem Wald auf der Spur“ zur Förderung digitaler und fachlich-biologischer Kompetenzen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Digital scavenger hunt in the forest</title>
+                        <subTitle>The Actionbound &quot;Dem Wald auf der Spur&quot; for the acquisition of biological content knowledge</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fränkel, Silvia</displayForm>
+                        <namePart type="family">Fränkel</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sellmann-Risse, Daniela</displayForm>
+                        <namePart type="family">Sellmann-Risse</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Eine aktuelle Herausforderung der Lehrer_innenbildung ist es, Studierenden fachspezifische digitale Kompetenzen zu vermitteln. Deshalb wird in diesem Beitrag exemplarisch für das Fach Biologie ein Seminarkonzept vorgestellt, in dem Lehramtsstudierende digitale und fachlich-biologische Kompetenzen erwerben, indem sie sich mit ihren Smartphones auf eine digitale Schnitzeljagd durch den Teutoburger Wald begeben. Dazu wurde der Actionbound „Dem Wald auf der Spur“ entwickelt. Der Beitrag fokussiert die fachliche sowie methodisch-didaktische Konzeption des Actionbounds, welcher problemorientiertes Lernen in authentischen Kontexten mit dem Einsatz digitaler Medien kombiniert. Abschließend werden Möglichkeiten und Herausforderungen für die Praxis sowie mögliche Einsatzgebiete in anderen Fachbereichen aufgezeigt.</abstract>
+                    <abstract lang="eng">In the Actionbound unit, student teachers acquire biological content knowledge by embarking on a digital scavenger hunt through the Teutoburg Forest. For this purpose, the Actionbound &quot;Dem Wald auf der Spur&quot; was developed, which is publicly playable. The article focuses on the technical as well as methodical-didactic conception of the Actionbound. It is based on problem-oriented learning in authentic contexts through the use of digital media. The evaluation shows that it is precisely this combination that has a particularly motivating and learning-promoting effect on the students. Possible areas of application in other departments are touched on.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2526</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2526">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2526/3361" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2526">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2526/3362" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2526" DMDID="DMD_biejournals_2526">
+            <mets:fptr FILEID="FILE0_biejournals_2526"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2526" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2526"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

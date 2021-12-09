@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1802">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>history of European public health education accreditation in perspective</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goodman, Julien D.</displayForm>
+                        <namePart type="family">Goodman</namePart>
+                        <namePart type="given">Julien D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of this paper is to investigate the history of accreditation of academic public health education and understand why there is a 65 year gap between the first system in America and the uptake of accreditation in Europe. The paper intends to search for parallels and dissimilarities between the development in America and Europe and then consider if any parallels could be used for determining the future role of accreditation in Europe.Methods: The paper draws heavily upon a literature review and analysis and the examination and interpretation of primary and secondary sources. Firstly there is an exploration of the American development which is complemented by an evaluation of the developments in Europe.Results: The paper demonstrates that there are two key features required for the development of accreditation: interstate collaboration and a liberalisation or opening up of the education market.Conclusions: Since the Second World War, Europe has embraced interstate collaboration which has led to a liberalisation of certain economic markets. The future for sector based accreditation of public health education will be determined by the extent Europe pursues liberalisation and whether a competitive environment will bring into question the transparency and trust in state sponsored accreditation agencies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1802</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1802">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1802/1723" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1802" DMDID="DMD_biejournals_1802">
+            <mets:fptr FILEID="FILE0_biejournals_1802"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_373">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Rights of the Child as a Challenge to Human Rights Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krappmann, Lothar</displayForm>
+                        <namePart type="family">Krappmann</namePart>
+                        <namePart type="given">Lothar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Often human rights education of children does not include children&apos;s rights. Children get the impression that human rights are rights of adults and are mainly violated in faraway regions of the world. The United Nations Convention on the Rights of the Child (1989) ratified by almost all states has clarified that human rights are valid for children as well, that they have a right to be educated about these rights and to claim these children&apos;s human rights. This step has opened a new approach to children&apos;s human rights education, because rights of children belong to the social reality which children experience and, therefore, are not only theoretically learned, but can also be actively implemented. The article argues that the active exercise of their rights challenges children&apos;s evolving capacities and promotes their insight in children&apos;s and human rights.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_373</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_373">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/373/370" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_373" DMDID="DMD_biejournals_373">
+            <mets:fptr FILEID="FILE0_biejournals_373"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

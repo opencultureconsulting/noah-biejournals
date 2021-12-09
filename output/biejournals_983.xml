@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_983">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sovereignty unchained and chained</title>
+                        <subTitle>Theorizing control through »sovereignty</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rothe, Matthias</displayForm>
+                        <namePart type="family">Rothe</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Sovereignty has become such a key concept in critical thought that it can hardly be avoided by any critique of control. Reviewing the genealogy of sovereignty established in the work of Carl Schmitt, Walter Benjamin and Giorgio Agamben, this article discusses paradoxes and political implications that emerge from what should be called the &quot;critical sovereignty discourse.&quot; A close reading of Kant shows that a crucial stage of the genealogy of this discourse is Kant&apos;s attempt to subtract the element of personal force, traditionally the hallmark of sovereignty, in favor of the law. I do not argue for a dismissal of the concept of sovereignty from critical thought, but for its modification. The point of departure for any critical analysis should be the ontological impossibility of sovereign power; sovereignty needs to be theorized as inherently divisible. Drawing on Jacques Derrida, and Michel Foucault&apos;s later lectures and seminars, I employ this premise for the analysis of two prominent features of the US criminal justice system: prosecutorial discretion and mandatory sentencing.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_983</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_983">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/983/1091" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_983" DMDID="DMD_biejournals_983">
+            <mets:fptr FILEID="FILE0_biejournals_983"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

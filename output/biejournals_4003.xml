@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4003">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schulische Bildung in Zeiten der Pandemie</title>
+                        <subTitle>Befunde, Konzepte und Erfahrungen mit Blick auf Schul- und Unterrichtsorganisation, Bildungsgerechtigkeit und Lehrpraxis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frohn, Julia</displayForm>
+                        <namePart type="family">Frohn</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Praxis, Forschung und Lehrer*innen-Bildung waren und sind durch die Corona-Pandemie mit vielfältigen Herausforderungen konfrontiert, die so unmittelbarer Bearbeitung bedürfen, dass momentan ein breites Nebeneinander von Befunden, Konzepten und Erfahrungen zum Lehren und Lernen im Ausnahmezustand existiert. Die vorliegende Einführung des PFLB-Themenheftes zu „schulischer Bildung in Zeiten der Pandemie“ leistet daher zunächst einen Überblick über aktuelle Corona-bedingte Entwicklungen im Bildungsbereich und arbeitet daraufhin die Bedeutung der Querschnittsthemen Digitalisierung und Didaktik für die Pandemiesituation heraus. Im Anschluss werden die einzelnen Beiträge des Heftes in Kürze vorgestellt, die in ihrer Summe eine sehr breite Sammlung von qualitativ und quantitativ ausgerichteten empirischen Studien, rekonstruktiven Analysen, theoriegeleiteten Erörterungen und praxisnahen Erfahrungsberichten darstellen. Dabei stehen die Themen Schul- und Unterrichtsorganisation, Bildungsgerechtigkeit und Lehrpraxis im Zentrum der hier versammelten Arbeiten. Der Text schließt mit einem Ausblick auf entsprechende Konsequenzen für die Lehrkräftebildung und -fortbildung und betont die Notwendigkeit phasenübergreifender Ansätze zur Verzahnung von Medien- und Fachkompetenzen, um Lernende individuell und umfassend zu fördern und Systeme und Prozesse des Lehrens und Lernens – besonders in Zeiten kollektiver Unsicherheit – auf Bildungsgerechtigkeit und -teilhabe auszurichten.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4003</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4003">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4003/3972" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4003" DMDID="DMD_biejournals_4003">
+            <mets:fptr FILEID="FILE0_biejournals_4003"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

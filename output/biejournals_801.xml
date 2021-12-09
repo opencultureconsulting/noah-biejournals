@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Need of Education in Respect for Animals (ERA) as a Subject of the Social Education Degree at the University</title>
+                        <subTitle>An Overview Focused on Spain</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Barona, Eduardo</displayForm>
+                        <namePart type="family">Barona</namePart>
+                        <namePart type="given">Eduardo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Carrio, Elena</displayForm>
+                        <namePart type="family">Carrio</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article highlights serious educational gaps related with the respect for animals. We propose to include a new independent subject, named Education in Respect for Animals (ERA), within the curriculum of the Social Education Degree at the university level.Method: This study is based on previous educative experiences and a review of various innovative initiatives. This article is a part of critical pedagogy, aiming to contribute to the social education curriculum. It incorporates the need for a post-humanist education in the way that Haraway named ‘posthumanist landscapes’, i.e., an inclusive education for this more-than-human world (Taylor, 2013).Findings: The first part of this article reviews the theories of authors who have contributed to this area. Nonetheless the direction of this article is not to be framed in moral philosophy but a curriculum theory. Next we will contextualize and analyse the case of ERA in the Spanish educational system, concluding with proposals applied to social nets, university communities and open to educators and especially feedback from social education..</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_801</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_801">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/801/880" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_801" DMDID="DMD_biejournals_801">
+            <mets:fptr FILEID="FILE0_biejournals_801"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

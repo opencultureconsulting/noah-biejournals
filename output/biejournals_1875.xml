@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1875">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Knowledge about breastfeeding of children 0-6 months among mothers attending hospital services in Kosovo</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kamberi, Haxhi</displayForm>
+                        <namePart type="family">Kamberi</namePart>
+                        <namePart type="given">Haxhi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jerliu, Naim</displayForm>
+                        <namePart type="family">Jerliu</namePart>
+                        <namePart type="given">Naim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kamberi, Safete</displayForm>
+                        <namePart type="family">Kamberi</namePart>
+                        <namePart type="given">Safete</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Berisha, Idriz</displayForm>
+                        <namePart type="family">Berisha</namePart>
+                        <namePart type="given">Idriz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-30</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of this study was to assess the level of knowledge and socio-demographic correlates of breastfeeding of children aged 0-6 months among mothers with young children in post-war Kosovo.Methods: A cross-sectional study was conducted in Kosovo during the period December 2017 – February 2018 including a representative sample of 201 mothers (aged 29.4±6.0 years) with young children attending hospital services. In addition to socio-demographic data, a structured 13-item questionnaire inquiring about breastfeeding of children aged 0-6 months was administered to all women. A summary score was calculated for all 13 items related to women’s knowledge on breastfeeding (0 denoting incorrect answers to all 13 items, and 13 denoting correct answers to all 13 questions). General linear model was used to assess the association between summary score of the knowledge about breastfeeding and socio-demographic characteristics of the women.  Results: Mean summary score of the 13 items related to knowledge about breastfeeding was 10.3±1.9; median score was 11 (interquartile range: 9-12). In multivariable-adjusted models, the mean summary score of knowledge about breastfeeding of children 0-6 months was slightly but non-significantly higher among “older” women, those residing in urban areas, highly educated women, those currently employed, and women with a higher income level.Conclusion: Generally, the level of knowledge about breastfeeding of children aged 0-6 months was satisfactory among mothers with young children included in this survey in Kosovo. Furthermore, there were seemingly no significant socio-demographic differences in the level of knowledge about breastfeeding of young infants among women in this study carried out in Kosovo.    </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1875</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1875">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1875/1795" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1875" DMDID="DMD_biejournals_1875">
+            <mets:fptr FILEID="FILE0_biejournals_1875"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4425">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Voluntary blood donation promotion in Haute Matsiatra region of  Madagascar</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fenomanana, Jocia</displayForm>
+                        <namePart type="family">Fenomanana</namePart>
+                        <namePart type="given">Jocia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ramaminiaina, Heritiana Gisèle</displayForm>
+                        <namePart type="family">Ramaminiaina</namePart>
+                        <namePart type="given">Heritiana Gisèle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Randriatsarafara, Fidiniaina Mamy</displayForm>
+                        <namePart type="family">Randriatsarafara</namePart>
+                        <namePart type="given">Fidiniaina Mamy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Randriamanantany, Zely Arivelo</displayForm>
+                        <namePart type="family">Randriamanantany</namePart>
+                        <namePart type="given">Zely Arivelo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">&amp;nbsp;
+Aims: &amp;nbsp;Access to sufficient, secure supplies of blood and safe transfusion services is an essential part of any strong health system. The Haute Matsiatra region has a need for blood and blood products that exceeds current availability (only 7% of needs are met). The aim of this study ls to assess community knowledge, attitude, and practice regarding voluntary blood donation in order to identify the obstacles.
+&amp;nbsp;
+Methods: We have conducted a community-based cross-sectional study from 26th to 31th July 2019 within a sample of 300 subjects using a structured questionnaire and face-to-face interview. Data were analyzed using R software version 4.0.2.
+&amp;nbsp;
+Results: All participants were unanimous about vital role of blood so that 62.3% were willing to donate blood but only 13% have ever donated blood. The majority of respondents (60.0%) had never heard sensitization about blood donation. The reason for non-donation were related to fears of needlestick injuries during the blood collect (38.3%), fear of blood borne diseases (17%), the lack of sensitization (6%). There was a positive significant relationship between level of education and willingness to donate blood (p-value &amp;lt;0, 05). The likelihood of blood donation was found to be higher among male participant 28 (71.8%) p&amp;lt;0.05, and among &amp;gt;45 years group (21.4 %) p= 0.03. Among those who ever donated blood, only 37 (26.6%) of them have received sensitization about donation.
+&amp;nbsp;
+Conclusion: There is growing interest in blood donation among the population. Activities to promote blood volunteer donation should take into account the demotivating reasons for blood donation.
+&amp;nbsp;
+Source of funding&amp;nbsp;: None
+&amp;nbsp;
+Conflict of interest statement: The authors report no conflicts of interest in this work.
+&amp;nbsp;
+Authors’ contributions&amp;nbsp;: All authors contributed toward data analysis, drafting and critically revising the paper and agree to be accountable for all aspects of the work.
+&amp;nbsp;
+Acknowledgments&amp;nbsp;: We thank all those who, directly or indirectly, have contributed to this publication.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4425</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4425">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4425/4264" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4425" DMDID="DMD_biejournals_4425">
+            <mets:fptr FILEID="FILE0_biejournals_4425"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

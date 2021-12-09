@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_720">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Is Student Participation in School Governance a “Mission impossible”?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leung, Wing</displayForm>
+                        <namePart type="family">Leung</namePart>
+                        <namePart type="given">Wing</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Yuen, Timothy Wai Wa</displayForm>
+                        <namePart type="family">Yuen</namePart>
+                        <namePart type="given">Timothy Wai Wa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cheng, Eric Chi Keung</displayForm>
+                        <namePart type="family">Cheng</namePart>
+                        <namePart type="given">Eric Chi Keung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Chow, Joseph Kui Foon</displayForm>
+                        <namePart type="family">Chow</namePart>
+                        <namePart type="given">Joseph Kui Foon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The civic mission of schools in nurturing political literature, critical thinking and participatory citizens has always been played down in Hong Kong schools. On one hand, teaching civic education has never been ranked high in the education agenda. On the other hand, because of the conservative nature of schools, students are rarely encouraged to participate in school governance for the enhancement of their citizenship development. Funded by the General Research Fund (GRF) in Hong Kong, the authors conducted a quantitative survey on students’ participation in school governance and their citizenship development in 2013 to explore 1) students’ conception of “good citizens”; 2) the level and scope of student participation in school governance; and 3) the facilitating and hindering factors influencing student participation. This paper is a report on the simple statistical results of the survey findings. With reference to Westheimer and Kahne’s typologies, the findings revealed that the students had an eclectic understanding of citizenship, with higher scores for Personally Responsible Citizen and lower scores for Participatory, Justice Oriented and Patriotic Citizen, reflecting a conservative orientation. Concerning the implementation of school civic mission through student participation in school governance, it was found that students were rarely allowed to engage in important school matters, such as formulation of school rules and discussion of the school development plan. Our findings also revealed that schools were more inclined to inform students and consult them rather than confer real participation and powers to them. The paper concludes that the current practice of student participation in school governance does not facilitate the nurturing of active participatory citizens, particularly of a Justice Oriented nature, and this is urgently needed for the democratic development of Hong Kong.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_720</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_720">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/720/779" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_720" DMDID="DMD_biejournals_720">
+            <mets:fptr FILEID="FILE0_biejournals_720"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

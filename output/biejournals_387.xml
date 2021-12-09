@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_387">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Case of (East-) Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reinhardt, Sibylle</displayForm>
+                        <namePart type="family">Reinhardt</namePart>
+                        <namePart type="given">Sibylle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">There has been a long tradition of thinking on Civic Education in Western Germany, mainly after World War II. Aims and means have been discussed thoroughly, experiences in teaching politics (the most common name for the school subject) have been reported on. After the (re-)union of the two Germanies in 1990, Western concepts were brought to and adopted by Eastern Germany. Transformation of civic education (politische Bildung) faces the problem that the democratic system is open to conflicts and competition and does not lead and direct the citizen in an authoritative manner. Democracy asks for different abilities on the side of its citizens than an authoritarian system does. Research data show the difficulties of learning for democracy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_387</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_387">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/387/384" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_387" DMDID="DMD_biejournals_387">
+            <mets:fptr FILEID="FILE0_biejournals_387"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

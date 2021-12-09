@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_709">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Resilience of Recently Graduated and Unemployed Dutch Academics in Coping with the Economic Crisis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dekker, Jeroen</displayForm>
+                        <namePart type="family">Dekker</namePart>
+                        <namePart type="given">Jeroen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Amsing, Hilda</displayForm>
+                        <namePart type="family">Amsing</namePart>
+                        <namePart type="given">Hilda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hahurij, Lisa</displayForm>
+                        <namePart type="family">Hahurij</namePart>
+                        <namePart type="given">Lisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wichgers, Inge</displayForm>
+                        <namePart type="family">Wichgers</namePart>
+                        <namePart type="given">Inge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Some years after the world-wide crisis starting in 2008, also many recently graduated Dutch academics were confronted with the problem of how to cope with getting a job. This article focuses on the coping strategies they use when searching after a job, spending the day, and coping with limited financial means. 91 graduated academics completed a survey and twelve more were interviewed. They exposed remarkable resilience in coping with their situation by using emotional and problem oriented coping strategies. Emotional oriented coping strategies resulted in the graduates being able to put their situation of being without a regular job into perspective, structuring their days rather easily, and being pleased with how they did it. Their problem oriented coping strategies showed willingness to look for a job outside their field of study and below an academic level. Some respondents were willing to do unpaid work to get enrolled in the job market. The rather constructive way of coping can be explained partly by their relatively favourable financial position, mostly due to their temporary or side jobs, which also gave them a way to spend their days. Thus, the recently graduated academic job seekers perceived their economic situation in a rather positive way. Whether this was influenced by their level of education should be an important subject for more research.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_709</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_709">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/709/765" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_709" DMDID="DMD_biejournals_709">
+            <mets:fptr FILEID="FILE0_biejournals_709"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

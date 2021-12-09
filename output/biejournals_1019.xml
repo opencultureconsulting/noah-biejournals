@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1019">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Disgust, compassion or tolerance</title>
+                        <subTitle>Law and emotions in the debate on §175 in West Germany</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nielsen, Philipp</displayForm>
+                        <namePart type="family">Nielsen</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In 1963, Germany debated the decriminalization of homosexuality as part of a reform of the country’s penal code. The debate provides a window into the discourse of law and emotions precisely at a point at which emotions allegedly felt by the people as a whole lost their argumentative superiority over individual rights. The article investigates the public discussion rather than that among legal experts. The parties involved openly debated the importance of feelings for legislation. Beyond the normative connection of law and emotions, varying feelings from love to desire were invoked by all sides. This article will look particularly at emotions vis-à-vis homosexual men—but not their own emotions, either self-expressed or ascribed, such as love, desire, or friendship. Instead, the role of disgust and compassion in the debate will be analyzed, feelings that have a longer history in the context of law and have recently received greater attention as possible »political emotions« (Nussbaum 2014). This article concentrates on the intervention of the Jewish rémigré Hans-Joachim Schoeps in that debate and the responses to his articles in Der Monat and Christ und Welt. Precisely because the debate revolved around the position of minorities in a democratic society, it is illuminating for the role emotions—in this instance descriptive or expressive ones that were supposed to give normative grounding to a law—can play in negotiating difference. For West Germany, the debate is of additional interest for the way in which its society dealt with the country’s recent past and tried to translate it into a democratic future.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1019</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1019">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1019/1127" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1019" DMDID="DMD_biejournals_1019">
+            <mets:fptr FILEID="FILE0_biejournals_1019"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

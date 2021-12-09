@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen in der Biologiedidaktik an der Universität Bielefeld</title>
+                        <subTitle>Der Einsatz von Praxisprojekten und ihr Beitrag zur Professionalisierung von Lehramtsstudierenden</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ohlberger, Stephanie</displayForm>
+                        <namePart type="family">Ohlberger</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmiedebach, Mario</displayForm>
+                        <namePart type="family">Schmiedebach</namePart>
+                        <namePart type="given">Mario</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wegner, Claas</displayForm>
+                        <namePart type="family">Wegner</namePart>
+                        <namePart type="given">Claas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Forschendes Lernen kann in zahlreichen Kontexten stattfinden; im jetzigen Lehramtsstudium eignet sich dafür aber besonders der Zeitpunkt des Praxissemesters. Dies bietet sowohl die Möglichkeit, sich selbst als Lehrperson auszuprobieren, als auch, erste Erfahrungen mit der Reflexion von Unterricht zu sammeln, was idealerweise an selbst durchgeführten Stunden geschehen sollte. Erwachsen aus der Unterrichtsplanung, -durchführung und -reflexion weiterreichende Untersuchungen, die die Studierenden in ihrer Lehrerprofessionalisierung unterstützen, wurde das Konzept erfolgreich umgesetzt. Zwei Beispiele sollen im folgenden Beitrag aufzeigen, wie die Lehramtsausbildung das Forschende Lernen in der Biologiedidaktik an der Universität Bielefeld realisiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1971</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1971">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1971/3562" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1971" DMDID="DMD_biejournals_1971">
+            <mets:fptr FILEID="FILE0_biejournals_1971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

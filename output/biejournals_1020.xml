@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1020">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the boundaries of knowledge. Security, the sensible, and the law</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krasmann, Susanne</displayForm>
+                        <namePart type="family">Krasmann</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Governing security means acting under conditions of uncertainty, that is, operating at the boundary of the knowable, as security is about dangers and threats that by definition have not yet materialized. Security in this sense relies on imagination, which renders the future accessible. Furthermore, security concerns the undesired and is therefore intertwined with emotions and affects. It is about dangers and threats that should not materialize. Drawing on the example of Germany’s Federal Constitutional Court decision on deploying military forces within national boundaries in the name of security, the article examines the relationship of the law to the sensible, to moments of anticipation and imagination, and to emotions and affect that exceed language. Taking on the form of fictive realities, these moments come to affect and shape the law, they are inscribed into the law as security matters. Since this happens rather implicitly, these processes tend to remain unrecognized by legal theory. However, fictive realities are an important ingredient of law’s reality.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1020</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1020">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1020/1128" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1020" DMDID="DMD_biejournals_1020">
+            <mets:fptr FILEID="FILE0_biejournals_1020"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

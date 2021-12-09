@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4033">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Linking theory and practice during a high school practicum</title>
+                        <subTitle>case study of preservice history teachers in Quebec</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Boutonnet, Vincent</displayForm>
+                        <namePart type="family">Boutonnet</namePart>
+                        <namePart type="given">Vincent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">We need to understand how future teachers make sense of theory and practice during a didactics course and a practicum field experience.
+Different assignments can show us how future teachers think about history teaching and teaching practices.
+Theoretical links are superficial and relate to the nature of assignment even though future teachers demonstrate a progression in their view of teaching practices
+We need to ensure greater coordination between partner schools
+Different assignments foster different modes of reflection on practice and we must encourage this variety.
+
+Purpose: This article presents a case study exploring how future teachers combine scientific knowledge and practical knowledge during a history didactics course and practicum field experience in history teaching in Quebec high schools.
+Design: Through a thematic analysis of the written assignments submitted during the practicum and conceptual maps designed as part of the didactics course, links between theory and practice are highlighted.
+Results: Future teachers’ referring to different types of knowledge depends on the expectations specified for each written assignment, and shows discourse with little critical distance. However, the concept maps show a more complex representation of teaching practices which can be explained by both the didactics course and the experiential and practical knowledge gained through the practicum.
+Implications: This composite of experiences puts initial teacher training into perspective along a continuum that requires consolidating university expectations and varying school practices. Closer collaboration is needed between the different actors involved in both theoretical courses and practical training.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4033</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4033">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4033/4518" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4033" DMDID="DMD_biejournals_4033">
+            <mets:fptr FILEID="FILE0_biejournals_4033"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

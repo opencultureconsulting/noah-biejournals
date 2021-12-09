@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2875">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Eastern European Transformation and Youth Attitudes toward Violence</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Groß, Eva Maria</displayForm>
+                        <namePart type="family">Groß</namePart>
+                        <namePart type="given">Eva Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haußmann, Berit</displayForm>
+                        <namePart type="family">Haußmann</namePart>
+                        <namePart type="given">Berit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This cross-national examination of the motives behind adolescent approval of violence in major cities in Germany and four Eastern European transformation societies (Czech Republic, Poland, Russia, Slovenia) draws on Institutional Anomie Theory (IAT), which leads us to expect higher instrumental motivation for violence among adolescents in the transforming societies. Differences in institutional structure and cultural orientations between Germany and the Eastern European societies are assessed using data from ILO and ESS. Analysis of the different motives for violence is based on data collected by the Criminological Research Institute of Lower Saxony (KFN) in Kraków, Volgograd, Ljubljana, Plzen, and Hamburg. Comparability and cross-cultural interpretability of the violence attitude measure is assessed by applying confirmatory factor analyses in multi-group comparisons. A lack of sufficient data meant that specific assumed linkages as implied by IAT could not be established, but the results for a specific instrumental/utilitarian motive for violence and for institutional structure and cultural orientations point to the utility of applying insights from IAT to understanding the dynamics of violence within the Eastern European context of transformation. We find empirical indications that specific features of the family mediate the “Eastern effect” on the instrumental/utilitarian motive. Further research is needed to discover whether economic dominance affects motives for youth violence indirectly via the socialization provided by non-economic institutions rather than directly via cultural orientations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2875</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2875">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2875/pdf_29" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2875">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2875/2692" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2875" DMDID="DMD_biejournals_2875">
+            <mets:fptr FILEID="FILE0_biejournals_2875"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2875" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2875"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

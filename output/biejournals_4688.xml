@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4688">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Committed collaboration to address homelessness in the Netherlands</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Argyrou, Flora</displayForm>
+                        <namePart type="family">Argyrou</namePart>
+                        <namePart type="given">Flora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hirschler, Josefine</displayForm>
+                        <namePart type="family">Hirschler</namePart>
+                        <namePart type="given">Josefine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karan, Filip</displayForm>
+                        <namePart type="family">Karan</namePart>
+                        <namePart type="given">Filip</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kugel, Raika</displayForm>
+                        <namePart type="family">Kugel</namePart>
+                        <namePart type="given">Raika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Romancenca, Elena</displayForm>
+                        <namePart type="family">Romancenca</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neicun, Jessica</displayForm>
+                        <namePart type="family">Neicun</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Context: In the Netherlands, the number of homeless people increased from 17.800 in 2009 to 39.300 in 2018. Due to the COVID-19 pandemic and its socioeconomic consequences, the needs of marginalized people have increased worldwide in terms of access to services and relevant information. In the Netherlands, along with the Red Cross, other humanitarian organizations such as the Salvation Army, the Rainbow Foundation, and the Foundation for the Homeless are already providing people in need with primary needs such as food and housing, but also with healthcare and legal support.&amp;nbsp; Cooperation between services for the homeless is also gaining attention. However, collaboration between relevant stakeholders is still insufficient and urges to be expanded. Moreover, centralized monitoring is challenging as different services are provided (shelters, assisted housing) by different stakeholders and there is no central data collection system or pre-defined indicators. Recent, comprehensive data on homelessness figures are needed to understand the needs and how these may have changed, given the exacerbated consequences of COVID-19 pandemic on those in socioeconomic vulnerability, in order safeguard the health, safety and dignity of homeless people.
+&amp;nbsp;
+Policy Options: To address the needs of homeless people, innovation is needed to overcome sectoral boundaries and to work collaboratively. At the level of service provision, as shown by some successful global experiences (e.g. Homeless Individuals and Families Information System (HIFIS), Housing First, Les Infirmières de la Rue), new partnerships and collaborations are a central dimension of many effective innovative initiatives relating to homelessness. The target of collaboration is to improve health and social outcomes in the most appropriate and efficient manner. To improve case management at the local level, in Canada, the Homeless Individuals and Families Information System (HIFIS) provides a single platform for homogeneous data collection on clients among service providers that facilitates referrals between services.
+&amp;nbsp;
+Recommendations: Approaches to improve cross-sectoral collaboration and communication at two levels should be identified. Firstly, establishing a coordinated and comprehensive cross-sectoral network among organizations in the field and secondly, improving data collection.
+&amp;nbsp;
+&amp;nbsp;
+Acknowledgments:&amp;nbsp;The authors would like to express their sincere thanks to J. Neicun and K. Czabanowska for their support in preparing and revising the policy brief.
+&amp;nbsp;
+Authors’ contributions:&amp;nbsp;All authors contributed equally to this work.
+&amp;nbsp;
+Conflicts of interest:&amp;nbsp;None declared
+&amp;nbsp;
+Funding:&amp;nbsp;None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4688</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4688">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4688/4416" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4688" DMDID="DMD_biejournals_4688">
+            <mets:fptr FILEID="FILE0_biejournals_4688"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

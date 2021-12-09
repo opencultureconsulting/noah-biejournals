@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2493">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Reflexionsprüfung zur Theorie-Praxis-Verknüpfung in der Lehrer_innenausbildung</title>
+                        <subTitle>Mathematikdidaktische Reflexionsanlässe im Praxissemester</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Reflexionsprüfung (Reflection Exam) as a format for linking theory and practice in teacher-training</title>
+                        <subTitle>Opportunities for reflection in mathematics education during the Praxissemester (Practical Semester)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lüken, Miriam M.</displayForm>
+                        <namePart type="family">Lüken</namePart>
+                        <namePart type="given">Miriam M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wellensiek, Nicole</displayForm>
+                        <namePart type="family">Wellensiek</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rottmann, Thomas</displayForm>
+                        <namePart type="family">Rottmann</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Modul zum Praxissemester im Masterstudiengang wird an der Universität Bielefeld im Fach Mathematische Grundbildung (Mathematik für das Lehramt an Grundschulen) mit einer Reflexionsprüfung nach Beendigung des Praxissemesters abgeschlossen. Systematisch werden in den Veranstaltungen rund um das Praxissemester Theorie und Praxis durch vielfältige Reflexionsanlässe und begleitete Reflexionsprozesse miteinander verknüpft, um die Kompetenzen der Studierenden (auch) mit Blick auf die Prüfungsleistung weiter auszubauen. In diesem Beitrag erläutern wir unsere Konzeption der Prüfung und ihre Einbettung im Modul. Wir zeigen auf, wie das Spannungsfeld von Theorie und Praxis im Rahmen der Reflexionsprozesse bewusst in den Fokus der Auseinandersetzung rückt. Neben beispielhaften Reflexionsanlässen wird vorgestellt, wie diese erlebten (mathematikdidaktisch reichhaltigen) Unterrichtssituationen gewinnbringend entlang des ALACT-Modells nach Korthagen analysiert werden können. Zur Evaluation und Weiterentwicklung unseres Konzeptes erhoben wir die Einschätzungen der Studierenden zu dieser Prüfungsform anhand eines Fragebogens. Die Ergebnisse zeigen, dass die Studierenden die Reflexionsprüfung in hohem Maße als sinnvoll und gewinnbringend für ihren persönlichen Lernzuwachs empfinden. Darüber hinaus nehmen sie insgesamt stark die beabsichtigte Verknüpfung von theoretischem Wissen und Handlungskompetenzen in der Praxis, die wir durch die Art der Reflexionsprüfung anbahnen wollen, wahr und bewerten diese als besonders positiv für ihren Professionalisierungsprozess.</abstract>
+                    <abstract lang="eng">The Praxissemester (practical semester) module of the master’s degree course in mathematics education at Bielefeld University is finished with the Reflexionsprüfung (Reflection Exam) at the end of the Praxissemester. In the courses before and during the Praxissemester, theory and practice are systematically linked by multiple opportunities for reflection and by guided reflection processes, which are intended to enhance students’ competencies and prepare them for the exam. In this article, we present the Reflexionsprüfung, demonstrate how it is embedded in the module, and how we explicitly focus on linking theory and practice. We also illustrate exemplary opportunities for reflection, which arise during teaching situations in the Praxissemester, and how these mathematically rich situations can be analyzed using the ALACT-model by Korthagen. For evaluation and further development of our concept, we assessed students’ perception and attitudes towards the Reflexionsprüfung by a questionnaire. The results show that the students consider this type of exam as highly meaningful and profitable for their personal learning progress. Furthermore, the Reflexionsprüfung prompted students to notice connections between theoretical knowledge and competencies in the classroom, and indicated this was very positive for their own development as a teacher.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2493</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2493">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2493/3388" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2493" DMDID="DMD_biejournals_2493">
+            <mets:fptr FILEID="FILE0_biejournals_2493"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

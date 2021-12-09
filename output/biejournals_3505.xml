@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3505">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Wirksamkeit von Lehrer*innenfortbildung aus der Sicht der Fortbildner*innen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wanitschek, Isabel</displayForm>
+                        <namePart type="family">Wanitschek</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Katschnig, Tamara</displayForm>
+                        <namePart type="family">Katschnig</namePart>
+                        <namePart type="given">Tamara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Auferbauer, Martin</displayForm>
+                        <namePart type="family">Auferbauer</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Prorok, Judith</displayForm>
+                        <namePart type="family">Prorok</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag thematisiert die Wirksamkeit von Lehrer*innenfortbildungen sowie wahrgenommene Erwartungen aus der Perspektive der Fortbildner*innen. Die spärliche Forschungslage zu diesem Thema führte zu der Projektidee, den Fokus der Forschung auf die Fortbildner*innen zu legen. Ein Team von vier Pädagogischen Hochschulen in Österreich konzipierte im Jahr 2018 ein gemeinsames Forschungsprojekt, in welchem mittels qualitativer Interviews untersucht werden sollte, welche Faktoren zu einer gelungenen Fortbildung beitragen. Gestützt auf die Studien von Lipowsky wurde ein Modell entwickelt, welches die vier Ebenen der Wirksamkeit von Fortbildung mit der Unterscheidung von Selbstbild (Sicht der Fortbildner*innen) und Fremdbild (wahrgenommene Erwartungen der Teilnehmer*innen und Auftraggeber*innen) abbildet. Die Ergebnisse weisen darauf hin, dass die Wirksamkeitsfaktoren, welche von Fortbildner*innen genannt werden, großteils mit den wahrgenommenen Erwartungen der Teilnehmenden und Auftraggeber*innen übereinstimmen. So ist es aus Sicht der Fortbildner*innen nötig, anspruchsvolle, vielfältige Lernumgebungen sowie gut geplante und gut strukturierte Veranstaltungen zu schaffen, um so Fortbildungsveranstaltungen für die Lehrpersonen motivierend gestalten zu können. Auch die freiwillige Teilnahme und die Möglichkeit des informellen Austausches bei Fortbildungsveranstaltungen erhöhen deren Wirksamkeit. Input-, Erprobungs- und Reflexionsphasen sowie eine Nachbetreuung beispielsweise in professionellen Lerngemeinschaften oder auf digitalen Plattformen wirken sich positiv auf den Transfer von Wissen, Erfahrung und Ideen an den Schulstandorten aus. Die Bedeutung von Qualität der Fortbildungsformate und der Fachkompetenz der Lehrer*innenfortbildner*innen kann als zentrales Ergebnis genannt werden. Diese Forschungsbefunde sollten künftig in die möglichst erfolgsversprechende Gestaltung der Formate (u.a. zumindest mehrere Teilnehmer*innen eines Schulstandortes sowie mehrteilige Veranstaltungen) sowie in das Recruiting und die Professionalisierung der Fortbildner*innen einfließen.</abstract>
+                    <abstract lang="eng">This paper discusses the effectiveness of teacher training and perceived expectations from the perspective of the trainers. The sparse research on this topic led to the project idea to focus the research on in-service training. In 2018 a team from four university-colleges of teacher education in Austria conceived a joint research project in which qualitative interviews were to be conducted to investigate which factors contribute to successful further education. Based on the studies by Lipowsky, a model was developed which depicts the four levels of the effectiveness of further education by differentiating between self-perception (the view of the trainers) and external perception (perceived expectations of the participants and clients). The results indicate that the effectiveness factors mentioned by the trainers largely correspond with the perceived expectations of the participants. As a result, the insights gained here contribute to a confirmation of the existing literature. It is therefore necessary on the part of the trainers to create challenging, diverse learning environments as well as well-planned and well-structured events in order to motivate participants. Voluntary participation and the possibility of informal exchange at further training events also increases their effectiveness. Input, testing and reflection phases as well as aftercare, e.g. in professional learning communities or digital platforms, have a positive effect on the transfer of knowledge, experience and ideas at the school locations. The importance of the quality and professional competence of teacher trainers can also be mentioned as an important result. The research findings also serve the professionalisation of teacher trainers.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3505</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3505">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3505/3930" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3505" DMDID="DMD_biejournals_3505">
+            <mets:fptr FILEID="FILE0_biejournals_3505"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

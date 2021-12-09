@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3297">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Migrationshintergrund als möglicher Einflussfaktor auf die Wildniseinstellungen und Wildnisvorstellungen von Schülerinnen und Schülern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reinboth, Alma</displayForm>
+                        <namePart type="family">Reinboth</namePart>
+                        <namePart type="given">Alma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Auch wenn Wildnis oft als Gegensatz zur Zivilisation verstanden wird, handelt es sich bei ihr um ein kulturelles Konstrukt. Sie ist nicht anhand naturwissenschaftlicher Merkmale beschreibbar, sondern wird vielmehr als eine kulturell geprägte, kollektive Idee auf Räume übertragen. Aufgrund dieses kulturellen Konstruktcharakters sowie der Nutzung der Wildnisthematik in nachhaltigkeitsorientierten Bildungsangeboten lag der Fokus der vorliegenden Studie auf Jugendlichen mit Migrationshintergrund. Ziel war es hierbei, bestehende Untersuchungsinstrumente zur Erfassung der Einstellung zu und Vorstellung von Wildnis zu validieren, für diese Konstrukte mögliche Unterschiede zwischen Personen mit und ohne Migrationshintergrund festzustellen und zu analysieren, inwiefern der Migrationshintergrund einen geeigneten Prädiktor zur Vorhersage der beiden Zielkonstrukte darstellt. Hierfür wurden 1356 Schülerinnen und Schüler aus sechs deutschen Bundesländern zu ihren Einstellungen zu und Vorstellungen von Wildnis befragt. Über explorative und konfirmatorische Faktorenanalysen konnte die Faktorenstruktur der beiden Erhebungsinstrumente mit nur geringfügigen Änderungen validiert und bestätigt werden. Einfaktorielle Varianz- und Post-hoc-Analysen konnten vor allem Einstellungs- und Vorstellungsunterschiede zwischen Jugendlichen ohne Migrationshintergrund und solchen, die eigene Migrationserfahrungen gemacht hatten oder zwei Elternteile mit Migrationshintergrund besaßen, nachweisen. Über Strukturgleichungsmodellierungen wurde zudem ein Mediationsmodell entwickelt, welches nachweisen konnte, dass der Migrationshintergrund sich sowohl indirekt über die Vorstellung von Wildnis als auch direkt negativ auf die Einstellung zu Wildnis auswirkt. Die Ergebnisse werden vor dem Hintergrund bisheriger theoretischer und empirischer Erkenntnisse reflektiert und die praktische Relevanz der Befunde aufgezeigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3297</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3297">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3297/4173" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3297" DMDID="DMD_biejournals_3297">
+            <mets:fptr FILEID="FILE0_biejournals_3297"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

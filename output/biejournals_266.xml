@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_266">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civic, Legal and Social Education in French Secondary School</title>
+                        <subTitle>Questions About a New Subject</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tutiaux-Guillon, Nicole</displayForm>
+                        <namePart type="family">Tutiaux-Guillon</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2000</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In summer 1999, a new compulsory subject was introduced in French upper secondary school: civic, legal and social education (éducation civique, juridique et sociale or ECJS). This teaching has been introduced as an answer to problems resulting from social and cultural changes in secondary education, from growing indifference to politics and from debates about citizenship. The curriculum in ECJS, through contents based on concepts and social and political controversies, and through pedagogy based on debates, upsets traditional secondary teaching. What is taught and what is learnt differ a lot form one classroom to another. The thesis presented in this paper asserts that this subject shows such an heterogeneity not only because it is new, but also because the three actors in the project, the institution, the teachers and the students, refer ECJS to legitimacies and to contents that do not coincide. The institution refers largely to politics and citizenship, the teachers to school difficulties and school knowledge, the students to their personal experience and common sense. This interpretation calls for discussion.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_266</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_266">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/266/263" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_266" DMDID="DMD_biejournals_266">
+            <mets:fptr FILEID="FILE0_biejournals_266"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

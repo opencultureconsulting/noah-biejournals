@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3939">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Wir mussten uns erst einmal eingrooven.“</title>
+                        <subTitle>Ergebnisse einer Befragung von Eltern und Lehrkräften der Laborschule Bielefeld zum Umgang mit Distance Learning und Homeschooling</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gold, Johanna</displayForm>
+                        <namePart type="family">Gold</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaiser, Sabine</displayForm>
+                        <namePart type="family">Kaiser</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartmann, Ulrich</displayForm>
+                        <namePart type="family">Hartmann</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wittbrock, Albert</displayForm>
+                        <namePart type="family">Wittbrock</namePart>
+                        <namePart type="given">Albert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Ausbreitung der COVID-19-Pandemie hat in Nordrhein-Westfalen am 16.03.2020 zu allgemeinen Schulschließungen geführt. Von einem Tag auf den nächsten waren die Lehrkräfte gefordert, ihre Kommunikation mit den Schüler*innen und ihre Lernunterstützung auf Distanz auszuüben. Die Eltern sahen sich gleichzeitig vor der Herausforderung, ihre Kinder ganztägig zu Hause zu betreuen und beim Lernen zu unterstützen. Die Begriffe Distance Learning und Homeschooling fanden schnell Einzug in den allgemeinen Sprachgebrauch. In diesem Beitrag werden Ergebnisse einer qualitativen Befragung vorgestellt, in der rund drei Wochen nach den Schulschließungen sowohl Eltern als auch Lehrkräfte einer Schule zu ihren Erfahrungen mit den verschiedenen Aufgaben der ersten Wochen befragt wurden. Ein Fokus wurde dabei auf den Einsatz von digitalen Medien und Konzepten als Instrumenten von Kommunikation und Lernunterstützung auf Distanz gelegt. Beleuchtet wird, welche Aspekte der vielschichtigen Herausforderungen von den beiden Akteursgruppen Eltern und Lehrkräfte thematisiert werden und wie der eigene Umgang mit diesen Herausforderungen dargestellt wird.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3939</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3939">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3939/3971" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3939" DMDID="DMD_biejournals_3939">
+            <mets:fptr FILEID="FILE0_biejournals_3939"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

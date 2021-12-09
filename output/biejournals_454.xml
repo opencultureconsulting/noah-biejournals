@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_454">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>12 Jahre Berufserfahrung – Die besondere Situation des Lehramtsstudiums als Herausforderung für die fachdidaktische Ausbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Besand, Anja</displayForm>
+                        <namePart type="family">Besand</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es gehört zur besonderen Situation des Lehramtsstudiums, dass die Studierenden hier bereits zu Beginn ihrer Ausbildung über mindestens 12 Jahre Erfahrung mit schulischen Lernprozessen verfügen. Dass sie diese Lernprozesse fast ausschließlich aus der Perspektive der Lernenden und nicht der Perspektive der Lehrenden kennen, hindert sie dabei nicht daran, sich z.T. bereits ausgefeilte Vorstellungen darüber zu bilden, wie solche Lernprozesse sinnvoll zu gestalten sind. Mit fachdidaktischen Theorien haben diese Vorstellungen häufig wenig gemeinsam, obwohl sie je nach fachlichem Gegenstand durchaus differenziert strukturiert sind. In meinem Beitrag möchte ich mich mit diesen Vorstellungen beschäftigen und aufzeigen, wie diese im Rahmen fachdidaktischer Einführungsveranstaltungen fruchtbar gemacht werden könnten.It belongs to the special situation of teacher studies that students already at the beginning of their training have at least 12 years experience with school learning processes. Even if they know these learning processes almost exclusively from the perspective of pupils and not from the perspective of teachers, it does not prevent them from forming partially sophisticated conceptions how to arrange such learning processes. These conceptions are hardly connected with educational theories, although they differ in structure depending on the topic. In my essay I would like to be concerned wih these conceptions and I want to point out, how this could be made useful in the context of educational introduction tutorials.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_454</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_454">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/454/451" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_454" DMDID="DMD_biejournals_454">
+            <mets:fptr FILEID="FILE0_biejournals_454"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Impact of Democratic Competencies and Political Knowledge on Desirable Outcomes of Civic Education. Results from the German Contribution to the IEA Civic Education Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oesterreich, Detlef</displayForm>
+                        <namePart type="family">Oesterreich</namePart>
+                        <namePart type="given">Detlef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">International comparative studies on civic education are especially difficult because of the lack of a common understanding of what civic education is as a subject and because of different cultural and political traditions or different school systems. Using the concept of democratic competencies, this paper starts by exploring a theory of authoritarian personalities and operationalising 11 items for an empirical study. Thereby this paper investigates to what extent central topics of civic education are more determined by cognitive factors or personality factors. It shows that matureness is developed not only by political knowledge but also by those democratic competencies which are an essential part of any democratic school and teaching culture.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_300</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_300">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/300/297" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_300" DMDID="DMD_biejournals_300">
+            <mets:fptr FILEID="FILE0_biejournals_300"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

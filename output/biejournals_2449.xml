@@ -1,0 +1,49 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2449">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen als Problemfeld des Praxissemesters in der Philosophiedidaktik</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Research-based Learning as Problem Area in Philosophical Teacher Training at Schools</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Golus, Kinga</displayForm>
+                        <namePart type="family">Golus</namePart>
+                        <namePart type="given">Kinga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Forschendes Lernen im Praxissemester wird nach wie vor als Problemfeld identifiziert. Ziel des Beitrags ist es, aus Studierendenperspektive zu rekonstruieren, warum eine Definition und eine entsprechende Umsetzung in der Schulpraxis als problematisch wahrgenommen werden. Dies passiert exemplarisch in der Fachdidaktik Philosophie.</abstract>
+                    <abstract lang="eng">Since 2014, research-based learning is a crucial part of teacher train-ing in North Rhine-Westphalia (Germany). This new feature of university teacher training is assumed to facilitate future teachers’ process of professionalization. It is the paper’s objective to analyze two students’ personal reports on research-based learning. The reports are based on the students’ experiences concerning a small research project they had conducted while completing part of their assistant teacher training in philosophy at secondary schools. Their reports may assist uni-versity staff to improve preparation seminars for practical teacher training in or-der to help students to understand better the idea of research-based learning and how it can support their own professionalization. Finally, the paper suggests how research-based learning can be implemented more successfully in teacher training programs.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2449</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2449">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2449/2451" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2449" DMDID="DMD_biejournals_2449">
+            <mets:fptr FILEID="FILE0_biejournals_2449"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

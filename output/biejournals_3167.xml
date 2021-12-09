@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3167">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Förderung diagnostischer Kompetenz von Lehrkräften bei Aufgaben der Bruchrechnung</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Deutsch</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rieu, Andreas</displayForm>
+                        <namePart type="family">Rieu</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Loibl, Katharina</displayForm>
+                        <namePart type="family">Loibl</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Leuders, Timo</displayForm>
+                        <namePart type="family">Leuders</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein entscheidender Faktor für erfolgreiches Unterrichten und hohen Lernzuwachs ist die Anpassung des Unterrichts an die Lernvoraussetzungen der Schülerinnen und Schüler. Daher werden im Rahmen des adaptiven Unterrichtens unter anderem Aufgaben ausgewählt, welche den individuellen Voraussetzungen der Lerngruppe entsprechen. Die von den Lehrkräften hierfür benötigen Fähigkeiten beinhalten die Diagnose der Lernvoraussetzungen und der in den Aufgaben enthaltenen Anforderungen. Die Lehrkräfteausbildung kann den Grundstein für solche diagnostischen Fähigkeiten legen, aber auch bei erfahrenen Lehrkräften gilt es diese Kompetenzfacette in Lehrerfortbildungen weiterzuentwickeln.
+Die hier vorgestellte Studie beschreibt eine Maßnahme für die Förderung der diagnostischen Kompetenz im Bereich der Bruchrechnung bei Lehrpersonen aus der Praxis. Dabei wurden die teilnehmenden Personen im Bereich des fachdidaktischen Wissens hinsichtlich schwierigkeitsgenerierender Aufgabenmerkmale bei Textaufgaben mit konkreten Beispielen aus der Bruchrechnung fortgebildet. Die Kurzintervention verzeichnet große Effekte für die Experimentalgruppe im Vergleich zu einer Warte-Kontrollgruppe und kann somit als Hinweis für den Einfluss von Wissensfacetten bei Aus- und Fortbildungsmaßnahmen im Bereich der diagnostischen Kompetenz dienen. Die Urteilsakkuratheit der Einschätzung von Aufgabenschwierigkeit zeigt sich bei erfahrenen Lehrkräften stabil gegen den Einfluss von Zeitrestriktion. Dieses Ergebnis unterstreicht die Auswirkungen von Berufserfahrung auf Denkprozesse und wird als Facette professioneller Kompetenz gedeutet.</abstract>
+                    <abstract lang="eng">Recent studies have found that adapting instruction to the prerequisite of students is a determinant factor of successful learning and teaching.&amp;nbsp;&amp;nbsp; For adaptive teaching, teachers have to choose tasks that correspond for example in their difficulty to the individual prerequisite in a classroom and to the pedagogical aims. Thus, teachers need diagnostic competences to assess the prerequisites of their students and to judge the difficulties of possible tasks. The task difficulty is determined by features, which influence the solution rate. The teacher has to perceive and interpret these features. Prospective teachers can found these skills during their studies; in-service teachers should foster them in further trainings.
+The present study describes an intervention to foster diagnostic competence in the domain of fractions. The participants received instruction on pedagogical content knowledge about features that determines the task difficulty in the domain of fractions with concrete examples. Our study revealed large effects of this short intervention for the experimental group in comparison to a control group. The short intervention can therefore serve as an element in further teacher trainings in the field of diagnostic competence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3167</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3167">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3167/3584" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3167" DMDID="DMD_biejournals_3167">
+            <mets:fptr FILEID="FILE0_biejournals_3167"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_746">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Women’s Experiences</title>
+                        <subTitle>Memories of Portuguese Revolution</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dantas-Ferreira, Sónia</displayForm>
+                        <namePart type="family">Dantas-Ferreira</namePart>
+                        <namePart type="given">Sónia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In this article I attempt to analyze the social memories of wives of soldiers in service on April 25th 1974, through the methodology of analysis recommended by Adele Clarke (2005), using data collected in 11 interviews conducted between 2005 and 2008 under a PhD project. As a conceptual framework I adopt the perspective of social memory in the tradition of Halbwachs (1992) and following Marc Augé (2001) and Paul Ricoeur (2004), which emphasizes the social and collective memory and points out the dynamic role it plays in building a meaning to the world. This analysis takes into account the dimensions of work, family, education, politics and social life, social and economic conditions and the expectations and dreams on which the interviewees draw comparisons between 1974 and the present and also produce judgments.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_746</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_746">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/746/812" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_746" DMDID="DMD_biejournals_746">
+            <mets:fptr FILEID="FILE0_biejournals_746"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

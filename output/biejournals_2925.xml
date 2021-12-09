@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2925">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial</title>
+                        <subTitle>Letter from the Editors</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heitmeyer, Wilhelm</displayForm>
+                        <namePart type="family">Heitmeyer</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Massey, Douglas S.</displayForm>
+                        <namePart type="family">Massey</namePart>
+                        <namePart type="given">Douglas S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sidanius, James</displayForm>
+                        <namePart type="family">Sidanius</namePart>
+                        <namePart type="given">James</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wieviorka, Michel</displayForm>
+                        <namePart type="family">Wieviorka</namePart>
+                        <namePart type="given">Michel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Dear Reader,This time our focus section features work from the first conference hosted by IJCV. In 2011 Donatella della Porta and Gary LaFree, both members of the journal’s advisory board, brought together in Bielefeld experts from around the world to thoroughly debate the question of radicalization and de-radicalization. In contrast to prior approaches that mostly focused on the context of terrorism, the aim of this focus section is to present work employing new theoretical and methodological approaches to generate findings that go well beyond terrorism and related phenomena and thus contribute to a more comprehensive understanding of the processes, dynamics, and mechanisms of radicalization and de-radicalization. Our heartfelt thanks go to the two guest editors – as well as the entire conference team – for realising this ambitious project and for putting together this collection of papers.The open section contains two articles of additional interest. Rafi Nets-Zehngut uses the example of the 1948 Palestinian exodus to describe the characteristics of internal and external collective memories in Israeli society. The section closes with a contribution by Claudia Diehl and Jan-Philipp Steinmann who explore the impact of the release and public discussion of Thilo Sarrazin’s book Deutschland schafft sich ab (Germany abolishes itself) on public perception of immigrants in Germany.May 2012Wilhelm HeitmeyerDouglas S. MasseySteven F. MessnerJames SidaniusMichel Wieviorka</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2925</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2925">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2925/pdf_55" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2925">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2925/2793" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2925" DMDID="DMD_biejournals_2925">
+            <mets:fptr FILEID="FILE0_biejournals_2925"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2925" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2925"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

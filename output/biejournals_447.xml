@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_447">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Comic Approach to Politics? Political Education via Comics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mahrt, Nina</displayForm>
+                        <namePart type="family">Mahrt</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article examines juvenile comics that deal with politics as a main topic. These comics introduce and develop politicised themes and topics in varying ways and their individual approaches to politics will be discussed and analysed. The first example, the German Micky Maus-Magazin series, occasionally uses political matters to create new comical stories. In the issues discussed here, democratic processes in the fictional city of Duckburg are described. The second example, Andi, published by the Interior Ministry of the State of North Rhine-Westphalia, aims at civic education. This comic explores the very real issues of rightwing extremism and rightwing propaganda within a fictional framework. The third example, Persepolis treats political issues in a serious, but not primarily pedagogical, way. It offers a personal viewpoint on the Iranian revolution in 1979. By reflecting on Iranian society, the Iranian author puts forward new perspectives on the country which are quite opposite to those that are typically represented in Western countries’ daily news. All three comics provide varying degrees of understanding on politics and political processes. Since each example combines elements of entertainment with political information, they will be analysed within the theoretical framework of what Dörner defines as politainment.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_447</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_447">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/447/444" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_447" DMDID="DMD_biejournals_447">
+            <mets:fptr FILEID="FILE0_biejournals_447"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

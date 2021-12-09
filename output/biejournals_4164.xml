@@ -1,0 +1,103 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4164">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Prevalence of chronic obstructive pulmonary disease (COPD) in Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tafa, Holta</displayForm>
+                        <namePart type="family">Tafa</namePart>
+                        <namePart type="given">Holta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mema, Donika</displayForm>
+                        <namePart type="family">Mema</namePart>
+                        <namePart type="given">Donika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mezini, Arian</displayForm>
+                        <namePart type="family">Mezini</namePart>
+                        <namePart type="given">Arian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nikolla, Jolanda</displayForm>
+                        <namePart type="family">Nikolla</namePart>
+                        <namePart type="given">Jolanda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Teferici, Alma</displayForm>
+                        <namePart type="family">Teferici</namePart>
+                        <namePart type="given">Alma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Todri, Dafina</displayForm>
+                        <namePart type="family">Todri</namePart>
+                        <namePart type="given">Dafina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hafizi, Hasan</displayForm>
+                        <namePart type="family">Hafizi</namePart>
+                        <namePart type="given">Hasan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The objective of this study was to determine the prevalence of COPD and its associated factors among adults in Albania.
+Methods: This was a cross-sectional study conducted in Albania in 2013-14. A nation-wide representative sample of 1200 adults aged ≥40 years was selected using multistage cluster sampling technique. All participants were interviewed about socio-demographic characteristics, respiratory symptoms, smoking status and clinical characteristics. Spirometry was performed according to standard methods. COPD was defined as post-bronchodilator FEV1/FVC ratio &amp;lt;70% predicted.
+Results: Of the 1200 adults invited to participate, 939 adults or 78% (467 men and 472 women) were eligible for the study. The overall COPD prevalence (GOLD stage 1 or higher) was 12.4%; it was higher in men (17.4%) than in women (7.7%). Using Lower Limit of Normal (LLN), the prevalence of COPD was 9.9%, again higher in men (13.2%) than women (6.6%). The prevalence of doctor-diagnosed COPD was 1.3% (1.9% in men, 0.6 % in women). Male sex, smoking and increasing age were significantly associated with COPD diagnosis.
+Conclusion: The overall prevalence of COPD in Albania was 9.9% using BOLD standards. Smoking and increasing age were the main risk factors for COPD. The study highlights the importance of raising awareness of COPD among health professionals.
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4164</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4164">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4164/4120" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4164" DMDID="DMD_biejournals_4164">
+            <mets:fptr FILEID="FILE0_biejournals_4164"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

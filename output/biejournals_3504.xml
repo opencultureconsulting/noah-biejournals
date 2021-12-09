@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3504">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Digital Learning and the Humanities</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Küchler, Uwe</displayForm>
+                        <namePart type="family">Küchler</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The current research and funding situation with regards to digital teaching and learning will be a starting point to further inquire about the mission, intent and self-styling of the humanities and the field of English. The proliferation of digital opportunities makes knowledge globally available and universally transferable in a technological sense. Yet, what about the changes that digitalization triggers in epistemology or cultural techniques of information management? And, what are the stakes of the humanities and their way of making meaning and creation of knowledge? Can the knowledge of the humanities or the field of English – here particularly language, narrative literature and culture – be communicated, taught or learned with digital means? The humanities make it their designated task to provide orientation and evaluation for the increasingly complex and fast-paced global developments and their diverse cultural, societal and educative contexts. It should be in the interest of the humanities and its disciplines, to find answers to the questions of benefits that can be provided by digitalization of educational fields. Puentedura&apos;s SAMR matrix (substitution, amplification, modification, redefinition) will be introduced to allow for an evaluation of digitalization processes and tools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3504</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3504">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3504/3651" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3504" DMDID="DMD_biejournals_3504">
+            <mets:fptr FILEID="FILE0_biejournals_3504"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

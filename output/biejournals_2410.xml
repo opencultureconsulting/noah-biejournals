@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2410">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von der ›Laborsituation‹ künstlerischer Lehre zum Studienprojekt</title>
+                        <subTitle>Ein Übungsfeld für forschendes Lernen im Kunstunterricht der Grundschule</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Artistic Teaching from the “Laboratory Situation” to the Study Project</title>
+                        <subTitle>A Practice Field for Research-led Arts Education in Elementary Schools</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kathke, Petra</displayForm>
+                        <namePart type="family">Kathke</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wie finden Studierende der Kunstpädagogik Forschungsfragen oder Forschungsgegenstände, die sie im Rahmen von Studienprojekten untersuchen? Lässt sich in universitären Veranstaltungen eine Bewusstheit für die Besonderheiten künstlerischen Lehrens und Lernens in der Grundschule als notwendige Voraussetzung sowohl für den schulpraktischen Teil als auch den Schulforschungsteil des Praxissemesters anbahnen? Der Integrationsvariante des Bielefelder Modells folgend thematisiert der Beitrag, wie diesen Herausforderungen im Fach Kunst- und Musikpädagogik durch ein Praxisfeld künstlerischer Lehre begegnet wird. Student*innen beider Fächer können vor ihrem Praxissemester Erfahrungen in gemeinsam durchgeführten Unterrichtvorhaben sammeln. In der Laborsituation einer KinderKunstMusik-Werkstatt, die der Professionalisierung in einem geschützten und inspirierenden Raum zuarbeitet, vergewissern sich die zukünftigen Kunstlehrer*innen einer fragend-forschenden Haltung, indem sie Lehr-/ Lernprozesse sowie Ergebnisse eigenen und fremden Unterrichts reflektieren und dabei auch auf Themen für ihr Studienprojekt stoßen. Besonders bildnerische Ergebnisse erweisen sich als anregendes Material, das fachdidaktisch relevante Fragen aufwerfen und beantworten kann. Anhand eines auf Unterrichtsergebnisse bezogenen Studienprojekts wird der Weg vom Wahrnehmen eines Phänomens, dem Konkretisieren der Fragestellung über das Konzipieren einer mit der gewählten Methode abgeglichenen Unterrichtssequenz nachgezeichnet. Durchführung und Auswertung des Projekts und die Kontextualisierung im Rahmen fachdidaktischer Theorien kommen ebenso zur Sprache wie Gründe für den Bedarf solch einer universitären Laborsituation als Brücke zur Praxis schulischen Kunstunterrichts.</abstract>
+                    <abstract lang="eng">How do students of arts education find research questions or research topics to be investigated within the scope of study projects? Is it possible to raise awareness of the special features of artistic teaching and learning in elementary school as an essential precondition for both the practical component in schools and the research component of the university course’s placement semester? Following the integration model of the University of Bielefeld, this contribution addresses how practice-led teaching in the arts can meet these challenges in the field of art. Joint teaching projects allow for students of either programmes to gain experience before their placement semester starts. In the laboratory situation of a ChildrenArtMusic workshop, which offers protected and inspiring space for professionalising, future art teachers acquire an attitude of enquiring and researching by reflecting on teaching and learning situations as well as their results. During this process within both led and observed lessons, students are likely to come across topics for their study project. Children’s artistic creations, in particular, prove to be stimulating because their visual approaches to the world are highly valuable in primary school as they can equally raise and answer questions relevant to arts education. With a studyproject based on teaching results, each step is documented from the perception of a phenomenon and concretisation of the question to the design of a lesson sequence that matcheswith the chosen method. Both implementation and evaluation of the project as well as its contextualisation within the frame of didactic theories are discussed next to reasons for the need to bridge the university laboratory situation with the practice of arts education in schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2410</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2410">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2410/2406" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2410" DMDID="DMD_biejournals_2410">
+            <mets:fptr FILEID="FILE0_biejournals_2410"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

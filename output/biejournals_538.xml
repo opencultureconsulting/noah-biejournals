@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_538">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Epistemic Dimension of Competence in the Social Sciences</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maggioni, Liliana</displayForm>
+                        <namePart type="family">Maggioni</namePart>
+                        <namePart type="given">Liliana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fox, Emily</displayForm>
+                        <namePart type="family">Fox</namePart>
+                        <namePart type="given">Emily</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Alexander, Patricia A.</displayForm>
+                        <namePart type="family">Alexander</namePart>
+                        <namePart type="given">Patricia A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">To investigate competence in the social sciences, we propose to define competence as a particular configuration of the learner’s cognition, strategic repertoire, motivation, and orientation toward knowing. Specifically, we focus on epistemic beliefs and on the changes that a view of knowing as a complex, effortful, generative, evidence-seeking, and reflective enterprise entails. In this context, we discuss how familiarity with the processes used to justify knowledge claims within specific disciplinary communities can provide useful tools to develop the kind of adaptive and consistent thinking that characterize competence in different domains and how this focus may aid the identification of characteristics common across domains. We use our empirical exploration of adolescents’ development of competence in the domain of history to illustrate the implications of this theoretical framework, to highlight the relations between domain-specific epistemic beliefs and kind of understanding that students built as a result of reading multiple texts, and to suggest what pedagogical practices may have influenced students’ orientations toward knowing in these three history classes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_538</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_538">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/538/535" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_538" DMDID="DMD_biejournals_538">
+            <mets:fptr FILEID="FILE0_biejournals_538"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

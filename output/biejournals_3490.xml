@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3490">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>More than a virus</title>
+                        <subTitle>How COVID 19 infected education in Turkey?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Akbulut, Melisa</displayForm>
+                        <namePart type="family">Akbulut</namePart>
+                        <namePart type="given">Melisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Şahin, Uğur</displayForm>
+                        <namePart type="family">Şahin</namePart>
+                        <namePart type="given">Uğur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Esen, Ali Can</displayForm>
+                        <namePart type="family">Esen</namePart>
+                        <namePart type="given">Ali Can</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: We aim with this report to provide information on how the Covid-19 pandemic affected education and citizenship education in Turkey.
+Design: The report is based on literature review, the analysis of social media, and the observations of the authors. We provide a general framework of Turkish education after the pandemic using sources such as official statements from government offices; social media entries were analyzed to provide different perspectives. Finally, observations of the authors based on their experiences with distance learning were included in the report.
+Findings: We argue that despite the efforts of the state, there are still problems in the distance learning process, mainly relating to the access to online classes and the very limited room given to Covid-19 as a topic in social studies courses. In addition, we find that social media have played a significant role in increasing citizen participation as a consequence of the pandemic</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3490</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3490">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3490/3683" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3490" DMDID="DMD_biejournals_3490">
+            <mets:fptr FILEID="FILE0_biejournals_3490"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

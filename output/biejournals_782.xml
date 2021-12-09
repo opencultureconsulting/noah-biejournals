@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_782">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Assessing two Theoretical Frameworks of Civic Engagement</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>García-Cabrero, Benilde</displayForm>
+                        <namePart type="family">García-Cabrero</namePart>
+                        <namePart type="given">Benilde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pérez-Martínez, María Guadalupe</displayForm>
+                        <namePart type="family">Pérez-Martínez</namePart>
+                        <namePart type="given">María Guadalupe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sandoval-Hernández, Andrés</displayForm>
+                        <namePart type="family">Sandoval-Hernández</namePart>
+                        <namePart type="given">Andrés</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Caso-Niebla, Joaquín</displayForm>
+                        <namePart type="family">Caso-Niebla</namePart>
+                        <namePart type="given">Joaquín</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Díaz, Carlos</displayForm>
+                        <namePart type="family">Díaz</namePart>
+                        <namePart type="given">Carlos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The purpose of this study was to empirically test two major theoretical models: a modified version of the social capital model (Pattie, Seyd and Whiteley, 2003), and the Informed Social Engagement Model (Barr and Selman, 2014; Selman and Kwok, 2010), to explain civic participation and civic knowledge of adolescents from Chile, Colombia and Mexico, using data from the International Civic and Citizenship Education Study 2009 (Schulz, et al., 2010). The models were used to identify factors associated with different levels of knowledge and civic participation: expected participation in legal and illegal protests, and electoral participation.Data were analyzed using regression analysis. Results show that the Informed Social Engagement approach (ISEM), explains better the observed differences in civic knowledge and civic participation, than the Social Capital Model (SCM). That is, the expected values associated with the variables included in the ISEM are closer to the observed values, than those predicted by the SCM. This is true for the three outcomes (expected participation in legal protests, illegal protests, and electoral participation) and in the three countries analyzed (Chile, Colombia and Mexico).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_782</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_782">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/782/851" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_782" DMDID="DMD_biejournals_782">
+            <mets:fptr FILEID="FILE0_biejournals_782"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

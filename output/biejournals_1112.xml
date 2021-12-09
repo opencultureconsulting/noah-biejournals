@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1112">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Individueller Bildungsprozess und/oder individuelle Rendite? Fragen nach dem Verhältnis von Reformpädagogik und Ökonomie am Beispiel des Oberstufen-Kollegs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Otto, Johanna</displayForm>
+                        <namePart type="family">Otto</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Traditionell gibt es ein Spannungsverhältnis zwischen humanistischen bzw. reformpädagogischen Bildungsansprüchen einerseits und den ökonomischen Bedingungen gesellschaftlicher Reproduktion andererseits, das sich derzeit im bildungspolitischen Diskurs als „Kritik an der Ökonomisierung des Bildungssystems“ artikuliert. Da es sich angesichts des humanistischen Anspruchs der Zweckfreiheit von Bildung in Abgrenzung zur schulischen Qualifikationsfunktion bei diesem Spannungsverhältnis um ein strukturell bedingtes handelt, gehen wir davon aus, dass es sich nicht abschließend auflösen, wohl aber produktiver oder eben weniger produktiv bearbeiten lässt. Im vorliegenden Beitrag sind wir daher der Frage nachgegangen, inwieweit sich die reformpädagogischen Bemühungen der Versuchsschule Oberstufen-Kolleg auch volkswirtschaftlich abbilden lassen, d.h. eine ökonomische Rendite erzeugen, zugleich aber damit besondere Aufmerksamkeit der Frage gewidmet werden muss, inwiefern ökonomische Motive in Spannung zu den reformpädagogischen Ansprüchen geraten. Zur analytischen Abarbeitung führen wir hierfür die begriffliche Differenzierung zwischen ökonomischer und pädagogischer Effizienz und Effektivität ein. Im Fazit des Beitrags versuchen wir aufzuzeigen, dass es sich unseres Erachtens bei der Differenz zwischen effizienzorientiertem ökonomischen Denken und den Zielbestimmungen von Pädagogik, nämlich Bildung, Mündigkeit und Selbstbestimmung, nicht um einen kontradiktorischen Widerspruch handelt, d.h. einen solchen, in dem sich zwei Elemente unvereinbar gegenüberstehen, wohl aber einen konträren Widerspruch, d.h. einen solchen, in dem zwei Pole einander gegenüberstehen und die pädagogische Aufgabe darin besteht, dieses widersprüchliche Moment möglichst produktiv und konstruktiv miteinander zu vermitteln. Dies erweist sich in einem zugleich humanistischen Ansprüchen und marktwirtschaftlichen Prinzipien folgenden Bildungssystem als dauerhafte sowohl kritische als auch kritisch-konstruktive Vermittlungsaufgabe.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1112</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1112">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1112/1194" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1112" DMDID="DMD_biejournals_1112">
+            <mets:fptr FILEID="FILE0_biejournals_1112"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4776">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Streiten lernen. In der Uni? Stimmen aus dem Seminarraum</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rieger-Ladich, Markus</displayForm>
+                        <namePart type="family">Rieger-Ladich</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Feldmann, Milena</displayForm>
+                        <namePart type="family">Feldmann</namePart>
+                        <namePart type="given">Milena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hoffmann, Linnéa</displayForm>
+                        <namePart type="family">Hoffmann</namePart>
+                        <namePart type="given">Linnéa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Obwohl weithin Übereinstimmung darin besteht, dass die Wissenschaft vom argumentativen Wettstreit lebt, scheinen akademische Kontroversen seit einigen Jahren an Popularität zu verlieren. Das liegt nicht nur an veränderten materiellen Rahmenbedingungen, unter denen an der Universität gelehrt, geforscht und studiert wird, sondern auch an einer gesteigerten Sensibilität für sprachliche Verletzungen. Nicht zuletzt führen bestimmte sprachliche Codes und die Sorge vor gegenseitiger Kränkung zu gestiegenen Erwartungen an Seminarbeiträge der Studierenden. Der folgende Text spürt den Entwicklungen der veränderten Debattenkultur an der Hochschule nach und fragt nach den Ursachen für die Zurückhaltung von Studierenden bei streitbaren Themen und den Folgen einer sich verändernden Streitkultur in der Academia. Das Besondere dabei: Nach einer Einschätzung des Beobachtungsgegenstands aus professoraler Perspektive kommen zwei Studierende eines Tübinger Masterstudiengangs zu Wort. Milena Feldmann und Linnéa Hoffmann kommentieren bzw. ergänzen den Beitrag von Markus Rieger-Ladich aus studentischer Sicht. Dabei wählen sie bei der Suche nach Erklärungen für die Veränderungen des akademischen Betriebs etwas andere Akzente und formulieren die Vermutung, dass es an deutschen Hochschulen um die Debattenkultur möglicherweise gar nicht so schlecht bestellt ist, wie dies immer wieder zu lesen ist.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4776</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4776">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4776/4536" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4776" DMDID="DMD_biejournals_4776">
+            <mets:fptr FILEID="FILE0_biejournals_4776"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

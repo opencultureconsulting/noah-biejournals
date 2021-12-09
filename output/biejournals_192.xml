@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_192">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Soziale Anerkennung auf fremdem Terrain. Strukturelle Herausforderungen des Zugangs für nicht-traditionell Studierende zu wissenschaftlicher Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Damm, Christoph</displayForm>
+                        <namePart type="family">Damm</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dörner, Olaf</displayForm>
+                        <namePart type="family">Dörner</namePart>
+                        <namePart type="given">Olaf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im  Beitrag  werden  erste  Ergebnisse  eines  laufenden  Forschungsprojektes  zur  Anerkennung  außerhochschulisch  erworbener Fähig- und Fertigkeiten (Kompetenzen) in der wissenschaftlichen  Weiterbildung  vorgestellt.  Ausgangspunkt ist die Beobachtung, dass nicht-traditionell Studierende trotz formal-rechtlich guter Bedingungen für die Aufnahme eines berufsbegleitenden  Studiums  kaum  Angebote  der  wissenschaftlichen Weiterbildung in Anspruch nehmen. Die Anerkennung außerhochschulisch erworbener Kompetenzen wird gemeinhin  als  Instrument  zur  Verbesserung  des  Zugangs der  nicht-traditionell  Studierenden  zur  wissenschaftlichen Weiterbildung verstanden. In welcher Art und Weise Anerkennung in Hochschulen erfolgt, ist jedoch unklar. Anhand qualitativ-empirischer  Ergebnisse  stellen  wir  im  Beitrag Praxen der Anerkennung dar und zeigen auf, inwieweit der Umgang mit Anerkennung im Rahmen von Orientierungen erfolgt, die jenseits der Logik formaler Reglements liegen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_192</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_192">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/192/181" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_192" DMDID="DMD_biejournals_192">
+            <mets:fptr FILEID="FILE0_biejournals_192"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

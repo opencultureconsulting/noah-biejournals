@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_180">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Innovation durch forschungsorientierte Weiterbildung. Das Format Training-on-the-Project</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jankowski, Damaris</displayForm>
+                        <namePart type="family">Jankowski</namePart>
+                        <namePart type="given">Damaris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Juhnke, Julia</displayForm>
+                        <namePart type="family">Juhnke</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krossing, Ingo</displayForm>
+                        <namePart type="family">Krossing</namePart>
+                        <namePart type="given">Ingo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lengsfeld, Stephan</displayForm>
+                        <namePart type="family">Lengsfeld</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Inventionen und Innovationen können dort entstehen, wo bereits vorhandenes Wissen mit Praxis verknüpft und neu kombiniert wird. Somit ist ein entscheidender Faktor, das bestehende Wissen in Wirtschaft, Wissenschaft und Gesellschaft zu mobilisieren und den Austausch gezielt zu fördern. Universitäten und Hochschulen nehmen dabei eine zentrale Rolle als Impulsgeber ein. Zwischen Wissenschaft und Wirtschaft bestehen bereits vielfältige Formen der Zusammenarbeit. Ein neuartiger Ansatz wissenschaftlicher Weiterbildung wird derzeit an der Universität Freiburg pilothaft umgesetzt: Das Format Training-on-the-Project beinhaltet sowohl eine Trainings- als auch eine Forschungskomponente und fördert den persönlichen Austausch verschiedener Akteurinnen und Akteure auf Augenhöhe. Nutzen, Chancen und Herausforderungen dieses Formats werden diskutiert und im Kontext der regionalen Unternehmensstruktur beleuchtet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_180</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_180">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/180/169" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_180" DMDID="DMD_biejournals_180">
+            <mets:fptr FILEID="FILE0_biejournals_180"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

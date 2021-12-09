@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2503">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Bei uns läuft’s ja doch gar nicht so schlecht“ – Internationale Exkursionsreisen als Reflexionsanlässe</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>“It’s not that bad here after all!”- International excursions as an occasion for reflection</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Auner, Nadine</displayForm>
+                        <namePart type="family">Auner</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schüssler, Renate</displayForm>
+                        <namePart type="family">Schüssler</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Palowski-Göpfert, Monika</displayForm>
+                        <namePart type="family">Palowski-Göpfert</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der folgende Beitrag diskutiert Erfahrungen mit der Umsetzung des Exkursionsprogramms „International Perspectives“, das seit 2016 innerhalb der Qualitätsoffensive Lehrerbildung an der Universität Bielefeld durchgeführt wird.
+Er gibt eine kurze Einführung zum Thema Auslandsaufenthalte während des Lehramtsstudiums und anschließend einen Überblick über das Exkursionsprogramm „International Perspectives“. Der Beitrag präsentiert erste Forschungsbefunde zu seinen Auswirkungen und geht der Frage nach, inwieweit internationale Exkursionen zur Entwicklung einer kritisch-reflexiven Praxiserschließung bei Lehramtsstudierenden beitragen können und welche Elemente der Vorbereitung, Begleitung und Reflexion hierbei besonders effektiv sind.</abstract>
+                    <abstract lang="eng">The following article discusses the “International Perspectives”-program, which offers annual excursions to different European countries for teacher training students at Bielefeld University since 2016 as part of BiProfessional and the Qualitätsoffensive Lehrerbildung. The article gives an overview concerning international experiences during teacher training in the “International Perspectives”program, presents first research results of the program and deals with the question how international excursions can promote critical and reflective thinking in teacher training students.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2503</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2503">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2503/3390" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2503" DMDID="DMD_biejournals_2503">
+            <mets:fptr FILEID="FILE0_biejournals_2503"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

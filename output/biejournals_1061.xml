@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1061">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>myth of European identity Representation and construction of regional, national and European identities in German, French and international television news broadcasts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiehl, Anna</displayForm>
+                        <namePart type="family">Wiehl</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This paper presents an overview of some of the central myths (sensu Roland Barthes) of European identity in its interdependence with national and regional identities. Starting from the premises that television-news perceived as a social practice is still highly influential for how we perceive the world and ›locate‹ ourselves in it, we examine significant examples of TV-news – reaching from regional (Bavaria/Alsace), national (Germany/France) to supra-national public broadcasting stations (arte) on both the macro-level and the micro-level of the programs.Thereby, we follow a pluri-disciplinary research axis: Combining a semio-historic approach with methodological instruments from the Cultural Studies ›tool-box‹ allows us to understand topical cultural phenomena and their expressions in (mass-)media as socio-culturally embedded imprints of collective memory and imagination.Covering a wide spectrum of ›news-narratives‹, the analysis focuses on the interdependence of the preservation of heritage, traditional values and the construction of (post-)modern versions of national self-assertiveness (or the lack of it) in a globalized world – and the fact that ›audio-visions‹ of European (cultural) identity are still very elusive.These findings are taken as a point of departure to consider options for future (social-)TV-programs that can enhance the emergence of persistent ›Europeanness‹ as multifaceted, flexible pluri-identities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1061</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1061">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1061/1168" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1061" DMDID="DMD_biejournals_1061">
+            <mets:fptr FILEID="FILE0_biejournals_1061"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

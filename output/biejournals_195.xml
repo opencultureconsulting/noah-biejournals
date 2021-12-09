@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_195">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aktuelle Veröffentlichungen zum Themenfeld „Hochschule und Weiterbildung“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dt. Inst. für Erwachsenenbildung (DIE), Bibliothek</displayForm>
+                        <namePart type="family">Dt. Inst. für Erwachsenenbildung (DIE)</namePart>
+                        <namePart type="given">Bibliothek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Halbjahresauszug - Mitte November 2016 - Ende April 2017</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_195</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_195">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/195/184" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_195" DMDID="DMD_biejournals_195">
+            <mets:fptr FILEID="FILE0_biejournals_195"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

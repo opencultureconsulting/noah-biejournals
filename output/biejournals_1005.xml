@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1005">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What is work? On the invisibility of women’s paid work in the informal sector</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ustek, Funda</displayForm>
+                        <namePart type="family">Ustek</namePart>
+                        <namePart type="given">Funda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">»Work« is broadly defined in the literature as effort resulting in some product or service in exchange for payment or in-kind payment. However women’s labor force participation often remains under-reported in official statistics. Based on fieldwork in Istanbul, Turkey, this article presents the discrepancies between common sense notions of »work« and women workers’ subjective interpretations of their paid work in the informal sector as »non-work«. This discrepancy raises important questions about gendered segregation of labor markets, and about women’s status in society in general. I argue that this discrepancy also contributes to women workers’ invisibility in official statistics. The article contributes to theorization on the under-reporting of women’s paid work in official statistics by demonstrating the ambivalent patterns of female identities within the gendered economy of global markets.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1005</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1005">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1005/1113" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1005" DMDID="DMD_biejournals_1005">
+            <mets:fptr FILEID="FILE0_biejournals_1005"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1031">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Braudel and Foucault on structure and event. Towards a new approach to (neo)liberalism and capitalism</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gürkan, Ceyhun</displayForm>
+                        <namePart type="family">Gürkan</namePart>
+                        <namePart type="given">Ceyhun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Fernand Braudel and Michel Foucault are two renowned French historians exerting enormous influence on studies of the history of capitalism and (neo)liberalism in the context of historical sociology and governmentality respectively. Inspired by their revolutionary works on history, sociology and politics, this paper first seeks to lay out the dialogue between Braudel and Foucault in the context of their references to one another in their texts and, in turn, evaluates their views on structures and events comparatively. In what follows, we claim that their ways of understanding of structures and events are best grasped around their own analytics ―Braudel’s tripartite schema of economic civilization and Foucault’s analytics of power and government. Considering the historical background of modern society, Braudel being an economic historian focuses on the history of capitalism whereas Foucault deals with the history of (neo)liberalism. The paper is finally engaged in integrating their analytics, which also makes the views of Braudel and Foucault on structures and events all the clearer, in order to take further steps towards achieving a comprehensive sociological and historical understanding of capitalism and (neo)liberalism.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1031</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1031">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1031/1139" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1031" DMDID="DMD_biejournals_1031">
+            <mets:fptr FILEID="FILE0_biejournals_1031"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

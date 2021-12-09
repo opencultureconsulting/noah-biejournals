@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1520">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Enzymes in everyday life</title>
+                        <subTitle>Biochemische Grundlagen bilingual erforschen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ohlberger, Stephanie</displayForm>
+                        <namePart type="family">Ohlberger</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wegner, Claas</displayForm>
+                        <namePart type="family">Wegner</namePart>
+                        <namePart type="given">Claas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">In Zeiten, in denen bilingualer Unterricht immer mehr an Bedeutung gewinnt und aus der heutigen Schullandschaft kaum noch weg zu denken ist, ist es dennoch nicht für jede Schule möglich, ein institutionalisiertes bilinguales Lehrangebot zu schaffen. Aus diesem Grund sind bilinguale Module auf dem Vormarsch, was bedeutet, dass vereinzelt ganze Unterrichtseinheiten in einer Fremdsprache unterrichtet werden, sofern der Lehrer sich dazu in der Lage sieht. Um diesen Prozess zu unterstützen, wird im vorliegenden Beitrag ein Vorhaben zur Enzymatik vorgestellt – geeignet für Schüler*innen der EF, die bereits gute Sprachfähigkeiten aufweisen und dadurch eine Auflockerung ihres Unterrichtsalltags erleben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1520</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1520">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1520/3603" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1520">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1520/3604" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_1520">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1520/3605" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE3_biejournals_1520">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1520/3606" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE4_biejournals_1520">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1520/3607" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1520" DMDID="DMD_biejournals_1520">
+            <mets:fptr FILEID="FILE0_biejournals_1520"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1520" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1520"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1520" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1520"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_1520" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_1520"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_1520" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_1520"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

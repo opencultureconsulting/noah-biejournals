@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1659">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Meinung von Schülern zu ihrem Biologie-Schulbuch und zu Schulversuchen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aufdermauer, Anke</displayForm>
+                        <namePart type="family">Aufdermauer</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="family">Hesse</namePart>
+                        <namePart type="given">Manfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-04-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">45 Schüler der 5. und 6. Jahrgangsstufe wurden nach ihrer Meinung hinsichtlich ihres Schulbuches befragt. Aus ihren Antworten zu Fragen nach Versuchsanleitungen, zu Register, Inhaltsverzeichnis und Glossar sind einige interessante Gedanken und Hinweise zur Schulbuchkonzeption, aber auch zu Versuchsanleitungen und zu Versuchsdurchführungen zu entnehmen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1659</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1659">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1659/1605" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1659" DMDID="DMD_biejournals_1659">
+            <mets:fptr FILEID="FILE0_biejournals_1659"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

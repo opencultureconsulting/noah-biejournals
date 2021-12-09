@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2782">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introduction</title>
+                        <subTitle>Racial and Ethnic Conflict and Violence</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bergmann, Werner</displayForm>
+                        <namePart type="family">Bergmann</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Crutchfield, Robert D.</displayForm>
+                        <namePart type="family">Crutchfield</namePart>
+                        <namePart type="given">Robert D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Racial and ethnic violence takes many forms. Genocides, ethnic cleansing, pogroms, civil wars, and violent separatist movements are the most obvious and extreme expressions, but less organized violence such as rioting, and hate crimes by individuals or small groups are products of racial and ethnic conflict as well. Also, the distribution of criminal violence within societies, which may or may not be aimed at members of another group, is in some places a by-product of ongoing conflicts between superior and subordinated racial or ethnic groups. Although estimates of the number of deaths attributable to ethnic violence vary widely, range of eleven to twenty million given for the period between 1945 and the early 1990s show the gravity of this type of conflict (Williams 1994, 50). So it comes as no surprise that scholars have paid increasing attention to such conflicts over the last decades.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2782</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2782">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2782/2543" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2782" DMDID="DMD_biejournals_2782">
+            <mets:fptr FILEID="FILE0_biejournals_2782"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

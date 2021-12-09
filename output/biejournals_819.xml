@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_819">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Students as First-time Voters</title>
+                        <subTitle>The role of Voter Advice Applications in Self-reflection on Party Choice and Political Identity</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kristensen, Niels Nørgaard</displayForm>
+                        <namePart type="family">Kristensen</namePart>
+                        <namePart type="given">Niels Nørgaard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Solhaug, Trond</displayForm>
+                        <namePart type="family">Solhaug</namePart>
+                        <namePart type="given">Trond</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-03-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2016</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article analyses what characterises first time voters&apos; self-reflections on party choice as they use voter advice applications.Method: This study is based on interviews of 28 Norwegian students (age 18-20)preparing themselves for their first election.Findings: Finding a party to vote for is primarily characterized by a process of matching a party to students&apos; political self, which we see as steps toward a political identity.Practical implications: Teaching politics should allow for students&apos; reflections on self and their political preferences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_819</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_819">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/819/909" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_819" DMDID="DMD_biejournals_819">
+            <mets:fptr FILEID="FILE0_biejournals_819"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

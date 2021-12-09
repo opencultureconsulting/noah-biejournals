@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3126">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Unofficial Storytelling as Middle Ground Between Transitional Truth-Telling and Forgetting</title>
+                        <subTitle>A New Approach to Dealing With the Past in Postwar Bosnia and Herzegovina</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oberpfalzerová, Hana</displayForm>
+                        <namePart type="family">Oberpfalzerová</namePart>
+                        <namePart type="given">Hana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ullrich, Johannes</displayForm>
+                        <namePart type="family">Ullrich</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jeřábek, Hynek</displayForm>
+                        <namePart type="family">Jeřábek</namePart>
+                        <namePart type="given">Hynek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-01</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Is transitional truth-telling more beneficial to reconciliation than remaining silent about past crimes? The aim of this article is to contribute to the debate by exploring the impact of “My Story,” an NGO initiative that uses multiethnic storytelling by victims of the Bosnian war to promote reconciliation. We report field observations and the results obtained from interviews with young Bosniaks, Croats and Serbs. Empathy, as a reported outcome of the storytelling, seems to enable deeper reflection and attitude change. Respondents reported reduced prejudice, competitive victimhood and blaming, and increased interest in information about the outgroup, increased interest in peace activism, a change of emotions toward the outgroup and feeling guilt for the misdeeds of their ingroup. We conclude that this storytelling initiative is beneficial and worth spreading internationally. It deconstructs many of the same factors that prevent reconciliation that truth commissions aim to deconstruct, while improving interethnic attitudes and enabling to look toward the future, as forgetting does.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3126</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3126">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3126/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3126" DMDID="DMD_biejournals_3126">
+            <mets:fptr FILEID="FILE0_biejournals_3126"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

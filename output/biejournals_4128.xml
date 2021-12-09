@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4128">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Drinnen“ oder „Draußen“</title>
+                        <subTitle>Exklusion von Schüler*innen mit sonderpädagogischem Förderbedarf aus „inklusiven“ Lerngruppen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lau, Ramona</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Ramona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lübeck, Anika</displayForm>
+                        <namePart type="family">Lübeck</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In „inklusiven“ Lerngruppen werden Schüler*innen mit und ohne sonderpädagogischen Förderbedarf zieldifferent, aber gemeinsam unterrichtet. Um in dieser Vielfalt Leistungsanforderungen zielgruppenadäquat einbringen und umsetzen zu können, wird durch Lehrkräfte zuweilen eine mehr oder weniger dauerhafte Teilung der Lerngruppe gemäß der vorliegenden Förderbedarfe vorgenommen. Diese Gruppenteilung kann nur ein Fach, ggf. aber auch mehrere Fächer betreffen. In diesem Beitrag stellen wir ein Fortbildungssetting vor, das ein solches unterrichtsorganisationales Handeln thematisiert. Mit dem hier zur Verfügung gestellten Fortbildungsmaterial kann anhand der Reflexion von Schüle-r*innenaussagen zur Teilung ihrer Lerngruppe eine Auseinandersetzung mit unterrichtsorganisationalem Handeln in „inklusiven“ Lerngruppen angestoßen und somit eine weitere Professionalisierung im Themenfeld Inklusion ermöglicht werden. Abgerundet wird dieser Beitrag mit der Vorstellung von Erfahrungen, die mit dem Fortbildungssetting im thematischen Kontext gemacht wurden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4128</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4063" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4064" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.presentationml.presentation" ID="FILE2_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4094" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE3_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4095" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4096" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4097" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE6_biejournals_4128">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4128/4098" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4128" DMDID="DMD_biejournals_4128">
+            <mets:fptr FILEID="FILE0_biejournals_4128"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4128" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4128"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4128" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4128"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_4128" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_4128"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_4128" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_4128"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_4128" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_4128"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_biejournals_4128" LABEL="">
+                <mets:fptr FILEID="FILE6_biejournals_4128"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

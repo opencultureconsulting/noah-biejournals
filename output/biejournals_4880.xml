@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionelle Handlungskompetenz im Lehr-Lern-Labor</title>
+                        <subTitle>Vignettenbasierte Erfassung der professionellen Handlungskompetenz angehender Biologielehrkräfte in Bezug auf Erkenntnisgewinnung im Lehr-Lern-Labor</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dahmen, Sabrina</displayForm>
+                        <namePart type="family">Dahmen</namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preisfeld, Angelika</displayForm>
+                        <namePart type="family">Preisfeld</namePart>
+                        <namePart type="given">Angelika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Damerau, Karsten</displayForm>
+                        <namePart type="family">Damerau</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">31</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Transfer des Ausbildungswissens in die Unterrichtspraxis ist die Grundlage für professionelles unterrichtliches Handeln. Dieser stellt eine Herausforderung für angehende Lehrkräfte dar. Lehr-Lern-Laboren (LLL) wird das Potenzial zugeschrieben, professionelle Handlungskompetenzen anzubahnen. Es finden sich aber bisher nur wenige empirische Untersuchungen zur professionellen Handlungskompetenz im LLL. In der vorliegenden Studie wurde die professionelle Handlungskompetenz von Studierenden des Faches Biologie in Bezug auf Experimentiersituationen mit Schüler*innen im LLL untersucht. Zur Erhebung wurde ein vignettenbasiertes Testinstrument eingesetzt, und die erhobenen Daten wurden inhaltsanalytisch ausgewertet. Dabei wurden authentische Videovignetten aus dem LLL, die von den beteiligten Studierenden schriftlich analysiert wurden, als kontextsensitiver Impuls zur Datengewinnung genutzt. Diese Analysen wurden mittels qualitativer Inhaltsanalyse ausgewertet, und es wurde ein Indikatorensystem zur Beurteilung der Kompetenzfacetten des zugrunde liegenden Modells zum professionellen Wahrnehmen und Handeln im Experimentalunterricht entwickelt. Die Ergebnisse zeigen, dass bei den untersuchten Studierenden im Master of Education insbesondere in Bezug auf Wahrnehmung und Prognose von Lernprozessen beim Experimentieren sowie in Bezug auf die kontextualisierte Bewertung von Experimentierprozessen im LLL anhand (fach-)didaktischer Konzepte weiterer Professionalisierungsbedarf besteht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4880</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4880">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4880/4603" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4880" DMDID="DMD_biejournals_4880">
+            <mets:fptr FILEID="FILE0_biejournals_4880"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

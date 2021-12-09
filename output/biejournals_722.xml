@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_722">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Empowering Teaching for Participatory Citizenship. Evaluating Alternative Civic Education Pedagogies in Secondary School in Mexico</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reimers, Fernando M.</displayForm>
+                        <namePart type="family">Reimers</namePart>
+                        <namePart type="given">Fernando M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ortega, Maria Elena</displayForm>
+                        <namePart type="family">Ortega</namePart>
+                        <namePart type="given">Maria Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cardenas, Mariali</displayForm>
+                        <namePart type="family">Cardenas</namePart>
+                        <namePart type="given">Mariali</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Experimental evaluation of three approaches to civic education with low income students in Mexico. Sixty eight grade teachers of ‘Civic Education’ and 2,529 students were randomly assigned to one of three conditions: Lesson Planning, Participatory Learning, Lesson Planning and Participatory Learning.All treatment groups had significant effects in a range of civic dimensions, such as conceptions of gender equity, trust in future, knowledge and skills, participation in school and in the community. There is limited evidence of transfer of impact to dimensions not explicitly targeted in the curriculum. There is no impact in attitudinal dimensions, tolerance and trust.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_722</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_722">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/722/781" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_722" DMDID="DMD_biejournals_722">
+            <mets:fptr FILEID="FILE0_biejournals_722"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

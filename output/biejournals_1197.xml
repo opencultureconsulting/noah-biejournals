@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1197">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Components of a Financial Education Technology for Micro-entrepreneurs in Brazil</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lawrence, Nathaniel Archer</displayForm>
+                        <namePart type="family">Lawrence</namePart>
+                        <namePart type="given">Nathaniel Archer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This article designs a pedagogy and scalable technological solution to provide&amp;nbsp;Brazilian micro- and small enterprises with guidance in business management habitdevelopment.
+Approach: The study demonstrates the need for formalized micro-entrepreneurship&amp;nbsp;training and, given general financial education programs’ poor performance, considers&amp;nbsp;micro-entrepreneurs’ fundamental educational needs.
+Findings: The analysis provides three fundamental components to consider in microentrepreneurship&amp;nbsp;training design: content utility, communication intelligibility, and&amp;nbsp;material interactivity.
+Research implications: The proposed pedagogy and virtual trainer technology suggest&amp;nbsp;further study and development of optimal approaches to content utility, communication&amp;nbsp;intelligibility, and material interactivity to improve micro-entrepreneurial habit-development&amp;nbsp;and economic development.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1197</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1197">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1197/3904" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1197" DMDID="DMD_biejournals_1197">
+            <mets:fptr FILEID="FILE0_biejournals_1197"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

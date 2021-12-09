@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_347">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Promotion of Interdisciplinarity Competence as a Challenge for Higher Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Godemann, Jasmin</displayForm>
+                        <namePart type="family">Godemann</namePart>
+                        <namePart type="given">Jasmin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Interdisciplinary co-operation, no matter whether in research or in teaching, makes high demands on all participating players. To reach a shared understanding is the main goal and, at the same time, the major challenge. In interdisciplinary work contexts, experts with different qualities, varying knowledge bases and disciplinary perspectives come together. The extent to which an understanding is possible depends on the ability to exchange knowledge in such a way that it becomes part of a common knowledge base, as well as on one’s own perception of the problem. Therefore, all persons involved must be aware of being both expert and layperson at the same time. Furthermore, they need to accept the perspective of all those who are foreign to their subject during the communication process. The ability to work and to communicate in an interdisciplinary context does not arise all by itself but may be promoted during the academic education. The dimension of knowledge integration will be described in the following, with recourse to psychological research about expert-layperson communication and regarding assumptions about the adoption of perspectives. This paper shows that interdisciplinary competency and the ability to solve complex problems can be promoted at universities. This is illustrated by the case study of the “Sustainability Study Programme.”</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_347</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_347">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/347/344" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_347" DMDID="DMD_biejournals_347">
+            <mets:fptr FILEID="FILE0_biejournals_347"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

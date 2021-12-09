@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2250">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Organigramm mit Gott“. Anregungen zu einer Organisationsanalyse mit einer positionsorientierten Aufstellung - Ein Fallbeispiel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Annemarie</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Annemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koch, Heike</displayForm>
+                        <namePart type="family">Koch</namePart>
+                        <namePart type="given">Heike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wir stellen hier anhand eines Beispiels eine Methode vor, die dem Soziodrama entlehnt ist, die Organisation fokussieren soll, dabei die (erzählten) Elemente der Organisation miteinander in Beziehung setzt und diese in phantasierte Dialoge umsetzt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2250</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2250">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2250/2177" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2250">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2250/_1" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2250" DMDID="DMD_biejournals_2250">
+            <mets:fptr FILEID="FILE0_biejournals_2250"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2250" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2250"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

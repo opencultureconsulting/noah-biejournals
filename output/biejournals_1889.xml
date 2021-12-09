@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1889">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introduction of digital technologies in education - Concepts and experiences</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laaser, Wolfram</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Wolfram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Exeni, Cecilia</displayForm>
+                        <namePart type="family">Exeni</namePart>
+                        <namePart type="given">Cecilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Abstract During the last decades technologies of information and communication technologies made a lot of progress, which increased the quantity and quality of distance education programs and the upcoming blended learning models. However, some basic difficulties in defining meaningful terms instead of buzzwords, often used in the present debate, will be discussed to raise consciousness of the rather vague terminology. The progress of digital technologies offered also a chance for better inclusion of disadvantaged parts of the population. The focus lies on the young generation of school attendants and how technology-oriented programs can provide better inclusion. We put a regional focus on development in Latin America. To highlight some of the issues discussed before, we will present a detailed case study about the Argentinean project “ConectarIgualdad”. We have also added a brief comparison with some other Latin American Initiatives. Summarizing we list considerations for a successful inclusive application of digital technologies in education. Conflicts of interest: None.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1889</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1889">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1889/1809" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1889" DMDID="DMD_biejournals_1889">
+            <mets:fptr FILEID="FILE0_biejournals_1889"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

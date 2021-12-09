@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Conflicts between Afar Pastoralists and their Neighbors</title>
+                        <subTitle>Triggers and Motivations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hundie, Bekele</displayForm>
+                        <namePart type="family">Hundie</namePart>
+                        <namePart type="given">Bekele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-04-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Particularly pervasive violent conflicts in the Horn of Africa have detrimental effects on people&apos;s livelihoods there. While the intensity, causes, and repercussions of violent conflicts vary spatially and temporally, pastoral areas are currently the hotspots. This paper examines the causes and consequences of violent conflicts in Ethiopia between Afar pastoralists and two of their neighbors, the Issa and the Karrayyu. The findings are based on primary data (individual interviews, group discussions, and field observations) and secondary data (documents and publications) collected in 2005 and 2006. The results indicate that contemporary challenges such as recurrent droughts, resource appropriation, livestock raiding, proliferation of small arms, and illicit trade contribute to the perpetuation of violent conflicts. While traditional institutions manage inter-clan conflicts, their effectiveness is quite limited with regard to inter-ethnic conflicts, where the contemporary challenges in pastoral areas are too diverse and complex to be managed solely by traditional institutions. The perpetuation of violent conflicts has affected the livelihoods of pastoralists, thereby causing humanitarian crisis and limiting access to resources and opportunities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2820</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2820">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2820/pdf_21" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_2820">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2820/2595" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2820" DMDID="DMD_biejournals_2820">
+            <mets:fptr FILEID="FILE0_biejournals_2820"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2820" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2820"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

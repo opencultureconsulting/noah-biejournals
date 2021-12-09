@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4163">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>eigene Lernen biographisch betrachten</title>
+                        <subTitle>Lernbiographiekurven als Instrument in der Lehrer*innenbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Looking at One&apos;s Own Learning Biographically.</title>
+                        <subTitle>Learning Biography Curves as an Instrument in Teacher Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rott, David</displayForm>
+                        <namePart type="family">Rott</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gilhaus-Schütz, Julia</displayForm>
+                        <namePart type="family">Gilhaus-Schütz</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hochhaus, Kerstin</displayForm>
+                        <namePart type="family">Hochhaus</namePart>
+                        <namePart type="given">Kerstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Christian</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Beschäftigung mit der eigenen Biographie kann zu einer Reflexion des Selbstbildes führen und durch entsprechende Impulse, etwa auf die eigene Lerngeschichte, spezifische Lebensbereiche in den Blick rücken. Dies erscheint gerade auch in der Lehrer*innenbildung ein wichtiger Anknüpfungspunkt für die Ausgestaltung innovativer hochschuldidaktischer Formate zu sein. In diesem Beitrag wird das Instrument Lernbiographiekurve vorgestellt und anhand zweier Beispiele exemplarisch betrachtet. Aufgezeigt werden Perspektiven für den Einsatz in der ersten Phase der Lehrer*innenbildung.</abstract>
+                    <abstract lang="eng">Dealing with one’s own biography can lead to a reflection on one’s self-image and, through corresponding impulses, for example on one’s own learning history, bring specific areas of life into view. This seems to be an important starting point for the design of innovative didactic formats in higher education, especially in teacher education. In this article, the instrument “learning biography curve” is presented and examined, using two examples. Perspectives for its use in the first phase of teacher education are shown.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4163</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4163">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4163/4505" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4163" DMDID="DMD_biejournals_4163">
+            <mets:fptr FILEID="FILE0_biejournals_4163"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

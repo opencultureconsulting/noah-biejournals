@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1739">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Den </nonSort>
+                        <title>globalen Wandel verstehen</title>
+                        <subTitle>Vorstellungen zur Stabilität und Instabilität der Erdsysteme</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lampert, Irene</displayForm>
+                        <namePart type="family">Lampert</namePart>
+                        <namePart type="given">Irene</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Niebert, Kai</displayForm>
+                        <namePart type="family">Niebert</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Modell der planetaren Belastungsgrenzen ist der Versuch globale Umweltveränderungen wissenschaftsbasiert zu erfassen und zu bewerten. In dem Modell wurden neun planetare Belastungsgrenzen identifiziert, deren Überschreitung zur Destabilisation der jeweiligen Erdsysteme führen kann. Damit das Modell für die unterrichtliche Vermittlung genutzt werden kann, fragt dieser Beitrag danach, wie Wissenschaftler/innen und Schpler/innen die Stabilität und Instabilität verschiedener erdsystemarer Prozesse konzeptualisieren. Der Vergleich der wissenschaftlichen Vorstellungen und Vorstellungen der Schüler/innen zeigt, dass die beiden Gruppen in ihren Grundsätzen die Menschen als Ursache für die Instabilität der Erdsyseme sehen. Dennoch zeigen sich Unterschiede in den Vorstellungen bei der Definition von erdsystemarer Stabilität sowie den Folgen der Instabilität der Erdsysteme. Auch nehmen die Wissenschaftler/innen eine dezidiert anthropozentrische Sichtweise im Bezug zu den globalen Umweltveränderungen im Gegensatz zur ökologischen Sichtweise der Lernenden ein.
+Abstract
+The planetary boundary framework enables us to describe global environmental changes based on scientific evidence. Transgression of the planetary boundaries could lead to destabilization of the Earth System. In order to prepare the planetary boundary framework for teaching, this paper addresses the question how scientists and learners understand the stability and instability of global Earth System processes. The comparison of the conceptions shows that on the basis both students and scientists conceptualize humanity as cause of Earth System instability. Main differences in the conceptions between students and scientists are shown regarding their understanding of Earth System stability as well as the consequences of Earth System instability. Furthermore, the analysis reveals that scientists take a strong anthropocentric view towards global environmental changes in comparison to the rather ecological view of the students.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1739</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1739">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1739/3274" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1739" DMDID="DMD_biejournals_1739">
+            <mets:fptr FILEID="FILE0_biejournals_1739"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

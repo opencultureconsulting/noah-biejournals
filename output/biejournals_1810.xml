@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1810">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Health and health status of children in Serbia and the desired Millennium Development Goals</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jovic-Vranes, Aleksandra</displayForm>
+                        <namePart type="family">Jovic-Vranes</namePart>
+                        <namePart type="given">Aleksandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-30</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Children represent the future, and ensuring their healthy growth and development should be a prime concern of all societies. Better health for all childrenis one of the leading objectives of the National Plan of Action for Children and a keyelement of the tailored Millennium Development Goals for Serbia.Methods: Our analysis was based on relevant literature and available information from the primary and secondary sources and databases. We analyzed health status of children that can be illustrated by indicators of child and infant mortality, morbidity,and nutritional status.Results: There has been a significant reduction in the mortality rates at the nationallevel, particularly with regard to infants and children under five years of age. However, the current mortality rate of Roma children is still three times as high as the Millennium Goal set at the national level for Serbia. Most deaths of children under theage of five are due to preterm birth complications, congenital anomalies, birthasphyxia and trauma, pneumonia and sepsis. The rate of malnourished childrenamong the poor and in Roma settlements is twice as high as in the general population of Serbian children. A growing number of obese children was also noted in the Roma population.Conclusion: Political awareness, commitment and leadership are required to ensurethat child health receives receive the attention and the resources needed to accelerate the progress of Serbia.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1810</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1810">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1810/1731" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1810" DMDID="DMD_biejournals_1810">
+            <mets:fptr FILEID="FILE0_biejournals_1810"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

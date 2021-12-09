@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1859">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Approaches to the international standards application in healthcare and public health in different countries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sarancha, Vitaliy</displayForm>
+                        <namePart type="family">Sarancha</namePart>
+                        <namePart type="given">Vitaliy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sulyma, Vadym</displayForm>
+                        <namePart type="family">Sulyma</namePart>
+                        <namePart type="given">Vadym</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pros, Nenad</displayForm>
+                        <namePart type="family">Pros</namePart>
+                        <namePart type="given">Nenad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vitale, Ksenija</displayForm>
+                        <namePart type="family">Vitale</namePart>
+                        <namePart type="given">Ksenija</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-06-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">As a result of consequent development, and guided by an increasing demand of different types of the organizations regarding structured management, the system of standardization has been established. The idea behind standardization is adjusting the characteristics of a product, process or a production cycle to make them consistent and in line with the rules regarding what is proper and acceptable.The “standard” is a document that specifies such established set of criteria covering a broad range of topics and applicable to commissioners of health, specialists in primary care, public health staff, and social care providers, as well as the local authorities and service users. Health products, ranging from medical devices and health informatics to traditional medicines and unconventional healing tools are all in the focus of standards’ application.Different countries have their own quality management traditions based on their history, mentality, socio-economic environment and the local regulations. Taking into consideration that community social system organization and the quality of social infrastructure are the main foundations of social relations and future prosperity, here we review the existing standardization environment in the health sector in different countries, both developed and those on a convergence path. We focused on standardization environment in the United States of America, Great Britain, Germany, Ukraine, Russian Federation, Croatia and Albania. In order to simplify comprehension, we also demonstrate the algorithm of standardization, as well as the opportunities for application of the international standards in healthcare and public health.  </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1859</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1859">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1859/1780" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1859" DMDID="DMD_biejournals_1859">
+            <mets:fptr FILEID="FILE0_biejournals_1859"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

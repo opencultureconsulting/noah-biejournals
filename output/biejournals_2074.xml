@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2074">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hilfen zur Erziehung</title>
+                        <subTitle>ein Feld in Bewegung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hemker, Bernd</displayForm>
+                        <namePart type="family">Hemker</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Arbeitsfeld der Hilfen zur Erziehung haben sich seit 1990 rasante Entwicklungen vollzogen. Die wesentlichen sollen in den folgenden Punkten entfaltet werden. Zunächst werden die Adressaten, die Jugendämter sowie die Träger der freien Jugendhilfe als unmittelbare Akteure des Feldes in Verbindung mit den wesentlichen rechtlichen Grundlagen beschrieben. Ein knapper Blick auf die statistischen Daten belegt die besondere Rolle der Hilfen zur Erziehung innerhalb der Kinder- und Jugendhilfe.Nachfolgend werden die fachlichen Entwicklungslinien und ihre kritischen Impulse skizziert: Lebensweltorientierte Jugendhilfe, Individualisierung in der Heimerziehung, Ambulante Hilfen und Flexibilisierung, Sozialraumorientierung, Qualitätsentwicklung im Kontext des Leistungs- und Entgeltrechtes sowie Partizipation und Kinderrechte bilden die Schlagworte der fachlichen Diskussion.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2074</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2074">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2074/1941" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2074" DMDID="DMD_biejournals_2074">
+            <mets:fptr FILEID="FILE0_biejournals_2074"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

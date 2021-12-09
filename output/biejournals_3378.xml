@@ -1,0 +1,48 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3378">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reproduction, deconstruction, imagination</title>
+                        <subTitle>On three possible modi operandi of economic education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bäuerle, Lukas</displayForm>
+                        <namePart type="family">Bäuerle</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Purpose: Gegenwärtige ökonomische Bildung ist hochgradig reformbedürftig – sowohl was ihre Inhalte, als auch was ihre Formen anbelangt. Dieser Beitrag möchte zu dieser Reform mit einer Skizzierung grundlegender Ausrichtungen ökonomischer Bildung beitragen, die kontextabhängig kombiniert werden können.
+Design/methodology/approach:&amp;nbsp; In diesem Artikel werden werden ökonomische Theorien und Modelle als interpretative Deutungsrahmen verstanden und drei Wege voneinander unterschieden, wie mit diesen Deutungsrahmen im Kontext ökonomischer Bildung umgegangen werden kann. Alle Wege werden aus der existenzialistischen Bildungsphilosophie komparativ rekonstruiert und für den hier interessierenden Bereich ökonomischer Bildung fruchtbar gemacht.
+Findings: Während ein Reproduzieren ökonomischer Deutungsrahmen als repetitives und zur großen Teilen unbewusstes Lerngeschehen anzusehen ist, arbeitet sich ein Dekonstruieren an bestehenden Deutungsrahmen in kritischer und relativierender Form ab. Ein Imaginieren versucht im Bildungskontext neue Deutungsrahmen zu entwickeln, die eine reflexive und performative Bewältigung der erfahrbaren Lebenswelt ermöglichen. Ein möglicher Zusammenhang der drei Modi wird abschließend diskutiert.</abstract>
+                    <abstract lang="eng">Purpose: Current economic education is in urgent need of reform – both in terms of content and in terms of didactics. This paper aims at contributing to this reform by outlining possible directions economic education might take or combine in a purposeful way.
+Design/methodology/approach: &amp;nbsp;This article considers economic thinking as interpretative institutions and identifies three possible types of handling these institutions in the context of economic education. All of the types are developed in a comparative analysis from existentialist educational philosophy and subsequently brought into dialogue with recent discourses and practices of economic education.
+Findings: Whereas reproducing relies on a largely unconscious passing on of economic interpretation schemes, deconstructing them fosters their pejorative penetration. Imagining aims at the development of new interpretation schemes that allow for economic thinking and action in resonance with a tangible life-world. A possible interrelation of the three modi operandi is being outlined in the conclusion.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3378</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3378">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3378/3905" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3378" DMDID="DMD_biejournals_3378">
+            <mets:fptr FILEID="FILE0_biejournals_3378"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

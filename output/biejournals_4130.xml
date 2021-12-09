@@ -1,0 +1,110 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4130">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexionsimpulse im Schnittfeld von Professionalisierung und Schulentwicklung</title>
+                        <subTitle>Konzeptuelle Überlegungen zur sequenzanalytischen praxisreflexiven Kasuistik im Rahmen einer schulinternen Fortbildung zu Leistung und Inklusion</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lau, Ramona</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Ramona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arndt, Ann-Kathrin</displayForm>
+                        <namePart type="family">Arndt</namePart>
+                        <namePart type="given">Ann-Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Becker, Jonas</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Löser, Jessica M.</displayForm>
+                        <namePart type="family">Löser</namePart>
+                        <namePart type="given">Jessica M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lübeck, Anika</displayForm>
+                        <namePart type="family">Lübeck</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Urban, Michael</displayForm>
+                        <namePart type="family">Urban</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Werning, Rolf</displayForm>
+                        <namePart type="family">Werning</namePart>
+                        <namePart type="given">Rolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit der Entwicklung inklusiver Bildung werden Fragen der Professionalisierung u.a. in Fortbildungen virulent. Zudem gilt Inklusion als Anlass zur Schulentwicklung. Wir betrachten in diesem Beitrag Fragen der Professionalisierung und Schulentwicklung als interdependent. Vor dem Hintergrund von Erkenntnissen zu wirksamen Fortbildungen legt dieser Beitrag den Schwerpunkt auf den Bereich der Reflexion. Entgegen der Tendenz, Reflexionsaufforderungen individualisierend zu wenden, fokussieren wir – im Schnittfeld von Professionalisierung und Schulentwicklung – das Format einer längerfristigen schulinternen Lehrkräftefortbildung (SchiLf) zum reflexiven Umgang mit Leistung in inklusiven Schulen. Im Zentrum des Beitrages stehen konzeptionelle Überlegungen zu den Potenzialen einer sequenzanalytischen praxisreflexiven Kasuistik im Rahmen einer längerfristigen SchiLf. Wir beleuchten die, mit diesem speziellen methodischen Zugriff verbundenen, Reflexionsimpulse in Relation zu den Gedanken der Schulentwicklung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4130</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4130">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4130/4071" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4130">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4130/4072" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4130" DMDID="DMD_biejournals_4130">
+            <mets:fptr FILEID="FILE0_biejournals_4130"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4130" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4130"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

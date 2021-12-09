@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2797">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Motive Structures and Violence among Young Globalization Critics</title>
+                        <subTitle>A Statistical Typology of the Motives for Protest at the 2007 G8 Summit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Möller, Renate</displayForm>
+                        <namePart type="family">Möller</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sander, Uwe</displayForm>
+                        <namePart type="family">Sander</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schäfer, Arne</displayForm>
+                        <namePart type="family">Schäfer</namePart>
+                        <namePart type="given">Arne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Villányi, Dirk</displayForm>
+                        <namePart type="family">Villányi</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Witte, Matthias D.</displayForm>
+                        <namePart type="family">Witte</namePart>
+                        <namePart type="given">Matthias D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The results of a questionnaire survey of 3,578 young protesters aged 15 to 24 were used to create a typology of the motive structures of the young globalization critics who participated in protests against the G8 summit in Heiligendamm in June 2007. Eight groups with different motive structures identified using cluster analysis reveal the spectrum of motives of the young demonstrators, ranging from social and political idealism to hedonistic fun-seeking and nationalist motives. Despite the diversity of motives, two cross-cluster motives can be identified: the results clearly show that the majority of respondents were motivated by political idealism and rejected violence. Two overlapping minorities were found: one where political idealism was largely lacking, and another where violence was a prominent motive.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2797</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2797">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2797/2558" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2797" DMDID="DMD_biejournals_2797">
+            <mets:fptr FILEID="FILE0_biejournals_2797"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

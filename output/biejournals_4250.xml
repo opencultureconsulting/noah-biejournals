@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4250">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Quorum Quenching</title>
+                        <subTitle>Sprachstörungen in der Welt der Mikroben</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Quorum Quenching</title>
+                        <subTitle>Speech disorders in the world of microbes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vollstedt, Christel</displayForm>
+                        <namePart type="family">Vollstedt</namePart>
+                        <namePart type="given">Christel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streit, Wolfgang</displayForm>
+                        <namePart type="family">Streit</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bakterien sind in der Lage, ihre Artgenossen in der Umgebung über unterschiedliche Signalmoleküle wahrzunehmen und über bestimmte Signalwege auf steigendes Zellwachstum gemeinschaftlich zu reagieren. Bezeichnet wird dieser Vorgang als Quorum Sensing und stellt ein Art bakterielle Sprache dar. Bei pathogenen Organismen führt diese Kommunikation meist zu Prozessen, die für den Wirt, wie z. B. uns Menschen, nicht wünschenswert sind. Zu diesen Prozessen gehört beispielsweise die Biofilmbildung auf Implantaten oder Kathetern, und das Anschalten von Virulenzfaktoren, die zu Lungenentzündungen und vielen weiteren Infektionskrankheiten führen. Bisher versucht man dieser Infektionen durch die Behandlung mit Antibiotika Herr zu werden. Dies führt allerdings nicht selten zur Entstehung von Antibiotikaresistenzen bei den Bakterien. In der Natur gilt jedoch: Wo es Signale gibt, gibt es auch Wege diese zu zerstören. Dieser Vorgang wird als Quorum Quenching (QQ) bezeichnet und stellt einen geeigneten Ansatz dar, um das pathogene Verhalten von Organismen ohne den Einsatz von Antibiotika zu vermindern oder gar zu verhindern.</abstract>
+                    <abstract lang="eng">Bacteria are able to sense their conspecifics in the environment via different signalling molecules and to react collectively to increasing cell growth via certain signalling pathways. This process is called Quorum Sensing and is a kind of bacterial language. In pathogenic organisms, this usually leads to processes that are not desirable for the host, such as us humans. These processes include, for example, biofilm formation on implants or catheters as well as induction of virulence factors that enable the development of pneumonia and many other infectious diseases. Until now, treatment with antibiotics has been used to try to control these infections, but this often leads to antibiotic resistance in the bacteria. In nature, however, where there are signals, there are also ways to destroy them. This process is called Quorum Quenching (QQ) and is a suitable approach to reduce or even prevent the pathogenic behaviour of organisms without the use of antibiotics.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4250</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4250">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4250/4242" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4250" DMDID="DMD_biejournals_4250">
+            <mets:fptr FILEID="FILE0_biejournals_4250"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

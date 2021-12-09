@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2787">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reconstructing the Narrative of Rape in the Kibbutz by the Israeli Press</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Shoham, Efrat</displayForm>
+                        <namePart type="family">Shoham</namePart>
+                        <namePart type="given">Efrat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The author proposes that national press coverage of sex crimes in Israeli kibbutzim is intended to restructure the public’s perception by showing that such crimes are a symptom of broader social problems. Articles about a rape incident in Kibbutz Shomrat published during 1991–1995 in the local kibbutz press are compared with a sample of articles dealing with the same subject in two of the largest daily Israeli newspapers during the same period. Coverage by both sources of a later story of rape in another kibbutz from 2005 is also examined. The author demonstrates that the national press used the rape incident to invalidate the presumed moral superiority of the kibbutz movement and presented the crime as a symptom of the broad ideological and social crisis faced by the kibbutz movement. The local kibbutz press used a “defensive attribution” mechanism to construct their narrative, allowing kibbutz members to distance themselves, and the values their community professes, from the rape case.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2787</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2787">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2787/2548" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2787" DMDID="DMD_biejournals_2787">
+            <mets:fptr FILEID="FILE0_biejournals_2787"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

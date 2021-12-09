@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_926">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Moving Inter Disciplines. What kind of cooperation are interdisciplinary historians and sociologists aiming for?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nathaus, Klaus</displayForm>
+                        <namePart type="family">Nathaus</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vollmer, Hendrik</displayForm>
+                        <namePart type="family">Vollmer</namePart>
+                        <namePart type="given">Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Drawing on Bourdieu’s concept of the field, this article distinguishes ›oppositional‹ and ›auto­nomous‹ interdisciplinarity as two modes of research between historiography and sociology. Whereas oppositional interdisciplinarity is a movement of challengers introducing new theories, methods and issues to their respective disciplines and may ultimately transform it, autonomous interdisciplinarity means a sustained positioning at the border between disciplines, requiring intensive committment with a neigboring discipline. The article sketches the two scenarios with reference to past examples and assesses their conditions and future prospects. This exercise in mapping the field is meant as an invitation to a debate on what kind of interdisciplinarity historians and sociologists want to establish.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_926</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_926">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/926/1034" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_926" DMDID="DMD_biejournals_926">
+            <mets:fptr FILEID="FILE0_biejournals_926"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

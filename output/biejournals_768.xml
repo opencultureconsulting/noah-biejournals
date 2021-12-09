@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_768">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Economics from a Different Point of View − Good Practice in Teacher Training</title>
+                        <subTitle>How to Handle, Use and Judge External Standardized Tests in Schools</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Prieß-Buchheit, Julia Claire</displayForm>
+                        <namePart type="family">Prieß-Buchheit</namePart>
+                        <namePart type="given">Julia Claire</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The Economic Actions in Education training module (EAE) teaches how to handle, use and judge external standardized tests in schools. The EAE programme was implemented in teacher training at the University of Kiel, because teachers are increasingly under external scrutiny and are being held accountable for student and school achievements. The EAE programme includes a reader (in English), through which prospective teachers understand and analyze core terms of the field. Furthermore, different didactical methods such as think-pair-share, role play and short lectures provide a group dynamic in which students gain an insight into standardized tests at a macro level. Students learn what is involved in standardized tests and they develop the ability to make a critical judgement about how they will use or refuse standardized tests in schools. EAE enables teachers to use standardized tests for curriculum and instruction improvement as well as refuse standardized tests to highlight autonomous teaching and decline governance from outside.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_768</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_768">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/768/837" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_768" DMDID="DMD_biejournals_768">
+            <mets:fptr FILEID="FILE0_biejournals_768"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

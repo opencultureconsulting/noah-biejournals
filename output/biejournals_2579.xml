@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2579">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Physikalische Dynamik der Küste für außerschulische Lernorte didaktisch rekonstruieren</title>
+                        <subTitle>Einsatz der Didaktischen Rekonstruktion zur Weiterentwicklung außerschulischer Lernorte</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Educational Reconstruction of Coastal Dynamics for Extracurricular Learning Venues</title>
+                        <subTitle>Using the Model of Educational Reconstruction to improve Extracurricular Learning</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bliesmer, Kai</displayForm>
+                        <namePart type="family">Bliesmer</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Komorek, Michael</displayForm>
+                        <namePart type="family">Komorek</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Den vielen außerschulischen Lernorten an der norddeut-schen Wattenmeerküste mangelt es in ihren Bildungsangeboten an Erklärungen und Modellen, die sich eignen, um auch die dortige physikalische Dynamik in Form von Strömungs- und Strukturbildungsphänomenen zu erklären. Die Lernort-leitenden berichten, dass Besuchende Fragen zu entsprechenden Phänomenen stellen, die weder von ihnen noch den Bildungsangeboten beantwortet werden können. Die vorliegende Studie widmet sich diesem Defizit. Sie ist in einem übergeordneten Projekt angesiedelt, das von der Deutschen Bundesstiftung Umwelt gefördert wird. Das übergeordnete DBU-Projekt zielt darauf ab, Exponate für außerschulische Lernorte zu entwickeln, die auch die physikalische Sicht auf die Dynamik an der Küste repräsentieren. Die vorliegende Studie leistet zu diesem übergeordneten Projekt insofern einen Beitrag, als eine Didaktische Rekonstruktion der physikalischen Dynamik an der Küste durchgeführt wurde, die darauf abzielte, Leitlinien für eine didaktische Strukturierung zu entwickeln. Um dieses Ziel zu erreichen, wurde im Rahmen der Didaktischen Rekonstruktion zunächst fachliche Klärung betrieben, indem die zentralen physikalischen Grundideen des Themenfelds herausgearbeitet wurden. Im zweiten Schritt wurden Lernendenperspektiven auf Strömungen und Strukturbildungen mit einer Interviewstudie erfasst. Dabei wurde zum einen beforscht, welche Merkmale Lernende mit den beiden Termini „Strömung“ und „Strukturbildung“ assoziieren. Zum anderen wurde untersucht, wie Lernende die Entstehung von Strömungen und Strukturbildungen erklären. Im dritten Schritt wurden die physikalischen Grundideen mit den untersuchten Lernendenperspektiven verglichen. Auf Basis dieses Vergleichs wurden Leitlinien für eine didaktische Strukturierung zur physikalischen Dynamik an der Küste erarbeitet. Diese Leitlinien dienen im übergeordneten DBU-Projekt der Unterstützung der Zusammenarbeit zwischen Physikdidaktik, Lernortleitenden und Ausstellungsagenturen zur Entwicklung neuer Ausstellungsexponate.</abstract>
+                    <abstract lang="eng">Many extracurricular learning venues located near the German Wadden Sea are lacking explanations and models that are suitable for explaining the physical dynamics of the coast. The operators report that visitors ask questions about currents and structure formation phenomena that neither they nor their educational offerings can answer. The present study addresses this deficit. The study is part of an overarching project that is funded by the German Federal Environmental Foundation (DBU). The overarching DBU project aims to develop exhibits for extracurricular learning venues that also represent the physical view on the dynamics of the coast. The present study contributes to this overarching project insofar as an educational reconstruction of the physical dynamics of the coast was carried out, which aimed to formulate educational guidelines. In the first step of the Model of Educational Reconstruction, the concept of elementarization was used to analyze the subject matter structure of coastal dynamics by elucidating the basic scientific ideas in the subject area. These include processes of equalization and self-organization that explain currents and structure formations in granular matter. In the second step, the learners’ conceptions of currents and structure formations on the coast were examined with an interview study. On the one hand, it was investigated what the terms “current” and “structure formation” mean from the learners’ viewpoint. On the other hand, it was examined which physical concepts are used by the learners to explain both phenomena. In the third and final step, the basic physical principles were being compared with the learners’ perspectives. Based on this comparison, educational guidelines were formulated. In the overarching DBU project, these guidelines serve to support cooperation between science education researchers, operators of the extracurricular learning venues, and the exhibition design agencies to develop new exhibits.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2579</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2579">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2579/4143" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2579" DMDID="DMD_biejournals_2579">
+            <mets:fptr FILEID="FILE0_biejournals_2579"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

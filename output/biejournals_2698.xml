@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2698">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>erste Sitzung</title>
+                        <subTitle>Wie entwerfen Hochschullehrende ihr Fachgebiet für Studienanfänger*innen im Lehramtsstudium?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klomfaß, Sabine</displayForm>
+                        <namePart type="family">Klomfaß</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Steffen</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brüggemann, Johanna</displayForm>
+                        <namePart type="family">Brüggemann</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nesseler, Katharina</displayForm>
+                        <namePart type="family">Nesseler</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gefragt wird, wie von Hochschullehrenden unterschiedlicher Studiengebiete, die in die Lehrerbildung involviert sind, Zusammenhänge zwischen dem Fachlichen und den Studienstrukturen hergestellt werden. Anknüpfend an die akademischen Fachkulturforschungen von Tony Becher und Ludwig Huber werden diese Zusammenhänge als fachkulturelle Muster verstanden. Empirische Grundlage dieses Beitrags sind erste Sitzungen von Vorlesungen für Erstsemesterstudierende. Rekonstruiert werden drei Entwürfe von Hochschullehrenden, ihr jeweiliges Fachgebiet und die Studienstrukturen in ihrer Lehre in ihrem Verhältnis zueinander zu bestimmen. Aufgezeigt wird auch, wie dabei Professionsbezüge für die Zielgruppe der Lehramtsstudierenden hergestellt werden. Bilanziert wird, dass die fachkulturellen Muster im Vergleich zwar sehr unterschiedlich, aber inhärent sowie bezogen auf den Lehrerberuf im Wesentlichen als stimmig entworfen werden. Das Wissen über unterschiedliche fachkulturelle Muster ist für die Weiterentwicklung der Lehrerbildung relevant, wenn es um die Frage geht, wie mehr Kohärenz zwischen Fächern, Fachdidaktiken und Bildungswissenschaften erzeugt werden könnte. Dabei geht es darum, fachkulturelle Differenzen anzuerkennen, aber auch mögliche Barrieren zu reflektieren, die auf den eigenen fachkulturellen Wurzeln fußen.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2698</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2698">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2698/3523" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2698" DMDID="DMD_biejournals_2698">
+            <mets:fptr FILEID="FILE0_biejournals_2698"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

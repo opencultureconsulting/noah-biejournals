@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1644">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung von Lehr- und Lernmaterialien zur Vermittlung prähistorischer Lebensbilder am Beispiel der Wildtiere zur Zeit des Neolithikums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dieckmann, Ursula</displayForm>
+                        <namePart type="family">Dieckmann</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frey, Andreas</displayForm>
+                        <namePart type="family">Frey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Rahmen eines Kooperationsprojektes des Federseemuseums Bad Buchau mit den Pädagogischen Hochschulen Weingarten und Kreuzlingen (CH) ist diese Untersuchung als Teilprojekt des Lernangebotes „Der Steinzeit auf der Spur“ entwickelt worden. Ziel dieses Projektes ist, den Besuchern von außerschulischen Lernorten regionales Wissen nahe zu bringen und durch fächerübergreifende Lernangebote zu ergänzen. Das regionale Lernen wird durch die Entwicklung von Methoden und Materialien unterstützt. Es wird angestrebt, den Erfolg dieser Lernangebote durch weitere wissenschaftliche Arbeiten zu untersuchen und bewerten zu lassen, um eine Optimierung der Materialien zu gewährleisten. Innerhalb dieses Projektes möchte das Federseemuseum ein Programm für Schulklassen und Jugendgruppen anbieten, das sich mit den Forschungsmethoden der Archäologen beschäftigt. Durch die selbstständige Arbeit als Forscher sollen die Schüler einen Einblick in wissenschaftliches Arbeiten erhalten und dieses Wissen durch handlungsorientierte Aufgaben verinnerlichen. Das forschende Lernen steht also im Mittelpunkt eines weitreichenden Angebotes, welches sich hauptsächlich mit der Flora und Fauna des Neolithikums (Jungsteinzeit) beschäftigt. Die Themengebiete beinhalten Wild- und Nutzpflanzen, sowie Wild und Haustiere. Die Forschungsmethoden der Dendrochronologie und Typologie stellen weitere zu untersuchende Bereiche dar. Neben der Vermittlung von wissenschaftlichen Arbeitsweisen sollen die Schüler aber vor allem einen Einblick in prähistorische Lebensbilder erhalten. Durch die Beschäftigung mit diesem Thema sollen sich die Schüler einen intensiveren und individuellen Zugang zum Leben der Menschen der Jungsteinzeit erschließen. Ein Teilaspekt des Lernangebotes „Der Steinzeit auf der Spur“ wird in dieser Publikation vorgestellt. Am Beispiel der Wildtiere des Neolithikums wird eine Möglichkeit aufgezeigt, das forschende Lernen der Schüler anzuregen und durch die Wahl bestimmter Methoden umzusetzen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1644</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1644">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1644/1590" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1644" DMDID="DMD_biejournals_1644">
+            <mets:fptr FILEID="FILE0_biejournals_1644"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

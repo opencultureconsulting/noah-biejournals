@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_381">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Trinity of Transformation, Europeanisation, and Democratisation? Current Research on Citizenship Education in Europe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hedtke, Reinhold</displayForm>
+                        <namePart type="family">Hedtke</namePart>
+                        <namePart type="given">Reinhold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zimenkova, Tatjana</displayForm>
+                        <namePart type="family">Zimenkova</namePart>
+                        <namePart type="given">Tatjana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hippe, Thorsten</displayForm>
+                        <namePart type="family">Hippe</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Although a lot of stock-taking research on citizenship education in European countries has already be done, some key features of citizenship education especially in transformation countries are not understood as yet. The authors briefly outline the state of the art and criticize its main shortcomings. As a result, they suggest a research agenda to enhance the knowledge about citizenship education with respect to its interconnectedness with processes of transformation and to its embeddedness into different political cultures, institutions and democracies. They propose to realise multilevel and multiactor case studies which perceive citizenship education as an organisational issue, too. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_381</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_381">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/381/378" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_381" DMDID="DMD_biejournals_381">
+            <mets:fptr FILEID="FILE0_biejournals_381"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

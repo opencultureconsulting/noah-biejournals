@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_396">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Educating in European Identity?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Banús, Enrique</displayForm>
+                        <namePart type="family">Banús</namePart>
+                        <namePart type="given">Enrique</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In den letzten Jahrzehnten ist so manches Mal die Bedeutung einer „europäischen Identität” unterstrichen worden, manches Mal, um die Distanz der Bürger zum europäischen Projekt zu übrebrücken; andere Mal, um die Vertiefung dieses Projektes überhaupt zu ermöglichen. Der Autor unterzieht diesen Begriff einer kritischen Überprüfung, im Rahmen der Problematik der kollektiven Identitäten überhaupt, und unterscheidet zwischen Identität und Identifizierung, deren Bedeutung unterstrichen wird. Gefragt wird wie diese zu vermitteln sei und welche Rolle dabei die Erziehung spiele. Schliesslich wird auch Bezug auf die Allgemeinbildung genommen und speziell auf die Kenntnis des sogenannten „europäischen Erbes.”In the last decades, the claim for a &quot;European identity&quot; has been manifested sometimes as a solution for the citizens&apos; distance to the European project, sometimes also as a precondition for a further development of the project itself. The paper submits these manifestations to a critical evaluation, bringing to the fore some prob-lems connected with the concept of collective identity. It distinguishes between identity and identification, underlines the relevance of the last one and asks how to implement this identification and in which way the education can contribute to this effort. The knowledge of the cultural heritage is underlined.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_396</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_396">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/396/393" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_396" DMDID="DMD_biejournals_396">
+            <mets:fptr FILEID="FILE0_biejournals_396"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

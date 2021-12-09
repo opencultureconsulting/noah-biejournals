@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_242">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf dem Weg zu einer anbieterbezogenen Statistik für die wissenschaftliche Weiterbildung an Hochschulen</title>
+                        <subTitle>Ergebnisse einer empirischen Vorstudie für ein Monitoring wissenschaftlicher Weiterbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dollhausen, Karin</displayForm>
+                        <namePart type="family">Dollhausen</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolter, Andrä</displayForm>
+                        <namePart type="family">Wolter</namePart>
+                        <namePart type="given">Andrä</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Huntemann, Hella</displayForm>
+                        <namePart type="family">Huntemann</namePart>
+                        <namePart type="given">Hella</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Otto, Alexander</displayForm>
+                        <namePart type="family">Otto</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Infolge des Bedeutungszuwachses der wissenschaftlichen Weiterbildung im Kontext des Lebenslangen Lernens sowie neuen Anforderungen an eine (markt-)strategische Hochschulentwicklung wächst der Bedarf an steuerungsrelevantem evidenzbasiertem Wissen. Die hierzu erforderlichen bereichsspezifischen statistischen Datengrundlagen sind bislang jedoch lediglich in Ausschnitten verfügbar. Angeregt durch die DGWF wurde daher kooperativ vom Deutschen Institut für Erwachsenenbildung – Leibniz Zentrum für Lebenslanges Lernen (DIE) in Bonn und der Abteilung Hochschulforschung der Humboldt Universität zu Berlin (HU) eine empirische Vorstudie zur Entwicklung einer anbieterbezogenen Statistik für die wissenschaftliche Weiterbildung durchgeführt, die in ein umfangreicheres Entwicklungsprojekt einmünden soll. Mit dieser Statistik soll sowohl die Angebotsseite an den Hochschulen als auch die Nachfrageseite – die Teilnehmer_innen – erfasst werden. Ausgewählte Ergebnisse der Studie werden im vorliegenden Beitrag vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_242</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_242">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/242/256" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_242" DMDID="DMD_biejournals_242">
+            <mets:fptr FILEID="FILE0_biejournals_242"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

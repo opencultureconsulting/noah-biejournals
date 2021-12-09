@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4654">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Mär vom Fehlerquotienten</title>
+                        <subTitle>Die Geschichte einer Suche - verbunden mit der Forderung, das Können der Schüler*innen an die Stelle des Fehlerzählens zu setzen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Doepner, Thomas</displayForm>
+                        <namePart type="family">Doepner</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4654</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4654">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/lgnrw/article/download/4654/4485" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4654" DMDID="DMD_biejournals_4654">
+            <mets:fptr FILEID="FILE0_biejournals_4654"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

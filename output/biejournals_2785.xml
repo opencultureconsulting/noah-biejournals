@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2785">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pastoralists at War</title>
+                        <subTitle>Violence and Security in the Kenya-Sudan-Uganda Border Region</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leff, Jonah</displayForm>
+                        <namePart type="family">Leff</namePart>
+                        <namePart type="given">Jonah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The majority of those living in the border region of Kenya, Sudan, and Uganda are pastoralists, whose livelihoods are dictated by the upkeep and size of their herds. Harsh environmental conditions force pastoralists to migrate in search of water and pasturelands during the dry season. With limited access to water and competing rights to land, intertribal conflict arises when pastoralists from one tribe enter the territory of another. The increased availability of small arms in the region from past wars increasingly makes ordinary clashes fatal. Governments in the region have responded with heavy-handed coercive disarmament operations. These have led to distrust and subsequent violent clashes between communities and security providers. This report reviews the scale, consequences of, and responses to the many pastoral conflicts, utilizing methodological tools such as key informant interviews, retrospective analysis, and a thorough review of available literature.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2785</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2785">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2785/2546" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2785" DMDID="DMD_biejournals_2785">
+            <mets:fptr FILEID="FILE0_biejournals_2785"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

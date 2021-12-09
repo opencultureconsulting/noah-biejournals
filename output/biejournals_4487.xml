@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4487">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Hepatitis C in several risk groups</title>
+                        <subTitle>Literature review</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rashiti-Bytyçi, Albiona</displayForm>
+                        <namePart type="family">Rashiti-Bytyçi</namePart>
+                        <namePart type="given">Albiona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ramadani, Naser</displayForm>
+                        <namePart type="family">Ramadani</namePart>
+                        <namePart type="given">Naser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kalaveshi, Ariana</displayForm>
+                        <namePart type="family">Kalaveshi</namePart>
+                        <namePart type="given">Ariana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Muçaj, Sefedin</displayForm>
+                        <namePart type="family">Muçaj</namePart>
+                        <namePart type="given">Sefedin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gashi, Luljeta</displayForm>
+                        <namePart type="family">Gashi</namePart>
+                        <namePart type="given">Luljeta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rashiti, Premtim</displayForm>
+                        <namePart type="family">Rashiti</namePart>
+                        <namePart type="given">Premtim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The objective of this study was to assess the distribution of hepatitis C in selected risk groups such as haemodialysis patients, pregnant women, healthcare workers, HIV-HCV co-infected patients, patients with mental health diseases and piercing and tattoo procedures. Furthermore, it aimed at evidencing common transmitting routes and highlighting the importance of preventive measures among these groups.
+&amp;nbsp;
+Methods: The literature review was conducted using online databases (Medline) with search query involving the keyword “hepatitis C” in conjunction with keywords describing risk groups such as &quot;dialysis&quot;, or &quot;haemodialysis&quot;, or &quot;pregnancy&quot;, or &quot;pregnant&quot;, or &quot;mental health&quot;, or &quot;tattoo&quot;, or &quot;piercing&quot;, or &quot;HIV&quot;, or &quot;health professionals”.
+&amp;nbsp;
+Results: After assessing all the retrieved publications, 39 of them were considered for inclusion: 17 on haemodialysis patients, 7 on pregnant women, 8 on HIV-HCV co-infection and 7 publications on health professionals, patients of mental health wards and piercing and tattoo procedures. The high rate of hepatitis C is still a high problem and in some cases it is considered as a new issue, as in the case of pregnancy. Some of the transmission routes have been identified earlier, such as the HIV-HCV co-infection but some, such as piercing and tattoo, are becoming new transmission routes. Health professionals are still identified as high risk group while mental health patients are a potentially high risk group.
+&amp;nbsp;
+Conclusion: Even though some patients are routinely screened for hepatitis C, there are indications for performing such a routine test in other groups. In almost all of the risk groups, it is advocated to use stricter preventive measures and to disseminate knowledge on risks of hepatitis C.
+&amp;nbsp;
+Conflict of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4487</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4487">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4487/4283" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4487" DMDID="DMD_biejournals_4487">
+            <mets:fptr FILEID="FILE0_biejournals_4487"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

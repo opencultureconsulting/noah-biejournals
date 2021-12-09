@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3440">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Youth activism, engagement and the development of new civic learning spaces</title>
+                        <subTitle>Issues about impact</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Davies , Ian</displayForm>
+                        <namePart type="family">Davies </namePart>
+                        <namePart type="given">Ian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Evans, Mark</displayForm>
+                        <namePart type="family">Evans</namePart>
+                        <namePart type="given">Mark</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fülöp, Márta</displayForm>
+                        <namePart type="family">Fülöp</namePart>
+                        <namePart type="given">Márta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kiwan, Dina</displayForm>
+                        <namePart type="family">Kiwan</namePart>
+                        <namePart type="given">Dina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Peterson, Andrew</displayForm>
+                        <namePart type="family">Peterson</namePart>
+                        <namePart type="given">Andrew</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sim, Jasmine</displayForm>
+                        <namePart type="family">Sim</namePart>
+                        <namePart type="given">Jasmine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: We develop a positive but critical appreciation of the nature and meaning of impact as current constituted as UK universities prepare for the government-led evaluation of research quality in REF2021.
+Methodology: We describe and then discuss impact (generally, and then specifically in relation to one recently completed project). That project was funded by the Leverhulme Trust and titled Youth activism, engagement and the development of new civic learning spaces (see:https://www.york.ac.uk/education/research/cresj/researchthemes/citizenship-education/leverhulmeyouthactivism/) 
+Findings: Currently, there is potential for corporate arguments about impact to have a negative effect on UK universities. It would be preferable to consider impact in relation to general arguments about strengthening societal culture by generating greater respect for knowledge and clarifying its relationship with society; and by knowledge based arguments in that a specific evaluation of impact would allow us to know more about the nature of the research-practice interface.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3440</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3440">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3440/3673" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3440" DMDID="DMD_biejournals_3440">
+            <mets:fptr FILEID="FILE0_biejournals_3440"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

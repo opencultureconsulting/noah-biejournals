@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2014">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>BRÜCKEN ZUM MARKT</title>
+                        <subTitle>Gesellschaftlicher Wandel - welche Auswirkungen ergeben sich für die Supervision? Von Supervisor Innen beobachtete Veränderungstendenzen in der Supervision</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schlotterheck, Marcella</displayForm>
+                        <namePart type="family">Schlotterheck</namePart>
+                        <namePart type="given">Marcella</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von den aktuellen gesellschaftlichen Veränderungen werden Auswirkungen auf die Supervision empirisch untersucht. Dazu wurde im Frühjahr 2007 im Rahmen einer Kolloquiumsarbeit beim fis1 eine schriftliche Befragung von zertifizierten Supervisorinnen durchgeführt. Der Fragebogen enthielt neben statistischen Nachfragen zu Geschlecht, Dauer der Supervisionstätigkeit, Ausbildungshintergrund und den Arbeitsfeldern mehrere offene Fragen nach beobachteten Veränderungen bezogen auf die Supervisionsanliegen, die Nachfrage nach den unterschiedlichen Supervisionssettings, Vorstellungen der Supervisanden bzgl. Sitzungs- und Prozessdauer, die Honorarverhandlungen, die Reflexionsfähigkeit und -bereitschaft der Supervisanden und die Frage nach den größten Herausforderungen unserer Zeit für Supervisoren. Die Ergebnisse werden im folgenden Beitrag zusammengefasst.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2014</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2014">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2014/1881" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2014" DMDID="DMD_biejournals_2014">
+            <mets:fptr FILEID="FILE0_biejournals_2014"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

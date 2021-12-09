@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_209">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstsorgendes Lernen in Hochschule und wissenschaftlicher Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klingovsky, Ulla</displayForm>
+                        <namePart type="family">Klingovsky</namePart>
+                        <namePart type="given">Ulla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird vor dem Hintergrund einer zunehmenden Trivialisierung des Sprechens über das Lernen eine Auseinandersetzung über die theoretische Fundierung des Lernens in der wissenschaftlichen Weiterbildung angeregt. Über historische und bildungstheoretische Verweise wird ein Zusammenhang zwischen Lernen und wissenschaftlicher Erkenntnis her- und als Fundament selbstsorgender Lernprozesse vorgestellt. Schließlich werden einige Konsequenzen für die professionelle Vermittlungsarbeit skizziert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_209</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_209">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/209/198" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_209" DMDID="DMD_biejournals_209">
+            <mets:fptr FILEID="FILE0_biejournals_209"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

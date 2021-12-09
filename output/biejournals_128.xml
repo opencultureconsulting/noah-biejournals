@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_128">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>internationale Weiterbildungsstudiengang „International Construction</title>
+                        <subTitle>Practice and Law“ an der Universität Stuttgart</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berner, Fritz</displayForm>
+                        <namePart type="family">Berner</namePart>
+                        <namePart type="given">Fritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Scharpf, Sebastian</displayForm>
+                        <namePart type="family">Scharpf</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bigga, Thomas</displayForm>
+                        <namePart type="family">Bigga</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Institut für Baubetriebslehre der Universität Stuttgart bietet seit dem Jahr 2015 einen Weiterbildungsstudiengang zum internationalen Bauen und Baurecht an. Das englischsprachige Bildungsangebot mit dem Ziel eines Master of Business Engineering zieht internationale Studierende aus der ganzen Welt an und ist ein interessantes Beispiel dafür, wie wissenschaftliche Weiterbildung mit internationalem Bezug funktionieren kann. Der Beitrag erläutert nach einführenden Worten zur verantwortlichen Bildungseinrichtung die Motivation zur Einrichtung des Studiengangs, die Historie und die Entwicklung sowie inhaltliche Fragestellungen. Vorgestellt wird auch das Distance Learning Angebot, das den Studierenden eine Teilnahme an den Veranstaltungen über das Internet ermöglicht. Zudem wird aufgezeigt, welcher Austausch und welche Lernmöglichkeiten auf wissenschaftlicher Ebene bereits stattfinden und künftig möglich sind.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_128</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_128">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/128/1220" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_128" DMDID="DMD_biejournals_128">
+            <mets:fptr FILEID="FILE0_biejournals_128"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

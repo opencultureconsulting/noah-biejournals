@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2149">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Die dunklen Seiten der Liebe&quot; (Rafik Schami) - Supervisorische Reftektionen über Paarbeziehungen in Teams</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Annemarie</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Annemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfeifer-Voigt, Susanne</displayForm>
+                        <namePart type="family">Pfeifer-Voigt</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Autorinnen sondieren Möglichkeiten, wie das Thema &quot;Liebe am Arbeitplatz&quot; in der Supervision aufgegriffen werden kann. Dabei legen sie den Fokus auf Paarbeziehungen im Team und diskutieren die unterschiedlichen Blickwinkel der Betroffenen - das Paar, die Kolleginnen und Kollegen, die Leitung - anhand von zwei Praxisbeispielen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2149</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2149">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2149/2016" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2149" DMDID="DMD_biejournals_2149">
+            <mets:fptr FILEID="FILE0_biejournals_2149"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

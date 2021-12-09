@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1514">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Funding community education in Ireland</title>
+                        <subTitle>Making the case for a needs-based approach</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Magrath, Conor Joseph</displayForm>
+                        <namePart type="family">Magrath</namePart>
+                        <namePart type="given">Conor Joseph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fitzsimons, Camilla</displayForm>
+                        <namePart type="family">Fitzsimons</namePart>
+                        <namePart type="given">Camilla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This report captures the experiences of 56 participating community education organisations across Ireland and aims to uncover trends and issues in funding models.
+Design/methodology/approach: A mixed-methods research was undertaken in three phases. Phase one involved an online- survey, which asked about primary and secondary sources of funding, ease of administration, access and sustainability. Phase two consisted of one-to-one interviews with self-selected providers and in phase three, we returned to the participants of phase two with targeted questions specifically relating to the pressures to merge with non-independent, state providers of community education.
+Findings: A disconnect between funders and providers, has been highlighted. Particularly the outcomes based funding model, which prioritises jobs activation over social inclusion. Funding is seen as restrictive, anti-innovative, bureaucratic and non-transparent.
+Practical implications: A need for sustainable, multi-annual funding has been identified, with providers looking for greater acknowledgement and recognition of the vital role and true value of community education in Irish society.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1514</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1514">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1514/3408" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1514" DMDID="DMD_biejournals_1514">
+            <mets:fptr FILEID="FILE0_biejournals_1514"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

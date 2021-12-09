@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_748">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What to Change – How to Have Influence? Children’s Ideas About Exercising Power and Participating</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Virta, Arja</displayForm>
+                        <namePart type="family">Virta</namePart>
+                        <namePart type="given">Arja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Virta, Marjaana</displayForm>
+                        <namePart type="family">Virta</namePart>
+                        <namePart type="given">Marjaana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Interest in children’s voice in society has been increasing gradually. This implies both the creation of new channels for participation, and also in the intensification of the research on children’s citizenship. This article asks what ideas twelve-year-old children have about using power and about their own opportunities of having influence in their schools. The study is based on qualitative questionnaires, in which the respondents were asked questions about how they would use power to make improvements in different spheres, starting from their classroom and ending up to the world.  The questionnaire also asked about their experience of agency in schools. According to the responses, the children’s suggestions for changes were focused on the physical environment. As to their class and school, it was the informal level of the school that was important. In the global level, the children wished that the world would be safe. As to their agency in school, they mainly depended on adults who organize students’ participation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_748</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_748">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/748/814" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_748">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/748/815" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_748" DMDID="DMD_biejournals_748">
+            <mets:fptr FILEID="FILE0_biejournals_748"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_748" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_748"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

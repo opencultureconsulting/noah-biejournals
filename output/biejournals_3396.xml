@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3396">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Zusammenhang zwischen Elaborationsstrategien und Lernleistung im Biologieunterricht</title>
+                        <subTitle>Analysen mit handlungsfernen und handlungsnahen Erhebungsverfahren der Elaborationsstrategien</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hüfner, Christiane</displayForm>
+                        <namePart type="family">Hüfner</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Isaak, Ricarda</displayForm>
+                        <namePart type="family">Isaak</namePart>
+                        <namePart type="given">Ricarda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Lernen von biologischen Inhalten setzt die Verwendung von Elaborationsstrategien voraus, da neue Informationen mit dem Vorwissen verknüpft werden sollten. Aus lernpsychologischer Sicht unterstützt die Elaborationsstrategie Aktivierung und Verknüpfung mit Vorwissen somit nachhaltiges Lernen und könnte so zu einer höheren Lernleistung bei Lernenden führen. Der Lernstrategieeinsatz kann durch unterschiedliche Verfahren erhoben werden. Einige Verfahren werden als handlungsfern (z. B. Fragebogen) und andere als handlungsnah (z. B. Lerntagebuch) bezeichnet. Diese Studie beschäftigt sich mit der Frage, in welcher Beziehung der handlungsfern erhobene Lernstrategieeinsatz, der handlungsnah erhobene Lernstrategieeinsatz und die Lernleistung stehen. Hierfür wurden 69 Gymnasiastinnen und Gymnasiasten (w&amp;nbsp;=&amp;nbsp;38, m&amp;nbsp;=&amp;nbsp;31; MAlter&amp;nbsp;=&amp;nbsp;10.79; SDAlter&amp;nbsp;=&amp;nbsp;0.75) in einer sechsstündigen Unterrichtseinheit zum Thema Atmung und Blutkreislauf unterrichtet und Daten zum Lernstrategieeinsatz sowie zur Lernleistung in einem Prä-Posttest-Design erhoben. Mittels Regressionsanalysen ließ sich zeigen, dass sich der handlungsfern erhobene Lernstrategieeinsatz nicht als Prädiktor für die Lernleistung eignete; der handlungsnah erhobene Lernstrategieeinsatz ließ eine Vorhersage der Lernleistung zu. Eine Korrelationsanalyse zeigte zwischen dem handlungsfern und handlungsnah erhobenen Lernstrategieeinsatz keinen signifikanten Zusammenhang.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3396</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3396">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3396/3575" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3396" DMDID="DMD_biejournals_3396">
+            <mets:fptr FILEID="FILE0_biejournals_3396"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_305">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What Would You Decide on? Decision Tasks in Economic Classes at Business Schools – A Didactical Analysis with Regard to Self-Directed Learning (in German)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goeckede, Britta</displayForm>
+                        <namePart type="family">Goeckede</namePart>
+                        <namePart type="given">Britta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Presently, self-directed learning is an important demand in the educational and didactical discourse. Implementing tasks in class is a way to involve students actively. This article discusses the question to what extent two selected exemplary tasks used in economic classes enable learners to self-direct their solution-finding-process. The special nature of both tasks only allows solutions in the form of economic decisions, which means that the solution-finding-process is a decision-making-process. This investigation discusses what a complete and ideal decision-making-process proves to be. This knowledge will then provide a basis for evaluating the tasks in terms of to what extent the learners perform this decision-making-process while they are working on it. Finally, the so called &quot;decision tasks&quot; are analyzed on the criteria of complexity and openness to make a statement about the impact of internal and external control. In the framework of this text analysis, we arrive at the conclusion that the tasks taken into consideration allow self-directed processing only in small parts, but an opening seems to be possible while they are being used in class.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_305</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_305">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/305/302" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_305" DMDID="DMD_biejournals_305">
+            <mets:fptr FILEID="FILE0_biejournals_305"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

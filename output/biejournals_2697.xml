@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2697">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Überzeugungen von Studierenden der Primarstufe zum Fach Natur, Mensch, Gesellschaft (NMG)</title>
+                        <subTitle>Didaktische Rekonstruktion als Grundlage für die Lehrentwicklung an der Pädagogischen Hochschule Zürich</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Beliefs – The Model of Didactic Reconstruction as a Framework for the Curriculum in Sciences and Social Studies at the Zurich University of Teacher Education</title>
+                        <subTitle>Didaktische Rekonstruktion als Grundlage für die Lehrentwicklung an der Pädagogischen Hochschule Zürich</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breitenmoser, Petra Daniela</displayForm>
+                        <namePart type="family">Breitenmoser</namePart>
+                        <namePart type="given">Petra Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mathis, Christian</displayForm>
+                        <namePart type="family">Mathis</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kümin, Beatrice</displayForm>
+                        <namePart type="family">Kümin</namePart>
+                        <namePart type="given">Beatrice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Nicht zuletzt auch wegen der nur sechssemestrigen Stu-diendauer von angehenden Primarstufenlehrpersonen an der PH Zürich ist es im Sinne des Modells der Didaktischen Rekonstruktion (MDR) (Kattmann, Duit, Gropengießer &amp;amp; Komorek, 1997) für Dozierende der Fachdidaktik Natur, Mensch, Gesellschaft (NMG) nötig und wichtig, die fachlichen Vorstellungen, Überzeugungen und Einstellungen der Studierenden zu Gegenständen, Strukturen, Zielen und Prinzipien des NMG-Unterrichts zu kennen. Nur so können möglichst wirkungsvolle Lehrveranstaltungen gestaltet werden. Dieser Beitrag gibt einen Einblick, wie das MDR als Bezugsrahmen für die hochschuldidaktische Curriculumsentwicklung sowie als Forschungs- und Reflexionsrahmen für die Lehre an der PH Zürich genutzt wird. Eine empirische Erhebung untersucht beispielsweise bei Studienanfänger*innen mittels qualitativer Fragebögen epistemische Überzeugungen zur Geschichte (Mathis, 2021). Im Kontext der Einführung des neuen Kompetenzberei-ches Ethik werden in einer zweiten Studie die epistemischen Überzeugungen von Studierenden zum Philosophieren mit Kindern (PmK) untersucht (Kümin, 2020). Eine weitere Studie untersucht quantitativ die Überzeugungen und motivationalen Aspekte von Primarstufenstudierenden in Naturwissenschaften mittels eines Prä-Postfragebogens (Breitenmoser, Brückmann &amp;amp; Detken, n.d.).</abstract>
+                    <abstract lang="eng">It is essential for lecturers at universities of teacher training to know the subject-specific beliefs of their students. However, little is known about the beliefs of primary school level teacher students within the sciences and social studies curriculum. Within the framework of the model of didactic reconstruction (Kattmann, Duit, Gropengießer &amp;amp; Komorek, 1997), this article describes three current projects at the Zurich University of Teacher Education to address this research gap. A first empirical project studies epistemological beliefs in the field of history with a qualitative questionnaire (Mathis, 2021). Within the context of introduction of Ethics into the curriculum, a second study examines epistemological beliefs of teacher education students about philosophy with children (Kümin, 2020). A third project evaluates beliefs and enjoyment of teacher training students in science, using a quantitative pre-post questionnaire (Breitenmoser, Brückmann &amp;amp; Detken, n.d.).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2697</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2697">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2697/4147" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2697" DMDID="DMD_biejournals_2697">
+            <mets:fptr FILEID="FILE0_biejournals_2697"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

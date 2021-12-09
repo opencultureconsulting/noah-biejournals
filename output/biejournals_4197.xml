@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4197">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anerkennung in pädagogischen Beziehungen – eine realisierbare und wissenschaftlich begründete Forderung?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ostermann, Britta</displayForm>
+                        <namePart type="family">Ostermann</namePart>
+                        <namePart type="given">Britta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Entwicklungs-, Bildungs- und Sozialisationsprozesse von Heranwachsenden vollziehen sich in pädagogischen Beziehungen. Neben den Beziehungen zu Eltern, weiteren Familienmitgliedern und Peers stellen Beziehungen zu pädagogischen Fachkräften und Lehrkräften wesentliche Gegebenheiten des Aufwachsens in modernen Gesellschaften dar (vgl. Prengel &amp;amp; Winklhofer, 2014, S. 5f.). Dabei ist es sowohl für ihre gegenwärtigen Erfahrungen während der Kindheit als auch für ihre zukünftige Entwicklung bedeutsam, ob sie Pädagog*innen begegnen, die sie anerkennen und ermutigen oder demütigen und verletzen (vgl. Ostermann &amp;amp; Prengel, 2019). Im vorliegenden Beitrag erfolgt ein Einblick in eine empirische Studie über die Qualität der Interaktionen von Lehrkräften mit Kindern, um herauszuarbeiten, auf welche Art und Weise und wie Lehrende die ihnen anvertrauten Kinder in beobachteten Betreuungsphasen anerkennen und verletzen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4197</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4197">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4197/4166" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4197" DMDID="DMD_biejournals_4197">
+            <mets:fptr FILEID="FILE0_biejournals_4197"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

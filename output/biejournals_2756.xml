@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2756">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Influences of Discriminatory Incidents on Immigrants’ Attitudes Toward German Society</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Döring, Jan</displayForm>
+                        <namePart type="family">Döring</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article presents findings from a quantitative survey (N = 301) to evaluate the impact discriminatory incidents have on the attitudes of immigrants towards the majority society in Germany.The findings show that there is a strong relationship between experiences of discrimination and a hostile or alienated attitude towards German society. As an attempt to explain this generalization from single incidents to the macro relation between immigrants and autochthonous Germans in general a theory of framing, taken from developments in the field of rational choice theory, is applied. The reasoning is that a generalizing and rather hostile framing in terms of the attitude towards Germans can minimize psychic, emotional and social costs resulting from acts of discrimination.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2756</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2756">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2756/2517" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2756" DMDID="DMD_biejournals_2756">
+            <mets:fptr FILEID="FILE0_biejournals_2756"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

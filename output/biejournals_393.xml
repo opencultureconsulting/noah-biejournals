@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_393">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civil Society as a Network of Communities</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henriques, Mendo Castro</displayForm>
+                        <namePart type="family">Henriques</namePart>
+                        <namePart type="given">Mendo Castro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">According to a political philosophy approach, civil society may be defined as the network of institutions of private origin and a public purpose in which communities share goods, meanings and values, significantly contributing to the progress or decline of governance. Its empowering role is growing as cooperation networks spread across the local, national, supranational and global levels, strengthening both the communities they serve and the governance procedures they legitimize. Those institutions cut through the “tabula rasa” model of political society, creating networks of cooperation among people with common or at least complementary fields of experience, aims and judgements. The building of a typology of institutions according to functions of care, culture, capital, and citizenship, enhances civil society as an intermediate between community and governance.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_393</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_393">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/393/390" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_393" DMDID="DMD_biejournals_393">
+            <mets:fptr FILEID="FILE0_biejournals_393"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

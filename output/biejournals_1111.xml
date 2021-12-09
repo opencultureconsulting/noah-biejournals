@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Flucht in eine ungewisse Zukunft? Ein Forschungs- und Entwicklungsprojekt (FEP) zum Empowerment von Schüler*innen mit Fluchterfahrung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ali, Mudhaffar</displayForm>
+                        <namePart type="family">Ali</namePart>
+                        <namePart type="given">Mudhaffar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Berho, Leshker</displayForm>
+                        <namePart type="family">Berho</namePart>
+                        <namePart type="given">Leshker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bosata, Amjad</displayForm>
+                        <namePart type="family">Bosata</namePart>
+                        <namePart type="given">Amjad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Malla Ali, Sarmad</displayForm>
+                        <namePart type="family">Malla Ali</namePart>
+                        <namePart type="given">Sarmad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mateo i Ferrer, Maria</displayForm>
+                        <namePart type="family">Mateo i Ferrer</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vier junge Flüchtlinge aus Syrien, Schüler am Oberstufen-Kolleg (Bielefeld), haben sich auf die Suche nach einer Arbeitsmethode gemacht, um sich selbst, aber besonders anderen Schüler*innen mit Fluchterfahrung dabei zu helfen, ihren eigenen Platz in Deutschland zu finden und ihn aktiv zu gestalten. Dafür sind sie nach Barcelona gefahren, wo sie mit Soziolog*innen der Universität Oberta de Catalunya anhand des Textes „Exkurs über den Fremden“ von Georg Simmel (in: Soziologie, 1908) über ihre Situation in Deutschland eingehend reflektiert haben. Dabei sind ihnen die positiven Möglichkeiten, die ihre Rolle als Fremde bietet, aber auch die konkreten Schwierigkeiten, die sie damit haben können, bewusster geworden. Sie haben ihre Vorstellungen von der Zukunft analysiert und sich mit dem Begriff „Integration“ kritisch auseinandergesetzt. Mit den Ergebnissen dieser Arbeit haben sie dann Unterrichtsmaterialien entwickelt, die sie in den Kursen für Neuzugewanderte des Oberstufen-Kollegs testen werden. Der vorliegende Artikel beinhaltet eine Beschreibung des Konzepts, mit dem sie nach Barcelona gefahren sind, und einen Reisebericht, der die Diskussionen und Gespräche zusammenfasst.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1111</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1111">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1111/1193" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1111" DMDID="DMD_biejournals_1111">
+            <mets:fptr FILEID="FILE0_biejournals_1111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

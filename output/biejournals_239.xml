@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_239">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Inverse Blended Learning in der Weiterbildung für Erwachenenbildner_innen</title>
+                        <subTitle>Eine MOOC-Fallstudie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ebner, Martin</displayForm>
+                        <namePart type="family">Ebner</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schön, Sandra</displayForm>
+                        <namePart type="family">Schön</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Khalil, Mohmmad</displayForm>
+                        <namePart type="family">Khalil</namePart>
+                        <namePart type="given">Mohmmad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ebner, Markus</displayForm>
+                        <namePart type="family">Ebner</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aschemann, Birgit</displayForm>
+                        <namePart type="family">Aschemann</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frei, Wilfried</displayForm>
+                        <namePart type="family">Frei</namePart>
+                        <namePart type="given">Wilfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Röthler, David</displayForm>
+                        <namePart type="family">Röthler</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Massive Open Online Courses (MOOCs) sind in den letzten Jahren in aller Munde, wenn es darum geht, technologiegestütztes Lernen für große Zielgruppen zu verwirklichen. MOOCs bieten dabei kostenlose Bildung mit offenem Zugang an, sowohl für die breite Öffentlichkeit als auch für spezielle Zielgruppen (z.B. Weiterbildung). Die in den Medien diskutierte Absprungrate (Drop-Out) führte zu einer notwendigen Reflexion über Vor- und Nachteile dieses Verfahrens. Die Autor_innen dieses Beitrags schlagen daher einen neuen pädagogischen Ansatz vor: Der Online-Kurs (MOOC) soll durch Präsenzunterricht ergänzt werden, um den sozialen Prozess des Lernens gezielt zu unterstützen. Während die Anreicherung von Präsenzveranstaltungen mit Online-Anteilen als „Blended Learning“ beschrieben wird, wird die Anreicherung von reinem Online-Lernen durch Präsenzangebote als „Inverse Blended Learning“ bezeichnet. Im Beitrag wird ein MOOC für Erwachsenenbildner_innen, der durch Präsenzangebote erweitert wurde, als Fallstudie vorgestellt. Aus den Daten der Nutzer_innen und ihren Aktivitäten kann mit Hilfe von Verfahren des Learning Analytics Rückschlüsse gezogen werden. Dabei zeigt sich in diesem Beispiel, dass – vermutlich durch das große Angebot und die starke Nutzung von Begleitangeboten zum MOOC – mit 48,2 Prozent eine sehr hohe Zertifizierungsquote (N=3.064 registrierte Nutzer_innen) erreicht werden konnte. Zudem wird eine Verbesserung der Interaktion zwischen den Teilnehmenden auf der MOOC-Plattform als auch in den zugehörigen Diskussionsforen beobachtet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_239</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_239">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/239/253" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_239" DMDID="DMD_biejournals_239">
+            <mets:fptr FILEID="FILE0_biejournals_239"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

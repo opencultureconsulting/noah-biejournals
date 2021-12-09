@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2916">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Effectiveness of a Universal School-Based Social Competence Program</title>
+                        <subTitle>The Role of Child Characteristics and Economic Factors</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Malti, Tina</displayForm>
+                        <namePart type="family">Malti</namePart>
+                        <namePart type="given">Tina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ribeaud, Denis</displayForm>
+                        <namePart type="family">Ribeaud</namePart>
+                        <namePart type="given">Denis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eisner, Manuel</displayForm>
+                        <namePart type="family">Eisner</namePart>
+                        <namePart type="given">Manuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An evaluation of the effectiveness of a school-based social competence curriculum PATHS (Promoting Alternative Thinking Strategies) on teacher-rated aggressive behavior,&amp;nbsp;ADHD, and prosocial behavior in children. The one-year prevention program was administered to children in 28 of 56 Swiss elementary schools (N = 1,675). Outcomes&amp;nbsp;were assessed at pretest and posttest with a follow-up 2 years later. Moderator interactions involving baseline child characteristics and economic factors were&amp;nbsp;tested. There were significant treatment effects for ADHD/impulsivity and aggression at the follow-up. Baseline development variables predicted higher prosocial behavior&amp;nbsp;as well as lower aggressive behavior and ADHD at the follow-up. Economic risk factors predicted poor behavior outcomes at the follow-up. Development variablesmoderated the impact of PATHS on ADHD and aggression at the follow-up. However, for most outcomes, no main effects or moderation of treatment effects were found.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2916</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2916">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2916/pdf_68" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2916">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2916/2775" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2916" DMDID="DMD_biejournals_2916">
+            <mets:fptr FILEID="FILE0_biejournals_2916"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2916" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2916"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

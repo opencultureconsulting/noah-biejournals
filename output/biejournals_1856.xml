@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Dutch long-term care reform</title>
+                        <subTitle>Moral conflicts in executing the Social Support Act 2015</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jongen, Wesley</displayForm>
+                        <namePart type="family">Jongen</namePart>
+                        <namePart type="given">Wesley</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröder-Bäck, Peter</displayForm>
+                        <namePart type="family">Schröder-Bäck</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schols, Jos MGA</displayForm>
+                        <namePart type="family">Schols</namePart>
+                        <namePart type="given">Jos MGA</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">On 1 January 2015, a new long-term care reform entered into force in the Netherlands, entailing amongst others a decentralization of long-term care responsibilities from the national government to the municipalities by means of a new law: the Social Support Act 2015. Given the often disputed nature of the reform, being characterized on the one hand by severe budget cuts and on the other hand by a normative reorientation towards a participation society, this article examines to what extent municipalities in the Netherlands take (potential) moral conflicts into account in their execution of the Social Support Act 2015. In doing so, the article applies a ‘coherentist’ approach (consisting of both rights-based and consequentialist strands of ethical reasoning), thereby putting six ethical principles at the core (non-maleficence &amp;amp; beneficence, social beneficence, respect for autonomy, social justice, efficiency and proportionality). It is argued that while municipalities are indeed aware of (potential) moral conflicts, the nature of the new law itself leaves insufficient room for municipalities to act in a sufficiently proactive and supportive/empowering manner on these challenges.   </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1856</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1856">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1856/1777" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1856" DMDID="DMD_biejournals_1856">
+            <mets:fptr FILEID="FILE0_biejournals_1856"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

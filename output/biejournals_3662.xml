@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3662">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„S.P.A.S.S“ in der Hochschullehre</title>
+                        <subTitle>Praktische Ansätze für eine lernerorientierte Didaktik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mertz, Nadine</displayForm>
+                        <namePart type="family">Mertz</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Müller, Claudia</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wadewitz, Marion</displayForm>
+                        <namePart type="family">Wadewitz</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Um den Bedürfnissen und Möglichkeiten der Zielgruppeberuflich Tätiger als Studierende an Hochschulen entsprechenzu können, besteht ein stärkeres Erfordernis nach lernerzentriertendidaktischen Modellen. Einen Ansatz hierfürstellt die Ermöglichungsdidaktik dar. Sie kann traditionelleStudienformen ablösen, bringt aber zugleich neue Herausforderungenan Lehrende und Lernende mit sich. Im Beitragwerden die S.P.A.S.S.-Kriterien von Arnold (2012b) und derenmögliche Anwendung in der Lehre für berufsbegleitendStudierende dargelegt. Es werden zwei praktisch erprobteLehrveranstaltungskonzeptionen vorgestellt und, basierendauf den Ergebnissen der Evaluierung dieser, didaktischeEmpfehlungen für einen nachhaltigen Lernprozess formuliert.In diesem Kontext werden zudem Konsequenzen für dieRolle der Lernenden und Lehrenden aufgezeigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3662</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3662">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3662/3733" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3662" DMDID="DMD_biejournals_3662">
+            <mets:fptr FILEID="FILE0_biejournals_3662"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

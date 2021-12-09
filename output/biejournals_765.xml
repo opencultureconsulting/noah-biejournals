@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_765">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Why We Need to Question the Democratic Engagement of Adolescents in Europe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>De Groot, Isolde</displayForm>
+                        <namePart type="family">De Groot</namePart>
+                        <namePart type="given">Isolde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Veugelers, Wiel</displayForm>
+                        <namePart type="family">Veugelers</namePart>
+                        <namePart type="given">Wiel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Since the beginning of the 21st century, academics in various disciplines have stressed the need to address democratic deficits in Europe as well as lacunae in the citizenship development of European youth. In this article we explore the value of various types of democratic engagement for strengthening the democratic character of local and international communities throughout Europe. To this end, we present our democratic engagement typology and its derivation from empirical and conceptual research, and discuss several strengths and limitations of each type of engagement. We also explain the additive value of our typology in relation to existing engagement typologies, and conclude that in order to vitalize democratic communities, local and (inter)national communities and institutions also need to cultivate a thick type of democratic engagement among European youth.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_765</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_765">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/765/834" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_765" DMDID="DMD_biejournals_765">
+            <mets:fptr FILEID="FILE0_biejournals_765"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

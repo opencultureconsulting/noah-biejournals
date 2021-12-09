@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3081">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Explaining Prejudice Toward Americans and Europeans in Egypt</title>
+                        <subTitle>Closed-mindedness and Conservatism Mediate Effects of Religious Fundamentalism</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sadowski, Friederike</displayForm>
+                        <namePart type="family">Sadowski</namePart>
+                        <namePart type="given">Friederike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohner, Gerd</displayForm>
+                        <namePart type="family">Bohner</namePart>
+                        <namePart type="given">Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">With an Arab-Muslim sample of 160 Egyptian citizens from the greater Cairo area, we examined the role of religion in prejudice toward U.S. Americans and Europeans. When religious fundamentalism was tested concurrently with general religiousness, results showed that only religious fundamentalism significantly predicted both prejudices. In a second step we included closed-mindedness (CM), a facet of need for cognitive closure, and conservatism (RCON), a facet of right-wing authoritarianism, to explain the religion – prejudice link. Instead of using the two variables as parallel mediators, we assumed that CM is a predictor of RCON. Hence, in a first model we applied CM and RCON as serial mediators of the religious fundamentalism – prejudice relation. In a second model, an alternative approach was introduced where fundamentalism was predicted by CM and RCON; prejudice remained the outcome variable. Results showed that RCON had stronger effects in comparison to CM across all models and that religious fundamentalism was marginal or not significant when CM and RCON served as preceding variables in the second model suggesting that they may be more decisive than religious fundamentalism in the development of prejudice. Participants distinguished between U.S. Americans and Europeans with U.S. Americans being the more relevant outgroup in the religious context.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3081</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3081">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3081/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3081">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3081/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3081">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3081/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3081" DMDID="DMD_biejournals_3081">
+            <mets:fptr FILEID="FILE0_biejournals_3081"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3081" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3081"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3081" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3081"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_517">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reifner, Udo</displayForm>
+                        <namePart type="family">Reifner</namePart>
+                        <namePart type="given">Udo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schelhowe, Anne</displayForm>
+                        <namePart type="family">Schelhowe</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-08-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">New, more or better financial education and financial literacy programmes should lead to improved financial capability, knowledge and outcomes. Yet we do not even know which terminology is most suitable for those projects who all intend to give an answer to a question which is less than clear. What is meant by the term “financial education”? Why did the “demand” for financial education suddenly increase? Have the numerous tasks which consumers in a modern society have to fulfill created this new field for financial education? Are their specific needs of financial markets which need adapted consumers as competent players? Or has the general level of education fallen? Would more ignorance on financial products perhaps increase the likelihood of these markets to care more about consumers? Do we truly need financial education at all and if so, as this article argues, what kind of financial education would respond to it? Based on five years of empirical research, on existing papers and curriculars for financial education and another five years of our own experiences with practical financial education in schools and with clients of debt advice agencies we would like to promote financial education as a form of consumer protection where consumers are seen collectively as the true masters of the economy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_517</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_517">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/517/514" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_517" DMDID="DMD_biejournals_517">
+            <mets:fptr FILEID="FILE0_biejournals_517"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

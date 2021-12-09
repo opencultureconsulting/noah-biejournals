@@ -1,0 +1,41 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_946">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cover Picture, Front Matter, Content</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>InterDisciplines, Editors</displayForm>
+                        <namePart type="family">InterDisciplines</namePart>
+                        <namePart type="given">Editors</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-15</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_946</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_946">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/946/1054" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_946" DMDID="DMD_biejournals_946">
+            <mets:fptr FILEID="FILE0_biejournals_946"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was machen Mentor*innen im Vorbereitungsdienst? Rekonstruktive Einblicke in die begleitende Praxis der Ausbildungslehrpersonen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gerlach, David</displayForm>
+                        <namePart type="family">Gerlach</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die zweite Phase der Lehrer*innenbildung in Deutschland wird von zwei Gruppen von Lehrerbildner*innen gestaltet: zum von den formal bestellten Ausbildungskräften oder Fachleiter*innen am Studienseminar, zum anderen von den eher informell wirkenden Mentor*innen am Lernort Schule. Während in der Forschung zu Praxissemestern und Schulpraktischen Studien mittlerweile immer mehr Erkenntnisse dazu vorliegen, wie diese strukturtheoretisch gestaltet werden oder kompetenztheoretisch optimiert werden können, gibt es zur Mentoringpraxis im Vorbereitungsdienst bislang kaum empirische Befunde. Der Beitrag stellt den aktuellen Forschungsstand zu Mentor*innen in beiden Phasen der deutschen Lehrer*innenbildung sowie international einschlägige Erkenntnisse vor. Im Anschluss dient die Rekonstruktion zweier kontrastiver Fallbeispiele mittels der Dokumentarischen Methode dazu, Einblicke in die biographisch und normorientiert vermittelte Mentoringpraxis zu liefern. In der Zusammenschau mit der einschlägigen Forschung ergibt sich die Notwendigkeit, auch die Professionalität und Professionalisierung von Mentor*innen, ihre individuellen Überzeugungen und Rollenförmigkeiten innerhalb institutionalisierter Strukturen zu reflektieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4350</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4350">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4350/4259" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4350" DMDID="DMD_biejournals_4350">
+            <mets:fptr FILEID="FILE0_biejournals_4350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bestäuber-Diversität bestimmen und bewerten</title>
+                        <subTitle>Hummel-Monitoring im Kontext eines alltagsrelevanten Ökologie-unterrichts</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sieg, Anne-Kathrin</displayForm>
+                        <namePart type="family">Sieg</namePart>
+                        <namePart type="given">Anne-Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Köbel, Caroline</displayForm>
+                        <namePart type="family">Köbel</namePart>
+                        <namePart type="given">Caroline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dreesmann, Daniel</displayForm>
+                        <namePart type="family">Dreesmann</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Hummeln sind ideale Modellorganismen zur Bearbeitung des Themas Ökologie. Sie ermöglichen einen aktuellen und höchst relevanten Bezug zum Rückgang der Biodiversität. Schülerinnen und Schüler bestimmen hierzu mit geringem Materialaufwand die Anzahl und Artenvielfalt von Hummeln in unterschiedlichen Lebensräumen. Hierdurch können sie Rückschlüsse auf die Eignung des jeweiligen Lebensraumes für Bestäuber ziehen. Daraus lassen sich wiederum Gestaltungsmöglichkeiten für Garten oder Balkon und Einflussmöglichkeiten auf das Insektensterben im täglichen Handeln und Verhalten ableiten. Hierzu gehört u.a. auch der Klimaschutz. Anhand von Hummeln als Modellorganismen kann der direkte Zusammenhang zwischen Klimawandel und Artensterben erarbeitet werden. Die Unterrichtsmaterialien wurden im Rahmen des Hallo Hummel!-Projektes auf unterschiedlichen Niveaustufen entwickelt und erprobt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3873</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3873">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3873/4312" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3873">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3873/4313" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3873" DMDID="DMD_biejournals_3873">
+            <mets:fptr FILEID="FILE0_biejournals_3873"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3873" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3873"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1654">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie aufgeklärt sind unsere Grundschüler? Befragung von 111 Kindern der 4. Jahrgangsstufe zum Thema Sexualität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Kerstin</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Kerstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kujadt, Stefanie</displayForm>
+                        <namePart type="family">Kujadt</namePart>
+                        <namePart type="given">Stefanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Setjeeilers, Sonja</displayForm>
+                        <namePart type="family">Setjeeilers</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lange, Julia</displayForm>
+                        <namePart type="family">Lange</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Büscher, Monika</displayForm>
+                        <namePart type="family">Büscher</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Untersuchung fand 2006 in 5 Klassen der vierten Jahrgangsstufe in ländlicher Umgebung statt. Von den befragten 111 Schülern waren 45 Jungen und 66 Mädchen. 70 der 111 Schüler hatten bereits Sexualkundeunterricht. Dieser führte nach dem Ergebnis dieser Untersuchung nicht zu einem umfassenden Wissensstand. Im Rahmen der Lehrerausbildung in Niedersachsen ist eine Vorbereitung auf den Sexualkundeunterricht nicht verpflichtend und das, obwohl die Pubertät im Vergleich zu den vorhergehenden Generationen früher einsetzt. Eine qualitativ hochwertige sexuelle Aufklärung scheint daher für alle Kinder vor Einsetzen der Pubertät sinnvoll.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1654</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1654">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1654/1600" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1654" DMDID="DMD_biejournals_1654">
+            <mets:fptr FILEID="FILE0_biejournals_1654"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

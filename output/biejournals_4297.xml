@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4297">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Chocolate intake is associated with a lower body mass index in adult men and women in transitional Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mone, Iris</displayForm>
+                        <namePart type="family">Mone</namePart>
+                        <namePart type="given">Iris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kraja, Bledar</displayForm>
+                        <namePart type="family">Kraja</namePart>
+                        <namePart type="given">Bledar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hyska, Jolanda</displayForm>
+                        <namePart type="family">Hyska</namePart>
+                        <namePart type="given">Jolanda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: In light of the controversial evidence regarding health effects of chocolate intake, we aimed to assess its association with body mass index (BMI) among adult individuals in Albania, a transitional post-communist country in South Eastern Europe which has traditionally employed a Mediterranean dietary pattern.&amp;nbsp;&amp;nbsp;
+&amp;nbsp;
+Methods: A cross-sectional study was conducted in 2003-2006 involving a population-based sample of 737 Tirana residents aged 35-74 years (469 men, 268 women; overall response: 70%). Of these, 565 individuals (373 men and 192 women) provided data on chocolate intake and anthropometrics (77% of the sample). A 105-item food frequency questionnaire, including chocolate consumption, was administered to all individuals. Nine categories were used to assess the average frequency of intake of each food item in the past 12 months. In the analysis, chocolate intake was dichotomized into: consumption of &amp;lt;1/month vs. ≥1/month. A physical examination included measurement of weight and height. Furthermore, information on socio-demographic characteristics and classical risk factors was collected. Multivariable-adjusted general linear model was used to calculate the mean BMI values by chocolate intake groupings.
+&amp;nbsp;
+Results: Upon simultaneous adjustment for socio-demographic characteristics, classical risk factors and nutritional factors, there was an inverse association between BMI and chocolate intake in both sexes (sex-pooled mean BMI: 26.1 among participants who consumed chocolate &amp;lt;1/month vs. 27.0 in those with an intake of ≥1/month; P&amp;lt;0.001).
+&amp;nbsp;
+Conclusions: This study points to a beneficial effect of moderate chocolate intake on lowering BMI, which deserves further vigorous investigation and replication in prospective studies in Albania and other populations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4297</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4297">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4297/4201" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4297" DMDID="DMD_biejournals_4297">
+            <mets:fptr FILEID="FILE0_biejournals_4297"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2544">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fächerübergreifender Unterricht im Fächerverbund Naturwissenschaften und Sport</title>
+                        <subTitle>Darstellung eines systematischen Reviews</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kramer, Niklas</displayForm>
+                        <namePart type="family">Kramer</namePart>
+                        <namePart type="given">Niklas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wegner, Claas</displayForm>
+                        <namePart type="family">Wegner</namePart>
+                        <namePart type="given">Claas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Fächerübergreifender Unterricht wird bereits seit vielen Jahren theoretisch hinsichtlich möglicher Potenziale und einer Implementierung an Schulen diskutiert. Stellenweise werden Formen fächerübergreifenden Unterrichts bereits umgesetzt. Gerade eine Fächerkombination von Sport mit einem oder mehreren der naturwissenschaftlichen Fächer scheint sich als ergiebig und wünschenswert herauszustellen, da viele konzeptionelle Ideen existieren, die in diesen Arbeiten allerdings nur selten evaluiert werden. Inwiefern diese Fachkombination schon empirisch beforscht wurde und wo weitere Forschungsdesiderate liegen, soll die vorliegende Arbeit klären. Hierfür erfolgt nach einer theoretischen Einordnung des Forschungsgegenstands die Darstellung einer systematischen Literaturrecherche zu empirischen Befunden von fächerübergreifenden Unterrichtsvorhaben, die sich mit sportlichen und naturwissenschaftlichen Inhalten befassen. Dabei konnten über das Fachportal Pädagogik in dem Suchzeitraum der Jahre von 2000 bis 2019 insgesamt 14 Studien erfasst werden, von denen sich zehn Studien vorrangig mit dem Wissenszuwachs beschäftigten. Es konnte herausgestellt werden, dass fächerübergreifende Interventionen zu einem erhöhten Wissenszuwachs führen. Dies ist allerdings durch die konzeptionelle Nähe zum „Bewegten Lernen“ kritisch zu betrachten, da dort ähnliche Testergebnisse gefunden werden. Darüber hinaus werden kleinere positive Befunde für den affektiv-motivationalen Bereich und bei sportpraktischen Untersuchungen berichtet, wobei bei letzteren durchaus kontrastierende Ergebnisse vorliegen. Insgesamt zeigt sich das Forschungsfeld dennoch sehr eindimensional. Dies hat die Forderung nach diverseren und größeren Forschungsvorhaben zur Folge, um fächerübergreifenden Unterricht didaktisch weiter legitimieren und vermehrt umsetzen zu können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2544</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2544">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2544/3897" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2544" DMDID="DMD_biejournals_2544">
+            <mets:fptr FILEID="FILE0_biejournals_2544"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

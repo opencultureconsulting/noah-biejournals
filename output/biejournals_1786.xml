@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1786">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Health-related behaviour among managers of Slovenian hospitals and institutes of public health</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Farkas, Jerneja</displayForm>
+                        <namePart type="family">Farkas</namePart>
+                        <namePart type="given">Jerneja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lainscak, Mitja</displayForm>
+                        <namePart type="family">Lainscak</namePart>
+                        <namePart type="given">Mitja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kukec, Andreja</displayForm>
+                        <namePart type="family">Kukec</namePart>
+                        <namePart type="given">Andreja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kosnik, Mitja</displayForm>
+                        <namePart type="family">Kosnik</namePart>
+                        <namePart type="given">Mitja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Behavioural risk factors have a significant impact on health. We aimed to assess health-related behaviour, health status, and use of healthcare services among managers of Slovenian hospitals and institutes of public health.Methods: This was a cross-sectional study which included management (directors, scientific directors, directors’ deputies) of Slovenian hospitals and institutes of public health (63 respondents; 57% women; overall mean age: 51±7 years; response rate: 74%). Data were obtained using an anonymous self-administered questionnaire.Results: About 35% of respondents were directors. More than half of the respondents were overweight or obese (52%), the majority were not sufficiently physically active (59%) and overloaded with stress (87%). Hypercholesterolemia (36%), spinal disease (17%), and arterial hypertension (16%) were most common chronic diseases. Whilst only few participants visited their general practitioner due their health complaints, blood pressure (76%), cholesterol (51%), and glucose (54%) were measured within last year in most of the respondents.Conclusion: Our findings point to a high prevalence of overweight and obesity as well as workplace-related stress among Slovenian public health managers. Therefore, effective preventive strategies should be focused on stress management along with promotion of healthy behavioural patterns.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1786</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1786">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1786/1707" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1786" DMDID="DMD_biejournals_1786">
+            <mets:fptr FILEID="FILE0_biejournals_1786"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

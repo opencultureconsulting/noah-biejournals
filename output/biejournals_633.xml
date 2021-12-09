@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_633">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Facing the Economic Crisis in Greece</title>
+                        <subTitle>The Effects of Grievances, Real and Perceived Vulnerability, and Emotions Towards the Crisis on Reactions to Austerity Measures</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chryssochoou, Xenia</displayForm>
+                        <namePart type="family">Chryssochoou</namePart>
+                        <namePart type="given">Xenia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Papastamou, Stamos</displayForm>
+                        <namePart type="family">Papastamou</namePart>
+                        <namePart type="given">Stamos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Prodromitis, Gerasimos</displayForm>
+                        <namePart type="family">Prodromitis</namePart>
+                        <namePart type="given">Gerasimos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This research was conducted in Greece during a period of major economic crisis when everyday events contributed to a changing and threatening socio-political environment. The paper looks at the structure of reactions Greek people (N=1040) have towards the crisis. Informed by social psychological theories of collective action and relative deprivation it is hypothesized that these reactions would depend on people&apos;s actual financial position, their sense of grievances and feelings of vulnerability and the emotions they felt towards the crisis. Results show that people have multiple ways of reacting that go from radical and even violent practices towards individual solutions and depression. These reactions are differently predicted by people&apos;s position, feelings of vulnerability and sense of grievances and by different emotions. It is not people&apos;s actual position that influences reactions and feelings of vulnerability are a major predictor. Moreover, sense of grievances are linked to more radical forms of action but also to depression. Emotions play an important role in predicting reactions to the crisis. Anger is confirmed as a predictor of political participation and collective action whereas fear and frustration are a major predictor of depression. Positive emotions also predict collective action with the exception of violent practices.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_633</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_633">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/633/644" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_633" DMDID="DMD_biejournals_633">
+            <mets:fptr FILEID="FILE0_biejournals_633"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2967">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dealing with Discrimination and the Struggle for Social Advancement in Migrant Families</title>
+                        <subTitle>Theoretical and Methodo - logical Aspects of a Study on Adolescent Generational Dynamics in Turkish Migrant Families Subjected to Marginalization</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>King, Vera</displayForm>
+                        <namePart type="family">King</namePart>
+                        <namePart type="given">Vera</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koller, Hans-Christoph</displayForm>
+                        <namePart type="family">Koller</namePart>
+                        <namePart type="given">Hans-Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zölch, Janina</displayForm>
+                        <namePart type="family">Zölch</namePart>
+                        <namePart type="given">Janina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">What are the effects of experiences of discrimination on the adolescent process of detachment from the family? What strategies and forms do migrant families develop to deal with discrimination and how do parents’ ways of contending with discrimination affect those of their sons? Those are the central questions addressed by this study of the educational careers and adolescent detachment processes of sons from Turkish migrant families. Foregrounding the theoretical and methodological approaches, the study examines how the strategies handed specifically to sons influence their personal and educational histories. One of our findings is that the ways adolescents are able to address experiences of discrimination are heavily influenced by intergenerational communication processes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2967</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2967">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2967/pdf_80" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2967">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2967/2879" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2967" DMDID="DMD_biejournals_2967">
+            <mets:fptr FILEID="FILE0_biejournals_2967"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2967" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2967"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

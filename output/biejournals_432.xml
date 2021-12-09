@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_432">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Citizenship Through Faith and Feelings</title>
+                        <subTitle>Defining Citizenship in Citizenship Education. An Exemplary Textbook Analysis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zimenkova, Tatjana</displayForm>
+                        <namePart type="family">Zimenkova</namePart>
+                        <namePart type="given">Tatjana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article describes the specifics of the definition of citizenship in citizenship education (CE). The ambiguity of understanding citizenship between status and active position is indicated and differentiate, and percep-tions of citizenship activity are revealed. The author proposes to build a typology of citizenship conceptions in CE, suggesting an analytical instrument for typology building (types of attitudes, reflected in and crucial for each conception of citizenship). Citizenship conceptions from two Russian textbooks are analysed in order to show reconstruction of their implicit meanings. A proposed analytical instrument for the typology building is applied to the reconstructed citizenship conceptions. The author proposes a demonstrated manner of analysis and typologisation as instruments for international studies on citizenship education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_432</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_432">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/432/429" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_432" DMDID="DMD_biejournals_432">
+            <mets:fptr FILEID="FILE0_biejournals_432"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

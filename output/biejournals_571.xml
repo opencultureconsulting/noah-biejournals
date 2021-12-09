@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_571">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Concept-Cartoons as a Tool to Evoke and Analyze Pupils Judgments in Social Science Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fenske, Felix</displayForm>
+                        <namePart type="family">Fenske</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klee, Andreas</displayForm>
+                        <namePart type="family">Klee</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lutter, Andreas</displayForm>
+                        <namePart type="family">Lutter</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-10-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The following contribution makes an effort to place the concept-cartoon-method into the context of social science education. Concept-cartoons (CCs) enable teachers to use the everyday life experiences and individual thoughts of the pupils as a positive enrichment tool within the learning processes. In this context, CCs are very suitable to function as a method to gain information about both the existing mental conceptions and the individual political judgment strategies. Through this, it is possible to put everyday life concepts and scientific knowledge in a constructive relationship, which finally enhances new learning objectives. First the article highlights the relevance of pupils’ and teachers` concepts for judgment processes. On this basis the method of CCs is introduced and evaluatedDer folgende Artikel beschäftigt sich mit den Möglichkeiten des methodischen Einsatzes von Concept-Cartoons im Rahmen sozialwissenschaftlichen Unterrichts. Als Instrumentarium zur Diagnose von Schülervorstellungen und individuellen Urteilsstrategien, bieten Comic-Cartoons den Lehrkräften die Möglichkeit, den Unterricht entlang dieser lernrelevanten Perspektiven zu gestalten. Durch die konstruktive Verknüpfung von Alltagskonzepten und Fachkonzepten können auf diese Weise neue Chancen für nachhaltige Lehr- und Lernprozesse erschlossen werden. Innerhalb dieses Beitrags wird zunächst die Bedeutung von Schülervorstellungen und vorfachlichen Urteilsstrategien für wirksamen sozialwissenschaftlichen Unterricht geklärt. Im Anschluss erfolgt eine Einführung in die Methode „Concept-Cartoons“. Abschließend werden exemplarisch drei von den Autoren gestaltete Cartoons vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_571</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_571">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/571/568" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_571" DMDID="DMD_biejournals_571">
+            <mets:fptr FILEID="FILE0_biejournals_571"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

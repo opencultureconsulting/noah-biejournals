@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_541">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Core Concept “Political Compass”. How Kitschelt’s Model of Liberal, Socialist, Libertarian and Conservative Orientations Can Fill the Ideology Gap in Civic Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Petrik, Andreas</displayForm>
+                        <namePart type="family">Petrik</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">International value surveys and misconception studies reveal the crucial role of individual value orientations for political judgment abilities. But in Civic Education, political opinions are generally merely asked for or remain superficial, non-committal statements that don’t get analyzed to foster identity development, perspective-taking and tolerance. Thus, this article discusses Kitschelt’s coordinate system of political preferences as an outstanding solution to fill the ideology gap in Civic Education and therefore to enhance political literacy. At first, I will explain and outline the landscape of the four political ideologies: market-liberalism, conservatism, democratic socialism and left-libertarianism. In addition, I will trace left-libertarianism to its merely known anarchist roots. After that, I will explain how our basic political values are shaped by economic and cultural developments and how they combine to become political ideologies, social milieus and party families. As a third point, I will outline possible applications of Kitschelt’s model for the subject of Civic Education. For that, I propose a map of fundamental controversial issues to help students to discover their own political position. Finally, I will introduce the “Found-a-Village-Project” as highly interactive and controversial scenario to foster political identity formation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_541</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_541">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/541/538" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_541" DMDID="DMD_biejournals_541">
+            <mets:fptr FILEID="FILE0_biejournals_541"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

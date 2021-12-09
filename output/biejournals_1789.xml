@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1789">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Towards an integrative post-2015 sustainable development goal framework</title>
+                        <subTitle>Focusing on global justice – peace, security and basic human rights</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lueddeke, George R.</displayForm>
+                        <namePart type="family">Lueddeke</namePart>
+                        <namePart type="given">George R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Following the Millennium Summit of the United Nations in 2000, the adoption of the United Nations (UN) Millennium Declaration by 189 nations, including the eight Millennium Development Goals (MDGs), has been hailed as a unique achievement in international development. Although the MDGs have raised the profile of global health, particularly in low- and middle-income countries, underpinned by the urgent need to address poverty worldwide, progress has been uneven both between and within countries. With over one billion people, Africa is a case in point. Aside from children completing a full course in primary school and achieving gender equality in primary school, none of the twelve main targets set for SS Africa has been met. A key reason suggested for this lack of progress is that the MDGs fall far short in terms of addressing the broader concept of development encapsulated in the Millennium Declaration, which includes human rights, equity, democracy, and governance.To strengthen the likelihood of realizing the post-2015 Sustainable Development Goals (SDGs), particularly with regard to “planet and population” health and well-being , UN and other decision-makers are urged to consider the adoption of an integrated SDG framework that is based on (i) a vision of global justice - underpinned by peace, security and basic human rights; (ii) the development of interdependent and interconnected strategies for each of the eleven thematic indicators identified in the UN document The World We Want; and (iii) the application of guiding principles to measure the impact of SDG strategies in terms of holism, equity, sustainability, ownership, and global obligation. While current discussions on the SDGs are making progress in a number of areas, the need for integration of these around a common global vision and purpose seems especially crucial to avoid MDG shortcomings.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1789</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1789">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1789/1710" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1789" DMDID="DMD_biejournals_1789">
+            <mets:fptr FILEID="FILE0_biejournals_1789"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

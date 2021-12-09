@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2920">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>KiVa Antibullying Program</title>
+                        <subTitle>Overview of Evaluation Studies Based on a Randomized Controlled Trial and National Rollout in Finland</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Salmivalli, Christina</displayForm>
+                        <namePart type="family">Salmivalli</namePart>
+                        <namePart type="given">Christina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Poskiparta, Elisa</displayForm>
+                        <namePart type="family">Poskiparta</namePart>
+                        <namePart type="given">Elisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The effects of a Finnish national school-based antibullying program (KiVa) were evaluated in a randomized controlled trial (2007–2009) and during nationwide implementation (since 2009). The KiVa program is been found to reduce bullying and victimization and increase empathy towards victimized peers and self-efficacy to support and defend them. KiVa increases school liking and motivation and contributes to significant reductions in anxiety, depression, and negative peer perceptions. Somewhat larger reductions in bullying and victimization were found in the randomized controlled trial than in the broad rollout, and the largest effects were obtained in primary school (grades 1–6). The uptake of the KiVa program is remarkable, with 90 percent of Finnish comprehensive schools currently registered as program users.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2920</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2920">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2920/pdf_60" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2920">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2920/2783" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2920" DMDID="DMD_biejournals_2920">
+            <mets:fptr FILEID="FILE0_biejournals_2920"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2920" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2920"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

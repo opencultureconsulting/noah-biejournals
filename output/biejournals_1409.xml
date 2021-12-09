@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1409">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Country Report</title>
+                        <subTitle>Civic and Citizenship Education in Polish School</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kopinska, Violetta</displayForm>
+                        <namePart type="family">Kopinska</namePart>
+                        <namePart type="given">Violetta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The aim of this paper is to reconstruct the shape of current civic education in Polish schools.
+Methodology: The results of the analysis presented in this article are based on the following research question: What shape of civic education can be reconstructed on the basis of the researched sources? The method of collecting data is finding secondary sources and documents. The method of analysing data is content analysis. The research sample includes legal act regarding education law, new school core curricula that have been implemented since 2017/2018 school year and publications showing results of research on civic education in Poland.
+Findings: Within the framework of civic education in Polish schools, emphasis was placed on knowledge and on adaptive and reconstructive function of schools. Deficiencies in terms of skills and attitudes assumed in the core curricula indicate that neither has there been an establishment of active citizenship, nor has any emphasis been placed on developing attitudes. Results of the research indicates that legal regulation regarding social bodies such student self-government fail to give these authorities significant powers and opportunities for the experience of democracy by students are very limited. Civic education in Polish schools is not learning in democracy, it is learning about democracy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1409</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1409">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1409/1453" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1409" DMDID="DMD_biejournals_1409">
+            <mets:fptr FILEID="FILE0_biejournals_1409"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

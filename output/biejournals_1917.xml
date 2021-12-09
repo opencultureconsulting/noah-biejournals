@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1917">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Biographical Lexicon of Public Health</title>
+                        <subTitle>Review</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Roger France, Francis</displayForm>
+                        <namePart type="family">Roger France</namePart>
+                        <namePart type="given">Francis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-11-06</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1917</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1917">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1917/1852" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1917" DMDID="DMD_biejournals_1917">
+            <mets:fptr FILEID="FILE0_biejournals_1917"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

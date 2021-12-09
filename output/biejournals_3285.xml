@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3285">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wer bin ich? Tiere des Waldes spielerisch kennenlernen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fränkel, Silvia</displayForm>
+                        <namePart type="family">Fränkel</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sellmann-Risse, Daniela</displayForm>
+                        <namePart type="family">Sellmann-Risse</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Artenkenntnis zu vermitteln ist im Kontext von Umweltbildung bedeutsam: So schützen Menschen besonders das, was sie kennen und lieben. Kinder interessieren sich sehr für Tiere in ihrem Lebensumfeld. Um dieses Interesse aufzugreifen, wird in diesem Beitrag ein Quiz beschrieben, bei welchem die Schüler*innen zwölf Tiere des heimischen Waldes mithilfe des Spielformates „Wer bin ich?“ erraten und so artspezifische Informationen lernen. Die spielerische Herangehensweise wirkt besonders motivierend und fördert so das Lernen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3285</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3285">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3285/3437" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3285">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3285/3442" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3285" DMDID="DMD_biejournals_3285">
+            <mets:fptr FILEID="FILE0_biejournals_3285"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3285" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3285"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

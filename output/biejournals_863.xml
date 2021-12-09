@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_863">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Creating Democratic Class Rooms in Asian Contexts</title>
+                        <subTitle>The Influences of Individual and School Level Factors on Open Classroom Climate</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuang, Xiaoxue</displayForm>
+                        <namePart type="family">Kuang</namePart>
+                        <namePart type="given">Xiaoxue</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kennedy, Kerry John</displayForm>
+                        <namePart type="family">Kennedy</namePart>
+                        <namePart type="given">Kerry John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>MOK, Magdalena Mo Ching</displayForm>
+                        <namePart type="family">MOK</namePart>
+                        <namePart type="given">Magdalena Mo Ching</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: Literature indicates that open classroom climate (OCC) is a positive influence on civic outcomes. Few studies have explored factors that appear to facilitate OCC. Most research on OCC has focused on Western countries. The emphasis has been on individual student characteristics related to OCC with little attention made to school level effects. The purpose of the present study was to investigate both individual and school level influences on OCC using Asian student samples.Methodology: Data were drawn from the five Asian societies that participated in the 2009 International Civics and Citizenship Education Study. Multilevel regression analysis was used to test individual and school level relationships in the data.   Findings: There were significant differences among the five societies with regard to student perceptions of OCC. At the individual level, results showed the importance of good student-teacher relationships, students’ discussion experiences outside school, and civic participating at school for promoting OCC. Civic knowledge and self-efficacy were positively related to OCC in four Asian societies. The roles of school level predictors differed from society to society, some predictors even working in the opposite direction. Different cultural contexts, local policies, and school system characteristics might account for these differences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_863</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_863">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/863/982" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_863">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/863/983" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_863" DMDID="DMD_biejournals_863">
+            <mets:fptr FILEID="FILE0_biejournals_863"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_863" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_863"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

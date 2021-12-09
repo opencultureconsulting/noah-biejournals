@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Time for citizenship in teacher training</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nieuwelink, Hessel</displayForm>
+                        <namePart type="family">Nieuwelink</namePart>
+                        <namePart type="given">Hessel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Oostdam, Ron</displayForm>
+                        <namePart type="family">Oostdam</namePart>
+                        <namePart type="given">Ron</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Citizenship education is in teacher training in the Netherlands linked to both the pedagogical and didactic tasks of teachers.
+The task of teachers to stimulate the development of values in students is addressed a lot less often.
+The idea of democracy and rule of law as a framework for citizenship is not mentioned in most knowledge bases.
+As a result, some knowledge bases seem to lack direction, as if all opinions and all ways of ‘dealing with diversity’ are desirable.
+
+Purpose: With this article we aim to provide insight into how citizenship education receives attention in the formulated national curricula for teacher education in the Netherlands and to what extent the different domains of citizenship and the different tasks of teachers with regard to citizenship education are addressed.
+Method: For this study the knowledge base for all teacher training curricula at Bachelor and Master level in the Netherlands were analysed. We looked at the extent to which citizenship (education) is addressed in teacher training and the ways in which this takes place.
+Findings: The results of the study show that several domains of citizenship are mentioned, albeit not often together in one knowledge base. Citizenship education is linked to both the pedagogical and didactic tasks of teachers. The task of teachers to stimulate the development of values in students is addressed a lot less often. The fact that citizenship also involves moral development is only mentioned in some knowledge base. Also, the idea of democracy and rule of law as a framework for citizenship is not mentioned in most knowledge bases. As a result, some knowledge bases seems to lack direction, as if all opinions and all ways of ‘dealing with diversity’ are desirable.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4030</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4030">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4030/4515" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4030" DMDID="DMD_biejournals_4030">
+            <mets:fptr FILEID="FILE0_biejournals_4030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

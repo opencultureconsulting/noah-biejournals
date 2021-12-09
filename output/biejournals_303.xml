@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_303">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Learning Tasks for Self-Directed Learning in Economic Classes (in German)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gerdsmeier, Gerhard</displayForm>
+                        <namePart type="family">Gerdsmeier</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article discusses questions about appropriate task formats and their curricular-substantial construction as well as implications for teacher qualification. Different types of tasks (decision tasks, exploring tasks, analysing tasks, assessing tasks, interpretation tasks, hermeneutic tasks and creative tasks) are being discussed. In the framework of this article it is concluded that decision tasks are dominant in economic classes. These different types of tasks are characterized by different formats. This is to say that a task as a model of reality can be well- so to say &quot;completely-&quot; structured or ill- so to say &quot;partly-&quot; structured. Oftentimes ill-structured tasks enable learners to understand structures during their operating process. On this account, the writer argues for a more open process and more space for higher complexity and self-directed learning. For this purpose teachers have to manage creativity, framing and application problems for a reasonable task conception.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_303</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_303">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/303/300" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_303" DMDID="DMD_biejournals_303">
+            <mets:fptr FILEID="FILE0_biejournals_303"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

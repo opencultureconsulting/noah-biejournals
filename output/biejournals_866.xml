@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_866">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Liberal Acceptance to Intolerance</title>
+                        <subTitle>Discourses on Sexual Diversity in Schools by Portuguese Young People</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Santos, Hugo M</displayForm>
+                        <namePart type="family">Santos</namePart>
+                        <namePart type="given">Hugo M</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Silva, Sofia Marques da</displayForm>
+                        <namePart type="family">Silva</namePart>
+                        <namePart type="given">Sofia Marques da</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article explores different strands of educational discourse about sexual diversity in Portuguese schools, from the students’ perspectives.Method: The methodological approach consisted in conducting focus groups discussions: 36 with 232 young students (H = 106, M = 126) in 12 public secondary schools.Findings: Students reveal a polyphony of discourses that gravitate between liberal acceptance, conditional acceptance and intolerance.Research implications: Attention is drawn not only to discriminatory processes that question school as a democratic place for LGBT youth, but also to the gap between what is legally decreed and a lack of know-how in the approach to sexual diversity in school.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_866</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_866">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/866/987" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_866">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/866/988" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_866" DMDID="DMD_biejournals_866">
+            <mets:fptr FILEID="FILE0_biejournals_866"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_866" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_866"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2786">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Clausewitz’s “Wondrous Trinity” as a Coordinate System of War and Violent Conflict</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herberg-Rothe, Andreas</displayForm>
+                        <namePart type="family">Herberg-Rothe</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Rather than discarding Clausewitz’s theory of war in response to the revolutionary changes in modern warfare, this article articulates a broader theory of war based on his concept of the “wondrous trinity,” identifying it as his true legacy. The author shows that the concept of trinitarian war attributed to Clausewitz by his critics, which seems to be applicable only to wars between states, is a caricature of Clausewitz’s theory. He goes on to develop Clause- witz’s theory that war is composed of the three tendencies of violence/force, fighting, and the affiliation of the combatants to a warring community. Each war can be analyzed as being composed of these three tendencies and their opposites.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2786</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2786">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2786/2547" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2786" DMDID="DMD_biejournals_2786">
+            <mets:fptr FILEID="FILE0_biejournals_2786"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

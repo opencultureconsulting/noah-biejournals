@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_415">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>Die </nonSort>
+                        <title>Bedeutung des Themas „Bahn“ für eine ökologische Nachhaltigskeitsbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engartner, Tim</displayForm>
+                        <namePart type="family">Engartner</namePart>
+                        <namePart type="given">Tim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-08-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die seit mehr als einem Jahrzehnt geführte Debatte über die Zukunft der Deutschen Bahn AG zeigt, dass das Themenfeld „Bahn“ zahlreiche Anknüpfungspunkte bietet, um verschiedene ökonomische Fragestellungen zu beleuchten – gerade auch im Kontext der ökologischen Nachhaltigkeitsbildung. Mit einer didaktisch und methodisch durchdachten Annäherung an das Themenfeld „Bahn“ kann dem gut begründeten, aber häufig unzureichend umgesetzten Postulat, Wissenschafts- und Schülerorientierung miteinander zu verbinden, Rechnung getragen werden. Denn die immense Bandbreite an Zugangs-, Erklärungs- und Interpretationsebenen erlaubt es nicht nur, das Umweltbewusstsein von Schüler(inne)n zu schärfen. Werden Anleitungen zum Fahrscheinkauf erstellt, Statistiken zu Verkehrsmarktanteilen ausgewertet und Schaubilder zu externen Verkehrskosten erörtert, können Kinder und Jugendliche auch motiviert werden, die Bahn als Transportmittel ihrer Wahl zu entdecken und somit einen nachhaltigen Beitrag zum Umwelt- und Klimaschutz zu leistenMore than a decade of debate about the future of Germany’s state-run rail company, Deutsche Bahn AG, has shown that the subject of “the railways” provides ample opportunity to discuss a whole range of economic issues, especially in the context of ecological sustainability. The desirable but often inadequately implemented goal of making science accessible to school students can be achieved through a didactically and methodologically well-planned approach, heightening students’ environmental awareness through the immense spectrum of perspectives, explanations and interpretations. And if instructions for buying tickets are prepared, statistics on transport market share analysed and graphics on the external costs of transport explored, children and young people can also be motivated to discover the railways as their preferred means of transport – a lasting contribution to environmental and climate protection.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_415</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_415">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/415/412" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_415" DMDID="DMD_biejournals_415">
+            <mets:fptr FILEID="FILE0_biejournals_415"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

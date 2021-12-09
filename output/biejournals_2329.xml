@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2329">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fallverstehen in der Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weigand, Wolfgang</displayForm>
+                        <namePart type="family">Weigand</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es geht um Verstehen: eine unabdingbare Voraussetzung in jedem kommunikativen Handeln. Deshalb schränken wir den Begriff nun ein, um ihn professionsspezifisch zu qualifizieren. Wir blicken nicht auf das Alltagsverstehen, was nicht heißt, dass nicht auch dieses Verstehen kompliziert sein kann. Wir meinen auch nicht das empathische Verstehen im Sinne von Mitfühlen und Teilhabe an der Existenz des Anderen, sondern eben das Fallverstehen, also die Durchdringung einer meist sehr komplexen und kontingenten Situation oder Szene in ihrer unterschiedlichen Dimensionalität, d.h. in ihren normativen, sozialen, psychischen, ökonomischen, strukturellen, historischen, politischen, kulturellenÂ  und auch in ihren bewussten und unbewussten Wirklichkeiten mit dem Ziel zu einem vertieften Verständnis der Situation, dem Sinn zu kommen, die Handeln wieder möglich macht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2329</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2329">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2329/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2329" DMDID="DMD_biejournals_2329">
+            <mets:fptr FILEID="FILE0_biejournals_2329"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_395">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Between Inclusion and Marginality</title>
+                        <subTitle>The Role of Education in Migrant Children</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ribolzi, Luisa</displayForm>
+                        <namePart type="family">Ribolzi</namePart>
+                        <namePart type="given">Luisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Creating and transmitting a common idea of European citizenship, based on values as individual freedom, equality, tolerance, dignity of individuals independently from gender, religion, race or social class is possibly the main task for educational policies in school and in permanent education. This is a difficult task, because European Union is becoming more and more heterogeneous in its composition, but also because migrations have to be considered as one of the social megatrends affecting Europe, increasing the community&apos;s complexity. The rate of migrants students is growing also in Italy by number, native country and level of education: in this varied population school attendance could be both a source of marginalisation or a tool for inclusion and social mobility. The concept of citizenship, including participation, cooperation, and tolerance, becomes then crucial, and the socialisation processes and agencies have to cooperate organizing education to support civicness, and mediating between ethnic origin and culture and the values of the host countries.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_395</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_395">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/395/392" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_395" DMDID="DMD_biejournals_395">
+            <mets:fptr FILEID="FILE0_biejournals_395"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

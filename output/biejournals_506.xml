@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_506">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Paradoxes of Social Rise. The Expansion of Middle Classes and the Financial Crisis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Deutschmann, Christoph</displayForm>
+                        <namePart type="family">Deutschmann</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-07-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The article views the current financial crisis from the background of long term socio-economic changes in advanced industrial societies. Central points are the rise of middle classes, the accumulation of financial wealth in the upper strata of middle classes in combination with an increasing concentration of financial assets at the level of the top rich, and the advance of pension and investment funds as collective actors at financial markets. The paper analyses the interconnections between these developments in the framework of a multilevel model, culminating in the thesis of a collective “Buddenbrooks”-effect: a structural upward mobility of society will lead to an increasing imbalance at capital markets because a strongly rising volume of financial assets searching profitable investment opportunities will go parallel with a decline of the social reservoir of solvent entrepreneurial debtors. Therefore, advanced industrial economies are faced with chronic excess liquidity and export surpluses at capital markets, leading to the build-up of speculative bubbles and subsequent crashes. The author argues that the present crisis cannot be understood properly without taking account of these backgrounds.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_506</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_506">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/506/503" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_506" DMDID="DMD_biejournals_506">
+            <mets:fptr FILEID="FILE0_biejournals_506"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

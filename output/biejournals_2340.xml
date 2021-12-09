@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2340">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Stütze der manischen Abwehr - Konsum und Adoleszenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidbauer, Wolfgang</displayForm>
+                        <namePart type="family">Schmidbauer</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Autor untersucht anhand biographischer Beispiele zu fassen, wie sich die rasanten Veränderungen der optischen Medien auf die Phantasietätigkeit während der Adoleszenz auswirken. Neben der enormen Zunahme kaum vermeidbarerer Vergleiche des Selbstbildes mit medial vermittelten Bildern verändern auch die Bildschirmspiele die Möglichkeiten, sich von narzisstischen und ödipalen Phantasien zu distanzieren. Das mediale Angebot prägt die unbewussten Strukturen. Es entsteht ein Zwischenreich, das nicht mehr Tagtraum, aber noch nicht Wirklichkeit ist und in dem ein kultureller Druck entsteht, das eigene Selbstbild zu manipulieren, z. B. durch Anorexie, Tattoos, kosmetische Eingriffe, Bildbearbeitung und Postings in den sozialen Medien. Diese Manipulationen dienen einer manischen Abwehr, deren Instabilität die Gefahr einer Depression steigert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2340</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2340">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2340/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2340">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2340/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2340" DMDID="DMD_biejournals_2340">
+            <mets:fptr FILEID="FILE0_biejournals_2340"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2340" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2340"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

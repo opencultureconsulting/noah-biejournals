@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4824">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Terra Preta – Fakten und Mythen</title>
+                        <subTitle>Die schwarze Wundererde aus dem Amazonasgebiet</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Terra Preta – facts and myths</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Glaser, Bruno</displayForm>
+                        <namePart type="family">Glaser</namePart>
+                        <namePart type="given">Bruno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Terra Preta ist ein alter Siedlungsboden, geprägt durch Jahrhunderte andauernden Eintrag großer Mengen an Verkohlungsrückständen (Pflanzenkohle) und Nährstoffen, welche von den Bodenorganismen in stabilen und fruchtbaren Humus überführt wurden. Dabei dominierten aerobe Prozesse durch bodeneigene Mikroorganismen. Es gibt weder wissenschaftliche Hinweise auf anaerobe Prozesse (Fermentation), noch auf „Terra Preta-Supermikroorganismen“. Die Existenz von Terra Preta beweist, dass es prinzipiell möglich ist, langfristig Kohlenstoff und Nährstoffe im Boden zu speichern bei gleichzeitiger intensiver Nutzung für Gartenbau oder Landwirtschaft. Die Anwendung dieses Konzeptes erlaubt unsere natürlichen Ressourcen nachhaltig in einer biobasierten Kreislaufwirtschaft zu nutzen. Darüber hinaus werden immer neue Anwendungsmöglichkeiten von Pflanzenkohle „entdeckt“, wie z. B. als Tierfutter, als Baumaterial oder zur Geruchsbindung in Trenntoiletten.</abstract>
+                    <abstract lang="eng">Terra Preta resulted from long-term addition of high amounts of charcoal (biochar) and organic residues, which were decomposed in-situ by soil microorganisms. The existence of Terra Preta proves that it is principally possible to sustainably increase carbon sequestration and soil fertility while intensively using the soil for horti- and agriculture. Transferring this principle to our modern society would enable us to sustainably using our natural resources and closing anthropogenic nutrient cycles. In addition, biochar can be used for at least 55 further purposes such as animal feed, construction material, or separating toilets reducing the smell considerably.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4824</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4824">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4824/4547" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4824" DMDID="DMD_biejournals_4824">
+            <mets:fptr FILEID="FILE0_biejournals_4824"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

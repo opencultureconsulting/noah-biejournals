@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2934">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Internal and External Collective Memories of Conflicts</title>
+                        <subTitle>Israel and the 1948 Palestinian Exodus</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nets-Zehngut, Rafi</displayForm>
+                        <namePart type="family">Nets-Zehngut</namePart>
+                        <namePart type="given">Rafi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-04-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The general category of collective memory of conflicts includes several kinds of memories (e.g., official, autobiographical, and historical – of scholars) that the literature typically discusses as a unified phenomenon. This contribution demonstrates that each of these kinds of memory comprises two types of submemories: internal (how the holders of a sub-memory actually view the history of a conflict) and external (how they publicly express their views of that history). Empirically, the research is based on an examination of Israeli official, autobiographical, and historical memories from 1949 to 2004 concerning the causes of the 1948 Palestinian exodus. Methodologically, it uses content analysis of documents and interviews with key Israeli figures. Theoretically, the article proves the existence of these two sub-memories, discusses their different characteristics and implications, addresses their reciprocal relations, and explores selfcensorship and external censorship as the causes for the differences between them.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2934</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2934">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2934/pdf_52" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2934">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2934/2811" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2934" DMDID="DMD_biejournals_2934">
+            <mets:fptr FILEID="FILE0_biejournals_2934"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2934" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2934"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

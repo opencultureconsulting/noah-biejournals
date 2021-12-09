@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Patriotic Celebrations in Educational Commemoration Practices in Ukraine</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Verbytska, Polina</displayForm>
+                        <namePart type="family">Verbytska</namePart>
+                        <namePart type="given">Polina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This study aims to provide information on the main tendencies across the transformation of the official holidays calendar in Ukraine over the last decades and to demonstrate its influence on school celebrations. Also discussed here is the role of these factors in the parallel but sometimes contradictory processes of the students’ civic identity formation.
+Design/Methodology/Approach: The article is based on documentary analysis, an interdisciplinary literature review and an examination of current practices with regard to national holidays in Ukraine. Patriotic rituals are analyzed through examples and evidence of school celebrations of the main calendar dates, including audiovisual materials in different school settings. The authors’ observations have been corroborated with evidence from Ukrainian students and teachers as seen in the results of the questionnaire. These reflect their perception and experience of school celebrations.
+Findings: The results demonstrate that the transformation of the official holidays calendar in Ukraine has had an impact on school commemoration practices. This in turn has become a factor in the formation of students’ civic identity. School patriotic rituals reflect a contradiction between the discourses of citizenship, patriotism and national upbringing in an emergent democracy in the continuing context of military conflict.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_890</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_890">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/890/1447" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_890" DMDID="DMD_biejournals_890">
+            <mets:fptr FILEID="FILE0_biejournals_890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What Can be Learned about Antisemitism from Holocaust Survivor Testimonies? A Narrative Inquiry Approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Morgan, Katalin Eszter</displayForm>
+                        <namePart type="family">Morgan</namePart>
+                        <namePart type="given">Katalin Eszter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The purpose of this contribution is to analyse a set of Holocaust survivor&amp;nbsp;testimony transcripts in order to find out their educational value regarding the connection&amp;nbsp;between antisemitism of the past and the present. The narrative analyses are used&amp;nbsp;to generate questions that might be relevant for addressing certain curricular aims&amp;nbsp;within German Social Science Education.
+Approach: Testimony transcripts of six Jewish Holocaust survivors were reconstructed&amp;nbsp;using portraiture techniques with the aim of capturing the essence of the experience of&amp;nbsp;being Jewish in a given socio-cultural context. Certain themes from the stories were&amp;nbsp;picked out and probed further with other historical and scholarly literature so as to lend&amp;nbsp;them depth and generalisability to theoretical concepts.
+Findings: Within the context of antisemitism, the following themes are identified and&amp;nbsp;discussed: a sense of safety, love, belonging, solidarity and resistance; set-apart times,&amp;nbsp;Kristallnacht and the burning of the Book of Books; an example of an “identity model”&amp;nbsp;under tension; Father-Son relationship and continued experiences of antisemitic&amp;nbsp;stereotypes. Questions are generated about aspects of cultural and national self-image&amp;nbsp;that could be relevant in Social Science Education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_914</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_914">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/914/3908" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_914" DMDID="DMD_biejournals_914">
+            <mets:fptr FILEID="FILE0_biejournals_914"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

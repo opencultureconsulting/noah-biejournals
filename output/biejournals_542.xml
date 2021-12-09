@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_542">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Political Competences and Political Participation</title>
+                        <subTitle>On The Role of “Objective” Political Knowledge, Political Reasoning, and Subjective Political Competence in Early Adulthood</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reichert, Frank</displayForm>
+                        <namePart type="family">Reichert</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article deals with the relation of objective political competences and the subjective assessment of one’s own political competence. The theoretical frame states that at least in early adulthood, only the subjective competence but not political knowledge is an autonomous and important determinant for (socio-)political participation, mediating the influence of objective political competences (or political knowledge, respectively). To test the role of subjective political competence and the (remaining) effect of political knowledge in early adulthood, empirical evidence using a sample of university students is presented. Cross-sectional analyses show that political knowledge has at least, if anything, an impact on voting, while fully mediated by subjective political competence relating non-electoral legal political activities. In contrast, the more profound competence of political reasoning has clear and stable positive effects on the intention to engage in non-electoral legal political actions – here subjective competence seems to be less important. Eventually, after a short excursus on school participation the findings are summarised and discussed by relating them back to framework and hypothesis. A concluding section proposes two opposing developmental-psychological considerations about the findings, raising further questions and giving an outlook into future research.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_542</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_542">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/542/539" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_542" DMDID="DMD_biejournals_542">
+            <mets:fptr FILEID="FILE0_biejournals_542"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

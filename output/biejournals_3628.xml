@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3628">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Assessing the national identity and sense of belonging of students in Germany with immigration backgrounds</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Matafora, Beatriz</displayForm>
+                        <namePart type="family">Matafora</namePart>
+                        <namePart type="given">Beatriz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abs, Hermann-Josef</displayForm>
+                        <namePart type="family">Abs</namePart>
+                        <namePart type="given">Hermann-Josef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hahn-Laudenberg, Katrin</displayForm>
+                        <namePart type="family">Hahn-Laudenberg</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Students in Germany score low on national identity when it is measured with national symbols
+Students with immigration backgrounds show lower national identity scores in 20 countries
+Over 90% of German students with immigration backgrounds feel a sense of belonging to Germany.
+Research instruments measuring national identity must consider transnationality and fluidity.
+
+Purpose: This paper aims to analyse the data regarding the national identification and sense of belonging of secondary school students with and without immigration backgrounds collected through the International Civic and Citizenship Study 2016. It also assesses whether the research instruments used are suitable for the German context.
+
+
+Method: Likert scale items measured national identification. Acculturation theory based categories were employed to measure the sense of belonging.  Differences between students across and within countries were assessed using t tests. 
+
+
+Findings: Students with immigration backgrounds tend to present statistically lower scores for the scale ‘attitudes toward country of residence’ in 20 of 24 participating countries. In international comparison, German students with and without immigration backgrounds score relatively low on all five items of the scale. Despite achieving significantly lower scores for national identification, 90% of students in Germany with immigration backgrounds feel a sense of belonging to Germany.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3628</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3628">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3628/4336" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3628" DMDID="DMD_biejournals_3628">
+            <mets:fptr FILEID="FILE0_biejournals_3628"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

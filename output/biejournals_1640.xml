@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1640">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Inwieweit eignen sich bisherige Diagnoseverfahren des Bereichs Experimentieren für die Schulpraxis?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baur, Armin</displayForm>
+                        <namePart type="family">Baur</namePart>
+                        <namePart type="given">Armin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Eine Individualisierung des Unterrichts setzt eine gute Diagnostik voraus. Die Entwicklung und Bereitstellung von schulpraxistauglichen Diagnoseinstrumenten (Pädagogische Diagnostik) ist daher eine wichtige Aufgabe. Im Bereich Experimentieren gibt es viele Arbeiten, die sich mit wissenschaftlicher Kompetenzdiagnostik auseinandersetzen. In diesem Artikel werden vorhandene wissenschaftliche Diagnoseverfahren für den Bereich Experimentieren (Realtests, Paper-pencil-Tests, computerbasierte Testumgebungen und Interviews) dargestellt und auf ihre Einsetzbarkeit für die Pädagogische Diagnostik diskutiert. Als geeignet erscheinen vom Lernenden angefertigte Protokolle und partielle Beobachtungen von Schüler/innen. Weiterhin wird die Notwendigkeit eines Theorierahmens angeführt, der Experimentierkompetenz für die Pädagogische Diagnostik in diagnostischen Analyseeinheiten (Teilaspekten) beschreibt und Vergleichswerte bietet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1640</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1640">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1640/1586" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1640" DMDID="DMD_biejournals_1640">
+            <mets:fptr FILEID="FILE0_biejournals_1640"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

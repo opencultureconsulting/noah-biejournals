@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1797">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Geophagia</title>
+                        <subTitle>A cultural-nutrition health-seeking behaviour with no redeeming psycho-social qualities</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Norman, Ishmael D.</displayForm>
+                        <namePart type="family">Norman</namePart>
+                        <namePart type="given">Ishmael D.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Binka, Fred N.</displayForm>
+                        <namePart type="family">Binka</namePart>
+                        <namePart type="given">Fred N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Godi, Anthony H.</displayForm>
+                        <namePart type="family">Godi</namePart>
+                        <namePart type="given">Anthony H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: We investigated if Geophagia is restricted to only pregnant and lactating women in Ghana. We also investigated if the key driver of Geophagia is poverty and other socio-cultural factors.Methods: This analysis was part of a broader national study of resilience among thepopulation of Ghana (N=2,000). Regional comparisons were made possible due to the stratified and random selection of representations that were similar in characteristics such as being urban or rural, ethnicity, religion and gender.Results: It was found that Geophagia was present among both females and males and was not restricted to pregnant and lactating women. Geophagia was not driven by poverty or the lack of formal education or the presence of gainful employment. Geophagia was practiced by both urban and rural residents irrespective of religious proclivities and devotion. The assertion that Geophagia was an instinctive primordial response to gastro-intestinal disturbances was not sustained by the data in this study, although the literature review suggested such in calves and lambs.Conclusion: In order to address the potential health threats posed by Geophagia, the key cultural drivers need to be studied and understood. We also need to appreciate the shocks and stresses that create such desires. It is not a case of mental illness and it cannot be concluded that Geophagia is driven by a psychiatric disorder. This paper would be disseminated to inform policy in Ghana and beyond.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1797</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1797">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1797/1718" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1797" DMDID="DMD_biejournals_1797">
+            <mets:fptr FILEID="FILE0_biejournals_1797"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

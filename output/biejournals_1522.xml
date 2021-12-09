@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1522">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“You need to consider whether it is worth reaching for more radical measures“</title>
+                        <subTitle>Student Participation in the Discourse of Polish Citizenship Education textbooks for upper secondary school</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kopinska, Violetta</displayForm>
+                        <namePart type="family">Kopinska</namePart>
+                        <namePart type="given">Violetta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper aims to reconstruct the discoursive shape of student participation on the base of Polish school textbooks for citizenship education.
+Methodology: The main research question is: What image of student participation can be reconstructed by analyzing the texts of Polish citizenship education textbooks? The method of gathering data was finding secondary sources. The sample included all textbooks used to teach a basic program of civic education at the upper secondary level of education. The applied method of analysis comes from the group of approaches defined as Critical Discourse Analysis (CDA). The author adopted the approach represented by Ruth Wodak and Martin Reisigl.
+Findings: Through discursive exclusion and numerous mitigating cases, students become passive objects of adult policy and all forms of their agency are diminished and deprived of features that determine their strength.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1522</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1522">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1522/3549" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1522" DMDID="DMD_biejournals_1522">
+            <mets:fptr FILEID="FILE0_biejournals_1522"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

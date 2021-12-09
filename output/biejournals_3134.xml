@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3134">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Walter Benjamin and William Corsaro&apos;s Contributions to a Human Rights Education Approach with Children</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>de Almeida Santos, Thaís</displayForm>
+                        <namePart type="family">de Almeida Santos</namePart>
+                        <namePart type="given">Thaís</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>César Barros, Carlos</displayForm>
+                        <namePart type="family">César Barros</namePart>
+                        <namePart type="given">Carlos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper aims to discuss Walter Benjamin&apos;s Critical Theory and William&amp;nbsp;Corsaro&apos;s Sociology of Childhood contributions to a Human Rights Education approach&amp;nbsp;with children. Our intent is to investigate how children’s personal experiences can enrich&amp;nbsp;the construction of a differentiated pedagogical model, based on the promotion of&amp;nbsp;attitudes and values infused in the human rights tradition.
+Approach: We address this paper to a reflection on the expressions of agency, social&amp;nbsp;engagement, and cultural productions in the course of childhood.
+Findings: Our thesis is that Human Rights Education has to recognize the different&amp;nbsp;ethical lives, or subcultures, that compose each educational environment, assuring&amp;nbsp;children’s autonomy and social protagonism in the process of identifying human rights&amp;nbsp;violations and organizing strategies to assure social justice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3134</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3134">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3134/3909" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3134" DMDID="DMD_biejournals_3134">
+            <mets:fptr FILEID="FILE0_biejournals_3134"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

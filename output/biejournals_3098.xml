@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3098">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Processes of Radicalization and Polarization in the Context of Transnational Islamist Terrorism</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ayanian, Arin H.</displayForm>
+                        <namePart type="family">Ayanian</namePart>
+                        <namePart type="given">Arin H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böckler, Nils</displayForm>
+                        <namePart type="family">Böckler</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Doosje, Bertjan</displayForm>
+                        <namePart type="family">Doosje</namePart>
+                        <namePart type="given">Bertjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zick, Andreas</displayForm>
+                        <namePart type="family">Zick</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The present special issue brings together papers that focus on relevant theoretical perspectives and empirical research concerning individual and collective processes of radicalization, and social dynamics and conflicts associated with them. It also examines strategies to prevent the initiation of such processes and thereby connects analyses and transfer. Eight articles advance the current state of the art with regard to three aspects of radicalization within the context of Islamist terrorism, namely: 1) radicalization as a relational process; 2) social challenges and the role of foreign policy; and 3) prevention strategies. Together they represent important current empirical studies and point to directions where research is urgently needed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3098</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3098">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3098/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3098" DMDID="DMD_biejournals_3098">
+            <mets:fptr FILEID="FILE0_biejournals_3098"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

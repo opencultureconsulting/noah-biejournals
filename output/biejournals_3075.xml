@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3075">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cascades Across An ‘Extremely Violent Society’</title>
+                        <subTitle>Sri Lanka</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Braithwaite, John</displayForm>
+                        <namePart type="family">Braithwaite</namePart>
+                        <namePart type="given">John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>D&apos;Costa, Bina</displayForm>
+                        <namePart type="family">D&apos;Costa</namePart>
+                        <namePart type="given">Bina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In the “Peacebuilding Compared” research project so far, violence is seen as cascading across space and time within and between war-torn societies. This article illustrates the cascade lens as a framework for hypothesis generation. Both violent actions and violent imaginaries cascade. The recent history of Sri Lanka is used to illustrate three cascade dynamics: crime cascades to war, war cascades to more war and to crime, and crime and war both cascade to state violence such as torture, enforced disappearances and extrajudicial execution. Sri Lanka is also a case that cascaded new technologies of crime-war globally, such as suicide bombing vests. These are not the only important cascade dynamics, just neglected ones. The implications of our cascade analysis are not most importantly about building positive peace with justice, participation, truth and reconciliation at the end of tragic cascades. They are more importantly about securing negative peace preventively at the font of cascades. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3075</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3075">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3075/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3075">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3075/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3075">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3075/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3075" DMDID="DMD_biejournals_3075">
+            <mets:fptr FILEID="FILE0_biejournals_3075"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3075" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3075"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3075" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3075"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

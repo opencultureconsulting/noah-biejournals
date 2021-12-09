@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2398">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Diagnose mathematischer Kompetenzen als Gegenstand Forschenden Lernens im Praxissemester</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rottmann, Thomas</displayForm>
+                        <namePart type="family">Rottmann</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wellensiek, Nicole</displayForm>
+                        <namePart type="family">Wellensiek</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lüken, Miriam</displayForm>
+                        <namePart type="family">Lüken</namePart>
+                        <namePart type="given">Miriam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Diagnostische Kompetenzen stellen ein zentrales Element professioneller Lehrerkompetenzen dar. Diese umfassen sowohl die Auswahl und Durchführung geeigneter Diagnoseinstrumente, als auch die Entwicklung neuer inhaltsspezifischer Aufgaben mit diagnostischem Potenzial sowie die gezielte Beobachtung mathematischer Lernprozesse. Der vorliegende Beitrag setzt sich auf theoretischer Ebene mit den Aspekten Diagnostische Kompetenzen von Lehrkräften sowie Diagnose mathematischer Kompetenzen von Schülerinnen und Schülern auseinander. Ferner wird im Beitrag dargelegt, wie das Fach Mathematische Grundbildung Studierende bei der Entwicklung einer forschenden Grundhaltung sowie bei der Entwicklung und Umsetzung von geeigneten Projektideen zur mathematischen Diagnostik im Praxissemester unterstützt. Ergänzend werden ausgewählte Beispiele zu bereits durchgeführten Studienprojekten in diesem Bereich vorgestellt, um unterschiedliche Facetten von mathematischer Diagnostik zu illustrieren.</abstract>
+                    <abstract lang="eng">Diagnostic competencies are a central element of teacher’s professional competencies. They comprise the selection and administration of appropriate assessment instruments, the development of new content-specific tasks which have&amp;nbsp; diagnostic&amp;nbsp; potential&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; the observation of&amp;nbsp; mathematical&amp;nbsp; processes. This article theoretically looks into&amp;nbsp; approaches for the assessment of children’s mathematical&amp;nbsp; competencies&amp;nbsp; and&amp;nbsp; into&amp;nbsp; teachers’&amp;nbsp; diagnostic&amp;nbsp; competencies.&amp;nbsp; Furthermore, this article aims at demonstrating how the preservice teachers’ development towards a research-oriented tenor as well as the development and implementation&amp;nbsp; of&amp;nbsp; diagnostic-based&amp;nbsp; project&amp;nbsp; ideas&amp;nbsp; are&amp;nbsp; fostered&amp;nbsp; in&amp;nbsp; mathematics education.&amp;nbsp; Additionally,&amp;nbsp; we&amp;nbsp; present&amp;nbsp; two&amp;nbsp; examples&amp;nbsp; of&amp;nbsp; study&amp;nbsp; projects&amp;nbsp; in&amp;nbsp; this&amp;nbsp; domain in order to illustrate the various facets of mathematical assessment.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2398</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2398">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2398/2394" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2398" DMDID="DMD_biejournals_2398">
+            <mets:fptr FILEID="FILE0_biejournals_2398"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

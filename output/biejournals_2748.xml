@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2748">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Post-9/11 Terrorism Threats, News Coverage, and Public Perceptions in the United States</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nacos, Brigitte L.</displayForm>
+                        <namePart type="family">Nacos</namePart>
+                        <namePart type="given">Brigitte L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bloch-Elkon, Yaeli</displayForm>
+                        <namePart type="family">Bloch-Elkon</namePart>
+                        <namePart type="given">Yaeli</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Shapiro,, Robert Y.</displayForm>
+                        <namePart type="family">Shapiro,</namePart>
+                        <namePart type="given">Robert Y.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Terrorists, policy-makers, and terrorism scholars have long assumed that the mere threat of terrorist strikes affects societies that have experienced actual acts of terrorism. For this reason, most definitions of terrorism include the threat of violent political acts against civilians. But so far research has neither validated this conventional wisdom nor demonstrated how actual and mass-mediated threat messages by terrorists and terror alerts and threat assessments by government officials affect the public in targeted states. This paper fills the gap providing evidence that who conveys such messages matters and that mass-mediated threat messages by al Qaeda leaders and announced alerts and threat assessments by U.S. administration officials had a significant impact on the American public’s threat perceptions in the post-9/11 years.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2748</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2748">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2748/2509" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2748" DMDID="DMD_biejournals_2748">
+            <mets:fptr FILEID="FILE0_biejournals_2748"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

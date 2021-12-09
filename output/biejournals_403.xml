@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_403">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Do Underachievers Need Sociology?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>El-Mafaalani, Aladin</displayForm>
+                        <namePart type="family">El-Mafaalani</namePart>
+                        <namePart type="given">Aladin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This paper presents a promising model for using sociological learning to support the education of young people who are socially disadvantaged or display behavioral problems. A great many of these students are trapped in patterns of negative behavior. The goal of the model is to enable these young people to think explicitly about the role they are playing and to encourage them to strike out in a new direction. To this end, Erving Goffman’s sociological insights are used to stage a theatrical performance about school. This approach is informed by the microsociological tradition of proceeding from the concrete to the abstract in order to facilitate inductive learning and self-reflection. Goffman’s theory of social action provides the social-theoretical background for the theatrical action, while also serving as a medium of contrast for the analysis of the individual, interaction, and institution in subsequent reflections about school. In this way, sociological theory not only serves as a theoretical foundation for the lesson, but is also explicitly its subjectDer Aufsatz zeigt eine erfolgversprechende Möglichkeit auf, soziologisches Lernen als Beitrag zur Förderung sozial benachteiligter und verhaltensauffälliger Jugendlicher in der Schule zu implementieren. Die meisten dieser Schüler sind in ihren Handlungsmustern gefangen. Ziel ist es, diesen Jugendlichen die Möglichkeit zu eröffnen, bewusst über ihre Rolle nachzudenken und einen anderen Weg einzuschlagen. Hierfür werden Erkenntnisse aus Erving Goffman‘s Soziologie für ein schulisches Schauspiel genutzt, um ganz im Sinne der mikrosoziologischen Tradition vom Konkreten auf das Abstrakte zu schließen und damit induktives Lernen sowie Selbstreflexion zu ermöglichen. Goffman‘s Theorie sozialen Handelns bildet für das szenische Spiel zunächst das sozialtheoretische Hintergrundrauschen, um schließlich in der Reflexion der sozialen Situation in der Schule als Kontrastmittel für die Analyse von Person, Interaktion und Institution zu dienen. Die soziologische Theorie dient hierbei also nicht nur zur theoretischen Fundierung des Unterrichts, sondern wird auch explizit zum Unterrichtsgegenstand.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_403</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_403">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/403/400" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_403" DMDID="DMD_biejournals_403">
+            <mets:fptr FILEID="FILE0_biejournals_403"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

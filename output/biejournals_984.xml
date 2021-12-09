@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_984">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Markets for suspicion</title>
+                        <subTitle>Assessing cost-benefit analysis in crimnial justice</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bergin, Tiffany</displayForm>
+                        <namePart type="family">Bergin</namePart>
+                        <namePart type="given">Tiffany</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In recent years, cost-benefit analysis (CBA)-the systematic weighing-up of the economic and social costs and benefits of a particular program, project, or policy, and assigning to them a monetary value-has gained increasing prominence in criminal justice policymaking in the United States and the United Kingdom. This article critically assesses CBA&apos;s emergence, exploring both the advantages and challenges it could bring to crime and justice decisions. The article traces CBA&apos;s history, and examines whether critiques that have been applied to the use of CBA in other policy domains might also apply in criminal justice. Two major theoretical frameworks-Feeley and Simon&apos;s (1992) concept of &quot;actuarial&quot; perspectives in criminal justice and Giddens&apos; (1999) and Beck&apos;s (1992) ideas about the &quot;risk society&quot;-are drawn upon to critically evaluate CBA and situate its rise within historical, economic, and political contexts. Given the increasing reliance on CBA calculations in the US, UK, and many other countries, the need for critical assessment of this technique and its potential implications in the criminal justice sphere has never been greater.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_984</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_984">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/984/1092" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_984" DMDID="DMD_biejournals_984">
+            <mets:fptr FILEID="FILE0_biejournals_984"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

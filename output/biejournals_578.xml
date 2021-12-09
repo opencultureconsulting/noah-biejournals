@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_578">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Citizenship Education and Curriculum Development in Nigeria</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oluniyi, Oyeleke</displayForm>
+                        <namePart type="family">Oluniyi</namePart>
+                        <namePart type="given">Oyeleke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The article highlights the evolutionary trends of citizenship education in Nigeria. The 1914 British amalgamation of erstwhile Northern and Southern Protectorates gave birth to Nigeria as a state. The disparage ethnic composition of the new state, especially after independence, necessitated finding a common ground to promote committed citizens, against primordial ethnic cleavages and indigenization. It is not therefore surprising that the role of education in fostering national citizenship and consciousness was emphasized. Initially, social studies was used as a curriculum framework, until lately when a new subject, civics, was created in primary and junior secondary schools. The author considers the historical, cultural and political context underlining these curricular changes and identifies the current and future challenges face by the implementation of Civics curricular in Nigerian schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_578</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_578">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/578/575" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_578" DMDID="DMD_biejournals_578">
+            <mets:fptr FILEID="FILE0_biejournals_578"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

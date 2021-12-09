@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3091">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Government Protection against Terrorists Funded by Benefactors and Crime</title>
+                        <subTitle>An Economic Model</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hausken, Kjell</displayForm>
+                        <namePart type="family">Hausken</namePart>
+                        <namePart type="given">Kjell</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">We model a game involving a terrorist, the terrorist’s benefactor, and a government protecting against terrorism. The terrorist generates terrorism effort using its own resources, funding from a benefactor, and crime. Crime can be lucrative for a terrorist but may deter benefactors, thus causing a strategic dilemma. The model accounts for resources, costs of effort, valuations of terrorism by the three players, and crime production characteristics. We determine how a variety of model parameters, the government, and the benefactor influence a terrorist’s terrorism and crime efforts, and relative ideological orientation along a continuum from ideological to criminal. We determine which factors impact government protection, for example that it is inverse U shaped in terrorism effort. We determine the implications of letting the benefactor choose optimal funding and/or punishment for crime, for example eliminating punishment if both are chosen optimally. The model parameters are estimated for sixty-five terrorist groups using the global terrorism database and the fragile states index.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3091</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3091">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3091/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3091" DMDID="DMD_biejournals_3091">
+            <mets:fptr FILEID="FILE0_biejournals_3091"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

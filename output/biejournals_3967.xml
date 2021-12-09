@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3967">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>COVID-19</title>
+                        <subTitle>Fernunterricht aus Sicht der Mitarbeitenden von Schulen in Deutschland, Österreich und der Schweiz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Huber, Stephan Gerhard</displayForm>
+                        <namePart type="family">Huber</namePart>
+                        <namePart type="given">Stephan Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Helm, Christoph</displayForm>
+                        <namePart type="family">Helm</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Günther, Paula S.</displayForm>
+                        <namePart type="family">Günther</namePart>
+                        <namePart type="given">Paula S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schneider, Nadine</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwander, Marius</displayForm>
+                        <namePart type="family">Schwander</namePart>
+                        <namePart type="given">Marius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pruitt, Jane</displayForm>
+                        <namePart type="family">Pruitt</namePart>
+                        <namePart type="given">Jane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schneider, Julia Alexandra</displayForm>
+                        <namePart type="family">Schneider</namePart>
+                        <namePart type="given">Julia Alexandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zuge der Corona-Pandemie wurden weltweit temporären Schulschließungen vorgenommen. Wie funktioniert(e) Bildung in dieser Kri­se? Daten des Schul-Barometers von insgesamt 5.167 Mitarbeitenden an Schulen aus Deutschland, Österreich und der Schweiz ermöglichen einen Einblick in die Rahmenbedingungen von Digitalisierung während des Lehrens und Lernens während der Schulschließung. Die Daten bestätigen den „digital divide“ in den Kompetenzen und Erfahrungen der Lehrkräfte. Lehrkräfte in Österreich und der Schweiz schätzen ihre digitalen Kompetenzen höher ein als deutsche Mitarbeitende. Die technische Ausstattung wird von Befragten aus Österreich und der Schweiz ebenfalls besser eingeschätzt als in Deutschland. Die Kooperation zwischen Mitarbeitenden der Schule selbst sowie mit Eltern und ein stärkerer Fokus auf die Beziehungsebene zu Schüler*innen wird in Zeiten der Krise trotz und wegen der Distanz noch bedeutsamer für Lehre und Lernen. Perspektivisch können aus den Daten des Schul-Barometers Empfehlungen für die „Schule von morgen“ abgeleitet werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3967</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3967">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3967/3960" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3967" DMDID="DMD_biejournals_3967">
+            <mets:fptr FILEID="FILE0_biejournals_3967"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

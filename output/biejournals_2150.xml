@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2150">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Loyalität in Turbulenzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stenzel, Heidrun</displayForm>
+                        <namePart type="family">Stenzel</namePart>
+                        <namePart type="given">Heidrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Supervision hat sich als Beratungspraxis immer dem beruflichen Handeln von Personen und der Reflexion dessen verpflichtet gefühlt. Einer reinen Lehre anzuhängen, verbietet der Gegenstand. Zu unterschiedlich sind persönliche und institutionell-strukturelle Bedingungen, sowohl der Supersorlnnen als auch der Supervisandlnnen. d. h. aber nicht, dass supervisorisches Handeln wahllos und beliebig ist. Um dem eigenen professionellen Handeln angesichts der gesellschaftlichen Herausforderungen eine Orientierung zu geben, bedatf es neben dem fachlichen und wissenschaftlichen Diskurs der Entwicklung und Bewahrung der Supervisorischen Identität. An vier Aspekten wird die spezifische Supervisorische Herangehensweise zur Identitätsgewinnung innerhalb bestehender Lebens- und Arbeitsbedingungen betrachtet und die Frage der Verbundenheit von Supervision als kritische Loyalität aufgeworfen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2150</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2150">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2150/2017" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2150" DMDID="DMD_biejournals_2150">
+            <mets:fptr FILEID="FILE0_biejournals_2150"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1326">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Betrifft Frauengesundheit</title>
+                        <subTitle>Das Kompetenzzentrum Frauen und Gesundheit NRW</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ernst, Christiane</displayForm>
+                        <namePart type="family">Ernst</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Janz, Ulrike</displayForm>
+                        <namePart type="family">Janz</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Möhrke, Barbara</displayForm>
+                        <namePart type="family">Möhrke</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kolip, Petra</displayForm>
+                        <namePart type="family">Kolip</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steffens, Marion</displayForm>
+                        <namePart type="family">Steffens</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stolte, Andrea</displayForm>
+                        <namePart type="family">Stolte</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1326</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1326">
+                <mets:FLocat xlink:href="https://www.izgonzeit.de/index.php/izgonzeit/article/download/1326/1365" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1326" DMDID="DMD_biejournals_1326">
+            <mets:fptr FILEID="FILE0_biejournals_1326"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

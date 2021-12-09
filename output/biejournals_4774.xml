@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4774">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Probleme lösen und Menschen bilden sind grundverschiedene Aufgaben“</title>
+                        <subTitle>Bildungshistorische Erkundungen zu Positionierungen, Selbstfindungsversuchen und Paradoxien in der Lehrpersonenbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffmann-Ocon, Andreas</displayForm>
+                        <namePart type="family">Hoffmann-Ocon</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Positionierungen und Selbstdeutungen von Dozierenden in der Lehrpersonenbildung waren in der Vergangenheit sowohl ortsspezifisch geprägt als auch in einen Strom unterschiedlichen pädagogischen Wissens eingebunden. Es stellen sich in einer historischen Spurensuche – mit kurzen Quellensondierungen zu verschiedenen Zeitabschnitten im 20. Jahrhundert zu Positionierungen von Lehrpersonenbildner*innen – vielfältige Fragen im Zusammenhang mit „Normalmodellen“, mit wissenschaftlich-disziplinären Orientierungen, mit der Kritik an der disziplinären Arbeitsteilung in der Wissensproduktion und mit Erziehungsidealen. Das Essay soll auf der Grundlage historisch-konzepthafter Schriften aus dem deutschen und deutschschweizerischen Bildungsraum zur Ausbildung von Lehrpersonen, zum Hochschulunterricht und zur Hochschulreform – irritierend und ordnungsstiftend zugleich – zu einer Diskussion einladen, die sensibel für Paradoxien ist. Der Beitrag soll in einer kulturhistorisch informierten Perspektive den Blick schärfen für ambivalente und paradoxal anmutende Deutungen zur Pluralität in den wissenschaftlichen Perspektiven von Dozierenden und hochschulpolitischen Akteur*innen, die mit der Suche nach „Synthetisierungen“ teilweise auch Nähen zum Antiakademismus aufweisen konnten. Es wird aufgezeigt, unter welchen Voraussetzungen die Rede vom angelsächsischen Erziehungsideal hinsichtlich der Lehrpersonenbildung einer analytischen Unschärfe Vorschub leisten konnte. Vor dem Hintergrund dieser historischen Selbstbefremdung beschließt ein Ausblick auf allfällige Kategorienverwechslungen in der gegenwärtig häufig vorgetragenen Schulpraxiserfordernis von Dozierenden in der Lehrpersonenbildung die Überlegungen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4774</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4774">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4774/4539" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4774" DMDID="DMD_biejournals_4774">
+            <mets:fptr FILEID="FILE0_biejournals_4774"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

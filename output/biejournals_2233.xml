@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2233">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Verletzbarkeit des anderen - Überlegungen zu einer supervisorischen Ethik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleine, Manuela</displayForm>
+                        <namePart type="family">Kleine</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von einem anthropologischen Grundverständnis menschlichenDaseins zeigt der folgende Artikel verschiedene Dimensionen menschlicherVerletzbarkeit auf. In diesem Zusammenhang werden die Themen Angst,Scham und Gewalt als konstitutive Elemente in ihren verschiedenen Facetten thematisiert und die menschliche Verletzbarkeit in ihren Dimensionen nachvollzogen.Im Mittelpunkt steht die Frage, wie im Zusammenhang von Interessenspannungen und unter der Perspektive von Verletzungsoffenheit, mit unterschiedlichen Interessen umgegangen werden kann. In der Supervision ist dies normalerweise die Ebene der Kontraktgestaltung, im Besonderen der Dreieckskontrakt. Bereits 1988 schrieb dazu Leuschner, dass der Supervisor seine Beratungsstube verlasse und Supervision in der Arbeitswelt anbiete, wo nun weitere Akteure über die Arbeit mitbestimmen (vgl. Leuschner: 8ff.). Bisher ist mit den aus dieser Tatsache resultierenden Problemen so umgegangen worden, dass die Verhandlung im Sinne eines Diskurses als angemessene Antwort auf die unterschiedlichen Interessen zur wichtigen Form und Methode in der Supervision wurde. Verhandlung setzt jedoch eine Reihe von kognitiven, reflexiven und letztlich auch politischen Fähigkeiten voraus, die als verletzungsmächtig beschrieben werden können. Demgegenüber steht jedoch an anderer Stelle die Verletzungsoffenheit eines jeden Menschen. In den reflexiven Zusammenhängen der Supervision ist diese Verletzlichkeit systematisch zu berücksichtigen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2233</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2233">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2233/2143" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2233">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2233/2144" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2233" DMDID="DMD_biejournals_2233">
+            <mets:fptr FILEID="FILE0_biejournals_2233"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2233" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2233"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

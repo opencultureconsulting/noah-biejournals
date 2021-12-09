@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1832">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Performance of the public health care sector in the Republic of Macedonia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mitevska, Lolita</displayForm>
+                        <namePart type="family">Mitevska</namePart>
+                        <namePart type="given">Lolita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stanculescu, Manuela Sofia</displayForm>
+                        <namePart type="family">Stanculescu</namePart>
+                        <namePart type="given">Manuela Sofia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stikova, Elisaveta</displayForm>
+                        <namePart type="family">Stikova</namePart>
+                        <namePart type="given">Elisaveta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Healthcare authorities constantly search for new approaches of assessing the performance of the health sector. Comparative studies help for improvements in healthcare by learning from each-other. Our aim was to assess the performance of the public healthcare system in the Republic of Macedonia, through the analysis of preparedness of institutions to fulfill the population’s healthcare needs and expectations.Methods: This study had a regional character. The national research team interviewed 175 randomly selected participants from Macedonia. The research was performed in the period March 2012 – March 2013. For the research purposes there were used especially designed questionnaires for cancer, stroke, myocardial infarction, diabetes mellitus and injuries. For assessment of the performances, the appropriate techniques were developed.Results: Macedonians consider public healthcare system as being medium-good in all aspects: accessibility, availability, quality of health care services and population’s confidence. The knowledgeable observers (N=125) believe that state-of-the-art treatment exist all over the country (“yes”: 33.6% and “rather yes”: 44.8%). They believe that the services are accessible to everybody, free of major charges (“yes”: 31.2% and “rather yes”: 45.6%). The individual witnesses (N=50) argued toward lack of pharmacies and proper medicines in rural areas, with a gap between the availability and quality of services in rural vs. urban areas.Conclusion: The future goals for Macedonia include better public healthcare financing, cost definition of health packages, improved disease prevention and effective human resources.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1832</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1832">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1832/1754" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1832" DMDID="DMD_biejournals_1832">
+            <mets:fptr FILEID="FILE0_biejournals_1832"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1824">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pharmaceutical expenditure changes in Serbia and Greece during the global economic recession</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jakovljevic, Mihajlo</displayForm>
+                        <namePart type="family">Jakovljevic</namePart>
+                        <namePart type="given">Mihajlo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Souliotis, Kyriakos</displayForm>
+                        <namePart type="family">Souliotis</namePart>
+                        <namePart type="given">Kyriakos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Clarity on health expenditures is essential for the timely identification of risks that jeopardize the democratic provision of health services and the credibility of health insurance systems. Furthermore, observing health outcomes with geographical scope is essential for making multilateral associations. This study aimed at conveying information on the variability of important economic parameters of the health sector of Serbia and Greece from 2007 to 2012, when the most serious financial crisis in the post-war economic history hit the global economy.Methods: Exchange rates, purchase-power-parities (PPP) and price indices were used for the bilateral review of health and pharmaceutical expenditure dynamics during 2007-2012. Prescription and dispensing changes were also studied taking into account the anatomical therapeutic chemical (ATC) structure of drugs consumed.Results: Greece was forced to cut down its total health care and pharmaceutical expenditure and mainly its out-of-pocket payments were more seriously affected by the recession. Surprisingly, emerging market of Serbia, although severely damaged by global recession, succeeded to maintain 19% growth of its per capita health expenditure and even 25% increase of its per capita spending on pharmaceuticals. Innovative pharmaceuticals showed an upward trend in both countries.Conclusions: These two countries might serve as an example of two distinct pathways of mature and emerging health care markets during financial constraints caused by global recession. Our findings show that producing disease-based feedback, in the long run, may empower the assessment of the return on investment on medical technology and healthcare systems’ cost-effectiveness.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1824</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1824">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1824/1745" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1824" DMDID="DMD_biejournals_1824">
+            <mets:fptr FILEID="FILE0_biejournals_1824"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

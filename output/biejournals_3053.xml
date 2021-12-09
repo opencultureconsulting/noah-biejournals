@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3053">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial</title>
+                        <subTitle>Letter from the Editors</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zick, Andreas</displayForm>
+                        <namePart type="family">Zick</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>LaFree, Gary</displayForm>
+                        <namePart type="family">LaFree</namePart>
+                        <namePart type="given">Gary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stepanova, Ekaterina</displayForm>
+                        <namePart type="family">Stepanova</namePart>
+                        <namePart type="given">Ekaterina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-06-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">0</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">- no abstract -</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3053</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3053">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3053/pdf_121" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3053" DMDID="DMD_biejournals_3053">
+            <mets:fptr FILEID="FILE0_biejournals_3053"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

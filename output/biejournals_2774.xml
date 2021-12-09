@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2774">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Neighborhood Violence and Adolescent Friendship</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harding, David J.</displayForm>
+                        <namePart type="family">Harding</namePart>
+                        <namePart type="given">David J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper investigates the social consequences of neighborhood violence. Using ego-centered friendship network data from the National Longitudinal Study of Adolescent Health, a survey of adolescents in the United States in the mid-1990s, it examines the relationship between neighborhood violence and the quantity, closeness, and composition of adolescent same-sex friendships. Though neighborhood violence is unrelated to quantity and closeness net of individual and family characteristics, it predicts boys’ friendships with individuals who no longer attend school (who are presumably older or have dropped out of school) and predicts boys’ and girls’ friendships with individuals who attend other schools. These results are consistent with the theory that violence and fear of victimization focus adolescents’ social attention on their neighborhoods and lead them to develop friendships with individuals who can help them to stay safe. By structuring who adolescents interact with, neighborhood violence may play a role in determining the cultural messages and ideals to which they are exposed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2774</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2774">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2774/2535" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2774" DMDID="DMD_biejournals_2774">
+            <mets:fptr FILEID="FILE0_biejournals_2774"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

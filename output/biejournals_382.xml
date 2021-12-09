@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_382">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Education for Democratic Citizenship in Poland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Radiukiewicz, Anna</displayForm>
+                        <namePart type="family">Radiukiewicz</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grabowska-Lusinska, Izabela</displayForm>
+                        <namePart type="family">Grabowska-Lusinska</namePart>
+                        <namePart type="given">Izabela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The civic education is one of the biggest challenges of every nation, but in Poland – as a post-communist country – the upbringing of young generation to life in a democratic and modern world, is essential. Education, and so education for democratic citizenship, is very important, even decisive force of development of societies – it can flourish or decline the development. The purpose of this paper is to identify and explain development and evolution of civic education in Poland at different phases of the systemic transition. Additionally, the authors point out the barriers of civic culture’s development and abilities of institutions, which enable civic education in Poland. Thus, the paper analyses constellations of actors concerning on the one hand factors eroding education for democratic citizenship from schools and on the other hand those which unevenly and constantly building, grass-rooting and enhancing civic education at all levels of educational process.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_382</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_382">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/382/379" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_382" DMDID="DMD_biejournals_382">
+            <mets:fptr FILEID="FILE0_biejournals_382"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

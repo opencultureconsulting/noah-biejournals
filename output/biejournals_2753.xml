@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2753">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Explaining the Long-Term Trend in Violent Crime</title>
+                        <subTitle>A Heuristic Scheme and Some Methodological Considerations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thome, Helmut</displayForm>
+                        <namePart type="family">Thome</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-11-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">There has been a discontinuous but fairly persistent long-term decline in homicide rates in core European countries since about 1500. Since the 1950s, however, we observe an upward trend in violent crime not only in Europe but in almost all of the economically advanced nations that combine democratic political structures with free-market economies. The paper presents an explanatory scheme designed to account for both, the long decline and its apparent reversal. The theoretical model draws heavily upon ideas taken from the sociological work of Emile Durkheim and Norbert Elias – with some modifications and extensions. It seeks to integrate sociological and historical perspectives and to give due weight to both, structural and developmental forces. A key hypothesis is that the pacifying effects of the erosion of traditional collectivism can only be maintained to the extent by which “cooperative individualism” dominates over against the forces of &quot;disintegrative individualism&quot;. Some suggestions are made concerning the selection of appropriate indicators and the handling of methodological problems related to causal attribution.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2753</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2753">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2753/2514" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2753" DMDID="DMD_biejournals_2753">
+            <mets:fptr FILEID="FILE0_biejournals_2753"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

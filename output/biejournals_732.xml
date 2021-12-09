@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_732">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Preparing for Citizenship</title>
+                        <subTitle>Second Order Thinking Concepts in Social Science Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sandahl, Johan</displayForm>
+                        <namePart type="family">Sandahl</namePart>
+                        <namePart type="given">Johan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-10-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Social Science as a school subject aims at making students knowledgeable in societal issues as well as preparing them for citizenship. Despite the strong position of Social Science in the Swedish school curricula little research has been done in the field. Previous research has mainly concentrated on factual knowledge and conceptual learning, or the role of deliberation in class activities. Less research has focused on the role of disciplinary thinking and how that might promote learning how to think like a social scientist and at the same time prepare students for citizenship. By using a conceptual framework from history didactics Social Science education is explored in search of second-order concepts. Also, the relationship between these concepts and democratic socialisation is investigated. By focusing on one substantial case, globalisation, this study tries to reach beyond the various topics commonly covered in Social Science education. This was done by observations of teaching in Social Science and interviews with six experienced teachers. Manifested in the teachers’ voices were ideas on how to organise, analyse, interpret and critically review discourses in society. The proposed second order concepts of Social Science found in the teachers’ voices were: social science perspectives, social science causality, social science evidence and inference, social science abstraction, social science comparison and contrast, and the evaluative dimension of social science. In order to reach their goals in Social Science the teachers underlined the importance of using these concepts. When pupils work scientifically they develop a way of thinking about society and they challenge their set opinions about different topics. Therefore, second order concepts are important for learning Social Science and at the same time preparing students for a life as citizens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_732</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_732">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/732/792" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_732" DMDID="DMD_biejournals_732">
+            <mets:fptr FILEID="FILE0_biejournals_732"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

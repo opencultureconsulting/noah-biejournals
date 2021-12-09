@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1974">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen im Unterrichtsfach Pädagogik – Bielefelder Perspektiven</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meinholz, Sven</displayForm>
+                        <namePart type="family">Meinholz</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Artikel setzt die Überlegungen von Hahn, Meinholz, Störtländer und Thomas aus dem Jahre 2017 fort, indem auf Erfahrungen aus der Planung, Durchführung und Reflexion von zweisemestrigen Lehrveranstaltungen im Unterrichtsfach Pädagogik zurückgegriffen wird. Hierbei wird insbesondere hinterfragt, inwieweit es im universitären Kontext gelingen kann, einen originären, domänenspezifischen Zugang zur Vermittlung pädagogischen Wissens in der Praxis des Pädagogikunterrichts zu bestimmen. Es wird dafür plädiert, den Stellenwert des Faches in der gesellschaftswissenschaftlichen Fächergruppe genauer in den Blick zu nehmen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1974</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1974">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1974/3334" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1974" DMDID="DMD_biejournals_1974">
+            <mets:fptr FILEID="FILE0_biejournals_1974"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

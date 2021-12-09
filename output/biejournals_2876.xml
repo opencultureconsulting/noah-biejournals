@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2876">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Intergroup Conflict and the Media</title>
+                        <subTitle>An Experimental Study of Greek Students after the 2008 Riots</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hugh-Jones, David</displayForm>
+                        <namePart type="family">Hugh-Jones</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Katsanidou, Alexia</displayForm>
+                        <namePart type="family">Katsanidou</namePart>
+                        <namePart type="given">Alexia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riener, Gerhard</displayForm>
+                        <namePart type="family">Riener</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">We report a laboratory experiment in the context of the December 2008 riots in Greece, after the killing of a 15-year-old student by a policeman. Our sample comprised 266 students from the University of Thessaloniki. We tested whether media reports can affect people’s willingness to harm those in opposing groups by examining the way students allocated money between themselves and others of various professions, including police, in modified dictator games. Exposure to media reports decreased giving to police, but only when choices were private. Laboratory behaviour was correlated with self-reported participation in demonstrations, supporting the external validity of our measure. Media exposure appears to have affected behaviour by different pathways than those proposed in the existing literature, including “spiral of silence” and “frame alignment” theories.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2876</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2876">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2876/pdf_37" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2876">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2876/2694" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2876" DMDID="DMD_biejournals_2876">
+            <mets:fptr FILEID="FILE0_biejournals_2876"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2876" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2876"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

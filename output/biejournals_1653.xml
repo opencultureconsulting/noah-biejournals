@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1653">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Naturwissenschaftliche Erkenntnisgewinnung durch Modelle – Modellverständnis als Grundlage für Modellkompetenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Terzer, Eva</displayForm>
+                        <namePart type="family">Terzer</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Upmeier zu Belzen, Annette</displayForm>
+                        <namePart type="family">Upmeier zu Belzen</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Modellverständnis als Element von Modellkompetenz wird durch folgende Aspekte strukturiert: die Definition des Begriffs „Modell“, Kriterien für Modelle, Zweck von Modellen, Veränderbarkeit von Modellen und multiple Modelle. Schüleraussagen zu diesen Kriterien werden in Anlehnung an CAREY et al. (1989), DRIVER et al. (1996) und GÜNTHER et al. (2004) qualitativ drei Levels zugeordnet. 70 Schülern der neunten Jahrgangsstufe an zwei Berliner Gymnasien wurden im Biologieunterricht offene Fragen zu ihrem Modellverständnis zur schriftlichen Bearbeitung vorgelegt. Die Antworten wurden nach der qualitativen Inhaltsanalyse (MAYRING 2003) ausgewertet. Ein Schwerpunkt in den erfassten Schülervorstellungen sind die deskriptiven Aspekte von Modellen, das heißt sie werden vorwiegend in ihrer Anschauungsfunktion wahrgenommen. Die Rolle von Modellen im wissenschaftlichen Erkenntnisprozess wurde in der Regel nicht erkannt. Darüber hinaus waren die Vorstellungen der Schüler bezogen auf die theoretischen Aspekte von Modellen häufi g inkonsistent. Im Rahmen der vorliegenden Untersuchung stellt sich demnach die Struktur des Modellverständnisses der Schüler als eher mosaikartig dar und weist auf ein kompartimentalisiertes Wissen über Modelle hin.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1653</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1653">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1653/1599" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1653" DMDID="DMD_biejournals_1653">
+            <mets:fptr FILEID="FILE0_biejournals_1653"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

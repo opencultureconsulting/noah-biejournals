@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4319">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Improving service delivery at primary healthcare facilities for achieving Universal Health Coverage</title>
+                        <subTitle> Examining the effects of insecurity in such facilities in Enugu State, Nigeria</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Agwu, Prince</displayForm>
+                        <namePart type="family">Agwu</namePart>
+                        <namePart type="given">Prince</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Onwujekwe, Obinna</displayForm>
+                        <namePart type="family">Onwujekwe</namePart>
+                        <namePart type="given">Obinna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Uzochukwu, Benjamin</displayForm>
+                        <namePart type="family">Uzochukwu</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mulenga, Modest</displayForm>
+                        <namePart type="family">Mulenga</namePart>
+                        <namePart type="given">Modest</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Background: Availability of health services at the primary healthcare (PHC) level is crucial to the achievement of Universal Health Coverage (UHC). However, insecurity of PHC facilities inspires unavailability of health services. From perspectives of primary health service providers, we examined the effects of insecurity at rural and urban PHC facilities in Enugu, Nigeria. 
+Methodology: The study adopts a qualitative method using in-depth interviews and non-participant observation. The study sites were eight (8) PHC facilities (rural/urban) that were purposively selected. The first author interacted with the health workers and made extensive observations on infrastructure, policing, and other security gaps affecting the facilities. 
+Findings: While health workers wish to provide services as stipulated, the fear of getting hurt or losing their properties to hoodlums scares them, especially during the dusk hours. Owing to infrastructure deficits and lack of security personnel, incidents of losing phones, stolen babies and facility items/consumables, and patients being attacked were said to be recurring. The absence of power supply during the dusk hours tend to heighten their fears, hence health workers close before it gets dark, not minding the consequences on health service users.
+Conclusion: The issue of insecurity of lives of both the health workers and their clients is paramount to the optimal use of services in the PHC facilities. Insecurity is a priority concern for the health workers, and if not addressed could cause them to completely shun working in certain areas, or shun their jobs completely, with dire consequences for the achievement of UHC.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4319</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4319">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4319/4206" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4319" DMDID="DMD_biejournals_4319">
+            <mets:fptr FILEID="FILE0_biejournals_4319"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

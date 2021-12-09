@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1645">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>stammesgeschichtliche Entwicklung der Samenpflanzen und ihre mögliche Einbeziehung in den Unterricht der Realschule</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dieckmann, Ursula</displayForm>
+                        <namePart type="family">Dieckmann</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Reiser, Markus</displayForm>
+                        <namePart type="family">Reiser</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Schöpfung oder Evolution, kaum eine Frage spaltet die Gemüter so sehr wie diese. Der Beitrag behandelt eine mögliche schulische Umsetzung des weiten Themengebiets der Evolutionstheorie, am Beispiel der stammesgeschichtlichen Entwicklung der Landpflanzen. Ziel ist es Schülern exemplarisch anhand der Stammesgeschichte der Landpflanzen das Grundprinzip der Evolutionstheorie, also die Entwicklung primitiver Vorläufer zu rezenten Arten aufzuzeigen. So soll Schülern begreiflich gemacht werden, dass bereits einfache morphologische Abwandlungen eines „Grundbauplans“ eine Vielzahl neuer Formen ermöglichen. Gleichzeitig sollen die Schüler dazu angeregt werden, sich Gedanken über die Herkunft der Wuchsformen rezenter Pflanzengruppen zu machen und deren Entwicklung aus einem gemeinsamen primitiven Urahn abzuleiten und nachzuvollziehen. Schülern sollen die Grundlagen der Telomtheorie nach ZIMMERMANN (1965) eigenständig erarbeiten, indem sie sich im projektartigen Unterricht einen modellartigen Entwicklungsverlauf der Landpflanzen anhand dieser Theorie selbst gestalten.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1645</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1645">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1645/1591" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1645" DMDID="DMD_biejournals_1645">
+            <mets:fptr FILEID="FILE0_biejournals_1645"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

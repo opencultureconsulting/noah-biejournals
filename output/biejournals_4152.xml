@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4152">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Optionale Onlinekurse als Werkzeug der Studiengangsflexibilisierung</title>
+                        <subTitle>Der Onlinekurs „Grundlagen mathematikdidaktischer Entwicklungsarbeit“ für Lehramtsstudierende im Master</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Basics of Mathematics Didactic Development Work</title>
+                        <subTitle>Blended and on Demand</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Titz, Marvin</displayForm>
+                        <namePart type="family">Titz</namePart>
+                        <namePart type="given">Marvin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Beitrag wird ein Onlinekurs für das Lehramtsstudium Mathematik vorgestellt. Der Kurs ermöglicht durch Videos, elektronische Aufgaben mit gestuftem Feedback und ein asynchrones Austauschforum eine eigenverantwortliche Erarbeitung wesentlicher Grundlagen der mathematikdidaktischen Entwicklungsarbeit. Durch das freiwillige Angebot wird Studierenden der Modulvorzug und damit ein flexiblerer Studienverlauf ohne Qualitätsverluste ermöglicht, da die fachdidaktischen Grundlagen zusätzlich gesichert werden. Neben der primären Zielgruppe können auch Studierende, die ihre Abschlussarbeit im Bereich der Mathematikdidaktik schreiben, von dem Angebot profitieren. Ein abschließender Erfahrungsbericht basiert auf der intensiven Analyse der Evaluationsergebnisse einer Studierendengruppe sowie auf den Zugriffsstatistiken, die bei der Pilotierung entstanden sind.</abstract>
+                    <abstract lang="eng">This article presents an online course for the mathematics teacher training program. The course enables students to work out essential basics of mathematics didactic developmental work on their own responsibility by means of videos, electronic tasks with graded feedback and an asynchronous exchange forum. The voluntary offer allows students to take a more flexible course of study without loss of quality, since the subject didactic basics are additionally secured. In addition to the primary target group, students writing their final thesis in the field of mathematics didactics can also benefit from the offer. A final field report is based on an intensive analysis of the evaluation results.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4152</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4152">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4152/4597" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4152" DMDID="DMD_biejournals_4152">
+            <mets:fptr FILEID="FILE0_biejournals_4152"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

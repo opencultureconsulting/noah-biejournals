@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3771">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Duale Weiterbildung“</title>
+                        <subTitle>Duale Studienformate als Form der Hochschulweiterbildung?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kamm, Caroline</displayForm>
+                        <namePart type="family">Kamm</namePart>
+                        <namePart type="given">Caroline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lenz, Katharina</displayForm>
+                        <namePart type="family">Lenz</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spexard, Anna</displayForm>
+                        <namePart type="family">Spexard</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Kontext der Hochschulweiterbildung spielen duale Studienformatebislang eine untergeordnete Rolle. Zwar wächstdas Angebot weiterbildender dualer Masterstudiengänge, dererstaunlich hohe Anteil beruflich Qualifizierter in dualenBachelorstudiengängen deutet allerdings darauf hin, dassdiese, wenngleich formal nicht als Weiterbildung verstandenund konzipiert, auch Potentiale für die hochschulischeWeiterbildung bieten können. Die dargestellten Befundeder Studie „Mobilisierung von Bildungspotenzialen für dieMINT-Fachkräftesicherung – der Beitrag des dualen Studiums“(Wolter et al. 2014) zeigen, dass sowohl Studierende alsauch Unternehmen duale Bachelorstudiengänge zur Höherqualifizierungnach einem beruflichen Abschluss nutzen unddass Unternehmensbindung und berufliche Sicherheit dabeieine zentrale Rolle spielen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3771</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3771">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3771/3831" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3771" DMDID="DMD_biejournals_3771">
+            <mets:fptr FILEID="FILE0_biejournals_3771"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

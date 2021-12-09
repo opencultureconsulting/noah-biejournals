@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2373">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Integrated corporate social responsibility and human resources management for stakeholders health promotion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Macassa, Gloria</displayForm>
+                        <namePart type="family">Macassa</namePart>
+                        <namePart type="given">Gloria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In the past decade, there has been an argument for the inclusion of corporate social responsibility (CSR) in models and business strategies. However, the conversion of CSR strategy into actual managerial practices and outcome values remains an issue of ongoing debate as well an important challenge for business organizations. Furthermore, still is very little discussion on how business will influence stakeholder’s health promotion and surrounding environment as means to help address society’s most pressing challenges.
+This paper discusses the potential of public health literacy in advancing stakeholders’ health promotion beyond the workplace. The discussion argues that integrating corporate social responsibility (CSR) and human resources management (HRM) is an effective strategy to achieve social sustainability in organizations in which stakeholders’ health and well-being are important components.
+This short report describes an integrated CSR-HRM and describes how it can facilitate public health literacy. In the era of sustainable development, there is a need to discuss how business organizations can strategize to enhance internal and external stakeholders’ health and well-being.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2373</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2373">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/2373/2369" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2373" DMDID="DMD_biejournals_2373">
+            <mets:fptr FILEID="FILE0_biejournals_2373"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

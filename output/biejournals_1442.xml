@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1442">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Young Mayor project in Portugal</title>
+                        <subTitle>The effect of the Quality of Participation Experiences on perceptions of the project’s impact</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rodrigues, Mariana</displayForm>
+                        <namePart type="family">Rodrigues</namePart>
+                        <namePart type="given">Mariana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Caetano, Andreia</displayForm>
+                        <namePart type="family">Caetano</namePart>
+                        <namePart type="given">Andreia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ferreira, Teresa</displayForm>
+                        <namePart type="family">Ferreira</namePart>
+                        <namePart type="given">Teresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Silva, João</displayForm>
+                        <namePart type="family">Silva</namePart>
+                        <namePart type="given">João</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ribeiro, Norberto</displayForm>
+                        <namePart type="family">Ribeiro</namePart>
+                        <namePart type="given">Norberto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: To investigate the effect of Quality of Participation Experiences (QPE) on young people’s perceptions about the Young Mayor project’s impact.
+Design/methodology/approach: This study explores statistical analyses (i.e., cluster analysis and linear regression analysis) of a survey sample (N = 961) involving young people aged between 12 and 18 years to assess differences between groups reporting different levels of QPE (i.e., low, medium and high).
+Findings: Participants who had participation experiences with higher developmental quality (i.e., with effective and meaningful opportunities for action and reflection) are more involved in the Young Mayor project, have more positive perceptions about it, and report more civic and political participation experiences in their communities.
+Research limitations/implications: The cross-sectional design of this study does not allow to make causal inferences. Therefore, a longitudinal study should be conducted to clarify the relationship between the dimensions under analysis, promoting a better understanding of the impacts of the Young Mayor project on young people’s attitudes and perceptions.
+Practical implications: Local projects should promote participation experiences with higher developmental quality to foster their impacts on young people.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1442</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1442">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1442/3307" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1442" DMDID="DMD_biejournals_1442">
+            <mets:fptr FILEID="FILE0_biejournals_1442"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

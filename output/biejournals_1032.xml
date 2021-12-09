@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1032">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Crucial and local events in the long-term evolution of secondary schooling in Hungary (1867–1938)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Erdélyi, Mátyás</displayForm>
+                        <namePart type="family">Erdélyi</namePart>
+                        <namePart type="given">Mátyás</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article analyzes the social transformation of secondary education in Hungary between 1867 and 1938 in an attempt to problematize the relation between structure and events. The research problem of the present paper is to describe and understand the interrelations of structure and events by focusing on educational change. Two types of events are taken into account to describe educational change or the inertia of structure. On the one hand, crucial events as the 1867 Ausgleich and the Great War, parliamentary acts like the Numerus Clausus and laws of secondary education, and on the other hand, local events are analyzed in terms of their influence on educational structure, namely the long term effects of the establishment of the Handelsschule in various vicinities. The paper thus argues that local events had a larger influence on educational change than previously attributed to them.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1032</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1032">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1032/1140" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1032" DMDID="DMD_biejournals_1032">
+            <mets:fptr FILEID="FILE0_biejournals_1032"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

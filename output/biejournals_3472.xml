@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3472">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>An der Schnittstelle von Rassismuskritik und Theaterpädagogik</title>
+                        <subTitle>Wege der (Selbst-)Reflexion und Emanzipation in der Lehramtsausbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoffelner, Alexander</displayForm>
+                        <namePart type="family">Hoffelner</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Text befasst sich mit der Frage nach der Schnittstelle zwischen Rassismuskritik und Theaterpädagogik und deren konkreter Form. Aufbauend auf den theoretischen Begriffen „Rassismus“ und „Rassismuskritik“ wird der Versuch unternommen, Anknüpfungspunkte an den theaterpädagogischen Ansatz des Theater der Unterdrückten (TdU) und seine bildungstheoretischen Grundlagen zu finden und zu erörtern. Darauf aufbauend wird ein didaktisches Konzept entworfen, das rassismuskritische Arbeit in der Lehramtsausbildung umsetzbar macht. Angehende Lehrer*innen sollen dabei einen kritischen Blick auf Diskriminierung im Bildungswesen mit speziellem Fokus auf das eigene Weiß- bzw. Schwarzsein bekommen, um damit ihre Handlungs- und Reflexionsfähigkeiten im Hinblick auf Rassismus in der Schule zu erweitern.</abstract>
+                    <abstract lang="eng">The paper presents a discussion of the areas of critical race theory and theatre pedagogy and tries to find out how they could go together. After reflecting the terms ‚racism‘ and ‚critical race theory‘, it develops the argument that both areas have several aspects in common and their connection can be useful in teacher education. The theatrical instruments stem from the Theatre of the Oppressed which is based on the thoughts of Paulo Freire and his pedagogy. Thereupon, the article presents a didactical concept for implementing critical race theory in teacher education to confront future teachers with the topic ‚racism‘ and their own involvement. The workshop can contribute to professional competencies in which teachers reflect their own involvement in racism and its structures.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3472</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3472">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3472/3900" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3472" DMDID="DMD_biejournals_3472">
+            <mets:fptr FILEID="FILE0_biejournals_3472"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

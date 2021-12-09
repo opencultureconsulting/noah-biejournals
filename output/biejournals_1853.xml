@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1853">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introduction of the European Union case definitions to primary care physicians has improved the quality of communicable diseases notification in Tuzla, Bosnia and Herzegovina</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rusnak, Martin</displayForm>
+                        <namePart type="family">Rusnak</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Duric, Predrag</displayForm>
+                        <namePart type="family">Duric</namePart>
+                        <namePart type="given">Predrag</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jakubcova, Denisa</displayForm>
+                        <namePart type="family">Jakubcova</namePart>
+                        <namePart type="given">Denisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rusnakova, Viera</displayForm>
+                        <namePart type="family">Rusnakova</namePart>
+                        <namePart type="given">Viera</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Obradovic-Balihodzic, Amina</displayForm>
+                        <namePart type="family">Obradovic-Balihodzic</namePart>
+                        <namePart type="given">Amina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-05-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The Public Health Reform II project was implemented in Bosnia and Herzegovina from December 2011 to December 2013 and was funded by the European Union Aid schema. The principal aim of the project was to strengthen public health services in the country through improved control of public health threats. Workshops for primary care physicians were provided to improve the situation and increase communicable diseases notification rates in eight selected primary care centres. They were followed with visits from the project’s implementing team to verify the effects of trainings.Methods: The quality of notifications from physicians in Tuzla region was compared before and after the workshop. The timeliness was used as an indicator of quality. Medians of timeliness before and after the training were compared by use of Wilcoxon test, whereas the averages of timeliness were compared by use of the t-test.Results: There were 980 reported cases, 80% before the training and 20% after the training. A lower median of timeliness for all the reported cases after the training was statistically significant compared to the median value before the training. A similar picture was revealed for specific diseases i.e. tuberculosis and enteritis, not so for scarlet fever and scabies.Conclusion: The significant reduction in time response between the first symptoms and disease diagnosis indicates the positive impact of the training program in Tuzla. Hence, primary care physicians provided better quality of reported data after the training course.    </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1853</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1853">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1853/1774" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1853" DMDID="DMD_biejournals_1853">
+            <mets:fptr FILEID="FILE0_biejournals_1853"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3283">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schüler*innen werten selbstständig ein Experiment zur Bestimmung der Zellsaftkonzentration (Osmose) aus</title>
+                        <subTitle>Binnendifferenzierung im naturwissenschaftlichen Unterricht durch den Einsatz gestufter Lernhilfen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bekel-Kastrup, Holger</displayForm>
+                        <namePart type="family">Bekel-Kastrup</namePart>
+                        <namePart type="given">Holger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hamers, Philipp</displayForm>
+                        <namePart type="family">Hamers</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kleinert, Svea Isabel</displayForm>
+                        <namePart type="family">Kleinert</namePart>
+                        <namePart type="given">Svea Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haunhorst, Darius</displayForm>
+                        <namePart type="family">Haunhorst</namePart>
+                        <namePart type="given">Darius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Forschungsprojekt „Bielefelder Binnendifferenzierung in den MINT-Fächern“ (BiBi-MINT) am Oberstufen-Kolleg Bielefeld zur Verzahnung von Mathematikunterricht und Naturwissenschaftsunterricht mit gleichzeitigem Fokus auf die Binnendifferenzierung sind unter anderem gestufte Lernhilfen zur Auswertung eines Experimentes zur Bestimmung der Zellsaftkonzentration entwickelt, angewendet und evaluiert worden. Sie sind dazu geeignet, Schüler*innen eigenverantwortlich die Auswertung und Interpretation des Experimentes durchführen zu lassen. Das Untersuchungsprinzip des Experimentes ist das Bestimmen der Masse von Gemüsestreifen vor und nach dem Einlegen in verschieden konzentrierten NaCl-Lösungen. Die Lernhilfen beinhalten dabei sowohl eine wiederholende Hinführung zur Bestimmung der relativen Massendifferenz als auch eine mathematische Auswertung und Bestimmung der Zellsaftkonzentration. Zur Interpretation werden Inhalte der biologischen Unterrichtsreihe zur Osmose vermittelt bzw. wiederholend bearbeitet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3283</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3283">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3283/3434" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3283">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3283/3443" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3283" DMDID="DMD_biejournals_3283">
+            <mets:fptr FILEID="FILE0_biejournals_3283"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3283" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3283"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

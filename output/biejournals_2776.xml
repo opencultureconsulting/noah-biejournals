@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2776">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Youth Criminality and Urban Social Conflict in the City of Rosario, Argentina</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Felice, Celina Del</displayForm>
+                        <namePart type="family">Felice</namePart>
+                        <namePart type="given">Celina Del</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The present article describes and analyses youth criminality in the city of Rosario, Argentina, between 2003 and 2006. Key actors’ understandings of and responses to the conflict were investigated by means of semi-structured interviews, observations, discourse analysis of policy documents, and analysis of secondary data, drawing heavily on the experience of the author, a youth worker in Rosario. The actors examined were the police, the local government, young delinquents, and youth organizations. Youth criminality is analyzed with a conflict transformation approach using conflict analysis tools. Whereas the provincial police understand the issue as a delinquency problem, other actors perceive it as an expression of a wider urban social conflict between those who are “included” and those who are “excluded” and as one of the negative effects of globalization processes. The results suggest that police responses addressing only direct violence are ineffective, even contributing to increased tensions and polarization, whereas strategies addressing cultural and structural violence are more suitable for this type of social urban conflict. Finally, recommendations for local youth policy are proposed to facilitate participation and inclusion of youth and as a tool for peaceful conflict transformation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2776</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2776">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2776/2537" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2776" DMDID="DMD_biejournals_2776">
+            <mets:fptr FILEID="FILE0_biejournals_2776"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

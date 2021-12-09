@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2181">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Masternetzwerk Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seigies, Jörg</displayForm>
+                        <namePart type="family">Seigies</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rumpold, Vanessa</displayForm>
+                        <namePart type="family">Rumpold</namePart>
+                        <namePart type="given">Vanessa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem vorliegenden Artikel wird das &quot;Masternetzwerk Supervision&quot; vorgestellt. Dazu wird zunächst ein Einblick in die Entstehung des Netzwerks und seine Verknüpfung zu dem Masterstudiengang &quot;Supervision &amp;amp; Beratung&quot; an der Universität Bielefeld gegeben. Ferner werden Besonderheiten aufgezeigt sowie Perspektiven formuliert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2181</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2181">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2181/2056" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2181">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2181/2057" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2181" DMDID="DMD_biejournals_2181">
+            <mets:fptr FILEID="FILE0_biejournals_2181"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2181" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2181"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

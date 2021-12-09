@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2777">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>How Insecurity impacts on school attendance and school drop out among urban slum children in Nairobi</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mudege, Netsayi N.</displayForm>
+                        <namePart type="family">Mudege</namePart>
+                        <namePart type="given">Netsayi N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zulu, Eliya M.</displayForm>
+                        <namePart type="family">Zulu</namePart>
+                        <namePart type="given">Eliya M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Izugbara, Chimaraoke</displayForm>
+                        <namePart type="family">Izugbara</namePart>
+                        <namePart type="given">Chimaraoke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper discusses how perceptions of personal security can impact on school enrolment and attendance. It mainly focuses on threats of physical harm, crime, and community and domestic violence. These security fears can include insecurity that children suffer from as they go to school, maybe through the use of unsafe routes; insecurity that children feel at school; and the insecurity they suffer from in their homes. Although poverty can be a source and/or an indicator of insecurity, this paper does not focus solely on poverty as it is well covered elsewhere in the literature. The paper relies on qualitative data col- lected in Korogocho and Viwandani slum areas in Nairobi, Kenya between October and November 2004. The paper analyses data from individual interviews and focus group interviews and focuses on the narrative of slum dwellers on how insecurity impacts on educational attainment. The conclusion in this paper is that insecure neighbourhoods may have a negative impact on schooling. As a result policies that address insecurity in slum neighbourhoods can also improve school attendance and performance.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2777</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2777">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2777/2538" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2777" DMDID="DMD_biejournals_2777">
+            <mets:fptr FILEID="FILE0_biejournals_2777"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

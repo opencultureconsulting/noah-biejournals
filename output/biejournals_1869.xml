@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1869">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>THE </nonSort>
+                        <title>GLOBAL PUBLIC HEALTH CURRICULUM</title>
+                        <subTitle>Specific Global Health Competences</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laaser (editor), Ulrich</displayForm>
+                        <namePart type="family">Laaser (editor)</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The 2nd edition of the Global Public Health Curriculum has been published in the South Eastern European Journal of Public Health, end of 2016 as a special volume (editors Ulrich Laaser &amp;amp; Florida Beluli) at: http://www.seejph.com/index.php/seejph/article/view/106/82. The curriculum targets the postgraduate education and training of public health professionals including their continued professional development (CPD). However, specific competences for the curricular modules remained to be identified in a more systematic approach. To that end from the international literature the following references have been used as a general orientation:A) Armed Forces Medical College (AFMC) Resource Group, GHEC Committee, India: Global health essential core competencies. At: https://lane.stanford.edu/portals/ihealth-pdfs/BasicCore_Competencies_Final2010.pdfB) Dias M. Et al.: Global Health Competencies for UK Health Professionals. TECHNICAL REPORT · SEPTEMBER 2015. At: http://www.researchgate.net/publication/283086441C) Association of Schools and Programs of Public Health (ASPPH): The Global Health Competency model. At: www.aspph.org/educate/models/masters-global-health/D) World Health Organisation (WHO): WHO GLOBAL COMPETENCY MODEL. At: www.who.int/employment/competencies/WHO_competencies_EN.pdfE) Jogerst K et al.: Identifying Interprofessional Global Health Competencies for 21st Century. At: https://www.cfhi.org/sites/files/files/pages/global_health_competencies_article.pdf</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1869</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1869">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1869/1789" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1869" DMDID="DMD_biejournals_1869">
+            <mets:fptr FILEID="FILE0_biejournals_1869"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

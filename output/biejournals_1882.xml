@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1882">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Norms in and between the philosophical ivory tower and public health practice</title>
+                        <subTitle>A heuristic model of translational ethics</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröder-Bäck, Peter</displayForm>
+                        <namePart type="family">Schröder-Bäck</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van Duin, Claire</displayForm>
+                        <namePart type="family">van Duin</namePart>
+                        <namePart type="given">Claire</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brall, Caroline</displayForm>
+                        <namePart type="family">Brall</namePart>
+                        <namePart type="given">Caroline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Scholtes, Beatrice</displayForm>
+                        <namePart type="family">Scholtes</namePart>
+                        <namePart type="given">Beatrice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tahzib, Farhang</displayForm>
+                        <namePart type="family">Tahzib</namePart>
+                        <namePart type="given">Farhang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maeckelberghe, Els</displayForm>
+                        <namePart type="family">Maeckelberghe</namePart>
+                        <namePart type="given">Els</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This paper draws attention to the translation of ethical norms between the theoretical discourses of philosophers and practical discourses in public health. It is suggested that five levels can be identified describing categories of a transferral process of ethical norms – a process we will refer hereto as “translational ethics”. The aim of the described process is to generate understanding regarding how ethical norms come into public health policy documents and are eventually referred to in practice. Categorizing several levels can show how ethical-philosophical concepts such as norms are transforming in meaning and scope. By subdividing the model to five levels, it is suggested that ethical concepts reduce their “content thickness” and complexity and trade this in for practicability and potential consensus in public health discourses from level to level. The model presented here is illustrated by showing how the philosophical-ethical terms “autonomy”, “dignity”, and “justice” are used at different levels of the translation process, from Kant’s and Rawls’ theories (level 1) to, in this example, WHO reports and communications (levels 4 and 5). A central role is seen for what is called “applied ethics” (level 3). </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1882</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1882">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1882/1802" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1882" DMDID="DMD_biejournals_1882">
+            <mets:fptr FILEID="FILE0_biejournals_1882"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

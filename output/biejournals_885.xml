@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_885">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Talking About Sustainability Issues When Teaching Business Economics - The ‘Positioning’ of a Responsible Business Person in Classroom Practice</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andersson, Pernilla</displayForm>
+                        <namePart type="family">Andersson</namePart>
+                        <namePart type="given">Pernilla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This paper presents a study of the roles of a business person privileged by teachers when the concept of ‘sustainable development’ is incorporated into the subject of business economics.Methodology: A logics approach to discourse analysis was used to analyse the empirical material, which consisted of video recorded observations in five teachers’ classrooms collected two years after the inclusion of the concept in the upper secondary school syllabus in Sweden.Findings: The results show how different rules and conditions for doing business are foregrounded in classroom practice. This in turn has different implications for whether a responsible business person is expected to: a) adapt to self-interest, b) respond to customers’ increasing interests in sustainable products, or c) be sensitive to the needs or interests of others (including humans, animals and nature), when making business decisions. The results also illuminate how talking about ‘homo economicus’ as ‘real’ can hinder, how talking about customers in altruistic terms can facilitate, and how talking about the complexity of others’ interests can suggest ways of doing business (more) sustainably.Practical implications: The empirical examples that illuminate the privileging of specific roles could be used for critical reflection in order to make students better equipped to address uncertain and complex sustainability issues.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_885</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_885">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/885/1027" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_885" DMDID="DMD_biejournals_885">
+            <mets:fptr FILEID="FILE0_biejournals_885"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_792">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Argument, Counterargument, and Integration? Patterns of Argument Reappraisal in Controversial Classroom Discussions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gronostay, Dorothee</displayForm>
+                        <namePart type="family">Gronostay</namePart>
+                        <namePart type="given">Dorothee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Being challenged by opposing views in a controversial discussion can stimulate the production of more elaborate and sophisticated argumentations. According to the model of argument reappraisal (Leitão, 2000), such processes require transactivity, meaning that students do not only give reasons to support their own position (e.g., pro/contra argument) but also try to refute the opponent’s claims (e.g., counterargument) and respond to critique (e.g., integration). However, there is little research in the field of political education that systematically examines how processes of argument reappraisal unfold in student-centered classroom discussions when students were asked to defend (randomly) assigned positions (pro/contra). In this study, four civic education classes (8th/9th grade) in Germany received the same standardized political learning unit and conducted a controversial fishbowl discussion. A total of 452 argumentative moves were coded for argumentative transactivity. The characteristics of this type of discourse will be described regarding the use of argumentative moves and the complexity of argumentations. Explorative sequential analyses revealed five patterns of argument reappraisal that will be illustrated by transcript excerpts.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_792</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_792">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/792/865" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_792">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/792/866" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_792" DMDID="DMD_biejournals_792">
+            <mets:fptr FILEID="FILE0_biejournals_792"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_792" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_792"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

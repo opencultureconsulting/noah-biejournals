@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1459">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From National Cultural Paradigms to European/Global Cultural Paradigms</title>
+                        <subTitle>A Copernican Revolution</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Morelli, Umberto</displayForm>
+                        <namePart type="family">Morelli</namePart>
+                        <namePart type="given">Umberto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-10</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">- The polycrisis that the European Union is experiencing calls into question the very essence of the EU itself.
+- Dissemination of national-populist propaganda that feeds the myth of the restoration of national sovereignty, an illusion which is unable to respond to the current challenges.
+- Citizens’ disillusionment with the European Union, which has not met their expectations.
+- Unification can no longer be founded on market and economic criteria alone, rather a sense of belonging to Europe needs to be boosted to make it a point of reference for identity.
+- Shaping the European citizen, who must undertake a Copernican revolution in the paradigms used to interpret the contemporary world, and rethinking what a nation is.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1459</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1459">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1459/2358" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1459" DMDID="DMD_biejournals_1459">
+            <mets:fptr FILEID="FILE0_biejournals_1459"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

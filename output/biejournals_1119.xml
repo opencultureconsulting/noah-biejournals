@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1119">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Next Generation Sequencing (NGS) von DNA</title>
+                        <subTitle>Mehr Informationen durch mehr Daten?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eggermann, Thomas</displayForm>
+                        <namePart type="family">Eggermann</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Söllner, Lukas</displayForm>
+                        <namePart type="family">Söllner</namePart>
+                        <namePart type="given">Lukas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kurth, Ingo</displayForm>
+                        <namePart type="family">Kurth</namePart>
+                        <namePart type="given">Ingo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eggermann, Katja</displayForm>
+                        <namePart type="family">Eggermann</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Begemann, Matthias</displayForm>
+                        <namePart type="family">Begemann</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-18</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Next Generation Sequencing (NGS) ermöglicht als Hochdurchsatzverfahren die umfassende Analyse des menschlichen Genoms. Entwicklung und diagnostischer Einsatz des NGS sind aber mit bioinformatischen und ethischen Herausforderungen verbunden. Der Beitrag beschreibt die Methodik, erläutert Chancen und Herausforderungen und zeigt anhand der nicht-invasiven pränatalen Testung (NIPT) und eines klinischen Fallbeispiels aktuelle spezifische Anwendungen und Probleme des NGS auf.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1119</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1119">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1119/1199" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1119" DMDID="DMD_biejournals_1119">
+            <mets:fptr FILEID="FILE0_biejournals_1119"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

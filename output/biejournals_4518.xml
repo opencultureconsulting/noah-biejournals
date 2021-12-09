@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4518">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Digitalisierung in der Fachliteratur zum Lehrer*innenberuf</title>
+                        <subTitle>Eine Bestandsaufnahme und Verhältnisbestimmung mittels critical review</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Digitalization in Scientific Literature on the Teaching Profession</title>
+                        <subTitle>Stocktaking and Relationing by Means of a Critical Review</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Binder, Karen</displayForm>
+                        <namePart type="family">Binder</namePart>
+                        <namePart type="given">Karen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cramer, Colin</displayForm>
+                        <namePart type="family">Cramer</namePart>
+                        <namePart type="given">Colin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Digitalisierung im Lehrer*innenberuf erfährt seit Beginn der Corona-Pandemie in Wissenschaft und Öffentlichkeit eine noch stärkere Aufmerksamkeit. Bislang ist aber weitgehend ungeklärt, was in der einschlägigen Fachliteratur konkret unter dem Begriff und Gegenstand der Digitalisierung verstanden wird. Dieser Beitrag fragt danach, welche begrifflichen Konnotationen und gegenstandsbezogenen Bestimmungen in der Diskussion prominent sind und wie Digitalisierung theoretisch gerahmt wird. Anhand einer critical review wird ein heuristischer Überblick zum Begriffsgebrauch und Gegenstand gegeben. Im Ergebnis zeigt sich, dass die Diskussion auf digitale Kompetenzen von Lehrpersonen oder auf technische Aspekte enggeführt wird und eine Ausweitung des Diskurses zu einer gewinnbringenden Perspektivenerweiterung führen kann.</abstract>
+                    <abstract lang="eng">Since the outbreak of the corona pandemic, digitalization in the teaching profession has gained even greater attention. So far, it is unclear what the term and scope denote when used in relevant literature. This article enquires about prominent conceptual connotations, subject related designations, and theoretical framing. On the basis of a critical review, a heuristic overview over term usage and scope is given. The results show that the discourse is restricted to digital competencies of teachers or technical aspects. An extended and broader discussion could open up new and enhancing perspectives.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4518</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4518">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4518/4580" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4518" DMDID="DMD_biejournals_4518">
+            <mets:fptr FILEID="FILE0_biejournals_4518"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

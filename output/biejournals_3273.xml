@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3273">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Past and present of social science education in Hungary</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Hungary</title>
+                        <subTitle>Past and present of social science education in Hungary</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dancs, Katinka</displayForm>
+                        <namePart type="family">Dancs</namePart>
+                        <namePart type="given">Katinka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fülöp, Márta</displayForm>
+                        <namePart type="family">Fülöp</namePart>
+                        <namePart type="given">Márta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: We intent to provide a comprehensive picture of Hungarian social science education, to review the constituents of social science literacy, a systematic analysis of the curriculum and its changes since 1989 and of the available research in this field.
+Design/methodology/approach: The findings are based on the analysis of educational documents (e. g. curricula) and the review of the research publications in the field.
+Findings: Social science education is cross-curricular in Hungary. Among the different knowledge fields history has a decisive and dominant role. Other social science topics are mostly abandoned in everyday teaching practice. There is a growing centralization of the educational arena (e.g. government approved limited number of textbooks) and a growing emphasis on national identity and patriotism and a decreasing emphasis on Europe. The cross-curricular nature of social science education would require well trained teachers who are able to think critically and in a complex way themselves, however teacher training and classroom practice also support the hegemony of history teaching.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3273</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3273">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3273/3544" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3273" DMDID="DMD_biejournals_3273">
+            <mets:fptr FILEID="FILE0_biejournals_3273"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

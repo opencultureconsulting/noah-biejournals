@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_295">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civic Education around the World</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Händle, Christa</displayForm>
+                        <namePart type="family">Händle</namePart>
+                        <namePart type="given">Christa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Henkenborg, Peter</displayForm>
+                        <namePart type="family">Henkenborg</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Young people&apos;s distance from politics is seen as a central problem of democratic societies. Compared to the first IEA-study in the era of political mobilization during the early seventies the results for today&apos;s young Germans are worse. Regarding political knowledge, the results for young Germans are mediocre; conspicuous and alarming is the unwillingness of German youngsters to participate in school, politics and society. These results can be explained by using data and relations found by the international comparative project Civic Education about the specific meaning of conditions and results of political education in different school systems and societies. This paper discusses several results and questions and shows that one-dimensional explanations are hardly possible in the complex field of political education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_295</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_295">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/295/292" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_295" DMDID="DMD_biejournals_295">
+            <mets:fptr FILEID="FILE0_biejournals_295"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

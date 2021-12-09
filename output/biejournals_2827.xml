@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2827">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ideological Configurations and Prediction of Attitudes toward Immigrants in Chile and Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Carvacho, Héctor</displayForm>
+                        <namePart type="family">Carvacho</namePart>
+                        <namePart type="given">Héctor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The concept of ideological configuration is proposed to refer to a complex of ideological attitudes – Right-Wing Authoritarianism (RWA) and Social Dominance Orientation (SDO) – based on a shared core of derogation of outgroups. This concept is used in two surveys, in Chile and in Germany, to predict attitudes toward foreigners. Analyses using structural equation modeling (SEM) showed that a second-order factor involving RWA and SDO predicts hostility toward foreigners in Germany and affection toward Peruvian and Argentinean immigrants in Chile. This prediction was stronger in Germany than in Chile. The difference in strength is discussed in terms of the kind of measurements, different contexts of migration, and characteristics of the immigrants. Further research using the concept of ideological configuration is proposed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2827</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2827">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2827/pdf_1" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2827" DMDID="DMD_biejournals_2827">
+            <mets:fptr FILEID="FILE0_biejournals_2827"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

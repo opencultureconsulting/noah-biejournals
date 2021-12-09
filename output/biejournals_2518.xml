@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2518">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aufgabenstellungen sprachsensibel aufschlüsseln</title>
+                        <subTitle>Ein Vorschlag zur sprachlichen und fachlichen Aufbereitung von Operatoren im Geschichtsunterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zörner, Anika</displayForm>
+                        <namePart type="family">Zörner</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Must, Thomas</displayForm>
+                        <namePart type="family">Must</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die integrierte Vermittlung von sprachlichen und fachlichen Inhalten im Unterricht wird mittlerweile sowohl in der universitären Lehrer_innenbildung als auch in der Schule verstärkt thematisiert. Ein zentrales Thema dabei ist insbesondere auch die sprachsensible Gestaltung von Aufgabenstellungen. Basierend auf dem Konkretisierungsraster von Tajmel und Hägi-Mead (Tajmel, 2011; Tajmel &amp;amp; Hägi-Mead, 2017) wurde ein Instrument für den Geschichtsunterricht entwickelt, mit dem Aufgabenstellungen sowohl sprachsensibel aufbereitet als auch die spezifischen fachlichen Anforderungen dezidiert herausgearbeitet werden können. Das Instrument, welches im vorliegenden Beitrag vorgestellt wird, eignet sich für den Einsatz in der sprachsensiblen Unterrichtsvorberei-tung bzw. für die Aus- und Weiterbildung von (angehenden) Lehrkräften.</abstract>
+                    <abstract lang="eng">Language-based strategies in subject matter teaching to foster L2 learners is increasingly being addressed both in university teacher education and in schools. A central topic here is the language-based work with tasks. Based on the “Konkretisierungsraster” of Tajmel (Tajmel, 2011; Tajmel &amp;amp; Hägi-Mead, 2017) an instrument for history teaching has been developed, which allows working with tasks in such a way that language facilitation within subject matter teaching is pos-sible. The instrument is suitable for the use of language-based strategies in subject matter teaching as well as for the training and further education of (pre-service) teachers.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2518</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2518">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2518/3272" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2518" DMDID="DMD_biejournals_2518">
+            <mets:fptr FILEID="FILE0_biejournals_2518"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

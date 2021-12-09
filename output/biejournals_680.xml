@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An Ideological and Political Lesson from China</title>
+                        <subTitle>The Impact of Price Fluctuations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Changqing, Liu</displayForm>
+                        <namePart type="family">Changqing</namePart>
+                        <namePart type="given">Liu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jianqiang, Guo</displayForm>
+                        <namePart type="family">Jianqiang</namePart>
+                        <namePart type="given">Guo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ping, Ren</displayForm>
+                        <namePart type="family">Ping</namePart>
+                        <namePart type="given">Ren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Ideological and Political courses are compulsory lessons for Chinese students throughout their schooling, which also are taken for granted as Citizenship Education courses by the authority. What&apos;s the real state of the lesson? Here we show you one example of the lesson.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_680</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_680">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/680/726" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_680" DMDID="DMD_biejournals_680">
+            <mets:fptr FILEID="FILE0_biejournals_680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

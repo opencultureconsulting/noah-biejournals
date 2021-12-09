@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2388">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rollenspiel zur Rollenklärung – Filmbeispiel und methodisch-didaktische Hinweise zur universitären Professionalisierung für Kooperation in inklusiven Ganztagsschulen</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Rollenspiel zur Rollenklärung – Filmbeispiel und methodisch-didaktische Hinweise zur universitären Professionalisierung für Kooperation in inklusiven Ganztagsschulen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hopmann, Benedikt</displayForm>
+                        <namePart type="family">Hopmann</namePart>
+                        <namePart type="given">Benedikt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Urban, Melanie</displayForm>
+                        <namePart type="family">Urban</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Multiprofessionelle Kooperation wird zunehmend als Thema der universitären Ausbildungsphase verhandelt. Gleichzeitig stellen Rollenklärungsprozesse eine zentrale Herausforderung dar. Für den Einsatz in der Lehre wurde ein Rollenspiel-Film entwickelt, der Rollenklärungsprozesse thematisiert und die Studierenden zum Austausch darüber einlädt. Schließlich sollen Reflexionsprozesse hinsichtlich der eigenen Professionalisierung für Kooperation in inklusiven Ganztagschulen angeregt werden, um die Entwicklung kooperativer Kompetenzen zu begünstigen.</abstract>
+                    <abstract lang="eng">Multi-professional cooperation is increasingly being discussed as a topic of the university education phase. At the same time, role clarification processes are a key challenge. A role-playing film has been developed for usein university teaching, which focuses on role-clarification processes and invites students to exchange views on them. Finally, reflection processes regarding their own professionalisation for cooperation in inclusive All-Day Schools should be encouraged in order to foster the development of cooperative competences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2388</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2388">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2388/2382" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE1_biejournals_2388">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2388/2383" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2388" DMDID="DMD_biejournals_2388">
+            <mets:fptr FILEID="FILE0_biejournals_2388"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2388" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2388"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

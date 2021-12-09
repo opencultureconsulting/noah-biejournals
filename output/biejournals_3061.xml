@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3061">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Cohesion Activities and Attitude Change in Cyprus</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kanol, Direnç</displayForm>
+                        <namePart type="family">Kanol</namePart>
+                        <namePart type="given">Direnç</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-06-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Do social cohesion activities change the attitudes of the participants? This paper uses intergroup contact theory to explore attitude change resulting from contact with out-group(s) in social cohesion activities. Results from a pre-test/post-test design with fifty-five participants in two bicommunal camps in Cyprus show how attitudes change at the immediate end of these activities; an analysis of fourteen participants’ comments after one, thirteen, and twenty-five months provides a medium- to long-term assessment of attitude change. Not all participants were completely positive towards the other community before they took part, as assumed by some. There is clearly space for impact in terms of attitude change. Social cohesion activities represent indispensable tools for reducing prejudice and improving relationships between former enemies in post-conflict countries.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3061</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3061">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3061/pdf_110" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3061">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3061/_2" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3061">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3061/_3" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3061" DMDID="DMD_biejournals_3061">
+            <mets:fptr FILEID="FILE0_biejournals_3061"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3061" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3061"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3061" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3061"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

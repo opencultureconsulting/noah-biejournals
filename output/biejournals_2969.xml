@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2969">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Economic Prosperity as “Narcissistic Filling”</title>
+                        <subTitle>A Missing Link Between Political Attitudes and Right-wing Authoritarianism</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Decker, Oliver</displayForm>
+                        <namePart type="family">Decker</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rothe, Katharina</displayForm>
+                        <namePart type="family">Rothe</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weissmann, Marliese</displayForm>
+                        <namePart type="family">Weissmann</namePart>
+                        <namePart type="given">Marliese</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kiess, Johannes</displayForm>
+                        <namePart type="family">Kiess</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brähler, Elmar</displayForm>
+                        <namePart type="family">Brähler</namePart>
+                        <namePart type="given">Elmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An expanded analysis of the origin of the correlation with economic deprivation found in the authors’ representative surveys of right-wing extremist attitudes (such as racism, anti-Semitism, and chauvinism), focusing on the underlying dynamics in Germany and the historical aspect of National Socialism. The growing prosperity of the West German “economic miracle” of the 1950s served a psychosocial “filling function” to block the narcissistic damage caused by confrontation with past crimes and the sense of the nation’s loss of greatness. As this prosperity vanishes for many people during the current economic crisis, the filling comes out and the narcissistic wound opens up. What emerges is both what lies underneath and what has been serving as a defense against it, which involve authoritarian dynamics. Initially, the metaphor of “narcissistic filling” will be developed through our analysis of group discussions conducted as part of our qualitative study (of 2008). The developed hypotheses will thereafter be introduced to our following representative survey (of 2010) and confirmed by means of quantitative methods.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2969</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2969">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2969/pdf_85" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2969">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2969/2883" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2969" DMDID="DMD_biejournals_2969">
+            <mets:fptr FILEID="FILE0_biejournals_2969"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2969" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2969"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

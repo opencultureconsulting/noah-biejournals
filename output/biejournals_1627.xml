@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1627">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vorstellungen von Grundschüler/-innen der vierten Klassenstufe zur Entstehung der Welt, des Lebens und des Menschen. Erschwert eine religiöse Sozialisation grundsätzlich den Erwerb von naturwissenschaftlichen Konzepten?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Poschadel, Laura</displayForm>
+                        <namePart type="family">Poschadel</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rieß, Werner</displayForm>
+                        <namePart type="family">Rieß</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZUSAMMENFASSUNGUm einen wirksamen schülerorientierten Unterricht zum Themenfeld Evolution, Schöpfung, Erdgeschichte und Entstehung der Welt gestalten zu können, ist es wichtig, vorhandene Schülervorstellungen zu kennen. Das Ziel der vorliegenden Studie ist eine quantitative Erhebung von Vorstellungen von 89 Viertklässlern zur Entstehung der Welt, des Lebens und des Menschen sowie zu Evolution und Schöpfung. Es wurde ein Fragebogen mit 16 Items konstruiert und getestet. Die Ergebnisse zeigen, dass die Schülervorstellungen zum genannten Themenfeld soziokulturell geprägt sind und sich in Abhängigkeit von der religiösen Sozialisation (d.h. der Religions- bzw. Konfessionszugehörigkeit) unterscheiden. Dabei ist es aber weder so, dass alle Kinder mit einer Zugehörigkeit zu einer Religionsgemeinschaft grundsätzlich einer gemeinsamen Abstammung kritisch gegenüberstehen, noch so, dass Kinder ohne Religionszugehörigkeit die Vorstellung eines Schöpfergottes (einer Schöpfung) pauschal ablehnen. Die in dieser Studie vorgestellten Erkenntnisse sind wichtig in Bezug auf die zu erwartenden Herausforderungen im naturwissenschaftlichen Sachunterricht. Dieser erfordert ein hohes Maß an Sensibilität im Hinblick auf die unterschiedlichen Vorstellungen sowie die weltanschauliche Vielfalt und muss gleichzeitig das Ziel verfolgen, fachlich belastbares Wissen zu vermitteln.ABSTRACTIn order to design a student-orientated teaching in themes of evolution, creation, geological history and the origin of the world, existing students` conceptions must become transparent. The aim of the present study is the quantitative survey of conceptions of 89 fourth graders concerning the origin of the earth, of life and of man as well as evolution and creation. For this purpose, a questionnaire with 16 items was constructed and tested. The results show that the pupils’ conceptions on the mentioned topic are socio-cultural shaped and differ depending on religious socialization (i.e. religious affiliation). However, it is not the case that all children belonging to a religious community would fundamentally be critical of a common descent. Nor is it the case that children without religious affiliation would flatly reject the idea of a creator god (a creation). The findings presented in this study are important in relation to the expected challenges in science education and religious education. Such instruction requires a high degree of sensitivity with regard to the different ideas and the underlying worldviews. Nevertheless, the goal must be to provide the relevant scientific knowledge about the origin of the world and of life.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1627</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1627">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1627/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1627" DMDID="DMD_biejournals_1627">
+            <mets:fptr FILEID="FILE0_biejournals_1627"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

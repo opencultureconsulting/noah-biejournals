@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_299">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Comparative Findings from the IEA Civic Study and Their Impact on the Improvement of Civic Education in Australia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mellor, Suzanne</displayForm>
+                        <namePart type="family">Mellor</namePart>
+                        <namePart type="given">Suzanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The IEA Civic Education Study occurred in a context of little formal civics curricula in Australian schools. The paper compares some Australian data with that from England and the USA. Comparative Civic Knowledge data emphasise the finding that students do learn civics in school and that the kind of delivery does affect student learning outcomes. The comparative data on Civic Engagement indicate that more positive civic attitudes about engagement co-exist with greater civic knowledge. They also indicate that formal provision of civic education makes a difference to civic attitudes. Teacher data demonstrated the need for more training in civics, especially in the contested nature of the field. Teachers did not show an appreciation that encouraging decision-making in schools might increase student engagement in democracy more generally. The paper argues that pedagogic and administrative strategies to address decision-making and other civic competencies are crucial to the engagement of students in schools and to their future engagement in the wider society.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_299</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_299">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/299/296" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_299" DMDID="DMD_biejournals_299">
+            <mets:fptr FILEID="FILE0_biejournals_299"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

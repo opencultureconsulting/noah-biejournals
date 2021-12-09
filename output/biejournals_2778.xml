@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2778">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>How Neighborhood Disadvantage Reduces Birth Weight</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Moiduddin, Emily</displayForm>
+                        <namePart type="family">Moiduddin</namePart>
+                        <namePart type="given">Emily</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Massey, Douglas S.</displayForm>
+                        <namePart type="family">Massey</namePart>
+                        <namePart type="given">Douglas S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In this analysis we connect structural neighborhood conditions to birth outcomes through their intermediate effects on mothers&amp;rsquo; perceptions of neighborhood danger and their tendency to abuse substances during pregnancy. We hypothesize that neighborhood poverty and racial/ethnic concentration combine to produce environments that mothers perceive as unsafe, thereby increasing the likelihood of negative coping behaviors (substance abuse). We expect these behaviors, in turn, to produce lower birth weights. Using data from the Fragile Families and Child Wellbeing Study, a survey of a cohort of children born between 1998 and 2000 and their mothers in large cities in the United States, we find little evidence to suggest that neighborhood circumstances have strong, direct effects on birth weight. Living in a neighborhood with more foreigners had a positive effect on birth weight. To the extent that neighborhood conditions influence birth weight, the effect mainly occurs through an association with perceived neighborhood danger and subsequent negative coping behaviors. Poverty and racial/ethnic concentration increase a mother&amp;rsquo;s sense that her neighborhood is unsafe. The perception of an unsafe neighborhood, in turn, associates with a greater likelihood of smoking cigarettes and using illegal drugs, and these behaviors have strong and significant effects in reducing birth weight. However, demographic characteristics, rather than perceived danger or substance abuse, mediate the influence of neighborhood characteristics on birth weight.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2778</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2778">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2778/2539" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2778" DMDID="DMD_biejournals_2778">
+            <mets:fptr FILEID="FILE0_biejournals_2778"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

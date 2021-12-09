@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4445">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>National health systems strengthening as the primary strategy to achieve Universal Health Coverage in African countries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Elhadi, Yasir Ahmed Mohammed</displayForm>
+                        <namePart type="family">Elhadi</namePart>
+                        <namePart type="given">Yasir Ahmed Mohammed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adebisi, Yusuff Adebayo</displayForm>
+                        <namePart type="family">Adebisi</namePart>
+                        <namePart type="given">Yusuff Adebayo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abel, Uchechukwu Victor</displayForm>
+                        <namePart type="family">Abel</namePart>
+                        <namePart type="given">Uchechukwu Victor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Daniel , Ekpoh Mfonobong</displayForm>
+                        <namePart type="family">Daniel </namePart>
+                        <namePart type="given">Ekpoh Mfonobong</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zaghloul , Ashraf</displayForm>
+                        <namePart type="family">Zaghloul </namePart>
+                        <namePart type="given">Ashraf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lucero-Prisno III, Don Eliseo</displayForm>
+                        <namePart type="family">Lucero-Prisno III</namePart>
+                        <namePart type="given">Don Eliseo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Africa is the second largest continent and has its socioeconomic and health peculiarities. Countries are faced with varying challenges towards its Universal Health Coverage (UHC) achievement and hence the region requires health system reforms to drive equitable and balanced medical services to its populace. The main objectives of the paper were to explore the complexities of the African health systems, subsequently highlighting major challenges to UHC and to provide a framework for strategic approaches to health system strengthening to ensure realization of UHC. Information presented in this paper was collected from published literature and reports on Rwanda, Kenya, Nigeria, Tanzania, Ghana, Tunisia, Democratic Republic of Congo, Zambia, Egypt and South Africa, amidst other African countries. The published literature points to the presence of a somewhat slow progress towards UHC or at least an existent knowledge of it. However, common challenges faced can be grouped into 1) Financial constraints which include low levels of government expenditure on health and increased out-of-pocket percentages, (2) Lack of coverage of key services which includes majorly immunization rates and existence of health insurance for citizens, (3) Input constraints ranging from drug availability to skilled healthcare workforce, information and research and (4) Lack of political support and commitment&amp;nbsp;towards universal health coverage. To overcome the above-stated constraints, two broad groups of interventions were identified; General interventions largely focusing on reprioritization of health budget, quality and improved services, equipped facilities and efficient social protection systems; and Specific interventions which emphasizes the importance of eliminating shortage of health workers, ensuring availability of essential medicines/ products, embracing decentralization at supply chain management, validating data/ information system and advocacy for impactful health education/promotion. Although there will be strength and weakness for whatever reforms adopted, implementation is totally contextual and contingent upon countries&apos; specific health system bottlenecks.
+&amp;nbsp;
+Sources of Funding 
+None
+&amp;nbsp;
+Conflicts of Interest 
+The authors declare no conflict of interest
+&amp;nbsp;
+Acknowledgement 
+We would like to thank Dr. AugustinoTing Mayai for assistance and mentorship</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4445</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4445">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4445/4285" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4445" DMDID="DMD_biejournals_4445">
+            <mets:fptr FILEID="FILE0_biejournals_4445"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

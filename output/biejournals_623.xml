@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_623">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What contribution can the humanities and social sciences make to career guidance in general and vocational lycées? The case of economics in year one of lycée</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richit, Nathalie</displayForm>
+                        <namePart type="family">Richit</namePart>
+                        <namePart type="given">Nathalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In accordance with the 2008 Resolution of the Council of the European Union on “Better integrating lifelong guidance into lifelong learning strategies”, the reform of French lycées has included career guidance among its priorities. This reform, which was implemented in 2010, includes lessons on exploring economics for all students in year one (seconde) of the French three-year lycée. Will this new feature help to promote career guidance? This research aims to show that academic and vocational guidance is socially controversial, and that the two year one programmes on economics, “SES” (social and economic sciences) and “PFEG” (basic principles of economics and management), provide knowledge and skills from the humanities and social sciences that are useful for the guidance of year one students, even if the teachers involved do not feel directly involved in assisting with career guidance. As career guidance is not a discipline, will effective teachers be those who are able to distinguish between “knowledge that” and “knowledge for”?</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_623</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_623">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/623/629" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_623" DMDID="DMD_biejournals_623">
+            <mets:fptr FILEID="FILE0_biejournals_623"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

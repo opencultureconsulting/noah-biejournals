@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_439">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Escaping the Disenchantment Trap</title>
+                        <subTitle>The Effects of a Tailored Campaign on Motivation and Participation of Young German Voters</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rössler, Patrick</displayForm>
+                        <namePart type="family">Rössler</namePart>
+                        <namePart type="given">Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Youth surveys permanently prove a general disenchantment with politics and politicians, leading to a decrease in participation and, as a consequence, a drop in voter turnout. Threatening the foundations of our democratic society, it is assumed that one way to get out of this vicious circle can be to enhance motivation and self-efficacy among young adults. This study looks at the potential of tailored campaigns that make politics visible for first-time voters, in order to increase their knowledge about current affairs, interest in political issues, and, subsequently, the willingness to vote. On occasion of the elections held for both the State and the European parliament in 2004, effects of a specially designed campaign were tested in a quasi-experimental design. 128 students of different high schools and vocational schools in the German state Thuringia obtained a 90-minute course unit on the election’s background, including a major part that required the visualization of politics in a wall newspaper. Results indicate that a singular intervention is not able to counteract disenchantment with politics in general, but to raise short-term intentions to go to the polls.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_439</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_439">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/439/436" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_439" DMDID="DMD_biejournals_439">
+            <mets:fptr FILEID="FILE0_biejournals_439"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

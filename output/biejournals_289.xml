@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_289">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civic Education in Portugal</title>
+                        <subTitle>Curricular Evolutions in Basic Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-11-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2001</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This paper focuses on the curricular evolutions of civic education in Portugal with particular reference to two major turning points: the Curricular Reform of 1989, that instituted Personal and Social Education as an area of basic education, and the Curricular Reorganisation of Basic Education of 2001, that states Citizenship Education as a major goal. The debates surrounding these curricular changes include the discussion not only the curricular strategies privileged (e.g., cross-disciplinary dissemination, specific subject, non-disciplinary space), but also the concept of what civic education should be about (e.g., restricted to moral-values education vs. emphasising knowledge, attitudes and competencies). The current situation and prospects for the future are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_289</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_289">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/289/286" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_289" DMDID="DMD_biejournals_289">
+            <mets:fptr FILEID="FILE0_biejournals_289"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

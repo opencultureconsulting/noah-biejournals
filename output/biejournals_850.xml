@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_850">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Inspecting School Social Quality</title>
+                        <subTitle>Assessing and Improving School Effectiveness in the Social Domain</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dijkstra, Anne Bert</displayForm>
+                        <namePart type="family">Dijkstra</namePart>
+                        <namePart type="given">Anne Bert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Daas, Remmert</displayForm>
+                        <namePart type="family">Daas</namePart>
+                        <namePart type="given">Remmert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>De la Motte, Per Ingvar</displayForm>
+                        <namePart type="family">De la Motte</namePart>
+                        <namePart type="given">Per Ingvar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ehren, Melanie</displayForm>
+                        <namePart type="family">Ehren</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: School inspection of school social quality is, in contrast to inspection in the cognitive domain, still in its early phase of development. While schools are shown to affect social outcomes, the interplay of mechanisms makes it difficult to isolate the effect of the school. This paper aims to evaluate different approaches to inspecting school social quality.Methodology: Based on a school effectiveness model, we consider what aspects could be taken into consideration to evaluate school social quality.Findings and implications: Using insights from inspection of cognitive outcomes, we present three ideal-type models of inspection, focusing on outcomes, school improvement, or process. There is as of yet no clear best approach to inspecting school social quality, as inspection of school quality can influence school performance in a range of ways. Implications of the described models and possible strengths and weaknesses are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_850</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_850">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/850/963" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_850" DMDID="DMD_biejournals_850">
+            <mets:fptr FILEID="FILE0_biejournals_850"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

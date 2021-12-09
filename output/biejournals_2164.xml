@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2164">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision in der Pflege</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ähnlich wie die Supervision im Kontext von Sozialer Arbeit, hat auch die Supervision in der Pflege, der Altenpflege, der ambulanten Pflege und die Supervision im Krankenhaus Konjunkturen durchlaufen. Ähnlich wie bei der Supervision in der Sozialen Arbeit ist Supervision in der Pflege heute eine Supervision über die Auseinandersetzungen um Arbeitsbedingungen, beruflichen Stress, Ökonomie und Zeit. In allen Bereichen des Sozialen sind die Uhren an die Beschleunigung angepasst worden. Therapie - geht heute vor allem als Kurztherapie, ein Krankenhausaufenthalt nach Fallpauschalen heißt Verkürzung der Liegezeit, Belegungsmanagement und eine durchrationalisierte Aufnahme und Entlassung. Mit dem Pflegeversicherungsgesetz hat die Gesellschaft die Altenhilfe ebenfalls an ihre Uhren angepasst und signifikant beschleunigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2164</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2164">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2164/2031" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2164" DMDID="DMD_biejournals_2164">
+            <mets:fptr FILEID="FILE0_biejournals_2164"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

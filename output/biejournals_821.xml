@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_821">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Constraints and Meaning-Making</title>
+                        <subTitle>Dealing With the Multifacetedness of Social Studies in Audited Teaching Practices</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Strandler, Ola</displayForm>
+                        <namePart type="family">Strandler</namePart>
+                        <namePart type="given">Ola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-03-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2016</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The backdrop of the article is the emergence of an international and politically motivated ambition that aims at standardising the purpose and outcomes of teaching practices via various forms of outcome controls. This ambition of standardisation is discussed in a Swedish context in relation to social studies teaching, which, at its core, has highly diverse and sometimes conflicting aims and purposes. The purpose of the article is to analyse tensions that arise in practice as ten experienced Swedish social studies teachers implement outcome-focused reforms in their teaching, and to critically discuss implications for social studies teaching.Method: Interviews, observations and a conceptual framework built on Paul Ricœur’s discussion on the concept of practical reason has been used to analyse tensions that arose when the teachers implemented standardised tests and grading.Findings: Teaching practices shifted from social studies extrinsic dimensions (emphasising an open and individual understanding from social issues) toward social studies intrinsic dimensions (emphasising knowledge about a predetermined content) as a result of policy changes, teachers meaning-making of the reforms, and in relation to external constraints. In conclusion, it is argued that this shift risks circumscribing tools that can be used to deal with inherently complex subject dimensions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_821</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_821">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/821/918" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_821">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/821/919" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_821">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/821/920" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_821" DMDID="DMD_biejournals_821">
+            <mets:fptr FILEID="FILE0_biejournals_821"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_821" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_821"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_821" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_821"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

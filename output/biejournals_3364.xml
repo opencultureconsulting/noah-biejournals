@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3364">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Interkulturelle Fallgeschichten mit Schulbezug</title>
+                        <subTitle>Critical Incidents für die Ausbildung interkultureller Kompetenz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dähling, Christoph</displayForm>
+                        <namePart type="family">Dähling</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Standop, Jutta</displayForm>
+                        <namePart type="family">Standop</namePart>
+                        <namePart type="given">Jutta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinberger, Alfred</displayForm>
+                        <namePart type="family">Weinberger</namePart>
+                        <namePart type="given">Alfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag stellt drei Fallgeschichten vor, in denen fiktive Studierende des Lehramts bzw. junge Lehrpersonen mit Situationen konfrontiert sind, die aufgrund interkultureller Faktoren konfliktreich sind oder zu werden drohen. Die Fallgeschichten wurden konzipiert unter Einholung interkultureller Vorerfahrungen von Studierenden und mit Bezug auf die Fachliteratur zu diesem Gebiet. Skizziert wird der ursprüngliche Einsatz der Fallgeschichten im Rahmen einer internationalen Hochschulkooperation, bei der mit problemorientierten Gruppensettings gearbeitet wurde, die durch digitale Medien (Videokonferenz, kollaboratives Concept-Mapping, kollaboratives Schreiben) ermöglicht wurden. Der Theorieteil fokussiert die grundsätzliche Bedeutung von interkultureller Kompetenz im Schulkontext. Des Weiteren werden Erfahrungen mit der Fallarbeit und Ideen für die Weiterarbeit berichtet.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3364</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3364">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3364/3493" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3364">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3364/3494" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3364" DMDID="DMD_biejournals_3364">
+            <mets:fptr FILEID="FILE0_biejournals_3364"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3364" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3364"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

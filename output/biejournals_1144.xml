@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1144">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Connectedness and Learning to European and National Identity</title>
+                        <subTitle>Results from Fourteen European Countries</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ziemes, Johanna Fee</displayForm>
+                        <namePart type="family">Ziemes</namePart>
+                        <namePart type="given">Johanna Fee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hahn-Laudenberg, Katrin</displayForm>
+                        <namePart type="family">Hahn-Laudenberg</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abs, Hermann J.</displayForm>
+                        <namePart type="family">Abs</namePart>
+                        <namePart type="given">Hermann J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-23</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Highlights
+
+Fostering national or European identities can be compatible with education for tolerance.
+Social relationships in school are important predictors of national and European identity.
+Formal learning opportunities are especially important for fostering a European identity.
+
+Purpose: The aim of this article is to analyse the concept of national and European identities through multidisciplinary lenses and to examine empirically how schools develop those identities in adolescents.
+&amp;nbsp;Method: The study employs data from the International Civic and Citizenship Education Study 2016. Correlation and regression analyses are conducted with data from over 45,000 students from fourteen different national educational systems. Country-specific weighted statistical analyses are conducted.
+&amp;nbsp;Findings: A combination of perspectives from the fields of psychology, political culture, and civic and citizenship education is useful to reflect upon the dimensions and desirability of overarching identities. Formal learning opportunities are shown to be particularly relevant for fostering a European identity. Positive relationships between students and teachers and between students statistically predict stronger identities.
+&amp;nbsp;Practical implications: Good social relationships at school help to develop national and European identities. Moreover, the development of a European identity especially depends upon its explicit inclusion in the curriculum. Teachers should guide students to reflect on the meaning and content of tolerant and complex national and European identities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1144</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1144">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1144/2360" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1144" DMDID="DMD_biejournals_1144">
+            <mets:fptr FILEID="FILE0_biejournals_1144"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

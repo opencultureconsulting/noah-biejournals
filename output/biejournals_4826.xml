@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4826">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>neue Ära in der funktionellen Genetik</title>
+                        <subTitle>Die Vielfalt genetischer Modellsysteme kommt zurück</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>A </nonSort>
+                        <title>new era in the study of gene functions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bucher, Gregor</displayForm>
+                        <namePart type="family">Bucher</namePart>
+                        <namePart type="given">Gregor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Historisch gesehen wurden viele verschiedene Tiere als genetische Modellsysteme verwendet. Später jedoch konzentrierten sich die Bemühungen auf einige wenige Tierarten, wie z. B. die Fruchtfliege Drosophila melanogaster innerhalb der Insekten. Ein Grund dafür sind praktische Erwägungen wie das Vorhandensein von kurzen Generationszeiten, ganzjähriger Nachkommenschaft und einfacher Haltung. Außerdem führt die gemeinsame Nutzung von Wissen, Techniken und Ressourcen, die in einer Spezies gewonnen wurden, zu starken Synergien. Dies gilt insbesondere für Techniken zur Untersuchung von Genfunktionen, die meist schwer zu etablieren sind. Neue Technologien ermöglichen es nun, die Genfunktion auch bei anderen Arten zu untersuchen, was neue Möglichkeiten in der Wissenschaft und der ökologischen Schädlingsbekämpfung eröffnet. Evolutionäre Fragen zur Genfunktion können gestellt werden, biologische Prozesse, die in der Fruchtfliege nicht vertreten sind, können erforscht werden, und Gene, die in den meisten Tieren vorkommen, die D. melanogaster aber verloren hat, können untersucht werden. Auf diesem Weg eröffnen die neuen Techniken auch den Weg für neue Methoden der artspezifischen Schädlingsbekämpfung wie die Sterile-Insekten-Technik, Gene Drive und RNAi.</abstract>
+                    <abstract lang="eng">Historically, many different animals were used as genetic model systems, but later, efforts focused on very few animal taxa, such as the fruit fly Drosophila melanogaster among insects. This is due to practical considerations such as the existence of a short generation time, the availability of offspring all year round, and the easy, uncomplicated keeping. Furthermore, the joint sharing of knowledge, techniques, and resources gained in one species lead to strong synergies. This is especially true of techniques for gene function studies, which are usually difficult to establish. Now, new technologies allow studying gene function in other species, too, opening up new opportunities in science and ecological pest control. Evolutionary questions on gene function can be asked, biological processes not found in the fruit fly can be studied, and genes present in most animals, but lost in D. melanogaster can be examined. Thus, the new techniques open the way to new methods of species-specific pest control like the sterile insect technique, gene drive and RNAi.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4826</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4826">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4826/4548" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4826" DMDID="DMD_biejournals_4826">
+            <mets:fptr FILEID="FILE0_biejournals_4826"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

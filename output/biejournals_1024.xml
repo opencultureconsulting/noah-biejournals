@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1024">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>»Germans like to quarrel«</title>
+                        <subTitle>Conflict and belonging in German diasporic communities around 1900</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Manz, Stefan</displayForm>
+                        <namePart type="family">Manz</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-06-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Discourses of inclusion and exclusion were an integral part of German nation-building after 1871. The paper shows that they were not confined to the metropole but were, in fact, reciprocated abroad. Selected instances of conflict within German migrant communities around the world are taken as a springboard to analyze public contestations of (trans-)national belonging. The sources abound with gossip, aggressive bickering, and official complaints to authorities. Contentious issues cover the areas of politics, religion, class, and language. The case studies engage critically with a number of wider issues. First, they question contemporaneous interpretations of an Imperial diaspora as a unified and Heimat-oriented block. Second, on a theoretical level the article argues that internal ruptures are constitutive elements of diaspora construction and should be considered in concomitant theorizations. Third, the case studies highlight the close connection between diaspora and nation-building. Fourth, the discourses studied took place not only within communities, but also between them, as well as with the metropole, all in multi-directional ways. Questions of belonging were discussed around the world with strikingly similar arguments and terminology. Globalization was at work at the discourse level.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1024</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1024">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1024/1132" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1024" DMDID="DMD_biejournals_1024">
+            <mets:fptr FILEID="FILE0_biejournals_1024"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

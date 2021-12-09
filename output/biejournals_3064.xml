@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3064">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Xenophobic Violence and the Manufacture of Difference in Africa</title>
+                        <subTitle>Introduction to the Focus Section</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fourchard, Laurent</displayForm>
+                        <namePart type="family">Fourchard</namePart>
+                        <namePart type="given">Laurent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Segatti, Aurelia</displayForm>
+                        <namePart type="family">Segatti</namePart>
+                        <namePart type="given">Aurelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Over the past decade, the exploration of xenophobia, particularly of the violence xenophobia may unleash and its related effects on citizenship outside of Western Europe, has been limited. If there is a large body of research on autochthony and xenophobic practices in a number of African countries, much less is known on the outcomes of xenophobic violence and how it reshapes the making of authority, the self-definition of groups making claims to ownership over resources and the boundaries of citizenship. Analyses of collective violence in Africa have devoted much attention to conflict over land ownership, civil wars or vigilantism while quantitative studies have placed much emphasis on putative difference between labelled groups in the production of “ethnic violence”. Inthis issue, we understand autochthony, nativism and indigeneity as local concepts used by actors in situations of xenophobia. Xenophobia is consequently understood as the systematic construction of strangers as a threat to the local or national community justifying their exclusion and sometimes their suppression. Drawing on extensive empirical research undertaken over the past four years across three countries (Kenya, Nigeria, and South Africa), this issue intends to offer renewed analysis on the understanding of xenophobic violence focusing on local and urban scales using historical and ethnographic methods. Focusing on micro-level qualitative research helps avoid reflecting a monolithic image of the “state”, “society” or “community” and underestimating internalstruggles among elites in the production of violence; it also helps contesting analyses which exclusively look at violence inflicted on behalf of a group claiming to share an exclusive identity; it eventually allows to reconsider how processes of violent exclusion are contested, disputed, ignored or fought against by a number of actors.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3064</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3064">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3064/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3064">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3064/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3064" DMDID="DMD_biejournals_3064">
+            <mets:fptr FILEID="FILE0_biejournals_3064"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3064" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3064"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

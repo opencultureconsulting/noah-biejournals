@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Wie finde ich aus der Aussichtslosigkeit?“ - Eine moderne Berufsbiographie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heitmann, Tina</displayForm>
+                        <namePart type="family">Heitmann</namePart>
+                        <namePart type="given">Tina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Berufliche Biografien entwickeln sich unterschiedlich und in Abhängigkeit von demografischem Wandel, geschlechtsspezifischer Sozialisation, Klassenzugehörigkeit, Habitus, Migrationshintergrund, Bildungschancen etc. Sie unterliegen Trends der Arbeitswelt, gesellschaftlichem Wandel, Teilhabechancen und individuellen Handlungsgrenzen. Karrierewege verlaufen nicht länger linear und rein vertikal, sondern immer stärker auch horizontal. Anforderungen und Erwartungen verändern sich, Selbstoptimierung tritt immer weiter in den Vordergrund. Daraus entsteht mitunter Leidensdruck, sofern es dem Einzelnen nicht gelingt, sich selbst für den Arbeitsmarkt ausreichend zu optimieren, sich bestmöglich zu positionieren, oder zwischen bewahren und verändern eine Balance zu schaffen. In der Supervision ist es daher wichtig, sich nicht nur mit dem Auslöser für das Aufsuchen der Beratung, also dem akuten Problem, zu beschäftigen, sondern dieses einzubetten in den Kontext von Gesellschaft, Institution und eigener Biografie.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2341</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2341">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2341/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2341">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2341/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2341" DMDID="DMD_biejournals_2341">
+            <mets:fptr FILEID="FILE0_biejournals_2341"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2341" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2341"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

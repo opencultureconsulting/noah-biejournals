@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2090">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Stress und &quot;StRess-Moderator&quot; in der stationären Altenpflege - Ergebnisse eines Modellprojekts zur betrieblichen Gesundheitsförderung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siller, Gertrud</displayForm>
+                        <namePart type="family">Siller</namePart>
+                        <namePart type="given">Gertrud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der &quot;StRess.Moderator&quot; ist ein Instrument zur Analyse und moderierten Bearbeitung von Stressoren und Ressourcen in Organisationen, das in der Bundesrepublik Deutschland im Rahmen eines Modellprojektes in den Jahren 2005 bis 2007 erstmalig eingesetzt wurde. Zielgruppe waren Pflegekräfte in zehn Einrichtungen der stationären Altenpflege in Ostwestfalen-Lippe. Vorgestellt werden mit diesem Projektbericht sowohl die konzeptionelle Anlage des Instruments als auch zentrale Ergebnisse seines Einsatzes in der stationären Altenpflege. Am Schluss des Beitrags stehen resümierende Erfahrungen mit dem &quot;StRess.Moderator&quot; und ein Plädoyer für seine Verknüpfung mit Maßnahmen der Weiterbildung und Beratung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2090</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2090">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2090/1957" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2090" DMDID="DMD_biejournals_2090">
+            <mets:fptr FILEID="FILE0_biejournals_2090"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

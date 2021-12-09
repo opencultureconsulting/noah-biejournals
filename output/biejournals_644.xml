@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_644">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of Economic Crises on the Perception and Knowledge Level of Students Regarding Economic and Financial Concepts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pliakis, Iraklis</displayForm>
+                        <namePart type="family">Pliakis</namePart>
+                        <namePart type="given">Iraklis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Digkas, Christos</displayForm>
+                        <namePart type="family">Digkas</namePart>
+                        <namePart type="given">Christos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bousiou-Makridou, Despoina</displayForm>
+                        <namePart type="family">Bousiou-Makridou</namePart>
+                        <namePart type="given">Despoina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tsopoglou, Stavros</displayForm>
+                        <namePart type="family">Tsopoglou</namePart>
+                        <namePart type="given">Stavros</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-10-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Economic crisis, during the past two years, has an impact on Greek students of 17 years old. Elements of the crisis have intruded on their everyday life. Economic and financial concepts constitute part of their attempt to understand the world they live in and as a result affect their educational level. This paper is an exploratory attempt to study the effects of economic crisis in the economics knowledge of Greek students using a sample of 62 Senior High School (lyceum) students. Data analyzed consists of a 30 question exam based on the Test of Economic Literacy (TEL) developed by the National Council on Economic Education (NCEE) and a questionnaire which was given at the end of the exam. The survey was conducted in two different periods in 2010-2011 &amp;amp; 2011-2012. Results indicate that students level of knowledge of economic and financial concepts, concerning the crisis, is considerably high compared with quantitative results from the U.S. national norming sample of the TEL.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_644</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_644">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/644/665" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_644" DMDID="DMD_biejournals_644">
+            <mets:fptr FILEID="FILE0_biejournals_644"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3928">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erforschung der Zusammenhänge von elterlichem Belastungsempfinden und binnendifferenzierenden digitalen Lernmaterialien in Zeiten der Corona-Pandemie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Besa, Kris-Stephen</displayForm>
+                        <namePart type="family">Besa</namePart>
+                        <namePart type="given">Kris-Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gensler, Anna</displayForm>
+                        <namePart type="family">Gensler</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gesang, Johanna</displayForm>
+                        <namePart type="family">Gesang</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Röhrig, Ernst Daniel</displayForm>
+                        <namePart type="family">Röhrig</namePart>
+                        <namePart type="given">Ernst Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Corona-Pandemie führt zu zahlreichen Herausforderungen für Lehrkräfte und Schüler*innen. Die meist digital aufbereiteten Lernmaterialien sollten vor allem während des Lockdowns nur wenig Unterstützung seitens der Lehrkräfte erfordern und die Schüler*innen größtenteils zum selbstständigen Arbeiten befähigen. Dies bedeutete daher für die Lehrkräfte, möglichst binnendifferenzierendes Material zu entwickeln und digital umzusetzen, was z.T. ganz neue Ansätze erforderte. Auch für Eltern ergab sich durch das Homeschooling eine neue Situation, da sie die Rolle der Lehrkräfte zumindest in Teilen mitübernehmen und ihre Kinder beim Lernen zu Hause unterstützen müssen. In diesem Kontext ist davon auszugehen, dass Eltern durch diese zusätzliche Aufgabe neben ihrer eigenen Berufstätigkeit sowie angesichts nicht immer passgenauer Lernmaterialien für ihre Kinder eine Mehrbelastung erfahren. Dieser Beitrag geht der Thematik des Homeschoolings und der digital zur Verfügung gestellten Materialien nach und greift auf Ergebnisse einer Onlinebefragung von 635 Eltern in Rheinland-Pfalz zurück, die während der Schulschließung durchgeführt wurde. Dabei wird zum einen untersucht, wie das Belastungsempfinden der Eltern in dieser Zeit ausgeprägt ist und welche individuellen Faktoren dieses beeinflussen. Zum anderen wird analysiert, wie das Belastungsempfinden mit der Qualität der bereitgestellten Materialien und der eingeschätzten Medienkompetenz der Lehrkräfte zusammenhängt. Es zeigt sich, dass das Belastungserleben neben persönlichen Unterschieden auch durch die Gestaltung des Lehrmaterials beeinflusst wird.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3928</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3928">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3928/3961" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3928" DMDID="DMD_biejournals_3928">
+            <mets:fptr FILEID="FILE0_biejournals_3928"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

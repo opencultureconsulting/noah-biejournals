@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_635">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Relocating Social Justice to the Axis of Citizenship—For a Deaf Mediation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vaz, Henrique</displayForm>
+                        <namePart type="family">Vaz</namePart>
+                        <namePart type="given">Henrique</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Coelho, Orquídea</displayForm>
+                        <namePart type="family">Coelho</namePart>
+                        <namePart type="given">Orquídea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Based on the tangible relationship of strangeness seen in the lines of communication between a deaf and a hearing individual, in which full comprehension of the (gestural) linguistic metaphors used among the deaf is not always assimilated, and vice versa, we will from the beginning put emphasis on the differences and ruptures between the fields of representation and communication. We will thereupon approach deafness as a relationship by deconstructing the view of disability, i.e. by granting privilege to the differences yet underscoring the equality of intelligence (the wise hearing individual versus the profane deaf). It is from this standpoint (the recognition of difference) that so-called profane knowledge gains visibility and importance in the upward climb to the expertise acquired by the deaf. Nevertheless, it is fundamental to know how to coordinate this recognition with the conquests of redistributive social justice. Finally, we explore the central role of the (deaf) mediator in the construction of meaning and citizenship, especially when dealing with the isolated deaf, with the objective of underpinning situations of marginality that, perhaps unintentionally, are shaped by the social project.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_635</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_635">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/635/646" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_635" DMDID="DMD_biejournals_635">
+            <mets:fptr FILEID="FILE0_biejournals_635"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3109">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>burden of history(?)</title>
+                        <subTitle>Remembering the Holocaust and Attitudes toward Asylum Seekers in Israel</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ariely, Gal</displayForm>
+                        <namePart type="family">Ariely</namePart>
+                        <namePart type="given">Gal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Two connected studies examine how universalist and particularist views of the Holocaust influence Israeli Jews’ attitudes toward asylum seekers. Study 1 (N = 500) investigated the degree to which universalist and particularist perceptions of the “lessons” of the Holocaust correlate with exclusionist views toward asylum seekers. It was found that a universalist perception of the “lessons” of the Holocaust was negatively related to exclusionist attitudes, and a particularist perception positively related to exclusionist attitudes—even after controlling for religiosity and political affiliation. Study 2 comprised three survey experiments (N = 298, 280, and 320, respectively) investigating whether presentation of universalist versus particularist texts about the Holocaust would impact exclusionist attitudes. It was found that exposure to a universalist text reduced negative attitudes toward asylum seekers and increased support for treating wounded Syrians in Israeli hospitals. Exposure to a particularist did not increase exclusionist attitudes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3109</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3109">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3109/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_3109">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3109/3158" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3109" DMDID="DMD_biejournals_3109">
+            <mets:fptr FILEID="FILE0_biejournals_3109"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3109" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3109"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

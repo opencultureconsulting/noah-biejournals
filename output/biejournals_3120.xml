@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploring Health Effects of Terrorism</title>
+                        <subTitle>A Multi-Level Analysis for Turkey</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Köse, Tekin</displayForm>
+                        <namePart type="family">Köse</namePart>
+                        <namePart type="given">Tekin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Oymak, Cansu</displayForm>
+                        <namePart type="family">Oymak</namePart>
+                        <namePart type="given">Cansu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Terrorism has the potential to affect population health through various pathways. Since the literature mostly analyzes tangible economic costs, there is dearth of evidence on health effects of terrorism. In an effort to address that gap, this article explores the relationship between terrorism and health satisfaction of Turkish citizens by combining province-level and individual-level data sets. In order to quantify determinants of health satisfaction, a multi-level modeling framework is employed. Empirical analysis suggests that individuals with higher exposure to terrorism are more likely to report lower health satisfaction in Turkey. Health satisfaction of individuals is significantly and positively correlated with individual-level covariates such as education level, marital status, employment status, household income, housing floor area per person, interest in health issues and becoming a parent within the past year. Age, being female and utilization of health services display negative associations with health satisfaction of individuals. Finally, province level GDP per capita and schooling ratio exhibit significantly positive associations with individual health satisfaction in Turkey.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3120</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3120">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3120/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3120" DMDID="DMD_biejournals_3120">
+            <mets:fptr FILEID="FILE0_biejournals_3120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

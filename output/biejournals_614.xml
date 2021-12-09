@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_614">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Benefit or burden? How English schools responded to the duty to promote community cohesion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rowe, Don</displayForm>
+                        <namePart type="family">Rowe</namePart>
+                        <namePart type="given">Don</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Horsley, Nicola</displayForm>
+                        <namePart type="family">Horsley</namePart>
+                        <namePart type="given">Nicola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Breslin, Tony</displayForm>
+                        <namePart type="family">Breslin</namePart>
+                        <namePart type="given">Tony</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thorpe, Tony</displayForm>
+                        <namePart type="family">Thorpe</namePart>
+                        <namePart type="given">Tony</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-07-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper discusses results from a small scale qualitative study of how primary and secondary schools in three English local authorities responded to the introduction and subsequent inspection of a legal duty to promote community cohesion, following a series of ‘race’ riots in 2001 and the  London bombings of 2005. The policy itself is seen as reflecting wider discourse and is shown as shifting in focus during the period it was officially inspected between 2008 and 2011. Schools responded differentially to the duty and its inspection, with those in more multi-cultural areas responding with higher degrees of confidence than those in mono-ethnic areas. Some policy ‘slippage’ is seen to occur in the way schools re-framed the duty. Over time, most schools came to identify the curriculum and the school’s ethos as the most important weapons in their armoury. Teachers embraced the new duty with different degrees of enthusiasm – for some it confirmed the importance of holistic approaches to education which they felt had been sidelined in recent years, whilst other showed various forms of resistance. Teachers encountered some subtle and challenging professional dilemmas in the course of discharging the duty. Overall, the respondents in this study felt that the imposition of the duty and its inspection had been more of a benefit than a burden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_614</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_614">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/614/614" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_614" DMDID="DMD_biejournals_614">
+            <mets:fptr FILEID="FILE0_biejournals_614"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

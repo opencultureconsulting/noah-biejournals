@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2028">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biografiearbeit mit Kindern und Jugendlichen</title>
+                        <subTitle>Brücken bauen, Verluste ins Leben integrieren</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiemann, Irmela</displayForm>
+                        <namePart type="family">Wiemann</namePart>
+                        <namePart type="given">Irmela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Fachkräfte im Adoptions- und Pflegekinderwesen haben mit Klienten zu tun, die mit Brüchen im Leben konfrontiert sind: Adoptiveltern, die ihre ungewollte Kinderlosigkeit als Verlust erleben; leibliche Eltern, die sich von ihrem Kind trennen müssen und darunter leiden; Pflegeeltern, die versuchen, die seelischen Wunden der Kinder zu heilen und von den Fachkräften dazu bewegt werden müssen, dem Kind zuliebe eine konstruktive innere Haltung zur Herkunftsfamilie zu entwickeln, und letztlich diejenigen, um die es in erster Linie geht: Kinder, Jugendliche und Erwachsene, die den großen Schmerz des Verlassenseins in sich tragen, die von Identitäts- und Loyalitätskonflikten, Ängsten, Schuldgefühlen und Mythenbildung belastet sind. Biografiearbeit (&quot;Life story work&quot;) mit Kindem und Jugendlichen gehört in den angelsächsischen Ländern bereits zu den Standards der Jugendhilfe, insbesondere der Pflegekinder- und Adoptionsdienste. Kinder, die Brüche in ihrer Biografie erlebt haben, erhalten konkrete Hilfe, ihre Geschichte und die Geschichte ihrer Herkunftsfamilie zu dokumentieren sowie die Gründe des Verlustes und der Trennung zu verstehen. In der Supervision mit sozialen Fachkräften im Jugendhilfespektrum sind Fragen der inhaltlichen Gestaltung von Biografiearbeit, die innere Haltung zu den Herkunftseltem, die Erfahrung von eigener, Grenzen und persönlichen &quot;Stolpersteinen&quot; immer wieder Thema.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2028</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2028">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2028/1895" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2028" DMDID="DMD_biejournals_2028">
+            <mets:fptr FILEID="FILE0_biejournals_2028"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

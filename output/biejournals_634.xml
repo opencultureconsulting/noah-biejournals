@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_634">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Tahrir Square to Open Space</title>
+                        <subTitle>Practical Experiences with Open Space Technology in Egypt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jacobs, Andreas</displayForm>
+                        <namePart type="family">Jacobs</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gross, Claudia</displayForm>
+                        <namePart type="family">Gross</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The Egyptian revolution started literally with an open space: at the Tahrir Square in the heart of Cairo. Here it was where many Egyptians for the first time in their lives made the experience of freely talking about politics in public. Since January 2011, many young Egyptians are trying to keep up this “Tahrir experience” by experimenting with new forms of political debate and civic education in Egypt. It was this spirit that resulted in the idea of introducing the Open Space Technology (OST) as a new format of civic education in Egypt. In March 2011 the authors of this article, both working in Egypt for many years, organized the first Open Space in the country. This event encouraged many other national and international institutions and initiatives to adopt and further develop OST in Egypt and other Arab countries. The unexpected popularity of OST in revolutionary Egypt proved that it is in fact the right methodology at the right time in the right context and the right place. OST is a meeting format that fosters dialogue and exchange in a democratic way. It is easy to organize and non-costly. It invites for sharing opinions, discovering common ground, discussing and tackling differences. It helps generating ideas and reflecting about their implementation. This article argues that Open Space (OS), therefore, is a format that perfectly fits the transforming political environment and the socio-cultural setting of Egypt and – most probably – other Arab transformation-states.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_634</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_634">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/634/645" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_634" DMDID="DMD_biejournals_634">
+            <mets:fptr FILEID="FILE0_biejournals_634"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2131">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Reflexion supervisorischer Prozesse anband sozialwissenschaftlicher Theorien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Benninghoff, Sabine</displayForm>
+                        <namePart type="family">Benninghoff</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Als Supervisorinnen i.A. (FiS) und gleichzeitig Masterstudierende für Supervision und Beratung der Uni Bielefeld ist es unsere offizielle Aufgabenstellung und zugleich persönliche Herausforderung, unsere ersten praktischen Berufserfahrungen mit Hilfe wissenschaftlicher Theorien zu belegen. Im folgenden Artikel geht es um humanwissenschaftliche Aspekte als erweiterte Perspektive in der praktischen Arbeit und Supervisorischen Reflexion. In Anlehnung an die Bindungstheorie und die Anerkennungstheorie kann ein differenzierteres Verstehen der Verhaltensmuster und Beziehungsdynamikeil der Supervisandin im ersten Teil des Artikels entstehen. Durch die Analyse familiärer und beruflicher Sozialisationsprozesse und verschiedener Aspekte zumÂ  &quot;Unternehmerischen Selbst&quot; wird die Zerrissenheit zwischen Beruf und Familie einer berufstätigen Frau deutlicher. In beiden Fällen wurde versucht, die beschriebenen Theorien nicht als Schablonen auf die Arbeit zu legen, sondern die konkrete Praxissituation auf dem theoretischen Hintergrund zu erarbeiten und darüber bei der Suche um das Verstehen komplexer Zusammenhänge von beruflichen Konfliktsituationen unterschiedliche Blickrichtungen zu verfolgen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2131</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2131">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2131/1998" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2131" DMDID="DMD_biejournals_2131">
+            <mets:fptr FILEID="FILE0_biejournals_2131"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

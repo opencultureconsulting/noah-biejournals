@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3072">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Validation of the Greek Acceptance of Modern Myths about Sexual Aggression (AMMSA) Scale</title>
+                        <subTitle>Examining Its Relationships with Sexist and Conservative Political Beliefs</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hantzi, Alexandra</displayForm>
+                        <namePart type="family">Hantzi</namePart>
+                        <namePart type="given">Alexandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Efthymios, Lampridis</displayForm>
+                        <namePart type="family">Efthymios</namePart>
+                        <namePart type="given">Lampridis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Katerina, Tsantila</displayForm>
+                        <namePart type="family">Katerina</namePart>
+                        <namePart type="given">Tsantila</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohner, Gerd</displayForm>
+                        <namePart type="family">Bohner</namePart>
+                        <namePart type="given">Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The Acceptance of Modern Myths about Sexual Aggression scale measures contemporary beliefs about sexual aggression that tend to blame victims and exonerate perpetrators. A Greek version of the thirty-item AMMSA scale was administered to two diverse convenience samples, one in Greece and one in Cyprus. Convergent and discriminant construct validity were assessed via correlations with other constructs that were hypothesized to be strongly related to AMMSA (Illinois Rape Myth Acceptance; hostile sexism) or moderately related (benevolent sexism; social dominance orientation; right-wing authoritarianism). It wasfound that the Greek AMMSA was unidimensional, highly internally consistent, normally distributed, and showed good construct validity. When sociodemographic data were analyzed, age, gender, and nationality turned out to be significant predictors of AMMSA, with a U-shaped trend for age, higher scores for men than women, and higher scores for Cypriots than Greeks. In sum, the Greek AMMSA scale provides a highly useful instrument for further research on sexualaggression myths, their correlates, and effects on judgment and behavior.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3072</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3072">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3072/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3072">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3072/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3072" DMDID="DMD_biejournals_3072">
+            <mets:fptr FILEID="FILE0_biejournals_3072"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3072" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3072"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

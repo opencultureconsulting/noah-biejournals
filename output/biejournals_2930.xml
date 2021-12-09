@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>State Violence and Oppositional Protest in High-Capacity Authoritarian Regimes</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Johnston, Hank</displayForm>
+                        <namePart type="family">Johnston</namePart>
+                        <namePart type="given">Hank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-03-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This examination of the mobilization-repression nexus in high-capacity authoritarian regimes draws on examples from China, Russia, Iran, and several Middle Eastern states to develop a framework for analyzing state violence and how political oppositions are organized. The study examines middle and low levels of state violence, the provincial and municipal organization of party and regime, and the police, private militias, and thugs as low-level enforcers, and focuses on:(1) the complexity of the state’s apparatus of repression and control and how different levels exercise different forms of violence against activists;(2) the creativity of the opposition’s actions to voice its demands and avoid repression and surveillance; and(3) the recursive relationship between the two, a dark dance between state and opposition with high stakes for both.Hierarchical analysis at national, provincial, and local levels, and lateral analysis across these levels, where elite interests frequently diverge, show that intersections and gaps on both axes can create lapses in social control and openings the opposition. These free spaces of speech and innovative action give rise to novel ways to keep oppositional sentiments in the public forum. The article offers several propositions for analyzing repression and state violence at various levels, and, similarly, the various ways that these free spaces occur.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2930</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2930">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2930/pdf_41" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2930">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2930/2803" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2930" DMDID="DMD_biejournals_2930">
+            <mets:fptr FILEID="FILE0_biejournals_2930"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2930" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2930"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

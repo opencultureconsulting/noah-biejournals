@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_718">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What does Political Participation Mean to Spanish Students?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sant, Edda</displayForm>
+                        <namePart type="family">Sant</namePart>
+                        <namePart type="given">Edda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article explores how a group of Spanish students (aged 11–19) understand the meaning of ‘political participation’ in society and discusses the implications of their views for debates and practices in citizenship education. The ways in which these students (n=112) describe and interpret political participation are analysed using an in-depth and interpretative approach employing open questionnaires and interviews. The results suggest that most students value political participation in positive terms and that ‘activist’ students have a more optimistic view of the effectiveness of participation and especially of new forms of participation such as protests.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_718</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_718">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/718/774" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_718">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/718/775" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_718">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/718/776" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE3_biejournals_718">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/718/777" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_718" DMDID="DMD_biejournals_718">
+            <mets:fptr FILEID="FILE0_biejournals_718"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_718" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_718"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_718" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_718"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_718" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_718"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

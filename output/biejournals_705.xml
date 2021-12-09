@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_705">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Young People in Croatia in Times of Crisis and Some Remarks About Citizenship Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mrnjaus, Kornelija</displayForm>
+                        <namePart type="family">Mrnjaus</namePart>
+                        <namePart type="given">Kornelija</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zlokovic, Jasminka</displayForm>
+                        <namePart type="family">Zlokovic</namePart>
+                        <namePart type="given">Jasminka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vrcelj, Sofija</displayForm>
+                        <namePart type="family">Vrcelj</namePart>
+                        <namePart type="given">Sofija</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In this paper, the authors address the youth as a research phenomenon and present the current position of young people in the Croatian society. The authors exhibit interesting results of a recent study of youth in Croatia and present the results of their research conducted among Croatian students aiming to explore the attitudes of young people and to discover how young people in Croatia develop resilience in times of crisis. They continue with remarks on citizenship education in Croatia and provide an overview of the Curriculum of civic education. Authors discuss whether we are dealing with education for democratic citizenship or rather, with the consequences of the non-existence of education for democratic citizenship in times of crisis in Croatia.Autorice u ovom radu obrađuju mlade kao istraživački fenomen i predstavljaju trenutni položaj mladih ljudi u hrvatskom društvu. Autorice donose interesantne rezultate recentnog istraživanja o mladima u Hrvatskoj te prezentiraju rezultate vlastitog kvalitativnog istraživanja provedenog među hrvatskim studentima s ciljem da ispitaju stavove mladih ljudi o krizi i otkriju kako mladi ljudi u Hrvatskoj razvijaju otpornost u vremenu krize. Nastavljaju s opažanjima o građanskom odgoju u Hrvatskoj i pružaju pregled Kurikuluma građanskog odgoja. Autorice otvaraju pitanje da li se govori o građanskom odgoju ili radije o posljedicama ne postojanja građanskog odgoja u vremenu krize u Hrvatskoj.In dieser Arbeit diskutieren die Autorinnen Jugend als Forschungsphänomen und präsentieren die aktuelle Position der jungen Menschen in der kroatischen Gesellschaft. Die Autorinnen bringen interessante Ergebnisse einer aktuellen Studie der Jugend in Kroatien und präsentieren die Ergebnisse ihrer eigenen qualitativen Studie, welche sie unter kroatischen Studenten durchgeführt haben, mit dem Ziel, die Einstellungen der Jugendlichen zu untersuchen und zu entdecken, wie junge Menschen in Kroatien die Belastbarkeit in Krisenzeiten entwickeln. Sie setzen mit Bemerkungen über Lernen für Demokratie und Zivilgesellschaft in Kroatien fort und bieten einen Überblick über Kurrikulum des Lernens für Demokratie und Zivilgesellschaft. Die Autorinnen öffnen die Frage, ob wir über das Lernen für Demokratie und Zivilgesellschaft oder, besser gesagt, über die Folgen der Nicht‐Existenz des Lernens für Demokratie und Zivilgesellschaft in den Zeiten der Krise in Kroatien reden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_705</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_705">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/705/761" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_705" DMDID="DMD_biejournals_705">
+            <mets:fptr FILEID="FILE0_biejournals_705"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

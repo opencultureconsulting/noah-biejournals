@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Learning from the pandemic, building increased international cooperation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lopes, Henrique</displayForm>
+                        <namePart type="family">Lopes</namePart>
+                        <namePart type="given">Henrique</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Middleton, John</displayForm>
+                        <namePart type="family">Middleton</namePart>
+                        <namePart type="given">John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The COVID-19 pandemic highlighted a fragile preparation by countries and regions for epidemic events, exposing exacerbated nationalisms in pandemic mitigation and control actions. Both conditions decisively compromise the effectiveness and efficiency of pandemic control capacity. It is important to develop frameworks that help overcome frailties in response to epidemics.
+Based on a thematic literature review and discussions with multiple national and international entities an attempt was made to build a tool for responding to future epidemics, the Pandemic Preparation Framework (2PF).
+The proposed 2PF tool is aligned with the Sendai Framework for Disaster Risk Reduction and with international bodies, such as the European Health Emergency Preparedness and Response Authority (HERA). It aims to be a framework for operationalizing these agreements.
+The response to pandemics must be based essentially on international action and closer collaboration between countries and regions.
+&amp;nbsp;
+Acknowledgments: The authors acknowledge Diogo Franco of the USP-ICS/UCP scientific secretariat for his support in this article.
+&amp;nbsp;
+Authors’ contribution: The authors contributed equally to this article.
+&amp;nbsp;
+Conflict of interest: None declared.
+&amp;nbsp;
+Sources of funding: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4760</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4760">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4760/4502" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4760" DMDID="DMD_biejournals_4760">
+            <mets:fptr FILEID="FILE0_biejournals_4760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

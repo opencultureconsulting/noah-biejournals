@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4106">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Kohlenstoffkreislauf im globalen Wandel</title>
+                        <subTitle>Über den Beitrag der Biomasse zur Nachhaltigkeit</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>carbon cycle in the era of global change and the contribution of biomass to the sustainability goals</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dietz, Karl-Josef</displayForm>
+                        <namePart type="family">Dietz</namePart>
+                        <namePart type="given">Karl-Josef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Biologische Prozesse sind die wesentlichen Triebkräfte im globalen C-Kreislauf. Das Ausmaß der anthropogenen CO2-Freisetzung ist nicht tolerabel und gefährdet die Biosphäre. Die steigende CO2-Konzentration der Atmosphäre ist Ausdruck des Akkumulationseffekts seit Beginn der Industrialisierung und muss gestoppt werden. Die Steigerung derPhotosynthese durch die erhöhte CO2-Konzentration in der Atmosphäre könnte einen größeren Beitrag zur Bindung des zusätzlichen CO2 leisten, wenn nicht andere Wachstumsfaktoren, insbesondere die N- und P-Verfügbarkeit, das Wachstum begrenzten. Düngung könnte helfen, diese Limitierung zu überwinden. Allerdings würde dies die natürlichen Biome stören, die Bodenzusammensetzung ändern, vielfach zu Verlusten an Biodiversität führen und vermehrt andere klimaschädliche Gase wie CH4 und N2O freisetzen. Deshalb ist ein solcher Ansatz nur sehr eingeschränkt anwendbar und keine globale Lösung. Weltweite Aufforstung kann einen wichtigen Beitrag zur CO2-Reduktion leisten. Allerdings wird die Kapazität dieser Maßnahme in manchen Modellen überschätzt. Die Konsequenzen insbesondere für die Landnutzung, den Erhalt natürlicher Biome, die Kosten für Nahrungsmittel und sozio-ökonomische Traditionen sind zu bedenken. Die Reduktion der CO2-Emission durch weniger Verbrennung muss hohe Priorität erhalten. Daneben müssen die technische Entwicklung und ökonomische Umsetzung „negativer Emissionstechnologien“ einen Beitrag leisten. Die Entscheidungen im Kontext des Klimawandels müssen in den Gesamtrahmen weiterer Nachhaltigkeitsziele wie die Überwindung der Armut und der Zugang zu bezahlbarer und gesunder Nahrung eingebettet sein.</abstract>
+                    <abstract lang="eng">Biological processes represent the major driving forces in the global carbon (C) cycle. The extent of anthropogenic CO2 release threatens our future and is not tolerable. The increase in atmospheric CO2 reflects the cumulative effect of human activities over more than a century and must be stopped. The contribution of photosynthesis to the binding of excess CO2 could be increased if other limitations such as limited N- and P-availability were overcome. The productivity of various types of vegetation increases upon application of fertilizers. However, N-fertilization jeopardizes natural biomes, alters the rhizosphere, decreases the biodiversity and stimulates the release of potent greenhouse gases such as CH4 and N2O. Therefore, fertilization must be restricted and fails as global solution to increase CO2 binding in biomass in context of climate action. Worldwide afforestation appears a powerful action. However, its capacity to reduce CO2 is sometimes overestimated. The consequences of afforestation on land use change, conservation of natural biomes, crop food prices and socio-economic traditions need to be considered. High priority must be given to the reduction of CO2 emission by combustion. In addition, there is urgent need to technically develop and economically implement negative emission technologies. Decisions in context of climate actions must be placed in the framework of all sustainable development goals including no poverty and no hunger.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4106</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4106">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4106/4101" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4106" DMDID="DMD_biejournals_4106">
+            <mets:fptr FILEID="FILE0_biejournals_4106"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

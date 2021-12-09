@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_966">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Towards a New Cultural History of Law</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siemens, Daniel</displayForm>
+                        <namePart type="family">Siemens</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Finding ways of integrating law and legal practices into historical narratives is one of the most challenging fields of modern historiography. In the article to follow, the problems posed will be discussed on a historiographical and on a theoretical level. Firstly, I analyze the efforts social historians have undertaken in order to come to terms with law since the 1970s and discuss the extent to which their attempts to deal with legal matters differed from traditional legal history. Secondly, I explore the problematic relationship between law and historiography with reference to recent research in the field that is either influenced by the “performative turn” of the 1990s or by the flourishing area of global history. My findings indicate that while a considerable number of micro-historical studies on law and criminality now exist, macro-histories remain rather wary of approaches that stress the performative aspects of law. I conclude by highlighting the reasons making it such a complicated endeavor to write a new cultural history of law that aims at transgressing the boundaries of social as well as legal history. First of these is the enduring problem of the national boundedness of legal norms and structures. Another essential aspect is the question of language—are all historical descriptions of legal processes necessarily dependent on judicial logic and rhetoric? Finally, there is a problem of theory; what is the place of reference for a general historiography sensitive for legal aspects and legal practices.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_966</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_966">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/966/1074" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_966" DMDID="DMD_biejournals_966">
+            <mets:fptr FILEID="FILE0_biejournals_966"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

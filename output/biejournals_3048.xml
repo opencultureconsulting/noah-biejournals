@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3048">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Constructing Meaning from Disappearance</title>
+                        <subTitle>Local Memorialisation of the Missing in Nepal</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Robins, Simon</displayForm>
+                        <namePart type="family">Robins</namePart>
+                        <namePart type="given">Simon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Disappearance in conflict creates challenges of identity and meaning for the families of those whose fate remains unknown: women, for example, who do not know if they are wives or widows and desperately seek to construct positive meanings from their experience. This empirical study of the families of those disappeared during Nepal&amp;rsquo;s Maoist insurgency focuses on processes of local memorialisation and post-conflict politics of memory in rural areas and on how and why victims seek certain forms of recognition and memorialisation, including their psychosocial motivations. The means of memorialisation chosen by families of the missing served to confirm in a highly social way that the disappeared are missing not dead, and sought to integrate stigmatised families into communities from which they had been alienated by violations. Memorialisation can strengthen the resilience of families of the missing; as a social process, it addresses both the emotional and the social impacts of disappearance. Remembering the disappeared in ways that can aid the well-being of the families left behind demands local approaches that are contextualised in the cultural and social worlds of impacted communities: this challenges memorialisation, and transitional justice processes more broadly, that emerge exclusively from institutional processes directed by elites.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3048</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3048">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3048/pdf_99" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3048">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3048/3043" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3048" DMDID="DMD_biejournals_3048">
+            <mets:fptr FILEID="FILE0_biejournals_3048"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3048" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3048"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

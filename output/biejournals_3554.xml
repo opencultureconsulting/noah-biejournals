@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3554">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Regenwurmforscher auf Marsmission</title>
+                        <subTitle>Originale Begegnung und Experimentieren im Biologieunter-richt der Unterstufe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hahn, Marie</displayForm>
+                        <namePart type="family">Hahn</namePart>
+                        <namePart type="given">Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Flemming, Liane</displayForm>
+                        <namePart type="family">Flemming</namePart>
+                        <namePart type="given">Liane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dreesmann, Daniel</displayForm>
+                        <namePart type="family">Dreesmann</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der folgende Beitrag stellt nach einer thematischen Einführung die ersten beiden Doppelstunden der Unterrichtseihe „Regenwurmforscher auf Marsmission“ vor. In dieser Unterrichtsreihe wird den Schülerinnen und Schülern selbst die Forscherrolle übertragen.
+In der ersten Doppelstunde wird dabei zunächst Fachwissen zur Biologie des Regenwurms, zu den Methoden der Erkenntnisgewinnung, zum Forschungsprozess und zum zugehörigen Forschungskontext erarbeitet. Als Forschungskontext dient ein aktuelles Projekt der Marsforschung, den Boden auf dem Mars mithilfe von Regenwürmern fruchtbar machen zu können, damit dort Nahrungs- und Nutzpflanzen angebaut werden könnten.
+Um die Eignung der Regenwürmer in diesem Kontext praktisch zu prüfen, liegt der Schwerpunkt der zweiten Doppelstunde auf der Methode des Experimentierens. Versuche mit dem Modellorganismus Dendrobena veneta werden dabei eigenständig durchgeführt und ausgewertet. Die vorgestellten Versuche dieses Artikels beinhalten in diesem Zusammenhang u.a. das Herstellen eines eigenen „Marsterrariums“ zur Langzeitbeobachtung und eine Reihe von Experimenten zu den Themen Atmungsorgan der Regenwürmer sowie Temperaturempfinden und Fortbewegung der Regenwürmer.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3554</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3554">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3554/3938" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3554">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3554/3939" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_3554">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3554/3940" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_3554">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3554/3941" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3554" DMDID="DMD_biejournals_3554">
+            <mets:fptr FILEID="FILE0_biejournals_3554"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3554" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3554"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3554" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3554"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_3554" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_3554"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

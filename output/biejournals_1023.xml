@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1023">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Doing colonialism</title>
+                        <subTitle>reading the banishment of a »native chief« in the Tanganyika territory</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brockmeyer, Bettina</displayForm>
+                        <namePart type="family">Brockmeyer</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-06-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article takes a closer look at the »colonial situation« (Balandier 1970). It seeks to shed light on a multifaceted non-colonizing colonial biography during the time of European conquest. The focus lies on the interpretation of the banishment of a »chief« in the British-mandated territory of Tanganyika. This chief, Sapi Mkwawa (1879–1951), was an important figure within European colonization. He experienced two colonizing powers in a prominent but ambiguous position. I argue that through close analysis of the archival material on this banishment, colonialism becomes visible as an ongoing process, based on different forms of a »politics of belonging«. Class and »tribe« function as features of »belonging« that are consolidated by the authority of the Mkwawa family, in addition to being bolstered by colonial power relations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1023</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1023">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1023/1131" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1023" DMDID="DMD_biejournals_1023">
+            <mets:fptr FILEID="FILE0_biejournals_1023"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4105">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie der Mensch das System Erde verändert</title>
+                        <subTitle>Die biophysikalischen Leitplanken für nachhaltige Entwicklung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>How human activities change the Earth system</title>
+                        <subTitle>The biophysical guardrails for sustainable development</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Petrischak, Hannes</displayForm>
+                        <namePart type="family">Petrischak</namePart>
+                        <namePart type="given">Hannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Alle Erkenntnisse über das System Erde zeigen deutlich auf, dass die Menschheit so massiv in die Prozesse des Systems eingreift, dass sich die Rahmenbedingungen für die Zukunft – allerdings schon heute spürbar – deutlich verschlechtern. Die Ergebnisse der unterschiedlichen Konzepte weisen übereinstimmend in die gleiche Richtung: Mehrere Sicherheitsgrenzen sind überschritten. Stoffkreisläufe werden im globalen Maßstab umgestaltet. Die Menschheit ist mit sich weiter beschleunigender Wirkung zur stärksten gestaltenden Kraft auf der Erde geworden. Mit dem Klimawandel und der Vernichtung von Biodiversität sind irreversible Prozesse eingeleitet, und die Funktionalität von Ökosystemen wird zunehmend eingeschränkt. Eine nachhaltige Entwicklung, die nicht zuletzt die Lebensgrundlagen der Menschheit sicherstellt, ist jedoch nur innerhalb der biophysikalischen Grenzen des Systems Erde denkbar. Unsere Konsum- und Produktionsmuster müssen sich in allererster Linie an diesen Grenzen orientieren, um nachhaltig zu sein.</abstract>
+                    <abstract lang="eng">All scientific findings about the Earth system show clearly that humanity intervenes so massively in Earth system processes that the conditions for future generations – but already noticeable today – will deteriorate significantly. The results of different concepts point in the same direction consistently: Several planetary boundaries have been exceeded, biochemical cycles are being reshaped on a global scale, humanity has even become the most powerful formative force on earth, irreversible processes like climate change and loss of biodiversity are accelerating, the functionality of ecosystems is decreasing. Sustainable development, which ensures the safe and comfortable existence of human societies on Earth, is conceivable only within the biophysical boundaries of the Earth system. Our consumption and production patterns must first and foremost be oriented towards these boundaries in order to be sustainable.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4105</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4105">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4105/4102" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4105" DMDID="DMD_biejournals_4105">
+            <mets:fptr FILEID="FILE0_biejournals_4105"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

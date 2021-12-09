@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1868">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Evidence of a higher burden of multimorbidity among female patients in Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Collaku, Ledio</displayForm>
+                        <namePart type="family">Collaku</namePart>
+                        <namePart type="given">Ledio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Resuli, Margarita</displayForm>
+                        <namePart type="family">Resuli</namePart>
+                        <namePart type="given">Margarita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gjermeni, Ilir</displayForm>
+                        <namePart type="family">Gjermeni</namePart>
+                        <namePart type="given">Ilir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tase, Mihal</displayForm>
+                        <namePart type="family">Tase</namePart>
+                        <namePart type="given">Mihal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-04-10</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The purpose of this study was to assess sex-differences in the prevalence of multimorbidity and the number of comorbid conditions among hospitalized patients in Tirana, the capital of Albania, a transitional country in Southeastern Europe.Methods: The current study was a case-series, which was carried out in the period August 2013–June 2014. Overall, 974 patients were enrolled (46.6% men with a mean age of 61.2±13.8 years, and 53.4% women with a mean age of 61.3±13.1 years), who were admitted at the Service of Internal Medicine and Hypertension, University Hospital Center “Mother Teresa” in Tirana. A comprehensive clinical profile was assembled for all patients in addition to socio-demographic data and information on lifestyle factors. General linear model was used to assess the association between multimorbidity (total number of diseases/conditions) and sex of the patients, controlling for socio-demographic characteristics and lifestyle factors.    Results: In crude (unadjusted) models and in age-adjusted models, female patients had a higher mean value of diseases/conditions compared to males (for both: 4.4 vs. 4.1, respectively, P=0.03). Likewise, upon adjustment for all socio-demographic characteristics, the mean number of disease/conditions was significantly higher in female patients compared to their male counterparts (4.2 vs. 3.9, respectively; P=0.03). After additional adjustment for lifestyle factors, the association between sex and number diseases/conditions was not significant anymore (p=0.16), notwithstanding the evidence of a higher mean value in women compared to men (4.2 vs. 4.0). Conclusion: Current evidence from transitional Albania suggests a higher burden of multimorbidity among female patients compared to males, which is a cause of concern. These findings should raise the awareness of health professionals and particularly policymakers and decision-makers in order to address gender issues and inequity gaps in health outcomes and burden of disease of the Albanian population.    </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1868</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1868">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1868/1788" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1868" DMDID="DMD_biejournals_1868">
+            <mets:fptr FILEID="FILE0_biejournals_1868"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

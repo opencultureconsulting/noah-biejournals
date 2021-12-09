@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3026">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transitional Justice and the Quality of Democracy</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mihr, Anja</displayForm>
+                        <namePart type="family">Mihr</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Transitional Justice is a long-term process which seeks to address severe human rights abuses of the past through measures such as trials, commissions of inquiry, memorials, apologies, reforms of the legal or security sector, school textbook reforms, and reconciliation projects. These measures are usually applied by governments, but can also be initiated by civil society groups, such as victim groups, or the international community, for example the European Union or the UNHCR. Transitional justice measures are seen as catalysts for coming to terms with the past and establishing new, stable, and often democratic societies. As such, the measures are linked to the performance and efficacy of democratic institutions in the context of their accountability and responsiveness, transparency, and level of citizen participation. Thus, transitional justice is a process that aims to reconcile divided and conflict-torn societies by re-establishing (democratic) institutions. These measures can be catalysts to leverage institutional performance.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3026</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3026">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3026/pdf_92" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3026">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3026/2999" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3026" DMDID="DMD_biejournals_3026">
+            <mets:fptr FILEID="FILE0_biejournals_3026"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3026" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3026"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2757">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Determinants of Experience of Discrimination in Minorities in Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Salentin, Kurt</displayForm>
+                        <namePart type="family">Salentin</namePart>
+                        <namePart type="given">Kurt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This study examines perceived ethnic discrimination (as opposed to “objective” discrimination). It includes a discussion of definitions of discrimination and attempts to measure it, and a review of findings on the distribution of discrimination experiences among minorities. The aim of the study is to determine the influence of factors that increase the risk of exposure to situations in which discrimination can take place (exposure hypothesis), and those that sensitize perceptions and give rise to different frequencies of subjective feelings of discrimination (sensitization hypothesis). A standardized questionnaire was adminis- tered to a random sample of German-born persons of Turkish and Greek origin and Aussiedler (ethnic Germans born in the former Soviet Union) (total N = 301). Minorities of non-German, especially of Turkish origin reported significantly more discrimination than Aussiedler in a set of nineteen everyday situations. A bivari- ate correlation was found between number of incidents reported and employment status with homemakers reporting the fewest incidents. However, multiple regression analysis yielded no significant effect, thus lending no clear support to the exposure hypothesis. Frequency of contacts with German friends has no effect and seems not to entail an increase in exposure opportunities, but may lead to a desensitization to discrimination due to the erosion of the relevance of ethnic categories. On the other hand, an influence through intra-ethnic contacts clearly occurs, as frequency of contact with co-ethnic friends exerts a strong positive effect on experienced discrimination. A similar effect was found for ethnic self-awareness. The latter finding confirms the sensitization hypothesis.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2757</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2757">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2757/2518" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2757" DMDID="DMD_biejournals_2757">
+            <mets:fptr FILEID="FILE0_biejournals_2757"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

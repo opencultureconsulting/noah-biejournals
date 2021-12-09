@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_379">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>www.HuriSearch.org - A Search Engine for Human Rights Information</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Verstappen, Bert</displayForm>
+                        <namePart type="family">Verstappen</namePart>
+                        <namePart type="given">Bert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article provides a brief overview of search engines and describes how they work. It highlights HuriSearch, a human rights search engine, initiated by HURIDOCS - Human Rights Information and Documentation Systems, International. The article describes the background and aims of HuriSearch and the way in which the project has been implemented. This is followed by a comparison between HuriSearch and the general search engine Google, concerning the relevancy of searches and the depth of crawling. Finally, the future perspectives of HuriSearch are outlined.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_379</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_379">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/379/376" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_379" DMDID="DMD_biejournals_379">
+            <mets:fptr FILEID="FILE0_biejournals_379"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

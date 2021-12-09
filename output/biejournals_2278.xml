@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2278">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pluralität und menschliche Praxis. Hannah Arendts Begriff der politischen Öffentlichkeit in seiner Bedeutung für die Supervision (Teil 1)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Griewatz, Hans-Peter</displayForm>
+                        <namePart type="family">Griewatz</namePart>
+                        <namePart type="given">Hans-Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von Hannah Arendts Arbeits- und Praxisbegriff versucht dieser Artikel einen Bogen zu unserer postpolitischen Gesellschaft zu schlagen und seine Bedeutung für die Supervision hervorzuheben. Mit einer Entpolitisierung menschlicher Praxis - so die These - wird ihre Entprofessionalisierung betrieben. Die Supervision verfügt bisher über keinen elaborierten Arbeitsbegriff. Aus einer Kritik an Arendts Arbeitsbegriff entwickele ich mit ihr/gegen sie einen Begriff von (politischer) Praxis, die als eine Konstituierung von Öffentlichkeit und Pluralität in den gesellschaftlichen Institutionen, den Bürokratien und Verwaltungen sowie den privatrechtlichen Organisationen und Unternehmen verstanden werden kann. Dies könnte einen neuen Blick auf die Möglichkeiten (und Grenzen) von Supervision werfen und mit der Gedankenfigur der Urteilskraft (Phronesis) neue Freiheitsräume für menschliche Praxis und mit ihr für Supervision eröffnen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2278</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2278">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2278/2233" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2278">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2278/2234" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2278" DMDID="DMD_biejournals_2278">
+            <mets:fptr FILEID="FILE0_biejournals_2278"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2278" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2278"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

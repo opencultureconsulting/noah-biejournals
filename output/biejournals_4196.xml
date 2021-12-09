@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4196">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anerkennung und habituelle (Un-)Passung auf der Ebene der Schüler*innen-Lehrer*innenbeziehung</title>
+                        <subTitle>Rekonstruktionen entlang der Schüler*innenperspektive</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>te Poel, Kathrin</displayForm>
+                        <namePart type="family">te Poel</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Verhältnisse der Passung und Unpassung in schulischen Kontexten werden bisher insbesondere im „Schulkulturansatz“ (Böhme, Hummrich &amp;amp; Kramer, 2015, S. 12) in ihrer Anerkennungsbedeutsamkeit betrachtet. Im Fokus stehen dabei vornehmlich Passungsverhältnisse zwischen den Anerkennungsordnungen von Schule bzw. der jeweiligen Schulkultur und den habituellen Prägungen von Schüler*innen. Verhältnisse der habituellen Passung und Unpassung auf der Interaktionsebene zwischen Lehrpersonen und Schüler*innen und damit verbundene anerkennungsrelevante Konsequenzen bilden ein Forschungsdesiderat. Mit den Rekonstruktionen in diesem Artikel wird dieses Desiderat bearbeitet. Ausgehend von Ausschnitten aus Protokollen von bildungsbiographischen Interviews mit (ehemaligen) Schüler*innen werden erzählte Unterrichtssituationen und damit verbundene Erfahrungen der Anerkennung und Nicht-Anerkennung aus Schüler*innensicht in den Blick genommen. Mit der Methode der objektiven Hermeneutik werden habituelle Passungen und Unpassungen zwischen Lehrperson und Schüler*in im Kontext der erzählten Situationen rekonstruiert. Dabei wird gezeigt, inwiefern diese habituellen (Un-)Passungen mit Anerkennungserfahrungen auf Schüler*innenseite verbunden sind und welche bildungsrelevanten Konsequenzen das Zusammenspiel hat. Die Ergebnisse werden nicht nur in ein Verhältnis zur Ebene der Schulkultur gesetzt, sondern auch in ihrer Bildungsgerechtigkeitsrelevanz beleuchtet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4196</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4196">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4196/4165" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4196" DMDID="DMD_biejournals_4196">
+            <mets:fptr FILEID="FILE0_biejournals_4196"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2540">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Motivierende Lernzugänge als Ausgangspunkt der Professionalisierung angehender Lehrerinnen und Lehrer</title>
+                        <subTitle>Ein Blick auf kompetenzorientiertes, ästhetisches und biographisches Lernen im Lehramtsstudium</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Motivational learning approaches for the professionalization of preservice teachers</title>
+                        <subTitle>competence-oriented, aesthetic and biographical learning in teacher education at university</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Caruso, Carina</displayForm>
+                        <namePart type="family">Caruso</namePart>
+                        <namePart type="given">Carina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adammek, Christine</displayForm>
+                        <namePart type="family">Adammek</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bonanati, Sabrina</displayForm>
+                        <namePart type="family">Bonanati</namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiescholek, Sybille</displayForm>
+                        <namePart type="family">Wiescholek</namePart>
+                        <namePart type="given">Sybille</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Artikel werden drei verschiedene Lernzugänge (kompetenzorientiertes, Ästhetisches und biographisches Lernen) vorgestellt und aus theoretischer Perspektive deren motivierender Gehalt für selbstreguliertes Lernen in Praxisphasen des Lehramtsstudiums herausgearbeitet. Als theoretische Grundlage dient die Selbstbestimmungstheorie als zentrale motivationale Theorie zur Erklärung selbstbestimmten Handelns.</abstract>
+                    <abstract lang="eng">The article addresses how motivational learning approaches (competency-oriented, aesthetic and biographical) can contribute to the professionalisation of preservice teachers during a long-term internship. As a theoretical basis, the self-determination theory serves as a central motivational theory for explaining self-determined action.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2540</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2540">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2540/3359" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2540" DMDID="DMD_biejournals_2540">
+            <mets:fptr FILEID="FILE0_biejournals_2540"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

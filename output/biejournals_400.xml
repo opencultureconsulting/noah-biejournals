@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_400">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Theory</title>
+                        <subTitle>Who Needs It? A Didactic Substantiation of Social Theories in Lessons</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zurstrassen, Bettina</displayForm>
+                        <namePart type="family">Zurstrassen</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Only marginal importance is attached to the analysis of social theories in textbooks for social science. Mostly, they are only taught in extracts, and the analysis of a text extract from a theory is seldom discussed in class. In particular, sociological theories are therefore only presented to the pupils in an abridged form. The didactic-methodical potential of social theories in the process of Conceptual Change – from the everyday theory to science-related theories – about aspects of social changes, the social order, or social actions, remains unused. This article deals with scientific, didactic and methodical questions on the use of social theories in social science lessons.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_400</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_400">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/400/397" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_400" DMDID="DMD_biejournals_400">
+            <mets:fptr FILEID="FILE0_biejournals_400"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

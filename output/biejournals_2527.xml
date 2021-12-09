@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2527">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionalisierung durch Beratung im Lehramtsstudium</title>
+                        <subTitle>Das Tübinger Projekt ProfiL</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Professionalization and profession-related counseling</title>
+                        <subTitle>Das Tübinger Projekt ProfiL</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Petra</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Christ, Aline</displayForm>
+                        <namePart type="family">Christ</namePart>
+                        <namePart type="given">Aline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kniep, Kathrin</displayForm>
+                        <namePart type="family">Kniep</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lange, Marie</displayForm>
+                        <namePart type="family">Lange</namePart>
+                        <namePart type="given">Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinhardt, Marc</displayForm>
+                        <namePart type="family">Weinhardt</namePart>
+                        <namePart type="given">Marc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel stellt ein individualisiertes, auf professions-&amp;nbsp; bezogene Reflexion abzielendes Beratungsangebot vor, das ergänzend zum Curriculum für interessierte Lehramtsstudierende angeboten wird. Dabei basiert die Konzeption dieser „Professionsbezogenen Beratung für Studierende im Lehramt“ (ProfiL) auf professionstheoretischen Annahmen, insbesondere Befunden, die aus einer berufsbiographischen Perspektive die Wirksamkeit vorgängiger biographischer Erfahrungen für Aneignungsprozesse im Studium, aber auch für die Herausbildung des professionellen Selbstverständnisses als Lehrer_in belegen. Damit rücken diejenigen individuellen, (berufs-)biographischen Erfahrungen und Überzeugungen ins Zentrum, die in der Konfrontation mit den objektiven Anforderungen des Lehramtsstudiums die Bedingungen und Voraussetzungen für die individuelle Professionalisierung bilden. Das Beratungsangebot ProfiL wird auf dieser Grundlage als besonders geschützter Reflexionsraum jenseits bewertungs- und leistungsorientierter Lehrveranstaltungen etabliert. Damit soll ermöglicht werden, in der Reflexion berufsbiographisch relevanter Aspekte individuelle Entwicklungsaufgaben der Teilnehmer_innen zu definieren und so gezieltere Professionalisierungsprozesse bereits im Studium zu ermöglichen und zu unterstützen. Das spezifische Potenzial, das in der Wahl der Handlungsform Beratung liegt, aber auch zentrale Elemente, wie die inhaltliche Konzeption, die methodische Umsetzung und die konkrete Ausgestaltung der Beratungsgruppen, stehen im Zentrum des vorliegenden Beitrags.</abstract>
+                    <abstract lang="eng">The article presents an individualized counseling offer aimed at profession-related reflection, which can be used by interested student teachers in addition to the regular curriculum. The concept of ProfiL (German for: professionrelated counseling program for teacher students) is based on theoretical assumptions and empirical findings that show the effectiveness of previous biographical experiences for knowledge acquisition, but also for the development of the professional self-image as a teacher from a biographical perspective. This focuses on individual, (professional) biographical experiences and convictions, which, in confrontation with the objective requirements of the teacher training program, form the conditions and prerequisites for individual professionalization. The ProfiL counseling offer is therefore established as a specially protected reflection space beyond assessment- and achievement-oriented courses. ProfiL facilitates to reflect on biographically relevant aspects of developmental tasks in becoming a teacher. In this way it promotes and supports more targeted professionalization processes already during the studies.
+The specific potential, which lies in counselling as support form for encouraging reflection, but also conceptual contents of ProfiL, the methodological implementation process and the concrete arrangements of the counseling groups are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2527</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2527">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2527/3397" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2527" DMDID="DMD_biejournals_2527">
+            <mets:fptr FILEID="FILE0_biejournals_2527"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

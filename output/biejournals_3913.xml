@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3913">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teaching about migration</title>
+                        <subTitle>Teachers’ didactical choices when connecting specialized knowledge to pupils’ previous knowledge</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blanck, Sara</displayForm>
+                        <namePart type="family">Blanck</namePart>
+                        <namePart type="given">Sara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Content and pupils are important starting points when teaching migration. 
+Our findings expand the discussion of teachers’ choices, pupils, and specialized knowledge. 
+Teachers’ reflections on didactical choices and pupils’ previous knowledge are provided.
+Cases, pictures, stories, and affective dimensions could be useful when explaining migration.
+Continuous education in migration and collaborative platforms in social studies are needed.
+
+
+Purpose: This article contributes to the discussion of teaching migration in upper primary school by examining teachers’ didactical choices concerning specialized knowledge and pupils&apos; previous knowledge. 
+
+
+Design/methodology/approach: The approach is practice-based design research, in which meetings with teachers and focus group interviews with ten-to-twelve-year-old pupils are analysed in relation to educational practice and exemplary teaching. 
+
+
+Findings: Teachers expanded concept of migration developed through discussions of specialized knowledge in relation to pupils&apos; previous knowledge contributes to a more qualified migration education. Migration can be taught from a perspective or in thematic interdisciplinary projects. Migration biographies as well as using stories, pictures, and affective dimensions, can make the abstract concepts become concrete when reconstruction of migration in teaching.
+
+
+Practical implications: This addresses issues of continuous education in social studies for teachers and the need for collaborative platforms. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3913</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3913">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3913/4337" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3913" DMDID="DMD_biejournals_3913">
+            <mets:fptr FILEID="FILE0_biejournals_3913"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1773">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Assessment of knowledge, attitudes and practices about public health nutrition among students of the University of Medicine in Tirana, Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hyska, Jolanda</displayForm>
+                        <namePart type="family">Hyska</namePart>
+                        <namePart type="given">Jolanda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mersini, Ehadu</displayForm>
+                        <namePart type="family">Mersini</namePart>
+                        <namePart type="given">Ehadu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mone, Iris</displayForm>
+                        <namePart type="family">Mone</namePart>
+                        <namePart type="given">Iris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bushi, Entela</displayForm>
+                        <namePart type="family">Bushi</namePart>
+                        <namePart type="given">Entela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sadiku, Edite</displayForm>
+                        <namePart type="family">Sadiku</namePart>
+                        <namePart type="given">Edite</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hoti, Kliti</displayForm>
+                        <namePart type="family">Hoti</namePart>
+                        <namePart type="given">Kliti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bregu, Arjan</displayForm>
+                        <namePart type="family">Bregu</namePart>
+                        <namePart type="given">Arjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: the aim of this survey was twofold: (i): to assess medical students’ knowledge, attitudes and practices regarding nutrition in general, in order to identify their level of competences in the field of nutrition which will be useful in their future role of providers/health care professionals, and; (ii) to assess the knowledge, attitudes and practices regarding the discipline of public health nutrition in order to identify the needs for improving the curriculum of this subject in all the branches of the University of Medicine in Tirana.Methods: A cross-sectional study was conducted in June-July 2013 including a representative sample of 347 students at the University of Medicine in Tirana, Albania (61% females and 39% males; overall mean age: 23±2 years; response rate: 87%). A nutritional questionnaire, adopted according to the models used in previous international studies, was used to assess the level of knowledge, attitudes and practices among the university students.Results: Overall, about one third of the students was not satisfied with the quality and quantity of nutritional education and demanded a more scientifically rigorous curriculum. In general, students’ knowledge about infant feeding practices was adequate. However, there were gaps in the students’ knowledge regarding the commencement of breastfeeding, or the duration of exclusive breast-feeding. Furthermore, there was evidence of an insufficient level of knowledge among students regarding diet and nutrition in general and their health impact, especially on development and prevention of chronic diseases.Conclusion: This survey identified significant gaps in the current curriculum of public health nutrition at the University of Medicine in Tirana. Our findings suggest the need for intervention programs to improve both the quantitative and the qualitative aspects of nutrition curricula in all the branches of the University of Medicine Tirana, in accordance with the professional expectations of this teaching institution, as well as the urge for a movement towards a more integrated curriculum and problem-based learning approach.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1773</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1773">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1773/1694" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1773" DMDID="DMD_biejournals_1773">
+            <mets:fptr FILEID="FILE0_biejournals_1773"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

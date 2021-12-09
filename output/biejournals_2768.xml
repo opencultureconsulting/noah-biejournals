@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2768">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Is the Market Eroding Moral Norms? A Micro-analytical Validation of Some Ideas of Anomie Theory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Burkatzki, Eckhard</displayForm>
+                        <namePart type="family">Burkatzki</namePart>
+                        <namePart type="given">Eckhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Anomie theorists have been reporting the suppression of shared welfare orientations by the overwhelming dominance of economic values within capitalist societies since before the outset of neoliberalism debate. Obligations concerning common welfare are more and more often subordinated to the overarching aim of realizing economic success goals. This should be especially valid with for social life in contemporary market societies. This empirical investigation examines the extent to which market imperatives and values of the societal community are anchored within the normative orientations of market actors. Special attention is paid to whether the shape of these normative orientations varies with respect to the degree of market inclusion. Empirical analyses, based on the data of a standardized written survey within the German working population carried out in 2002, show that different types of normative orientation can be distinguished among market actors. These types are quite similar to the well-known types of anomic adaptation developed by Robert K. Merton in &amp;ldquo;Social Structure and Anomie&amp;rdquo; and are externally valid with respect to the prediction of different forms of economic crime. Further analyses show that the type of normative orientation actors adopt within everyday life depends on the dregree of market inclusion. Confirming anomie theory, it is shown that the individual willingness to subordinate matters of common welfare to the aim of economic success&amp;mdash;radical market activism&amp;mdash;gets stronger the more actors are included in the market sphere. Finally, the relevance of reported findings for the explanation of violent behavior, especially with view to varieties of corporate violence, is discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2768</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2768">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2768/2529" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2768" DMDID="DMD_biejournals_2768">
+            <mets:fptr FILEID="FILE0_biejournals_2768"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

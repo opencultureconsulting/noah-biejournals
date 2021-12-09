@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2946">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Bringing Justice and Enforcing Peace? An Ethnographic Perspective on the Impact of the Special Court for Sierra Leone</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mieth, Friederike</displayForm>
+                        <namePart type="family">Mieth</namePart>
+                        <namePart type="given">Friederike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The Special Court for Sierra Leone was set up in 2002 to try those who bear the greatest responsibility for actrocities perpetrated during a decade-long civil war in the country. This would, according to Court officials and observers, bring justice to the victims of the war and contribute to peace. Based on eight months of ethnographic fieldwork in Sierra Leone between 2010 and 2012, this article challenges those assumptions by exploring the viewpoint of ordinary Sierra Leoneans. The impact of the Special Court on the lives of ordinary people is rather small, first and foremost because they have a different understanding of what justice constitutes and who is able to provide it. This resulted in low expectations of the Court from the beginning. Moreover, the relevance of transitional justice fades in the context of daily challenges and remaining injustices. While the Special Court is viewed more positively as contributing to the peace, transitional justice institutions should engage more critically with the local context they operate in.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2946</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2946">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2946/pdf_84" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2946">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2946/2836" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2946" DMDID="DMD_biejournals_2946">
+            <mets:fptr FILEID="FILE0_biejournals_2946"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2946" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2946"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

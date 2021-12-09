@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2258">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pluralität und menschliche Praxis - Hannah Arendts Begriff der politischen Öffentlichkeit in seiner Bedeutung für die Supervision - Teil III</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Griewatz, Hans-Peter</displayForm>
+                        <namePart type="family">Griewatz</namePart>
+                        <namePart type="given">Hans-Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser III. Teil greift die Frage am Ende des II. Teils auf, die den Zusammenhang von Arbeit, menschlicher Praxis und politischer Öffentlichkeit im Hinblick auf die Supervision thematisiert. Mit Arendts Verständnis des Politischen werden noch einmal ihre Begriffe des Handelns, der Öffentlichkeit und Urteilskraft vertieft. Das Handeln als &apos;zweite Geburt&apos; wird unter den phänomenologischen Aspekten der Natalität, des Versprechens und des Verzeihens, der Pluralität und der Gemeinsamkeit betrachtet. Daraus ergibt sich ein Begriff des öffentlichen Raums und der (politischen) Urteilskraft, die für das Selbstverständnis der Supervision von Bedeutung sind. Arendt verknüpft diese Begriffe des Politischen mit den Kategorien der Erfahrung, des Erinnerns und des Erzählens. Hierbei erhält das Erzählen als verdinglichtes Handeln neben einer individuell-existenziellen auch eine besondere, ethische-politische Bedeutung. Das Erzählen wird damit zu einer wichtigen Voraussetzung für die Institution einer reflexiven Supervision, indem es Öffentlichkeit herstellt und damit der Legitimation von Macht in der menschlichen Praxis dient.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2258</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2258">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2258/2193" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2258">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2258/2194" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2258" DMDID="DMD_biejournals_2258">
+            <mets:fptr FILEID="FILE0_biejournals_2258"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2258" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2258"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

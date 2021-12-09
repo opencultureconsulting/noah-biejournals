@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2355">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Screening for viral Hepatitis B in the Roma community in Tirana, Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kureta, Elona</displayForm>
+                        <namePart type="family">Kureta</namePart>
+                        <namePart type="given">Elona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Basho, Mimoza</displayForm>
+                        <namePart type="family">Basho</namePart>
+                        <namePart type="given">Mimoza</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Murati, Ermelinda</displayForm>
+                        <namePart type="family">Murati</namePart>
+                        <namePart type="given">Ermelinda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tomini, Eugena</displayForm>
+                        <namePart type="family">Tomini</namePart>
+                        <namePart type="given">Eugena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roshi, Enver</displayForm>
+                        <namePart type="family">Roshi</namePart>
+                        <namePart type="given">Enver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bino, Silvia</displayForm>
+                        <namePart type="family">Bino</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: According to the previous studies conducted in Albania involving Roma communities and in general populations, the prevalence of HBV was 13% and 7%-9%, respectively. Due to this high prevalence of HBV and difficulties accessing adequate healthcare, a screening was performed in some areas where Roma populations live. The aim of this study was to assess the prevalence of HBV in the Roma population in Albania in order to make evidence-based recommendations for increasing the awareness of the population about this disease and increase the access to the vaccination.
+Conclusion: A higher prevalence of HBV was found among Roma population in Tirana district compared to the general population. The age-group 25-44 years, males, and people residing in Tufina area showed a higher HBsAg positivity rate. Improvement of the sentinel surveillance, increase of the awareness about the disease, promotion of vaccination and healthy behaviour, are the recommended actions that should target the Roma population.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2355</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2355">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/2355/2355" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2355" DMDID="DMD_biejournals_2355">
+            <mets:fptr FILEID="FILE0_biejournals_2355"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

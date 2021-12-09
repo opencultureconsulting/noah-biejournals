@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2086">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>gefährdete Selbst</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hausinger, Brigitte</displayForm>
+                        <namePart type="family">Hausinger</namePart>
+                        <namePart type="given">Brigitte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der rasante Anstieg der gesundheitlichen Belastungen durch Arbeit wird in diesem Artikel in den Kontext mit dem geforderten &quot;Selbst&quot; gestellt. Die Erwerbstätigen sind aufgerufen mehr zu leisten. Vor allem die arbeitsweltliche Flexibilisierung und Entgrenzung und die Zunahme von Komplexität bedeuten für die Erwerbstätigen neue Anforderungen an die Person, an ihr Selbst. Dieser erweiterte Zugriff auf das Selbst ist in der Supervision auch unter der Perspektive der strukturellen Hervorbringung dieses Phänomens zu reflektieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2086</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2086">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2086/1953" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2086" DMDID="DMD_biejournals_2086">
+            <mets:fptr FILEID="FILE0_biejournals_2086"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

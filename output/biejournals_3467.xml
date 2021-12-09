@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3467">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Critical and Postcolonial Perspectives on Global Education</title>
+                        <subTitle>The Case of Poland</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuleta-Hulboj, Magdalena</displayForm>
+                        <namePart type="family">Kuleta-Hulboj</namePart>
+                        <namePart type="given">Magdalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-18</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper aims to contribute to the academic debate on postcolonial perspectives on global education problematising the context of global education in Poland, a former Second World country that does not fit to Global North-Global South dichotomy.
+Approach: The article explores global education in Poland from a critical and postcolonial perspective. It examines both supra-national factors shaping global education nowadays (like migrations, cosmopolitan turn, growing right-wing populism, the culture of measurement) and specific Polish context as a country not only “in-between”, but with the experience of “triple coloniality”.
+Findings: I argue that taking into consideration this complexity and multilayeredness of the Polish situation, together with more general, not country-specific factors, can offer new insights and understandings of global education in Poland. It is a necessary step to decolonise global education and make it more inclusive.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3467</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3467">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3467/3994" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3467" DMDID="DMD_biejournals_3467">
+            <mets:fptr FILEID="FILE0_biejournals_3467"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

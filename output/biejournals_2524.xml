@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2524">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einheit in Vielfalt? Ein exemplarischer Vergleich der Studienprogramme für das Grund-, Haupt- und Realschullehramt in Niedersachsen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feierabend, Marike</displayForm>
+                        <namePart type="family">Feierabend</namePart>
+                        <namePart type="given">Marike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmees, Johannes Karl</displayForm>
+                        <namePart type="family">Schmees</namePart>
+                        <namePart type="given">Johannes Karl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Beitrag wird die strukturelle Vielfalt und das Kompatibilitätsproblem der Lehrer*innenbildung innerhalb eines Bundeslandes thematisiert. Exemplarisch wird dazu das Grund-, Haupt- und Realschullehramt in Niedersachsen analysiert. Auf Grundlage der in Niedersachsen gültigen Verordnung über Masterabschlüsse für Lehrämter werden sechs Universitäten hinsichtlich ihrer Studienbestandteile verglichen. Es kann gezeigt werden, dass ein Universitätswechsel nach dem Bachelorstudium innerhalb Niedersachsens nur in elf von 30 Fällen ohne Auflagen möglich ist.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2524</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2524">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2524/3581" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2524" DMDID="DMD_biejournals_2524">
+            <mets:fptr FILEID="FILE0_biejournals_2524"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

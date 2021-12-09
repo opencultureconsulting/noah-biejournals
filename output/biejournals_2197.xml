@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2197">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pflege als Wirtschaftsfaktor. Vortrag auf dem Oberhausener Pflegekongress 2013</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Franziskus Hospital in Münster hat, gefördert vom BMG seit 2001, eine Delirprävention für seine Patienten mit Demenz und anderer Delir gefährdete Patientengruppen eingerichtet. Diese Delirprävention besteht im Wesentlichen aus der Gegenwart zweier Altenpflegerinnen im und rund um den OP, die die Patienten mit Demenz zuwendungspflegerisch begleiten und so jene &quot;sichere Basis&quot; anbieten, die Menschen mit Demenz aus bindungstheoretischer Sicht vor allem in der fremden Situation OP existenziell benötigen. Die Erfolge sind so deutlich, dass man sich unweigerlich fragt, warum erst jetzt? Denn das Problem des krankenhausbedingten Delirs bei Patienten mit Demenz ist seit langem unter dem Stichwort &quot;Durchgangssyndrom&quot; bekannt. Weniger bekannt sind die gesundheitlichen und letztlich auch wirtschaftlichen Schäden, die durch eine rein invasive Krankenhausbehandlung bei verletzungsoffenen hochaltrigen Menschen mit Demenz entstehen können, wie dauerhafte Desorientierung und Inkontinenz, die dann eine weitere Versorgung der Patienten zu Hause durch Angehörige faktisch nicht mehr möglich machen. Die Forschung hierzu hat erst gerade begonnen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2197</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2197">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2197/2087" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2197">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2197/2088" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2197" DMDID="DMD_biejournals_2197">
+            <mets:fptr FILEID="FILE0_biejournals_2197"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2197" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2197"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4194">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anerkennung</title>
+                        <subTitle>Erziehungswissenschaftliche Betrachtungen einer ambivalenten Kategorie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hummrich, Merle</displayForm>
+                        <namePart type="family">Hummrich</namePart>
+                        <namePart type="given">Merle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag verfolgt die These, dass sich Anerkennung bei der Thematisierung ethnischer Differenz in Schulen der Migrationsgesellschaft als doppelte Ambivalenz zeigt: Sie spannt sich einerseits im Verhältnis von Anerkennung und Missachtung auf; andererseits ist für Anerkennung auch Verkennen konstitutiv. Das Konzept von Anerkennung und Missachtung geht auf Honneth zurück und differenziert unterschiedliche Beziehungsdimensionen von Anerkennung (emotional, moralisch, individuell) aus. Den positiven Anerkennungsformen, die sich darin ausbilden, stehen jeweilige Missachtungsformen entgegen. Das Konzept von Anerkennung und Verkennen ruft die Machtdimension von Anerkennung auf den Plan. Um anerkannt zu werden – so die These –, muss sich die Person anerkennungsfähigen Kategorien unterwerfen, die sie im Alltagshandeln verkennt. Beide Positionen werden am Beispiel der Einführung von „Ghettos“ in Dänemark und der Studie zu „Institutioneller Diskriminierung“ von Gomolla und Radtke diskutiert. Vor diesem Hintergrund werden dann zwei Fallbeispiele aus dem vergleichenden DFG-Projekt EDUSPACE analysiert, an denen die Anerkennungs-Missachtungs-Verkennensstrukturen nachvollzogen werden können. Der erste Fall stammt aus einer deutschen Gemeinschaftsschule und thematisiert im Rahmen einer Klassenleiterstunde die Gefahr islamophober Diskriminierung im Sinne einer Abwehr möglicher Übergriffe und unter der Perspektive der Anpassung an dominanzgesellschaftliche Körperbilder. Der zweite Fall thematisiert Ungleichbehandlung von Schüler*innen, die der Gruppe der „African Americans“ zugerechnet werden im Verhältnis zu den als „White“ positionierten Mädchen. Eine theoretisierende Diskussion der Anerkennungsbeziehungen verweist auf die Grenzen von Anerkennbarkeit in schulischen Rahmungen, aber auch auf die Möglichkeiten, Grenzen zu hinterfragen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4194</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4194">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4194/4163" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4194" DMDID="DMD_biejournals_4194">
+            <mets:fptr FILEID="FILE0_biejournals_4194"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

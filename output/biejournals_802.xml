@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_802">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“Mobilising for the Values of the Republic”- France&apos;s Education Policy Response to the “Fragmented Society”</title>
+                        <subTitle>A Commented Press Review</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Busch, Matthias</displayForm>
+                        <namePart type="family">Busch</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Morys, Nancy</displayForm>
+                        <namePart type="family">Morys</namePart>
+                        <namePart type="given">Nancy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article focuses on recent developments in the domain of civic education in the French education system, the new programme on “Enseignement moral et civique” (EMC), and the debate about the relevance of the basic values of the Republic which came up after the terror attacks in January 2015.Method: The study is based on a press review which provides a contrastive choice of exemplary texts from different perspectives (e.g. educational policy documents, scientific and journalistic articles, interviews, statements of teachers and experts) collected between January 2015 and March 2016.Findings: The contribution examines public reflections on the design and implementation of the programme and gives an overview of the aims, content and methods of the new initiative to teach values in schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_802</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_802">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/802/881" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_802" DMDID="DMD_biejournals_802">
+            <mets:fptr FILEID="FILE0_biejournals_802"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

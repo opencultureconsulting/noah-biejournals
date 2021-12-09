@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3055">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cointegration and Error Correction Modelling in Time-Series Analysis</title>
+                        <subTitle>A Brief Introduction</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thome, Helmut</displayForm>
+                        <namePart type="family">Thome</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-06-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Criminological research is often based on time-series data showing some type of trend movement. Trending time-series may correlate strongly even in cases where no causal relationship exists (spurious causality). To avoid this problem researchers often apply some technique of detrending their data, such as by differencing the series. This approach, however, may bring up another problem: that of spurious non-causality. Both problems can, in principle, be avoided if the series under investigation are “difference-stationary” (if the trend movements are stochastic) and “cointegrated” (if the stochastically changing trendmovements in different variables correspond to each other). The article gives a brief introduction to key instruments and interpretative tools applied in cointegration modelling.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3055</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3055">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3055/pdf_115" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3055">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3055/_14" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3055">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3055/_15" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3055" DMDID="DMD_biejournals_3055">
+            <mets:fptr FILEID="FILE0_biejournals_3055"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3055" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3055"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3055" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3055"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

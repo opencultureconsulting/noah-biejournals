@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1444">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of immigrant associations in the social inclusion of young people with migrant background</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jardim, Carolina</displayForm>
+                        <namePart type="family">Jardim</namePart>
+                        <namePart type="given">Carolina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>da Silva, Sofia Marques</displayForm>
+                        <namePart type="family">da Silva</namePart>
+                        <namePart type="given">Sofia Marques</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article account for an investigation on the role of immigrant associations in the promotion of social inclusion of young people with migrant background.
+Design/methodology/approach: After selecting nine immigrant associations located in Portugal, we carried out a broad set of interviews with the coordinators of those associations and with young people that are Afro-descendants and Eastern-European-descendants aged between 15 and 25 years.
+Findings: Immigrant associations have three different focuses to respond to young people’s needs fostering their social inclusion. Most afro-descendants associations focus mainly on the promotion of young people’s school success and in the development of leisure activities, youth volunteering and geographic mobility. On the other hand, Eastern European associations and Guinee Bissau association focus mainly on the transmission, maintenance and expression of immigrants’ cultural heritage.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1444</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1444">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1444/3291" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1444" DMDID="DMD_biejournals_1444">
+            <mets:fptr FILEID="FILE0_biejournals_1444"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

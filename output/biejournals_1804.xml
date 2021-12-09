@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1804">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>rise and fall of the “Massively Open Online Courses”</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laaser, Wolfram</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Wolfram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The paper summarizes the actual debate about “massive open online courses” (MOOC), a concept that swept over like a “Tsunami” to European educators and universities since its first development in 2008. The definition of the so-called MOOCs, also referred to as a “disruptive educational innovation”, however, is not very precise and has led to some irritations and scepticism. Therefore, the ideas MOOCs rely on, will be described and the pedagogical and technological background will be explained by detailed descriptions of concrete examples. After setting the scene, the factors responsible for the initial hype about MOOCs will be analyzed as well as the upcoming criticism raised against the arguments of the MOOC proponents. The model of the Gartner hype cycle serves as a useful illustration of the ups and downs of expectations related to the introduction of educational innovations. The discussionwill be supplemented by a brief flash back on prior developments in distance education. Furthermore, some recent empirical data retrieved from Google Trends are presented to underline that MOOCs are already on the descent. Finally, the conditions for a survival of some specific applications of MOOCs at “the plateau of the cycle of expectations” will be outlined. In conclusion, MOOCs seem to have promoted, especially in the US, the use of online teaching and learning as well as the reflection about open educational resources. However, the blurred definition of the term MOOC combined with exaggerated expectations turned down the initial hype about a “disruptive innovative concept of teaching and learning” to a more modest consideration of its potential.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1804</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1804">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1804/1725" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1804" DMDID="DMD_biejournals_1804">
+            <mets:fptr FILEID="FILE0_biejournals_1804"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

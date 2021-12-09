@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2158">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Wenn das Leben sich dem Ende zuneigt&quot; - Supervision mit Ehrenamtlerlnnen in der ambulanten Hospizarbeit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grunewald, Elke</displayForm>
+                        <namePart type="family">Grunewald</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Zeit bekommt in unserer Gesellschaft zunehmend einen neuen Wert. Viele Menschen spüren, dass mit der Beschleunigung in allen Lebensbereichen kein Zuwachs an Lebensqualität verbunden ist. Gleichzeitig mit diesem Bewusstseinswandel gewinnt die Arbeit der Hospize in unserer älter werdenden Gesellschaft an Bedeutung. Angehörige haben oft nicht mehr die Zeit, Sterbeprozesse von unabsehbarer Länge zu begleiten. Welche Hilfe können ehrenamtliche Hospizmitarbeiterinnen hier anbieten, und wo liegen die (zeitlichen) Grenzen ihrer Rolle? Welche Erfahrungen machen sie in einem Grenzbereich von Leben und Tod, in dem die gewohnten Zeitgrenzen aufgehoben sind, und welche supervisorische Begleitung brauchen sie? Nach 15 Jahren Erfahrung als Supervisorin mit ehrenamtlichen Hospizmitarbeiterinnen versucht die Autorin, Antworten auf diese Fragen zu finden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2158</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2158">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2158/2025" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2158" DMDID="DMD_biejournals_2158">
+            <mets:fptr FILEID="FILE0_biejournals_2158"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

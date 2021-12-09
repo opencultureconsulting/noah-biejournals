@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1864">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Association of carcinoembryonic antigen (CEA) and cancer antigen 15-3 (CA 15-3) with socio-demographic factors and metastases site in women with metastatic breast cancer in Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoti, Adrian</displayForm>
+                        <namePart type="family">Hoti</namePart>
+                        <namePart type="given">Adrian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gashi, Edmond</displayForm>
+                        <namePart type="family">Gashi</namePart>
+                        <namePart type="given">Edmond</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kraja, Fationa</displayForm>
+                        <namePart type="family">Kraja</namePart>
+                        <namePart type="given">Fationa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sallaku, Agim</displayForm>
+                        <namePart type="family">Sallaku</namePart>
+                        <namePart type="given">Agim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-01</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of our study was to assess the association of carcinoembryonic antigen (CEA) and cancer antigen 15-3 (CA15-3) with socio-demographic factors and metastases site in women diagnosed with metastatic breast cancer in post-communist Albania.Methods: A case-series study was carried out during the period January 2010 – September 2017 including 110 female patients diagnosed with breast cancer with metastases at the Oncology Service of the University Hospital Centre “Mother Teresa” in Tirana, the Albanian capital. Of these, 57 (51.8%) patients had evidence of hepatic metastases, whereas the reaming 53 (48.2%) patients had metastases in the bones and/or in the lungs. CEA and CA15-3 were measured at the time of diagnosis for all study participants. In addition, information on socio-demographic factors was collected. General linear model was used to assess the relationship of CEA and CA15-3 with covariates.     Results: There was evidence of a significant correlation between CEA and CA15-3 levels (Spearman’s rho=0.59, P&amp;lt;0.001). Upon simultaneous adjustment for all covariates, mean values of CEA and CA15-3 were significantly higher in patients with metastases in the bones and/or in the lungs compared with their counterparts with metastases in the liver. Also, CA15-3 levels were significantly higher in younger patients compared with their older counterparts.Conclusion: This study provides valuable evidence on selected correlates of CEA and CA15-3 in Albanian female patients diagnosed with metastatic breast cancer. Oncologists and other health professionals in Albania, as well as decision-makers and policymakers should be aware of the burden and risk factors of breast cancer among women in this transitional society.           </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1864</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1864">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1864/1784" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1864" DMDID="DMD_biejournals_1864">
+            <mets:fptr FILEID="FILE0_biejournals_1864"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

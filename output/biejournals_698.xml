@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_698">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teaching Human Rights in Turkey</title>
+                        <subTitle>Commentaries on a Single Lesson from Multiple Perspectives</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kesten, Alper</displayForm>
+                        <namePart type="family">Kesten</namePart>
+                        <namePart type="given">Alper</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schur, Joan Brodsky</displayForm>
+                        <namePart type="family">Schur</namePart>
+                        <namePart type="given">Joan Brodsky</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gürsoy, Kudret</displayForm>
+                        <namePart type="family">Gürsoy</namePart>
+                        <namePart type="given">Kudret</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-09-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A lesson on human rights in Turkey is analyzed for its representativity and methodology within the Turkish teaching culture from the viewpoint of a Turkish researcher, an American teacher and curriculum developer, and a German teacher.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_698</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_698">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/698/754" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_698" DMDID="DMD_biejournals_698">
+            <mets:fptr FILEID="FILE0_biejournals_698"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

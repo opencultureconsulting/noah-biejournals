@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_399">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hedtke, Reinhold</displayForm>
+                        <namePart type="family">Hedtke</namePart>
+                        <namePart type="given">Reinhold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zimenkova, Tatjana</displayForm>
+                        <namePart type="family">Zimenkova</namePart>
+                        <namePart type="given">Tatjana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The core question of this issue of the JSSE, “Sociology? Who Needs It?”, sounds rather radical and provocative. But it may simply mirror the real vanishing of sociological topics from civic education curricula in the past decades occurring at least in some European countries. At the same time, asking this question may hold high potentials of identification for all social scientists, teaching in schools, occupied with teacher training and developing conceptions for curricula of social science subjects and conceptions for school.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_399</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_399">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/399/396" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_399" DMDID="DMD_biejournals_399">
+            <mets:fptr FILEID="FILE0_biejournals_399"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

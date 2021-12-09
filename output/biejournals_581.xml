@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_581">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Turkey’s New Citizenship and Democracy Education Course</title>
+                        <subTitle>Search for Democratic Citizenship in a Difference-Blind Polity?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Çayır, Kenan</displayForm>
+                        <namePart type="family">Çayır</namePart>
+                        <namePart type="given">Kenan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The paper introduces and critically evaluates the new Citizenship and Democracy Education course in the Turkish curriculum. This course has been introduced as a mandatory subject in grade 8 per one hour a week in the 2011-2012 academic year. Following the comprehensive 2005 curriculum reform, Citizenship and Human Rights Education courses had been abolished and these themes had been distributed to the curriculum of different courses. However, recommendations of academics and international bodies such as the Council of Europe on the advantages of having a distinct course on citizenship and human rights have led the Ministry of National Education to reintroduce a compulsory course covering these themes. The new course seems to be a human rights education course with its emphasis on rights and responsibilities. It could be considered a progressive step in this regard. However, the implication that educating people about their rights could be a basis of democratic citizenship might not be realized in present Turkey where internal conflicts based on religious, ethnic and language-based differences are becoming salient. The paper argues that democratization of citizenship in Turkey requires not only an education about rights but also the questioning of the current difference-blind civic republican notion of citizenship. It draws attention to the necessity of the development of a new political framework and a related citizenship course that would allow for peaceful coexistence of cultural differences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_581</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_581">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/581/578" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_581" DMDID="DMD_biejournals_581">
+            <mets:fptr FILEID="FILE0_biejournals_581"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

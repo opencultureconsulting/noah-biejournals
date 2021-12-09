@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Didaktik und pädagogische Beziehungen in Zeiten der Pandemie</title>
+                        <subTitle>Ein Praxisbericht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Steinl, Vincent</displayForm>
+                        <namePart type="family">Steinl</namePart>
+                        <namePart type="given">Vincent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vogelsaenger, Wolfgang</displayForm>
+                        <namePart type="family">Vogelsaenger</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Beziehungen in der Schule sind nicht per se gute Beziehungen, nur weil sie analog sind. Beziehungen, die auf rein digitalen Kanälen eingegangen wurden, sind nicht per se schlechte Beziehungen. Analog oder digital: Entscheidend ist, mit welcher Achtsamkeit, Feinfühligkeit und Wahrung der Würde anderer miteinander umgegangen wird. Analog und digital sind aber auch die Strukturen und die didaktischen Sichtweisen wichtig, in denen Lernen und Begegnungen stattfinden. Diese können beziehungsförderlich oder beziehungsschädlich sein. Wenn Lernende von Lehrenden als Objekte und nicht als Subjekte gesehen und behandelt werden, dann entstehen schädliche Beziehungen und ein ineffektives Lernklima. Die Nutzung digitaler Medien in den Zeiten der Pandemie birgt die Chance auf demokratischere Strukturen in Lernzusammenhängen jeglicher Art. Gerade die Herausforderungen für das Lernen in der Pandemie setzen die Gestaltung gelungener pädagogischen Beziehungen voraus. Die konstruktivistische Didaktik von Kersten Reich gibt hier wichtige Impulse (Reich, 2005).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3910</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3910">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3910/3969" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3910" DMDID="DMD_biejournals_3910">
+            <mets:fptr FILEID="FILE0_biejournals_3910"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

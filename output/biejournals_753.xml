@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_753">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Science and Social Studies Teachers’ Beliefs and Practices about Teaching Controversial Issues</title>
+                        <subTitle>Certain Comparisons</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuş, Zafer</displayForm>
+                        <namePart type="family">Kuş</namePart>
+                        <namePart type="given">Zafer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The current study aims to investigate social studies and science teachers’ attitudes and classroom practices associated with controversial issues. The study is a qualitative research based on data collected through interviews and observation. Social studies and Science teachers participated in the current study which was conducted in Kirsehir, a city in the center of Turkey, during the 2012-2013 academic years. Data were collected through classroom observation and interviews with teachers. In this study, teachers&apos; positioning during controversial issues are determined by Kelly&apos;s (1986) positioning classification: Exclusive Neutrality, Exclusive Partiality, Neutral Impartiality, and Committed Impartiality. According to results of the research, violence against women, education system, terrorism and nationalism are the leading issues among the controversial issues that both social studies and science teachers listed in Turkey. In relation to their area, social studies teachers stated that the issues such as Kemalism, democracy, military coups, and deep state, which are associated with recent history of Turkey, were among the important controversial issues. Science teachers on the other hand stated issues such as cancer and anti-toxic foods and global warming among the controversial issues in Turkey. Both social studies and science teachers stated that the most frequently encountered problem in discussions was lack of knowledge by students. Whereas social studies teachers stated that their priority goals were particularly to raise active citizens and to set up a democratic classroom environment, science teachers pointed to raising scientifically thinking students and increasing students’ knowledge as their priority goals. During in-class discussions teachers take some positions. The positions stated by the teachers and in-class observations of them conflict. Whereas the teachers stated that they prefer the 4th and 3rd positions, the in-class observations showed that they mainly adopted the 2nd position. Results of observations in social studies classes show that teachers definitely stated their positions about the discussed issue as a priority; they tried to teach the students their positions about the issue; and occasionally about some issues, they told just their positions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_753</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_753">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/753/820" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_753" DMDID="DMD_biejournals_753">
+            <mets:fptr FILEID="FILE0_biejournals_753"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

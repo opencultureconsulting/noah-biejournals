@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_657">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Interview with Vera Maria Ferrão Candau</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bannell, Ralph Ings</displayForm>
+                        <namePart type="family">Bannell</namePart>
+                        <namePart type="given">Ralph Ings</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article is an interview on human rights education with one of Latin Americás most prominent human rights educators, Professor Vera Candau. The interview covers her trajectory in human rights education, the relationship between human rights education, liberalism and socialism, the question of interculturality and the role of human rights education inschools and informal educational contexts.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_657</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_657">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/657/687" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_657" DMDID="DMD_biejournals_657">
+            <mets:fptr FILEID="FILE0_biejournals_657"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

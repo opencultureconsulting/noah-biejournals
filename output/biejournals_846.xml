@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_846">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Education to Thrive in a Heterogeneous and Democratic Society - A Task for Citizenship and Character Education? Results of Case Studies in Three Berlin Schools</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bacia, Ewa</displayForm>
+                        <namePart type="family">Bacia</namePart>
+                        <namePart type="given">Ewa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ittel, Angela</displayForm>
+                        <namePart type="family">Ittel</namePart>
+                        <namePart type="given">Angela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The main goal of this paper is to analyze how the schools and teachers in three high schools dealt with the challenges of heterogeneity in the classroom using methods of citizenship and character education (CCE).Approach: To achieve this goal we conducted case studies in three high schools in Berlin, using multiple methodological approaches: observation of lessons, surveys of students, focus group interviews (FGI) and workshops with students, and individual interviews with teachers and with the headmasters of the schools. For the analysis of the data we use the PRIME model developed by Berkowitz and Bier (2014).Findings: Findings: The results of the case studies provide numerous insights into the issue’s complexity and highlight the need to discuss the goals as well as different models of CCE more broadly. Since the understanding of goals and appropriate means of CCE differs strongly depending on cultural and school context, analyzing CCE in the context of heterogeneity in democratic societies implies multidimensional questions.Practical implications: Future research needs to include more members of the studied school communities in the process of participatory action research: Deeper insight into the field can be achieved by integrating multiple perspectives. At the same time more members of the school community can reflect on the study outcomes, which might facilitate their direct implementation into practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_846</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_846">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/846/958" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_846" DMDID="DMD_biejournals_846">
+            <mets:fptr FILEID="FILE0_biejournals_846"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2872">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Central American Fear of Youth</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oettler, Anika</displayForm>
+                        <namePart type="family">Oettler</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">It is often asserted that youth gangs and organized crime have seized Central America. For theories on contemporary Central American violence, Costa Rica, El Salvador and Nicaragua present important test cases, which demonstrate the need to differentiate the diagnosis. This paper is concerned with the social construction of violence-related national and transnational myths as a precondition for policy formulation. The notion of exploding youth violence is part of hegemonic discourses and not necessarily linked to lifeworld experiences. While discourses on youth violence differ from country to country, with varying threat levels, patterns of attention, and discursive leitmotifs, they share the monstrous image of brutal gangs (Mara Salvatrucha, Dieciocho) as the most vivid object of fear.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2872</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2872">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2872/pdf_36" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2872">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2872/2686" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2872" DMDID="DMD_biejournals_2872">
+            <mets:fptr FILEID="FILE0_biejournals_2872"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2872" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2872"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

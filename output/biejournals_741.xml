@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_741">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Walking Through the Revolution</title>
+                        <subTitle>A Spatial Reading of Literary Echoes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Queiroz, Ana Isabel</displayForm>
+                        <namePart type="family">Queiroz</namePart>
+                        <namePart type="given">Ana Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Alves, Daniel</displayForm>
+                        <namePart type="family">Alves</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper presents an embryo of a literary guide on the Carnation Revolution to be explored for educational historical excursions other than leisure and tourism. We propose a historical trail through the centre of Lisbon, city of the Carnation Revolution, called Walk through the Revolution. The trail aims to reinforce collective memory about the major events that occurred in the early moments leading to the coup. The trail is made up by nine places of rememberance, for which literary excerpts are suggested and which are supported by a digital research procedure. A set of seven fixed and observer-independent categories are used to analyse the literary contents of 23 literary works published up to 2013. These literary works refer to events that happened between the eve of April 25 and May 1, 1974. At the same time, literary descriptions are explored using a spatial approach in order to define the literary geography of the most iconic military actions and popular demonstrations that occurred in Lisbon and the surroundings. The literary geography and the cartography of the historical events are then compared. Data analysis and visualization benefit from the use of standardised and quantitative methods, including basic statistics and geographic information systems.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_741</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_741">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/741/801" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_741">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/741/802" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_741">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/741/803" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE3_biejournals_741">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/741/804" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_741" DMDID="DMD_biejournals_741">
+            <mets:fptr FILEID="FILE0_biejournals_741"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_741" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_741"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_741" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_741"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_741" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_741"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

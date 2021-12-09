@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1854">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Enhancing health system’s governance through demographic and health surveys in transitional European countries</title>
+                        <subTitle>The example of Albania</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Muja, Herion</displayForm>
+                        <namePart type="family">Muja</namePart>
+                        <namePart type="given">Herion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröder-Bäck, Peter</displayForm>
+                        <namePart type="family">Schröder-Bäck</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Helmut</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-08-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">To inform policymakers well, there is a need to promote different types of health examination surveys as additional sources of valuable information which, otherwise, would not be available through routine/administrative statistics. This is especially important for former communist countries of South Eastern Europe including Albania, where the existing health information system (HIS) is weak.Among many efforts to strengthen the HIS in Albania, there is currently a commitment to undertake a second round of a nationwide Demographic and Health Survey (DHS). This survey will involve a nationwide representative sample of about 17,000 private households, where all women aged 15-59 years and their respective partners will be interviewed and examined.Externally, the upcoming Albanian DHS will contribute to the European Union accession requirements regarding provision of standardized and valid health information. Furthermore, the DHS will considerably enhance the core functions of the Albanian health system in line with the WHO recommendations. Internally, the DHS will promote societal participation and responsibility in transitional Albania. Importantly, the forthcoming survey will promote good governance including transparency, accountability and health system responsiveness. Also, the DHS will allow for collection of internationally valid and standardized baseline socio-demographic and health information for: assessment of future national trends; monitoring and evaluation of health programs and interventions; evidencing health disparities and inequities; and cross-national comparisons between Albania and different countries of the European Region. Ultimately, findings of the DHS will enable rational decision-making and evidence-based policy formulation in Albania including appropriate planning, prioritization and sound resource allocation. However, transfer of the information collected and implementation in public health policies and interventional programs is rather challenging for most of the countries, particularly for transitional post-communist countries of South Eastern Europe including Albania.  </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1854</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1854">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1854/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1854" DMDID="DMD_biejournals_1854">
+            <mets:fptr FILEID="FILE0_biejournals_1854"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

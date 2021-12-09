@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2766">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Assessing the Relevance of Anomie Theory for Explaining Spatial Variation in Lethal Criminal Violence</title>
+                        <subTitle>An Aggregate-Level Analysis of Homicide within the United States</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stults, Brian J.</displayForm>
+                        <namePart type="family">Stults</namePart>
+                        <namePart type="given">Brian J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baumer, Eric P.</displayForm>
+                        <namePart type="family">Baumer</namePart>
+                        <namePart type="given">Eric P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">32</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">One of the most influential statements in the anomie theory tradition has been Merton’s argument that the volume of instrumental property crime should be higher where there is a greater imbalance between the degree of commitment to monetary success goals and the degree of commitment to legitimate means of pursuing such goals. Contemporary anomie theories stimulated by Merton’s perspective, most notably Messner and Rosenfeld’s institutional anomie theory, have expanded the scope conditions by emphasizing lethal criminal violence as an outcome to which anomie theory is highly relevant, and virtually all contemporary empirical studies have focused on applying the perspective to explaining spatial variation in homicide rates. In the present paper, we argue that current explications of Merton’s theory and IAT have not adequately conveyed the relevance of the core features of the anomie perspective to lethal violence. We propose an expanded anomie model in which an unbalanced pecuniary value system – the core causal variable in Merton’s theory and IAT – translates into higher levels of homicide primarily in indirect ways by increasing levels of firearm prevalence, drug market activity, and property crime, and by enhancing the degree to which these factors stimulate lethal outcomes. Using aggregate-level data collected during the mid-to-late 1970s for a sample of relatively large social aggregates within the U.S., we find a significant effect on homicide rates of an interaction term reflecting high levels of commitment to monetary success goals and low levels of commitment to legitimate means. Virtually all of this effect is accounted for by higher levels of property crime and drug market activity that occur in areas with an unbalanced pecuniary value system. Our analysis also reveals that property crime is more apt to lead to homicide under conditions of high levels of structural disadvantage. These and other findings underscore the potential value of elaborating the anomie perspective to explicitly account for lethal violence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2766</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2766">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2766/2527" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2766" DMDID="DMD_biejournals_2766">
+            <mets:fptr FILEID="FILE0_biejournals_2766"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1609">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vertikale Landwirtschaft in der Schule</title>
+                        <subTitle>Bauanleitung für einfache hydroponische Systeme zum Experimentieren im Kontext aktueller globaler Herausforderungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hardt, Hanna</displayForm>
+                        <namePart type="family">Hardt</namePart>
+                        <namePart type="given">Hanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van Dongen, Joost T.</displayForm>
+                        <namePart type="family">van Dongen</namePart>
+                        <namePart type="given">Joost T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohrmann, Johannes</displayForm>
+                        <namePart type="family">Bohrmann</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Romy</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Romy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Vertikale Landwirtschaft ist angesichts der Problematik von Klimawandel und Welternährung ein hochaktueller Kontext für den Biologieunterricht. Die Kultivierung von Pflanzen erfolgt hier auf kleiner Fläche und unter kontrollierten Bedingungen in sogenannten hydroponischen Systemen, die optimierte Nährlösungen enthalten. Für die Schule können einfache hydroponische Systeme für Mais und Kresse hergestellt werden. So können modellhaft das Prinzip und die Bedeutung der vertikalen Landwirtschaft aufgezeigt sowie Experimente zum Wachstum und zum Trocken- und Salzstress bei Pflanzen durchgeführt werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1609</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1609">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1609/1544" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1609">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1609/1545" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_1609">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1609/1546" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1609" DMDID="DMD_biejournals_1609">
+            <mets:fptr FILEID="FILE0_biejournals_1609"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1609" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1609"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1609" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1609"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3173">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Raumbezogene Schulentwicklung in einer inklusiven Schule</title>
+                        <subTitle>Zur Nutzungsgeschichte des Unterrichtsgroßraums der Laborschule Bielefeld</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zenke, Christian Timo</displayForm>
+                        <namePart type="family">Zenke</namePart>
+                        <namePart type="given">Christian Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von Quellen aus dem Universitätsarchiv Bielefeld sowie dem Südwestdeutschen Archiv für Architektur und Ingenieurbau wird im Beitrag die Nutzungsgeschichte des Unterrichtsgroßraums der Bielefelder Laborschule (insbesondere in den Jahren 1974 bis 1979) nachgezeichnet und analysiert. Ziel ist es, auf diesem Wege einen historisch kontextualisierten Beitrag zur aktuellen Diskussion um Fragen der „inklusiven“ Schularchitektur zu leisten: So wird von pädagogischer Seite aus derzeitig zwar immer wieder die Forderung formuliert, sich vom etablierten Modell der „Klassenraum-Flur-Schule“ zu lösen und anstelle dessen auf die Errichtung sogenannter „Offener Lernlandschaften“ zu setzen; gleichzeitig jedoch gibt es zumindest in Deutschland bisher kaum tatsächliche (und vor allem: langjährige) Erfahrungen mit entsprechenden Schulraummodellen, die geeignet wären, die diversen mit einer solchen Form von Schulraumgestaltung verbundenen Hoffnungen einer systematischen Prüfung zu unterziehen. Vor diesem Hintergrund erscheint gerade die Laborschule Bielefeld – als einzige „Überlebende“ des Großraumschul-Booms der 1970er-Jahre – als geeigneter Ausgangspunkt für eine historiographische Annäherung an das grundsätzliche Verhältnis von „inklusiver“ Schulentwicklung und „offener“ Schulraumgestaltung. Im Mittelpunkt des Beitrags steht daher denn auch nicht nur die Frage, wie sich der pädagogische Umgang mit der situativen und konzeptionellen Flexibilität des Laborschulgroßraums über die Jahre gewandelt hat; ein besonderes Augenmerk gilt darüber hinaus den ganz konkreten Prozessen und Schwierigkeiten raumbezogener Schulentwicklung im alltäglichen „Apfelsinenschalen-, Kakaobecher- und Papierschwalbenkrieg“ (Rosenbohm, 1977, S.&amp;nbsp;193) der späten 1970er-Jahre.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3173</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3173">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3173/3323" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3173" DMDID="DMD_biejournals_3173">
+            <mets:fptr FILEID="FILE0_biejournals_3173"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3532">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Antinomies of Inter- and Transcultural Learning</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Volkmann, Laurenz</displayForm>
+                        <namePart type="family">Volkmann</namePart>
+                        <namePart type="given">Laurenz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">It is a difficult and certainly troubling insight that some of the goals or competences under discussion in the context of inter- and transcultural learning can and must be seen as having little in common. They can even be considered as conflicting, contradictory or mutually exclusive – one may only reflect on the discrepant expectations connected with the goal of “critical thinking” (with regard to other cultures) on the one hand and the idea of “emphatic understanding” (of other cultures) on the other (cf. Breithaupt 2017). Such jarring of oppositional phenomena in educational contexts can be explored with reference to Helsper’s discussion of how any kind of teaching or learning in today’s modern, differentiated society takes place within a matrix of oppositional concepts and objectives (cf. Helsper 2002, 2010, Schlömerkemper 2017). Specifically, Helsper uses the term “antinomies” to indicate that pedagogic practice always entails a choice between different options, each “hailing,” so to speak, to be given prominence and each encompassing a different range of specific teaching and learning goals, strategies, techniques and practical steps. This article will apply the concept of pedagogic antinomies to current challenges in the fields of inter- and transcultural teaching/learning.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3532</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3532">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3532/3650" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3532" DMDID="DMD_biejournals_3532">
+            <mets:fptr FILEID="FILE0_biejournals_3532"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

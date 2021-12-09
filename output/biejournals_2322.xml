@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2322">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Gruppentheorie von S.H. Foulkes für eine supervisorische Praxis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Roth-Vormann, Manuela</displayForm>
+                        <namePart type="family">Roth-Vormann</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag beschaÌˆftigt sich mit der Theorie Foulkes. Nachdem die theoretischen Grundlagen dargelegt wurden, soll gezeigt werden, inwiefern die Theorie Foulkes interessant für die Supervision ist und dort ihre Anwendung finden kann. Bevor Wesentliches der Theorie Norbert Elias für diese Arbeit vorgestellt wird, wird Freuds Begriff der UÌˆbertragung im psychoanalytischen Konzept im Folgenden kurz umrissen. Im Anschluss daran findet in einem naÌˆchsten Abschnitt der Gedanke der Interdependenz bei Norbert Elias (Figurationstheorie) Platz, um sich dann dem gruppenanalytischen Verstehen des Konzepts Foulkes zu widmen. Der fünfte Absatz wird dem Theorie-Praxis- Transfer gewidmet, bevor abschließende Bemerkungen die Ausarbeitung beenden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2322</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2322">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2322/2304" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2322" DMDID="DMD_biejournals_2322">
+            <mets:fptr FILEID="FILE0_biejournals_2322"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

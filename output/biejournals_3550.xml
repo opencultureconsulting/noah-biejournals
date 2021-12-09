@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3550">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Zusammenhang von Praxis, Forschung, Praxisforschung, Bildung und Lehrer*innenbildung</title>
+                        <subTitle>Editorial zur ersten regulären Ausgabe der PraxisForschungLehrer*innenBildung (PFLB) –  Zeitschrift für Schul- und Professionsentwicklung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streblow, Lilian</displayForm>
+                        <namePart type="family">Streblow</namePart>
+                        <namePart type="given">Lilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Im Editorial zur ersten regulären Ausgabe der PraxisForschungLehrer*innenBildung (PFLB) – Zeitschrift für Schul- und Professionsentwicklung erläutern die Herausgeber*innen entlang des Titels der Zeitschrift die Intentionen des Journals. Grundgedanke hierbei ist die Praxisnähe bzw. der grundlegende Praxisbezug der hier dokumentierten Forschung. Das Spektrum reicht von klassischer Praxisforschung zu Schule und Unterricht, in der die Praxisnähe und der Praxisbezug durch die partizipativen Forschungsprozesse gemeinsam mit Praktiker*innen sichergestellt werden, bis hin zur lokal relevanten Evaluationsforschung aus anwendungsorientierter Perspektive. Als übergreifendes Merkmal dieses neuen Open-Access-Journals wird damit die Orientierung an einer Forschungs- und Entwicklungslogik (FuE-Logik) herausgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3550</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3550">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3550/3665" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="" ID="FILE1_biejournals_3550">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3550/3666" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3550" DMDID="DMD_biejournals_3550">
+            <mets:fptr FILEID="FILE0_biejournals_3550"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3550" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3550"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

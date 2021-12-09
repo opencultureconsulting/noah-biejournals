@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2779">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Crossing the Rubicon</title>
+                        <subTitle>Deciding to Become a Paramilitary in Northern Ireland</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ferguson, Neil</displayForm>
+                        <namePart type="family">Ferguson</namePart>
+                        <namePart type="given">Neil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burgess, Mark</displayForm>
+                        <namePart type="family">Burgess</namePart>
+                        <namePart type="given">Mark</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hollywood, Ian</displayForm>
+                        <namePart type="family">Hollywood</namePart>
+                        <namePart type="given">Ian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Northern Ireland has endured a history of violence since its inception in 1922. The last forty years have been characterised by sustained political conflict and a fledging peace process. We conducted a series of interviews with individuals who had used violence to pursue political goals during the conflict. This article focuses on the processes involved in their joining of paramilitary groups and engaging in violent actions. The participants’ accounts resonate with factors that other researchers have identified as being antecedent to paramilitary membership, such as having the support of the immediate community (e. g., Crawford 2003; Silke 2003). However, the rational decisions that are revealed in these accounts also show that participants engaged in rational decision making as opposed to being mindlessly provoked into membership in response to an environmental stimulus. These results highlight the degree to which individuals bear, and accept, personal responsibility for joining a paramilitary group (as opposed to membership simply being stimulated by uncontrollable dispositional or situational forces).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2779</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2779">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2779/2540" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2779" DMDID="DMD_biejournals_2779">
+            <mets:fptr FILEID="FILE0_biejournals_2779"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3056">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Models for Pooled Time-Series Cross-Section Data</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Raffalovich, Lawrence E</displayForm>
+                        <namePart type="family">Raffalovich</namePart>
+                        <namePart type="given">Lawrence E</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Chung, Rakkoo</displayForm>
+                        <namePart type="family">Chung</namePart>
+                        <namePart type="given">Rakkoo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Several models are available for the analysis of pooled time-series cross-section (TSCS) data, defined as “repeated observations on fixed units” (Beck and Katz 1995). In this paper, we run the following models: (1) a completely pooled model, (2) fixed effects models, and (3) multi-level/hierarchical linear models. To illustrate these models, we use a Generalized Least Squares (GLS) estimator with cross-section weights and panel-corrected standard errors (with EViews 8) on the cross-national homicide trends data of forty countries from 1950 to 2005, which we source from published research (Messner et al. 2011). We describe and discuss the similarities and differences between the models, and what information each can contribute to help answer substantive research questions. We conclude with a discussion of how the models we present may help to mitigate validity threats inherent in pooled time-series cross-section data analysis.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3056</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3056">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3056/pdf_118" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3056">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3056/_12" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3056">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3056/_13" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3056" DMDID="DMD_biejournals_3056">
+            <mets:fptr FILEID="FILE0_biejournals_3056"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3056" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3056"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3056" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3056"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

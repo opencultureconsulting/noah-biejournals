@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2945">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introduction</title>
+                        <subTitle>Transitions from Violence. Analysing the Effects of Transitional Justice</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bonacker, Thorsten</displayForm>
+                        <namePart type="family">Bonacker</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Buckley-Zistel, Susanne</displayForm>
+                        <namePart type="family">Buckley-Zistel</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Transitional justice refers to processes of dealing with the aftermath of violent conflicts and human rights abuses in order to provide for a peaceful future. It makes use of a number of instruments and mechanisms – including tribunals, truth commissions, memory work, and reparations – which aim at uncovering the truth about past crimes, putting past wrongs right, holding perpetrators accountable, vindicating the dignity of victim-survivors, and contributing to reconciliation. The objective of this focus section is to critically assess the potential of transitional justice, its achievements thus far, any conflicting goals, and the inherent or external obstacles that limit its influence and reach. Through empirical case studies from across the globe it paints a multi-faceted picture of the strengths and weaknesses of the approach.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2945</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2945">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2945/pdf_111" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2945">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2945/2834" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2945" DMDID="DMD_biejournals_2945">
+            <mets:fptr FILEID="FILE0_biejournals_2945"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2945" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2945"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

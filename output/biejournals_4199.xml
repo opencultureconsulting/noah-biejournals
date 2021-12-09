@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4199">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Modell der Didaktischen Rekonstruktion in der Ausbildung von Geographielehrkräften</title>
+                        <subTitle>Ein Lehr- und Lernangebot zur vertieften Auseinandersetzung mit Unterrichtsplanung und -reflexion</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Model of Educational Reconstruction in the Training of Geography Teachers</title>
+                        <subTitle>An Opportunity for In-Depth Considerations on Lesson Planning and Lesson Reflection</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reinfried, Sibylle</displayForm>
+                        <namePart type="family">Reinfried</namePart>
+                        <namePart type="given">Sibylle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag ist ein Werkstattbericht über ein Seminar in der Fachdidaktik Geographie für Lehramtsstudierende für die Sekundarstufe I an Pädagogischen Hochschulen. Mit dem Seminar sollte ein professioneller Reflexionsrahmen geschaffen werden, in dem das Modell der Didaktischen Rekonstruktion (Kattmann, Duit, Gropengießer &amp;amp; Komorek, 1997) in seinen Bezügen zur Unterrichtspraxis diskutiert wird. Die Lernziele des Seminars bestanden darin, das Modell als Forschungs- und Entwicklungsrahmen für Unterricht kennenzulernen, sich vertieft mit dem Modell auseinanderzusetzen und Leitideen und Strategien für lernförderliche Lehr-Lernangebote für das Fach Geographie zu entwickeln. Im Beitrag werden das Konzept des Seminars sowie ein Unterrichtsvorschlag, der auf der Basis des Modells im Seminar entwickelt wurde, vorgestellt. Es wird diskutiert, welche Lernfortschritte die Studierenden im Seminar erzielen konnten und mit welchen Lernschwierigkeiten sie zu kämpfen hatten.</abstract>
+                    <abstract lang="eng">This paper is a report on a seminar on geography education for students in pre-service teacher training for the lower secondary level held at teacher education colleges. The seminar aimed at creating a professional framework for the reflection of the Model of Educational Reconstruction in relation to teaching practice (Kattmann, Duit, Gropengießer &amp;amp; Komorek, 1997). The learning objectives of the seminar were to acquaint students with the model as a research and development framework for teaching, to discuss the model in detail and to develop guidelines and strategies for a learning environment in geography that promotes in-depth learning. This paper introduces the concept of the seminar and includes a proposal for a learning environment designed according to the principles of educational reconstruction and developed by the students in the course of the seminar. In addition, the paper discusses the learning progress that the students were able to achieve in the seminar and the particular difficulties they faced.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4199</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4199">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4199/4194" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4199" DMDID="DMD_biejournals_4199">
+            <mets:fptr FILEID="FILE0_biejournals_4199"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

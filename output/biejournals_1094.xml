@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1094">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Politics as Shaping</title>
+                        <subTitle>An Approximation to Students’ Metaphorical Understanding</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kegel, Andreas Stephan</displayForm>
+                        <namePart type="family">Kegel</namePart>
+                        <namePart type="given">Andreas Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: Teaching social science might benefit from using students’ metaphorical understanding. Metaphors help people to better understand abstract concepts by breaking them down into more familiar ones. This essay attempts to approximate students’ metaphors of politics to improve social science education’s efforts in shaping politically mature citizens.
+Method: Taking three single interviews with students attending senior classes in high schools in Hamburg, Germany, this paper analyses metaphors they use to describe politics. It categorizes them and puts them into a larger context in the form of systematic metaphors providing an approximation to the students’ metaphorical understanding.
+Findings: The findings suggest that students understand politics as shaping society, participation as passing upwards people’s interests, governance as guidance, and human life as the foundation for society. However, more research is necessary, such as analysing more students’ metaphors or using issue-related drawings.
+Practical implications: Teachers can use these findings to initialize a conceptual reconstruction. They could ask students to draw a Grafiz using the terms suggested above and having a better access to students’ metaphorical understanding of a topic. That helps the teacher to select appropriate material for their teaching units.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1094</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1094">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1094/1236" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1094" DMDID="DMD_biejournals_1094">
+            <mets:fptr FILEID="FILE0_biejournals_1094"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

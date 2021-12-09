@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_957">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pet Birds. Cages and Practices of Domestication in Eighteenth-Century Paris</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breittruck, Julia</displayForm>
+                        <namePart type="family">Breittruck</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This paper focuses on the genesis of the »pet making« of birds in eighteenth-century Paris. It examines the ways in which particular cages, and the corresponding imagination and practice of caretaking and domestication, construed birds as »pets.« The status of these animals in either their difference or similarity to »the human« is analyzed by looking at different kinds of bird-caging instructions. First, I found that bird caging developed as a cultural technique of domestication since it organized and reflected human cohabitation with and the enclosure of formerly wild animals. By teaching birds language and music, firstly, different avian species were conceptualized and, on a practical level, tamed, and secondly, the human-animal frontier was debated. Second, while bird keeping was being popularized in Parisian society, the place and the treatment of companion birds signaled the owners’ social status. Third, aviaries could function symbolically as aristocratic heterotopias during the second half of the eighteenth century.Thus, human-bird relationships were defined by two elements: the conceptualizing and practice of education, and their placement in real as well as imagined spatial proximities or distances.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_957</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_957">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/957/1065" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_957" DMDID="DMD_biejournals_957">
+            <mets:fptr FILEID="FILE0_biejournals_957"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

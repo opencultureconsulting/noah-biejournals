@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2816">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Atoning for Colonial Injustices</title>
+                        <subTitle>Group-Based Shame and Guilt Motivate Support for Reparation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Allpress, Jesse A.</displayForm>
+                        <namePart type="family">Allpress</namePart>
+                        <namePart type="given">Jesse A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barlow, Fiona Kate</displayForm>
+                        <namePart type="family">Barlow</namePart>
+                        <namePart type="given">Fiona Kate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brown, Rupert</displayForm>
+                        <namePart type="family">Brown</namePart>
+                        <namePart type="given">Rupert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Louis, Winnifred R.</displayForm>
+                        <namePart type="family">Louis</namePart>
+                        <namePart type="given">Winnifred R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-04-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An investigation of the role of group-based shame and guilt in motivating citizens of ex-colonial countries to support restitution to former colonized groups which were the target of violence and oppression. Study 1 (N = 125) was conducted in Australia during the lead-up to the first official government apology to Aboriginal Australians. Among white Australians, guilt and shame were associated with attitudinal support for intergroup apology and victim compensation. However, only shame was associated with actual political behaviour (signing a petition in support of the apology). Study 2 (N = 181), conducted in Britain, focussed on Britain&apos;s violent mistreatment of the Kenyan population during decolonization. It tested a hypothesis that there are two forms of shame-essence shame and image shame-and demonstrated that image shame was associated with support for apology, whereas essence shame was associated with support for more substantial material and financial compensation. The findings are discussed in light of promoting restitution and reconciliation within nations with histories of colonial violence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2816</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2816">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2816/pdf_17" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2816" DMDID="DMD_biejournals_2816">
+            <mets:fptr FILEID="FILE0_biejournals_2816"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

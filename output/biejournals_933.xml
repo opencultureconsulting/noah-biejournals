@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_933">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Legend of science. External constructions by the extended ›family‹ – the biography of Paul Ehrlich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hüntelmann, Axel C.</displayForm>
+                        <namePart type="family">Hüntelmann</namePart>
+                        <namePart type="given">Axel C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Axel Hüntelmann sketches the early attempts of Paul Ehr­lich’s family, who started to commission a biography after his death. By these early efforts to produce a biography of »Ehrlich the Nobelprize winner«, Huentelmann illustrates the inherent modes which then created legends. Similar to other scientists – like Robert Koch and Louis Pasteur – the early biographies on Ehrlich portrayed a genius searching for the scientific truth in his laboratory rather than a realistic picture of his life and career. In his article Huentelmann demonstrates the process of myth-construction by means of the alleged chemical talent of Ehrlich. His early chemical experiments during his years of studying were gradu­ally moved to his school days and associated with the scientific interest of his grandfather. Thus, through this genealogical link, Ehrlich’s career and his success appeared as the inevitable endpoint of a natural predis­position.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_933</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_933">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/933/1041" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_933" DMDID="DMD_biejournals_933">
+            <mets:fptr FILEID="FILE0_biejournals_933"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_759">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Grounded Approach to Citizenship Education</title>
+                        <subTitle> Local Interplays Between Government Institutions, Adult Schools, and Community Events in Sacramento, California</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Loring, Ariel</displayForm>
+                        <namePart type="family">Loring</namePart>
+                        <namePart type="given">Ariel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Following a grounded, bottom-up approach to language policy (Blommaert 2009; Canagarajah 2005; McCarty, 2011; Ramanathan, 2005), this paper investigates available resources and discourses of citizenship in Sacramento, California to those situated within the citizenship infrastructure. It analyzes how the discursive framing of local and national educational policies affects prospective citizens and the ways that resources and discourses differ across educational sites.  These sites include a government field office, citizenship classes at adult schools and community centers, and a law school-sponsored citizenship fair.  This article argues that adult schools and community events introduce their own de facto and de jure policies, in conjunction with top-down governmental policies, that tend to reduce the complexity of naturalization at the expense of full participation.  Both top-down and bottom-up educational policies consequently affect prospective citizens’ understanding and enactment of citizenship. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_759</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_759">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/759/826" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_759">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/759/827" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_759" DMDID="DMD_biejournals_759">
+            <mets:fptr FILEID="FILE0_biejournals_759"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_759" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_759"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

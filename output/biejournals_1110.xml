@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wege zu Abitur und Fachhochschulreife für neuzugewanderte junge Menschen</title>
+                        <subTitle>Die Forschungs- und Entwicklungs-Arbeit zur Inklusion neuzugewanderter Jugendlicher am Oberstufen-Kolleg Bielefeld</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Guschker, Birgit</displayForm>
+                        <namePart type="family">Guschker</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Geweke, Michaele</displayForm>
+                        <namePart type="family">Geweke</namePart>
+                        <namePart type="given">Michaele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartner, Christina</displayForm>
+                        <namePart type="family">Hartner</namePart>
+                        <namePart type="given">Christina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kirmes, Sonja</displayForm>
+                        <namePart type="family">Kirmes</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mateo i Ferrer, Maria</displayForm>
+                        <namePart type="family">Mateo i Ferrer</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Otto, Johanna</displayForm>
+                        <namePart type="family">Otto</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Seit 2015 beschäftigt sich das Oberstufen-Kolleg mit der Entwicklung eines Konzepts zur Inklusion neuzugewanderter Jugendlicher in der gymnasialen Oberstufe. Mittlerweile besuchen 49 junge Menschen, die bei ihrem Eintritt ins Oberstufen-Kolleg erst seit zwei bis vier Jahren Deutsch gelernt hat­ten, die Versuchsschule. Bei der Konzeptarbeit zur Beschulung dieser Jugendlichen stand zunächst die Schaffung eines geeigneten Kursangebots für eine zweijährige „gestreckte Eingangsphase“ an. Es ging darum, ein geeignetes Angebot in Deutsch als Zweitsprache (DaZ) zu installieren und etablierte Kursarten zu modifizieren bzw. völlig neuartige Kursangebote zu entwickeln, welche den DaZ-Unterricht mit dem Fachunterricht verzahnen. Daneben richtete die Versuchsschule ein eigenes Aufnahmeverfahren für die Gruppe der Neuzugewanderten ein. Derzeit beschäftigen sich die Akteur*innen mit der Weiterentwicklung der Sprachbildung im Fachunterricht. Außerdem werden – u.a. ausgehend von Kollegiat*innen-Interviews – Angebote (weiter-)entwickelt, die eine besondere Förderung der auf Eigenverantwortung ausgerichteten Arbeitsformen der gymnasialen Oberstufe zum Ziel haben. Prägend für die Konzeptarbeit war und ist der Spagat zwischen dem Ideal einer möglichst inklusiven Beschulung und einer pragmatischen Vorbereitung auf die Anforderungen der Qualifikationsphase der gymnasialen Oberstufe, was angesichts des Alters unserer Kollegiat*innen bei ihrem Einstieg ins deutsche Schulsystem und der Anforderungen bzw. der zunehmenden Standardisierung des Abiturs eine besondere Herausforderung darstellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1110</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1110">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1110/1192" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1110" DMDID="DMD_biejournals_1110">
+            <mets:fptr FILEID="FILE0_biejournals_1110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

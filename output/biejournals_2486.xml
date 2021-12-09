@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2486">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strukturlegepläne als hochschuldidaktisches Instrument zur Lehrevaluation und Reflexion Subjektiver Theorien</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Structure formation maps as a didactic tool for teaching evaluation and reflection of subjective theories</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Faix, Ann-Christin</displayForm>
+                        <namePart type="family">Faix</namePart>
+                        <namePart type="given">Ann-Christin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Textor, Annette</displayForm>
+                        <namePart type="family">Textor</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wild, Elke</displayForm>
+                        <namePart type="family">Wild</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Subjektive Theorien sind handlungsleitend und beeinflussen daher, wie Lehrkräfte ihren Unterricht planen und durchführen. Der Artikel beschreibt, wie Subjektive Theorien von Lehramtsstudierenden mithilfe einer Strukturlegetechnik herausgearbeitet und damit der Reflexion zugänglich gemacht werden können. Inhalte der Subjektiven Theorien werden durch Begriffskärtchen und Relationen durch beschriftete Pfeile repräsentiert. Die Strukturlegepläne können z.B. in der ersten und letzten Sitzung eines Seminars erstellt werden. So können Lehrende die Strukturlegepläne nutzen, um ihre Lehrveranstaltungen adaptiv zu planen, indem sie an den Subjektiven Theorien ihrer Studierenden ansetzen. Gleichzeitig können die Strukturlegepläne zur Evaluation herangezogen werden, indem die Versionen vom Anfang und vom Ende des Seminars miteinander verglichen werden, sodass Rückschlüsse auf die Lernfortschritte der Studierenden möglich sind.</abstract>
+                    <abstract lang="eng">Subjective theories are guiding action and therefore influence how teachers plan and conduct their teaching. The article describes how students can work out their subjective theories with the help of a structure-laying technique and thus make them accessible for reflection. The structure formation maps should represent the subjective theories of the students as adequately as possible by representing the contents of the subjective theories by conceptual cards and relations by arrows. The structure formation maps can, for example, be drawn up in the first and last session of a seminar. Teachers can use the maps to plan their courses adaptively by referring to the subjective theories of their students. At the same time, the structure formation maps can be used for evaluation by comparing the versions from the beginning and end of the seminar. This allows conclusions to be drawn about the learning progress of the students. To illustrate this, two structure formation maps to the topic of good inclusive teaching, which a learner as drawn up before and after a seminar, are analysed exemplarily.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2486</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2486">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2486/3591" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2486" DMDID="DMD_biejournals_2486">
+            <mets:fptr FILEID="FILE0_biejournals_2486"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

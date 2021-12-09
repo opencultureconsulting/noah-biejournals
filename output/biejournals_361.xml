@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_361">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Strukturelle Audiovisualistik – Grundlagen einer Ästhetischen Feldforschung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Clausen, Bernd</displayForm>
+                        <namePart type="family">Clausen</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2004</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Strukturelle Audiovisualistik legt den Schwerpunkt auf die integrativen, pluralistischen Elemente auditiver und visueller Wahrnehmung, um Zusammenhänge und Beziehungsmuster sinnlicher Einzelerlebnisse aufzuspüren, deren Verbundenheit zu erkennen und in einem dritten, kreativ-praktischen Schritt darzustellen. Die Methode zur Gewinnung jener ästhetischen Daten ist die Ästhetische Feldforschung. Im Folgenden wird zunächst das Modell einer Strukturellen Audiovisualistik dargestellt, dann unser Verständnis einer Ästhetischen Feldforschung erläutert und anhand eines Beispiels Arbeitsweisen skizziert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_361</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_361">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/361/358" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_361" DMDID="DMD_biejournals_361">
+            <mets:fptr FILEID="FILE0_biejournals_361"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

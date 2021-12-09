@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3874">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen mit lebenden Hummeln als Modellorganismen im Unterricht</title>
+                        <subTitle>Verhaltens- und Neurobiologie mit originaler Begegnung unterrichten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sieg, Anne-Kathrin</displayForm>
+                        <namePart type="family">Sieg</namePart>
+                        <namePart type="given">Anne-Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schäfer, Michelle</displayForm>
+                        <namePart type="family">Schäfer</namePart>
+                        <namePart type="given">Michelle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dreesmann, Daniel</displayForm>
+                        <namePart type="family">Dreesmann</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Mit Dunklen Erdhummeln (Bombus terrestris) lassen sich praktische Versuche zur Verhaltens- und Neurobiologie im Unterricht durchführen. Dabei lernen Schülerinnen und Schüler in der originalen Begegnung mit Hummeln und führen u. a. Versuche der aktuellen Forschung in einer didaktisch reduzierten Weise durch. Hierdurch werden den Schülerinnen und Schülern Einblicke in aktuelle Forschungsthematiken, Forschungssettings und das wissenschaftliche Arbeiten eröffnet. Der im Hallo Hummel!-Projekt genutzte Aufbau aus Nest-, Futterkammer und Flugarena bietet Schülerinnen und Schülern darüber hinaus die Möglichkeit selbst generierten Forschungsfragen nachzugehen und kreativ, forschend zu lernen. Bei den im Artikel vorgestellten und erprobten Versuchen liegt der Schwerpunkt auf den Themen Stoff- und Energieaustausch zwischen Organismen, Informationsaustausch zwischen Innenwelt und Umwelt und Kommunikation mit Artgenossen, die in praktischen Versuchen mit den Tieren erarbeitet werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3874</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3874">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3874/4309" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3874">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3874/4310" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_3874">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3874/4311" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3874" DMDID="DMD_biejournals_3874">
+            <mets:fptr FILEID="FILE0_biejournals_3874"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3874" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3874"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3874" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3874"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

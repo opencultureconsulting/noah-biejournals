@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3355">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Laborschule Bielefeld</title>
+                        <subTitle>Das „Lehrer-Forscher-Modell“ im Jahr 2020 – institutionalisierte Kooperation zwischen Schule und Universität</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Textor, Annette</displayForm>
+                        <namePart type="family">Textor</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Devantié, Rainer</displayForm>
+                        <namePart type="family">Devantié</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dorniak, Marlena</displayForm>
+                        <namePart type="family">Dorniak</namePart>
+                        <namePart type="given">Marlena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gold, Johanna</displayForm>
+                        <namePart type="family">Gold</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zenke, Christian Timo</displayForm>
+                        <namePart type="family">Zenke</namePart>
+                        <namePart type="given">Christian Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zentarra, Dominik</displayForm>
+                        <namePart type="family">Zentarra</namePart>
+                        <namePart type="given">Dominik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird zunächst anhand ausgewählter Themenbereiche das Konzept der Laborschule Bielefeld dargestellt. So wird der Großraum als Rahmen für das Lernen beschrieben, und es werden die Aktivitäten und die Organisation im Bereich der Inklusion und des Lernens durch Erfahrung vorgestellt. Anschließend wird das Modell der Forschung und Entwicklung an der Laborschule thematisiert. Insbesondere wird der Fokus auf die Strukturen und Prozesse gelegt, die die Praxisforschung an der Laborschule unterstützen.
+In this article, first, the concept of the Laborschule (Laboratory School) Bielefeld is presented using selected topics. Thus, the open plan layout of the school building is described as a framework for learning as well as the activities and organization in the field of inclusion and learning by experience. Second, the model of research and development at the Laboratory School is discussed. The focus lies, in particular, on the structures and processes that support action research at the Laboratory School.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3355</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3355">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3355/3505" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3355" DMDID="DMD_biejournals_3355">
+            <mets:fptr FILEID="FILE0_biejournals_3355"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

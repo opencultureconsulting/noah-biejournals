@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4872">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Hitler-Käfer aus Jugoslawien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Thomas Volker</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Thomas Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Im Grunde ist die Beschreibung einer biologischen Art eine ernsthafte Aufgabe, die zum Beispiel in den „Rules of Zoological Nomenclature“ mehr oder weniger streng festgeschrieben ist. Laut dem leitenden Paläontologen Robert Fortey vom „Natural History Museum“ in London eine der „langweiligsten Bettlektüren“, die er sich „vorstellen kann“. Dessen ungeachtet beschreibt er in seinem Buch „Trilobiten!“ mit hintergründigem britischem Humor einige Kniffe, wie man in die vordergründige Tristesse der Taxonomie vergnügliche Epitheta einbringen kann – natürlich ohne Linnes’ Inspiration ins Lächerliche zu ziehen. Hinter manch einem gräzisierten oder lateinisierten Epitheton verbergen sich die Namen von Angebeteten, Liebschaften, Rockmusikern, Schauspielern oder Schriftstellern. Leider wurden auch die Namen von Populisten und Diktatoren in die biologische Nomenklatur eingebracht und sind nun als Epitheta festgemeißelt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4872</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4872">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4872/4557" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4872" DMDID="DMD_biejournals_4872">
+            <mets:fptr FILEID="FILE0_biejournals_4872"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

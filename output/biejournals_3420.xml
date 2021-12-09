@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3420">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Kulturbegriff und Verständnis Kultureller Bildung von Studierenden im Grundschullehramt</title>
+                        <subTitle>Seminareinheit in Veranstaltungen der sprachlichen Grundbildung und der Bildungswissenschaft</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>On the Concept of Culture and Understanding of Cultural Education of Students in Primary Schools</title>
+                        <subTitle>Seminar Unit in Courses of Basic Language Education and Educational Science</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Massek, Corinna</displayForm>
+                        <namePart type="family">Massek</namePart>
+                        <namePart type="given">Corinna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Josting, Petra</displayForm>
+                        <namePart type="family">Josting</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miller, Susanne</displayForm>
+                        <namePart type="family">Miller</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vor dem Hintergrund von Globalisierungsprozessen und einem damit verbundenen gesellschaftlichen Wandel gewinnt kulturelle Bildung für den Erwerb von fächerübergreifenden Schlüsselkompetenzen zunehmend an Bedeutung. Dabei weist der Lernort Schule im Hinblick auf die kulturelle Teilhabe von Kindern und Jugendlichen aus benachteiligten sozialen Lagen besonderes Po-tenzial auf. Um kulturelle Bildung in der Schule erfolgreich zu implementieren, müssen Lehrer*innen über entsprechendes Wissen verfügen. Dass sich bislang nur in wenigen Konzepten der Lehrer*innenbildung eine thematische Verankerung von Aspekten kultureller Bildung feststellen lässt, wird mit dem vorliegenden Beitrag aufgegriffen. Es wird eine Seminareinheit zur Einführung in das Thema kulturelle Bildung aus zwei Masterseminaren der sprachlichen Grundbildung sowie einem bildungswissenschaftlichen Seminar vorgestellt. Teil dieser Seminareinheit sind zwei Arbeitsaufträge, die mithilfe einer Fotodokumentation und einer Grup-penarbeit (World-Café) mit anschließender Postergestaltung das Verständnis der Lehramtsstudierenden von Kultur und kultureller Bildung thematisieren.</abstract>
+                    <abstract lang="eng">Against the background of increasing globalization and social change, cultural education is becoming increasingly important for the acquisition of interdisciplinary key competences. In this context, schools as a learning location have particular potential with regard to the cultural participation of children and young people from disadvantaged social backgrounds. In order to successfully implement Arts Education in schools, teachers must have the appropriate knowledge and skills. The present article addresses the fact that only a few concepts of teacher education have so far been able to anchor aspects of Arts Education thematically. A unit introducing the topic of cultural education, consisting of two master&apos;s seminars on basic language education and one seminar on educational science, is presented. Part of this seminar unit are two work assignments that focus on the understanding of culture and cultural education by means of a photo documentation and a group work (World-Café) with subsequent poster design.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3420</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3420">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3420/4371" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3420" DMDID="DMD_biejournals_3420">
+            <mets:fptr FILEID="FILE0_biejournals_3420"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3547">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ist der Mensch nun gut oder schlecht? Zur Reflexion eigener Menschenbilder in der Lehrer*innenbildung anhand der Methode Positionslinie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haupt, Selma</displayForm>
+                        <namePart type="family">Haupt</namePart>
+                        <namePart type="given">Selma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der Bedeutung des eigenen Menschenbildes für pädagogisches Handeln wird aufgezeigt, wie dieses in der Lehrer*innenbildung reflektiert werden kann. Im Mittelpunkt stehen dabei die Erläuterung des didaktisch-methodischen Vorgehens (Positionierungen zu Aussagen zum Menschenbild) sowie die damit verbundenen Potenziale und spezifischen Herausforderungen. Begründet wird zudem, warum derzeit die Befassung mit Menschenbildern in der erziehungswissenschaftlichen Theorie und Praxis relativ marginal ist. Anhand des vorgelegten Materials wird erklärt, wie diese Auseinandersetzung im Rahmen eines erziehungswissenschaftlichen Seminars gestaltet werden kann und so die Studierenden befähigt werden, ihre eigenen Menschenbilder zu reflektieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3547</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3547">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3547/3647" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3547" DMDID="DMD_biejournals_3547">
+            <mets:fptr FILEID="FILE0_biejournals_3547"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

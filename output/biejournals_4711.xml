@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4711">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Demokratie stabilisieren und Bürger*innen stärken – zwei Seiten derselben Medaille?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hedtke, Reinhold</displayForm>
+                        <namePart type="family">Hedtke</namePart>
+                        <namePart type="given">Reinhold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag diskutiert die politische Repräsentation und Partizipation von Kindern und Jugendlichen und den allgemeinen Zustand der politischen Bildung. Er thematisiert die Spannung zwischen sozialer und politischer Ungleichheit und dem Gleichheitsversprechen der Demokratie und begründet eine Akzentverschiebung hin zu einer interessenpolitischen Bildung für junge Menschen. Der Text unterstreicht die Kritikaufgabe der Wissenschaft, fordert ein Aufgreifen der Kritik der Leute und die Parteinahme der Fachdidaktik für Kinder und Jugendliche. Schließlich plädiert er für das Leitbild der schwierigen, unbequemen und gegenüber ungerechtfertigter Ungleichheit unnachgiebigen Bürger*innen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4711</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4711">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4711/4454" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4711" DMDID="DMD_biejournals_4711">
+            <mets:fptr FILEID="FILE0_biejournals_4711"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

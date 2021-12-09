@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_267">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Economic Education in Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weber, Birgit</displayForm>
+                        <namePart type="family">Weber</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2000</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">It is rather difficult to describe economic education in Germany: Due to German federalism the sixteen German Länder are independent in terms of educational policy. Thus the German educational system differs slightly from Land to Land, even more heterogenous is the situation of economic education. With regard to this it is impossible to give a detailed picture of the whole, but it is useless to present the situation in only one land. This report tries to do the impossible by giving a rough overview of the situation of economic education in Germany at school as well as at university. Above all it is concerned with outlining the gap between claim and reality of economic education. A summary about the main topics of the didactic discussion can reflect contents and methods, which influence the syllabus construction.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_267</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_267">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/267/264" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_267" DMDID="DMD_biejournals_267">
+            <mets:fptr FILEID="FILE0_biejournals_267"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

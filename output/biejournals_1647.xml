@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1647">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sind die süüüß! </title>
+                        <subTitle>Der Einfluss des unterrichtlichen Einsatzes lebender Zwergmäuse auf Wissenserwerb, Motivation und Haltungswunsch</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bätz, Katrin</displayForm>
+                        <namePart type="family">Bätz</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-03-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Einsatz originaler Objekte im Biologieunterricht wird zwar vielfach gefordert, aber bislang konnten nur in wenigen empirischen Untersuchungen die positiven Wirkungen theoriegeleitet belegt werden. In der vorliegenden Studie gehen wir davon aus, dass 1. Prozessmerkmale konstruktivistisch orientierten Lernens und 2. motivationale Anreizbedingungen durch den unterrichtlichen Einsatz lebender Eurasischer Zwergmäuse (Micromys minutus PALLAS 1778) beeinflusst werden. Untersucht wurden Wissenszuwachs, Motivation und Schülerhaltungswunsch nach einer Unterrichtssequenz zur Lebensweise Eurasischer Zwergmäuse an 127 Schülern der fünften Jahrgangsstufe. Die drei Treatmentgruppen unterscheiden sich wie folgt: 1. Die Sequenz wird ausschließlich unter Verwendung von stellvertretenden Repräsentationsformen bearbeitet. 2. Der Unterricht wird unter Verwendung originaler Objekte (lebende Eurasische Zwergmäuse) gestaltet. 3. Die Schüler werden unter Verwendung originaler Objekte unterrichtet und zusätzlich werden Zwergmäuse für einen Zeitraum von sechs Wochen im Klassenraum gehalten. Die Befunde weise für die kognitive wie für die motivationale Ebene auf positive Wirkungen des Einsatzes der originalen Objekte hin. Interessanterweise zeigen Schüler, die Zwergmäuse in der Klasse halten konnten, eine weit geringere Tendenz, Zwergmäuse als Haustiere halten zu wollen, als Schüler der Treatmentgruppe mit punktuellem unterrichtlichen Einsatz lebender Zwergmäuse.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1647</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1647">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1647/1593" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1647" DMDID="DMD_biejournals_1647">
+            <mets:fptr FILEID="FILE0_biejournals_1647"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1064">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>There are no ghettos</title>
+                        <subTitle>Indexing global rap and hip hop in local Finnish youth radio discourse</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Muhonenth, Anu</displayForm>
+                        <namePart type="family">Muhonenth</namePart>
+                        <namePart type="given">Anu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The paper takes a closer look on rap and hip hop identities that are indexed in the discourses, on rap music and hip hop culture in Finnish youth radio and explores the following: What kind of rap and hip hop identities are displayed in these discourses? How are globality and locality indexed in these discourses? Is there something typically “Finnish” in the rap music and hip hop culture presented in the Finnish language youth radio? The paper shows that the Finnish rap scene indexes local identities and represents a local subculture that is both linguistically and culturally “Finnish”, adjusted to local, cultural and linguistic conditions. Finnish rap displays a great diversity of different features that exhibit global, transnational, local and glocal. It indexes a diversity of features connected to contemporary Finnish rap culture; the discourses reveal indexicalities of multiple rap identity constructions and performances. Globality and locality form a complex manifestation of a place. Hip hop presents several layers of modality and the representation highlights the intersection of different aspects of (national and international) languages, styles, (local and global) identities, hip hop culture(s), youth identities, globalization and localization.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1064</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1064">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1064/1171" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1064" DMDID="DMD_biejournals_1064">
+            <mets:fptr FILEID="FILE0_biejournals_1064"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

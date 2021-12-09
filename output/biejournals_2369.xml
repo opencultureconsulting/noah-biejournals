@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2369">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wirksamkeit wissenschaftlicher Weiterbildung aus Sicht von Stakeholdern</title>
+                        <subTitle>Kriterien zur Erfolgsbestimmung und den wahrgenommenen Bedingungsfaktoren</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hellwig, Michael</displayForm>
+                        <namePart type="family">Hellwig</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schroll-Decker, Irmgard</displayForm>
+                        <namePart type="family">Schroll-Decker</namePart>
+                        <namePart type="given">Irmgard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Weiterbildung an Hochschulen ist an evidenzbasierten Daten interessiert, um Aussagen über die Wirksamkeit von eigenen Angeboten treffen zu können. Oftmals unklar ist, was unter Wirksamkeit verstanden werden kann und welche Voraussetzungen gegeben sein müssen, damit die Weiterbildungen Wirkung entfalten. Der Beitrag stellt eine Studie vor, die beide Aspekte adressiert und Aussagen unterschiedlicher Beteiligter am Weiterbildungsgeschehen wiedergibt. Angebotsseitig wurden Weiterbildungsverantwortliche sowie Lehrpersonen der Hochschule befragt. Nachfrageseitig wurden Teilnehmende berufsbegleitender Studiengänge und Unternehmensvertreter_innen aus ausgewählten Branchen einbezogen. Die erhobenen qualitativen Daten wurden inhaltsanalytisch analysiert und induktiv zu Kategorien zusammengefasst. Die Ergebnisse zeigen insgesamt fünf Oberkategorien auf, die die Wirksamkeit abbilden: (1) Erfolgreicher Praxistransfer; (2) Erwerb von Kenntnissen, Fähigkeiten und Kompetenzen; (3) Strategischer Nutzen; (4) Sozialer/kultureller Nutzen und (5) Resonanz der Teilnehmenden auf die wissenschaftliche Weiterbildung. Die Voraussetzungen lassen sich ebenfalls in fünf Kategorien abbilden: (a) teilnehmenden-, (b) unternehmens-, (c) angebots-, (d) hochschul- und (e) markt-/umfeldbezogene Faktoren. Im Beitrag werden nach der Darstellung der Studienergebnisse Schlussfolgerungen für die Weiterbildungspraxis in Hinblick auf die Themen Evaluation, Theorie-Praxis-Transfer und Marketing/Zielgruppenspezifische Kommunikation diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2369</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2369">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/2369/3295" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2369" DMDID="DMD_biejournals_2369">
+            <mets:fptr FILEID="FILE0_biejournals_2369"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

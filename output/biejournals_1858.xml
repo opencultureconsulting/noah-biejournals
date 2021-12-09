@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1858">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Preparing society to create the world we need through“One Health”education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lueddeke, George R.</displayForm>
+                        <namePart type="family">Lueddeke</namePart>
+                        <namePart type="given">George R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaufman, Gretchen E.</displayForm>
+                        <namePart type="family">Kaufman</namePart>
+                        <namePart type="given">Gretchen E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lindenmayer, Joann M.</displayForm>
+                        <namePart type="family">Lindenmayer</namePart>
+                        <namePart type="given">Joann M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stroud, Cheryl M.</displayForm>
+                        <namePart type="family">Stroud</namePart>
+                        <namePart type="given">Cheryl M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">A previous concept paperpublished in this journal and a Press Release in June 2016 focused on the importance of raising awareness about the UN-2030 Sustainable Development Goals (SDGs) and, in particular, developing a better understanding about the critical need to ensure the sustainability of people and the planet in this decade and beyond. A recurring theme that weaves through the literature and practical realities is that education presents the best option for ensuring a sustainable future– one that encompasses the health and well-being of humans, animals and the environment (One Health!). To this end, the One Health Education Task Force (OHETF), led by the One Health Commission in association with the One Health Initiative, agreed to conduct an online survey and conference in the fall of 2016to engage interested colleagues in a discussion about the possible application of One Health in K-12 (or equivalent) educational settings.Seventy-six people from around the world participated in the survey which focused on basic concepts, values and principles associated with One Health and Well-Being.  Input was sought on the various ways that One Health intersects with the UN Sustainable Development Goals and how they might work together toward common objectives.Questions also explored the why, how, and where One Health could be incorporated into K-12 curricula, and who should be involved in creating this new curriculum.  The survey also addressed the challenges that might be encountered in gaining support, funding and implementing a One Health and Well-Being curriculum globally. Overall, there was a great deal of agreement among participants as to the priorities and major challenges that would be encountered in moving this initiative forward and, most importantly, that this type of initiative is greatly needed.The online conference involved twenty-five participants, including ten who had also participatedin the survey, and others who had shown interest in previous publications and presentations on this topic.  The conference was designed to present the results of the survey and conduct a more in depth discussion about potential curriculum development designs, funding sources, and implementation challenges.  Five strategies were presented for K-12 One Health curriculum innovation, from teacher training programs and grants, to the development of a digital sharing network and knowledgebase.  Funding options were discussed and included multi-national organizations such as the United Nations and World Bank as well as large foundations that have funded major change initiatives in the past.  Critical points were made regarding the scope of this initiative and the need to integrate any curriculum with the diverse needs of local people, their cultures, and the particular One Health challenges facing their region. Importantly, a “Community of Practice” model was put forward as a means to support and promote the goals of One Health teaching and learning in a meaningful and supportive way for the benefit of all involved.This survey and conference provided valuable external input and support for the OHETF’s proposal to develop a global K-12 One Health -themed educational initiative. The perspectives reported here are also a useful account of the progress we have made as a One Health community in consolidating our values and principles so that they can drive meaningful change initiatives such as that being proposed.  </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1858</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1858">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1858/1779" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1858" DMDID="DMD_biejournals_1858">
+            <mets:fptr FILEID="FILE0_biejournals_1858"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

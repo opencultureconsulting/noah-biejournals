@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3865">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auswirkungen von Kooperationsverhältnissen auf die wahrgenommene Nachhaltigkeit in Verbundprojekten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maschwitz, Annika</displayForm>
+                        <namePart type="family">Maschwitz</namePart>
+                        <namePart type="given">Annika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Speck, Karsten</displayForm>
+                        <namePart type="family">Speck</namePart>
+                        <namePart type="given">Karsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bök, Julia</displayForm>
+                        <namePart type="family">Bök</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brinkmann, Katrin</displayForm>
+                        <namePart type="family">Brinkmann</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Kooperation ist seit vielen Jahrzehnten ein zentrales Thema in Forschung, Lehre und Weiterbildung, wobei insbesondere die Zusammenarbeit mit außerhochschulischen Partnern im Vordergrund steht. Ungeachtet der zahlreichen Herausforderungen sowie der bestehenden Konkurrenzverhältnisse, werden auch zunehmend Kooperationen zwischen wissenschaftlichen Weiterbildungseinrichtungen verschiedener Hochschulen eingegangen. Ein Grund hierfür könnte das Interesse von Fördermittelgebern an Verbünden bei der Beantragung und Umsetzung von Forschungs- und Entwicklungsprojekten sein, um zum einen Synergieeffekte zu nutzen und zum anderen die Vernetzung zu fördern und damit nachhaltige(re) Ergebnisse zu erreichen. Vor diesem Hintergrund widmet sich der vorliegende Beitrag der Fragestellung, welche Auswirkungen die Kooperation in geförderten Verbundprojekten auf die wahrgenommene Nachhaltigkeit hat. Zur Beantwortung der Frage werden im Rahmen des Bund-Länder-Wettbewerbs „Aufstieg durch Bildung: offene Hochschulen“ (2011-2020) erhobene quantitative Daten herangezogen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3865</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3865">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3865/4356" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3865" DMDID="DMD_biejournals_3865">
+            <mets:fptr FILEID="FILE0_biejournals_3865"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4574">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fast food macht den Embryo krank</title>
+                        <subTitle>Der mütterliche Ernährungsstil und die Gesundheit der Nachkommen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>impact of Fast Food on the embryonic development and its offspring</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Christ, Anette</displayForm>
+                        <namePart type="family">Christ</namePart>
+                        <namePart type="given">Anette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die mütterliche in utero-Umgebung beeinflusst die embryonale Entwicklung und die ihrer Nachkommen. Das Konzeptder Entwicklungsprogrammierung bzw. der entwicklungsbedingten Ursachen von Gesundheit und Krankheit im Erwachsenenalter basiert auf der Hypothese, dass der mütterliche Lebensstil und die Exposition gegenüber diversen Umweltstimuli während der Schwangerschaft zu epigenetischen Modifikationen (Änderung der Histon- und DNA-Methylierungsmuster) und somit einer langfristigen Veränderung des Genoms führen können. Bestimmte maternale Ernährungsmuster, wie der Konsum von fettreichen ungesunden Nahrungsprodukten, sind dadurch mit einem erhöhten Risiko für die Entwicklung von chronischen Stoffwechselkrankheiten wie Adipositas und Diabetes mellitus Typ 2 im späteren Erwachsenenalter der Nachkommen assoziiert. Auf welche Art bestimmte Nahrungsmetabolite das Epigenom des Embryos und zukünftiger Generationen beeinflussen, und ob diese Modifikationen von Dauer oder reversibel sind, bleibt zu erforschen.</abstract>
+                    <abstract lang="eng">The maternal in utero environment influences embryonic development and that of the offspring. The concept of developmental programming, or developmental causes of health and disease in adulthood, is based on the hypothesis that maternal lifestyle and exposure to diverse environmental stimuli during pregnancy can lead to epigenetic modifications (alterations of histone and DNA methylation patterns) and thus long-term alterations of the genome. Certain maternal dietary patterns, such as the consumption of high-fat unhealthy diets, are thereby associated with an increased risk of developing chronic metabolic diseases such as obesity and type 2 diabetes mellitus in the later adulthood of the offspring. The way in which certain dietary metabolites influence the epigenome of the embryo and future generations, and whether these modifications are permanent or reversible, remains to be investigated.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4574</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4574">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4574/4383" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4574" DMDID="DMD_biejournals_4574">
+            <mets:fptr FILEID="FILE0_biejournals_4574"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

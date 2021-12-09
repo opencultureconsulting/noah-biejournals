@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_653">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Review of the Book</title>
+                        <subTitle>Ariadna Acevedo-Rodrigo and Paula López-Caballero, eds., Unexpected Citizens. The Making of Citizenship in Mexico.</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rockwell, Elsie</displayForm>
+                        <namePart type="family">Rockwell</namePart>
+                        <namePart type="given">Elsie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-09-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_653</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_653">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/653/683" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_653" DMDID="DMD_biejournals_653">
+            <mets:fptr FILEID="FILE0_biejournals_653"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

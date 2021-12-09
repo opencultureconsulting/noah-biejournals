@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4355">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Sinn der Demokratie</title>
+                        <subTitle>Überlegungen zur Legitimität und zum Gehalt schulischer Demokratiebildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kipke, Roland</displayForm>
+                        <namePart type="family">Kipke</namePart>
+                        <namePart type="given">Roland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Demokratiebildung kann gerade in Zeiten von Demokratieskepsis und Politikverachtung nicht als selbstverständlich vorausgesetzt werden. Die Frage nach der Legitimität von Demokratiebildung hängt eng mit der Frage nach ihrem Gegenstand zusammen. Der Artikel gibt Antworten auf beide Fragen im Zusammenhang: Demokratie legitimiert sich durch den exzeptionellen Charakter der Demokratie, der auch im Zentrum der Demokratiebildung stehen sollte, ebenso wie die der Demokratie inhärenten Spannungen und ihr Entwicklungspotenzial.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4355</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4355">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4355/4227" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4355" DMDID="DMD_biejournals_4355">
+            <mets:fptr FILEID="FILE0_biejournals_4355"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

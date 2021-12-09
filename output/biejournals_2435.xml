@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2435">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Förderung der Autonomiewahrnehmung  von Schüler_innen im Unterricht (FAU)</title>
+                        <subTitle>Ein Lehrkonzept für angehende Lehrkräfte im Rahmen des Praxissemesters für das Fach Biologie</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Promoting  Students’  Perception  of  Autonomy  in  Class</title>
+                        <subTitle>A  Teaching  Concept for Teacher Trainees within the Framework of the Practical Semester for  the Subject Biology</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Großmann, Nadine</displayForm>
+                        <namePart type="family">Großmann</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fries, Stefan</displayForm>
+                        <namePart type="family">Fries</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Entwicklung der Motivation von Schüler_innen während&amp;nbsp; ihrer&amp;nbsp; schulischen&amp;nbsp; Laufbahn&amp;nbsp; wird&amp;nbsp; in&amp;nbsp; verschiedenen&amp;nbsp; Studien&amp;nbsp; als&amp;nbsp; abnehmend beschrieben. Um diesem Trend entgegenzuwirken und die Motivation ihrer Schüler_innen&amp;nbsp; zu&amp;nbsp; fördern, fehlen&amp;nbsp; Lehrpersonen&amp;nbsp; zumeist&amp;nbsp; didaktisch-methodische&amp;nbsp; Fertigkeiten.&amp;nbsp; Die&amp;nbsp; bereits&amp;nbsp; evaluierten&amp;nbsp; Konzepte&amp;nbsp; zur&amp;nbsp; Motivationsfö rderung&amp;nbsp; scheinen ihren Weg&amp;nbsp; in die Praxis bislang nicht zu finden, wie bspw. die Autonomieförderung im Sinne der Selbstbestimmungstheorie. Um sich dieser Problematik zu widmen, wurde auf Grundlage der Selbstbestimmungstheorie ein&amp;nbsp; Lehrkonzept&amp;nbsp; entwickelt&amp;nbsp; und&amp;nbsp; evaluiert,&amp;nbsp; das&amp;nbsp; Lehramtsstudierenden&amp;nbsp; die&amp;nbsp; theoretischen&amp;nbsp; Erörterungen&amp;nbsp; und&amp;nbsp; empirischen&amp;nbsp; Befunde&amp;nbsp; zur&amp;nbsp; Autonomieförderung&amp;nbsp; zugänglich&amp;nbsp; machen&amp;nbsp; und&amp;nbsp; ihre&amp;nbsp; professionelle&amp;nbsp; Entwicklung&amp;nbsp; im&amp;nbsp; Bereich&amp;nbsp; der&amp;nbsp; Motivationsförderung unterstützen soll. Dieses Lehrkonzept wird im vorliegenden Beitrag fachlich, theoretisch sowie didaktisch-methodisch verortet und exemplarisch dargestellt. Abschließend werden die Ergebnisse der formativen und empirischen Evaluation sowie Erfahrungen bei der Durchführung des Konzeptes berichtet.</abstract>
+                    <abstract lang="eng">The development of students’ motivation during their school career is&amp;nbsp; described&amp;nbsp; as&amp;nbsp; decreasing&amp;nbsp; in&amp;nbsp; several&amp;nbsp; studies.&amp;nbsp; Teachers&amp;nbsp; often&amp;nbsp; lack&amp;nbsp; didacticmethodical skills to counteract this trend and foster their students’ motivation in class.&amp;nbsp; Theoretical&amp;nbsp; and&amp;nbsp; empirical&amp;nbsp; approaches&amp;nbsp; to&amp;nbsp; foster&amp;nbsp; students’&amp;nbsp; motivation&amp;nbsp; that have already been evaluated do not seem to find their way into practice, such as autonomy support in the sense of self-determination theory. In&amp;nbsp; order&amp;nbsp; to&amp;nbsp; address&amp;nbsp; these&amp;nbsp; problems,&amp;nbsp; a&amp;nbsp; teaching&amp;nbsp; concept&amp;nbsp; based&amp;nbsp; on&amp;nbsp; self -determination&amp;nbsp; theory&amp;nbsp; was&amp;nbsp; developed&amp;nbsp; and&amp;nbsp; evaluated,&amp;nbsp; which&amp;nbsp; should&amp;nbsp; make&amp;nbsp; the&amp;nbsp; theoretical discussions and empirical findings on fostering students’ autonomy accessible to teacher trainees and support their professional development regarding the support of students’ motivation. In the current contribution,&amp;nbsp; the subject-specific, theoretical and didactic-methodological principles of this teaching concept as well as an exemplary implementation are depicted. Finally, the results of the formative and empirical evaluation as well as experiences in the implementation of the concept are reported.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2435</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2435">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2435/2437" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2435" DMDID="DMD_biejournals_2435">
+            <mets:fptr FILEID="FILE0_biejournals_2435"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

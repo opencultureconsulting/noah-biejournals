@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2530">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Veranlasste und benotete Reflexion</title>
+                        <subTitle>ein unmögliches Prüfungsformat? Eine empirische Untersuchung zur Wahrnehmung und Bewertung von Reflexionsprüfungen im Praxissemester durch Studierende</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Is Reflection Impossible when Externally Induced and Graded? A Qualitative Study with Teacher Trainees in Long Term School Internships</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Köker, Anne</displayForm>
+                        <namePart type="family">Köker</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Störtländer, Jan Christoph</displayForm>
+                        <namePart type="family">Störtländer</namePart>
+                        <namePart type="given">Jan Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Reflexion hat in der Lehrer(aus)bildung eine zentrale Bedeutung, die insbesondere in längerfristigen schulischen Praxisphasen von Studierenden wie dem Praxissemester durch vielfältige Anforderungen und Angebote unterstützt werden soll. In diesem Beitrag steht ein spezifisches Seminarangebot im Mittelpunkt, ein verpflichtendes Reflexionsseminar zum Praxissemester, in dem benotete Leistungen erbracht werden müssen. Die in diesem Seminar geforderte Reflexion ist demnach sowohl „veranlasst“ (Häcker, 2017) als auch benotet. Besteht dadurch die Gefahr, dass Reflexion lediglich „defensiv“ abgearbeitet wird? Um die Perspektive von Studierenden auf dieses Format einzuholen, wurden Interviews nach Beendigung des Praxissemesters geführt. Die Ergebnisse der Auswertung zeigen, dass zumindest einige Studierende diese Anforderung für sich zur&amp;nbsp; vertieften Auseinandersetzung mit individuell relevanten Themen ihres Praxissemesters nutzen.</abstract>
+                    <abstract lang="eng">The importance of reflection in teacher training rises with more and prolonged school internships in Germany to prevent students from simply imitating behavior they experience when in school and the classroom. At the University of Bielefeld, there are special seminars to accompany students in their practical year and give the opportunity for theory-based reflection. These seminars are graded, which is seen as aversive to reflective practice.
+In the interview study, students were asked to share their experiences about learning opportunities in their longterm internship and the accompanying university seminars. The results show that although reflection and grading are in a problematic tension, students find ways to use this setting as learning opportunity.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2530</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2530">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2530/3372" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2530" DMDID="DMD_biejournals_2530">
+            <mets:fptr FILEID="FILE0_biejournals_2530"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

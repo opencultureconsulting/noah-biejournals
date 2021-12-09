@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2248">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Person des Supervisors im Prozess der Veränderung. Vortrag im Rahmen des Symposiums „Die Kraft der Reflexion - Beziehungskunst und seelisches Verstehen“ an der Universität Bielefeld anlässlich des 80. Geburtstags von Gerhard Leuschner</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tölle, Ursula</displayForm>
+                        <namePart type="family">Tölle</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Fokus steht das supervisorische Zusammenspiel des je Eigenen mit dem Gegenüber, der Gesellschaft, auch dem Fremden. Bedacht wird, ob es zu dieser alten Frage des Person-Umwelt-Verhältnisses Aktuelles zu beachten gibt. Analog zu Heges Ausführungen zum &apos;Engagierten Dialog&apos; (1974) und zur Person des Sozialpädagogen wird die Rolle des Supervisors im Prozess der Veränderung beleuchtet. Exemplarisch wird diese hinsichtlich der Phänomene von weltweiter Flucht, Vertreibung und Aufnahme von geflüchteten Menschen und anhand psychoanalytischer Untersuchungen zu emigrierten, jüdischen Psychoanalytikerinnen illustriert. Biographisch-narrative Interviews mit Schulleitungen geben weitere Aufschlüsse zur Bedeutung der Person im rollenbezogenen beruflichen Handeln.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2248</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2248">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2248/2173" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2248">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2248/2174" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2248" DMDID="DMD_biejournals_2248">
+            <mets:fptr FILEID="FILE0_biejournals_2248"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2248" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2248"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

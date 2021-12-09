@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3664">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Einsatz eines E-Portfolios in der Lehrerfortbildung</title>
+                        <subTitle>Konzeptionelle Weiterentwicklung als Schlüssel zum erfolgreichen Einsatz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Henken, Carolin</displayForm>
+                        <namePart type="family">Henken</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eggerich, Linda</displayForm>
+                        <namePart type="family">Eggerich</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gidion, Gerd</displayForm>
+                        <namePart type="family">Gidion</namePart>
+                        <namePart type="given">Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">E-Portfolios, die digitale Form von Portfolios, bieten einenneuen Ansatz, um das Konzept des klassischen Portfolioswieder aufleben zu lassen. Durch das Einbinden unterschiedlicherDateiformate wie Bild-, Audio-, Video-, PDF- undOffice-Dateien, werden digitale Sammelmappen zu einerpersönlichen Website-ähnlichen Struktur aufgebaut. DieInhalte können beliebig ausgetauscht, ergänzt oder umgeordnetund dem Anlass entsprechend präsentiert werden. Diesdient dem Nutzer zur Reflexion bestimmter Sachverhalteund ermöglicht eine strukturierte Auseinandersetzung mitausgewählten Themen. Vor diesem Hintergrund wurde einE-Portfolio-System im Rahmen einer wissenschaftlichenWeiterbildung für Lehrerinnen und Lehrer in Baden-Württembergeingesetzt. Die dargelegten Erfahrungen könnenals Grundlage für die Entwicklung einer Didaktik der wissenschaftlichenWeiterbildung herangezogen werden, welcheinsbesondere die Reflexion als auch die Dokumentation desLernprozesses verankert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3664</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3664">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3664/3735" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3664" DMDID="DMD_biejournals_3664">
+            <mets:fptr FILEID="FILE0_biejournals_3664"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

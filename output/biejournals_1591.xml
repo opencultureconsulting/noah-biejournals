@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1591">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spanien</title>
+                        <subTitle>Citizenship education or civic education? A controversial issue in Spain</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Spain</title>
+                        <subTitle>Citizenship education or civic education? A controversial issue in Spain</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sánchez-Agustí, María</displayForm>
+                        <namePart type="family">Sánchez-Agustí</namePart>
+                        <namePart type="given">María</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miguel-Revilla, Diego</displayForm>
+                        <namePart type="family">Miguel-Revilla</namePart>
+                        <namePart type="given">Diego</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-24</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The aim of this country report is to offer an overview of civic and citizenship education in Spain. 
+Approach: The report analyses the Spanish curriculum and the current legislative framework, examining the way social and civic competences are integrated in both primary and secondary education. Additionally, the paper also examines the latest educational reform, establishing a comparison between how citizenship education was addressed in the curriculum until 2013 and the way a cross-curricular approach has been adopted since then.
+Findings: The paper has been able to establish a clear difference between two political and educational conceptions. On one hand, from 2006 to 2013, the Spanish government introduced “Citizenship and Human Rights Education” as a core subject linked to a broader approach to traditional civic education. After the 2013 reform, the new government favoured instead a cross-curricular orientation that avoided references to the idea of citizenship and limited the scope of civic education. A discussion is provided regarding what policy reforms can be expected in the near future in Spain.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1591</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1591">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1591/3548" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1591" DMDID="DMD_biejournals_1591">
+            <mets:fptr FILEID="FILE0_biejournals_1591"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

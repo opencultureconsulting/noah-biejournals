@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1658">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Praxisrelevante Sicherungsmethoden im bilingualen Biologieunterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richter, Renate</displayForm>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-04-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Von den naturwissenschaftlichen Fächern wird Biologie am häufi gsten bilingual unterrichtet. In diesem Fall ist das Fach Biologie von dem bekannten Dilemma betroffen, dass die teilnehmenden Schüler gelegentlich die Unterrichtsinhalte kognitiv besser bewältigen, als sie sich (fremd-)sprachlich artikulieren können. Auch aus diesem Grund bedarf es besonderer Maßnahmen, um eine inhaltliche und sprachliche Festigung der Unterrichtsinhalte sicher zu stellen. Der Beitrag diskutiert den Stellenwert dieser besonderen Sicherungsmethoden und nennt Kriterien zu ihrer Auswahl. Praxiserprobte und bewährte Sicherungsmethoden für den bilingualen Biologieunterricht werden vorgestellt und hinsichtlich ihrer Kriterienprofile miteinander verglichen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1658</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1658">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1658/1604" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1658" DMDID="DMD_biejournals_1658">
+            <mets:fptr FILEID="FILE0_biejournals_1658"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

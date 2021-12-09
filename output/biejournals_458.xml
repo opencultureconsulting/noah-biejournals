@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_458">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Stand, Probleme, Perspektiven der Ausbildung im Fachseminar SoWi</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cypionka, Anselm</displayForm>
+                        <namePart type="family">Cypionka</namePart>
+                        <namePart type="given">Anselm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hornbruch, Heike</displayForm>
+                        <namePart type="family">Hornbruch</namePart>
+                        <namePart type="given">Heike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kallenbach, Waltraud</displayForm>
+                        <namePart type="family">Kallenbach</namePart>
+                        <namePart type="given">Waltraud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Über Stand, Probleme und Perspektiven der Ausbildung im Fachseminar Sozialwissenschaften (Wirtschaft und Politik etc.) in der Zweiten Phase der Lehrerausbildung in den 16 Bundesländern gibt es keinen vergleichenden und aktuellen Überblick. Das folgende Gespräch versucht diesem Defizit ansatzweise entgegenzuwirken, indem Fachleiter aus drei Bundesländern (Hessen, Nordrhein-Westfalen, Thüringen) die Situation in ihrem Fachseminar und Arbeitsfeld darstellen und bewerten. Die Informationen und Statements wurden online eingeholt. Die Stellungnahmen wurden untereinander ausgetauscht und gelesen; es wurde aber darauf verzichtet, die einzelnen Positionen untereinander zu kommentieren, da dies die Situation eines natürlichen Gruppeninterviews vor Ort erfordert hätte. Schon ein Blick auf die Tabelle am Ende des Gesprächs zeigt Unterschiede in den Bezeichnungen und der Organisation im Detail auf. Auf der inhaltlichen Ebene zeigen sich aber gemeinsame Probleme, die Berufsanfänger auf dem Weg der Professionalisierung zu bewältigen haben. Das Gespräch soll systematische Bestandsaufnahme und Forschung zur Fachausbildung SoWi im Referendariat anregen.There is no comparative and current overview regarding conditions, problems and perspectives of teacher training in the subject orientated course for student teachers (Fachseminar) prior to second state examination (Staatsexamen) in the field of social sciences (civics, economics and politics etc.). Conditions among the 16 Federal states of Germany differ in detail. The following discussion tries to work against this deficit basically, as specialized leaders from three Federal states (Hessen, North Rhine-Westphalia, Thuringia) represent and evaluate the situation in their field of work. The information and statements were caught up on-line. The statements were exchanged among themselves but not commentated since this would have required the situation of a natural group interview. The table at the end points out significiant differences in the designations and the organization in the detail. On the other hand there seems to be shared/common problems, which novices have to master on their way of professionalization. The discussion aims at fostering systematic documentation and research for subjet orientated social science teacher training in the Referendariat.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_458</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_458">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/458/455" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_458" DMDID="DMD_biejournals_458">
+            <mets:fptr FILEID="FILE0_biejournals_458"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

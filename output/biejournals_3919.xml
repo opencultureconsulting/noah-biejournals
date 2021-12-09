@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3919">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie beeinflussen Umwelterfahrungen unser Genom? Regulation auf molekularer Ebene durch epigenetische Prozesse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bryce, Martina</displayForm>
+                        <namePart type="family">Bryce</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weigl, Arthur</displayForm>
+                        <namePart type="family">Weigl</namePart>
+                        <namePart type="given">Arthur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meilinger, Daniela</displayForm>
+                        <namePart type="family">Meilinger</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Katharina</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aufleger, Monika</displayForm>
+                        <namePart type="family">Aufleger</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Differenzierte Zelllinien, Organismen in verschiedenen Metamorphose-Stadien, Bienenköniginnen und -Arbeiterinnen – bei all diesen Beispielen ist die Basenabfolge der DNA jeweils (größtenteils) identisch, die Phänotypen zeigen jedoch extreme Abweichungen untereinander. Im letzten Beispiel ist der Effekt sogar von Umwelteinflüssen induziert. Versucht man diese Phänomene zu erklären, stößt man schnell an die Grenzen klassischer molekulargenetischer Konzepte. Denn die Organisation des Genoms, die Regulation der Transkription, die variable Anpassung auf Umweltreize bis hin zur Vererbung solcher Anpassungen werden epigenetisch vermittelt. Aufgrund der rasanten Entwicklung dieses Forschungsgebiets ist es meist schwer die Übersicht über “die Epigenetik” zu wahren. Dieser Beitrag stellt die wichtigsten fachlichen Grundlagen der molekularen Mechanismen zusammen, skizziert einen Unterrichtsvorschlag im Flipped-Classroom-Format und stellt eine Vielzahl von Arbeitsmaterial zur Verfügung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3919</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3919">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3919/4304" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3919">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3919/4305" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3919" DMDID="DMD_biejournals_3919">
+            <mets:fptr FILEID="FILE0_biejournals_3919"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3919" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3919"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

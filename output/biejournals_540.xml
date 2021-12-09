@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_540">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Two Peculiarities of Economic Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Remmele, Bernd</displayForm>
+                        <namePart type="family">Remmele</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In order to model economic competences and to draw the didactic-methodological consequences it is necessary to take into account specific conditions of the conceptual development concerning economic issues and the respective learning paths. In this respect economic education has to deal with two fundamental peculiarities. First, the concept of the market as system unintendedly coordinating a multitude of actions is not transparent in the individual action. Thus, the learning paths to this concept of market cannot just build on the concept of the market as the concrete place of economic interactions. Second, the market’s systemic coordination of feedback processes, particularly the negative ones, is rather unintuitive. Intuition prefers unidirectional linear causal relations. These two interrelated peculiarities are present in the cognitive development of economic concepts. Competence requirements have to be defined respectively and methodological choices in teaching systemic ‘phenomena’ have to reflect this constraintUm ökonomische Kompetenzmodelle zu entwickeln und daraus didaktisch-methodische Konsequenzen zu ziehen, ist es notwendig bestimmte Bedingungen der konzeptuellen Entwicklung ökonomischer Zusammenhänge sowie diesbezüglich relevante Lernwege zu berücksichtigen. In dieser Hinsicht muss sich ökonomische Bildung mit zwei Besonderheiten auseinandersetzen: Erstens, das Konzept des Marktes als System nicht-intendierter Koordination einer Vielzahl von Handlungen ist in der einzelnen Handlung nicht einsichtig. Daher kann der dieses Konzept betreffende Lernweg und entsprechende Lehrmethoden nicht einfach am Marktkonzept als konkreter Ort konkreter wirtschaftlicher Interaktionen ansetzen. Zweitens, die systemische Koordinationsleistung des Marktes in Bezug auf Rückkoppelungsprozesse, insbesondere negative Rückkoppelungen, ist relativ unanschaulich. Unsere Anschauung präferiert unidirektionale lineare kausale Verknüpfungen. Die beiden Besonderheiten stehen somit in engem Bezug zur kognitiven Entwicklung ökonomischer Konzepte. Kompetenzanforderungen und die Wahl von Lehr/Lernmethoden in Hinsicht auf systemische ‚Phänomene‘ müssen daher diese Bedingungen bedenken.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_540</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_540">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/540/537" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_540" DMDID="DMD_biejournals_540">
+            <mets:fptr FILEID="FILE0_biejournals_540"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

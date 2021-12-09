@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4158">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kontaktsperre für SARS-CoV-2</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hille-Rehfeld, Annette</displayForm>
+                        <namePart type="family">Hille-Rehfeld</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Infektiosität des SARS-CoV-2-Virus mit einer Basisreproduktionszahl von 3,3 bis 3,8 und eine hohe Dunkelziffer symptomlos Infizierter erschweren die Prävention. Daher sind Wirkstoffe gefragt, die eine (Re-)Infektion der Schleimhaut im Initialstadium der Infektion blockieren, um schweren Verläufen von COVID-19 mit intensivmedizinischem Behandlungsbedarf vorzubeugen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4158</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4158">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4158/4113" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4158" DMDID="DMD_biejournals_4158">
+            <mets:fptr FILEID="FILE0_biejournals_4158"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

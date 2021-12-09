@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2387">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seminarsitzungsplanung „Grundlagen schulischer Inklusion und sonderpädagogischer Förderkategorien“ mit dem Buddy-Book</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Seminarsitzungsplanung „Grundlagen schulischer Inklusion und sonderpädagogischer Förderkategorien“ mit dem Buddy-Book</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streese, Bettina</displayForm>
+                        <namePart type="family">Streese</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Faix, Ann-Christin</displayForm>
+                        <namePart type="family">Faix</namePart>
+                        <namePart type="given">Ann-Christin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Textor, Annette</displayForm>
+                        <namePart type="family">Textor</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wild, Elke</displayForm>
+                        <namePart type="family">Wild</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschreibt die Gestaltung einer einführenden Seminarsitzung zum Thema &quot;Grundlagen schulischer Inklusion und sonderpädagogischer Förderkategorien&quot;. Dabei wird eine menschenrechtsbasierte Perspektive im Sinne der UN-BRK eingenommen. Die Sitzung wird durch eine Präsentation gerahmt, deren didaktischer Aufbau im Artikel hergeleitet wird. Mithilfe eines sogenannten Buddybooks werden die Studierenden zu Beginn der Sitzung aktiviert, indem sie das Buddybook zunächst selbst herstellen und sich mit ihren Vorannahmen zum Thema Inklusion auseinandersetzen. Im Verlauf der Sitzung dokumentieren die Studierenden ihre Erkenntnisse und Reflexionen bezüglich Inklusion.</abstract>
+                    <abstract lang="eng">The paper describes the design of an introductive seminar session on &quot;Basics on Inclusive Education and Special Educational Needs&quot;. In doing so, a human rights-based perspective according to the UN CRPD is adopted. The session is framed by a presentation whose didactic structure is derived in the paper. Using a so-called Buddy book, the students are activated by producing their own Buddy book and reflecting on their assumptions about inclusion. During the session, the students document their further reflections and findings on inclusion in their Buddy book.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2387</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2387">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2387/2379" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2387">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2387/2380" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_2387">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2387/2381" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2387" DMDID="DMD_biejournals_2387">
+            <mets:fptr FILEID="FILE0_biejournals_2387"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2387" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2387"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_2387" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_2387"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

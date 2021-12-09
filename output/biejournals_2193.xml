@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2193">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selbstoptimierung und die Radikalisierung instrumenteller Vernunft in der Theorie von Anna Stach und ihre Bedeutung für die Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleine, Manuela</displayForm>
+                        <namePart type="family">Kleine</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit ihrer Habilitationsschrift &quot;Weiblichkeitsentwürfe im Kontext der Radikalisierung instrumenteller Vernunft&quot; hat Anna Stach einen wichtigen geschlechtersensiblen Beitrag zum Verständnis neuer Weiblichkeitsentwürfe im Kontext von Arbeitszusammenhängen geleistet. Auf der Basis inhalts- und rezeptionsanalytischer Untersuchungen der Reality-TV-Formate Germany`s Next Topmodel und Die Super Nanny arbeitet sie aus medien- und geschlechtertheoretischer Perspektive Formen der Radikalisierung instrumenteller Vernunft im Hinblick auf Erwerbsarbeit, Care und Weiblichkeit heraus und verortet diese im Kontext neoliberaler Umstrukturierungsprozesse.Der folgende Artikel setzt sich auf dieser Grundlage mit der Bedeutung für die Supervision auseinander. Dabei wird zunächst ein Abriss zum Verständnis von Stachs Theorie dargelegt. Die anschließenden Überlegungen zur Bedeutung für die Supervision fokussieren wesentlichesupervisionsrelevante Aspekte, wobei insbesondere Bezüge zum Konzept der Gouvernementalität sowie zu Prozessen der Identitätsentwicklung hergestellt werden. Den Abschluss bildet eine Auseinandersetzung mit dem gesellschaftlichen Standort von Supervision im Spannungsfeld von Gouvernementalität und der Konzeption eines guten Lebens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2193</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2193">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2193/2079" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2193">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2193/2080" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2193" DMDID="DMD_biejournals_2193">
+            <mets:fptr FILEID="FILE0_biejournals_2193"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2193" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2193"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2092">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ist Supervisor/in ein Beruf?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leuschner, Gerhard</displayForm>
+                        <namePart type="family">Leuschner</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mein Beitrag hat zwei Teile: im ersten Teil zunächst einige Gedanken zum Wandel der Supervision und zur Geschichte der Supervision, weil man die Entwicklung der Supervision geschichtslos nicht verstehen kann. Und im zweiten Teil stelle ich Ergebnisse einer Stichprobenbefragung von 22 freiberuflichen Supervisaren und Supervisorinnen vor. Mir ging es dabei darum, etwas näher zu erfahren, wie denn diese Kolleginnen ihren Beruf betreiben und ob sich daraus Tendenzen für unser Thema ablesen oder schließen lassen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2092</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2092">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2092/1959" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2092" DMDID="DMD_biejournals_2092">
+            <mets:fptr FILEID="FILE0_biejournals_2092"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

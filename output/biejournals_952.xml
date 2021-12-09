@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_952">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Generations of change or »birds in a cage«. 1968 and the problem of generations in Slovak civic dissent</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Glushko, Elena</displayForm>
+                        <namePart type="family">Glushko</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article looks at aspects of the history of anti-Communist resistance in Slovakia from 1968 to 1989 to argue that people who experienced August 1968 as part of a specific generational cohort show similar patterns of behaviour in later life. The paper deals mostly with those who were pursuing higher education at the time (the »Post-War Generation«) and those who were in their teens (»Generation 52«), and the primary sources are accounts from dissidents themselves. Characteristically, Generation 52 formed a great part of the cultural underground in Slovakia. The article also depicts the generational conflict that emerged during and after the Velvet Revolution of 1989; the final section is dedicated to describing the current opinions held by members of these two generations towards Slovak politics.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_952</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_952">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/952/1060" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_952" DMDID="DMD_biejournals_952">
+            <mets:fptr FILEID="FILE0_biejournals_952"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

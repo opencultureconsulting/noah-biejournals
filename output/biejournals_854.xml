@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_854">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Making ‘Good’ or ‘Critical’ Citizens</title>
+                        <subTitle>From Social Justice to Financial Literacy in the Québec Education Program</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lefrançois, David</displayForm>
+                        <namePart type="family">Lefrançois</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ethier, Marc-André</displayForm>
+                        <namePart type="family">Ethier</namePart>
+                        <namePart type="given">Marc-André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cambron-Prémont, Amélie</displayForm>
+                        <namePart type="family">Cambron-Prémont</namePart>
+                        <namePart type="given">Amélie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The Québec Ministry of Education has introduced – as of September 2017 – a new mandatory course focusing on financial literacy and addressing such issues as credit scores, loans, taxes and budgets. This announcement has created intense educational debate on the raison d’être and content of the course. This article will summarise the heated debate and will examine content knowledge and the type of ‘good’ citizens that the course seeks to create.Method: We use thematic content analysis to identify textual patterns and themes in the Québec Education Program (QEP) pertaining to financial literacy.Findings: Our assumption is that the QEP reproduces and shapes a personally responsible citizen at the expense of systemic criticism and justice-oriented citizenship education, according to Westheimer and Kahne (2004)’s typology.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_854</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_854">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/854/969" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_854" DMDID="DMD_biejournals_854">
+            <mets:fptr FILEID="FILE0_biejournals_854"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

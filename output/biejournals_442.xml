@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_442">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Adolescents and Politics – A Match Made in the Media? On the Role of Entertainment-Education for Political Information</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arendt, Kathleen</displayForm>
+                        <namePart type="family">Arendt</namePart>
+                        <namePart type="given">Kathleen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The role of politics in the life of adolescents is a topic intensely discussed in different fields of academia – usually claiming a lack of interest in political issues among youth. State-of-the-art research is shifting to assessing the role of entertaining media content in this process reflect­ing on the changing depictions of the political along the lines of infotainment and political en­ter­tainment. This article focuses on the latter and discusses the question, how elements of politics are or could be displayed in entertaining, narrative formats, and how this could affect knowledge, attitudes and behavior. The line of argumentation is based on the conceptual­ization of Entertainment-Education (EE) as a form of strategic communication. EE describes the intentional design and implementation of a media message into entertaining narrative content based on social cognitive theory and the assumption of vicarious learning by observ­ing role modeled behavior. The article discusses findings from EE interventions outside politics and links them to the issue of youth and politics.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_442</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_442">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/442/439" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_442" DMDID="DMD_biejournals_442">
+            <mets:fptr FILEID="FILE0_biejournals_442"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

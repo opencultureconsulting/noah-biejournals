@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_813">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Art Education for Citizenship</title>
+                        <subTitle>Augusto Boal’s Theater of the Oppressed as a Method for Democratic Empowerment</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Silva, José Eduardo</displayForm>
+                        <namePart type="family">Silva</namePart>
+                        <namePart type="given">José Eduardo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: To contribute for the ongoing discussion about associations between art education and citizenship education, presenting Augusto Boal’s Theatre of the Oppressed, as a theatre method that exercises active democracy by means of promoting epistemological development merging Art, Citizenship and Education.Design: Drawing form a selected set of relevant concepts and data in the fields of psychology, education, arts and performance studies, amongst others, the advantages and limitations of the artistic practice of theatre are analyzed in terms of its impact in epistemological and socio-cognitive development.Findings: A literature review shows several studies that evidence the benefits of artistic practices, namely theatre, in several indicators. Despite these evidences formal educative contexts, rooted in traditional pedagogic paradigms, resist to the entrance of arts, such as the performative, in school curricula, as well as other interactive practices indispensable in the promotion of participative citizenship.Research implications: Present existing methods alternative to formal education, exemplified by the method of the theatre of the oppressed, that aim to develop art, education and citizenship in one same practice.Practical implications: Evidence the need to reconsider formal education curricula with the objective of enhancing epistemological development, empowerment, autonomy and active citizenship.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_813</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_813">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/813/898" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_813" DMDID="DMD_biejournals_813">
+            <mets:fptr FILEID="FILE0_biejournals_813"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

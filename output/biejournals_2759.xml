@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2759">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Is There a Culture of Violence in Colombia?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Waldmann, Peter</displayForm>
+                        <namePart type="family">Waldmann</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">During the past decade, economic factors have been given a prominent role in explaining political violence. The example of Colombia shows that economic factors can explain the ubiquitous nature of violence in that country only in the context of a socio-culturally rooted propensity to use violence. The study draws on relevant published research to identify evidence of a culture of violence in Colombia and discusses the structural conditions that allow or cause such a culture to arise. It is shown that violence in Colombia cannot be explained without taking into account cultural factors that are in turn dependent on other explanatory factors, including economic ones.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2759</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2759">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2759/2520" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2759" DMDID="DMD_biejournals_2759">
+            <mets:fptr FILEID="FILE0_biejournals_2759"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

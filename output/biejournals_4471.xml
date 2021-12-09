@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4471">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Digital and Home Healthcare Survey among Nigerians</title>
+                        <subTitle>Assessing Awareness, Preferences, and Willingness to Pay for an Integrated Healthcare Ecosystem to achieve Universal Health Coverage</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ahmad, Jameel Ismail</displayForm>
+                        <namePart type="family">Ahmad</namePart>
+                        <namePart type="given">Jameel Ismail</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jibril, Murtala</displayForm>
+                        <namePart type="family">Jibril</namePart>
+                        <namePart type="given">Murtala</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ahmad, Barroon Isma’eel</displayForm>
+                        <namePart type="family">Ahmad</namePart>
+                        <namePart type="given">Barroon Isma’eel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Suleiman, Abdurrahman</displayForm>
+                        <namePart type="family">Suleiman</namePart>
+                        <namePart type="given">Abdurrahman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Inuwa, Nasir Sani</displayForm>
+                        <namePart type="family">Inuwa</namePart>
+                        <namePart type="given">Nasir Sani</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ali, Abdullahi Garba</displayForm>
+                        <namePart type="family">Ali</namePart>
+                        <namePart type="given">Abdullahi Garba</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ismail, Salihu Ibrahim</displayForm>
+                        <namePart type="family">Ismail</namePart>
+                        <namePart type="given">Salihu Ibrahim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Introduction: The COVID-19 pandemic highlighted the need for evolving an integrated healthcare ecosystem that will connect patients to digital and home healthcare to achieve universal health coverage. The survey aims to assess perceptions and preferences about digital and home healthcare services and develop an integrated healthcare ecosystem.
+Methods: A survey of 254 Nigerians was conducted to assess their awareness, preferences, and willingness to pay for digital and home healthcare services using electronic questionnaires, and the data were analysed using SPSS 16.0.
+Results: Males constituted 70.9%, and 61.4% were aged ≤35 years. Two-third were clients, and a third were healthcare providers. Although about 71% patronized public hospitals, there was poor satisfaction (31.7%) than those attending private hospitals that were more satisfied. The male gender, private hospital utilization, and age of ≤35 years were associated with the satisfaction with OR 1.19 (95% CI 0.69-2.05), OR 1.22 (95% CI 0.73-2.04), and OR 2.41 (95% CI 1.38-4.20) respectively. Thirty minutes was the acceptable delay in receiving care by most respondents.&amp;nbsp; Only 39.4% were aware of digital health, and 52.8% were aware of home healthcare.&amp;nbsp; Male gender was associated with DH awareness, while being a healthcare provider was associated with both DH and home healthcare awareness. The respondents&apos; median amount was willing to pay for DH and HH respondents is $1.64 - $6.56 and $3.28 – $6.56, respectively.
+Conclusion: In response to the survey result, we designed an integrated hospital, digital, and home healthcare project named eDokta, to leapfrog the attainment of universal health coverage in Nigeria.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4471</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4471">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4471/4279" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4471" DMDID="DMD_biejournals_4471">
+            <mets:fptr FILEID="FILE0_biejournals_4471"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

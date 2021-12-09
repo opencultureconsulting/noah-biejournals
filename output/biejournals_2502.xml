@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2502">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theoriegeleitete Praxisreflexion als Professionalisierungschance</title>
+                        <subTitle>Modellierung, Konzeptualisierung und Analyse fachspezifischer Reflexionsprozesse von Lehramtsstudierenden</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Theory-based Reflection of Teaching Experience as a Chance to Professionalize</title>
+                        <subTitle>Deutsch</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kilimann, Vanessa</displayForm>
+                        <namePart type="family">Kilimann</namePart>
+                        <namePart type="given">Vanessa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krüger, Sebastian</displayForm>
+                        <namePart type="family">Krüger</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Winter, Katja</displayForm>
+                        <namePart type="family">Winter</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vor dem Hintergrund des aktuellen Diskurses um reflektierte Praxiserfahrungen sowie die Anbahnung, Begleitung und Bewertung von Reflexionsprozessen, deren Bedeutung für die Professionalisierung angehender Lehrkräften unbestritten ist, wurde im Rahmen des interdisziplinären Forschungs- und Entwicklungsprojekts Praxisprojekte in Kooperationsschulen als Teil der Qualitätsoffensive Lehrerbildung an der Universität Münster ein Reflexionsmodell entwickelt. Dieses soll die theoriegeleiteten Reflexionsprozesse der Lehramtsstudierenden der am Projekt beteiligten Fächer Deutsch, Geographie, Geschichte und Mathematik lenken und unterstützen.
+Die Vorstellung und detaillierte Beschreibung der einzelnen Schritte dieses deduktiv entwickelten Reflexionsmodells (ProRefiT) bildet den Kern des vorliegenden Beitrags. In diesem Zusammenhang wird auch aufgezeigt, wie die Reflexionsprozesse der Studierenden in den die jeweiligen Praxisphasen vorbereitenden und begleitenden hochschulischen Projektseminaren initiiert und angeleitet werden können, um Noviz_innen eine theoriegeleitete und fachdidaktisch profilierte Reflexion zu ermöglichen. Der Frage, ob und inwiefern die zunächst eng angeleitete Reflexion basierend auf dem ProRefiTModell gelingt, wird mittels einer explorativen Analyse vorliegender studentischer Reflexionsberichte nachgegangen, aus der mögliche Qualitätskriterien abgeleitet und diskutiert werden. Schlussfolgernd wird festgehalten, dass die theoriegeleitete Praxisreflexion zum Aufbau und zur Weiterentwicklung von Planungs-, Handlungs-, Diagnose- und vor allem Reflexionskompetenzen beiträgt und damit eine Professionalisierungschance für angehende Lehrer_innen darstellt</abstract>
+                    <abstract lang="eng">Teaching experiences in schools are highly relevant to future teachers. In terms of professional assets, it is very important to reflect these teaching experiences. The reflection aims at combining pedagogical content theory and practical experience. The interdisciplinary research and development project named Praxisprojekte in Kooperationsschulen is a part of the Qualitätsoffensive Lehrerbildung at the University of Münster and focuses on the question to what extent theorybased reflection processes can be initiated, accompanied and evaluated. Therefore the participating subjects German, History, Geography and Mathematics developed a reflectory model called ProRefiT deductively in order to support the students of the subjects concerned. The reflectory processes take place during university seminars using the model to prepare and guide the students. At the end, a report is supposed to be conducted by the students. This article presents the model and its application in seminars in detail. Thus, it describes the model’s individual phases. The explicit sequence is intended to guide the novice students. The question to what extent the theory-based developed ProRefiT-model has proved its practicability in concrete implementation will be explored by an explorative analysis of student reflection reports. It is specifically examined to what extent the quality of the realization of single steps affects the entire reflection process. Fundamental is here the assumption that the theory-based reflection on teaching experience offers a chance of professionalization in the sense of the development of essential teacher competences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2502</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2502">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2502/3384" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2502" DMDID="DMD_biejournals_2502">
+            <mets:fptr FILEID="FILE0_biejournals_2502"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

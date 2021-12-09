@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2956">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Racism, Differentialism, and Antiracism in Everyday Ideology</title>
+                        <subTitle>A Mixed-Methods Study in Britain</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Martin, Peter</displayForm>
+                        <namePart type="family">Martin</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-05-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Racism is ostracized in British public life, but continues to exist and exert influence in various forms. One such is the ideology of differentialism that enforces racialized distinctions by emphasizing culture and difference in place of biology and hierarchy. Although differentialism has been described by various authors, there has been no prior attempt to operationalize it in an attitude scale that could be used in national surveys. This mixed methods study of differentialism in a context of official antiracism presents an attitude scale of Everyday Differentialism and applies it in a postal survey in two areas of London. Scale quality was tested using psychometric methods and qualitative interviews with a sub-sample of survey respondents. The analysis suggests that quantitative and qualitative data converge toward the same classification of individuals: differentialists, antiracists, and those of ambiguous opinion. A detailed qualitative analysis reveals how respondents deal with ambiguity and contradictory attitudes within the ideological field of differentialism and anti-racism. Although the denial of racism is now part of racist ideology itself, we also find evidence of genuine ambiguity in respondents’ thinking about issues of racism.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2956</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2956">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2956/pdf_82" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2956">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2956/2857" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2956" DMDID="DMD_biejournals_2956">
+            <mets:fptr FILEID="FILE0_biejournals_2956"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2956" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2956"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

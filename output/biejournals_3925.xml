@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3925">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung und Darstellung des Online-Kurses  </title>
+                        <subTitle>„DNA-Schnupperkurs – Knochenmarkspende &amp; Leukämie“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nagel , Caroline</displayForm>
+                        <namePart type="family">Nagel </namePart>
+                        <namePart type="given">Caroline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel, Annkathrin</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Annkathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Buschmann, Jana-Kim</displayForm>
+                        <namePart type="family">Buschmann</namePart>
+                        <namePart type="given">Jana-Kim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Panhorst, Maren</displayForm>
+                        <namePart type="family">Panhorst</namePart>
+                        <namePart type="given">Maren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Dieser Beitrag thematisiert eine Möglichkeit, Schüler*innen der 9. und 10. Jahrgangsstufe einen kleinen Einblick in das Thema der Leukämie und der Stammzellenspende zu geben. Der experimentelle Fokus wird dabei auf die DNA-Extraktion gelegt, ohne diese im Labor selbst durchzuführen. Die Thematik&amp;nbsp; wird während des Online-Kurses hauptsächlich durch interaktive Inhalte vermittelt. Der Kurs lässt sich sowohl in der Schule synchron mit der gesamten Klasse, als auch asynchron – in Form von Homeschooling oder einer individuellen Fördermaßnahme – bearbeiten.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3925</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3925">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3925/4301" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3925" DMDID="DMD_biejournals_3925">
+            <mets:fptr FILEID="FILE0_biejournals_3925"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

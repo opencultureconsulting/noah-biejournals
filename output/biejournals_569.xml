@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_569">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Hauptschülers’ Conceptions of Work – An Exclusion from the Subjective Dissolution of Boundaries (Hauptschüler und ihre Vorstellung von Arbeit – eine Ausgrenzung von der subjektivierten Entgrenzung?)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kölzer, Carolin</displayForm>
+                        <namePart type="family">Kölzer</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-10-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The focus of this paper is on the experience-based conceptions of Hauptschüler regarding work. These were identified by means of guideline- and problem-based interviews in a research project of the author. Some empirical cases will show that Hauptschüler often experience atypical forms of employment with high job insecurities, vast workloads and a high risk of financial insecurity. On the other hand, standard employment relationships are limited to occupations with low status, low pay and high health risks. Privileged occupations with a high potential of subjectivization are withheld from them. This one-sided institutionally and socially generated work experience causes a rather narrow concept of work in the process of emotional conditioning. At the same time, the subjectivization of work together with the dissolution of boundaries (between private life and work) is a growing general requirement structure for all employees (cf. Lohr, Nickel 2005, 217). In order to deal with job requirements with higher subjective flexibility demands and self-organisation potentials (cf. ibid, 221) – this is my thesis – a different conception of work is needed, in particular an awareness of subjectivization with the dissolution of boundaries. Instead, Hauptschüler will enter the labour market with a rather one-dimensional, negative, and fordistic-based view on work if school education fails to extend and to differentiate these conceptions. However, their conception of work and their work habits which are inconsistent with actual requirements, might exclude Hauptschüler from jobs with higher subjective flexibility demands and self-organisation potentials (“exclusion from subjective dissolution of boundaries”)Gegenstand des Beitrages sind die erfahrungsbasierten Vorstellungen von Hauptschüler zu Arbeit, welche von der Autorin mittels leitfadengestützter, problemzentrierter Einzelinterviews eruiert wurden. An empirischen Fällen wird dargestellt, dass sich die Erfahrungen, die Hauptschüler mit Arbeit sammeln, einseitig auf atypische, unsichere Beschäftigungsverhältnisse mit hohem Prekaritätsrisiko konzentrieren sowie auf Normalarbeitsverhältnisse, beschränkt auf Berufe mit niedrigem Status, schlechter Bezahlung und hohen Gesundheitsrisiken. Privilegierte Tätigkeiten mit hohem Subjektivierungsgrad bleiben ihnen meist vorenthalten. Diese institutionell und sozial erzeugte eher einseitige Erfahrungskonzentration verursacht daher im Prozess der emotionalen Konditionierung einen eher engen Arbeitsbegriff. Gleichzeitig stellt Subjektivierung zusammen mit ihren Entgrenzungsphänomenen zunehmend eine „generelle Anforderungsstruktur an alle Beschäftigten“ (Lohr, Nickel 2005, 217) dar. Um sich auf „Arbeitsanforderungen mit höherem Gehalt an subjektiven Flexibilitäts- und Selbstgestaltungspotenzialen einzustellen“ (ebd., 221), – so meine These – bedarf es allerdings vorab einer differenzierteren Vorstellung von Arbeit, insbesondere ein Bewusstsein für die Subjektivierung von Erwerbsarbeit mit ihren Entgrenzungsphänomenen. Doch treten die befragten Hauptschüler mit einer eher einseitigen, negativen und vorwiegend fordistisch geprägten Perspektive auf Arbeit in den Lernprozess und später wahrscheinlich auch in den Arbeitsmarkt ein, wenn es Schule und Unterricht nicht gelingt, diese Vorstellungen zu erweitern und zu differenzieren. Insofern kann von einer Ausgrenzung von subjektiver Entgrenzung aufgrund eines unzureichenden Arbeitsbegriffes und einer mit aktuellen Anforderungen wenig kompatiblen Arbeitseinstellung gesprochen werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_569</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_569">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/569/566" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_569" DMDID="DMD_biejournals_569">
+            <mets:fptr FILEID="FILE0_biejournals_569"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

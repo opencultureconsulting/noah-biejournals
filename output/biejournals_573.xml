@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_573">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Citizenship Education</title>
+                        <subTitle>Lithuanian Mapping</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zaleskene, Irena</displayForm>
+                        <namePart type="family">Zaleskene</namePart>
+                        <namePart type="given">Irena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-10-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Some theoretical concepts of globalisation and citizenship are discussed in the article as well as changing role of citizenship education in transforming Lithuanian Society. The author points out that many problems in contemporary Lithuanian society arise from the fact that the relationship between individuals and the state is changing fundamentally. The state should broaden “positive” choices and support an individual by ensuring principles of equality in basic human rights and access to opportunities. On the other hand, an individual has to take the responsibility for his/her own life becoming a decisive factor in choosing personal life style and in building up civic community. In this respect, it is expected that Citizenship Education would lay an important role in educating competence and attitudes towards own responsibilities, in educating mental and practical skills for positive civic participation. Current status and new approaches of citizenship education in Lithuania are presented in the light of international developments. The article concludes that changing role of citizenship education has significant implications for professional development of teachers and for the national teacher training system as a whole.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_573</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_573">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/573/570" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_573" DMDID="DMD_biejournals_573">
+            <mets:fptr FILEID="FILE0_biejournals_573"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

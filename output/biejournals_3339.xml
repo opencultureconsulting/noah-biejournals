@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3339">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>besondere Oberstufe</title>
+                        <subTitle>Die immer noch außergewöhnliche Praxis der Versuchsschule nach 45 Jahren – Ein Überblick</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fiedler-Ebke, Wiebke</displayForm>
+                        <namePart type="family">Fiedler-Ebke</namePart>
+                        <namePart type="given">Wiebke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Oberstufen-Kolleg ist neben der zeitgleich gegründeten Laborschule die älteste und bekannteste Versuchsschule des Landes Nordrhein-Westfalen (NRW). Seine Konzeption als Werkstatt für eine neue Oberstufe in der Umbruchphase des Bildungssystems der späten sechziger Jahre wirkt bis heute nach. Trotz diverser Modifikationen auf Grund bildungspolitischer Entwicklungen und der schrittweisen Angleichung an das Regelsystem der gymnasialen Oberstufe hat es seinen Auftrag, neue Konzepte zu entwickeln und Probleme der gymnasialen Oberstufen und des Übergangs zwischen Schule und Hochschule zu erforschen, beibehalten. Der Beitrag skizziert die differenten institutionellen Bedingungen, besondere pädagogische Konzepte und das als besonders positiv wahrgenommene Zusammenleben in der Gemeinschaft des Oberstufen-Kollegs als Aspekte des innovationsfokussierten institutionellen Auftrags und zugleich Ausdruck einer wissenschaftsfundierten Praxis und praxisorientierten Wissenschaft auf dem Hintergrund seines historischen Ursprungs.
+The Oberstufen-Kolleg is the oldest and best-known experimental school in the state of North Rhine-Westphalia, alongside the Laboratory School founded at the same time. Its conception as a workshop for a new upper secondary school in the upheaval phase of the educational system of the late sixties still has an impact today. Despite various modifications due to educational policy developments and the gradual alignment to the regulatory system of the upper secondary school, it has retained its mission to develop new concepts and to research problems of the upper secondary school levels and the transition between school and university. The article outlines the different institutional conditions, special pedagogical concepts, and the living together in the community of the Oberstufen-Kolleg, which is perceived as particularly positive, as aspects of the innovation-focused institutional mission and at the same time an expression of a scientifically sound practice and practice-oriented science on the background of its historical origin.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3339</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3339">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3339/3506" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3339" DMDID="DMD_biejournals_3339">
+            <mets:fptr FILEID="FILE0_biejournals_3339"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

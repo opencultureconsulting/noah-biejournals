@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_880">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Dominant Narrative in Economics?</title>
+                        <subTitle>Preservice Teachers and Pluralism in a Social Studies Methods Class</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Shanks, Neil Graham</displayForm>
+                        <namePart type="family">Shanks</namePart>
+                        <namePart type="given">Neil Graham</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The purpose of this study is to evaluate one effort to challenge the problematic assumptions of the dominant narrative of neoclassical economics within a teacher preparation program that focuses on addressing dominant narratives throughout the social studies curriculum.Design/methodology/approach: Utilizing a theoretical framework that intersects Pedagogical Content Knowledge and pluralist economics, this study consists of a general interpretive study conducted in a master’s plus certification social studies methods course. Data was collected from several class sessions, including observational and artifact data, as well as semi-structured interviews with participants after the conclusion of the class.Findings: Preservice teachers were able to spell out a dominant narrative in economics that exposed the effect of the narrative, but rarely critiqued its epistemology. Second, the fluctuations in content and curricular knowledge as well as the broader challenge of explaining pluralism in a relevant way meant the observed pedagogical content knowledge in economics was devoid of pluralist content.Research limitations/implications: Implications from this study include the need to explicitly critique the epistemological foundations of neoclassical theory, the value of an appreciative stances toward preservice teacher content knowledge, and the need to strategically integrate pluralism into economics methods courses. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_880</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_880">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/880/1014" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_880">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/880/1015" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_880" DMDID="DMD_biejournals_880">
+            <mets:fptr FILEID="FILE0_biejournals_880"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_880" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_880"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3492">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Navigating barriers to gender equality in the European Union context</title>
+                        <subTitle>The case of healthcare sector</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kalaitzi, Stavroula</displayForm>
+                        <namePart type="family">Kalaitzi</namePart>
+                        <namePart type="given">Stavroula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-01</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Context: Progress towards achieving gender equality in the European Union context is reported slow and fragmented, although some achievements have been made. Scholarship has been discuss-ing extensively the gendered barriers, yet their manifestation on a comprehensive and prevalence basis has received scant attention so far. Highlighting the big picture of all (in)visible gendered barriers and their manifestation in relation to countries’ specificity may contribute in understand-ing better the missing link between policy and practice. This study aims firstly, to identify com-prehensively the gendered barriers and their prevalence, and secondly, to gain deeper insights on how a persisting policy problem at the EU and Member States level remained poorly addressed for over two decades. 
+Methods: A mixed methods approach was adopted to ensure the qualitative research quality cri-teria. The systematic literature review, questionnaire and semi-structured interviews methods to obtain and analyze data were included. Qualitative analysis was supplemented by the fundamental tenet of feminist research on the centrality of women. 
+Results: Twenty-six gendered barriers with quantitative logic and varying degree of prevalence were identified and depicted in the Barriers Thematic Map (BTM) across healthcare, academia and business sectors. Twenty and twenty-one gendered barriers in Greek and Maltese healthcare set-tings were found respectively unveiling the country’s specificity in barriers’ manifestation. The sustainable development thinking in gender equality objectives in EU and MS was found suffering from inconsistencies and misplaced priorities. 
+Conclusion: The gendered barriers are multiple, manifest themselves in chorus and with a varying degree of prevalence across sectors and are greatly influenced by country’s specificity. Evidence informed gendered policies respecting national priorities may need to be revisited by policy actors to deliver the promised egalitarian social orderand sustainable future for the EU citizens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3492</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3492">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3492/3592" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3492" DMDID="DMD_biejournals_3492">
+            <mets:fptr FILEID="FILE0_biejournals_3492"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

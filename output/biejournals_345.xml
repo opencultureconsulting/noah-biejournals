@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_345">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Practices of Disciplinarity and Interdisciplinarity in Quebec Elementary Schools</title>
+                        <subTitle>Results of Twenty Years of Research</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lenoir, Yves</displayForm>
+                        <namePart type="family">Lenoir</namePart>
+                        <namePart type="given">Yves</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article presents a synthesis of different research projects that have been carried out in the province of Quebec, Canada over the past 20 years concerning the representations and practices of elementary teachers regarding the relative importance given to subject matter and the use of interdisciplinarity in their teaching practice. The first section will explain the context of the Quebec school system on a socio-historical and political level and review the emergence of the concept of interdisciplinarity in Quebec. The second section will present succinctly the different research projects that have been conducted since 1980 and the conceptual framework they were based on. The third section will consider the main results of the various research projects from two angles: first, the representations and practices of the teachers regarding interdisciplinarity; secondly, the relative importance and role that the teachers give to interdisciplinarity. In the conclusion, we will highlight among other things the central position teachers give to the role of socialization and their minimal consideration for the teaching of disciplinary knowledge.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_345</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_345">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/345/342" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_345" DMDID="DMD_biejournals_345">
+            <mets:fptr FILEID="FILE0_biejournals_345"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

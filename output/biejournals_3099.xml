@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3099">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Killing in Pairs</title>
+                        <subTitle>Radicalisation Patterns of Violent Dyads</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>O’Connor, Francis</displayForm>
+                        <namePart type="family">O’Connor</namePart>
+                        <namePart type="given">Francis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Malthaner, Stefan</displayForm>
+                        <namePart type="family">Malthaner</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lindekilde, Lasse</displayForm>
+                        <namePart type="family">Lindekilde</namePart>
+                        <namePart type="given">Lasse</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In recent years there has been an upsurge in violent attacks conducted by pairs of individuals who have undergone a shared process of radicalisation. Violent dyads remain a relatively understudied phenomenon. Using a relational approach, this article analyses the unique character of dyadic radicalisation and how it differs from instances of lone actor or group-based terrorism. It draws on a number of recent case studies, analysing instances of non-kin, fraternal, and spousal dyads. Its principal case study is a failed attack in Germany in 2006, based on a range of documentary sources as well as an interview with one of the perpetrators.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3099</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3099">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3099/3147" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3099" DMDID="DMD_biejournals_3099">
+            <mets:fptr FILEID="FILE0_biejournals_3099"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

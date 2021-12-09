@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1029">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the Social Constitution of Structures, Actions and Events</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Youssef, Ramy</displayForm>
+                        <namePart type="family">Youssef</namePart>
+                        <namePart type="given">Ramy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article aims to address some obstacles to understanding events that are inherent in approaches focusing on the duality of structure and agency. The first rather epistemological obstacle is a terminological conflation between categories of theory and categories of practice. This conflation leads on the one hand to theoretical inconsistencies, particularly when action is being described in causal terms and events are being considered as temporal accumulation of actions. The second obstacle is rather ›ontological‹ and concerns the density of time. Events are not ontological entities but can be cut to size according to contingent social preferences and relevance criteria. An approach focusing on the communicative construction of events and actions as an emergent process would avoid analytical problems arising from these obstacles. Therefore, the article suggests Niklas Luhmann’s concept of communication as an example for such an approach.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1029</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1029">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1029/1137" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1029" DMDID="DMD_biejournals_1029">
+            <mets:fptr FILEID="FILE0_biejournals_1029"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

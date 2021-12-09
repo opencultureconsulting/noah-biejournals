@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4585">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Survey exploring the opinion of corresponding authors of articles published in the South Eastern European Journal of Public Health during 2014-2021</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Petrela, Kreshnik</displayForm>
+                        <namePart type="family">Petrela</namePart>
+                        <namePart type="given">Kreshnik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roshi, Meri</displayForm>
+                        <namePart type="family">Roshi</namePart>
+                        <namePart type="given">Meri</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-10</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The aim of this survey was to assess the intentions of corresponding authors for publishing again in the South Eastern European Journal of Public Health (SEEJPH), the aspects that they like most about the jour- nal, and things which can be improved by SEEJPH in order to be more attractive to potential contributors. A three-item questionnaire was sent out by email to all corresponding authors (N=89) who published in the 16 volumes of the SEEJPH journal between 2014 and 2021. Among 84 eligible corresponding authors, we collected 26 answers, or 31%.
+There were generally favourable and constructive comments, which is encouraging. The wide array of coun- tries of the corresponding authors represents the successful global orientation of SEEJPH. Also, more than half of all related articles are classified as original papers, and the average of four authors per represented paper is satisfying. Furthermore, all corresponding authors would publish again in SEEJPH (“definitely”, or “probably”), and their numbers are almost equally distributed throughout 2014-2021.
+Acknowledgments: We express our gratitude to our Publisher Dr. Hans Jacobs, Sebastian Wolf, and all our supporters in the University of Bielefeld/Germany, our Boards of Editors, and our authors, friends, and colleagues.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4585</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4585">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4585/4354" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4585" DMDID="DMD_biejournals_4585">
+            <mets:fptr FILEID="FILE0_biejournals_4585"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

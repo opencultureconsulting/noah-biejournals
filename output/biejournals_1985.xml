@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1985">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Leitbild, viele Konzepte? Eine vergleichende Analyse der Profile Forschenden Lernens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mertens, Claudia</displayForm>
+                        <namePart type="family">Mertens</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Basten, Melanie</displayForm>
+                        <namePart type="family">Basten</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wischer, Beate</displayForm>
+                        <namePart type="family">Wischer</namePart>
+                        <namePart type="given">Beate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bei deskriptiver Auswertung der „Profile Forschenden Lernens in den (Fach-)Didaktiken“ – als Selbstauskünfte der an der Lehrer*innenbildung beteiligten Fächer am Studienstandort Bielefeld – findet man neben konsensualen Aspekten eine sehr unterschiedliche inhaltliche Interpretation und methodisch differente Ausgestaltung des Bielefelder Leitkonzepts auf der Umsetzungsebene. Diese Divergenzen werden im folgenden Artikel anhand der 17 Profile näher beleuchtet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1985</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1985">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1985/3571" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1985" DMDID="DMD_biejournals_1985">
+            <mets:fptr FILEID="FILE0_biejournals_1985"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

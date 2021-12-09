@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_350">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civic Education as an Interdisciplinary Subject in Austria - A Review</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Filzmaier, Peter</displayForm>
+                        <namePart type="family">Filzmaier</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klepp, Cornelia</displayForm>
+                        <namePart type="family">Klepp</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The article gives an overview of Civic Education (CE) inside the Austrian school system. CE has an interdisciplinary approach as a teaching principle but is also part of regular subjects like history. The introduction of CE as such a principle has been extremely important, but in some cases its existence is willingly used as an alibi for later inactivity. It is argued that there is especially a total lack of initial and further teacher trainings on CE. CE threatens to become an area of contents and didactics chosen by chance. A systematic analysis and evaluation of its interdisciplinary focus is still at the very beginning.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_350</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_350">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/350/347" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_350" DMDID="DMD_biejournals_350">
+            <mets:fptr FILEID="FILE0_biejournals_350"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

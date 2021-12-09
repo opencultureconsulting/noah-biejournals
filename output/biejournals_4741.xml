@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4741">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Identity, Significance, Sensation or Justice? Different Motives which Attract to Radical Ideas</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reiter, Julia</displayForm>
+                        <namePart type="family">Reiter</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Doosje, Bertjan</displayForm>
+                        <namePart type="family">Doosje</namePart>
+                        <namePart type="given">Bertjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">People can be attracted to radical ideas for different reasons. In the present study, we propose four types of people attracted to such ideas due to different motives: the identity seeker, the significance seeker, the sensation seeker, and the justice seeker. To investigate this model, we conducted five narrative interviews with individuals who had disengaged during the early stages of radicalization (Study 1) and seven semi-structured expert interviews with staff of German deradicalization programmes (Study 2). Data were analyzed using a coding reliability approach to thematic analyses. The proposed typology was not supported in full, but the individual motivations making up the types were all reflected in the data, the most important being the need to belong, personal uncertainty, and need for status. This study’s key finding is that rather than generalizing types of radicalization or types of ideology, it is productive to analyze individuals on the basis of their personal combination of psychological needs and the saliency thereof. We relate this to past research and discuss practical implications.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4741</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4741">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/4741/4526" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4741" DMDID="DMD_biejournals_4741">
+            <mets:fptr FILEID="FILE0_biejournals_4741"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

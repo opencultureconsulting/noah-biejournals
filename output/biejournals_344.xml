@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_344">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Platform for a Shared Discourse of Interdisciplinary Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klein, Julie Thompson</displayForm>
+                        <namePart type="family">Klein</namePart>
+                        <namePart type="given">Julie Thompson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">“Disciplinarity” and “interdisciplinarity” have become keywords for knowledge and education in the twenty-first century. This development requires that administrators, curriculum planners, and teachers at all levels of the educational system have a common understanding of both terms and their relationship. The primary case study is the school level in the United States. Yet, comparisons with other nations suggest a platform for longer-term international dialogue that bridges the discourses of interdisciplinarity across national contexts as well as school and university levels. A shared discourse and programs of teacher training require awareness of historical contexts of interdisciplinary education, major terminology for distinguishing design models, characteristic pedagogical approaches, and related learning skills.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_344</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_344">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/344/341" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_344" DMDID="DMD_biejournals_344">
+            <mets:fptr FILEID="FILE0_biejournals_344"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

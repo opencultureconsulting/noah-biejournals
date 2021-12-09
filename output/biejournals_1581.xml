@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1581">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Dänemark</title>
+                        <subTitle>Social Studies in Denmark - A country report</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Denmark</title>
+                        <subTitle>Social Studies in Denmark - A country report</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hansen, Mogens</displayForm>
+                        <namePart type="family">Hansen</namePart>
+                        <namePart type="given">Mogens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The purpose of the article is to give a survey of the status of Social Studies in the Danish educational system. To deepen the survey the article also will contain some reflections of the contents and didactics of the subject.
+Design and approach: The analysis of the contents and didactics will focus on the description of the curriculum and the examination system. The approach will primarily consist of reflections on basis of text analysis of curriculum, examples of oral and written exam and basic concepts of citizenship. 
+Findings: The main finding in the study is that it is important to understand the teaching in Social Studies both with regards to contents and didactics as an important part of developing the sense of citizenship.
+Research limitations: The main focus will be on written material and the official curriculum. It would be of great value to do more qualitative research among students and teachers about the practice of teaching in relation to the official objectives of the subject.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1581</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1581">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1581/3545" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1581" DMDID="DMD_biejournals_1581">
+            <mets:fptr FILEID="FILE0_biejournals_1581"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

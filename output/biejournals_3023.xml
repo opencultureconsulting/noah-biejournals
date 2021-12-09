@@ -1,0 +1,118 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3023">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>College Students’ Perceptions of Intimate Partner Violence</title>
+                        <subTitle>A Comparative Study of Japan, China, and the United States</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nguyen, Toan Thanh</displayForm>
+                        <namePart type="family">Nguyen</namePart>
+                        <namePart type="given">Toan Thanh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Morinaga, Yasuko</displayForm>
+                        <namePart type="family">Morinaga</namePart>
+                        <namePart type="given">Yasuko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Frieze, Irene Hanson</displayForm>
+                        <namePart type="family">Frieze</namePart>
+                        <namePart type="given">Irene Hanson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cheng, Jessica</displayForm>
+                        <namePart type="family">Cheng</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Li, Manyu</displayForm>
+                        <namePart type="family">Li</namePart>
+                        <namePart type="given">Manyu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Doi, Akiko</displayForm>
+                        <namePart type="family">Doi</namePart>
+                        <namePart type="given">Akiko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hirai, Tatsuya</displayForm>
+                        <namePart type="family">Hirai</namePart>
+                        <namePart type="given">Tatsuya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Joo, Eunsun</displayForm>
+                        <namePart type="family">Joo</namePart>
+                        <namePart type="given">Eunsun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Li, Cha</displayForm>
+                        <namePart type="family">Li</namePart>
+                        <namePart type="given">Cha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-11-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An investigation of cross-cultural differences between the United States, Japan, and China in perceptions of male to female intimate partner violence, and in the extent to which gender and traditional attitudes toward women related to these perceptions. College students (n = 943) read two fictitious scenarios describing marital and dating violence. MANOVA results showed gender differences in the perceptions of violence between the three countries. Male participants had more traditional attitudes toward women and placed more blame on female victims. The magnitude of the difference between women’s and men’s scores was much smaller for Japanese students than for American and Chinese students. Hierarchical multiple regression analyses demonstrated that the effects of respondent gender were reduced when traditional attitudes toward women were taken into account. Differences in beliefs about appropriate gender roles still exist among college students in these countries and may be related to socially tolerant attitudes toward violence against women.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3023</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3023">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3023/pdf_89" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3023">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3023/2993" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3023" DMDID="DMD_biejournals_3023">
+            <mets:fptr FILEID="FILE0_biejournals_3023"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3023" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3023"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

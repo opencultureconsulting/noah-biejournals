@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_374">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Human Rights Education - As a Tool for the Reform of the Police</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sganga, Cristina</displayForm>
+                        <namePart type="family">Sganga</namePart>
+                        <namePart type="given">Cristina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article identifies the basic challenges faced by human rights activists when engaging police reform. It pays particular attention to the role of human rights education in such processes; moreover it explores what police and policing are meant to be and look like in a society where pluralism, human rights and the rule of law prevail. Lastly, it outlines the type of training required by a modern-democratic model of police functions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_374</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_374">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/374/371" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_374" DMDID="DMD_biejournals_374">
+            <mets:fptr FILEID="FILE0_biejournals_374"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

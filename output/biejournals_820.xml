@@ -1,0 +1,118 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>In-Between Fatalism and Leverage</title>
+                        <subTitle>The Different Effects of Socioeconomic Variables on Students’ Civic and Political Experiences and Literacy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Malafaia, Carla</displayForm>
+                        <namePart type="family">Malafaia</namePart>
+                        <namePart type="given">Carla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neves, Tiago</displayForm>
+                        <namePart type="family">Neves</namePart>
+                        <namePart type="given">Tiago</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-03-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2016</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article explores the classical relationship between socioeconomic status and political domains, and the need to include different variables (contextual and individual) to measure the effect of economic and cultural capitals on youth participation and knowledge.Method: A multivariate analysis of covariance was performed on a sample of 732 Portuguese students, from Grades 8 and 11, in order to analyse how different socioeconomic variables related to family and schooling contexts have an effect on their political knowledge and experiences. Findings: The article highlights the differential role of socioeconomic variables on political knowledge and participatory patterns. Low economic capital instigates participation, while high cultural capital is related with higher political literacy. However, both forms of capital interact with the schooling context, revealing more complex patterns of behaviour and knowledge in students attending public and private schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_820</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/910" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/911" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE2_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/912" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE3_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/913" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE4_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/914" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE5_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/915" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE6_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/916" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE7_biejournals_820">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/820/917" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_820" DMDID="DMD_biejournals_820">
+            <mets:fptr FILEID="FILE0_biejournals_820"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_820"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_820"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_820"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_820"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_820"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE6_biejournals_820"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_biejournals_820" LABEL="">
+                <mets:fptr FILEID="FILE7_biejournals_820"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

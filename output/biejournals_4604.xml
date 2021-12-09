@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4604">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pharmaceutical policies in post-communist Albania</title>
+                        <subTitle>Progress and challenges toward European Union membership</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Roshi, Dajana</displayForm>
+                        <namePart type="family">Roshi</namePart>
+                        <namePart type="given">Dajana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tresa, Eni</displayForm>
+                        <namePart type="family">Tresa</namePart>
+                        <namePart type="given">Eni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lafranconi, Alessandra</displayForm>
+                        <namePart type="family">Lafranconi</namePart>
+                        <namePart type="given">Alessandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Helmut</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Shifting from a communist regime to a democratic system has affected health system fundamentally in most of the Western Balkan countries including Albania. Albania became a European Union (EU) candidate country in 2014. Since then, one of the main concerns has been to approximate the legislation with the EU framework. The aim of this paper is to review the evolvement of pharmaceutical legislation in Albania and challenges toward achieving full approximation to the EU’s respective legislation.
+&amp;nbsp;
+Methods: We used qualitative techniques, especially means of conventional content analysis and two sources to collection data. First, we consulted the Albania’s National Publications Office webpage and analysed all available legislation regarding “pharmacy”, “medicine” and “pharmaceutical products” from 1994 to 2021. Then, we analysed the National Integration Plans that have been published by the Government of Albania from 2014 to 2021.
+&amp;nbsp;
+Results: The decrease of the price margin system goes in parallel with the increase of the pharmaceutical expenditure, including out-of-pocket expenditure on medicines and lack of adequate and sensitive reimbursement policies. The main pillars of the pharmaceutical sector in Albania are well-covered legally but not fully in concordance with the EU framework.
+&amp;nbsp;
+Conclusion: There is a need to foster laws implementation that regulate the opening of pharmacies; a detailed regulation on pharmacovigilance; and a regulation on medicinal products for paediatric use. Also, the existing legal framework should be aligned with the European one. Medicine pricing methods should go in the same line with the decrease of out-of-pocket expenditure.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4604</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4604">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4604/4372" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4604" DMDID="DMD_biejournals_4604">
+            <mets:fptr FILEID="FILE0_biejournals_4604"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

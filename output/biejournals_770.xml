@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Congress Report</title>
+                        <subTitle>Civics and Citizenship Education in the Nordic Conference on Subject Didactics NoFa-5, May 26–28, 2015</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lofstrom, Jan</displayForm>
+                        <namePart type="family">Lofstrom</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">On May 26–28, 2015, the University of Helsinki acted as the host for the fifth Nordic Conference on Subject Didactics. For historical reasons the Nordic societies have in a global view remarkably intimate contacts with each other. Short distance, affinities of cultural and political traditions, and the density of social networks between them since centuries back in time have conduced to vibrant Nordic collaboration in the number of fields ranging from politics and economy to science and education. This is visible also in the governmental and non-governmental networks in educational sciences. A recent example of this collaboration are the Nordic conferences on subject didactics, the first of which took place in Oslo, in 2007. The conferences are held every second year, and the previous hosts have been Middelfart (Denmark, 2009), Karlstad (Sweden, 2011), and Trondheim (Norway, 2013).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_770</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_770">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/770/839" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_770" DMDID="DMD_biejournals_770">
+            <mets:fptr FILEID="FILE0_biejournals_770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

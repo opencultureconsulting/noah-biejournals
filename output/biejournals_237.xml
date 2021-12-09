@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_237">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Einstellungen der Studierenden als Herausforderung für das Lehren und Lernen mit digitalen Medien in der wissenschaftlichen Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hawlitschek, Anja</displayForm>
+                        <namePart type="family">Hawlitschek</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fredrich, Helge</displayForm>
+                        <namePart type="family">Fredrich</namePart>
+                        <namePart type="given">Helge</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Ob E-Learning-Angebote in der wissenschaftlichen Weiterbildung erfolgreich genutzt werden, hängt nicht zuletzt mit der Einstellung der Studierenden zusammen. Sehen die Studierenden den Mehrwert der Angebote oder überwiegen Befürchtungen? In diesem Beitrag werden Einstellungen der Studierenden der wissenschaftlichen Weiterbildung zur Nutzung von E-Learning-Angeboten in der Lehre untersucht. Anhand der Ergebnisse einer Befragung (N=319) kann einerseits eine positive Grundeinstellung eines Großteils der Studierenden gegenüber E-Learning-Angeboten aufgezeigt werden. Die Studierenden empfinden diese als Mehrwert im Hinblick auf die größere Flexibilität, die durch E-Learning ermöglicht werden kann, aber erhoffen sich auch größere Lernerfolge. Andererseits wird die Relevanz der Berücksichtigung unterschiedlicher Nutzergruppen bei der Einführung und Nutzung deutlich. Geschlechts- und altersspezifische Unterschiede existieren insbesondere bei der Selbsteinschätzung der IT-Kompetenz. Das ist ein relevanter Ansatzpunkt für die Praxis: Einführungs- und Betreuungsangebote, die speziell auf die Zielgruppe weiblicher älterer Studierender zugeschnitten sind, um auch diesen die nötige Sicherheit im Umgang mit E-Learning-Angeboten zu ermöglichen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_237</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_237">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/237/251" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_237" DMDID="DMD_biejournals_237">
+            <mets:fptr FILEID="FILE0_biejournals_237"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

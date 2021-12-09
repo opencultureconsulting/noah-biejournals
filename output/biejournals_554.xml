@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_554">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Current Status of Social Studies (sosyal bilgiler) Education in Turkey</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Açıkalın, Mehmet</displayForm>
+                        <namePart type="family">Açıkalın</namePart>
+                        <namePart type="given">Mehmet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article aims to portray and discuss the current status of social studies education in Turkey in terms of both K-8 and pre-service teacher education levels. The article starts with a brief history about the Turkish social studies education followed by the recent curriculum reform movements in Turkey. Then, the curriculum changes and the reform movements in pre-service social studies teacher education are discussed by analyzing the related literature. The discussion indicates the dominancy of standardized test in the Turkish educational system, teachers’ lack of knowledge and experience, and the limited resources to apply the new curriculum are the major issues for K-8 social studies education. In addition, the quality of social studies teacher education and teacher educators also is another issue that must be addressed. In conclusion, it is agreed by many scholars and educators the reform movements were rushed and the new reforms were applied without perfect planningBu makalenin amacı Türkiye’ de sosyal bilgiler eğitimin son durumunun ilköğretim seviyesi ve eğitim fakülteleri açısından bir değerlendirmesinin yapılmasıdır. Makalede Türkiye’ deki sosyal bilgiler eğitiminin kısa bir tarihçesinin verilmesinin ardından son zamanlarda yapılan program değişiklikleri tartışılmaktadır. Bu nedenle, ilgili alanyazın taranmış ve yeni ilköğretim sosyal bilgiler programında yapılan değişiklikler ile sosyal bilgiler öğretmenliği bölümlerinin yeniden yapılandırılması konuları tartışılmıştır. Bu tartışmalar göstermiştir ki Türk eğitim sisteminin merkezi sınav sistemlerine dayalı olması, öğretmenlerin yeni sosyal bilgiler programını uygulamaya yeterince hazır olmamaları, ders öğretim materyali ve kaynak yetersizliği yeni programın uygulanması ile ilgili ortaya çıkan sorunlardır. Ayrıca sosyal bilgiler öğretmenliği bölümlerinin değerlendirilmesi ve niteliklerinin arttırılması gerektiği de ortaya çıkmıştır. Son olarak söylemek gerekir ki bir çok eğitimci ve akademisyen yeni programın uygulanmasına yeterince planlama ve denemeler yapılmadan hızla geçildiği görüşünde birleşmektedir.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_554</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_554">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/554/551" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_554" DMDID="DMD_biejournals_554">
+            <mets:fptr FILEID="FILE0_biejournals_554"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

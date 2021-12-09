@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3462">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperation von Universitäten und Schulen als „neuer“ bildungspolitischer Trend? Editorial zur Gründungsschrift des Verbundes der Universitäts- und Versuchsschulen (VUVS)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beleuchtet die Hintergründe des aktuellen bildungspolitischen Trends in Deutschland, Versuchs- und Universitätsschulen zu gründen. Zudem gibt er einen Überblick über die sieben Beiträge des WE_OS-Jahrbuchs, in denen die pädagogischen Grundideen, die organisatorischen Ausgestaltungen, die Kooperationsmodalitäten und das Forschungsverständnis von Universitäts- und Versuchsschulen vorgestellt werden, die zwei Artikel zur Konzeptionen von in Entstehung befindlichen Universitätsschulen, die drei Beiträge, die die bestehenden Kooperationen zwischen einer Universität und Schulen beschreiben, sowie schließlich einem Text zu einem Netzwerk von Universitäten und Schulen aus vier europäischen Ländern. Der Beitrag beschreibt die bislang noch sehr kurze Gründungsgeschichte des Netzwerks und gibt einen Ausblick auf bereits erfolgte und mögliche weitere Aktivitäten des Verbundes der Universitäts- und Versuchsschulen (VUVS).
+This contribution irradiates the backgrounds of the current education-political trend in Germany to found experimental and university schools. Furthermore, it gives an overview of the seven articles in this WE_OS-Jahrbuch, which depict the basic pedagogical ideas, the organization, the cooperation-modes, and the research concepts of university and experimental schools, the two articles about conceptions of developing university schools, the three articles, which describe existing cooperations between a university and schools, and finally the article about a network of universities and schools from four European countries. The article describes the to date still very short founding history of the network and provides an outlook both on actual and possible further activities of the “Verbund Universitäts- und Übungesschulen” (VUVS).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3462</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3462">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3462/3588" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3462" DMDID="DMD_biejournals_3462">
+            <mets:fptr FILEID="FILE0_biejournals_3462"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

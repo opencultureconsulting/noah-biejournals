@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3058">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Longitudinal Examination of the Effects of Social Support on Homicide Across European Regions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thames, Kelly M.</displayForm>
+                        <namePart type="family">Thames</namePart>
+                        <namePart type="given">Kelly M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>McCall, Patricia L.</displayForm>
+                        <namePart type="family">McCall</namePart>
+                        <namePart type="given">Patricia L.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Since its introduction, social support theory has received generally consistent empirical support. Tests of social support theory have, however, mostly been cross-sectional and restricted to U.S. and Western European analyses. Measures of social support have tended to be inconsistent across studies and narrowly operationalized. The present project offers a longitudinal test of Cullen’s (1994) social support theory using a more broadly defined measure of social support that is comparable across both Eastern and Western European countries. Using data gathered by Eurostat, this study applies “hybrid” regression panel analysis to test the effects of social support on homicide rates across European regions for 2000, 2005 and 2009. Results provide evidence for an effect of social support on homicide between Western and Eastern European regions and within those regions over time. The analyses also indicate that social support moderates the effect of economic deprivation on homicide across Western European regions, though not Eastern European regions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3058</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3058">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3058/pdf_119" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3058">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3058/_8" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3058">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3058/_9" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3058" DMDID="DMD_biejournals_3058">
+            <mets:fptr FILEID="FILE0_biejournals_3058"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3058" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3058"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3058" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3058"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

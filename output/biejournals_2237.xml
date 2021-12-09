@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2237">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>In der ideologischen Falle - Supervision und das &quot;unternehmerische Selbst&quot;</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Steinkamp, Hermann</displayForm>
+                        <namePart type="family">Steinkamp</namePart>
+                        <namePart type="given">Hermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ist Supervision ein Instrument oder eine Kritik der Gouvernementalität? Diese Frage und die Erläuterung der Theorie der Regierung stehen im Mittelpunkt der folgenden Reflexionen. Dabei werden der Begriff der Gouvernementalität und das Anliegen Foucaults systematisch auf die Supervision und Beratung angewendet. Die kritischen Überlegungen zum &quot;unternehmerischen Selbst der Kirche&quot; geben Supervisorinnen und Supervisoren wichtige Hinweise zum Verstehen von Prozessen und institutionellen Dynamiken.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2237</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2237">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2237/2151" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2237">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2237/2152" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2237" DMDID="DMD_biejournals_2237">
+            <mets:fptr FILEID="FILE0_biejournals_2237"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2237" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2237"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

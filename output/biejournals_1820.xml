@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multidrug-resistant tuberculosis in Moldova and the Former Yugoslav Republic of Macedonia</title>
+                        <subTitle>The importance of health system governance</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thomas-Reilly, R. Gregory</displayForm>
+                        <namePart type="family">Thomas-Reilly</namePart>
+                        <namePart type="given">R. Gregory</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tozija, Fimka</displayForm>
+                        <namePart type="family">Tozija</namePart>
+                        <namePart type="given">Fimka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Soltan, Viorel</displayForm>
+                        <namePart type="family">Soltan</namePart>
+                        <namePart type="given">Viorel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nikovska, Dance G</displayForm>
+                        <namePart type="family">Nikovska</namePart>
+                        <namePart type="given">Dance G</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Crudu, Valeriu</displayForm>
+                        <namePart type="family">Crudu</namePart>
+                        <namePart type="given">Valeriu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Atun, Rifat</displayForm>
+                        <namePart type="family">Atun</namePart>
+                        <namePart type="given">Rifat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>McKee, Martin</displayForm>
+                        <namePart type="family">McKee</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Multidrug-resistant tuberculosis (MDR-TB) arises where treatment is interrupted or inadequate, when patients are treated inappropriately, or when an individual has impaired immune function, which can lead to a rapid progression from infection with an MDR-strain to disease. This study examines the role of health systems in amplifying or preventing the development of MDR-TB.Methods: We present two comparative studies, which were undertaken in The Former Yugoslav Republic of Macedonia (TFYR Macedonia) and Moldova.Results: The findings reveal several health systems-level factors that contribute to the different rates of MDR-TB observed in these two countries, including: pre-existing burden of disease; organization of the health system, with the existence of parallel systems; power dynamics among policy makers and disease programmes; and the accountability &amp;amp; effectiveness of programme oversight.Conclusions: The findings do not offer a universal template for health system reform but do identify specific factors that may be contributing to the epidemic and are worthy of further attention in the two countries.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1820</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1820">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1820/1741" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1820" DMDID="DMD_biejournals_1820">
+            <mets:fptr FILEID="FILE0_biejournals_1820"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

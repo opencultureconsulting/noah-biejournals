@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2541">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Homeschooling als Herausforderung an die Schultheorie</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Home schooling as a challenge to school theory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zenke, Christian Timo</displayForm>
+                        <namePart type="family">Zenke</namePart>
+                        <namePart type="given">Christian Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschreibt Konzept und Durchführung eines Seminars zum Thema „Homeschooling als Herausforderung an die Schultheorie“. Ziel des Seminars ist es, neben einer Einführung in klassische Theorien der Schule zugleich eine grundsätzliche Reflexion über Sinn und Legitimation der öffentlichen (Pflicht-)Schule anzustoßen und die beteiligten Studierenden so bei der Herausbildung eines professionellen Selbstverständnisses als zukünftige Lehrer*innen zu unterstützen. Als konkreter Ausgangspunkt dieser Auseinandersetzung dient dabei das Phänomen des Homeschooling – und damit die Beschäftigung mit Positionen, die die grundsätzliche Sinnhaftigkeit von Schule und Schulpflicht radikal in Frage stellen. Der sich aus dieser Zweiteilung ergebende Seminarablauf (Phase 1: Geschichte, Theorie und Praxis des Homeschooling; Phase 2: Schultheoretische „Antworten“ auf die damit verbundene Infragestellung des Prinzips Schule) wird im Beitrag kurz dargestellt, um im Anschluss daran das abschließende, beide Seminarteile wieder zusammenführende didaktische Element (Phase 3) ausführlicher vorzustellen: die Bearbeitung einer kooperativen Schreibaufgabe zum Thema „Homeschooling und Schulpflicht“ in Form eines fiktionalen Briefwechsels.</abstract>
+                    <abstract lang="eng">The article describes the concept and implementation of a seminar on “Home schooling as a challenge to school theory”. The aim of the seminar is – in addition to an introduction to classical school theories – to initiate a fundamental reflection on the meaning and legitimacy of the public (compulsory) school and to support the participating students in developing a professional self-conception as future teachers. Confrontation with the phenomenon of home schooling is intended to produce a measure of “disorientation”. In this manner, the participants of the seminar are compelled to deal with viewpoints that challenge the meaningfulness of school and compulsory schooling on a fundamental level. The agenda for the main section of this seminar follows in a straightforward manner from this approach (Phase 1: history, theory and practice of home schooling; Phase 2: “answers” to the resulting challenge to the principle of schooling). The article describes this agenda in some detail and then outlines the concluding section of the seminar (Phase 3), which is meant to bring the participants’ thinking full-circle: a cooperative writing task on the subject of “home schooling and compulsory schooling” in the form of a fictional exchange of letters.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2541</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2541">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2541/3589" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2541">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2541/3590" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2541" DMDID="DMD_biejournals_2541">
+            <mets:fptr FILEID="FILE0_biejournals_2541"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2541" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2541"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

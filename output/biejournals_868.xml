@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_868">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Different Expectations in Civic Education</title>
+                        <subTitle>A Comparison of Upper-Secondary School Textbooks in Sweden</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arensmeier, Cecilia</displayForm>
+                        <namePart type="family">Arensmeier</namePart>
+                        <namePart type="given">Cecilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The aim of the article is to examine civic education in Sweden with regard to equality, by comparing curricula and textbooks for social studies in different tracks in upper-secondary school.Method: The study is based on qualitative text analysis, with quantitative features. The analysis maps themes cover-ed, the extent and depth of thematic coverage, and amount of emphasis on conceptual understanding and analytical training.Findings: The results point to some similarities between the tracks; limited attention is given to democratic values and civic engagement, apart from voting. Clear differences are found in amount of information and complexity. The most basic textbooks target the vocational track, while (some of) the textbooks for the academic track have an elaborated focus on complex conceptual understanding and analytical training.Practical implications: The findings indicate different expectations in civic education. Vocational students receive more limited opportunities to develop civic abilities, which might negatively affect the exercise of citizenship and increase political inequality. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_868</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_868">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/868/991" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_868">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/868/992" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_868" DMDID="DMD_biejournals_868">
+            <mets:fptr FILEID="FILE0_biejournals_868"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_868" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_868"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

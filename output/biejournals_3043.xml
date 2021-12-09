@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3043">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“The Country that Doesn’t Want to Heal Itself”</title>
+                        <subTitle>The  Burden of History, Affect and Women’s Memories in Post-Dictatorial Argentina</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stockwell, Jill</displayForm>
+                        <namePart type="family">Stockwell</namePart>
+                        <namePart type="given">Jill</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">I draw on first-hand oral testimonies taken from two groups of Argentine women who represent two antithetical versions of the recent Argentinine past: those affected by military repression and those affected by armed guerrilla violence. I contend that we need to look beyond political and ideological contestations and engage in a deeper analysis of how memorial cultures are formed and sustained. I argue that we cannot account for the politics of memory in modern-day Argentina without acknowledging and exploring the role played by individual emotions and affects in generating and shaping collective emotions and affects. In direct contrast to the nominally objective and universalist sensibility that traditionally has driven transitional justice endeavours, I look at how affective memories of trauma are a potentially disruptive power within the reconciliation paradigm, and thus need to be taken into account.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3043</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3043">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3043/pdf_98" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3043">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3043/3033" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3043" DMDID="DMD_biejournals_3043">
+            <mets:fptr FILEID="FILE0_biejournals_3043"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3043" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3043"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

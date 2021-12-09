@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_265">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>L&apos;éducation civique dans l&apos;école française (Citizenship Education in French School)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Audigier, François</displayForm>
+                        <namePart type="family">Audigier</namePart>
+                        <namePart type="given">François</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2000</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Since ten or fifteen years ago, civic education is coming back to the foreground of the news. It is now an obligatory school subject in primary and lower secondary school, the college, namely nine years of a schooling which it is as a rule the same for all pupils. The author introduces programmes from primary school and from the college. However, between official programmes and what is effectively taught, differences are often very large. What some primary school&apos;s teachers say about what they teach and about college&apos;s pupils provides another point of view on civic education. A short evocation of the history of civic education in French school puts in prospect actual choices and specific problems of this school subject, in particularly its difficult stabilisation. The article closes with the presentation of some tensions and contradictions which are necessary to take into account to think and to implement civic education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_265</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_265">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/265/262" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_265" DMDID="DMD_biejournals_265">
+            <mets:fptr FILEID="FILE0_biejournals_265"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

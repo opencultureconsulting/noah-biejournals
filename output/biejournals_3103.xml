@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3103">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Can Societies Experience Post-Traumatic Growth after a Terror Attack? The Influence of Terror Attacks on Political, Institutional, and Social Trust in European Countries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Doosje, Bertjan</displayForm>
+                        <namePart type="family">Doosje</namePart>
+                        <namePart type="given">Bertjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van der Veen, Jaap</displayForm>
+                        <namePart type="family">van der Veen</namePart>
+                        <namePart type="given">Jaap</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klaver, Loes</displayForm>
+                        <namePart type="family">Klaver</namePart>
+                        <namePart type="given">Loes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Research shows that people are less likely to have mental health problems after a disaster, if they feel that they have learned from it and grown as a person. This phenomenon that a traumatic experience can have positive consequences is called “posttraumatic growth.” In the current study, we investigate whether inhabitants of countries can also experience post-traumatic growth after a large-scale traumatic experience, namely a terror attack. We examined data from the European Social Survey with 75,805 participants for thirteen European countries at one moment before a terror attack and two after it. If inhabitants of these countries experienced post-traumatic growth in terms of government, then we would expect their political and institutional trust to increase after a terror attack. In terms of post-traumatic growth of community, we expected social trust to increase. Our results suggest that, overall, post-traumatic growth does not occur. Specifically, political trust does not change significantly after a terror attack; institutional trust decreases directly after, only to increase again later. In terms of community, social trust remains largely unaffected after a terror attack. Interestingly, this overall pattern does not occur in all individual countries: in-depth analyses indicate a pattern in line with post-traumatic growth for specific countries. We discuss potential expla - nations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3103</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3103">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3103/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3103" DMDID="DMD_biejournals_3103">
+            <mets:fptr FILEID="FILE0_biejournals_3103"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

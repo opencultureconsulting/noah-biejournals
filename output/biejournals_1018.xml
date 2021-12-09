@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1018">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Police emotion work in interpersonal homicides and attempted murders (1950s-1970s)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Severin-Barboutie, Bettina</displayForm>
+                        <namePart type="family">Severin-Barboutie</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article focuses on the intersection of law and emotion in both interpersonal homicides and attempted murders in postwar Germany. It analyses the emotion work of Stuttgart’s criminal police department in homicide cases from the 1950s to the 1970s. This emotion work will in turn be explored using a performative studies concept: The police hearings will be addressed as Aufführungen as conceived by Erika Fischer-Lichte—that is as performances that rely on a specific text and are characterized by the physical co-presence and shifting roles of actors and spectators in a specific place and for a certain amount of time. The analysis draws on files in which male residents from Italy were charged with homicide or attempted murder.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1018</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1018">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1018/1126" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1018" DMDID="DMD_biejournals_1018">
+            <mets:fptr FILEID="FILE0_biejournals_1018"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2455">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Norm und Normalität</title>
+                        <subTitle>Reflexion der eigenen Positionen innerhalb des Machtfeldes Schule und Schaffung nicht-normativer Räume in der Lehre</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Norm and normality</title>
+                        <subTitle>Reflection on One’s Own Positions of Student Teachers within Dynamics of Social Power in School and Creating Non-Normative Spaces in Teaching</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröter, Anne</displayForm>
+                        <namePart type="family">Schröter</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zimenkova, Tatjana</displayForm>
+                        <namePart type="family">Zimenkova</namePart>
+                        <namePart type="given">Tatjana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Lehrperson befindet sich in einer machtvollen Situation im Lernsetting; sie produziert durch ihr Handeln und ihre Einstellungen Kontexte der Normalität in Bezug auf die Heterogenität der Lernenden. Damit sind primär nicht die bewussten Exklusionsprozesse gemeint, sondern Prozesse des Otherings oder der Normherstellung, die unreflektiert verlaufen. Z.B. mag die Annahme bestimmter äußerlicher Spezifika, wie Hautfarbe, Nicht-Behinderung, kulturelles Wissens sowie Genderbinaritäten, als normal unreflektiert stattfinden und zu Exklusionserfahrungen der Lernenden führen. Diese Otheringprozesse un-terstellen Normalitäten und sind damit Konstruktionen eines hegemonialen Machtdiskurses. Obwohl auf unterschiedliche Differenzlinien ausgerichtet, sind die Mechanismen der Exklusion und Normalitätsherstellung ähnlich. Diese werden im Seminar mithilfe der Theorien aus Antirassismus, Disability Studies, Feminismus, Post-Kolonialismus sowie Gender- und Queer Studies reflektiert, um der Exklusion vorzubeugen und somit inklusive Schule zu ermöglichen. Das Ziel des Seminars, das hier beschrieben wird, ist es, Studierende im Lehramtsstudium für die Machtprozesse und Konstruktionen der Norm (auch durch die Lehrperson) zu sensibilisieren und sie zur Reflexion über die Formen der Normierung zu qualifizieren. Der Beitrag zeigt mithilfe unterschiedlicher Methoden und hoch-schuldidaktischer Ansätze (Powerflower, Simulationsspiele, Empörungsposter, Expert_inneneinladungen), wie Reflexion über Normen und eigene Rollen im Norm-/Machtgefüge entsteht. Der Beitrag beschreibt die Konzeption und die Praxisherausforderungen des Sprechens über Privilegienbewusstsein in der Lehramtsausbildung.</abstract>
+                    <abstract lang="eng">Teachers find themselves in a powerful situation in the learning setting; through their actions and attitudes they produce contexts of normality in relation to the heterogeneity of the learners. This does not primarily refer to conscious exclusion processes, but to less or non-reflected processes of othering or norm production. For example, the assumption of certain external specifics as normal, such as skin color, ability, cultural knowledge, and gender binarities, may take place without reflection and lead to the learners’ experiences of exclu-sion. These othering processes assume normalities and thus represent constructions of a hegemonic power discourse. Although oriented towards different forms of heterogeneity lines of difference, the mechanisms of exclusion and the production of normality are similar. These are reflected in the university teacher trainings seminar with the help of the theories from anti-racism, disability studies, feminism, post-colonialism, as well as gender and queer studies in order to prevent exclusion and thus make inclusive school possible. The aim of the seminar, described in the article, is to sensitize students in teacher training to the power processes and norm constructions (as performed within educational institutions and by the teachers) and to qualify them to reflect about those dynamics. The contribution shows how reflection on norms and one’s own roles in the norm/structure of power can be achieved by means of different methods and approaches of university didactics (power flower, simulation games, outrage posters, invitations to experts). The article describes the concept and practical challenges of talking about privilege awareness in teacher...</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2455</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2455">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2455/3208" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2455">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2455/3209" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2455" DMDID="DMD_biejournals_2455">
+            <mets:fptr FILEID="FILE0_biejournals_2455"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2455" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2455"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

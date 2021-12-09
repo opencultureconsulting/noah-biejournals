@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Efficacy of an IgM preparation in the treatment of patients with sepsis</title>
+                        <subTitle>a double-blind randomized clinical trial in a pediatric intensive care unit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kola, Ermira</displayForm>
+                        <namePart type="family">Kola</namePart>
+                        <namePart type="given">Ermira</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Çelaj, Ermela</displayForm>
+                        <namePart type="family">Çelaj</namePart>
+                        <namePart type="given">Ermela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bakalli, Iliriana</displayForm>
+                        <namePart type="family">Bakalli</namePart>
+                        <namePart type="given">Iliriana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lluka, Robert</displayForm>
+                        <namePart type="family">Lluka</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuli-Lito, Gjeorgjina</displayForm>
+                        <namePart type="family">Kuli-Lito</namePart>
+                        <namePart type="given">Gjeorgjina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sallabanda, Sashenka</displayForm>
+                        <namePart type="family">Sallabanda</namePart>
+                        <namePart type="given">Sashenka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Additional treatments for sepsis to be administered alongside the standard therapy recommended by the Surviving Sepsis Campaign have recently undergone evaluation. Due to its anti-bacterial, anti-inflammatory and immunomodulatory properties, intravenous polyvalent immunoglobulin M (IgM)–enriched immunoglobulins (IgM preparation) has been investigated as one of these potentially valid adjunctive therapies. The aim of this trial was to assess the efficacy of an IgM preparation as adjuvant therapy in the treatment of pediatric patients with sepsis.Methods: In our study, 78 septic patients admitted to a pediatric intensive care unit (PICU) at the University Hospital Center “Mother Teresa” in Tirana, Albania, were randomized into two groups (intervention and control). All patients were treated according to standard PICU sepsis guidelines. Additionally, patients in the intervention group received the IgM preparation Pentaglobin® while patients in the control group received standard sepsis therapy, but no immunoglobulin  administration.Results: The survival rate was higher in the intervention group (87%, N=34) than in the control group (64%, N=25), and this difference was statistically significant  (P=0.03). Length of stay (LOS) was also significantly shorter in the intervention group.Conclusion: In this study conducted in Albania, use of an IgM preparation, in addition to standard sepsis therapy, led to a significant increase in the survival rate as well as a significant reduction in LOS compared with placebo, when administered in PICU patients with sepsis.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1770</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1770">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1770/1691" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1770" DMDID="DMD_biejournals_1770">
+            <mets:fptr FILEID="FILE0_biejournals_1770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

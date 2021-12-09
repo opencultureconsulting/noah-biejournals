@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2761">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heitmeyer, Wilhelm</displayForm>
+                        <namePart type="family">Heitmeyer</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Massey, Douglas S.</displayForm>
+                        <namePart type="family">Massey</namePart>
+                        <namePart type="given">Douglas S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sidanius, James</displayForm>
+                        <namePart type="family">Sidanius</namePart>
+                        <namePart type="given">James</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wieviorka, Michel</displayForm>
+                        <namePart type="family">Wieviorka</namePart>
+                        <namePart type="given">Michel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">0</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This issue of the International Journal of Conflict and Violence focuses on the topic of anomie/anomia. We would like to thank the guest editors, Steven F. Messner (University of Albany, New York) and Helmut Thome (Martin Luther University, Halle-Wittenberg) for the very fruitful and productive collaboration, and the impressive collection of papers they have put together.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2761</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2761">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2761/2522" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2761" DMDID="DMD_biejournals_2761">
+            <mets:fptr FILEID="FILE0_biejournals_2761"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

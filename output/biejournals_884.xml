@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_884">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Influence of Economics Teachers’ Personality on Secondary School Students’ Classroom Perfor-mance in Public Secondary Schools in Nsukka Local Government Area of Enugu State</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Idika, Ezinne O.</displayForm>
+                        <namePart type="family">Idika</namePart>
+                        <namePart type="given">Ezinne O.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Onuoha, Joseph C.</displayForm>
+                        <namePart type="family">Onuoha</namePart>
+                        <namePart type="given">Joseph C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The study investigated the influence of Economics teachers’ personality on students’ classroom performance in Public Secondary Schools in Nsukka Local Government Area of Enugu State, Nigeria.Design: The study adopted Ex-post facto research design. The sample consisted of 19 teachers randomly selected out of thirty one and their SS2 Economics students numbering 326. An observational schedule titled Economics teachers’ personality test (ETP) was the instrument for data collection. The academic records (grades) of the Students were collected from the 19 teachers. One research questions was answered using mean and standard deviation and four null hypotheses tested at 0.05 level of significance using t- test and ANOVA.Findings: The findings revealed that teachers’ gender had no effect on the classroom performance of the students. However, teachers teaching experience, qualifications, interpersonal relationship with students, knowledge of subject matter, and attitude of the teacher had influence on students’ classroom performance. It was recommended that only teachers with relevant teaching qualifications in Economics should be employed to teach the course in Secondary schools. Also, teachers should be given proper incentives that will make them remain in their job so as to gain experience as they grow in the profession.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_884</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_884">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/884/1025" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_884">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/884/1026" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_884" DMDID="DMD_biejournals_884">
+            <mets:fptr FILEID="FILE0_biejournals_884"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_884" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_884"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

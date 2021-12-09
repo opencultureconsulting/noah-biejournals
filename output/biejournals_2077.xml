@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2077">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Streiflichter - (Gegenwarts-) Zustände in der Psychiatrie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kitzig, Friedhelm</displayForm>
+                        <namePart type="family">Kitzig</namePart>
+                        <namePart type="given">Friedhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der folgende Artikel zeichnet die Geschichte der Psychiatrie in Deutschland seit der Psychiatrie-Enquete in ihren konzeptionellen, institutionellen und ökonomischen Dimensionen nach. Er beschreibt die damit verbundenen Veränderungsanforderungen an die Organisationen und an die in ihnen tätigen Mitarbeitenden, schwerpunktmäßig bezogen auf den Bereich der stationären psychiatrischen Versorgung. Der Autor zeigt abschließend Perspektiven auf, wie der Konflikt zwischen gestiegenen Qualitätsanforderungen einerseits und Qualität verhinderndem Aufwand zum Qualitätsnachweis andererseits eine Wendung zu wirklich besseren Versorgungs- und Arbeitsbedingungen für die Klientel bzw. das Personal nehmen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2077</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2077">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2077/1944" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2077" DMDID="DMD_biejournals_2077">
+            <mets:fptr FILEID="FILE0_biejournals_2077"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

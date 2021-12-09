@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2079">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Menschen machen Medien - Leben und Arbeiten in den Medien - 10 Thesen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wachsmuth, Kristof</displayForm>
+                        <namePart type="family">Wachsmuth</namePart>
+                        <namePart type="given">Kristof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Paukens, Hans</displayForm>
+                        <namePart type="family">Paukens</namePart>
+                        <namePart type="given">Hans</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der folgende Artikel gibt Leserinnen und Lesern einen Einblick in ein für die Supervisionsszene recht unvertrautes Feld: In das der Medien. Die beiden Autoren entschlüsseln das breite Spektrum, das sich hinter diesem Begriff verbirgt, zeigen auf, welchem Wandel es unterliegt und welche Probleme sich daraus ergeben, auch an Beispielen. Sie praktizieren Beratung - ein weiterer Markt öffnet sich.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2079</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2079">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2079/1946" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2079" DMDID="DMD_biejournals_2079">
+            <mets:fptr FILEID="FILE0_biejournals_2079"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

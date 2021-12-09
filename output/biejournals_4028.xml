@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4028">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Framing democracy as response to neoliberalism in Dutch education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lozano Parra, Saro</displayForm>
+                        <namePart type="family">Lozano Parra</namePart>
+                        <namePart type="given">Saro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bakker, Cok</displayForm>
+                        <namePart type="family">Bakker</namePart>
+                        <namePart type="given">Cok</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Van Liere, Lucien</displayForm>
+                        <namePart type="family">Van Liere</namePart>
+                        <namePart type="given">Lucien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper aims to understand the debate about what constitutes good education in the Netherlands. The meaning of the concept of democracy in these public debates is divergent and rather diffuse. If teachers, citizens, advisory councils, and the Dutch government agree that democracy ought to be anchored in future education, we first and foremost need to understand its meaning within these current debates. 
+Approach: In this study we conducted a frame analysis of eleven key documents from three relevant domains. The diagnostic frame shows that on the whole the authors of these documents view ‘neoliberalism’ and a ‘culture of measurement’ as undermining forces in education. 
+Findings: The prognostic frame shows that all authors frame democracy as a prognosis, but with four different meanings: 1) democracy as organizational structure, 2) democracy as governmental policy, 2) democracy as knowledge and skill, and 4) democracy as a practice. We argue that these can be interpreted as four dimensions of a democratic solution, constructed as a response to neoliberal tendencies in Dutch education </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4028</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4028">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4028/4219" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4028" DMDID="DMD_biejournals_4028">
+            <mets:fptr FILEID="FILE0_biejournals_4028"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

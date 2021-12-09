@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_281">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Wirtschaftliche und politische Bildung in österreichischen Schulen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sitte, Christian</displayForm>
+                        <namePart type="family">Sitte</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-07-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2001</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Sozialwissenschaftliche Inhalte abseits der klassischen staatsbürgerlichen Erziehung, wurden in Österreich erstmals in der pädagogischen Reformära der 1920er Jahre diskutiert und in Schulversuchen erprobt. Mit dem Schulorganisationsgesetz (SCHOG) 1962, das das Österreichische Schulwesen nach dem 2. Weltkrieg neu ordnete, wurden in den allgemeinbildenden Schulen (Gymnasien und Hauptschulen) wirtschaftliche und politisch bildende Lehrinhalte und Ziele in die Unterrichtsgegenstände (Fächer) &quot;Geographie und Wirtschaftskunde&quot; bzw. &quot;Geschichte und Sozialkunde&quot; integriert. Diese zunächst eher formalen, additiven Verbindungen wurden 1978 durch das &quot;Unterrichtsprinzip Politische Bildung&quot; ergänzt. Die Lehrplanreformen Mitte/Ende der achtziger Jahre sowie 2002 versuchten eine stärkere Integration. In den berufsbildenden Schulen bestehen eigene Unterrichtsgegenstände für die genannten Bereiche.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_281</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_281">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/281/278" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_281" DMDID="DMD_biejournals_281">
+            <mets:fptr FILEID="FILE0_biejournals_281"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

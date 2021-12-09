@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1038">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Construction and politicization of waiqi white-collar identity - Traveling knowledge about Chinese professionals in multinational corporations in China</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yan, Junchen</displayForm>
+                        <namePart type="family">Yan</namePart>
+                        <namePart type="given">Junchen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This paper addresses the production of knowledge about highly qualified Chinese working in foreign enterprises in an entangled discourse field. The point of departure for this issue is a critical review of American political scientist Margaret Pearson’s (1997) Study “China&apos;s new business elite: The political consequences of economic reform”, exploring its epistemological and ontological assumptions of investigating the attitudes and behaviors of “China´s new business elite”. Furthermore, this paper will also discuss the political-institutional reception conditions under which the knowledge about highly qualified Chinese working in foreign enterprises beyond its US-American production context is transformed into the Chinese discourse on modernization and the middle class. The Chinese interest in this Western scientific knowledge stems less from the necessity of decolonization rather than the appropriation of Western knowledge in order to fit local government´s agenda. Knowledge production of highly qualified Chinese working in MNCs both ways go hand in hand with essentialization and functionalization of the research subject and, disable to recognize the social constructive nature of groups.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1038</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1038">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1038/1146" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1038" DMDID="DMD_biejournals_1038">
+            <mets:fptr FILEID="FILE0_biejournals_1038"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

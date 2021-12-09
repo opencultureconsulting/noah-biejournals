@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3050">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Youth Involvement in Politically Motivated Violence</title>
+                        <subTitle>Why Do Social Integration, Perceived Legitimacy, and Perceived Discrimination Matter?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>De Waele, Maarten S. O.</displayForm>
+                        <namePart type="family">De Waele</namePart>
+                        <namePart type="given">Maarten S. O.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pauwels, Lieven</displayForm>
+                        <namePart type="family">Pauwels</namePart>
+                        <namePart type="given">Lieven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Several major theories of crime causation have been applied to the study of violence towards persons and towards property (vandalism). Less frequently, these middle-range theoretical frameworks are applied to explain individual differences in political violence. Against a background of growing concern about right-wing political violence among adolescents, the present study examines the role of a number of independent variables derived from different theoretical frameworks in a sample of 2,879 Flemish adolescents. Using blockwise regression models, the independent effects of key independent variables from social control theory, procedural justice theory, general strain theory, social learning theory, and self-control theory are assessed. The results support an integrative approach towards the explanation of political violence. The implications of our findings for future studies on violent extremism are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3050</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3050">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3050/pdf_103" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3050">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3050/3047" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3050" DMDID="DMD_biejournals_3050">
+            <mets:fptr FILEID="FILE0_biejournals_3050"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3050" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3050"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

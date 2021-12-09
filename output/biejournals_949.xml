@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_949">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Moral Dispossession</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hann, Chris</displayForm>
+                        <namePart type="family">Hann</namePart>
+                        <namePart type="given">Chris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Extending recent studies of material and cultural dispossession after socialism, this paper outlines a concept of moral dispossession and develops it with analyses of three social generations, unrelated to each other, veering between the eighteenth and twenty-first centuries. The main empirical materials derive from analyses of decollectivization in the postsocialist countryside. Theoretical inspiration is drawn from Karl Polanyi, who belonged to the same late Habsburg generation as Karl Mannheim; although their careers and outlooks were very different, there were also commonalities. Polanyi’s notion of “market society” is shown to be overdrawn, both with regard to the abruptness of its emergence and the implied lack of moral foundations. In, fact Adam Smith was no less concerned than his contemporary Jean-Jacques Rousseau to transcend the paradigm of self-interest as ultimate motivation. Their differing stances are juxtaposed with the biographies of two individuals in a Hungarian village, contrasting representatives of the “market socialist” generation, whose analyses of the contemporary situation nonetheless have much in common. In the postsocialist rupture, Polanyi’s vision, exaggerated and misleading as an account of nineteenth-century Britain, corresponds closely to the local perceptions of the cohorts which experienced market socialism. This is a social phenomenon which cannot be grasped by approaches which focus on the individual or self. Moral dispossession leads some postsocialist citizens (back) to religion, but also to diffuse forms of anomie, re-enchantment, and virulent populist nationalism.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_949</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_949">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/949/1057" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_949" DMDID="DMD_biejournals_949">
+            <mets:fptr FILEID="FILE0_biejournals_949"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

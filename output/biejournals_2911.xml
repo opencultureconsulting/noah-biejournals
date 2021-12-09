@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2911">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Clinical Significance of Parent Training for Children with Conduct Problems</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Forster, Martin</displayForm>
+                        <namePart type="family">Forster</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kling, Åsa</displayForm>
+                        <namePart type="family">Kling</namePart>
+                        <namePart type="given">Åsa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sundell, Knut</displayForm>
+                        <namePart type="family">Sundell</namePart>
+                        <namePart type="given">Knut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">While there is a strong evidence base for behavioral parent training in the treatment of child conduct problems, the clinical impact is less well known. Metaanalyses report effect sizes in the medium range, but the common practice of reporting “small,” “medium,” and “large” effects can be misleading and difficult to understand for practitioners and clients. There is a need for more research addressing the clinical significance of behavioral parent training, which would help to bridge the gap between research and practice. In the first part of this report, a reanalysis in terms of clinical significance of two outcome studies published by the authors was conducted. In the second part, the results from the first part were compared to six outcome studies published by other authors. The median number needed to treat across studies was five, which means that for every five treated children, one shows reliable change and moves from the dysfunctional to the functional population.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2911</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2911">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2911/pdf_72" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2911">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2911/2765" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2911" DMDID="DMD_biejournals_2911">
+            <mets:fptr FILEID="FILE0_biejournals_2911"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2911" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2911"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

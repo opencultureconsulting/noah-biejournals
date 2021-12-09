@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_580">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>State-Orchestrated Civic Education versus Civic Competencies of School Students</title>
+                        <subTitle>Some Conceptual Implications from a National Case Study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dimitrov, Georgi</displayForm>
+                        <namePart type="family">Dimitrov</namePart>
+                        <namePart type="given">Georgi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Imagine a situation in which civic education has been enforced and practiced for nearly a decade and, as a result, the civic competences of the young people have dramatically decreased as compared with the previous national level. This situation is not a fictional one. It depicts the findings of a cross-national longitudinal survey. How come a generation which had not been exposed to the influence of civic education performed better in civic competences as compared with their followers a decade later? Who is to blame? The school teachers – for not having fulfilled their obligations? The school system – for failing to accomplish its socialization task? Or the particular civic education program – for being fake or ill-designed? Or may be we, the social scientists, have been unduly naïve about our expectations of civic education and its implementation in schools? The more important question is: to what extent does civic education fit in naturally with school life without clashing with it? Or put in another way, isn’t the classical tradition in the modern school essentially in contradiction with civic education? This problem takes the particular (Bulgarian) case beyond the boundaries of its national specificityand situates it at the level of a much more general question of the limits and preconditions of applicability of civic education, especially in regard to the expectation that it will form active citizens, capable of improving the democratic self-regulation of modern societies. The paper argues that the results of civic education should not be assessed in abstract form apart from the major factors concerning the socio-cultural, institutional and educational context. They are significantly dependent on the character of the national curriculum and the socialization programme specific for each country. Furthermore, schools, in their turn, are highly dependent on the role of civil society in the respective national societies, which feature vastly varying political cultures. The large portion of very low education achievements cannot be adduced to civic education per se, but to the wider alienation of young people from school life.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_580</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_580">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/580/577" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_580" DMDID="DMD_biejournals_580">
+            <mets:fptr FILEID="FILE0_biejournals_580"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

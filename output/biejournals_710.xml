@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_710">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Variations of Young Germans’ Informal Conceptions of Financial and Economic Crises Phenomena</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aprea, Carmela</displayForm>
+                        <namePart type="family">Aprea</namePart>
+                        <namePart type="given">Carmela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sappa, Viviana</displayForm>
+                        <namePart type="family">Sappa</namePart>
+                        <namePart type="given">Viviana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The development of a sound understanding of financial and economic crises phenomena must be considered an important goal within the scope of citizenship, economic and social science education. As with every other educational endeavour, this intention requires solid information about what informal conceptions learners hold about this specific aspect of reality. However, even though this necessity is widely acknowledged, respective theoretical and empirical research is rather scarce. The research to be presented here aims to contribute to filling this gap by exploring variations in young Germans’ common-sense conceptions of financial and economic crises phenomena. The research activities adhere to a comprehensive view of how economic issues should be involved in education. Moreover, a phenomenographic research approach is adopted. This approach was implemented in an interview study with 56 secondary school students in Baden-Württemberg (Germany). Besides this study, the paper also considers evidence from German survey data. In the interview study, four different conceptions (i.e., denial of the crisis, magical thinking, optimism, realism) could be reconstructed, which vary with respect to whether students’ awareness of specific facets of the crisis was given or not. In addition, from this study as well as from the survey data, an excessively optimistic attitude was stated in young Germans. This attitude, however, seems to be more a symptom of insecurity and overstrain than a manifestation of a profound comprehension. These results are discussed with regard to the design of formal curricula and instruction.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_710</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_710">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/710/766" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_710" DMDID="DMD_biejournals_710">
+            <mets:fptr FILEID="FILE0_biejournals_710"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

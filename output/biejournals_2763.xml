@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2763">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Institutions, Anomie, and Violent Crime</title>
+                        <subTitle>Clarifying and Elaborating Institutional-Anomie Theory</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thome, Helmut</displayForm>
+                        <namePart type="family">Thome</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rosenfeld, Richard</displayForm>
+                        <namePart type="family">Rosenfeld</namePart>
+                        <namePart type="given">Richard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A limited but accumulating body of research and theoretical commentary offers support for core claims of the &amp;ldquo;institutional-anomie theory&amp;rdquo; of crime (IAT) and points to areas needing further development. In this paper, which focuses on violent crime, we clarify the concept of social institutions, elaborate the cultural component of IAT, derive implications for individual behavior, summarize empirical applications, and propose directions for future research. Drawing on Talcott Parsons, we distinguish the &amp;ldquo;subjective&amp;rdquo; and &amp;ldquo;objective&amp;rdquo; dimensions of institutional dynamics and discuss their interrelationship. We elaborate on the theory&amp;rsquo;s cultural component with reference to Durkheim&amp;rsquo;s distinction between &amp;ldquo;moral&amp;rdquo; and &amp;ldquo;egoistic&amp;rdquo; individualism and propose that a version of the egoistic type characterizes societies in which the economy dominates the institutional structure, anomie is rampant, and levels of violent crime are high. We also offer a heuristic model of IAT that integrates macro- and individual levels of analysis. Finally, we discuss briefly issues for the further theoretical elaboration of this macro-social perspective on violent crime. Specifically, we call attention to the important tasks of explaining the emergence of economic dominance in the institutional balance of power and of formulating an institutional account for distinctive punishment practices, such as the advent of mass incarceration in the United States.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2763</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2763">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2763/3641" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2763" DMDID="DMD_biejournals_2763">
+            <mets:fptr FILEID="FILE0_biejournals_2763"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

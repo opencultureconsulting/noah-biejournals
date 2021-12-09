@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_842">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Class Council between Democracy Learning and Character Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Budde, Jürgen</displayForm>
+                        <namePart type="family">Budde</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weuster, Nora</displayForm>
+                        <namePart type="family">Weuster</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: Class council has become a popular approach for character education and democracy learning in German schools. However, it is not clear if the expectations are met in social practice.Approach: The data was gained with an ethnographical multiple method approach within three contrasting secondary schools. The study is informed by practice theory, theory of school and theory of social pedagogics.Findings: Logics of the school and logics of social pedagogy clash in class council. Opportunities for a democratic and social pedagogically framed school are inevitably limited. Class council focusses more on personal development and character education and much less on political or democratic education. Certain forms of class council subtly aim at student’s approval of undemocratic practices; therefore, class council sometimes camouflages a de-politicization of the school.Research Implications: A comparison of democracy learning and character education in different pedagogical institutions is recommended for further research. The methodology of reconstructing logics of school and logics of social pedagogy from a practice theoretical and ethnographical perspective should be elaborated.Practical implications: Teachers need reflective competencies in order to recognize the limitations of participation in practice. While aiming at the ideal of the mature, civically engaged and socially competent citizen, the limitations of participation and the responsibilities of societal institutions like schools should be made subject of learning, as well. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_842</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_842">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/842/954" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_842" DMDID="DMD_biejournals_842">
+            <mets:fptr FILEID="FILE0_biejournals_842"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

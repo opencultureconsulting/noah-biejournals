@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3306">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ionenwanderungen in Kochsalzlösungen</title>
+                        <subTitle>Ein Schülerexperiment zur Bestimmung des elektrischen Leitwerts von Kochsalzlösungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Allmers, Tobias</displayForm>
+                        <namePart type="family">Allmers</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Beyer-Sehlmeyer, Gabriele</displayForm>
+                        <namePart type="family">Beyer-Sehlmeyer</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schumacher, Fabian</displayForm>
+                        <namePart type="family">Schumacher</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Beitrag wird ein Schülerexperiment zur Bestimmung des Leitwerts von Kochsalzlösungen beschrieben. Die Abhängigkeit des Leitwerts von der Konzentration und der Temperatur wird untersucht und mithilfe von Modellannahmen gedeutet. Während der Auswertung wird in das Auffinden von Ausgleichsgeraden durch Regressionsrechnung eingeführt. Die Stärke des linearen Zusammenhangs wird über eine Korrelationsrechnung kontrolliert. In einer Anwendung werden ferner Konzentrationen von Kochsalzlösungen über die Messung des Leitwerts unter Rückgriff auf eine Kalibrierkurve bestimmt und die Qualität der Methode zur Konzentrationsbestimmung reflektiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3306</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3306">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3306/3461" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3306">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3306/3462" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3306" DMDID="DMD_biejournals_3306">
+            <mets:fptr FILEID="FILE0_biejournals_3306"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3306" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3306"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

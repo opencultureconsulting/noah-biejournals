@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_692">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Liberal Liability. Understanding Students’ Conceptions of Gender Structures</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Murstedt, Linda</displayForm>
+                        <namePart type="family">Murstedt</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jansson, Maria</displayForm>
+                        <namePart type="family">Jansson</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wendt, Maria</displayForm>
+                        <namePart type="family">Wendt</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Åse, Cecilia</displayForm>
+                        <namePart type="family">Åse</namePart>
+                        <namePart type="given">Cecilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Research has shown that teaching gender theories tends to be an educational challenge and elicits student resistance. However, little is known about students’ learning processes in social science. This study aims to explore these learning processes by drawing on feminist pedagogy and conceptual change theory. The results show that when students are asked to perform analysis from a structural gender perspective, they recurrently introduce other explanatory frameworks based on non-structural understandings. The students’ learning processes involve reformulating questions and making interpretations based on liberal understandings of power, freedom of choice and equality. We argue that this process is due to the hegemonic position of the liberal paradigm as well as to the dominant ideas about science. Clarifying the underlying presumptions of a liberal perspective and a structural perspective may help students to recognise applied premises and enable them to distinguish relevant explanations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_692</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_692">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/692/743" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_692" DMDID="DMD_biejournals_692">
+            <mets:fptr FILEID="FILE0_biejournals_692"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

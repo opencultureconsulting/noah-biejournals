@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_810">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“Transformative looks”</title>
+                        <subTitle>Practicing Citizenship Through Photography</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pereira, Sónia</displayForm>
+                        <namePart type="family">Pereira</namePart>
+                        <namePart type="given">Sónia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maiztegui-Oñate, Concha</displayForm>
+                        <namePart type="family">Maiztegui-Oñate</namePart>
+                        <namePart type="given">Concha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mata-Codesal, Diana</displayForm>
+                        <namePart type="family">Mata-Codesal</namePart>
+                        <namePart type="given">Diana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The article discusses the meanings of citizenship and citizenship education when formal citizenship is restricted by exploring the potential of photography education and practice as a tool that promotes the exercise of citizenship in the context of non-formal critical adult education. By doing it, this text aims to enhance our understanding on the ways art education can improve the achievement of the goals of citizenship education.Method: This article analyses the experience of the collective and collaborative project: “Con la cámara a cuestas: Transformative Looks”, in Bilbao, Spain, with a group of fifteen to twenty migrant women from eight Latin American countries.Findings: Citizenship as a life-long learning process involving individual as well as collective action leading to the promotion of new shared values for more inclusive communities benefits greatly from the use of artistic expressions such as photography. Because of migrant women’s marginalized position as non-formal-citizens, citizenship as participation effectively becomes a fundamental route of influence in the public sphere. Conceptualizing citizenship as struggle and as a critical learning process opens up possibilities for generating new shared ‘habitus’, where ‘recognition’ can be achieved leading to more inclusive societies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_810</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_810">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/810/893" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_810">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/810/894" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_810" DMDID="DMD_biejournals_810">
+            <mets:fptr FILEID="FILE0_biejournals_810"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_810" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_810"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

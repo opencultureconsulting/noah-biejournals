@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Betriebliche Unterstützung von beruflich qualifizierten Beschäftigten bei berufsbegleitenden Bachelorprogrammen. Ergebnisse einer qualitativen Untersuchung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolf, Sandra</displayForm>
+                        <namePart type="family">Wolf</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dellit, Andrea</displayForm>
+                        <namePart type="family">Dellit</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Danz, Eleonore</displayForm>
+                        <namePart type="family">Danz</namePart>
+                        <namePart type="given">Eleonore</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Hochschulen bieten vermehrt berufsbegleitende Bachelorangebote für beruflich Qualifizierte an. Da diese Zielgruppe in  der  Regel  berufstätig  ist,  kann  von  einem  Einfluss  der wahrgenommenen  Unterstützung  durch  die  Arbeitgeberin bzw. den Arbeitgeber auf die Teilnahmeentscheidung ausgegangen werden. Die Unterstützungsbereitschaft setzt wiederum einen unternehmensseitig vorhandenen Bedarf an entsprechenden  Qualifikationen  voraus.  In  einer  qualitativen Untersuchung, die im Rahmen des BMBF-Projektes zur Einrichtung von berufsbegleitenden Bachelorstudiengängen für beruflich Qualifizierte und Berufstätige an der Hochschule Schmalkalden durchgeführt worden ist, wurde dieser Bedarf analysiert. Ferner wurden von kleinen und mittelständischen Unternehmen nachgefragte Themen, Anforderungen an berufsbegleitende  Studiengänge  sowie  Formen  der  Unterstützung ermittelt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_191</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_191">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/191/180" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_191" DMDID="DMD_biejournals_191">
+            <mets:fptr FILEID="FILE0_biejournals_191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

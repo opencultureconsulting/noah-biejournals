@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2954">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Guest Editorial</title>
+                        <subTitle>Qualitative Research on Prejudice</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Knappertsbusch, Felix</displayForm>
+                        <namePart type="family">Knappertsbusch</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Milbradt, Björn</displayForm>
+                        <namePart type="family">Milbradt</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kelle, Udo</displayForm>
+                        <namePart type="family">Kelle</namePart>
+                        <namePart type="given">Udo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-06-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Central topics and challenges for current social research on prejudice and discrimination are outlined and discussed with special regard to how such research may benefit from a stronger focus on qualitative and mixed methods perspectives. Such a methodological approach is described as particularly fruitful in dealing with the context-sensitive flexibility and fragmentation of prejudiced behavior; the special role of ideological patterns of justification in such expressions of prejudice; and the normative character and reflexivity of prejudice research itself. The contributions to this issue are then presented against the backdrop of this theoretical and methodological framework.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2954</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2954">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2954/pdf_79" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2954">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2954/2853" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2954" DMDID="DMD_biejournals_2954">
+            <mets:fptr FILEID="FILE0_biejournals_2954"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2954" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2954"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

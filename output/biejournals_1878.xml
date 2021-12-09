@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1878">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Women leadership for public health</title>
+                        <subTitle>The added value and needs of women driving public health system reform in Ukraine</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cichowska Myrup, Anna</displayForm>
+                        <namePart type="family">Cichowska Myrup</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aleksandrova, Olga</displayForm>
+                        <namePart type="family">Aleksandrova</namePart>
+                        <namePart type="given">Olga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-09-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The Ukrainian health care system is undergoing reforms. Although women constitute a driving force in the Ukrainian health system transformation, their economic and decision-making participation remains extremely low. The existence of barriers such as:  work/life balance, gender bias, stereotypes, lack of confidence, lack of mentoring, and lack of adequate networking and equal access to opportunities prevent women from reaching high leadership positions.With the aim to empower the current and future female public health leaders, the Ministry of Health of Ukraine and WHO held a seminar entitled “Women’s Leadership in Public Health” in Kyiv on 16-18 May 2017. The seminar was based on the assumption that contemporary public health demands require a more inclusive and less hierarchical style of leadership – focused on developing and working with stakeholder networks. Such a leadership style is more effective in achieving public health goals.The international, interdisciplinary and inter-professional faculty engaged in the interactive meaning making around such topics as: the self-assessment of leadership competencies, public health leadership, leadership theories, system thinking, dealing with interests, power and stakeholders, barriers to women leadership and methods to address them, special leadership tools for women empowerment and leading change, communication and impact. Strengthening health systems for better health was the red thread throughout the whole seminar.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1878</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1878">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1878/1798" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1878" DMDID="DMD_biejournals_1878">
+            <mets:fptr FILEID="FILE0_biejournals_1878"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

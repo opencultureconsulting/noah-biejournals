@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3461">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sprachwandel und Textvielfalt  sichtbar machen</title>
+                        <subTitle>Anregungen für den Lateinunterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Funke, Dorit</displayForm>
+                        <namePart type="family">Funke</namePart>
+                        <namePart type="given">Dorit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Texte in Lateinbüchern sind künstlich und didaktisiert. Die Sprache dieser Texte ist homogen und sieht immer gleich aus. Die Schüler*innen bekommen so den Eindruck, dass die lateinische Sprache sich nie verändert hat. Auch die Texte in der Übergangslektüre sowie in der Lektürephase sind insofern homogen, als dass sie zum Teil bearbeitet sind, zum Teil aus zeitlich ähnlichen Epochen stammen und für die Elite geschrieben wurden. Im Schriftbild unterscheiden sie sich gar nicht von den Lehrbuchtexten. Im Beitrag werden lateinische Schriftzeugnisse vorgestellt, die aus mehreren Jahrhunderten und von Verfassern aus unterschiedlichen Schichten stammen. Den Schüler*innen soll durch die Auseinandersetzung mit diesen Zeugnissenewusst gemacht werden, dass Latein eine „wirkliche“ Sprache war, die einem stetigen Wandel ausgesetzt war, wie es moderne Sprachen auch heute noch sind. Weiterhin soll gezeigt werden, dass Latein von Menschen aller sozialen Schichten benutzt wurde, was sich natürlich – wie heute – in Ausdruck und Stil niederschlägt. Schließlich soll aufgezeigt werden, dass Latein das verbindende Element nicht nur zwischen Nicht-Muttersprachler*innen und Muttersprachler*innen war, sondern auch zwischen Nicht-Muttersprachler*innen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3461</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3461">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3461/3659" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3461" DMDID="DMD_biejournals_3461">
+            <mets:fptr FILEID="FILE0_biejournals_3461"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

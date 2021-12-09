@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3316">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theoretische Implikationen zum Umgang mit Kontingenzphänomenen in Studium und Unterricht</title>
+                        <subTitle>Anmerkungen aus sportpädagogischer Sicht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ukley, Nils</displayForm>
+                        <namePart type="family">Ukley</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröben, Bernd</displayForm>
+                        <namePart type="family">Gröben</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Schule und Unterricht weisen paradoxe Grundstrukturen auf, in denen die pädagogischen Praxen von Lehrkräften fortwährend von verschiedenen Antinomien geprägt sind (Helsper, 2002, 2004, 2011). Es ist somit grundsätzlich davon auszugehen, dass professionelles Handeln in diesem kontingenten Feld des Unterrichts ebenso durch die Relation von Handeln und Widerfahren (Kamlah, 1973) wie von Zukunftsoffenheit und Ungewissheit mitbestimmt wird (vgl. ausf. Paseka, Keller-Schneider &amp;amp; Combe, 2018). Allerdings ist Unterricht ebenso durch spezifische Wirkungserwartungen begründet und das Unterrichten auf intendierte Wirkungen – und somit auf Kontinuität – hin zentriert. Vorliegender Beitrag thematisiert solche Paradoxien, Kontingenzphänomene und Ungewissheiten im Unterricht als Herausforderung für (sport-)pädagogisches Handeln. Dies betrifft unmittelbar den Unterricht, mittelbar aber auch die Lehrer*innenbildung. Im Folgenden versuchen wir aufzuzeigen, dass gerade von spezifischen Ungewissheiten der Praxis abstrahierte wissenschaftliche Diskurse und Befunde wichtige Orientierungen für das professionelle Handeln ermöglichen und daher mit Recht einen wesentlichen Schwerpunkt der universitären Lehre bilden: Sinnvolle und notwendige Bezüge auf Praxis im Studium werden hierdurch nicht relativiert, sondern in einen reflexiv-forschenden Erfahrungsbezug gebracht, um ein fundiertes und begründbares Handeln als Lehrende im Unterricht zu ermöglichen. Auf Basis dieser Prämissen werden Konsequenzen für die professionelle Entwicklung von (Sport-) Lehrkräften ausgelotet, hinsichtlich der je spezifischen Relevanz von Theorie und Praxis sowie Forschen und Lernen in einen gemeinsamen Rahmen gebracht und diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3316</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3316">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3316/3474" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3316" DMDID="DMD_biejournals_3316">
+            <mets:fptr FILEID="FILE0_biejournals_3316"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

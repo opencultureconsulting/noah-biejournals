@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2465">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Inklusive Lehrer_innenbildung als gemeinsame Aufgabe verstehen</title>
+                        <subTitle>Das Konzept der Germanistik an der Universität Duisburg-Essen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Inclusive teacher education as a shared responsibility</title>
+                        <subTitle>The Concept of the Department of German Studies at the University of Duisburg-Essen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ferencik-Lehmkuhl, Daria</displayForm>
+                        <namePart type="family">Ferencik-Lehmkuhl</namePart>
+                        <namePart type="given">Daria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ilka, Fladung</displayForm>
+                        <namePart type="family">Ilka</namePart>
+                        <namePart type="given">Fladung</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag zeigt, wie an der Universität Duisburg-Essen (UDE), als Ruhrgebietsuniversität und einem der größten Standorte der Lehramtsausbildung in NRW, inklusive Lehrer_innenbildung im Fach Deutsch vorangetrieben wird. Zwei Säulen dieses Prozesses werden vorgestellt: zum einen die Implementierung der inklusiven Inhalte in die Curricula der Germanistik und zum anderen der kontinuierliche Aus- und Aufbau von Expertise unter den Lehrenden. Beide Prozesse werden angeleitet durch Deutsch inklusiv als Teil des Projektes Professionalisierung für Vielfalt (ProViel). Die UDE ist mit heterogenen Bildungshintergründen und Migration seit jeher vertraut. Aus diesem Grund ist der Ausbildungsschwerpunkt Umgang mit Heterogenität in Schule und Unterricht fest in den Curricula der Lehramtsstudiengänge verankert. Nach der LABG-Novellierung im Jahr 2016 wurden jedoch auch hier Veränderungen und Erweiterungen nötig. Angehenden Lehrkräften sollen die fachlichen und fachdidaktischen Kompetenzen und Haltungen vermittelt werden, die sie für ihre Arbeit in inklusiven Schulen benötigen. Zur Vermittlung dieser Kompetenzen wurden neue Seminarkonzepte ausgearbeitet, die sowohl in sprach- und literaturdidaktischen als auch in fachwissenschaftlichen Modulen verortet sind. Damit wird dezidiertes, exemplarisches Lernen anhand ausgewählter Förderprofile möglich (anstelle einer breiten Streuung einzelner „Inklusionscredits“ auf zahlreiche Lehrveranstaltungen). Zentral für den zweiten Prozess (Expertiseaufbau) ist die Kooperation der Akteure innerhalb der AG Inklusion. Interne Fortbildungen bilden die Basis für die Weitergabe von bereits vorhandenem Wissen; sie werden ergänzt durch Forschungskolloquien und Workshops sowie durch E-Learning-Tools.</abstract>
+                    <abstract lang="eng">The article presents how the University of Duisburg-Essen (UDE), one of the leading universities for teacher training, deals with the challenge of inclusive teacher education at the department of German Studies. The process of developing and expanding inclusive teacher education is based on two pillars: First of all, it is about the implementation of inclusive content in the curriculum of the department. Besides that, it is of utmost importance for the lecturers to gain further expertise in the field of inclusion. Both processes are supported and guid-ed by the subproject Deutsch inklusiv [German Inclusive] as a part of the project Professionalisierung für Vielfalt [Professionalization for Diversity] (ProViel). The UDE has large expertise in teacher education with regards to the fields of heterogeneity and migration. Nevertheless, the development of an inclusive education system in Germany after the ratification of The United Nations Convention of the Rights of People with Disabilities in Germany poses various challenges for the teacher training at universities. Professional competence, as well as the necessary attitude future teachers need for their work in inclusive schools, must be conveyed. Therefore, new concepts for seminars in the area of German Didactics, Language and Literature must be developed, implemented and evaluated. To support the development of expertise, diverse (internal) training courses for lecturers as well as e-learning opportunities are offered.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2465</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2465">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2465/3248" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2465" DMDID="DMD_biejournals_2465">
+            <mets:fptr FILEID="FILE0_biejournals_2465"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

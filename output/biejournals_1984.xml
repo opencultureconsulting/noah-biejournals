@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1984">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen in der sprachdidaktischen Lehramtsausbildung</title>
+                        <subTitle>Fachspezifische Reflexionsanlässe durch ethnographische Unterrichtsbeobachtungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kern, Friederike</displayForm>
+                        <namePart type="family">Kern</namePart>
+                        <namePart type="given">Friederike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stövesand, Björn</displayForm>
+                        <namePart type="family">Stövesand</namePart>
+                        <namePart type="given">Björn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zuge der Ausdifferenzierung und Konturierung von Konzepten Forschenden Lernens in den Fachdidaktiken soll in diesem Beitrag anhand eines Beispiels aus einer authentischen Seminarsituation der Sprachdidaktik gezeigt werden, welches Potenzial ethnographische Beobachtungen für fachspezifische Reflexionen haben können. Dabei wird das Ethnographische Beobachten als Ausdruck eines offenen Konzepts Forschenden Lernens verwendet, durch welches eine forschende Haltung gegenüber dem Deutschunterricht angeregt werden soll. Durch die Grundprinzipien der Verfremdung, Verschriftlichung und analytischen Bearbeitung sollen die Studierenden des Faches Deutsch habitualisierte Wahrnehmungsmuster systematisch hinterfragen und durchbrechen, um so als Forschende auf ihr späteres Berufsfeld zu schauen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1984</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1984">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1984/3570" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1984" DMDID="DMD_biejournals_1984">
+            <mets:fptr FILEID="FILE0_biejournals_1984"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

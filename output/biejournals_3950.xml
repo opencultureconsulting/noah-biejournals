@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3950">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Passung und berufliche Identität als Prädiktoren der Studienzufriedenheit von Lehramtsstudierenden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Besa, Kris-Stephen</displayForm>
+                        <namePart type="family">Besa</namePart>
+                        <namePart type="given">Kris-Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Bedeutsamkeit der Erforschung von Studienzufriedenheit liegt unter anderem in der möglichen Vermeidung von Studienabbrüchen. Während zahlreiche Betrachtungen vorliegen, die studiengangsunspezifisch die Studienzufriedenheit erforschen, gibt es nur wenige Untersuchungen, die eine vergleichende Betrachtung verschiedener Studienfachrichtungen vornehmen. Der vorliegende Beitrag möchte dieses Desidarat mit Blick auf das Lehramt aufgreifen und untersucht mittels Daten einer quantitativen Fragebogenerhebung, welche spezifischen Einflüsse interessensbezogene Passung und berufliche Identität auf die Studienzufriedenheit bei Lehramtsstudierenden und Studierenden anderer Fachrichtungen ausüben. Dabei zeigt sich, dass eine geringer ausgeprägte Studienzufriedenheit bei den Lehramtsstudierenden im Vergleich zu anderen Studierenden vorliegt, die sich vor allem durch eine geringere Passung im Studium erklären lässt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3950</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3950">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3950/3918" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3950" DMDID="DMD_biejournals_3950">
+            <mets:fptr FILEID="FILE0_biejournals_3950"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

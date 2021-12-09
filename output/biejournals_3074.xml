@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3074">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introduction</title>
+                        <subTitle>Extremely Violent Societies</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Karstedt, Susanne</displayForm>
+                        <namePart type="family">Karstedt</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The five contributions ensembled in this focus section demonstrate that the concept of &quot;extremely violent societies&quot; (Gerlach 2006) is not a rigid framework. It allows for analyses of different scales and spaces – from cities to countries – and different types of violence and conflicts. It is a concept that has a lot of potential in reaching out to other frameworks and aligning and accommodating them. However, its main potential lies in its conceptual power to analyse contemporary mass violence beyond state-led violence, and to get to a more nuanced understanding of such violence. Such understanding will ultimately enhance our tools for intervention and prevention. Until now the concept has more stealthily than overtly entered into the field, however it is hoped that these contributions will prove its potential and value to a wider audience. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3074</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3074">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3074/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3074">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3074/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3074">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3074/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3074" DMDID="DMD_biejournals_3074">
+            <mets:fptr FILEID="FILE0_biejournals_3074"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3074" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3074"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3074" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3074"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

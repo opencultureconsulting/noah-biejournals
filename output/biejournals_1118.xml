@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1118">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mapping the Field of Development Education in Portugal</title>
+                        <subTitle>Narratives and Challenges in a De/Post/Colonial Context</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Coelho, Dalila P.</displayForm>
+                        <namePart type="family">Coelho</namePart>
+                        <namePart type="given">Dalila P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Caramelo, João</displayForm>
+                        <namePart type="family">Caramelo</namePart>
+                        <namePart type="given">João</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: To map and discuss core narratives and challenges crossing the field of DE in Portugal, from a postcolonial stance.
+Design/methodology/approach: The analysis is based on a qualitative approach, comprising two studies: interviews with experts and online analysis of development NGOs active in the field of DE.
+Findings: DE is discussed as a set of theories and practices under reconfiguration in terms of scope, aims, actors and educational approaches. There is the need for reconnecting with and addressing the legacies of DE, particularly, given its formal and informal emergence; this is an inevitably conflictual process involving a balance between tradition and change. Higher education is considered a relevant actor in strengthening the field.
+Research implications: A postcolonial stance is suggested as valuable orientation for actors, organizations and research in the field of DE, considering its transitional status and an inherently conflictive nature.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1118</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1118">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1118/1540" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1118" DMDID="DMD_biejournals_1118">
+            <mets:fptr FILEID="FILE0_biejournals_1118"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

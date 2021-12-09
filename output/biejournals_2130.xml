@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2130">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>politische Mensch - Demokratie als Lebensform</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Negt, Oskar</displayForm>
+                        <namePart type="family">Negt</namePart>
+                        <namePart type="given">Oskar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ich möchte mit einer die Frage beginnen, die zunächst etwas philosophisch-abstrakt erscheint, aber vielleicht für viele Menschen eine sehr zentrale ist: &quot;Was ist heute eigentlich Wirklichkeit?&quot; Sind die 7 50 Milliarden Euro eigentlich , wirklich &apos;, die ausgegeben werden, um Schutzschirme für marode Banken zu bilden? Oder ist das eine Fiktion aus einem Roman? Sie müssen ja sehen, dass heute mit Milliarden umgegangen wird wie noch vor zehn Jahren mit Millionen. Das hat etwas zu tun mit einem Währungssystem, in dem auch praktisch eine D-Mark zu einem Euro wird, aber natürlich nicht im ursprünglichen Austauschverhältnis. Das heißt, diese Frage, was Wirklichkeit ist, stellt sich meines Erachtens in einer sehr zentralen Weise auch im Hinblick auf die Veränderung der gesellschaftlichen Situation, in der wir heute leben. Ich glaube, dass wir Grund genug haben, darüber nachzudenken, wie sich solche Wirklichkeiten herausbilden konnten, ohne dass die Menschen überhaupt die Umbrüche, die in dieser Wirklichkeit stecken, subjektiv wahrnehmen oder reflektieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2130</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2130">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2130/1997" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2130" DMDID="DMD_biejournals_2130">
+            <mets:fptr FILEID="FILE0_biejournals_2130"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

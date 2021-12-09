@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1615">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fangschreckenkrebse – Superlative in der Tierwelt</title>
+                        <subTitle>Präparation eines Gliederfüßers zur Erarbeitung von Struktur-Funktionszusammenhängen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bryce, Martina</displayForm>
+                        <namePart type="family">Bryce</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haug, Carolin</displayForm>
+                        <namePart type="family">Haug</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haug, Joachim T.</displayForm>
+                        <namePart type="family">Haug</namePart>
+                        <namePart type="given">Joachim T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Radtke, Dominik</displayForm>
+                        <namePart type="family">Radtke</namePart>
+                        <namePart type="given">Dominik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aufleger, Monika</displayForm>
+                        <namePart type="family">Aufleger</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Superlative begeistern Kinder und Jugendliche. Fangschreckenkrebse (Stomatopoden) zeigen einige Merkmale, die man als „Superlative“ bezeichnen könnte. Zunächst fallen dabei die Fangmechanismen der Stomatopoden auf. Man unterscheidet gemein gebräuchlich sogenannte “Speerer” und “Boxer”. Die “Speerer” erreichen mit ihrem großen Raubbein eine Geschwindigkeit von über 100 km/h beim Beutefang, eine der schnellsten muskelvermittelten Bewegungen in der Tierwelt. Die “Boxer“ erzeugen eine Krafteinwirkung ähnlich einem Wolfsbiss oder einer Kleinkaliberkugel mit darauffolgender Druckwelle zum Zertrümmern der Schalen von Beutetieren. Außerdem ist der Besitz eines der besonderen optischen Apparate mit den meisten Fotorezeptortypen im gesamten Tierreich beeindruckend (Cronin et al. 2017).&amp;nbsp;
+Doch nicht nur diese Superlative machen die Fangschreckenkrebse für den Unterricht interessant. Fangschreckenkrebse sind leicht und kostengünstig zu besorgen und&amp;nbsp; mit einer Verkaufsgröße von bis zu ca. 25 cm sind die Extremitäten gut und anschaulich zu präparieren.&amp;nbsp; Die Extremitäten weisen eine morphologische Vielfalt auf, die als Angepasstheiten an die unterschiedlichen Funktionen zu verstehen sind.&amp;nbsp;&amp;nbsp; So lassen sich die vielfältigen Variationen einer grundlegenden Körperorganisation am Original zeigen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1615</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1615">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1615/3411" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1615">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1615/3412" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1615" DMDID="DMD_biejournals_1615">
+            <mets:fptr FILEID="FILE0_biejournals_1615"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1615" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1615"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

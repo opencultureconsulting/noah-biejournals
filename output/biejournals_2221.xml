@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2221">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>20 Jahre FoRuM Supervision - Ein Rückblick</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lehmenkühler-Leuschner, Angelica</displayForm>
+                        <namePart type="family">Lehmenkühler-Leuschner</namePart>
+                        <namePart type="given">Angelica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kreft, Jürgen</displayForm>
+                        <namePart type="family">Kreft</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-12</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Als Mit-Gründerirr und Mit-Herausgeberirr von FoRuM Supervision übernimmtAngelica Lehmenkühler-Leuschner im ersten Teil die Aufgabe, Aspekte der geschichtlichen Entwicklung der Anfänge von FoRuM Supervision und wichtige Institutionalisierungsprozesse sowie deren Hintergründe rückblickend zu beleuchten und somit auch die Leistung dieser Zeitschrift zu würdigen.Jürgen Kreft - geschäftsführender Redakteur seit 2001 und Mitherausgeber seit 2005 - nimmt den Faden im zweiten Teil auf und beschreibt die internen Diskussionen in Hinsicht auf die Herausforderung, Konzept und Intention des FoRuM weiter zu entwickeln und zu bewahren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2221</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2221">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2221/2130" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2221" DMDID="DMD_biejournals_2221">
+            <mets:fptr FILEID="FILE0_biejournals_2221"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

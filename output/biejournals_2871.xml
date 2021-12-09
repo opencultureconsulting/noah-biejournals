@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2871">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Formations of Violence in Post-Dictatorial Contexts</title>
+                        <subTitle>Logics of Confrontation between the Police and the Young Urban Poor in Contemporary Argentina</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Isla, Alejandro</displayForm>
+                        <namePart type="family">Isla</namePart>
+                        <namePart type="given">Alejandro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Míguez, Daniel Pedro</displayForm>
+                        <namePart type="family">Míguez</namePart>
+                        <namePart type="given">Daniel Pedro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-11-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The increase in juvenile violence in Argentina since the 1990s results from a combination of economic and socio-structural change and the reinstatement of repressive traditions that became particularly engrained in the armed and security forces during the 1976–1983 dictatorship. Growing unemployment and poverty led to the emergence of loose webs of juvenile delinquency, while increasing public concern about violent crime led to a revival of harsh “iron fist” policing measures by security forces that are often themselves involved in crime in connivance with local politicians. Groups of young urban poor (calling themselves Pibes Chorros or Crooked Kids) and the security forces regard one another with mutual hostility, and police/civilian casualties increased over the period. The music of the Crooked Kids, Cumbia Villera, expresses their life experience. From a comparative perspective, the absence of institutionalized gangs sets Argentina apart from other countries in Latin and North America.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2871</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2871">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2871/pdf_35" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2871">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2871/2684" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2871" DMDID="DMD_biejournals_2871">
+            <mets:fptr FILEID="FILE0_biejournals_2871"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2871" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2871"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_372">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Minority Participation - A Challenge for Human Rights Education?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mihr, Anja</displayForm>
+                        <namePart type="family">Mihr</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Text behandelt die Frage, inwiefern Menschenrechtsbildung und Minderheitenrechte gelehrt werden können um Menschen in die Lage zu versetzen für Gleichheit und Gerechtigkeit zwischen Mehrheiten und Minderheitengruppen aktiv und gleichberechtigt einzutreten. Menschenrechtsbildung ist in erster Linie die Befähigung jedes Einzelnen seine Menschenrechte zu kennen und sich für diese sowie die Menschenrechte Anderer einzusetzen. Dazu gehören soziale, wirtschaftliche und kulturelle Menschenrechte ebenso wie politische und zivile, die jedem Menschen zustehen, gleich ob jemand zu einer Minderheitengruppe gehört oder nicht. Um jedoch Gleichheit zwischen den Gruppen zu erreichen müssen zunächst auch die Bedürfnisse der Minderheiten herausgearbeitet werden, um mittels des Bildungssystems diese offen anzugehen. Es gilt, deutlich zu machen, dass von der Einhaltung der Menschenrechte sowohl Minderheiten als auch Mehrheiten in einer Gesellschaft profitieren.The questions to be asked when referring to human rights and human rights education (HRE) for minorities are - how to use HRE to: 1)minorities to become active participants in societal decision making processes and 2) achieve equality and justice between majority and minority groups in any given society? In this paper I will discuss human rights education as an empowering tool - helping individuals to become aware of human rights and empowering them not only to claim their own basic human rights but also to advocate for the rights of others. It is this empowerment and action combined that helps to bring about equality and justice for all. For minorities and other groups and individuals in society, this means being knowledgeable about each others&apos; political, civil, economic and cultural rights, customs and history so that there is respect for, and recognition of, difference. To achieve this, it is important to identify the problems faced by minorities and the needs of these groups and to endeavour to overcome short-comings in education systems so that diversity in society is seen as a positive thing - something which is beneficial to all.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_372</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_372">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/372/369" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_372" DMDID="DMD_biejournals_372">
+            <mets:fptr FILEID="FILE0_biejournals_372"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

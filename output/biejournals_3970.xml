@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3970">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Visiting the forced visitors</title>
+                        <subTitle>Critical and decentered approach to Global Citizenship Education as an inclusive educational response to forced youth migration</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harðardóttir, Eva</displayForm>
+                        <namePart type="family">Harðardóttir</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jónsson, Ólafur Páll</displayForm>
+                        <namePart type="family">Jónsson</namePart>
+                        <namePart type="given">Ólafur Páll</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Migrant and refugee youth face complex challenges pertaining to educational and social inclusion in Europe and international contexts.
+Global Citizenship Education (GCE) has gained increased prevalence as an educational response to globalizing processes such as forced migration and resulting cultural diversity.
+It is argued that a critical and decentered model of GCE can be applied as an inclusive educational response to refugee youth within national educational settings.
+Visual and participatory educational practices emphasizing the role of the teacher as a &apos;visitor&apos; are presented and discussed.
+
+Purpose: To explore the role and possibilities of Global Citizenship Education (GCE) in attending to neglected aspects of inclusive education when responding to forced youth migration in Europe.
+
+
+Approach: We discuss different approaches to GCE within the literature, their implications for refugee students within national educational settings and give an example of how critical GCE can be practiced in education. 
+
+
+Finding: Drawing on theoretical work of John Dewey and Hannah Arendt, in conjunction with more recent theoretical work on global citizenship within education, we argue that a critical and decentered model of GCE is important to support processes of inclusion and citizenship for refugee youth within national educational settings.
+
+
+Implications: We apply and discuss the suggested theoretical approach in relation to pedagogical practices developed as a part of an ongoing research project on irregular processes of inclusion and citizenship for migrant and refugee youth in Iceland, Norway, and the UK.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3970</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3970">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3970/4335" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3970" DMDID="DMD_biejournals_3970">
+            <mets:fptr FILEID="FILE0_biejournals_3970"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

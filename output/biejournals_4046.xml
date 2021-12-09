@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4046">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Socially responsible human resources management and stakeholders’ Health Promotion</title>
+                        <subTitle>A conceptual paper</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Macassa, Gloria</displayForm>
+                        <namePart type="family">Macassa</namePart>
+                        <namePart type="given">Gloria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tomaselli, Gianpaolo</displayForm>
+                        <namePart type="family">Tomaselli</namePart>
+                        <namePart type="given">Gianpaolo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The prime objective of this paper is to propose a new conceptual framework for how integrating corporate social responsibility (CSR) and human resources management (HRM) can impact on stakeholders’ health and wellbeing. The proposed framework argues that integrative socially responsible HRM (SR-HRM) policies coupled with public health literacy and integrative responsible leadership can play a significant role in shaping health behaviour change of internal stakeholders, which in turn can spill over to external stakeholders (family and proximate communities).
+From a health promotion and population health perspective, we see human resources (HR) as a leading partner in educating employees on the value of CSR and public health literacy programmes, and also as providing action plans on how to strategically and successfully implement these types of programmes. By helping to develop action plans to analyse CRS and public health literacy activities, HR professionals will be promoting both corporate citizenship and health behaviour change. Both of these are vital for developing a culture of social responsibility (and achieving the triple bottom line (TBL)) and sustainable population health promotion. Henceforth, SR-HRM policies and practices could help business organizations to contribute to the achievement of the United Nations’ Sustainable Development Goals (SDGs) and specifically Goals 3 and 8. This novel framework, which is especially pertinent to public health, has not yet been tested empirically. Hence, future studies are warranted to empirically test the theoretical framework using field data collection.
+&amp;nbsp;
+&amp;nbsp;
+Acknowledgements
+The authors would like to thank Dr Jesus Barrena-Martínez for his valuable comments and suggestions on the conceptual framework. GM is grateful for the support of the Department of Public Health and Sports Science at the University of Gävle, through the CSR-PhAM Programme and RELeSH project.
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4046</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4046">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4046/4004" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4046" DMDID="DMD_biejournals_4046">
+            <mets:fptr FILEID="FILE0_biejournals_4046"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

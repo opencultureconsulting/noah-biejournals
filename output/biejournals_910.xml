@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“I mean, everybody is kinda racist.“ PowerPoint Presentations in Social-Studies Classrooms in Germany</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Torrau, Soeren</displayForm>
+                        <namePart type="family">Torrau</namePart>
+                        <namePart type="given">Soeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: PowerPoint presentations have changed representations of knowledge. They represent a social transformation process of communication which is also reflected in social-studies classrooms. Thus, it is important to examine not only how students hold presentations but also to explore the construction of knowledge through presentations: What are the didactic functions?
+Methodology: The article focuses on a case study that was part of a doctoral dissertation that uses audio recordings, interviews and classroom observations in order to explore presentations in social-studies classrooms.
+Findings: A presentation – the shooting of Michael Brown – by 10 th -grade student Laura shows: Students select and transform knowledge in a socio-constructivist and didactic way. Presentations are the starting point of a process of negotiation of knowledge, which is triggered by the presenting students. Laura asks within the lesson: What is racism and what can we learn about racial structures? By reading the article teachers can learn about teaching students about race and racism through presentations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_910</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_910">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/910/1537" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_910" DMDID="DMD_biejournals_910">
+            <mets:fptr FILEID="FILE0_biejournals_910"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

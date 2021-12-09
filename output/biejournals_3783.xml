@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3783">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Innovative Strukturen für lebenslanges mobiles Lernen an Hochschulen</title>
+                        <subTitle>„Weiterbildungspool Ingenieurwissenschaften excellent mobil“ im niedersächsischen Verbund zur Mobilitätswirtschaft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bachofner, Monika</displayForm>
+                        <namePart type="family">Bachofner</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bartsch, Annette</displayForm>
+                        <namePart type="family">Bartsch</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gerade im sich schnell wandelnden fach- und fakultätsübergreifendenBereich der Mobilität sind innovative undbedarfsorientierte Studienangebote notwendig. Am Beispieldes niedersächsischen Verbundprojekts Mobilitätswirtschaftwird der Aufbau eines Studienangebots zur nachhaltigen, koordiniertenUmsetzung Lebenslangen Lernens aufgezeigt. Inintensiver Zusammenarbeit wird ein Studienmodell erarbeitet,das erstmals gestufte berufsbegleitende Weiterbildungsangeboteabgestimmt als ein Kompetenznetzwerk von sechsHochschulen anbietet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3783</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3783">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3783/3836" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3783" DMDID="DMD_biejournals_3783">
+            <mets:fptr FILEID="FILE0_biejournals_3783"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3101">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Explaining Homegrown Western Jihadists</title>
+                        <subTitle>The Importance of Western Foreign Policy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>McCauley, Clark R.</displayForm>
+                        <namePart type="family">McCauley</namePart>
+                        <namePart type="given">Clark R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In both the United States and Europe, explanations of homegrown radicalization emphasize the power of Salafi-jihadist ideology and Muslim experiences of discrimination and socioeconomic deprivation in Western countries. Polls of U.S. and European Muslims, and case histories of jihadist plots for attacks in the United States, indicate that another source of homegrown radicalization is Western foreign policy, especially Western interventions in predominantly Muslim countries. Poll results support a two-factor model in which seeing the war on terrorism as a war on Islam is predicted by both perceived discrimination and grievance related to Western foreign policy. Consistent with this model, UK practitioners in counter-radicalization programs find it useful to recognize Muslim grievances related to Western foreign policy in order to argue that violence does not reduce Muslim suffering. These observations indicate that Muslim grievances relating to Western foreign policy are important for under - standing and countering support for jihadist violence in Western countries.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3101</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3101">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3101/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3101" DMDID="DMD_biejournals_3101">
+            <mets:fptr FILEID="FILE0_biejournals_3101"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

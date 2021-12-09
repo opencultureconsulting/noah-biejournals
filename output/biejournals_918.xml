@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_918">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Character Education for Social Action</title>
+                        <subTitle>A Conceptual Analysis of the #iwill Campaign</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lamb, Michael</displayForm>
+                        <namePart type="family">Lamb</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Taylor-Collins, Emma</displayForm>
+                        <namePart type="family">Taylor-Collins</namePart>
+                        <namePart type="given">Emma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Silverglate, Cameron</displayForm>
+                        <namePart type="family">Silverglate</namePart>
+                        <namePart type="given">Cameron</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This article integrates two distinct discourses to show how an Aristotelian account of character education can supply a valuable framework for developing a habit of social action.
+Approach: We use a review of relevant secondary literature, a documentary analysis of #iwill materials, and an Aristotelian conceptual framework to analyse the quality principles of the #iwill campaign—a cross-sector, cross-party collective impact campaign that encourages youth social action in the UK.
+Findings: We show how an Aristotelian account offers useful resources for conceptualising andapplying #iwill’s six quality principles and addresses four practical and theoretical challenges in #iwill’s model. In particular, an Aristotelian account provides a more capacious conception of a habit and offers a revised model for understanding social action’s benefits to individuals and communities.
+Practical Implications: With over 800 partner organizations in the UK, #iwill has a significant impact on how social action is practised and supplies a valuable model for other campaigns to follow. By informing #iwill’s quality framework, this Aristotelian account seeks to amplify efforts to cultivate social action as a virtuous habit for life.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_918</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_918">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/918/1450" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_918" DMDID="DMD_biejournals_918">
+            <mets:fptr FILEID="FILE0_biejournals_918"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

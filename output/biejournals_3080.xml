@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3080">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Secret Islamization of Europe Exploring the Integrated Threat Theory</title>
+                        <subTitle> Predicting Islamophobic Conspiracy Stereotypes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Uenal, Fatih</displayForm>
+                        <namePart type="family">Uenal</namePart>
+                        <namePart type="given">Fatih</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The revised integrated threat theory (Stephan and Renfro 2002) is tested as a framework for analyzing Islamophobic conspiracy stereotypes (Kofta and Sedek 2005) in Germany. Threats (symbolic and realistic) were analyzed as mediators between different antecedents (in-group identification, ambiguity intolerance, clash of civilizations) and the dependent variable, conspiracy stereotypes. Respondents from Berlin (N = 355) participated in an online survey (Summer 2014). First, the findings indicate that higher education and political orientation towards the left are negatively related to conspiracy stereotypes and threats. Furthermore, the findings of the structural equation model indicate partial mediation via symbolic threats for clash-of-civilizations intergroup conflict and education on conspiracy stereotypes. Full mediation is reported for in-group identification and ambiguity intolerance via symbolic threats.Despite any factual evidence for support, the idea of a secret &quot;Islamization of Europe&quot; is finding increasing support among different groups in Germany (Benz 2011; Shooman 2009; Shooman 2014). Anders Behring Breivik, who killed seventy-seven people on the 22 July 2011 massacre in Norway, was, beside other factors, motivated by the “belief in a Muslim conspiracy to take over Europe” (Fekete 2011).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3080</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3080">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3080/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3080">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3080/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3080">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3080/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3080" DMDID="DMD_biejournals_3080">
+            <mets:fptr FILEID="FILE0_biejournals_3080"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3080" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3080"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3080" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3080"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

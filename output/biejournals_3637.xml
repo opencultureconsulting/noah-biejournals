@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3637">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Der Anfang ist die Hälfte des Ganzen“ (Aristoteles). Wie gelingt die Eröffnungsphase einer Supervisionssitzung? Eine exemplarische, objektiv-hermeneutische Rekonstruktion der kommunikativ-sprachlichen Gestaltung des Einstiegs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lohse, Markus</displayForm>
+                        <namePart type="family">Lohse</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3637</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3637">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/3637/3715" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3637" DMDID="DMD_biejournals_3637">
+            <mets:fptr FILEID="FILE0_biejournals_3637"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

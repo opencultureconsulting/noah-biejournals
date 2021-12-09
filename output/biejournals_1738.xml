@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1738">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welche Unterrichtsprinzipien sollten für den Aufbau von Kompetenzen zum Experimentieren Beachtung finden? Eine Ableitung auf Basis multiperspektivisch begründeter Unterrichtsziele</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baur, Armin</displayForm>
+                        <namePart type="family">Baur</namePart>
+                        <namePart type="given">Armin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Emden, Markus</displayForm>
+                        <namePart type="family">Emden</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bewersdorff, Arne</displayForm>
+                        <namePart type="family">Bewersdorff</namePart>
+                        <namePart type="given">Arne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dem Experimentieren kommt als Methode zum Erkenntnisgewinn eine große Bedeutung zu. Diese wird auf curricularer Ebene durch entsprechende Kompetenzformulierungen in den Bildungsstandards aufgegriffen. Aber nicht nur fachlich-disziplinäre und curriculare Begründungen weisen das Experimentieren als wichtige Erkenntnismethode für Lernende und daher als expliziten Unterrichtsgegenstand aus. Auch aus den Perspektiven der Bildungs- und Lerntheorie, die in diesem Artikel bei der Ableitung von Unterrichtsprinzipien zusätzlich zu den fachlich-disziplinären und curricularen Perspektiven Beachtung finden, bildet Experimentieren einen wichtigen Lerngegenstand. Entsprechend kommt der Frage des Vorgehens beim Unterrichten, d. h. der Methodik, große Relevanz zu. Für das Unterrichten sind Maßstäbe zur methodischen Orientierung wichtig: dies sind Unterrichtsprinzipien. Unterrichtsprinzipien sind didaktische Grundsätze, welche das Unterrichtsplanen und -handeln leiten sowie Bezugspunkte für die didaktische Forschung darstellen. Die multiperspektivische Begründung des Experimentierens bildet den ersten Schritt bei der Formulierung von Lehr-Lern-Zielen. Aus den Zielen werden danach Unterrichtsprinzipien abgeleitet. Als Unterrichtsprinzipien [P] werden identifiziert: (P1) ‚Teilprozesse des Experimentierens berücksichtigen‘, (P2) ,Experimentieren als expliziter Unterrichtsgegenstand‘, (P3) ‚Experimentieren üben‘, (P4) ‚Experimentieren zum Problemlösen einsetzen‘, (P5) ‚Prozessreflektierend experimentieren‘, (P6) ‚Grenzen von Experimenten ansprechen‘, (P7) ‚wissenschaftliche Strenge walten lassen‘ und (P8) ‚Selbsttätigkeit der Lernenden beim Experimentieren‘.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1738</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1738">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1738/2351" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1738" DMDID="DMD_biejournals_1738">
+            <mets:fptr FILEID="FILE0_biejournals_1738"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

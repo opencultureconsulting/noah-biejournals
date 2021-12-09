@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3060">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Local Media in Global Conflict</title>
+                        <subTitle>Southeast Asian Newspapers and the Politics of Peace in Israel/Palestine</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ozohu-Suleiman, Yakubu</displayForm>
+                        <namePart type="family">Ozohu-Suleiman</namePart>
+                        <namePart type="given">Yakubu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ishak, Sidin Ahmad</displayForm>
+                        <namePart type="family">Ishak</namePart>
+                        <namePart type="given">Sidin Ahmad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">It is often assumed that local media are a potential deescalating tool in global conflict. This study examines how four leading newspapers in Southeast Asia (Star of Malaysia, Philstar of the Philippines, Jakarta Post of Indonesia, and The Nation of Thailand) reported the Israeli-Palestinian conflict during the year after the 2009 Gaza War. A census of 536 reports was coded for tones (to detect alignment), frames (to detect characterization of the conflict), and sources (to examine correlation with coverage tones). The results show fragmented alignment of the newspapers with Palestine and Israel. Conflict frames on offensives, fighting, threats, military strategies, demonization, death, and destruction were most prevalent. Coverage tones were significantly correlated with sources, suggesting that the potential of local media to serve as deescalating tools in global conflicts is subject to the varying political contexts in which they operate in relation to specific conflicts.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3060</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3060">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3060/pdf_123" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3060">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3060/3072" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3060">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3060/_1" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3060" DMDID="DMD_biejournals_3060">
+            <mets:fptr FILEID="FILE0_biejournals_3060"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3060" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3060"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3060" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3060"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

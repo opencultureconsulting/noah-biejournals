@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_343">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Social Interplay of Disciplinarity and Interdisciplinarity. Some Introductory Remarks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hedtke, Reinhold</displayForm>
+                        <namePart type="family">Hedtke</namePart>
+                        <namePart type="given">Reinhold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Social Science Education as a subject field in schools is an intrinsic pluridisciplinary feature, whatever disciplines are included, however it may be organised and wherever it may be institutionalised. Civic education, economic education, social education and historical education each comprise several academic disciplines even if they are thought to be completely independent subjects. From the start on, disciplinarity and interdisciplinarity are on the agenda for any subject related to social science education and are one of its main problems. For these introductory remarks interdisciplinarity can be simply defined as relating two or more academic disciplines or school subjects to each other if this is done in a purposeful, systematic, explicit and reflective way. The overarching goal is to improve education that is to enhance students&apos; understandings of the worlds and their abilities to act within and towards them. A relationship between disciplines or subjects which misses one or more of the four characteristics can be called pluridisciplinary or multidisciplinary (cf. Audigier 2006). In the following I first want to discuss some aspects of disciplinarity and interdisciplinarity at schools and at universities and the weakness of interdisciplinarity. I sketch some social science based ideas on the interrelationship between the subject structure of the academic world and the world of schools (3.) and of some tendency to commonalities or even unification of social sciences and related competencies (4.). I conclude with some remarks on different kinds of knowledge (5.). Last but not least, I&apos;ll give an overview on the papers in this issue of the Journal of Social Science Education (6.).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_343</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_343">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/343/340" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_343" DMDID="DMD_biejournals_343">
+            <mets:fptr FILEID="FILE0_biejournals_343"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

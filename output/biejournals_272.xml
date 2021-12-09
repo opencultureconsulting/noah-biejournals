@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_272">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Experiental Civic Learning by using „Projekt</title>
+                        <subTitle>Aktive Bürger“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Koopmann, Klaus</displayForm>
+                        <namePart type="family">Koopmann</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-02-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2000</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Various social and political developments seem to sum up to a process of &apos;de-civilization&apos; which impede - rather than facilitate - the project of a humane and democratic society. In order to make this project a successful one it is necessary to reclaim citizens as politically acting subjects. The ability to act as enlightened and autonomous citizens will be sustainably acquired by experiencing extensive participation in society and in politics. Civic education should foster this process of &apos;revi-talization of citizenship&apos; by offering youth meaningful participatory experiences of social and po-litical relevance. That is: Civic education should create, organize and offer learning strategies that are oriented towards the notion of reflective acting as experiential learning. Experiential learning processes, aimed at the sustainable acquisition of competencies which are relevant in politics and civil society, will particularly unfold in the course of the (inter)active dealing of the individual(s) with the authentic political and social problems and processes that surround and concern them. This also includes reflection and co-operation. One example of how to practice an experiential and prob-lem-centred learning strategy is well being demonstrated by the civic education program &quot;Projekt: Aktive Bürger&quot;, the German adaptation of &quot;We the People ... Project Citizen&quot; designed by the American Center for Civic Education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_272</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_272">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/272/269" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_272" DMDID="DMD_biejournals_272">
+            <mets:fptr FILEID="FILE0_biejournals_272"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_849">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Rise and Fall of Citizenship and Human Rights Education in Turkey</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sen, Abdulkerim</displayForm>
+                        <namePart type="family">Sen</namePart>
+                        <namePart type="given">Abdulkerim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Starkey, Hugh</displayForm>
+                        <namePart type="family">Starkey</namePart>
+                        <namePart type="given">Hugh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article shows the effects of competing political forces on citizenship education in Turkey during the period of commitment to European Union (EU) accession (1999-2005).Methodology: It draws on textbooks, archival documents and interviews. Whilst Turkey had a history of civic education to promote a secular national ethos and identity, the post-Cold War democratisation movement encouraged the Turkish government in 1995 to attempt to internationalise civics by adding human rights themes.Findings: This effort occurred at a time when the hegemony of the secular nationalist establishment was challenged by the electoral rise of an Islamist party. Although Citizenship and Human Rights course suited the purposes of the secular nationalist establishment, after the EU recognised Turkey as a candidate in 1999, a new political Islamist government, elected in 2002, chose first to align the course with its ideology and later decided to repeal it. By exploring the evolution of the curriculum in a crucial period in which political power was switching from the ideology of secular nationalism to that of religious (Islamist) nationalism, the present study illustrates ways in which external and internal influences may affect citizenship education. In particular, it contributes to debates over the role of international agencies in curriculum change in citizenship education.   </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_849</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_849">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/849/961" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_849">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/849/962" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_849" DMDID="DMD_biejournals_849">
+            <mets:fptr FILEID="FILE0_biejournals_849"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_849" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_849"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

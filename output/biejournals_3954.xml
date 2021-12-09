@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3954">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>An Exploration of Why Languages Teachers in Germany and in England Stay in Teaching</title>
+                        <subTitle>To What Extent Is Wellbeing a Reason?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jones, Jane</displayForm>
+                        <namePart type="family">Jones</namePart>
+                        <namePart type="given">Jane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In this article, I discuss reasons why languages teachers stay in teaching. A former languages teacher myself, I believe that language teaching poses particular challenges in the classroom context. The teachers who are the focus of this bicultural study comprise ten teachers from schools in Lower Saxony and Hamburg, and ten in the Greater London area. Given the attention in research on teachers who leave or wish to leave, it seems apt to look at reasons that attract and keep teachers in the profession. My main interest is to see if, and to what extent, wellbeing could be a factor for teachers to remain in the profession. I used a questionnaire to ask the teachers about their reasons for staying, about the challenges they face and what might, ultimately, cause them to leave or, at least, contemplate leaving. Despite differences in the German and English contexts, some common core beliefs emerge from the teachers’ responses, such as the enjoyment of working with students, commitment to language teaching, creative opportunities and autonomy in their work. These beliefs promote job satisfaction and wellbeing and can, in a positively charged environment, contribute to resolve problematic issues.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3954</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3954">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3954/3914" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3954" DMDID="DMD_biejournals_3954">
+            <mets:fptr FILEID="FILE0_biejournals_3954"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

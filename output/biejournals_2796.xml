@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2796">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Understanding the Other’s “Understanding” of Violence</title>
+                        <subTitle>Legitimacy, Recognition, and the Challenge of Dealing with the Past in Divided Societies</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baumann, Marcel M.</displayForm>
+                        <namePart type="family">Baumann</namePart>
+                        <namePart type="given">Marcel M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Post-conflict societies which have achieved a cessation of violence and embarked on a political conflict transformation process cannot in the long-term avoid a process of dealing with the past. Case studies of South Africa and Northern Ireland confirm this normative claim, showing that within the post-war society as a whole a social consensus on how to &amp;ldquo;understand&amp;rdquo; and &amp;ldquo;recognize&amp;rdquo; the use of violence that occurred during the conflict is necessary: understanding the other&amp;rsquo;s &amp;ldquo;understanding&amp;rdquo; of violence. A mutual understanding must be reached that both sides fought a campaign that was just and legitimate from their own perspective. The morality of the &amp;ldquo;other&amp;rsquo;s violence&amp;rdquo; has to be recognized.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2796</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2796">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2796/2557" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2796" DMDID="DMD_biejournals_2796">
+            <mets:fptr FILEID="FILE0_biejournals_2796"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_189">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Flüchtlinge als Zielgruppe wissenschaftlicher Weiterbildung?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engel, Ole</displayForm>
+                        <namePart type="family">Engel</namePart>
+                        <namePart type="given">Ole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolter, Andrä</displayForm>
+                        <namePart type="family">Wolter</namePart>
+                        <namePart type="given">Andrä</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag geht der Frage nach, ob Flüchtlinge eine Zielgruppe  wissenschaftlicher  Weiterbildung  darstellen.  Nach einer  Eingrenzung  dieser  Gruppe  und  einem  Überblick über die zurzeit verfügbaren Datenquellen beschreibt er zunächst die Qualifikationsstruktur dieser Gruppe. Die Analysen zeigen eine deutliche Polarisierung: Während es eine große Gruppe von Flüchtlingen ohne Schul- und Berufsabschluss gibt, besteht auf der anderen Seite eine Gruppe von  20-25 %, die grundsätzlich ein Studium aufnehmen könnte, und von um die 10 %, die bereits studiert oder einen tertiären Bildungsabschluss erworben hat. Zugleich zeigt sich bei der Arbeitsmarktintegration  akademisch  qualifizierter  Flüchtlinge,  dass  lediglich  eine  kleine  Teilgruppe  tatsächlich  in hochqualifizierten  Berufen  tätig  ist,  während  der  Großteil Hilfstätigkeiten nachgeht. Auf dieser Grundlage werden zunächst die aktuellen Angebote der Hochschulen im Flücht-lingsbereich kurz zusammengefasst, um dann Möglichkeiten und  Chancen  der  wissenschaftlichen  Weiterbildung  zu  diskutieren, eine adäquate Arbeitsmarktintegration für akademisch qualifizierte Flüchtlinge zu fördern.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_189</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_189">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/189/178" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_189" DMDID="DMD_biejournals_189">
+            <mets:fptr FILEID="FILE0_biejournals_189"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

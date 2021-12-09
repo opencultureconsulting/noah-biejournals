@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_726">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Media and the Idle No More Movement</title>
+                        <subTitle>Citizenship, Activism and Dissent in Canada</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tupper, Jennifer</displayForm>
+                        <namePart type="family">Tupper</namePart>
+                        <namePart type="given">Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper, informed by a critique of traditional understandings of citizenship and civic education, explores the use of social media as a means of fostering activism and dissent. Specifically, the paper explores the ways in which the Idle No More Movement, which began in Canada in 2012 marshalled social media to educate about and protest Bill C-45, an omnibus budget bill passed by the Federal Government. The paper argues that Idle No More is demonstrative of young people’s commitments to social change and willingness to participate in active forms of dissent. As such, it presents opportunities for fostering ethically engaged citizenship through greater knowledge and awareness of Indigenous issues in Canada, which necessarily requires an understanding of the historical and contemporary legacies of colonialism that continually position First Nations, Métis, and Inuit peoples as ‘lesser’ citizens. Finally, the paper suggests that the example of Idle No More stands in contrast to the notion of a “civic vacuum” that is often used to justify the re-entrenchment of traditional civic education programs in schools and as such, can be used as a pedagogic tool to teach for and about dissent. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_726</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_726">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/726/785" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_726">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/726/786" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_726" DMDID="DMD_biejournals_726">
+            <mets:fptr FILEID="FILE0_biejournals_726"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_726" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_726"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

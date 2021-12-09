@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1243">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Preparing to Teach Democracy</title>
+                        <subTitle>Student Teachers’ Perceptions of the ‘Democracy Cake’ as a Set of Teaching Materials in Social Science Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mathé, Nora Elise Hesby</displayForm>
+                        <namePart type="family">Mathé</namePart>
+                        <namePart type="given">Nora Elise Hesby</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: Few studies have examined student teachers’ perceptions of teaching&amp;nbsp;materials on democracy. For the purpose of addressing how teacher education in social&amp;nbsp;science might contribute to student teachers’ qualifications for teaching democracy, this&amp;nbsp;study investigated student teachers’ perceptions of the ‘Democracy Cake’ as a set of&amp;nbsp;teaching materials for teaching democracy in social science education.
+Design/methodology/approach: This study relied on a survey and observations among&amp;nbsp;47 student teachers in a social science didactics course.
+Findings: Analyses of student teachers’ perceptions revealed concerns about teaching&amp;nbsp;social science concepts, engagement of secondary school students in classroom&amp;nbsp;discussions and the theoretical framing of the teaching materials.
+Research limitations: The study focused on 47 student teachers’ perceptions of a&amp;nbsp;particular set of teaching materials and may not be generalisable.
+Practical implications: This study indicates that social science teacher education might&amp;nbsp;benefit from involving student teachers in the examination of teaching materials.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1243</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1243">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1243/3906" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1243" DMDID="DMD_biejournals_1243">
+            <mets:fptr FILEID="FILE0_biejournals_1243"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

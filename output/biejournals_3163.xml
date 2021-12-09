@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3163">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Using Participatory Visual Methods in the Study of Violence Perceptions and Urban Space in Mexico</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cervantes, Natalia Garcia</displayForm>
+                        <namePart type="family">Cervantes</namePart>
+                        <namePart type="given">Natalia Garcia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The contribution investigates the experience of using visual participatory methods of data collection, auto-photography and community mapping, in the context of urban planning, violence and insecurity problems in Mexico. Two case studies examine peripheral communities in the cities of Aguascalientes and Culiacan where different manifestations of violence are present. The contribution explores the potential of participatory visual methods in capturing perceptions of violence and makes the case for their use in planning processes, as more appropriate methods are needed to capture perceptions of violence and insecurity in urban areas. The rationale, methods and results of community mapping and auto-photography are discussed, as well as some potential challenges and theoretical limitations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3163</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3163">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3163/3268" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3163" DMDID="DMD_biejournals_3163">
+            <mets:fptr FILEID="FILE0_biejournals_3163"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

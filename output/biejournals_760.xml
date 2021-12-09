@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“A Good Citizen is What You’ll Be”</title>
+                        <subTitle>Educating Khmer Youth for Citizenship in a United States Migrant Education Program</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>McGinnis, Theresa Ann</displayForm>
+                        <namePart type="family">McGinnis</namePart>
+                        <namePart type="given">Theresa Ann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Citizenship education is a complex and multidimensional construct. This article adds to the discussion of citizenship education by examining, ethnographically the ways the “vision” of a US Migrant Education Program is circulated through the program’s discourse practices to Khmer American children of migrant agricultural workers. The article does not discuss the formal legal status of citizenship, but the program coordinators’ beliefs about the skills and dispositions needed for the Khmer youth to become “good citizens.” Within the coordinators’ visions, the fixing of the youth’s perceived deficiencies drive the curriculum, and as such the full participation of the youth as active citizens is not achieved.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_760</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_760">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/760/828" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_760" DMDID="DMD_biejournals_760">
+            <mets:fptr FILEID="FILE0_biejournals_760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

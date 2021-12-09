@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2300">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mehr Masse statt Klasse? Die Bedeutung der Inflation von Beratungsformen für die Professionalisierung von Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bredemann, Miriam</displayForm>
+                        <namePart type="family">Bredemann</namePart>
+                        <namePart type="given">Miriam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-04-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Text geht zunächst der Frage nach, welche rahmenpolitischen, verbandspolitischen und dem Zeitgeist geschuldeten Ursachen zum Paradigmenwechsel von der reflexiven, an der Emanzipation des Menschen orientierten Supervision zum weitgehend den Interessen der Auftraggeber dienenden Instrumentalisierung der Supervision und anderer Beratungsformen verantwortlich waren. Die unzureichende Wissenschaftlichkeit der Aus- und Fortbildung werden als eine Ursache hierfür kritisch beleuchtet. Professionssoziologische Theorien werden als Arbeitsfolien angewendet. Der heutige Zustand der Supervision wird an den wissenschaftlichen Kernmerkmalen von Profession gemessen. Abschließend werden anhand dieser Merkmale nach der Einschätzung von Ulrich Oevermann und Gerhard Leuschner Alternativen zur Diskussion gestellt, die die Supervision vor einer weiteren Verwässerung und Verlust von Professionalisierung schützen könnte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2300</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2300">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2300/2277" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2300">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2300/2278" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2300" DMDID="DMD_biejournals_2300">
+            <mets:fptr FILEID="FILE0_biejournals_2300"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2300" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2300"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_701">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Political Response of Spanish Youth to the Socio-Economic Crisis</title>
+                        <subTitle>Some Implications for Citizenship Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jover, Gonzalo</displayForm>
+                        <namePart type="family">Jover</namePart>
+                        <namePart type="given">Gonzalo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Montoro, Maria Belando</displayForm>
+                        <namePart type="family">Montoro</namePart>
+                        <namePart type="given">Maria Belando</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Guio, Yolanda</displayForm>
+                        <namePart type="family">Guio</namePart>
+                        <namePart type="given">Yolanda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article discusses the effects of the current socio-economic crisis on Spanish youth and their political response to it. It does so in three consecutive stages. In the first, it analyses the repercussion of the crisis on young people using information from certain social indicators (employment, mobility and education). It then outlines the subjective perception of the crisis, i.e., how they are experiencing it and what their hopes are regarding the economy and politics. The third part focuses on how young citizens have responded to the situation politically. The article finishes by considering what implications may be drawn from that response in terms of citizenship education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_701</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_701">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/701/757" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_701" DMDID="DMD_biejournals_701">
+            <mets:fptr FILEID="FILE0_biejournals_701"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1872">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pilot scheme assessment</title>
+                        <subTitle>Health development program for students at dormitories</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sirin, Hulya</displayForm>
+                        <namePart type="family">Sirin</namePart>
+                        <namePart type="given">Hulya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karasahin, Emine Fusun</displayForm>
+                        <namePart type="family">Karasahin</namePart>
+                        <namePart type="given">Emine Fusun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tezel, Basak</displayForm>
+                        <namePart type="family">Tezel</namePart>
+                        <namePart type="given">Basak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ozbas, Sema</displayForm>
+                        <namePart type="family">Ozbas</namePart>
+                        <namePart type="given">Sema</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Keskinkilic, Bekir</displayForm>
+                        <namePart type="family">Keskinkilic</namePart>
+                        <namePart type="given">Bekir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ozkan, Secil</displayForm>
+                        <namePart type="family">Ozkan</namePart>
+                        <namePart type="given">Secil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-05-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: This study, conducted in Turkey, aims to increase the practicability of health counselling and protective services offered to young people in the long term. In the short term, it is aimed to determine health counselling needs of students at dormitories and it might enlighten researchers working in this field.Methods: A pilot questionnaire, developed in order to determine health needs of students staying at dormitories, was conducted in two dormitories in Ankara. Focus group interviews were done, also. After that, in nine dormitories from nine provinces from all over the Turkey, questionnaire and health screening tests were applied to 5,852 volunteers.Results: The common topics for both sexes which students would like to receive counselling are nutrition and anxiety about exams.Conclusion: As a result of the study, service has been planned for the identified needs of the students.  </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1872</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1872">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1872/1792" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1872" DMDID="DMD_biejournals_1872">
+            <mets:fptr FILEID="FILE0_biejournals_1872"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

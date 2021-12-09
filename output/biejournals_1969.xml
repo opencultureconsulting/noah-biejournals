@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1969">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entstehung und überblicksartige Darstellung der Profile</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ohm, Udo</displayForm>
+                        <namePart type="family">Ohm</namePart>
+                        <namePart type="given">Udo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>vom Hofe, Rudolf</displayForm>
+                        <namePart type="family">vom Hofe</namePart>
+                        <namePart type="given">Rudolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die in dieser Veröffentlichung dargestellten fachdidaktischen Profile Forschenden Lernens (FLs) wurden anhand von Leitfragen entwickelt, welche die am Cluster beteiligten Fächer in Workshops gemeinsam erarbeitet haben. Ziel war es, Gemeinsamkeiten und Spezifika der Zugänge zum FL auszuloten. Neben den zu erwartenden Unterschieden zeigten sich auch eine Reihe von Überschneidungen und Verknüpfungsmöglichkeiten zwischen den fachdidaktischen Ansätzen FLs. So werden in den Profilen als bevorzugte Forschungskontexte die Wirkungsforschung, die wissenschaftliche Begleitforschung und empirisch ausgerichtete Qualifikationsarbeiten in den Studiengängen genannt. Hinsichtlich der Bereiche, in denen das FL eine besondere Wirksamkeit entfalten kann, wird auf den Abgleich von Theorie und Praxis, auf das theoriebasierte Reflektieren, auf die Entwicklung eines forschenden Habitus und auf die Ausbildung von Professionalität verwiesen. Eine Reihe von Fachdidaktiken hebt dabei die Notwendigkeit hervor, das Verhältnis von Theorie und Praxis wahrzunehmen und zu reflektieren. Vielfach werden problem- und studierendenzentrierte Ansätze verfolgt. Häufig wird das FL auch mit dem Durchlaufen der wesentlichen Schritte eines Forschungsprozesses identifiziert. Die Fachdidaktiken begründen ihre Ansätze mit Verweis auf einschlägige didaktische Fachliteratur und wissenschaftliche Veröffentlichungen angrenzender Fächer. Die Mehrzahl der Fachdidaktiken verortet sich zudem in spezifischen Theorierahmen. Es kann festgehalten werden, dass Synergien zwischen den Fachdidaktiken vor allem dort entstehen, wo es um die Anbahnung eines kritisch-reflexiven Habitus und einer anwendungsbezogenen Forschungskompetenz geht. Hinsichtlich der praktischen Umsetzung FLs im Praxissemester wird auf konkrete Arbeitshilfen sowie Angebote im Bereich Fortbildung und Beratung verwiesen. Vereinzelt wird auch auf gemeinsame Forschungsperspektiven Bezug genommen. So wird angeregt, sowohl domänenspezifische als auch domänenübergreifende Lehr-/Lern- und Forschungsbündnisse zu bilden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1969</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1969">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1969/3560" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1969" DMDID="DMD_biejournals_1969">
+            <mets:fptr FILEID="FILE0_biejournals_1969"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

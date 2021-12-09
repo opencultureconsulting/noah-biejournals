@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1840">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Launch of the ‘One Health Global Think-Tank  for Sustainable Health &amp; Well-being’ – 2030 (GHW-2030)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lueddeke, George</displayForm>
+                        <namePart type="family">Lueddeke</namePart>
+                        <namePart type="given">George</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nurse, Joanna</displayForm>
+                        <namePart type="family">Nurse</namePart>
+                        <namePart type="given">Joanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The central mission of the GHW-2030 multi-sectoral think tank is to contribute to the implementation of the UN Sustainable Development Goals (SDGs) by working toward achieving the education and health goals in cooperation with the Commonwealth Secretariat using an international interdisciplinary/multidisciplinary/transdisciplinary global One Health approach. A major focus of the think tank will be on the health and well-being – physical, emotional, aspirational – of children and young people particularly as these relate to their personal security, physical and emotional well-being, education and employment and the sustainability of life on the planet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1840</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1840">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1840/1761" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1840" DMDID="DMD_biejournals_1840">
+            <mets:fptr FILEID="FILE0_biejournals_1840"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

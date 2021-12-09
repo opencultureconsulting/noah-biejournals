@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2931">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>States Must Be Crazy</title>
+                        <subTitle>Dissent and the Puzzle of Repressive Persistence</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Davenport, Christian</displayForm>
+                        <namePart type="family">Davenport</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Loyle, Cyanne</displayForm>
+                        <namePart type="family">Loyle</namePart>
+                        <namePart type="given">Cyanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-04-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">According to forty years worth of research, dissent always increases repression whereas state coercive behavior has a range of different influences on dissident activity. If the outcome of government action is uncertain, why do authorities continue to apply repression? We explore this “puzzle of repressive persistence” using official records of U.S. government activities against the Republic of New Africa, a Black Nationalist organization active in the late 1960s and early 1970s. In particular, we investigate three proposed answers to the puzzle: repression is effective but in a way not currently considered; repression functions by mechanisms not hitherto considered by quantitative researchers; or those who use repression are not actually interested in eliminating dissent. We find that persistence in this case can be attributed to: 1) a long-term plan to eliminate challengers deemed threatening to the U.S. political-economy and 2) the influence of particular agents of repression engaged in a crusade against Black radicals. Both factors increased the likelihood of continued coercion despite short-term failure; indeed such an outcome actually called for additional repressive action. These insights open up a new area of research for conflict scholars interested in occurrence, persistence and escalation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2931</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2931">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2931/pdf_51" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2931">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2931/2805" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2931" DMDID="DMD_biejournals_2931">
+            <mets:fptr FILEID="FILE0_biejournals_2931"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2931" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2931"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

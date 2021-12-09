@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2135">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexive Supervision als theoretischer Ansatz - Entwicklungslinien und praktische Begründung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag erinnert an die Anfänge der Supervision in Deutschland und an eine Generation von Supervisoren, die mit den Zuständen in der Pädagogik und Sozialen Arbeit nicht mehr einverstanden und deutlich am Aufbau einer demokratischen Gesellschaft interessiert waren. Von hier werden theoretische Fragen und Forschungslinien aufgezeigt, die für eine Theorie der Supervision genutzt werden können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2135</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2135">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2135/2002" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2135" DMDID="DMD_biejournals_2135">
+            <mets:fptr FILEID="FILE0_biejournals_2135"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

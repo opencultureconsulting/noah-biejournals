@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2194">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mentalitätswandel in der sozialen Arbeit - Perspektiven für die Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riehn-Casarrubia, Barbara</displayForm>
+                        <namePart type="family">Riehn-Casarrubia</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Innovativ, effizient und kundenorientiert zu sein, damit werben aktuell viele Träger sozialer Dienstleistungsunternehmen. Ein Übergang von wohlfahrtsstaatlicher zu neoliberaler Gouvernementalität hat stattgefunden. Die Position und Funktion von Sozialpolitik und sozialen Dienstleistungen wurde als Folge neu definiert. Inspiriert von Michel Foucault reflektiere ich im Folgenden darüber, unter welchen gesellschaftlichen Bedingungen sich soziale Trägerorganisationen von wertorientierten Non-Profit-Organisationen zu wettbewerbsfähigen Dienstleistungsunternehmen gewandelt haben. Ausführlich setze ich mich hier mit dem Problem der Arbeitszeit auseinander, das sich meines Erachtens gut eignet, um diesen Wandel zu diskutieren. Ich gehe der Frage nach, mit Hilfe welcher Diskurse, Praktiken und Mechanismen Möglichkeiten eröffnet wurden, diese Transformation durch zu setzen und formuliere schließlich die Fragen, derer sich Soziale Arbeit u.a. in supervisorischen Reflexionsräumen nicht entziehen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2194</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2194">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2194/2081" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2194">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2194/2082" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2194" DMDID="DMD_biejournals_2194">
+            <mets:fptr FILEID="FILE0_biejournals_2194"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2194" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2194"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

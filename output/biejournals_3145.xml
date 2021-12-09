@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3145">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lesen Lehramtsstudierende wissenschaftliche Evidenz anders als Lehrerbildner?</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Do student teachers read scientific evidence differently from teacher educators?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rochnia, Michael</displayForm>
+                        <namePart type="family">Rochnia</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Casale, Gino</displayForm>
+                        <namePart type="family">Casale</namePart>
+                        <namePart type="given">Gino</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jansen, Nina</displayForm>
+                        <namePart type="family">Jansen</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rieser, Svenja</displayForm>
+                        <namePart type="family">Rieser</namePart>
+                        <namePart type="given">Svenja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Trempler, Kati</displayForm>
+                        <namePart type="family">Trempler</namePart>
+                        <namePart type="given">Kati</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streckel, Jennifer</displayForm>
+                        <namePart type="family">Streckel</namePart>
+                        <namePart type="given">Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Wissen über aktuelle bildungswissenschaftliche Erkenntnisse stellt einen zentralen Aspekt der professionellen Kompetenz von Lehrkräften dar. Die Vermittlung von bildungswissenschaftlicher Evidenz an Lehramtsstudierende ist somit eine wesentliche Herausforderung für die Lehrer*innenbildung. Adaptierte wissenschaftliche Artikel sind eine Möglichkeit, dieser Herausforderung zu begegnen. Die vorliegende explorative Studie analysiert das Potenzial adaptierter wissenschaftlicher Artikel zur Vermittlung von Evidenz aus den Bildungswissenschaften, indem die Leseprozesse von Studierenden des Lehramts (n = 5) und Lehrerbildner*innen (n = 5) mittels Eye Tracking verglichen werden. So soll geprüft werden, ob sich Studierende in ihrem Leseprozess von den Lehrerbilder*innen unterscheiden, um ausgehend davon hochschuldidaktische Implikationen für ein verbessertes Verständnis des Rezeptionsprozesses ableiten zu können. Die Ergebnisse deuten darauf hin, dass der Leseprozess bei beiden Gruppen ähnlich verläuft, aber unterschiedliche Schwerpunkte aufweist. Lehrerbildner*innen lesen eher szientifisch, der Leseprozess von Studierenden kann als eher praxeologisch bezeichnet werden; allerdings bedürfen diese ersten explorativen Befunde weiterer empirischer Fundierung. Zukünftige Studien sollten ebenfalls prüfen, welcher Leseprozess zu einem effektiveren Wissensaufbau führt und durch welche hochschuldidaktischen Methoden sich effizientere Leseprozesse bei Lehramtsstudierenden fördern ließen.</abstract>
+                    <abstract lang="eng">In the course of evidence-based teaching, the Clearing House aims to communicate evidence to practitioners through short reviews that summarize meta-analyses. In the following, our studies will examine the potential of these short reviews for professionalization in the field of education by means of eye tracking.
+The results from students (n = 5) and teacher educators (n = 5) show that the reading process is similar for both groups, but with different emphases. Finally, implications for teacher training and potential directions for future research projects are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3145</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3145">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3145/3725" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3145">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3145/3726" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3145" DMDID="DMD_biejournals_3145">
+            <mets:fptr FILEID="FILE0_biejournals_3145"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3145" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3145"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

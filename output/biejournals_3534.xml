@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3534">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Standards – Margins – New Horizons</title>
+                        <subTitle>Einleitung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schildhauer, Peter</displayForm>
+                        <namePart type="family">Schildhauer</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sauer, Jochen</displayForm>
+                        <namePart type="family">Sauer</namePart>
+                        <namePart type="given">Jochen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröder, Anne</displayForm>
+                        <namePart type="family">Schröder</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Ausgehend von den Befunden der New London Group, die tiefgreifende Veränderungen im Arbeitsleben, im Privatleben und im öffentlichen Leben in der westlichen Gesellschaft feststellte, widmet sich der Sammelband der Frage, wie Fremdsprachenunterricht im 21. Jahrhundert in den neuen und alten Sprachen gestaltet werden soll. Im Vordergrund stehen die Fragen, auf welche Weise Lernende auf die zunehmend komplexen kommunikativen Herausforderungen vorbereitet werden können, die eine kulturell diversifizierte Welt bietet, und wie gleichzeitig einer (wachsenden) Heterogenität von Lerngruppen Rechnung getragen werden kann. Die vierzehn Beiträge sind in sechs Sektionen untergliedert: Sprachbildung; Sprachliche Vielfalt; Mehrsprachigkeit und Interkulturalität; Rezeption von Literatur, Kultur und Medialität; Literatur, Religion und Musik in heterogenen Lerngruppen; Digitalität, Digitalisierung und digitaler Wandel. Die Themenfelder werden im Dialog zwischen Neu- und Altphilologien (v.a. Anglistik und Latein, aber auch Romanistik) sowie der Musikpädagogik behandelt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3534</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3534">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3534/3677" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3534" DMDID="DMD_biejournals_3534">
+            <mets:fptr FILEID="FILE0_biejournals_3534"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

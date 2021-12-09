@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1749">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Habitatwahl von Mauerasseln und Kellerasseln</title>
+                        <subTitle>Wissenschaftliche Arbeitsweisen an einem konkreten Beipsiel vermitteln</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kureck, Ilka</displayForm>
+                        <namePart type="family">Kureck</namePart>
+                        <namePart type="given">Ilka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Witte, Klaudia</displayForm>
+                        <namePart type="family">Witte</namePart>
+                        <namePart type="given">Klaudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die eigenständige Planung, Durchführung, Auswertung und Interpretation eines Experimentes eignet sich besonders gut für Lernende die Vorgehensweise des wissenschaftlichen Arbeitens zu erproben und zu verstehen. Mit diesem Artikel möchten wir den Lehrkräften mit Hilfe eines einfachen Experimentes alle Schritte des wissenschaftlichen Arbeitens aufzeigen und ihnen Material für den Unterricht (auch als Online-Videomaterial) zur Verfügung stellen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1749</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1749">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1749/3535" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1749">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1749/3536" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" ID="FILE2_biejournals_1749">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1749/3537" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE3_biejournals_1749">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1749/3538" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE4_biejournals_1749">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1749/3539" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1749" DMDID="DMD_biejournals_1749">
+            <mets:fptr FILEID="FILE0_biejournals_1749"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1749" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1749"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1749" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1749"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_1749" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_1749"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_1749" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_1749"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

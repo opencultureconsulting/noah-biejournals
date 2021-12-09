@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3898">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Klein, aber Aha! – Reflexionsschema zur Videoanalyse geplanter Experimentiereinheiten von Studierenden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Franken, Nadine</displayForm>
+                        <namePart type="family">Franken</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preisfeld, Angelika</displayForm>
+                        <namePart type="family">Preisfeld</namePart>
+                        <namePart type="given">Angelika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird beschrieben, wie Studierende der Fächer Biologie, Chemie und Sachunterricht Videoanalysen eigener geplanter Experimentiereinheiten im Vorbereitungsseminar zum Praxissemester durchgeführt haben. Dazu wurde ein existierendes Reflexionsschema modifiziert und eingesetzt, welches die Videoanalyse der Studierenden schrittweise unterstützte. Dieses Reflexionsformat leitet Studierende dazu an, anhand ausgewählter Videosequenzen auftretende Erschwernisse beim Experimentieren wahrzunehmen und zu identifizieren. Darauf folgen die Analyse der Situation und das Durchdenken, wie es zu den Schwierigkeiten gekommen sein könnte. Anschließend entwickeln die Studierenden mit Bezug zur Theorie Handlungsoptionen, um solche Eventualitäten zukünftig bereits bei der Planung von Experimentalunterricht zu antizipieren und, für einen reibungslosen Experimentierprozess, bestenfalls zu verhindern.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3898</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3898">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3898/3882" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3898" DMDID="DMD_biejournals_3898">
+            <mets:fptr FILEID="FILE0_biejournals_3898"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

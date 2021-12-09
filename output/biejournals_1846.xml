@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1846">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Trajectories of life satisfaction during one-year period among university students</title>
+                        <subTitle>Relations with measures of achievement strategies and perception of criteria for adulthood</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Piumatti, Giovanni</displayForm>
+                        <namePart type="family">Piumatti</namePart>
+                        <namePart type="given">Giovanni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-03-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of this study was to examine how university students’ achievement strategies in an academic context and perceptions of criteria for adulthood relate to life satisfaction trajectories across one year.Methods: A convenience sample of 143 young adults 18-28 years (mean age: 20.9±2.7 years; 109 females and 34 males) attending the University of Turin in northwest Italy completed questionnaires at three points with a six-month interval between each measurement. Latent Growth Curve Modelling and Latent Class Growth Analysis were used to assess longitudinal changes in life satisfaction and the related heterogeneity within the current sample.Results: Three trajectories of life satisfaction emerged: high stable (37%), moderate decreasing (57%), and low stable (6%). At every time point high success expectations were related to a high stable life satisfaction trajectory. In turn, those adopting achievement avoidance strategies were more likely to have low-stable or moderately decreasing life satisfaction trajectories. The perception of the criteria deemed important to be defined as adults did not change across time points or across life satisfaction trajectories’ groups.Conclusion: These findings suggest that self-reported measures of achievement strategies among university students relate longitudinally to life satisfaction levels. Positive and optimistic dimensions of personal striving may be protective factors against the risk of decrease of life satisfaction among university students.   </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1846</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1846">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1846/1767" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1846" DMDID="DMD_biejournals_1846">
+            <mets:fptr FILEID="FILE0_biejournals_1846"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3078">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violent Caracas. A Socio-economic and Political Approach to Understand Urban Violence in Contemporary Venezuela</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tremaria Adan, Stiven</displayForm>
+                        <namePart type="family">Tremaria Adan</namePart>
+                        <namePart type="given">Stiven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The worrisome panorama of increasing homicide rates in Venezuela requires to review critically the different theoretical approaches that explain the roots of violent crime in Latin American urban conglomerates. Such paradigms, based on the relationship among violence and inequality, exclusion, and social marginalization, seem to be inaccurate to comprehend the scope and dimensions of the problem in contemporary Venezuela. An alternative approach suggests to review the socio-political causes of violence in polarized societies, such as it is observable in the selected case during the Hugo Chávez&apos;s government (1999-2013). The research focuses on the city of Caracas, as epicenter of the political life of the country, and where the highest levels of socio-economic segregation, urban poverty, and violent crime are observable. A historical, theoretical, and empirical analysis is presented to describe the process of transformation of Caracas in an extremely violent city; to further delve into the explanations of the origins and causes of urban violence in Venezuela, from a combined approach which links violent crime with inequality and social exclusion, and with political legitimacy and social polarization during the Bolivarian Revolution times.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3078</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3078">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3078/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3078">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3078/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3078">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3078/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3078" DMDID="DMD_biejournals_3078">
+            <mets:fptr FILEID="FILE0_biejournals_3078"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3078" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3078"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3078" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3078"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

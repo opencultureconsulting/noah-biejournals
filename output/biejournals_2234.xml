@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2234">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Scham als verborgenes Problem in der Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Friesel-Wark, Heike</displayForm>
+                        <namePart type="family">Friesel-Wark</namePart>
+                        <namePart type="given">Heike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Scham - als allgegenwärtiges, alltägliches Phänomen unseres sozialen Miteinanders - kommt im beruflichen Kontext eine besondere Bedeutung zu. Hierarchische Strukturen, das Sichtbarwerden und schließlich die Beurteilung der eigenen Leistungsfähigkeit können Abhängigkeitsâ€&#144; und Unterlegenheitsgefühle auslösen, insbesondere dann, wenn die Scham eine deutliche Diskrepanz von Ichâ€&#144;Ideal und Ich signalisiert. Schamkonflikte begegnen dem Supervisor/der Supervisorin daher in vielfältiger Weise. Gleichzeitig kann das Supervisionssetting selbst Quelle von Scham sein. Bereits die Inanspruchnahme von Hilfe und das damit einhergehende Eingeständnis, in einem wesentlichen Lebensbereich der Unterstützung zu bedürfen, löst bei vielen Menschen Abhängigkeitsâ€&#144; und Inkompetenzscham aus. Da sich Schamkonflikte und Gefühle von Unterlegenheit in der Regel in Anwesenheit von Zeugen verstärken, fokussiert der vorliegende Artikel besonders auf die Bedeutung schaminduzierender Settings, Rahmenbedingungen und Vorgehensweisen im Kontext von Gruppenâ€&#144; und Teamsupervision. Bei der Regulierung von Schamaffekten kommt dabei dem Supervisor eine maßgebliche und aktive Rolle zu.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2234</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2234">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2234/2145" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2234">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2234/2146" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2234" DMDID="DMD_biejournals_2234">
+            <mets:fptr FILEID="FILE0_biejournals_2234"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2234" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2234"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

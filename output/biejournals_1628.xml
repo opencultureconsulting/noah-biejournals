@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1628">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Mehr als nur Bestäubung“ – Schülervorstellungen zur Bestäubungsbiologie und deren Implikationen für den Unterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lampert, Peter</displayForm>
+                        <namePart type="family">Lampert</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pany, Peter</displayForm>
+                        <namePart type="family">Pany</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Scheuch, Martin</displayForm>
+                        <namePart type="family">Scheuch</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heidinger, Christine</displayForm>
+                        <namePart type="family">Heidinger</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kiehn, Michael</displayForm>
+                        <namePart type="family">Kiehn</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kapelari, Suzanne</displayForm>
+                        <namePart type="family">Kapelari</namePart>
+                        <namePart type="given">Suzanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZUSAMMENFASSUNGDer Prozess der Bestäubung stellt einen wichtigen Abschnitt in der sexuellen Vermehrung höherer Pflanzen dar und ist auch essentiell für das Verständnis der Vielfalt der Blütenpflanzen. Darüber hinaus wird  der Bestäubungsbiologie aufgrund der aktuellen Diskussionen rund um das Bienensterben eine besondere Aktualität beigemessen. Eine Erforschung der Schülervorstellungen zu diesem Thema ist somit von großem fachdidaktischem Interesse. In der vorliegenden qualitativen Studie wurden deshalb Schülervorstellungen von sieben Schüler_innen der 5. Schulstufe zur Bestäubungsbiologie mithilfe von leitfadenorientierten Interviews erhoben und in einer qualitativen Inhaltsanalyse ausgewertet. Die Ergebnisse zeigen, dass Lernende nur mangelhaft zwischen Bestäubung und Samenausbreitung unterscheiden und Bestäu-bung häufig als beabsichtigte Handlung der Insekten sehen. Außerdem zeigen die Vorstellungen über den Zusammenhang von Blüten und Besuchern, dass bereits zu Beginn der 5. Schulstufe Vorstellungen zu Anpassung und Angepasstheit vorhanden sind, die im Unterricht zur Evolution berücksichtigt werden müssen. Diese erhobenen Schülervorstellungen werden mit der fachlichen Perspektive in Beziehung gesetzt und daraus ableitbare fachdidaktische Implikationen diskutiert.ABSTRACTThe process of pollination plays a major role in the lifecycle of plants and is important for understanding the variety of flowering plants. Pollination is also a current issue due to the colony collapse disorder of honeybees. Therefore, investigating students’ conceptions about pollination is highly relevant. The present study investigates conceptions of seven students from 5th grade using guided interviews with regard to pollination biology. Results show that students have serious difficulties differentiating between pollination and seed dispersal. Furthermore, there are differences between students’ conceptions and scientific con-ceptions as students often see pollination as a deliberate act of insects. Students’ conceptions about adaptations of flowers and their pollinators indicate that students’ from 5th grade use evolutionary conceptions which have to be considered when teaching evolution. Students’ conceptions will be discussed in relation to the scientific perspective to derive implications for teaching.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1628</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1628">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1628/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_1628">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1628/1566" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1628" DMDID="DMD_biejournals_1628">
+            <mets:fptr FILEID="FILE0_biejournals_1628"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1628" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1628"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

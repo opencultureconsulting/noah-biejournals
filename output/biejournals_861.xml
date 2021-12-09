@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_861">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civic Education under Pressure? A Case Study from an Austrian School</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Breitfuss, Judith</displayForm>
+                        <namePart type="family">Breitfuss</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schild, Isabella</displayForm>
+                        <namePart type="family">Schild</namePart>
+                        <namePart type="given">Isabella</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">When the politician Roman Haider of the party Freiheitliche Partei Österreichs (FPÖ – Freedom Party of Austria) caused the interruption of a lecture about political extremism in an Austrian school in spring 2017, a heated debate erupted over the place of politics in school education. While Haider accused the lecturer of political propaganda, teachers, students and political opponents were upset about this seeming act of censorship. The controversy raises important questions over the aims and principles of civic education, which will continue to engage teachers and educationalists. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_861</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_861">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/861/980" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_861">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/861/981" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_861" DMDID="DMD_biejournals_861">
+            <mets:fptr FILEID="FILE0_biejournals_861"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_861" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_861"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

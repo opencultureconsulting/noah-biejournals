@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2913">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Preventing Child Behavior Problems in the Erlangen-Nuremberg Development and Prevention Study</title>
+                        <subTitle>Results from Preschool to Secondary School Age</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lösel, Friedrich</displayForm>
+                        <namePart type="family">Lösel</namePart>
+                        <namePart type="given">Friedrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stemmler, Mark</displayForm>
+                        <namePart type="family">Stemmler</namePart>
+                        <namePart type="given">Mark</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A brief overview of the prevention part of the long-term Erlangen-Nuremberg Development and Prevention Study, which combines a prospective longitudinal&amp;nbsp;and experimental design. Findings up to five years after intervention are reported. From a sample of 609 families with kindergarten children, subgroups participated&amp;nbsp;in the universal prevention program EFFEKT (child social skills training, a parent training and a combination of both) or were assigned to equivalentcontrol groups. The short-term evaluation showed significant effects in mediating constructs (social problem solving and parenting behavior) and in educators&amp;rsquo;&amp;nbsp;ratings of children&amp;rsquo;s social behavior. In a follow-up after two to three years, school report cards showed fewer children with multiple behavior problems. In a&amp;nbsp;further follow up after four to five years program children reported fewer externalizing and internalizing problems than the control group. There were no significant&amp;nbsp;effects in the mothers&amp;rsquo; reports on their children&amp;rsquo;s behavior. Most significant effect sizes ranged between d = 0.20 and d = 0.40. The findings suggest&amp;nbsp;various positive long-term effects of the intervention. However, one need to be cautious with regard to over-generalizing the positive findings, because effect&amp;nbsp;sizes vary over time and the positive findings could not be replicated in all investigated variables.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2913</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2913">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2913/pdf_70" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2913">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2913/2769" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2913" DMDID="DMD_biejournals_2913">
+            <mets:fptr FILEID="FILE0_biejournals_2913"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2913" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2913"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

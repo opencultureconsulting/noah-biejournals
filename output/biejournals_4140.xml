@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4140">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Dann gehe ich sie jetzt zurückholen.“</title>
+                        <subTitle>(Nicht-)Zuständigkeit im Alltag außerhalb des Unterrichts in inklusiven Settings mit Schulassistenz als Gegenstand von Fallarbeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Geese, Natalie</displayForm>
+                        <namePart type="family">Geese</namePart>
+                        <namePart type="given">Natalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weinbach, Hanna</displayForm>
+                        <namePart type="family">Weinbach</namePart>
+                        <namePart type="given">Hanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dass Schule nicht nur ein Ort ist, an dem Kinder curricular vorgegebene Inhalte lernen, ist eine grundlegende Einsicht, die zur biographischen Erfahrung all derjenigen gehört, die selbst einmal in der Schule waren (Zinnecker, 1978). Sie bildet den Ausgangspunkt für die Arbeit mit dem in diesem Beitrag vorgestellten Material, das den Fokus darauf richtet, wie Schüler*innen und pädagogisches Personal das alltägliche soziale Miteinander im schulischen Geschehen in inklusiven Settings mit Schulassistenz außerhalb des Unterrichts gestalten. Das Material ist für die Fallarbeit im Rahmen der Aus-, Fort- und Weiterbildung von derzeitigen oder zukünftigen Angehörigen multiprofessioneller Teams konzipiert. Im Horizont der Diskussionen um die Zusammenarbeit von Lehrkräften, Sonderpädagog*innen, Sozialarbeiter*innen, Erzieher*innen und Assistent*innen in inklusiven Ganztagsschulen (Werning &amp;amp; Urban, 2014; Demmer &amp;amp; Hopmann, 2020) kann es insbesondere zur Reflexion von Fragen der (Nicht-)Zuständigkeit schulischer Akteursgruppen (Kunze, 2018; Kunze &amp;amp; Silkenbeumer, 2018) eingesetzt werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4140</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4140">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4140/4129" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4140">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4140/4130" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4140" DMDID="DMD_biejournals_4140">
+            <mets:fptr FILEID="FILE0_biejournals_4140"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4140" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4140"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

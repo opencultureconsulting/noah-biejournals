@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1784">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sexual health knowledge, attitude and risk perception among in-school and out-of-school female adolescents in Onitsha, Anambra State, Nigeria</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Adogu, Prosper</displayForm>
+                        <namePart type="family">Adogu</namePart>
+                        <namePart type="given">Prosper</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Udigwe, Ifeoma</displayForm>
+                        <namePart type="family">Udigwe</namePart>
+                        <namePart type="given">Ifeoma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nwabueze, Achunam</displayForm>
+                        <namePart type="family">Nwabueze</namePart>
+                        <namePart type="given">Achunam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adinma, Echendu</displayForm>
+                        <namePart type="family">Adinma</namePart>
+                        <namePart type="given">Echendu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Udigwe, Gerald</displayForm>
+                        <namePart type="family">Udigwe</namePart>
+                        <namePart type="given">Gerald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Onwasigwe, Chika</displayForm>
+                        <namePart type="family">Onwasigwe</namePart>
+                        <namePart type="given">Chika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Young people need protective information and skills in order to reduce the riskassociated with unsafe sex. This study assessed and compared the sexual health knowledge, attitude and risk perception of in-school and out-of-school female unmarried adolescents in Onitsha North Local Government Area, Anambra State, Nigeria.Methods: A comparative cross-sectional design was used in which 391 in-school female adolescents (mean age: 15.9±1.4 years ) were selected from 25 private and 17 public schools in Onitsha North Local Government Area, Anambra State, Nigeria using multistage sampling method. A comparison group of 392 out-of school female adolescents (mean age: 15.5±2.5 years) was also selected from a major market in the same Local Government Area using cluster sampling technique. Data was collected from the respondents with pre-tested, interviewer-administered questionnaires on reproductive and sexual health knowledge, risk perception and attitude, sexual behaviour, contraceptive knowledge and sources of sexual health information.Results: In-school girls demonstrated better knowledge of sexual and reproductive health compared to their out-of-school counterparts. The awareness of fertile period, contraception methods, STI and HIV transmission and prevention were all significantly better among the in-school adolescents compared to their out-of-school counterparts (P&amp;lt;0.05). They also had markedly higher risk perception of getting pregnant (P&amp;lt;0.05) or acquiring HIV infection (P&amp;lt;0.05) compared to their out-of-school counterparts.Conclusion: About 21% of adolescents in this study area were involved in risky sexualbehaviour and this was higher among the out-of-school adolescents than their in-school counterparts. All stakeholders in the state and the Local Government Area should come together and develop interventions that would improve the sexual health knowledge and sexual risk perception of the adolescents.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1784</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1784">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1784/1705" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1784" DMDID="DMD_biejournals_1784">
+            <mets:fptr FILEID="FILE0_biejournals_1784"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

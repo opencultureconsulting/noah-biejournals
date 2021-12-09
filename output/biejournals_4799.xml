@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4799">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Athena SWAN Process to Promote Gender Equity in Third-Level Education in Ireland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Houghton, Frank</displayForm>
+                        <namePart type="family">Houghton</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-12</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Introduction: Sexism and misogyny remains an ongoing threat to optimal health and medical services. An important factor in health and medical services is the education and training pipeline into these careers. A substantial body of literature demonstrates the impacts of sexism in third-level education and training institutions developing future health service staff. Athena SWAN accreditation is a benchmark designed to counter such institutional and individual sexist practices in education settings to foster equality. In recent years the Athena SWAN process has expanded to include professional and administrative staff, as well as academics. This process has also evolved to move beyond a narrow focus on gender, to also include other crucial issues such as race, sexuality and gender identity.
+Methods: This examination is based on the author’s role as a participant observer and critiques the Athena SWAN process in an Institute of Technology in Ireland.
+Results: This examination identifies a substantial number of deficits in the Athena SWAN process, as well as also identifying institutional resistance strategies to such gender equality work.
+Conclusion: The current Athena SWAN process in Ireland is critically flawed. Suggested strategies for those engaged in such work into the future are outlined.
+Conflict of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4799</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4799">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4799/4510" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4799" DMDID="DMD_biejournals_4799">
+            <mets:fptr FILEID="FILE0_biejournals_4799"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1975">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Bielefelder Profil Forschenden Lernens im Fachgebiet Deutsch als Zweitsprache</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zörner, Anika</displayForm>
+                        <namePart type="family">Zörner</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ohm, Udo</displayForm>
+                        <namePart type="family">Ohm</namePart>
+                        <namePart type="given">Udo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Seit einigen Jahren nimmt das Forschende Lernen als hochschuldidaktisches Prinzip in der Diskussion um die Professionalisierung von angehenden Lehrkräften einen zentralen Stellenwert ein. Der Beitrag beschäftigt sich mit der spezifischen Ausgestaltung Forschenden Lernens im Fachgebiet Deutsch als Zweitsprache am Universitätsstandort Bielefeld. Fokussiert werden insbesondere die fachspezifischen Voraussetzungen in Abgrenzung zu anderen an der Lehramtsausbildung beteiligten Fächern, die theoretische Verortung im Rahmen des soziokulturellen Paradigmas (u.a. Vygotskij, 2002/1934) sowie die theoretische Fundierung im pragmatistischen Forschungsbegriff nach Dewey (u.a. Dewey, 1991/1938). Des Weiteren werden didaktische Umsetzungen Forschenden Lernens im Rahmen des Moduls Deutsch als Zweitsprache in ihren Möglichkeiten und Grenzen diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1975</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1975">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1975/3564" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1975" DMDID="DMD_biejournals_1975">
+            <mets:fptr FILEID="FILE0_biejournals_1975"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

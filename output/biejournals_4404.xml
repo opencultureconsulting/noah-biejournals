@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4404">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Systematisch, praktisch, gut? Forschendes Lernen im Gemenge der Praxen und des (Nicht-)Wissens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwier, Volker</displayForm>
+                        <namePart type="family">Schwier</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Professionalität von Lehramtsstudierenden soll sich im Praxissemester entwickeln, indem wissenschaftsbezogene Inhalte des Studiums mit berufsbezogenen Anforderungen der Schule vermittelt werden. Aber mit welcher Praxis bekommt es die universitäre Lehrer*innenbildung dabei zu tun? Während Praxis in Schule und Unterricht besondere Aufmerksamkeit erfährt, wird leicht übersehen, dass auch über das Format Forschendes Lernen eine spezifische (universitäre) Praxis beschrieben und eingefordert wird. In Abgrenzung zu verbreiteten, aber oft mehrdeutigen „Theorie-Praxis“-Problemen werden Erwartungen an „Forschendes Lernen“ aus einer praxistheoretischen Perspektive ausdifferenziert. Anschließend können relevante Praxen und die in ihnen verhandelten Wissensbezüge in den Fokus der Beobachtung rücken. Es geht darum zu unterscheiden, welches Wissen im Lehramtsstudium generell und in den Praxisphasen im Besonderen adressiert sein kann. Womöglich können so einige ebenso beharrliche wie unangemessene Begehren nach „Praxis“ verunsichert werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4404</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4404">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4404/4476" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4404" DMDID="DMD_biejournals_4404">
+            <mets:fptr FILEID="FILE0_biejournals_4404"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

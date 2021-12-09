@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_414">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Klima- und umweltbezogene Lernprozesse in partizipativen Produktentwicklungsverfahren</title>
+                        <subTitle>Möglichkeiten und Grenzen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arnold, Marlen</displayForm>
+                        <namePart type="family">Arnold</namePart>
+                        <namePart type="given">Marlen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barth, Volker</displayForm>
+                        <namePart type="family">Barth</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-08-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für erfolgreiche und nachhaltige Produktentwicklung reichen heute Marktbeobachtung und Kund/innenbefragungen alleine nicht mehr aus. Mit Verfahren zur partizipativen Produktentwicklung (PPE) können sowohl das kreative Potenzial von Nutzer/innen für die Produktentwicklung erschlossen als auch marktfähige nachhaltige Produkte entwickelt werden. Sie ermöglichen so aktives Nachhaltigkeitsmanagement. Am Beispiel des INNOCOPE-Pilotverfahrens wird diskutiert, wie nachhaltigkeitsbezogene Lernprozesse in PPE-Prozessen initiiert werden können und welche Faktoren dabei wesentlich sind. Insgesamt zeigt sich, dass vor allem die sich wiederholende, direkte und möglichst gleichberechtigte Interaktion von Unternehmensvertreter/innen und von Konsument/innen einen themenbezogenen Wissensaustausch und wechselseitige Lernprozesse ermöglicht. Dabei sind der inhaltliche Aufbau der Treffen und der zeitlich gestaffelte Einsatz von Lernmethoden wesentlichToday, market observation and customer surveys alone do not suffice to develop successful and sustainable products. Methods of participatory product development (PPD) allow to open up the creative potential of users for product development, and to develop marketable sustainable products. Thereby, they support active sustainability management. Taking the INNOCOPE pilot process as an example, we discuss the possibilities and the relevant factors to initiate sustainability- and climate-related learning processes within PPD processes. Our findings indicate that repeated, direct and equitable interaction between company representatives and customers are fundamental for relevant knowledge exchange and mutual learning processes. Other key issues are the thematic structure of the meetings and the timing of learning methods.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_414</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_414">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/414/411" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_414" DMDID="DMD_biejournals_414">
+            <mets:fptr FILEID="FILE0_biejournals_414"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

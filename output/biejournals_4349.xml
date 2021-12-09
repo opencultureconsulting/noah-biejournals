@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4349">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ist das schon Praxisforschung? Hochschuldozentinnen forschen zum Praxissemester</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Holler-Nowitzki, Birgit</displayForm>
+                        <namePart type="family">Holler-Nowitzki</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koch, Barbara</displayForm>
+                        <namePart type="family">Koch</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird die Forschung, die die Autorinnen zur Frage des Vorhandenseins von Reflexion in Studienprojekten im Praxissemester durchgeführt haben, unter der Frage betrachtet, ob sie den Kriterien von Praxisforschung genügt. Als besonders wichtige Kriterien von Praxisforschung, die über die Kriterien für gute wissenschaftliche Forschung hinausgehen, werden u.a. der in einem Praxisproblem liegende Anlass für die Forschung sowie die Nutzung der Ergebnisse für die eigene Lehrpraxis angesehen. Es zeigt sich, dass die gewonnenen Ergebnisse aus der Forschung für die Weiterentwicklung der Lehre genutzt werden können, eine Anlage als Praxisforschung jedoch ein noch größeres Potenzial für die Weiterentwicklung der Hochschullehre gehabt hätte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4349</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4349">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4349/4258" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4349" DMDID="DMD_biejournals_4349">
+            <mets:fptr FILEID="FILE0_biejournals_4349"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

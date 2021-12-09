@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3667">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperation von Universität und angewandter Forschung bei der Entwicklung von akademischen Weiterbildungsangeboten als Herausforderung für die didaktische Konzeption</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Slotosch, Sven</displayForm>
+                        <namePart type="family">Slotosch</namePart>
+                        <namePart type="given">Sven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rathjen, Sina</displayForm>
+                        <namePart type="family">Rathjen</namePart>
+                        <namePart type="given">Sina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Häring, Ivo</displayForm>
+                        <namePart type="family">Häring</namePart>
+                        <namePart type="given">Ivo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag referiert über das didaktische und zeitlicheKonzept einer technischen interdisziplinären akademischenWeiterbildung und liefert einen Ausblick auf die Möglichkeitender Zusammenarbeit von Universität und angewandterForschung im Bereich der universitären Weiterbildung. Einstrukturierter Fragenkatalog zur Auswahl der didaktischenMittel wird vorgestellt und es wird auf Herausforderungenbei der Entwicklung der Lehrmaterialien speziell auf Basisvon Ergebnissen eines Institutes aus dem Bereich „angewandteForschung“ eingegangen. Zudem werden die Bedarfsanalyse,die Evaluation des Gesamtkonzepts und dieinhaltliche Qualitätssicherung erläutert, insbesondere amBeispiel E-Lecture.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3667</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3667">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3667/3741" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3667" DMDID="DMD_biejournals_3667">
+            <mets:fptr FILEID="FILE0_biejournals_3667"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

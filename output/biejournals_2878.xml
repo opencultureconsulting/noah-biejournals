@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2878">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Women Without Arms</title>
+                        <subTitle>Gendered Fighter Constructions in Eritrea and Southern Sudan</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weber, Annette</displayForm>
+                        <namePart type="family">Weber</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-11-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An analysis of gendered fighter constructions in the liberation movements in Eritrea and southern Sudan (EPLF and SPLA/M), examining the question of female access to the sphere of masculine fighter constructs and the relevance of this for influence in peacetime affairs. Empirical research in both countries, in particular interviews with participants, reveals that what keeps women out of the sphere of legitimized violence is not some “inherent peacefulness,” but the exclusivist construct of the masculine fighter, which is supported by society. This makes it hard for women to participate in war, and especially to gain full fighter status. An intrinsic link is found between fighter status and access to power in post-conflict state-building from which women, being unable to gain full fighter status, are largely excluded.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2878</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2878">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2878/pdf_30" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2878">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2878/2698" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2878" DMDID="DMD_biejournals_2878">
+            <mets:fptr FILEID="FILE0_biejournals_2878"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2878" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2878"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

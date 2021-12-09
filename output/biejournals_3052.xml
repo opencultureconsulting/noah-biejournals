@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3052">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Beliefs About the Strauss-Kahn Case in France and Germany</title>
+                        <subTitle>Political Orientation and Sexual Aggression Myths as Local Versus Global Predictors</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Helmke, Selina</displayForm>
+                        <namePart type="family">Helmke</namePart>
+                        <namePart type="given">Selina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kobusch, Pia-Renée</displayForm>
+                        <namePart type="family">Kobusch</namePart>
+                        <namePart type="given">Pia-Renée</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rees, Jonas</displayForm>
+                        <namePart type="family">Rees</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meyer, Thierry</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Thierry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohner, Gerd</displayForm>
+                        <namePart type="family">Bohner</namePart>
+                        <namePart type="given">Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In May 2011, Dominique Strauss-Kahn, head of the International Monetary Fund and a prominent member of the French Socialist Party, was charged with attempted rape. Extensive media coverage led people across the globe to speculate about intentions and responsibilities. While the case was pending, we conducted two parallel Internet surveys, with French and German participants (N= 1,314). We examined how strongly exoneration of the alleged perpetrator depended on acceptance of modern myths about sexual aggression (AMMSA) and identity attributes that are temporarily salient as a function of local context (gender, political left-right orientation, nationality). AMMSA was a global predictor of exonerating the alleged perpetrator across national sub-samples, whereas the predictive power of gender and left-right orientation varied locally: For French respondents, left-wing political attitudes predicted exoneration of the alleged perpetrator, whereas only for German respondents, being male predicted exoneration. We conclude that the interplay of global (sexual aggression myths) and local (social identification) factors affects the lay assessment of ambiguous cases of sexual violence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3052</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3052">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3052/pdf_106" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3052">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3052/3051" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3052" DMDID="DMD_biejournals_3052">
+            <mets:fptr FILEID="FILE0_biejournals_3052"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3052" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3052"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

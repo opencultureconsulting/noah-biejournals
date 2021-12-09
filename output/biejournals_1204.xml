@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1204">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>WHALEGUIDE - Wale bestimmen leichtgemacht</title>
+                        <subTitle>Fotograf entwickelt App zum Bestimmen von Walen und Delfinen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-01</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der bekannte Tierfilmer und Fotograf Ralf Kiefner hat mit seiner Frau, Andrea Ramalho (Biologin) eine empfehlenswerte, umfangreiche und autodidaktische Applikation über Wale und Delfine entwickelt, mit der es möglich ist 67 Wal- und Delfin-Arten zu bestimmen. Die umfangreichen Informationen sind leicht verständlich erklärt und ermöglichen einen spannenden und abwechslungsreichen Biologieunterricht über diese abwechslungsreiche Tiergruppe. Die Schülerinnen und Schüler werden auf spielerische und unterhaltsame Weise zum Lernen motiviert. Die Whaleguide App gibt es im App Store (für iPad oder iPhone) und im PlayStore (für Android Phones und Tablets) ab Euro 8,99 für die deutsche und englische Sprachversion (auch für den Englischunterricht geeignet!), Screening über Beamer ist möglich. Weitere Infos und Demo-Video finden Sie unter:</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1204</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1204">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1204/1328" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1204" DMDID="DMD_biejournals_1204">
+            <mets:fptr FILEID="FILE0_biejournals_1204"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bereichsübergreifende Bildungsmaßnahmen als Brücke zwischen Hochschule und Berufsbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hemkes, Barbara</displayForm>
+                        <namePart type="family">Hemkes</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilbers, Karl</displayForm>
+                        <namePart type="family">Wilbers</namePart>
+                        <namePart type="given">Karl</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zinke, Gert</displayForm>
+                        <namePart type="family">Zinke</namePart>
+                        <namePart type="given">Gert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bednarz, Sigrid</displayForm>
+                        <namePart type="family">Bednarz</namePart>
+                        <namePart type="given">Sigrid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Fokus der Bemühungen einen steigenden Fachkräftebedarfzu bedienen, stand in den letzten Jahren die Erhöhungder Akademikerquote. Aktuelle Projektionen der Arbeitsmarktentwicklungzeigen jedoch, dass mehr Hochschul-Absolventenallein das Fachkräfteproblem nicht lösen, vielmehrwerden gerade hochwertige berufliche Qualifikationen benötigt(BIBB-IAB 2014). In einigen Branchen wird ein eklatanterFachkräfteengpass im Bereich der beruflich Qualifiziertenerwartet (Zinke et al. 2014).Problematisch ist daher, dass im bildungspolitischen DiskursDurchlässigkeit recht einseitig verstanden und gefördertwird: nämlich durch neue Zugangswege in die Hochschulenfür beruflich Qualifizierte. Hierdurch sieht sich vor allemdie duale Bildung geschwächt. Berufliche Bildung bietet attraktiveWeiterbildungsangebote, in Kooperation mit Hochschulenkönnen diese noch stärker auf die prognostiziertenQualifikationsbedarfe einerseits sowie auf die Lernendenorientierter andererseits zugeschnitten werden.Um dies zu realisieren, wird von Seiten des BMBF das Projekt„DQR Bridge 5“ gefördert. In dem Projekt werden bereichsübergreifendeBildungsmaßnahmen auf Niveau 5 desDeutschen Qualifikationsrahmens (DQR) entwickelt, die alsAufstiegsfortbildung auf der DQR-Stufe 5 und im Studiumzum Bachelor Gültigkeit haben. Diese sollen zusätzliche Bildungsoptionenenthalten, die Elemente akademischer undberuflicher Bildung integrieren und dabei reziproke Übergängezwischen den Bildungsbereichen ermöglichen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3770</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3770">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3770/3830" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3770" DMDID="DMD_biejournals_3770">
+            <mets:fptr FILEID="FILE0_biejournals_3770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_800">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Unintended Revelations in History Textbooks</title>
+                        <subTitle>The Precarious Authenticity and Historical Continuity of the Slovak Nation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sulikova, Jana</displayForm>
+                        <namePart type="family">Sulikova</namePart>
+                        <namePart type="given">Jana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article proposes an analytical framework that helps to identify and challenge misconceptions of ethnocentrism found in pre-tertiary teaching resources for history and the social sciences in numerous countries.Design: Drawing on nationalism studies, the analytical framework employs ideas known under the umbrella terms of primordialism, constructivism and ethno-symbolism. In applying it, the conceptualisation of the Slovak nation, as presented in the history textbooks currently used in lower secondary schools in Slovakia, is examined as a case study.Findings: A conceptually inconsistent picture emerges from the findings, displaying prevailing patterns of primordialism and a degree of ethno-symbolism. Nevertheless, the article concludes that history textbooks lend, on a number of occasions, unintended support to constructivism. Hence, both this inconsistency in theoretical approach, and frequent use of problematic assumptions based on primordialism and ethno-symbolism show that the attempts of textbooks’ authors to demonstrate the authenticity and historical continuity of the Slovak nation remain precarious.Research implications: The analytical framework used in this article is well-suited for multi-country examinations of national narratives in curricula and textbooks of history and the social sciences.Practical implications: Teaching materials and pedagogic approaches drawing on constructivism could enhance critical engagement with ethnocentrism in Slovakia and beyond. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_800</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_800">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/800/877" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_800">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/800/878" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_800">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/800/879" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_800" DMDID="DMD_biejournals_800">
+            <mets:fptr FILEID="FILE0_biejournals_800"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_800" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_800"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_800" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_800"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

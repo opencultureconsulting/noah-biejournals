@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2847">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Guest Editorial</title>
+                        <subTitle>The Nexus of Violence, Violence Research, and Development. Introduction to the Focus Section</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Imbusch, Peter</displayForm>
+                        <namePart type="family">Imbusch</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Veit, Alex</displayForm>
+                        <namePart type="family">Veit</namePart>
+                        <namePart type="given">Alex</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This focus section of the International Journal of Conflict and Violence is dedicated to violence and violence research in the Global South. It examines the&amp;nbsp;causes, forms, perpetrators, processes, and outcomes of violence. While the contributions go into detail on what is commonly understood as politically motivated&amp;nbsp;violence, they also examine societal, criminal, urban, and gendered violence, as well as the involvement of youth. Four articles explore the significance of&amp;nbsp;violence in specific regions: Africa south of the Sahara, West Asia and North Africa, East Asia, and Latin America and the Caribbean. The authors describe and&amp;nbsp;assess the state of research within and about the different countries. Two further articles review the body of research on the causes of civil war, which hasbeen the dominant issue in much violence-related research on the global South since the end of the Cold War.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2847</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2847">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2847/pdf_49" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2847">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2847/2636" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2847" DMDID="DMD_biejournals_2847">
+            <mets:fptr FILEID="FILE0_biejournals_2847"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2847" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2847"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

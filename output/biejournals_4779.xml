@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4779">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehren fürs Leben</title>
+                        <subTitle>Überlegungen eines Biologiedidaktikers zu Lehre und Forschung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kattmann, Ulrich</displayForm>
+                        <namePart type="family">Kattmann</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Autor reflektiert seine Rolle als Hochschullehrer im Wissenschaftssystem der Universität. Lehren ist Fördern zum Lernen. Die Lehre an Hochschulen steht in einem engen Verhältnis zur Forschung. Durch Lehre wird Forschung öffentlich und kulturell wirksam. Deshalb sollte Lehre an Hochschulen gleichrangig mit – wenn nicht vorrangig zu – Forschung bewertet werden. Lehre betrifft entscheidend die Verantwortung der Wissenschaftler*innen und damit zentral die Wissenschaftsethik. Diesem Verständnis von Forschung und Lehre entspricht das Modell der Didaktischen Rekonstruktion.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4779</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4779">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4779/4533" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4779" DMDID="DMD_biejournals_4779">
+            <mets:fptr FILEID="FILE0_biejournals_4779"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

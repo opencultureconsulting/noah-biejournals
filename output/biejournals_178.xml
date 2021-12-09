@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_178">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Didaktische Referenzpunkte der wissenschaftlichen Weiterbildung. Studentische Arbeiten zwischen Forschungs- und Praxisorientierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lermen, Markus</displayForm>
+                        <namePart type="family">Lermen</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rübel, Joachim</displayForm>
+                        <namePart type="family">Rübel</namePart>
+                        <namePart type="given">Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schiefner-Rohs, Mandy</displayForm>
+                        <namePart type="family">Schiefner-Rohs</namePart>
+                        <namePart type="given">Mandy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der folgende Artikel geht der Frage der Ausgestaltung einer Didaktik wissenschaftlicher Weiterbildung nach. Unter Bezugnahme auf die Besonderheiten wissenschaftlicher Weiterbildung an der Hochschule wird das Oszillieren zwischen Forschungsorientierung und Praxisnotwendigkeiten als Kennzeichen hochschuldidaktischen Handelns in der wissenschaftlichen Weiterbildung festgestellt. Gefragt wird in einer empirischen Untersuchung zu didaktischen Referenzpunkten der wissenschaftlichen Weiterbildung welche Anforderungen an Abschlussarbeiten als Leistungsnachweise und Teil eines wissenschaftlichen Studiums gestellt werden. In der Diskussion der Ergebnisse bietet der Artikel Anlass zur Reflexion der didaktischen Gestaltung von Angeboten in der wissenschaftlichen Weiterbildung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_178</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_178">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/178/167" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_178" DMDID="DMD_biejournals_178">
+            <mets:fptr FILEID="FILE0_biejournals_178"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4027">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungs- und Entwicklungsplan ex post</title>
+                        <subTitle>Vernetzung, Forschung und Entwicklung im Pandemiejahr 2020</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">34</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden „Forschungs- und Entwicklungsplan“ werden zum einen Aktivitäten der Wissenschaftlichen Einrichtung Oberstufen-Kolleg (WE_OS) berichtet, die im Pandemiejahr in von der Planung abweichender Form realisiert werden mussten, wie etwa die Gründung des Verbunds der Universitäts- und Versuchsschulen (VUVS). Es werden zum anderen aber auch solche Aktivitäten dokumentiert, die erst ad hoc angesichts der dynamischen Entwicklungen im Schulleben dieses Jahres notwendig wurden. Dies betrifft sowohl Anpassungen in der Arbeit der Forschungs- und Entwicklungsprojekte als auch die wissenschaftliche Begleitung des erzwungenen Distanzlernens und der damit verbundenen Schulentwicklungsarbeit. Da vor dem Hintergrund des evaluativen Anspruchs und des Auftrags der wissenschaftlichen Begleitung an einer Versuchsschule Schulentwicklungsprozesse und Forschungs- und Entwicklungsplanung eng miteinander verzahnt sind, resultierte u.a. daraus auch die hiermit vorliegende „Forschungs- und Entwicklungsplanung ex post“.
+In this “Research and Development Plan”, we report on the one hand on the activities of the Action Research Department of the Oberstufen-Kolleg, which had to be realized in this pandemic year in ways that deviated strongly from the original planning, for example the foundation of the “Verbund der Universitäts- und Versuchsschulen” [Network of University and Experimental Schools] (VUVS). On the other hand, it documents those activities, which became necessary ad hoc due to the dynamic developments in school life this year. This regards both adjustments in the work of the research and development projects and the scientific monitoring of the enforced distance learning and the school development activities involved. As school development processes and research and development planning are closely connected at an experimental school, due to the evaluative claim and the commission of the scientific monitoring, this results inter alia in this “Research and Development Plan ex post”.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4027</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4027">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4027/4002" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4027" DMDID="DMD_biejournals_4027">
+            <mets:fptr FILEID="FILE0_biejournals_4027"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4095">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Jahrgangsstufenspezifischer Vergleich der motivationalen Regulation im Biologieunterricht und des individuellen Interesses an biologischen Themen von Schülerinnen und Schülern der Sekundarstufe I</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Großmann, Nadine</displayForm>
+                        <namePart type="family">Großmann</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaiser, Lisa-Maria</displayForm>
+                        <namePart type="family">Kaiser</namePart>
+                        <namePart type="given">Lisa-Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Salim, Bilal</displayForm>
+                        <namePart type="family">Salim</namePart>
+                        <namePart type="given">Bilal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ahmed, Abdul-Karim</displayForm>
+                        <namePart type="family">Ahmed</namePart>
+                        <namePart type="given">Abdul-Karim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Häufig wird vom negativen Entwicklungstrend des Interesses sowie der selbstbestimmten Motivationsqualität im Verlauf der Sekundarstufe I berichtet. Studien zu diesen Entwicklungstrends, im Besonderen für das Fach Biologie, liegen jedoch nur spärlich oder veraltet vor. Die vorliegenden Querschnittsstudien untersuchten daher, ob sich die motivationalen Voraussetzungen von Schülerinnen und Schülern im Biologieunterricht zwischen den verschiedenen Jahrgangsstufen der Sekundarstufe I unterscheiden. Hierfür wurden 845 Schülerinnen und Schüler der Jahrgangsstufen 5 bis 9 bezüglich ihrer selbst- und fremdbestimmten motivationalen Regulation im Biologieunterricht sowie 1187 Schülerinnen und Schüler dieser Jahrgangsstufen bezüglich ihres individuellen Interesses an biologischen Themen befragt. Signifikante Unterschiede in der selbstbestimmten motivationalen Regulation sowie im individuellen Interesse bestehen im Vergleich jeder Jahrgangsstufe mit den jeweils vorhergehenden Jahrgangsstufen. In den vorhergehenden Jahrgangsstufen sind die selbstbestimmte motivationale Regulation sowie das individuelle Interesse höher ausgeprägt als in der jeweils untersuchten Jahrgangsstufe. Eine Ausnahme bildet der Vergleich des individuellen Interesses in der Jahrgangsstufe 9 und vorhergehenden Jahrgangsstufen. Für diesen Vergleich sowie für alle jahrgangsstufenspezifische Vergleiche der fremdbestimmten motivationalen Regulation sind keine signifikanten Unterschiede zu verzeichnen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4095</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4095">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/4095/4596" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4095" DMDID="DMD_biejournals_4095">
+            <mets:fptr FILEID="FILE0_biejournals_4095"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

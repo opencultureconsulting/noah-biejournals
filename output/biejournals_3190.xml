@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehrerin und Forscherin? Erfahrungen aus der Praxisforschung des Oberstufen-Kollegs Bielefeld</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Graf, Carolin</displayForm>
+                        <namePart type="family">Graf</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thomas, Christina</displayForm>
+                        <namePart type="family">Thomas</namePart>
+                        <namePart type="given">Christina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von einem Forschungs- und Entwicklungsprojekt zum Praxissemester im Unterrichtsfach Pädagogik stellen die Autorinnen ihre Erfahrungen als Lehrer-Forscherinnen dar. Dieses Forschungs- und Entwicklungsprojekt ist hierfür in besonderer Weise geeignet, da es sowohl die schulpädago-gischen Bemühungen um die Förderung einer forschenden Grundhaltung bei&amp;nbsp; Schüler*innen als auch in der Lehrerausbildung sowie in der berufsbegleitenden Professionalisierung von Lehrkräften thematisch werden lässt. Ihren Erfahrungsbericht systematisieren die Autorinnen entlang von drei aus der Literatur zu Forschendem Lernen und Lehrerprofessionalisierung extrahierten Dimensionen: der Professionalisierungsstrategie, der Entwicklungsstrategie und der Anregung zu kolle-gialer Lehrerfortbildung. Entlang des Abgleichs dieser Dimensionen mit ihren individuellen berufsbiografischen Erfahrungen zeigen sie auf, wie nachhaltig eine forschende Grundhaltung zur Professionalisierung beitragen und welche positiven Effekte für die kollegiale Fort- und Weiterbildung sowie die Unterrichts- und Schulentwicklung diese haben kann.
+Based on a research and development project on a long-term practical training for students in teacher education for the subject “pedagogy”, the authors present their experiences as teacher researchers. This research and development project is particularly suitable for this purpose, as it focuses on the efforts of schoolteachers to promote a basic research attitude among pupils, on teacher training and on the professionalization of teachers. The authors systematize their experience report along three dimensions extracted from the literature on research-based learning and teacher professionalization: the strategy for professionalization, for development and for stimulating collegial teacher training. By comparing these dimensions with their individual professional biographical experiences, they show how a research-oriented attitude can contribute to professionalization in the long term and what positive effects this can have on collegial continuing training as well as on teaching and school development.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3190</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3190">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3190/3318" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3190" DMDID="DMD_biejournals_3190">
+            <mets:fptr FILEID="FILE0_biejournals_3190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

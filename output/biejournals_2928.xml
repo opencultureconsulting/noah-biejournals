@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2928">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Between a Rock and a Hard Place</title>
+                        <subTitle>Radical Islam in Post-Suharto Indonesia</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heiduk, Felix</displayForm>
+                        <namePart type="family">Heiduk</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-04-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Indonesia provides a fruitful case study of differences between radicalization processes in liberal and authoritarian regimes. Political Science hereby tends to emphasize regime type as the determinant of Islamist political strategy (radical, militant or moderate) and therefore as the main explanatory factor for radicalization processes. Although this is true of the role of Islamists in various Middle Eastern countries, where electoral participation has moderated political programs and strategies, it is of little relevance to Indonesia. The democratic opening in 1998 provided Islamists with new opportunities to participate in electoral politics, and even become co-opted by formally “secular” forces, but at the same time opened up spaces for militant, radical Islamist groups. Whereas radical Islam faced severe state repression under Suharto’s New Order, we now find a highly ambiguous relationship between the state and radical Islamists, expressed in operational terms as a parallelism of repression and cooptation. This article tries to make sense of the relationship between the post-authoritarian state and radical Islam in Indonesia by transcending the institution-centered understanding of the role of Islam through an examination of the configurations of social forces that have determined the shape, scope, and practices of radical Islam within Indonesia’s new experiment with democracy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2928</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2928">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2928/pdf_50" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2928">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2928/2799" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2928" DMDID="DMD_biejournals_2928">
+            <mets:fptr FILEID="FILE0_biejournals_2928"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2928" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2928"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

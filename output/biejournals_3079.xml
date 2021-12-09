@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3079">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Torture as Theatre in Papua</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hernawan, Budi</displayForm>
+                        <namePart type="family">Hernawan</namePart>
+                        <namePart type="given">Budi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Conceptualised as theatre, this article examines 431 codified cases of torture in Papua during 1963-2010 as well as 214 testimonies of torture survivors, state actors and third parties in order to explore the interplay and dynamics of four interrelated elements: rationalities that underpin the web of power relations, techniques of domination, actors with their multiple and fluid identities as well as their motivational postures. Theatricality proffers a new analytical lens to examine half a century of state-sponsored brutality surrounded by virtually complete impunity and denials which leaves a little space to escape the theatre. It discloses &amp;lsquo;the art of government,&amp;rsquo; the way the Indonesia state exhibits its sovereign power to govern Papua.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3079</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3079">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3079/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3079">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3079/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3079">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3079/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3079" DMDID="DMD_biejournals_3079">
+            <mets:fptr FILEID="FILE0_biejournals_3079"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3079" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3079"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3079" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3079"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

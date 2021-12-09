@@ -1,0 +1,41 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_951">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reply</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hann, Chris</displayForm>
+                        <namePart type="family">Hann</namePart>
+                        <namePart type="given">Chris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-31</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_951</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_951">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/951/1059" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_951" DMDID="DMD_biejournals_951">
+            <mets:fptr FILEID="FILE0_biejournals_951"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

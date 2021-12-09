@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_596">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civics Courses in the German Democratic Republic (GDR)</title>
+                        <subTitle>A Case Study in the History of Curriculum and Educational Research</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blessing, Benita</displayForm>
+                        <namePart type="family">Blessing</namePart>
+                        <namePart type="given">Benita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grammes, Tilman</displayForm>
+                        <namePart type="family">Grammes</namePart>
+                        <namePart type="given">Tilman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schluss, Henning</displayForm>
+                        <namePart type="family">Schluss</namePart>
+                        <namePart type="given">Henning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Civics courses in the German Democratic Republic (GDR, or East Germany) were intended to educate students to become socialist personalities. The didactical and ideological structure of the course, however, created internal contradictions that turned civics into an “impossible” course. This case study offers a model for conducting educational research into a single course curriculum using a multi-perspective analysis.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_596</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_596">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/596/593" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_596" DMDID="DMD_biejournals_596">
+            <mets:fptr FILEID="FILE0_biejournals_596"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

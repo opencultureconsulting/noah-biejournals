@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_627">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>„social frameworks“ of teaching high school history</title>
+                        <subTitle>teaching as part of the modernization of Québec society</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>LeVasseur, Louis</displayForm>
+                        <namePart type="family">LeVasseur</namePart>
+                        <namePart type="given">Louis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cardin, Jean-François</displayForm>
+                        <namePart type="family">Cardin</namePart>
+                        <namePart type="given">Jean-François</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The teaching of academic subjects does not constitute an enclave within society; nor can it be reduced to the initial training teachers receive, training which is primarily psychoeducational, disciplinary, didactic, curricular and practical. Teachers do use justifications for their teaching that proceed from the disciplinary, didactic, curricular and even professional logics that predominate in their initial training, as well as &quot;extra-professional&quot; justifications that refer more broadly to a changing society and culture, to a vast movement modernizing Western societies with which the empowerment of the subject can be associated. History teachers get professional training that prepares them to teach. However, their teaching is, perhaps even more fundamentally, shaped by social frameworks that are external to that training, suggesting that how history is taught is heavily influenced by extra-academic social and cultural structures. Based on remarks from history teachers, we will see that how they justify what they teach relates directly to these structures.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_627</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_627">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/627/634" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_627" DMDID="DMD_biejournals_627">
+            <mets:fptr FILEID="FILE0_biejournals_627"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3907">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Unterricht während der Corona-Pandemie</title>
+                        <subTitle>Ein Vergleich von Schülereinschätzungen aus Baden-Württemberg und Nordrhein-Westfalen im Kontext sozialer Heterogenität</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Unger, Valentin</displayForm>
+                        <namePart type="family">Unger</namePart>
+                        <namePart type="given">Valentin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krämer, Yoka</displayForm>
+                        <namePart type="family">Krämer</namePart>
+                        <namePart type="given">Yoka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wacker, Albrecht</displayForm>
+                        <namePart type="family">Wacker</namePart>
+                        <namePart type="given">Albrecht</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im März 2020 wurden infolge der Corona-Pandemie die Schulen in der Bundesrepublik Deutschland geschlossen, und die Beschulung wurde als „Fernunterricht“ fortgeführt. In diesem Beitrag werden die Daten aus zwei Studien (Nordrhein-Westfalen und Baden-Württemberg) zusammengeführt, in denen zusammen N = 320 Schüler*innen zu ihrer Sicht auf den Fernunterricht befragt wurden. Die Ergebnisse aus beiden Studien benennen verschiedene Vor- und Nachteile des Fernunterrichts und verweisen – trotz einiger Diskrepanzen zwischen den Studien – insgesamt auf eine teils (zu) hohe Varianz in den Kommunikationswegen sowie eine hohe Belastung der Schüler*innen im Fernunterricht. Entgegen der öffentlichen Diskussion ergeben sich aus den Datensätzen beider Studien Hinweise darauf, dass mehrheitlich eine Ausstattung mit digitalen Endgeräten vorhanden ist. Aus den Daten der NRW-Studie lassen sich zudem erste vorsichtige Hinweise auf den Zusammenhang zwischen dem sozioökonomischen Status der Schüler*innen und dem Erfolg des Fernunterrichts ableiten, die weiteren Forschungsbedarf hinsichtlich der Bildungsbenachteiligung im Fernunterricht generieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3907</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3907">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3907/3963" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3907" DMDID="DMD_biejournals_3907">
+            <mets:fptr FILEID="FILE0_biejournals_3907"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

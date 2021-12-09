@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_661">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploring the Limits and Potentials of Youth Participation in Public Policy at the State and Municipal Level</title>
+                        <subTitle>A Study in the State of Acre, Brazil</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Queiroz, Lucicleia Barreto</displayForm>
+                        <namePart type="family">Queiroz</namePart>
+                        <namePart type="given">Lucicleia Barreto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In the last decade, youth entered the agenda of public policies in Brazil, recognizing not only the problems that affect young people, but also the need for a proactive perspective that views youngsters as playing a central role in the design and implementation of policy. This is a tendency that is also noticeable in other countries, and there is clearly a “vogue of youth participation” (Bessant 2004, 401) in public policy across the world. Research in the field tends to show that these experiences can be effective in promoting young people civic and political knowledge, attitudes and competences and therefore can become a strategy of non-formal citizenship education. However, there are critiques that participation in these initiatives risks pamphleteering and tokenism. The goal of this paper is to enter this debate by considering the Brazilian experience in the State of Acre and to explore whether and how opportunities for participation that youth public policies appear to stimulate are, in fact, perceived and experienced by groups involved in the process, from decision-makers to young people. Results show that, as in other countries, policies are still not living up to expectations and much more systematic work is necessary to guarantee that participation in youth policies is, in fact, a relevant citizenship experience.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_661</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_661">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/661/706" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_661" DMDID="DMD_biejournals_661">
+            <mets:fptr FILEID="FILE0_biejournals_661"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3369">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Migrant Health Policy in European Union (EU) and a non EU country</title>
+                        <subTitle>Current situation and future challenges for improvement</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tozija, Fimka</displayForm>
+                        <namePart type="family">Tozija</namePart>
+                        <namePart type="given">Fimka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lizana, Tona</displayForm>
+                        <namePart type="family">Lizana</namePart>
+                        <namePart type="given">Tona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The influx of refugees, asylum seekers and migrants in Europe is an ongoing reality and migrant health has become very important public health problem. The aim of this paper is to analyze and compare the health profile, migrant situation and migration integration health policy in Spain as a European Union (EU) country and Republic of North Macedonia as a country in process of European Union accession.
+Methods: Migration Integration Policy Index (MIPEX) Health strand questionnaire (2015) was applied to compare health policies for migrant integration in both countries.
+Results: There are differences between Spain and Macedonia in health care coverage and access to health services for migrants. Spain has health strand total score of 52 and is in the same group with Austria, Ireland, Belgium, Netherlands, Denmark and Sweden. Macedonia has lower health strand total score 38 and is in the same group with Turkey, Cyprus, Slovakia. Targeted migrant health policies are stronger and services more responsive in Spain compared to Macedonia which offers migrants legal entitlements to healthcare, but health services should be more culturally responsive to migrant health needs.
+Conclusion: Health migration policy in both countries is closely tied to the general immigration policy.
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3369</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3369">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3369/3495" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3369" DMDID="DMD_biejournals_3369">
+            <mets:fptr FILEID="FILE0_biejournals_3369"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

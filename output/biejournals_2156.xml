@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2156">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Avanti Simultanti</title>
+                        <subTitle>Vergleichzeitigung als Lebensform</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Geißler, Karlheinz A.</displayForm>
+                        <namePart type="family">Geißler</namePart>
+                        <namePart type="given">Karlheinz A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Hilfe, bitte helft mir, ich bin nicht up to date. Ganz sicher, ich hab&apos;s selbst überprüft undjeden Tag erleb&apos; ich&apos;s neu. Mein Handy kann keine Fotos machen, und ich weiß nicht, wie man eine SMS verschickt. Unser Auto hat kein Multifunktionslenkrad, keinen Internetzugang und auch sonst keinen elektronischen Schnickschnack, mit dem man sich im Stau die Zeit vertreiben kann. Meine Uhr kann keine Mails empfangen, hat keine Temperaturanzeige, weder Kompass noch Pulsmesser. Der Wecker neben meinem Bett wartet immer noch auf eine Wlan-Verbindung, sodass ich allmorgendlich weiterhin nicht über die aktuelle Verkehrslage auf deutschen Autobahnen und über die Kursschwankungen an den Fernost-Börsen informiert bin. Ich weiß, es ist skandalös, dass ich bis heute nicht an jedem Ort und zu jeder Zeit erreichbar bin. Ich gestehe es ungern ein, ich bin sogar so fahrlässig, meine Wohnung ohne Rufumstellung vom Festnetz aufs Mobiltelefon zu verlassen, und meine Nachbarn suche ich immer noch ohne jenes Gerät auf, das man zärtlich das &quot;Navi&quot; nennt. Immer noch hat mich die Werbung nicht überzeugen können, eine jener &quot;Quick and Easy&quot; Haarkuren zu kaufen, die mir den Zeitaufwand für eine Spülung nach dem Haarewaschen erspart; und - was mach ich nur falsch! - der Tele-Pizza-Service vermisst mich immer noch in seiner Kundenkartei, und weil ich keinen elektronischen Rezeptspeicher habe, sondern immer noch Kochbücher vorziehe, quält mich die Frage, ob jetzt vielleicht die Zeit gekommen ist, mir einen Platz im Seniorenstift zu besorgen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2156</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2156">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2156/2023" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2156" DMDID="DMD_biejournals_2156">
+            <mets:fptr FILEID="FILE0_biejournals_2156"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

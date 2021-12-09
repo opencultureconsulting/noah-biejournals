@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2260">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Kybernetik als Theoriegerüst der Systemischen Beratung - Darstellung und Kritik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Asshoff, Roman</displayForm>
+                        <namePart type="family">Asshoff</namePart>
+                        <namePart type="given">Roman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-11-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die systemische Beratung beruft sich auf ein breites Theoriefundament. Exemplarisch für dieses Theoriegerüst werden in diesem Beitrag die Kybernetik 1. und 2. Ordnung dargestellt und geprüft, inwiefern systemische Berater diese Theorien umsetzen und inwieweit sie theoriegeleitet arbeiten können. Es wird diskutiert, ob eine radikal konstruktivistische Haltung in einem Beratungssetting gewinnbringend ist und welche Konsequenzen ein theoriegeleitetes Arbeiten im Sinne der Kybernetik 2. Ordnung mit sich bringen würde.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2260</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2260">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2260/2197" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2260">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2260/2198" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2260" DMDID="DMD_biejournals_2260">
+            <mets:fptr FILEID="FILE0_biejournals_2260"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2260" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2260"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

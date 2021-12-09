@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4264">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Navigationssystem der Vögel – Teil 1</title>
+                        <subTitle>Das Karte-Kompass-Prinzip und die Kompassmechanismen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>navigation system of birds – part 1</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiltschko, Wolfgang</displayForm>
+                        <namePart type="family">Wiltschko</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiltschko, Roswitha</displayForm>
+                        <namePart type="family">Wiltschko</namePart>
+                        <namePart type="given">Roswitha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Navigationsvorgang ist bei Vögeln ein Zwei-Schritt-Prozess: Zunächst wird die Richtung zum Ziel als Kompasskurs bestimmt, dann wird dieser Kurs mit Hilfe eines Kompassmechanismus aufgesucht und in die Flugrichtung umgesetzt. Vögel verfügen über einen Magnetkompass, der dem Magnetfeld der Erde Richtungsinformation entnimmt, sowie über einen erlernten Sonnenkompass, der aus der Richtung der Sonne Richtungsinformation ableitet; bei nächtlich ziehenden Zugvögeln ist zudem ein erlernter Sternkompass nachgewiesen.</abstract>
+                    <abstract lang="eng">Avian navigation is a two-step process: First, the direction to the goal is determined as a compass course, in a second step, this course is located with a compass and converted into a flying direction. Birds have a magnetic compass that takes directional information from the geomagnetic field, a learned sun compass which derives direction from the sun azimuth; night-migrating birds can additionally derive directional information from the stars. How birds determine the course to their goal, will be explained in the second part of this article.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4264</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4264">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4264/4245" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4264" DMDID="DMD_biejournals_4264">
+            <mets:fptr FILEID="FILE0_biejournals_4264"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

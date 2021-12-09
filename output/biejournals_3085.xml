@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3085">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Why Targets of Economic Sanctions React Differently</title>
+                        <subTitle>Reference Point Effects on North Korea and Libya</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Park, Jiyoun</displayForm>
+                        <namePart type="family">Park</namePart>
+                        <namePart type="given">Jiyoun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-06-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The international community has frequently introduced economic sanctions to curb the proliferation of weapons of mass destruction, to which each target nation has reacted differently. This paper explores the reasons why each target of economic sanctions reacts differently by specif- ically building a model based on reference point effects, and by analyzing the cases of North Korea and Libya. According to the results, when the reference point level increases, as in the case of North Korea, the target resists more firmly; on the other hand, when the reference point decreases, like in the case of Libya, the target resists more subtly.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3085</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3085">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3085/pdf_1" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3085" DMDID="DMD_biejournals_3085">
+            <mets:fptr FILEID="FILE0_biejournals_3085"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

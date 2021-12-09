@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4116">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Women in Montenegro exhibit a high degree of happiness and life satisfaction</title>
+                        <subTitle>Data from the Multiple Independent Cluster Survey 2018</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ljaljevic, Agima</displayForm>
+                        <namePart type="family">Ljaljevic</namePart>
+                        <namePart type="given">Agima</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel, Helmut</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-01-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Montenegrin government is increasingly aware of the key role of women in the society and attempts to improve social cohesion among Montenegrin people. Precondition is a high degree of life satisfaction and happiness.
+Methods: We used the Multiple Indicator Cluster Survey (MICS) of 2018 to analyse the distribution and interaction of 22 potential determinants out of 383 variables available. The participation rate was 77.7 or 2,276 women aged 15-49 years out of 2,928 invited. As data quality turned out to be limited, we employed a data mining approach, i.e. an interactive Classification and Regression Tree (C&amp;amp;RT). Happiness was measured ranging from very happy to very unhappy on a categorical scale of 5 steps
+Results: Of all Montenegrin women 70.7% declared themselves as very happy. Likewise, a 10-point scale of life satisfaction classifies 82.0% of the sample in the top ranks 8-10. Furthermore, 73.6% of the women expect the next year to be even better. Wealth, younger age, and marriage or living in union determine the status of happiness.
+Conclusion: Women in Montenegro exhibit a high degree of self-reported happiness and life satisfaction. Montenegrin policies should continue to support the role of women in the society.
+ 
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4116</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4116">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4116/4037" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4116" DMDID="DMD_biejournals_4116">
+            <mets:fptr FILEID="FILE0_biejournals_4116"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

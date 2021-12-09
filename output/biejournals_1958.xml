@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1958">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Making sense of the impact agenda in UK higher education</title>
+                        <subTitle>A case study of Preventing Violent Extremism policy in schools</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jerome, Lee</displayForm>
+                        <namePart type="family">Jerome</namePart>
+                        <namePart type="given">Lee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This article explores the policy context in the UK around securing impact from academic research, particularly from the perspective of a social science education researcher. 
+Approach: The article locates impact studies within debates about broader accountability frameworks. Insights from this literature are applied to a case study about Preventing Violent Extremism (PVE) policy.
+Findings: Linear models of ‘impact’ are problematic for social science education researchers (especially (ex) school teachers) for several reasons. First, research and impact may be intertwined, especially in broader development work with practitioners. Second, impact in schools and on learners is often difficult to measure. Third, it is not always clear how the research contributes to impact, as opposed to other roles or activities in professional communities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1958</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1958">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1958/3668" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1958" DMDID="DMD_biejournals_1958">
+            <mets:fptr FILEID="FILE0_biejournals_1958"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

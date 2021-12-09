@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_796">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Human Rights Education in Israel</title>
+                        <subTitle>Four Types of Good Citizenship</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Agbaria, Ayman Kamel</displayForm>
+                        <namePart type="family">Agbaria</namePart>
+                        <namePart type="given">Ayman Kamel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Katz-Pade, Revital</displayForm>
+                        <namePart type="family">Katz-Pade</namePart>
+                        <namePart type="given">Revital</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article examines the involvement of civil society organizations in human rights education (HRE) in Israel. Focussing on the educational programs of the Association for Civil Rights in Israel (ACRI), as a qualitative instrumental case study, this article examines the conceptions of good citizenship embedded in these programs. Specifically, the article analyzes the educational programs’ goals, content, targeted populations, and practices. The analysis revealed that ACRI’s HRE model reflect four ideal types of citizens: citizen of a democratic liberal state, citizen of a participatory polity, citizen of an ethical profession, and citizen of an empowered community. These constitute a multilayered human rights discourse that enables ACRI to engage differentially with various sectors and populations, while still remaining faithful to the ethno-national parameters of a Jewish and democratic state political framework.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_796</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_796">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/796/870" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_796">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/796/871" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_796" DMDID="DMD_biejournals_796">
+            <mets:fptr FILEID="FILE0_biejournals_796"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_796" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_796"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

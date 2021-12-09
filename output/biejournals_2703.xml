@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2703">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Förderung der Diagnosefähigkeiten angehender Lehrkräfte hinsichtlich Lernendenvorstellungen</title>
+                        <subTitle>Anwendung der Didaktischen Rekonstruktion zur Gestaltung eines hochschuldidaktischen Seminars</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Fostering Pre-Service Teachers’ Diagnostic Abilities Regarding Students’ Conceptions</title>
+                        <subTitle>Anwendung der Didaktischen Rekonstruktion zur Gestaltung eines hochschuldidaktischen Seminars</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heeg, Julian</displayForm>
+                        <namePart type="family">Heeg</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bittorf, Robert Marten</displayForm>
+                        <namePart type="family">Bittorf</namePart>
+                        <namePart type="given">Robert Marten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schanze, Sascha</displayForm>
+                        <namePart type="family">Schanze</namePart>
+                        <namePart type="given">Sascha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Förderung von wissens- und fähigkeitsbezogenen Aspekten der Diagnose von individuellen fachlichen Lernendenvorstellungen ist ein wichtiger Bestandteil vieler universitärer Fachdidaktiken. Unter Anwendung des Planungsrahmens der Didaktischen Rekonstruktion wurde daher eine Seminarkonzeption exemplarisch für die chemiedidaktische Lehre entwickelt und durchgeführt. In diesem Beitrag werden entsprechend zwei Ziele verfolgt: Einerseits wird eine Seminarkonzeption vorgestellt, welche zur Förderung der Diagnosefähigkeiten angehender Lehrkräfte beitragen soll und welche auch von weiteren Fachberei-chen verwendet werden kann, in denen Lernendenvorstellungen eine zentrale Rolle spielen. Andererseits wird die konkrete Anwendung der Didaktischen Rekonstruktion zur Planung dieses Seminars exemplarisch vorgestellt. Im Rahmen dieses Beitrags werden außerdem Evaluationsergebnisse aus zwei Umsetzungen des Seminars präsentiert. Diese zeigen, dass die Studierenden ihr diagnostisches Wissen sowie ihre diagnostischen Fähigkeiten im Rahmen des Seminars verbessern können. Auch ihre Perspektive hinsichtlich der Bedeutung von Lernendenvorstellungen für ihren späteren Unterricht entwickelt sich hin zu einer wertschätzenden Variante. Durch die Konfrontation mit alternativen Lernendenvorstellungen beginnen die Studierenden, kritisch ihr eigenes Fachwissen zu reflektieren, und ziehen Parallelen zwischen ihren persönlichen Lernprozessen und denen der Schüler*innen. In einem Ausblick werden Anknüpfungspunkte für kommende Lehrveranstaltungen skizziert.
+ </abstract>
+                    <abstract lang="eng">The development and training of skills enabling pre-service teachers (PSTs) to diagnose students’ conceptions is an important aspect of university teacher education. In order to achieve this goal, a course concept using the Model of Educational Reconstruction as a scaffold was created and tested at the University of Hannover in the field of chemical education. The goal of this article is therefore twofold: Firstly, a course concept for the development and training of pre-service teachers’ diagnostic skills will be presented. Secondly, the concrete use of the Model of Educational Reconstruction for establishing a course will be outlined. PSTs’ feedback and evaluation from two years show that PSTs’ knowledge and abilities regarding students’ conceptions increase during the course. Furthermore, PSTs’ perception of students’ conceptions as well as their critical role for learning change towards an appreciating perspective. When confronted with alternative conceptions, PSTs begin to reflect critically on their own content knowledge and draw parallels between their personal learning processes and those of the students. In addition, starting points for future courses are outlined.
+ </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2703</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2703">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2703/4148" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2703">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2703/4149" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_2703">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2703/4150" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2703" DMDID="DMD_biejournals_2703">
+            <mets:fptr FILEID="FILE0_biejournals_2703"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2703" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2703"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_2703" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_2703"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

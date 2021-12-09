@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_882">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teaching Economics among other Social Sciences? The issue of Pluralism in the Struggles surrounding the Economic and Social Sciences Curricula in the French High School since 1967.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Martinache, Igor</displayForm>
+                        <namePart type="family">Martinache</namePart>
+                        <namePart type="given">Igor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article aims at presenting the original design of the teaching of Economic and Social Sciences (SES) in the French High School and at demonstrating that the issue of pluralism lies at the core of the various controversies surrounding it since its creation.Approach: This article is based on more than 40 interviews with SES teachers and key personalities, on curricula and official reports analyses and on a ten years participating observation in the SES teachers professional association.Findings: This text strives to display how the defence of pluralism has become a core issue to SES teachers, as a “mobilized group” as well as in their individual professional practices.Research implications: Such statements may be deepen in two directions. The first consists in comparing the French situation to that in other countries as regards the teaching of economics and social sciences in high school. The second may imply to investigate deeper about teachers’ training and practices about such issues. Practical implications: The other aim of this text is raising debates about the objectives of teaching economics and social sciences in general in high school in a context where school is more and more committed to strengthening citizenship as well as preparing for higher education and professional life.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_882</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_882">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/882/1019" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_882">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/882/1020" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_882">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/882/1021" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE3_biejournals_882">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/882/1022" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_882" DMDID="DMD_biejournals_882">
+            <mets:fptr FILEID="FILE0_biejournals_882"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_882" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_882"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_882" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_882"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_882" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_882"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

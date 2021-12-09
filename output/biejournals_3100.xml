@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Neighbourhood Effects on Jihadist Radicalisation in Germany? Some Case-Based Remarks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hüttermann, Jörg</displayForm>
+                        <namePart type="family">Hüttermann</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">About twenty young people travelled from a small German former mining settlement named Dinslaken-Lohberg to become fighters with al-Nusra and ISIS. They drew particular attention, with media reports about “members” of what they termed the “Lohberg Brigade” killed in the fighting, or in air strikes by the anti-ISIS coalition, or in spectacular suicide attacks claiming many victims. Drawing on that case, the article explores how neighborhood can effect the emergence and persistence of radicalisation to jihadi neo-Salafism. The author presents a series of local elements that interfere with one another to strengthen each other’s persistence and effects and thus promote the emergence and persistence of the radicalisation phenomenon at hand. The interference of elements is not an automatic but a social process, enacted by neighbors telling stories of conspiracy, of discrimination and recounting experiences of spirituality, heroism, masculinity, and femaleness. It is performed by neighbors setting, crossing and avoiding symbolic boundaries. And finally it is played by neighbors simply following their routines. The author shows how explaining space-related radicalisation processes means more than adding up spatial factors. His approach rejects the idea of isolating a single social fact – such as local structures, events, processes or social actors that existed, occurred or acted prior to the emergence of radicals in their neighbourhood – as definite cause for radicalisation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3100</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3100">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3100/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3100" DMDID="DMD_biejournals_3100">
+            <mets:fptr FILEID="FILE0_biejournals_3100"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

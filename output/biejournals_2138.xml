@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2138">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Alberto Gimeno, Gemma Baulenas, Joan Coma-Cros</title>
+                        <subTitle>Familienunternehmen führen - Komplexität managen. Mentale Modelle und praktische Lösungen, Göttingen (Vandenhoeck &amp; Ruprecht) 2010</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Faßnacht, Michael</displayForm>
+                        <namePart type="family">Faßnacht</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Buchrezension</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2138</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2138">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2138/2005" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2138" DMDID="DMD_biejournals_2138">
+            <mets:fptr FILEID="FILE0_biejournals_2138"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

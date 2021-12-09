@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3352">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Editorial zur zweiten Ausgabe der HLZ</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Editorial</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Störtländer, Jan Christoph</displayForm>
+                        <namePart type="family">Störtländer</namePart>
+                        <namePart type="given">Jan Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Knickenberg, Margarita</displayForm>
+                        <namePart type="family">Knickenberg</namePart>
+                        <namePart type="given">Margarita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Wir freuen uns, das zweite Jahresheft der HLZ vorlegen zu können. In diesem Editorial werden wir zunächst die 14 Beiträge dieser Ausgabe vorstellen und sodann aus der zurückliegenden Entwicklung der Zeitschrift Perspektiven auf das laufende und bevorstehende Arbeitsprogramm werfen, was neben der Jahresausgabe sowohl die Themenhefte der HLZ als auch weitere Publikationsorgane beinhalten wird.
+&amp;nbsp;
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3352</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3352">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3352/3597" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3352" DMDID="DMD_biejournals_3352">
+            <mets:fptr FILEID="FILE0_biejournals_3352"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_832">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Segregation and Socialization</title>
+                        <subTitle>Academic Segregation and Citizenship Attitudes of Adolescents in Comparative Perspective?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kavadias, Dimokritos</displayForm>
+                        <namePart type="family">Kavadias</namePart>
+                        <namePart type="given">Dimokritos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hemmerechts, Kenneth</displayForm>
+                        <namePart type="family">Hemmerechts</namePart>
+                        <namePart type="given">Kenneth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spruyt, Bram</displayForm>
+                        <namePart type="family">Spruyt</namePart>
+                        <namePart type="given">Bram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: There is a tendency to assess educational systems in terms of their efficiency in gaining high scores on cognitive skills. Schools perform, however, also a socializing function. The whole policy debate tends to ignore the impact of educational systems on attitudes or democratic values. This contribution focuses on the impact of the organization of education in European societies on the civic attitudes of adolescents. Design/methodology/approach: We explore the impact of academic segregation – the practice of segregating children on the basis of their scholastic achievement – on attitudes of adolescents living in different educational systems. We use the International Civic and Citizenship Education Study (2009) relying on multilevel models.Findings: Pupils differ in their outlook on fellow citizens, according to the ways in which educational systems select and differentiate throughout school careers. More specifically, there is a negative impact of academic segregation on the attitudes towards immigrants and ethnic minorities. Research limitations/implications: The experience of adolescents based on their educational achievement seems to affect how they perceive other people. We have not answered the question why this is the case. We hope to have provided a minimal indication of the impact of inequality on social outcomes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_832</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_832">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/832/936" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_832">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/832/937" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_832">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/832/938" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE3_biejournals_832">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/832/939" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE4_biejournals_832">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/832/940" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_832" DMDID="DMD_biejournals_832">
+            <mets:fptr FILEID="FILE0_biejournals_832"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_832" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_832"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_832" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_832"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_832" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_832"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_832" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_832"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

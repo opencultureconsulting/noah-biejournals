@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3609">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>konzeptionelle Kern des Schulversuchs der „Universitätsschule Dresden“ im Corona-Test</title>
+                        <subTitle>Maßnahmenpaket zum gemeinsamen Lernen trotz Distanz im Modellversuch</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langner, Anke</displayForm>
+                        <namePart type="family">Langner</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heß, Maxi</displayForm>
+                        <namePart type="family">Heß</namePart>
+                        <namePart type="given">Maxi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird ein Modell des gemeinsamen Lernens in der Schule und des Lernens auf Distanz in Zeiten von Corona im Rahmen des Schulversuchs Universitätsschule Dresden vorgestellt. Ausgehend von einem kurzen Einblick in das Lernen in dem Schulversuch während der amtlich angeordneten Schulschließung wird das Modell charakterisiert, in dem der Schulversuch seit Schulöffnung am 18. Mai 2020 in der Grund- und Oberschule das Lernen in Gruppen in einem Wechsel zwischen direktem Schulbesuch und Lernen im häuslichen Umfeld ermöglicht. Im Besonderen hervorgehoben werden das Verhältnis von digital gestütztem Lernen und sozialem, direktem Austausch wie auch die pädagogische Methode – das Lernen in Projekten – als der pädagogische Kern des aktuellen Lernens in der Zeit nach Kontaktsperren und der Maßgabe des Social Distancing.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3609</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3609">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3609/3709" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3609" DMDID="DMD_biejournals_3609">
+            <mets:fptr FILEID="FILE0_biejournals_3609"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

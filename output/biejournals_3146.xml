@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3146">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Active Citizenship</title>
+                        <subTitle>Participatory Patterns of European Youth</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Enchikova, Ekaterina</displayForm>
+                        <namePart type="family">Enchikova</namePart>
+                        <namePart type="given">Ekaterina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neves, Tiago</displayForm>
+                        <namePart type="family">Neves</namePart>
+                        <namePart type="given">Tiago</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Beilman, Mai</displayForm>
+                        <namePart type="family">Beilman</namePart>
+                        <namePart type="given">Mai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Banaji, Shakuntala</displayForm>
+                        <namePart type="family">Banaji</namePart>
+                        <namePart type="given">Shakuntala</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pavlopoulos, Vassilis</displayForm>
+                        <namePart type="family">Pavlopoulos</namePart>
+                        <namePart type="given">Vassilis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ferreira, Pedro Daniel</displayForm>
+                        <namePart type="family">Ferreira</namePart>
+                        <namePart type="given">Pedro Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng"> 
+ Purpose: Treating Active Citizenship as a sum of behavioral indicators requires certain prerequisites that can be difficult to meet in practice (e.g. structural validity and measurement invariance). We explore a different approach, in which we treat Active Citizenship as a categorical, rather than a linear, construct. 
+Design: Based on longitudinal data from eight European countries, we discovered the patterns’ structure based on the first-year data and then replicated the analysis on the second-year sample to confirm it. Next, we explored the change between the years and its’ trajectories. We compared countries profiles and their change. Finally, we used multinomial logistic regression to explore the most common trajectories. 
+Findings: We describe six patterns: fighter, activist, volunteer, backer, online and indifferent. The pattern structure is replicable and 41.8% of respondents preserve their pattern. For those respondents who changed their pattern, we identified political interest, religiosity, gender and age as the main factors behind this change. 
+Research implications: The study contributes to the understanding of youth Active Citizenship and the factors that support and promote it. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3146</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3146">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3146/4215" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3146" DMDID="DMD_biejournals_3146">
+            <mets:fptr FILEID="FILE0_biejournals_3146"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

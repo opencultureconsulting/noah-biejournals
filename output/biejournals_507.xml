@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_507">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>Die </nonSort>
+                        <title>internationale Finanzkrise als Thema im dänischen Wirtschaft-/Politikunterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Malich, Nadine</displayForm>
+                        <namePart type="family">Malich</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-07-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Spätestens die internationale Finanzkrise hat verdeutlicht, dass Unterricht für Politik und Wirtschaft in der Schule auf Entwicklungen der fortschreitenden Globalisierung reagieren muss um Schüler möglichst optimal auf ihre Rolle als Bürger der Gesellschaft vorbereiten zu können. Dänemark ist ein kleines Land mit einer bewegten Geschichte, einer langen Tradition der Demokratie und einer ursprünglich sehr homogenen Bevölkerung. Hier nimmt politische Bildung einen besonderen Stellenwert ein, denn die dänische Bevölkerung muss sich vor dem Hintergrund der Globalisierung ganz neuen Herausforderungen stellen: unter anderem der Frage nach der zukünftigen Bedeutung des Nationalstaats und der Abhängigkeit von der internationalen Wirtschaft auch in Krisenzeiten. In diesem Aufsatz wird einführend das dänische Schulsystem und das Fach für wirtschaft-politische Bildung in Dänemark vorgestellt. Dann wird der Umgang mit dem Thema Finanzkrise im Unterricht aufgezeigt und abschließend die Frage nach notwendigen, zukünftigen Veränderungen des Lehrplans bzw. der allgemeinen Zielsetzung des Faches zu beantworten versuchtreact to progressive globalisiation to prepare pupils as optimal as possible for their role as citizens in the global society. Denmark is a small country with a changing history, a long tradition of democracy and a very homogeneous population. Here, political education has special value, since the Danish population, viewed in the context of globalisation, has to respond to a new challenge; among others the question of future meaning of the national state and the dependence on the international economy also during times of crisis. In this article, the Danish schoolsystem and courses on political and economical education will be introduced. Then issues relating to the financial crisis in these courses will be highlighted. Finally, the question of whether the necessary changes of the syllabus or rather the overall objective of the subject in the future should be changed will be addressed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_507</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_507">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/507/504" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_507" DMDID="DMD_biejournals_507">
+            <mets:fptr FILEID="FILE0_biejournals_507"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

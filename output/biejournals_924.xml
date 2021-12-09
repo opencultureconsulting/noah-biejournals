@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_924">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Irritating flirtations. Reflections on the relationship between history and sociology since the 1970s</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Welskopp, Thomas</displayForm>
+                        <namePart type="family">Welskopp</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The article shows that whereas a close interdisciplinary cooperation between history and sociology at Bielefeld University had already been envisioned by its founding fathers, this has remained not much more than a program for the first thirty years. Only recently, after both disciplines had had flirtations with other adjacent fields of study, they have been showing a renewed interest in each other. Institutions like the Bielefeld Graduate School in History and Sociology, designed for a joint graduate training program, have taken their collaboration onto an unprecedented theoretical, methodological, and organizational level. The article argues that sociology may profit from history’s self-reflective turn during its clash with postmodernism. History’s declared belief in an enlightened constructivism and its insistence both in the temporality of all social practices and in the historicity of all concepts could spark a new consciousness within sociology in regard to its theoretical and methodological foundations. History, in turn, may learn from sociology in terms of the multiple patterns of change which are discussed here. Although the range of “sociologies” which will be able and willing to cooperate with history may be restricted, there are some approaches – like New Institutionalism – that do share important assumptions with history about the inner workings of organizations, the nature of human actors, and development over time. Their interests seem to converge in the general question of how to appropriately conceptualize and explain social dynamics and change.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_924</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_924">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/924/1032" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_924" DMDID="DMD_biejournals_924">
+            <mets:fptr FILEID="FILE0_biejournals_924"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

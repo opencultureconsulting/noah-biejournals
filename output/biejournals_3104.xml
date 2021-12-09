@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3104">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Critical Media Literacy and Islamist Online Propaganda</title>
+                        <subTitle>The Feasibility, Applicability and Impact of Three Learning Arrangements</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmitt, Josephine B.</displayForm>
+                        <namePart type="family">Schmitt</namePart>
+                        <namePart type="given">Josephine B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rieger, Diana</displayForm>
+                        <namePart type="family">Rieger</namePart>
+                        <namePart type="given">Diana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ernst, Julian</displayForm>
+                        <namePart type="family">Ernst</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roth, Hans-Joachim</displayForm>
+                        <namePart type="family">Roth</namePart>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The networked structure of the internet facilitates the dissemination of extremist messages and often makes removal impossible. Equipping media users with critical (preventive) skills appears a more promising strategy than trying to block any exposure to extremist messages. Although various prevention programs follow this approach, research on their impact and success is scarce. This contribution describes how prevention programs can benefit from systematic evaluation using the example of the CONTRA school program, which seeks to foster critical media literacy with regard to extremist online messages via three sub-dimensions: awareness, reflection, and empowerment. The feasibility, applicability and impact of methods and measures developed in the context of CONTRA were assessed using an innovative mixed method design. The contribution describes the scientific approach of the prevention program, outlines the results of the evaluation and extrapolates from this prevention program to the general question of best practices for prevention programs with a specific focus on the school context.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3104</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3104">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3104/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3104" DMDID="DMD_biejournals_3104">
+            <mets:fptr FILEID="FILE0_biejournals_3104"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

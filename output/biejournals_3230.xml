@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3230">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial Literacy as Citizenship Education – a viable prospect?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Björklund, Mattias</displayForm>
+                        <namePart type="family">Björklund</namePart>
+                        <namePart type="given">Mattias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sandahl, Johan</displayForm>
+                        <namePart type="family">Sandahl</namePart>
+                        <namePart type="given">Johan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This article aims to discuss what kind of teaching is required to enable&amp;nbsp;students to critically review financial issues in a way that is in accordance with a broad&amp;nbsp;citizenship education.
+Method: Content analysis where an assessment of students’ answers was compared&amp;nbsp;and aligned with Westheimer &amp;amp; Kahne’s (2004) theory driven conceptions of&amp;nbsp;citizenship.
+Findings: Findings demonstrate that students’ understandings correspond with the&amp;nbsp;three conceptions and give important indications of what needs to be included in&amp;nbsp;teaching in order to address financial issues as citizenship education.
+Implications: Focus in financial literacy education should be widened to include political&amp;nbsp;and social aspects of the relation between households and the financial systems.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3230</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3230">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3230/3903" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3230" DMDID="DMD_biejournals_3230">
+            <mets:fptr FILEID="FILE0_biejournals_3230"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

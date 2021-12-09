@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2824">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>More the Merrier? The Effects of Type of Cultural Diversity on Exclusionary Immigration Attitudes in Switzerland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Green, Eva G. T.</displayForm>
+                        <namePart type="family">Green</namePart>
+                        <namePart type="given">Eva G. T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fasel, Nicole</displayForm>
+                        <namePart type="family">Fasel</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sarrasin, Oriane</displayForm>
+                        <namePart type="family">Sarrasin</namePart>
+                        <namePart type="given">Oriane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">We investigate how different types of cultural diversity influence anti-immigration attitudes across Swiss municipalities. While from a threat theory perspective, a high number of immigrants within a region increases (perceived) threat which fosters negative immigration attitudes, intergroup contact theory contends that culturally diverse societal contexts increase opportunities for contacts with immigrants, which give rise to more positive immigration attitudes. Prior research on ethnic hierarchies and host society acculturation attitudes led us to hypothesize that the presence of valued, “culturally similar” immigrants from wealthier countries increases contact and decreases threat, thereby reducing anti-immigrant prejudice. The presence of devalued, “culturally distant” immigrants from poorer countries should increase threat perceptions and dissuade contact thus heightening prejudice. A multilevel study was conducted using the 2002 European Social Survey (N = 1472 Swiss citizens, N = 185 municipalities). Replicating previous research, contact reduced exclusionary immigration attitudes through reduced threat. On the municipality level, higher proportion of North and West European immigrants increased contact, thus reducing threat. A larger proportion of Muslims was related to an increase in threat, leading to more pronounced exclusionary attitudes, but also to increased contact. Finally, we discuss how the impact of diversity depends on the social construction of immigrant categories, respondents’ social position and ideological stances, and the prevailing local ideological climate.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2824</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2824">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2824/pdf_12" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2824" DMDID="DMD_biejournals_2824">
+            <mets:fptr FILEID="FILE0_biejournals_2824"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

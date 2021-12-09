@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3094">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>How Violence Breeds Violence</title>
+                        <subTitle>Micro-dynamics and Reciprocity of Violent Interaction in the Arab Uprisings</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bramsen, Isabel</displayForm>
+                        <namePart type="family">Bramsen</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article builds on the recent trend of analyzing violent interaction through visual data, but goes one step further than existing research studying the emergence of violence by investigating the micro-dynamics of how violence evolves. The article applies micro-sociological analysis of video material from the uprisings in Bahrain, Tunisia, and Syria as well as interviews with activists, opposition politicians, and journalists from the three countries. The material supports Randall Collins’s (2008) argument that the emergence of violence is constrained by particular situational circumstances where the perpetrator is able to dominate the victim and/or to avoid direct contact with the victim. However, contrary to what one might expect if emotional domination precedes violence, this does not mean that attacks are rarely followed by counter violence. Rather, this article argues that violence is often reciprocal with parties mirroring each other in action-reaction sequences. Hence, violence can be considered a form of interaction ritual in its own right – a dance-like sequence – initially inhibited by the human tendency to fall into each other’s rhythms, but once initiated promoted by exactly that tendency.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3094</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3094">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3094/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3094" DMDID="DMD_biejournals_3094">
+            <mets:fptr FILEID="FILE0_biejournals_3094"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

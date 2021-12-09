@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1014">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>enigmatic ground. On the genesis of law out of emotion in the writings of Savigny and Uhland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Köhler, Sigrid G.</displayForm>
+                        <namePart type="family">Köhler</namePart>
+                        <namePart type="given">Sigrid G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Florian</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Against the dominant cultural script according to which law and emotion are incompatible, this essay brings into focus the reciprocal relation of law and emotion that forms in the eighteenth century and is foundational for the self-conception of the modern citizen around 1800. This reciprocity is enabled by the ›discovery‹ and valorization of emotion as an independent faculty, as we show with recourse to first the moral-sense-debate and then Rousseau and Herder. In the course of being theorized, emotion acquires an irreducible relevance for cognition, judgment, and subject formation—and thereby also for law, insofar as it is understood as normative knowledge and as guide for the actions of the subject. Just how fundamental the epistemological relevance of emotion is at the beginning of the nineteenth century is revealed not only by the emergence of the term Rechtsgefühl, but also and above all by its systematic deployment on entirely different levels: such as in law, in politics, and in literature, as we illustrate with reference to texts of legal scholarship by Savigny and the political poetry of Uhland. It thus guides, for example, the cultural-history narrative of the rise of law (Savigny/Uhland), becomes a fundamental requirement for the Historical School&apos;s method of legal scholarship (Savigny), and finally grounds the demand for the political participation of citizens, inasmuch as the law and the constitution are derived from human emotion (Uhland).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1014</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1014">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1014/1122" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1014" DMDID="DMD_biejournals_1014">
+            <mets:fptr FILEID="FILE0_biejournals_1014"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

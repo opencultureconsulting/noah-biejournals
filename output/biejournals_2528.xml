@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2528">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vom Leitbild zur Seminarplanung – Ansätze zur Anbahnung Reflektierter Handlungsfähigkeit in einer inklusionsorientierten, diversitätssensiblen Lehrer*innenbildung</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>From a Guiding Principle to a Seminar Concept and Back – Approaches to Reflektierte Handlungsfähigkeit [Ability to Act in a Reflected Way] in an Inclusive and Diversity-Sensitive Pre-Service Teacher Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oldenburg, Maren</displayForm>
+                        <namePart type="family">Oldenburg</namePart>
+                        <namePart type="given">Maren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sterzik, Linda</displayForm>
+                        <namePart type="family">Sterzik</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel stellt zwei Seminarkonzeptionen vor, die im Rahmen des Projekts „Leibniz-Prinzip“ der „Qualitätsoffensive Lehrerbildung“ an der Leibniz Universität Hannover entwickelt wurden. Ziel dieser Lehr-Lern-Formate ist die (Weiter-)Entwicklung einer inklusionsorientierten, diversitätssensiblen Haltung, um so einen Beitrag zur Anbahnung einer Reflektierten Handlungsfähigkeit als Leitbild der hannöverschen Lehrer_innenbildung zu leisten. Neben der Darlegung der theoretischen und konzeptionellen Bezüge des Leitbilds und der damit verbundenen professionellen Haltung werden verschiedene Bausteine genannt, die in Lehr-Lern-Formaten im Kontext von Inklusion, Diversität, Intersektionalität und Differenz Berücksichtigung finden sollten. Reflexion nimmt eine zentrale Stellung in der universitären Lehrer_innenbildung ein und bezieht sich zunächst darauf, Reflexionsangebote für Studierende zu schaffen. Doch kann dies ebenso für Lehrende als Anlass dienen, ihre Veranstaltungen retrospektiv einer Analyse hinsichtlich der Reflexionsangebote zu unterziehen. Das EDAMA-Reflexionsmodell diente dazu, die beiden exemplarischen Seminare dahingehend zu untersuchen.</abstract>
+                    <abstract lang="eng">In this article, two exemplary seminar concepts are presented. These courses are embedded in the project “Leibniz-Prinzip” [Leibniz Principle] at Leibniz University Hannover, focusing the development of an inclusive and diversitysensitive belief-system, which is basic for the guiding principle Reflektierte Handlungsfähigkeit [Ability to Act in a Reflected Way]. Also other important elements of that principle guideline and the process of professionalization are introduced, which should be taken into consideration for planning pedagogic settings in preservice teacher education. Reflection is a central part of teacher education and should be evoked and supported from the very beginning. The EDAMA model of reflection is used to analyze how lecturers can offer reflective occasions in courses for students
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2528</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2528">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2528/3391" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2528">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2528/3392" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2528" DMDID="DMD_biejournals_2528">
+            <mets:fptr FILEID="FILE0_biejournals_2528"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2528" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2528"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

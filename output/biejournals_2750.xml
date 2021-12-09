@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2750">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Multi-Dimensional Approach to Suicide Bombing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gill, Paul</displayForm>
+                        <namePart type="family">Gill</namePart>
+                        <namePart type="given">Paul</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-11-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Understanding suicide bombing entails studying the phenomenon on three different dimensions: the suicide bomber, the terrorist organization, and the com- munity from which suicide bombings emerge. Political and social psychology allow us to establish the reciprocal relationships that underpin the exchanges between the three dimensions. This method increases our theoretical understanding of suicide bombing by moving away from the unidimensional models that have previously dominated the terrorism literature.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2750</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2750">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2750/2511" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2750" DMDID="DMD_biejournals_2750">
+            <mets:fptr FILEID="FILE0_biejournals_2750"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_943">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>cultural history of elections in the USA and Germany. Meanings and functions of elections in the 19th century</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Richter, Hedwig</displayForm>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="given">Hedwig</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Why did elections become so important in the 19th century, not only in terms of determining who would enter office, but also in terms of including more and more people, and therefore their increasing significance in people’s lives? What functions did governments ascribe to elections, and what motives did those in power have when they introduced elections? What importance did people give to the vote?By help of a cultural approach, Hedwig Richter argues that the extension of the franchise can be understood better when elections are seen not only as an instrument of power for the masses but also as an instrument of discipline wielded by those in power. Elections as a performative act can be read, that is, not only as a demonstration of power by the people, but also as a subjugation of the people to authority, a subjugation which was regarded as ›modern‹ and appropriate to the time.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_943</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_943">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/943/1051" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_943" DMDID="DMD_biejournals_943">
+            <mets:fptr FILEID="FILE0_biejournals_943"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

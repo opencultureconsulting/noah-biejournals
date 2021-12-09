@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4881">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einstellungen von angehenden Lehrer*innen gegenüber (Cyber-)Mobbing und wahrgenommene Interventionskompetenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Paulus, Christoph</displayForm>
+                        <namePart type="family">Paulus</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mobbing ist ein großes Problem in der Schule, und der Umgang damit wird in der Lehrer*innenausbildung selten oder gar nicht thematisiert. In dieser Studie befragten wir 103 deutsche Lehramtsanwärter*innen zu ihrer Einstellung gegenüber körperlichen, verbalen, relationalen und Cybermobbing-Situationen. Für jede dieser Situationen wollten wir einschätzen, (a) wie ernst man die Situation nehmen würde (Schweregrad), (b) wie wütend man über die Situation wäre (Ärger), (c) wie mitfühlend man gegenüber dem Opfer wäre (Empathie), (d) wie wahrscheinlich eine Intervention wäre (Intervention) und (e) wie kompetent man sich fühlen würde, in der Situation zu intervenieren (Kompetenz). Alle Arten von Mobbing wurden sehr ernst genommen, wobei verbales Mobbing signifikant weniger ernst genommen wurde als die anderen drei Arten. Cybermobbing und physische Angriffe führten zu größerer Verärgerung als verbales oder relationales Mobbing. Häufigeres Eingreifen wurde für Cyber- und physisches Mobbing berichtet, seltener für relationales und verbales Mobbing. Angehende Lehrer*innen fühlten sich aber in allen Mobbing-Situationen wenig kompetent einzugreifen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4881</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4881">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4881/4599" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4881" DMDID="DMD_biejournals_4881">
+            <mets:fptr FILEID="FILE0_biejournals_4881"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2556">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seminarkonzept zur videogestützten Lehre im beruflichen Lehramtsstudium unter dem Analysefokus „Umgang mit Heterogenität“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Koschel, Wilhelm</displayForm>
+                        <namePart type="family">Koschel</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weyland, Ulrike</displayForm>
+                        <namePart type="family">Weyland</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für das Setting der beruflichen Bildung und der damit korrespondierenden Lehrerbildung wurde das Potenzial der professionellen Unterrichtswahrnehmung anhand authentischer Unterrichtssequenzen bisher nur unzureichend erforscht. Dieses Forschungsdesiderat wurde durch die AG Berufspädagogik an der Westfälischen Wilhelms-Universität Münster im Rahmen der Qualitätsoffensive Lehrerbildung aufgegriffen. Einige dieser Forschungsergebnisse werden in diesem Beitrag dargestellt, in dem der Frage nachgegangen wird, inwiefern authentische Unterrichtsvideos, aufgenommen an beruflichen Schulen, die professionelle Unterrichtswahrnehmung von Studierenden hinsichtlich des Umgangs mit Heterogenität in der beruflichen Bildung fördern können. In Abgrenzung zum allgemeinbildenden Lehramt ergeben sich aufgrund der anderen Altersstruktur der Auszubildenden in den Videos und des didaktischen Kontextes in beruflichen Schulen veränderte Anforderungen an den Einsatz von Unterrichtsvideos. In diesem Beitrag wird eine kurze theoretische Modellierung des Analysefokus entsprechend des Umgangs mit Heterogenität vorgenommen. Mit Bezügen zur Klassenführung und Aktivierung werden notwendige und hinreichende Voraussetzungen für einen zielgerichteten Umgang mit Heterogenität dargestellt. Es folgen Ausführungen zur Seminarkonzeption. Diese erstreckt sich über sieben Wochen, in denen das didaktisch intendierte Ziel der professionellen Unterrichtswahrnehmung bezüglich des Umgangs mit Heterogenität handlungsleitend ist. Ausgewählte Videovignetten wurden in ein spezifisches Analysetool eingebettet und hinsichtlich notwendiger und hinreichender Voraussetzungen für einen zielgerichteten Umgang mit Heterogenität in den Seminaren durch die Studierenden analysiert. Abschließend werden ausgewählte Ergebnisse der Evaluation hervorgehoben.</abstract>
+                    <abstract lang="eng">In the setting of vocational education and the corresponding pre-service teacher education, the potential of Professional Vision based on authentic videosequences has been researched insufficiently so far. This article addresses the question of how authentic videosequences, recorded at vocational schools, can foster professional vision of pre-service teachers regarding their ability of dealing with diversity in vocational education. The difference in age of the trainees and the specific didactic context in vocational schools in contrast to the general teaching results in changed requirements for the use of authentic videosequences. Due to the specific video material, current findings on professional vision based on authentic videosequences referring to the primary and secondary level cannot be fully transferred. This article deals with a short theoretical modelling of an analysis focus regarding the dealing with diversity in vocational education. With referring to classroom management and activation, necessary and sufficient conditions for a purposeful dealing with diversity are presented. The following is a description of the seminar concept over a period of seven weeks, during which the didactically intended goal of Professional Vision regarding the ability of dealing with diversity. Selected videosequences were embedded in a specific analysis tool and analyzed by the students concerning necessary and sufficient conditions for a purposive dealing with diversity in the seminars. Finally, selected results of the evaluation are highlighted.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2556</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2556">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2556/3517" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2556" DMDID="DMD_biejournals_2556">
+            <mets:fptr FILEID="FILE0_biejournals_2556"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

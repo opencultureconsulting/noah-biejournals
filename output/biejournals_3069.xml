@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3069">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Domestic Democratic Peace in the Middle East</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Abulof, Uriel</displayForm>
+                        <namePart type="family">Abulof</namePart>
+                        <namePart type="given">Uriel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Goldman, Ogen</displayForm>
+                        <namePart type="family">Goldman</namePart>
+                        <namePart type="given">Ogen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The democratic peace theory has two complementary variants regarding intrastate conflicts: the “democratic civil peace” thesis sees democratic regimes as pacifying internal tensions; the “anocratic war” thesis submits that due to nationalism, democratizing regimes breed internal violence. This paper statistically tests the two propositions in the context of the contemporary Middle East and North Africa (MENA). We show that a MENA democracy makes a country more prone to both the onset and incidence of civil war, even if democracy is controlled for, and that the more democratic a MENA state is, the more likely it is to experience violent intrastate strife. Interestingly, anocracies do not seem to be predisposed to civil war, either worldwide or in MENA. Looking for causality beyond correlation, we suggest that “democratizing nationalism” might be a long-term prerequisite for peace and democracy, not just an immediate hindrance. We also advise complementing current research on intrastate and interstate clashes with the study of intercommunal conflicts and the democratic features of non-state polities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3069</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3069">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3069/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3069">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3069/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3069" DMDID="DMD_biejournals_3069">
+            <mets:fptr FILEID="FILE0_biejournals_3069"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3069" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3069"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

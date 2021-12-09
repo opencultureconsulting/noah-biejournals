@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3556">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsberatung in der Lehrer*innenbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thünemann, AG Forschungsberatung im Verbund schulbezogener Praxisforschung: Silvia</displayForm>
+                        <namePart type="family">Thünemann</namePart>
+                        <namePart type="given">AG Forschungsberatung im Verbund schulbezogener Praxisforschung: Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bentler, Annette</displayForm>
+                        <namePart type="family">Bentler</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kunze, Ingrid</displayForm>
+                        <namePart type="family">Kunze</namePart>
+                        <namePart type="given">Ingrid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stiller, Karl-Theodor</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Karl-Theodor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bührmann, Thorsten</displayForm>
+                        <namePart type="family">Bührmann</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Forschungsberatung für Studierende wird mit der Zunahme des Forschenden Studierens bzw. Forschenden Lernens immer bedeutsamer. In diesem Beitrag werden nach der Klärung der Verständnisse von Forschendem Studieren und von Beratung die Kontexte und Anlässe für Forschungsberatung thematisiert. Diese detaillierte Betrachtung von Forschungsberatung soll als Reflexionsangebot ggf. auch für die Entwicklung eigener Beratungsformate dienen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3556</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3556">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3556/3738" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3556" DMDID="DMD_biejournals_3556">
+            <mets:fptr FILEID="FILE0_biejournals_3556"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

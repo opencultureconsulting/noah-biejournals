@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4383">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Improving access to health services in Malawi</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Msokwa, Robert</displayForm>
+                        <namePart type="family">Msokwa</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Background: Timely access to health care can substantially reduce mortality. The United Nations Sustainable Development Goal 3, target eight recommends provision of quality care to all must include usually underserved groups by 2030. Universal access to healthcare remains unavailable particularly in rural areas, due to a shortage of labor, a lack of basic health-facility infrastructure, poor management practices, and insufficient financing In Malawi, universal access to healthcare remains unavailable particularly in rural areas, however, no data is available from villagers themselves on improving access to health services. The aim of the study was to find ways of improving access to health services in Malawi with focus on people staying in rural areas.
+Methods: Quantitative cross-sectional study. Simple random sampling. Face to face interview was conducted.
+Results: The survey included 126 people, 97(77%) were women and 29 (23%) were men. 52 % participants were farmers, 7% of participants were employed, and 5%&amp;nbsp;&amp;nbsp; attainted tertiary education. Common barriers to access health services which participants (35%) mentioned were lack of drugs and medical equipment, shortage of health personnel (25%), another 25% complained of long distance to nearest health facility. 10 % of participants fail to access health services due to poor design of hospitals&amp;nbsp;&amp;nbsp; and 5% failed to access health services due to rudeness of health workers. Accessibility of health services in Malawi can be improved by increasing number of clinics which was suggested by 28% of participants, 25% of study participants suggested training more health workers, 23% suggested of setting up of community fund to transport patients in cases of emergency, 20% of participants suggested of introducing mobile clinics and 4% suggested of designing of tricycle to be used for transport in rural areas.
+Conclusion: Access to health services in Malawi can be achieved by Training more health workers, introducing community funds, empowering local people to own the health facilities, increasing number of health facilities, designing tricycle which could travel in rural areas and improve drug supply and quality of medical equipment through increased funding from central government</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4383</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4383">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4383/4233" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4383" DMDID="DMD_biejournals_4383">
+            <mets:fptr FILEID="FILE0_biejournals_4383"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

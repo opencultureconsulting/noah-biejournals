@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3188">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionalisierung in Spannungsfeldern von Inklusion durch Fortbildung</title>
+                        <subTitle>Transferaktivitäten zu einem Forschungsdesiderat</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lau, Ramona</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Ramona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lübeck, Anika</displayForm>
+                        <namePart type="family">Lübeck</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Entwicklung eines inklusiven Schulsystems hat nicht nur Auswirkungen auf die Ausbildung zukünftiger Lehrkräfte, sondern stellt in gleichem Maße ein Desiderat für die Fortbildung bereits berufstätiger Lehrer*innen dar. Diesem Desiderat widmen sich zwei u.a. in Bielefeld angesiedelte BMBF-geförderte Verbundforschungsprojekte. Ausgehend von empirischen Daten zu multiprofessioneller Teamarbeit (Projekt „ProFiS“) und dem Spannungsfeld von Leistung und Inklusion (Projekt „ReLInk“) werden in beiden Projekten Fortbildungen mit dem Ziel einer Professionsreflexion konzipiert. Dieser Artikel skizziert die den Fortbildungen zugrundeliegende Annahme, dass die Reflexion und das Infragestellen der eigenen Deutungsmuster nur in einem Setting geschehen können, das individuelles Anschlussdenken bzw. -lernen ermöglicht und sich auf wenige exemplarische Darstellungen mit Irritationspotenzial konzentriert. Dies wird möglich durch praxisreflexive Kasuistik – eine Herangehensweise, in der die Teilnehmer*innen der Fortbildung im Sinne einer „Reflexionspause“ wenige ausgewählte und didaktisch aufbereitete Fälle aus dem Projektkontext sequenziell erschließen und im Sinne eines Probehandelns über Handlungsalternativen nachdenken können. Ein solches Fortbildungssetting wird anhand des Projekts „ReLInk“ exemplarisch beschrieben.
+The development of an inclusive education system not only influences the training of future teachers, but also has implications for the further training of teachers already in service. Two state-funded projects are currently addressing this issue. Emanating from empirical data on multiprofessional team work (project “ProFiS”) and the relationship of inclusion and achievement (project “ReLInk”), both projects are designing further trainings with the goal of the reflection on one’s own profession. The basis for the conceptualization of these trainings is the assumption that reflecting and challenging one’s own patterns of interpretation can only happen in a setting, which enables individual learning processes and which focuses on just a few depictions that have a high potential for irritation. With the approach of a ‘practice-reflecting casuistics’, the participants of the training sequentially work with few, selected and didactically edited cases from the projects and in this way can rehearse alternative ways of acting. Such a setting for a training will be exemplified by means of the project “ReLInk”.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3188</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3188">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3188/3316" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3188" DMDID="DMD_biejournals_3188">
+            <mets:fptr FILEID="FILE0_biejournals_3188"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

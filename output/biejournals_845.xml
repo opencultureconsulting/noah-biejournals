@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_845">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mock Elections in Civic Education</title>
+                        <subTitle>A Space for Critical Democratic Citizenship Development</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>De Groot, Isolde</displayForm>
+                        <namePart type="family">De Groot</namePart>
+                        <namePart type="given">Isolde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: Preparing citizens for participation in pluralist democracies also requires a type of citizenship education that fosters critical democratic citizenship (CDC). This study inquires into an educational activity with a long history in many EU-countries: mock elections. It explores the extent to which elements of CDC-literacy, competences and identity are commonly fostered in education related to mock elections in the Netherlands, and teacher rationales in this regard. Methodology: A qualitative study was conducted. Data from semi-structured interviews with teachers from eight schools were analysed using thematic analysis.Findings and implications: Data analysis revealed an emphasis on offering a participatory experience. Five elements of critical democratic citizenship were commonly advanced in mock election related education in these schools. Teacher narratives also revealed how teachers had different understandings about political identity and their role in advancing identity development. Findings suggest that there is ample opportunity to intensify attention to CDC-development in education related to mock elections in Dutch schools. Further research into students’ political identity development processes during political simulations in different political and educational contexts is required to further academic debate about desirable support by teachers and governments in high-quality political education projects</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_845</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_845">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/845/957" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_845" DMDID="DMD_biejournals_845">
+            <mets:fptr FILEID="FILE0_biejournals_845"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

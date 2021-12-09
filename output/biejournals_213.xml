@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_213">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwickelt sich die professionelle Reflexionskompetenz von Lehrkräften durch die Teilnahme an einem berufsbegleitenden Weiterbildungsstudiengang?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kittel, Daniel</displayForm>
+                        <namePart type="family">Kittel</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rollett, Wolfram</displayForm>
+                        <namePart type="family">Rollett</namePart>
+                        <namePart type="given">Wolfram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Berufstätige Lehrkräfte sind aufgrund der Veränderungen im Bildungsbereich laufend gefordert ihre professionellen Kompetenzen kritisch zu reflektieren. Im Mittelpunkt dieses Beitrags steht die Frage, ob und inwiefern Lehrkräfte im Verlauf eines weiterbildenden Studiums ihre Reflexionskompetenz weiterentwickeln. Im Rahmen eines berufsbegleitenden Masterstudiums an der Pädagogischen Hochschule Freiburg wurden in einer Vollerhebung an 16 teilnehmenden, berufstätigen Lehrkräften über vier Semester hinweg zu mehreren Messzeitpunkten quantitative und qualitative Daten zur Ermittlung der Reflexionskompetenz erhoben und analysiert. Die Ergebnisse zeigen, dass sich die Lehrkräfte durch den weiterbildenden Studiengang in Bezug auf ihre Reflexionskompetenz positiv weiterentwickelt haben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_213</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_213">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/213/214" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_213" DMDID="DMD_biejournals_213">
+            <mets:fptr FILEID="FILE0_biejournals_213"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

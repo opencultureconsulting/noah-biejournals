@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2147">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision im Prozess der Veränderungen beruflicher Arbeit im Allgemeinen Sozialen Dienst (ASD)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hege, Marianne</displayForm>
+                        <namePart type="family">Hege</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In den letzten beiden Jahren habe ich mich bei den Überlegungen zu meiner und der Biografie anderer mit dem &quot;Erinnern&quot; beschäftigt. Ich habe nachgelesen, was der Stand der Biografieforschung ist, und habe mich mit Erkenntnissen der Hirnforschung auseinandergesetzt Dabei ist mir im Bezug auf das Erinnern eine Unterscheidung wichtig geworden: Es gibt qualitative Unterschiede zwischen dem Abspeichem und Wiedererinnern von Wissen und Wissenssystemen und dem Abspeichern und Wiedererinnern von Erfahrungen, Erlebnissen und Episoden. Wissensinhalte können gleichsam &quot;unverändert&quot; gehoben werden, während Erfahrungsinhalte, die vorgängigen Erlebnisse beim Vorgang des Erinnems ständig neu gestaltet werden, d. h. in einen dem Subjekt sinnvoll erscheinenden Zusammenhang gebracht werden. Markowitsch und Welzer (2006) sprechen in diesem Zusammenhang von einem Wandlungskontinuum des biografischen Gedächtnisses.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2147</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2147">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2147/2014" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2147" DMDID="DMD_biejournals_2147">
+            <mets:fptr FILEID="FILE0_biejournals_2147"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

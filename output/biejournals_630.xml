@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_630">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Children In the Garden of Democracy</title>
+                        <subTitle>The Meaning of Civic Engagement in Today’s Egypt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Youniss, James</displayForm>
+                        <namePart type="family">Youniss</namePart>
+                        <namePart type="given">James</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barber, Brian K.</displayForm>
+                        <namePart type="family">Barber</namePart>
+                        <namePart type="given">Brian K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Billen, Rhett M.</displayForm>
+                        <namePart type="family">Billen</namePart>
+                        <namePart type="given">Rhett M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This is the second in a series of reports on the current wave of youth civic engagement in Egypt. Our goal is to offer an on-the-ground account of the unfolding political changes in Egypt from the perspective a small group of young activists from Cairo and Alexandria. Our first report was based on interviews with these youth who described their involvement in the demonstrations of early 2011 that led to the resignation of Hosni Mubarak. We viewed their comments in terms of a social-movement approach to civic engagement. These young people spelled out their grievances against Mubarak’s government, the ideological outlook they shared on political reform, the opportunities that enabled their actions, and the organizational apparatus that made this momentous event possible (Barber &amp;amp; Youniss, 2012).This paper is a reflective analysis of questions that have emerged in our research. We continued to interview these same youth activists over the past year and correlated their evolving views first with our further exploration of Egypt’s complex political situation and second with our knowledge of recent social scientific thought regarding civic engagement among youth. This triangulation leads us to consider three kinds of questions: 1) how to assess civic engagement adequately in a population of youth that lived under politically restrictive conditions; 2) how new definitions of active Egyptian citizenship are emerging; and 3) what these new definitions imply for engagement in the future.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_630</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_630">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/630/639" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_630" DMDID="DMD_biejournals_630">
+            <mets:fptr FILEID="FILE0_biejournals_630"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3201">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionelle Kompetenzwahrnehmung von Lehramtsstudierenden in Praxisphasen</title>
+                        <subTitle>Zusammenstellung eines Erhebungsinstruments mit den Schwerpunkten auf diagnostischen und didaktischen Kompetenzen sowie den Umgang mit Heterogenität</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Professional competence perception of student teachers in practical phases</title>
+                        <subTitle>Development of an analytical instrument with a focus on diagnostic and didactic skills as well as handing with heterogeneity</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pieper, Catania</displayForm>
+                        <namePart type="family">Pieper</namePart>
+                        <namePart type="given">Catania</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kottmann, Brigitte</displayForm>
+                        <namePart type="family">Kottmann</namePart>
+                        <namePart type="given">Brigitte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miller, Susanne</displayForm>
+                        <namePart type="family">Miller</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von einem Forschungsvorhaben, welches sich für die Wahrnehmung und Entwicklung von professionellen Kompetenzen von Bachelorstudierenden während einer Praxisphase interessiert, wurde ein Erhebungsinstrument zusammengestellt, das sich am kompetenztheoretischen Professionsverständnis nach Baumert &amp;amp; Kunter (2006) orientiert. Weil die zu untersuchende Praxisphase am Standort Bielefeld bildungswissenschaftlich verankert ist und eine Konkretisierung des Fragebogens hinsichtlich der modularen Anforderungen stattfand, bilden sich in der Konsequenz neben einer bildungswissenschaftlichen Ausrichtung auch Schwerpunkte ab, die sich in didaktischen und diagnostischen Kompetenzen sowie im Umgang mit Heterogenität zeigen. In dem Beitrag wird ein neu zusammengestelltes Erhebungsinstrument vorgestellt. Dies meint konkret, dass Entscheidungen für die Verwendung von bewährten (Sub-)Skalen offengelegt wer-den; entsprechend werden die modularen wie theoriegeleiteten Argumente für einzelne (Sub-)Skalen innerhalb der Erläuterung der einzelnen Kompetenzfacetten im Detail aufgeführt.</abstract>
+                    <abstract lang="eng">Starting from a research project, which is interested in the perception and development of professional competencies of Bachelor students during a practical phase, a instrument was developed, which is based on the theory of professional competences of Baumert &amp;amp; Kunter (2006). Because the practical phase to be examined at the Bielefeld site is oriented to educational science and a concretization of the instrument regarding the modular requirements took place. As a result, in addition to a focus on educational science, the focus is also on didactics, diagnostics and the handling of heterogeneity.
+Following the theory of professional competences of Baumert &amp;amp; Kunter (2006), the article briefly describes the individual fields of competence and then argues for decision-making processes for proven (sub-) scales.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3201</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3201">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3201/3425" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3201" DMDID="DMD_biejournals_3201">
+            <mets:fptr FILEID="FILE0_biejournals_3201"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

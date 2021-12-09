@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_737">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Value Preferences of the Parents in Turkey towards Their Children</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuş, Zafer</displayForm>
+                        <namePart type="family">Kuş</namePart>
+                        <namePart type="given">Zafer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Merey, Zihni</displayForm>
+                        <namePart type="family">Merey</namePart>
+                        <namePart type="given">Zihni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karatekin, Kadir</displayForm>
+                        <namePart type="family">Karatekin</namePart>
+                        <namePart type="given">Kadir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The current study aims to determine the values parents in Turkey try to teach their children. Parents from various cities (Ankara, Diyarbakır, Hakkâri, Hatay, Iğdır, İstanbul, Kastamonu, Kırşehir, Muğla) around Turkey were selected through maximum variation sampling, a purposive sampling method. The current study was conducted within the qualitative research methods. Results were obtained through content and descriptive analyses of data collected with open-ended question forms. Parents try to teach the value of honesty as the first priority within family. Other values that families try to teach their children are, respectively, giving importance to family unity, respect, responsibility, affection, industriousness, patriotism, care for health, and tolerance.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_737</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_737">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/737/797" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_737" DMDID="DMD_biejournals_737">
+            <mets:fptr FILEID="FILE0_biejournals_737"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

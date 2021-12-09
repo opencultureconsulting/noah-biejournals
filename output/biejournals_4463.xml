@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4463">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Justice Sensitivity Is Positively and Negatively Related to Prejudice and Discrimination</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bondü, Rebecca</displayForm>
+                        <namePart type="family">Bondü</namePart>
+                        <namePart type="given">Rebecca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwemmer, Felicia</displayForm>
+                        <namePart type="family">Schwemmer</namePart>
+                        <namePart type="given">Felicia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pfetsch, Jan</displayForm>
+                        <namePart type="family">Pfetsch</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The trait justice sensitivity captures individual differences in the tendency to perceive injustice and to negatively respond to these perceptions. The tendency to negatively respond to injustice to one’s disadvantage (victim justice sensitivity) was reliably linked to different measures of antisocial behavior and conservative values. Thus, we assumed that victim justice sensitivity should also be positively related to prejudice and discrimination. In contrast, the tendency to negatively respond to injustice to the disadvantage of others (altruistic justice sensitivity), was reliably linked to prosocial behavior. Hence, we assumed that altruistic justice sensitivity should also show negative relations with prejudice and discrimination. In order to test these assumptions, we surveyed justice sensitivity, prejudices against three different groups, and discrimination experiences among N=343 participants (M=26.61 years, 79 percent women) in Germany. We found that victim justice sensitivity predicted more self-perpetrated discrimination. Altruistic justice sensitivity predicted less total prejudice and self-perpetrated discrimination and mediated the link between self-experienced discrimination and prejudice/self-perpetrated discrimination unless age, gender, and education were controlled for. Discrimination can promote discrimination. Future research on correlates and potential risk and protective factors of prejudice and discrimination should also consider justice sensitivity as a moral-related trait.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4463</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4463">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/4463/4380" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4463" DMDID="DMD_biejournals_4463">
+            <mets:fptr FILEID="FILE0_biejournals_4463"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

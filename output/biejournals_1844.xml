@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1844">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ethnic differences in smoking behaviour</title>
+                        <subTitle>The situation of Roma in Eastern Europe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Duval, Laetitia</displayForm>
+                        <namePart type="family">Duval</namePart>
+                        <namePart type="given">Laetitia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolff, François-Charles</displayForm>
+                        <namePart type="family">Wolff</namePart>
+                        <namePart type="given">François-Charles</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>McKee, Martin</displayForm>
+                        <namePart type="family">McKee</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roberts, Bayard</displayForm>
+                        <namePart type="family">Roberts</namePart>
+                        <namePart type="given">Bayard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: To investigate ethnic differences in smoking between Roma and non-Roma and their determinants, including how discrimination faced by Roma may influence smoking decisions.Methods: We analysed data from the Roma Regional Survey 2011 implemented in twelve countries of Central and South-East Europe with random samples of approximately 750 households in Roma settlements and 350 households in nearby non-Roma communities in each country. The overall sample comprises 11,373 individuals (8,234 Roma) with a proportion of women of 57% and an average age of 36 years. Statistical methods include marginal effects from Probit and zero-truncated negative binomial estimates to explain cigarette consumption.Results: We found that Roma have a higher probability of smoking and are heavier smokers compared to otherwise comparable non-Roma. These differences in smoking behaviour cannot purely be explained by the lower socio-economic situation of Roma since the ethnic gap remains substantial once individual characteristics are controlled for. The probability of smoking is positively correlated with the degree of ethnic discrimination experienced by Roma, especially when it is related to private or public health services.Conclusions: By providing evidence on smoking behaviour between Roma and non-Roma in a large number of countries, our findings support the need to understand smoking behaviour of Roma from a comparative perspective, and may ultimately contribute to more effective anti-smoking messages for Roma. However, if the health disadvantage faced by Roma is to be addressed adequately, this group must be involved more effectively in the policy and public health process.  </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1844</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1844">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1844/1765" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1844" DMDID="DMD_biejournals_1844">
+            <mets:fptr FILEID="FILE0_biejournals_1844"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

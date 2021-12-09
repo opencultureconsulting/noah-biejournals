@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3945">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>College Women’s Experience of Verbal Sexual Coercion and Responses to a Sexual Assault Vignette</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Garrido-Macías, Marta</displayForm>
+                        <namePart type="family">Garrido-Macías</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Valor-Segura, Inmaculada</displayForm>
+                        <namePart type="family">Valor-Segura</namePart>
+                        <namePart type="given">Inmaculada</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krahé, Barbara</displayForm>
+                        <namePart type="family">Krahé</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Expósito, Francisca</displayForm>
+                        <namePart type="family">Expósito</namePart>
+                        <namePart type="given">Francisca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-28</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Sexual aggression is one of the most humiliating forms of gender-based violence and may profoundly affect victims’ physical, mental, and sexual health. This research analyzed the role of previous experiences of sexual coercion by an intimate partner on women’s behavioral, cognitive, and emotional responses to a video clip showing a sexual assault involving a couple. Spanish college women with (N = 63) and without (N = 77) experience of sexual coercion indicated the point at which they would leave the situation (response latency), the probability of terminating the relationship if they were the woman in the video, attributions of responsibility to victim and perpetrator, and their emotional state. Victims were less likely to say they would terminate the relationship and reported more negative emotions than did nonvictims, but no differences were found on the response latency and attribution measures. Overall, the results suggest that previous sexual coercion may be related to women’s behavioral and emotional responses to situations involving the threat of sexual victimization.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3945</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3945">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3945/3926" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3945" DMDID="DMD_biejournals_3945">
+            <mets:fptr FILEID="FILE0_biejournals_3945"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

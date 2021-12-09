@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3767">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Förderung lebenslangen Lernens an Hochschulen</title>
+                        <subTitle>Impulse aus dem internationalen Kontext</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dollhausen, Karin</displayForm>
+                        <namePart type="family">Dollhausen</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag greift die laufenden bildungspolitischen und bildungswissenschaftlichenDiskussionen zur Entwicklung vonHochschulen zu Institutionen des lebenslangen Lernens alsAnlass auf, um der darin liegenden Herausforderung für dieHochschulentwicklung nachzugehen. Anhand von drei ausgewähltenFallbeispielen aus dem internationalen Kontextwerden verschiedene Realisierungsmöglichkeiten vorgestellt.Daran anschließend werden in einer vergleichenden Betrachtungder Fälle grundlegende Gemeinsamkeiten in Bezug aufdie Hochschulentwicklung und Profilbildung im Kontext lebenslangenLernens herausgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3767</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3767">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3767/3827" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3767" DMDID="DMD_biejournals_3767">
+            <mets:fptr FILEID="FILE0_biejournals_3767"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

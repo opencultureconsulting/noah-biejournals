@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_530">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Kategoriale Konfliktdidaktik als Paradigma politischer Bildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leps, Horst</displayForm>
+                        <namePart type="family">Leps</namePart>
+                        <namePart type="given">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Unterrichtsmodell von Rudolf Engelhardt „Parteipolitik in der Schule?“ stammt aus einer Zeit Anfang der 1960er Jahre, in der der Politikunterricht in (West-)Deutschland auf eine neue Grundlage gestellt wurde. Die ersten Nazischmierereien an Synagogen führten zu einem gemeinsamen Beschluss der für die Schulen zuständigen Minister der deutschen Bundesländer, die politische Bildung in den Schulen zu verstärken. Dazu wurde für die älteren Schüler ein eigenes Unterrichtsfach mit dem Namen „Gemeinschaftskunde“ oder „Sozialkunde“ eingeführt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_530</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_530">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/530/527" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_530" DMDID="DMD_biejournals_530">
+            <mets:fptr FILEID="FILE0_biejournals_530"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

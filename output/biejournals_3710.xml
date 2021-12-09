@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3710">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Studiengang Angewandte Pflegewissenschaft</title>
+                        <subTitle>Möglichkeit für Pflegefachpersonen berufsbegleitend zu studieren und „patientennah“ tätig zu sein</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heeskens, Kathrin</displayForm>
+                        <namePart type="family">Heeskens</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Simon, Anke</displayForm>
+                        <namePart type="family">Simon</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Flaiz, Bettina</displayForm>
+                        <namePart type="family">Flaiz</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Projekt OPEN wird seit 2011 im Rahmen des Wettbewerbs:„Aufstieg durch Bildung: offene Hochschulen“ vom BMBF unddem Sozialfonds der EU gefördert. Der dabei entwickelte, erprobteund mittlerweile erfolgreich implementierte, berufsbegleitendeStudiengang richtet sich an bereits beruflich qualifizierte Pflegefachpersonen.Im Beitrag werden die Besonderheiten des berufsbegleitendenStudiengangs aufgezeigt. Dazu gehört insbesonderedie Studienorganisation, die den Aspekt der Vereinbarkeit vonFamilie, Beruf und Studium integriert. Ebenfalls wird die Zielgruppebeachtet, da sich diese Studierenden von traditionellenVollzeitstudierenden in wesentlichen Punkten unterscheiden. DieBeachtung beider Aspekte kristallisierte sich als Erfolgsfaktor fürdas Projekt heraus.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3710</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3710">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3710/3780" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3710" DMDID="DMD_biejournals_3710">
+            <mets:fptr FILEID="FILE0_biejournals_3710"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

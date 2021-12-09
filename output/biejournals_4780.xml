@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4780">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Germanistische Literatur- und Mediendidaktik</title>
+                        <subTitle>Selbst- und Fremdpositionierungen im Zuge der Entwicklung der Disziplin</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Josting, Petra</displayForm>
+                        <namePart type="family">Josting</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der essayistische Beitrag zur Selbstpositionierung innerhalb der Literatur- und Mediendidaktik basiert auf der Durchsicht der eigenen Fachbibliothek, ist aber auch getragen von vielen Erinnerungen, insbesondere an Begegnungen mit einigen erfahrenen Kolleg*innen, die Mentor*innenfunktion hatten. Er zeigt schlaglichtartig die Entwicklung der eigenen Disziplin auf und vor diesem Hintergrund den Weg zur Selbstverortung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4780</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4780">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4780/4532" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4780" DMDID="DMD_biejournals_4780">
+            <mets:fptr FILEID="FILE0_biejournals_4780"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

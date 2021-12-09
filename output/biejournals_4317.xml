@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4317">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Incorporating mHealth Interventions into Kenya’s Health Infrastructure to Augment Universal Health Coverage, Service Delivery Improvement Approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oduor, Kevin</displayForm>
+                        <namePart type="family">Oduor</namePart>
+                        <namePart type="given">Kevin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ogweno, Stephen</displayForm>
+                        <namePart type="family">Ogweno</namePart>
+                        <namePart type="given">Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ajwang’, Danor</displayForm>
+                        <namePart type="family">Ajwang’</namePart>
+                        <namePart type="given">Danor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Okinyi, Nyawade</displayForm>
+                        <namePart type="family">Okinyi</namePart>
+                        <namePart type="given">Nyawade</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">mHealth is the use of mobile and wireless devices to improve health outcomes, healthcare services, and health research. An estimated 68% of the world’s population own mobile phones, with Kenya having approximately 80% of mobile phone penetration. This makes it feasible to accelerate the uptake of mHealth interventions to improve health services delivery. While some evidence has shown how various forms of mHealth interventions have been used to transform health services, health outcomes, and health research in Kenya and globally, many remain largely anecdotal or undocumented. This paper examines the various forms of mHealth interventions that have been incorporated into Kenya’s health infrastructure, and their effectiveness in improving health services delivery in Kenya. A systematic review of peer-reviewed articles, policy briefs, and credible materials published on mHealth have shown that mHealth has succeeded in the health infrastructure such as in collecting and transferring health and patient data, remote diagnosis, treatment, and patient follow-up. The paper also examines the barriers around the uptake of mHealth interventions and recommends how these interventions can be integrated into Kenya’s health infrastructure. Even though there is every reason to believe that mHealth can allow limited resource settings to “leapfrog” over more advanced settings in using mobile technologies to improve health services delivery, mHealth is not a panacea. There are limited will and resources to scale up and integrate mHealth into the health infrastructure with attempted integration met with a negative attitude from the strained health workforce who still view mHealth as additional work, among other challenges. Despite the challenges, there may be an opportunity for Kenya’s Government to leverage mobile and wireless devices to improve the delivery of health services to areas that were previously unreachable, thereby fast-tracking its commitment to achieving Universal Health Coverage.
+&amp;nbsp;
+Conflict of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4317</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4317">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4317/4203" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4317" DMDID="DMD_biejournals_4317">
+            <mets:fptr FILEID="FILE0_biejournals_4317"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

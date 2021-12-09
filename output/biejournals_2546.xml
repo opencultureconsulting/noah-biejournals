@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2546">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gleichberechtigte Teilhabe im Sportunterricht – eine videobasierte Lehrveranstaltung zu heterogenen Schülervoraussetzungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jürgens, Markus</displayForm>
+                        <namePart type="family">Jürgens</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neuber, Nils</displayForm>
+                        <namePart type="family">Neuber</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Sportunterricht geht es nicht nur um die Entwicklung körperlich-motorischer Fähigkeiten, sondern auch um die Förderung kognitiver und sozialer Kompetenzen. Auf Seiten der Sportlehrkraft erfordert dies unterschiedliche, parallel ablaufende Aufmerksamkeiten im Unterricht. Vor diesem Hintergrund wird im Beitrag ein Fachdidaktik-Seminar im Master of Education vorgestellt, in dem die Professionelle Unterrichtswahrnehmung in inklusiven Settings anhand von videographierten Spielen im Sportunterricht in der Sekundarstufe I gefördert wird. Im Vordergrund steht dabei die gleichberechtigte Teilhabe aller Schüler*innen, die in Teilnahme, Teilgabe und Teilsein differenziert wird (vgl. Pfitzner, 2017). Professionell wahrzunehmen bedeutet in diesem Kontext, die Aufmerksamkeit unter einem spezifischen Wahrnehmungsfokus zu steuern und die in den Blick genommenen Ereignisse unter Zuhilfenahme theoretischen Wissens zu deuten und zu verknüpfen (vgl. Sherin &amp;amp; van Es, 2009). Im Beitrag wird zunächst das zugrundeliegende Wahrnehmungskonzept für die gleichberechtigte Teilhabe vorgestellt und in Bezug zum inklusiven Sportunterricht gesetzt. Bevor die methodischen Entscheidungen für das Seminarkonzept dargestellt und begründet werden, erfolgt eine Verortung des Seminars im Modul „Sportdidaktik“ an der Universität Münster. Im Folgenden wird der Aufbau des Seminars beschrieben; dabei wird ein Überblick über die Ziele und Inhalte der einzelnen Seminarsitzungen gegeben. Ausgewählte Ergebnisse der Seminarevaluation und ein Ausblick beschließen den Beitrag.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2546</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2546">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2546/3521" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2546" DMDID="DMD_biejournals_2546">
+            <mets:fptr FILEID="FILE0_biejournals_2546"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

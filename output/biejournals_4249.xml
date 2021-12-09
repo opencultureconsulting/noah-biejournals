@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4249">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Symbiosen im Korallenriff</title>
+                        <subTitle>Zusammenleben artfremder Organismen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Symbiotic relationships in Coral Reefs</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Molenkamp, Miriam</displayForm>
+                        <namePart type="family">Molenkamp</namePart>
+                        <namePart type="given">Miriam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Begriff Symbiose bezeichnet grundsätzlich eine Vergesellschaftung artfremder Organismen und im engeren Sinne das Zusammenleben von zwei Arten zum gegenseitigen Vorteil (Mutualismus). Eine symbiotische Partnerschaft zwischen einzelligen Algen und Korallen ist Grundlage für die Ausbildung von Korallenriffen. Diese gehören zu den artenreichsten und am dichtest besiedelten Lebensräumen der Welt. Der vorherrschende Konkurrenzkampf hat eine Vielzahl an Überlebensstrategien und Formen des Zusammenlebens hervorgebracht.</abstract>
+                    <abstract lang="eng">The term symbiosis basically refers to any interaction of two different organisms. In a narrower sense, it is defined as a relationship in which both partners benefit (mutualism). The foundation of coral reefs is a symbiotic relationship between single-celled algae and corals. Coral Reefs are among the most diverse and densely populated ecosystems in the world. The constant competitive fight between species has led to a broad variety of survival strategies and different types of symbiotic relationships.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4249</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4249">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4249/4240" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4249" DMDID="DMD_biejournals_4249">
+            <mets:fptr FILEID="FILE0_biejournals_4249"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

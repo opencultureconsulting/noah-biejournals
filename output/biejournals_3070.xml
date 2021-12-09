@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3070">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Group-based Compunction and Anger</title>
+                        <subTitle>Their Antecedents and Consequences in Relation to Colonial Conflicts</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Figueiredo, Ana</displayForm>
+                        <namePart type="family">Figueiredo</namePart>
+                        <namePart type="given">Ana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Doosje, Bertjan</displayForm>
+                        <namePart type="family">Doosje</namePart>
+                        <namePart type="given">Bertjan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Valentim, Joaquim Pires</displayForm>
+                        <namePart type="family">Valentim</namePart>
+                        <namePart type="given">Joaquim Pires</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Group-based emotions can be experienced by group members for the past misdeeds of their ingroup towards an outgroup.. The present study examines distinct antecedents and consequences of group-based compunction and anger in two countries with a history of colonization (Portugal, N = 280 and the Netherlands, N = 184). While previous research has focused mainly on ingroup-focused antecedents of group-based emotions, such as ingroup identification and perceptions of responsibility, our research also analyzed outgroup-focused variables, such as outgroup identification and meta-perceptions. Multiple groupstructural equation modeling showed that group-based compunction and group-based anger have similar antecedents (exonerating cognitions, collectivism, outgroup identification and meta-perceptions). Furthermore, the results showed that the two emotions have distinct but related consequences for the improvement of intergroup relations (compensation, subjective importance of discussing the past and forgiveness assignment).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3070</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3070">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3070/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3070">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3070/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3070" DMDID="DMD_biejournals_3070">
+            <mets:fptr FILEID="FILE0_biejournals_3070"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3070" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3070"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

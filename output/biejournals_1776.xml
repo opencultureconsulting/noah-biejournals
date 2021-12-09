@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1776">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Public health in Kosovo after five difficult years of independence</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jerliu, Naim</displayForm>
+                        <namePart type="family">Jerliu</namePart>
+                        <namePart type="given">Naim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ramadani, Naser</displayForm>
+                        <namePart type="family">Ramadani</namePart>
+                        <namePart type="given">Naser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mone, Iris</displayForm>
+                        <namePart type="family">Mone</namePart>
+                        <namePart type="given">Iris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Helmut</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Kosovo is undergoing a rapid process of transformation to an independent state,which was formally proclaimed in 2008, after almost a decade under United Nationsadministration. Regarding the health status, five years after independence, compared with other European countries, post-war transitional Kosovo is still characterized by higher mortality rates including traditional public health problems pertinent to infant mortality and maternal deaths. In parallel, however, Kosovo is undergoing a rapid process of epidemiological transition characterized by an aging trend which is inevitably coupled with high cardiovascular and cancer mortality and morbidity along with an excess mortality in external causes of death and injuries among the adult population. Adoption of the new Health Law in December 2012 by the Kosovo Assembly aims the transition from centralized health care system established under emergency conditions of the post-war period towards a contemporary modern health care system with a clear purchaser-provider split based on a high transparency and accountability of the health care providers and their contractors. The health care reform, leading eventually to significant changes within the health sector in Kosovo, consists of two main pillars: (i) structural and functional reorganization of the health care system through establishment of Kosovo Health Service (an autonomous and non-for-profit public enterprise at central level of the health care sector), and; (ii) establishment for the first time of the public health insurance system with a Health Insurance Fund as its main body. Nevertheless, five years after declaration of independence, Kosovo, the newest state in Europe consisting of the youngest population, is currently facing a particularly difficult socioeconomic and political transition and is additionally struggling and mainstreaming all energies and efforts in order to get full international recognition.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1776</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1776">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1776/1697" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1776" DMDID="DMD_biejournals_1776">
+            <mets:fptr FILEID="FILE0_biejournals_1776"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

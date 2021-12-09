@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3302">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erkenntnisgewinnung in den Naturwissenschaften</title>
+                        <subTitle>Von der Hypothese zur Theorie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stiller, Cornelia</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Allmers, Tobias</displayForm>
+                        <namePart type="family">Allmers</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Habigsberg, Annette</displayForm>
+                        <namePart type="family">Habigsberg</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stockey, Andreas</displayForm>
+                        <namePart type="family">Stockey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Diese Unterrichtseinheit beinhaltet eine Einführung in die Grundprinzipien des naturwissenschaftlichen Arbeitens und der naturwissenschaftlichen Erkenntnisgewinnung. Die Vertiefung der Inhalte erfolgt an einem historischen Beispiel und in einem Experiment zum Fadenpendel, bei dem die Schritte des Experimentierens erarbeitet und angewendet werden sollen und so der hypothetisch-deduktive Erkenntnisgang vertieft werden soll. Die Auswertung und Interpretation der Ergebnisse bietet eine direkte Anschlussmöglichkeit für das Thema „Energie und Arbeit“ einer potentiellen nächsten Unterrichtseinheit.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3302</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3302">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3302/3450" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3302">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3302/3451" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3302" DMDID="DMD_biejournals_3302">
+            <mets:fptr FILEID="FILE0_biejournals_3302"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3302" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3302"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

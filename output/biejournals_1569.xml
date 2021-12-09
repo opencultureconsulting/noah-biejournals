@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1569">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Weiterbildungsformate CAS, DAS und MAS in der Schweizer Hochschullandschaft </title>
+                        <subTitle>Eine Betrachtung aus unterschiedlichen Blickwinkeln</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zimmermann, Therese E.</displayForm>
+                        <namePart type="family">Zimmermann</namePart>
+                        <namePart type="given">Therese E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">An den Schweizer Hochschulen sind die wissenschaftlich ausgerichteten Weiterbildungen als Formate mit den Bezeichnungen CAS für Certificate of Advanced Studies, DAS für Diploma of Advanced Studies und MAS für Master of Advanced Studies seit ihrer Initiierung etabliert. In diesem Beitrag werden die wichtigsten Etappen der Genese der drei Formate aufgezeigt, die Gründe dargelegt, weshalb sich die Formate trotz des längeren Prozesses hierzu schweizweit durchsetzen konnten und wie sich dabei die Aufbaustruktur veränderte. Des Weiteren werden die Mengen der Angebote nach Hochschultyp sowie die Themenfelder nach Formaten ausgelotet. Zu Letzterem wird beispielsweise deutlich, dass fast jedes zweite MAS-Angebot auf lediglich zwei von total dreizehn Themenfelder entfällt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1569</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1569">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/1569/1528" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1569" DMDID="DMD_biejournals_1569">
+            <mets:fptr FILEID="FILE0_biejournals_1569"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

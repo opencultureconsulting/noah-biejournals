@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3895">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Anregung von Reflexion im Praxissemester durch Prompts in Lerntagebüchern</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schellenbach-Zell, Judith</displayForm>
+                        <namePart type="family">Schellenbach-Zell</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag beschreibt eine Möglichkeit, die Verbindung von Theorie und praktischen Situationen im Rahmen der Begleitung des Praxissemesters anzuregen. Dem Material liegt hochschuldidaktisch die theoretische Perspektive des selbstgesteuerten Lernens zugrunde, in der der instruktionspsychologische Ansatz der sogenannten Prompts, also gezielter Hinweise zur Aktivierung von Strategien zur Auseinandersetzung mit Wissensbeständen, eine wichtige Rolle spielt. Der Beitrag verdeutlicht, inwiefern Hinweise zur Aktivierung metakognitiver und kognitiver Strategien als Vorlage zur Formulierung der Hinweise zur Verknüpfung von Theorie und Praxis dienen können. Darüber hinaus werden Erfahrungen und Limitationen beim Einsatz der Hinweise nachgezeichnet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3895</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3895">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3895/3888" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3895">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3895/3889" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3895" DMDID="DMD_biejournals_3895">
+            <mets:fptr FILEID="FILE0_biejournals_3895"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3895" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3895"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

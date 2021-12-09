@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4728">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Assessment of the training needs and interests among directors of  health care services in the Kyrgyz Republic</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Matovic-Miljanovic, Sanja</displayForm>
+                        <namePart type="family">Matovic-Miljanovic</namePart>
+                        <namePart type="given">Sanja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seitalieva, Chinara</displayForm>
+                        <namePart type="family">Seitalieva</namePart>
+                        <namePart type="given">Chinara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Makarova, Tatyana</displayForm>
+                        <namePart type="family">Makarova</namePart>
+                        <namePart type="given">Tatyana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Murzalieva, Gulgun</displayForm>
+                        <namePart type="family">Murzalieva</namePart>
+                        <namePart type="given">Gulgun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kozhokeev, Kanatbek</displayForm>
+                        <namePart type="family">Kozhokeev</namePart>
+                        <namePart type="given">Kanatbek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-05</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: An assessment of the training needs and interests of health managers working in the health care facilities of the Kyrgyz Republic was conducted, aiming to tailor and shape future training interventions.
+Methods: A rapid assessment was organized among directors of health care services in the Kyrgyz Republic, using a web-based questionnaire. Due to the pandemic situation (COVID-19), it was impossible to involve all healthcare facilities as initially planned. Therefore, a convenient sample of 75 directors was drawn with a response rate of 77.3%, or 58 filled-in questionnaires.
+Results: Among respondents, 60.3% were female and 39.7% male managers, with an average age of 53.5 years. Most of the respondents (89.7%) came to a managerial position by direct appointment, while only 10.3% were appointed through competitive process. More than half of health managers (63.8%) do not have any managerial category, and only 25.7% indicated that they have membership in the Association of Health Administrators of Kyrgyzstan[1]. All respondents reported the need to develop computer skills.
+Discussion: There is a high demand in all aspects of the management of health organizations. The respondents are deciding about involvement in management training based on (a) the full range of training&apos; topics, (b) the quality of the training content, and (c) the focus on developing practical skills. The most cited training needs are digital health (E-Health), financing management, planning, and quality control; the interest in distance learning courses is excellent. Almost two-thirds of managers reported that the Ministry of Health and Social Development (MOHSD KR) did not evaluate their work.
+Conclusion: The main implications derived from this assessment are related to the culture of lifelong learning among the population of Kyrgyz health managers.
+&amp;nbsp;
+Authors’ contributions: All authors contributed equally.
+&amp;nbsp;
+Conflict of interest: None declared.
+&amp;nbsp;
+Source of funding: The project is financed by the Government of Switzerland. The opinions expressed in this publication are the views of the authors and do not necessarily reflect the opinion of the Government of Switzerland.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4728</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4728">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4728/4457" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4728" DMDID="DMD_biejournals_4728">
+            <mets:fptr FILEID="FILE0_biejournals_4728"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

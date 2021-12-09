@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1066">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>World music routes</title>
+                        <subTitle>the modification of the Sakha musical tradition1</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ventsel, Aimar</displayForm>
+                        <namePart type="family">Ventsel</namePart>
+                        <namePart type="given">Aimar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The focus of the article is twofold. It scrutinizes the marketing strategies of the traditional musicians of the Republic of Sakha, in the Russian Far East. In the last 10 years musicians who had performed pop, rock or jazz now focus on the global world music scene in order to develop their international career and earn money. Simultaneously, the article discusses the role of the media in the local music business of the Republic of Sakha. The local media puts artists under heavy pressure to gain success outside of their home region and Russia. Artists are turned into political activists and role models for young musicians. In order to respond to these expectations and thrive in the global music business, Sakha artists have developed interesting methods of modifying Sakha tradition. The article is critical to the post-colonial reading of the world music business and argues that artists are not always manipulated by managers but that artists develop strategies to fit the expectations of the audience and managers.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1066</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1066">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1066/1173" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1066" DMDID="DMD_biejournals_1066">
+            <mets:fptr FILEID="FILE0_biejournals_1066"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

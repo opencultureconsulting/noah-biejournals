@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1661">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Herbstlaubfärbung und Blattfall Vorstellungen von Schülern der Grundschule</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gruden, Svenja</displayForm>
+                        <namePart type="family">Gruden</namePart>
+                        <namePart type="given">Svenja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="family">Hesse</namePart>
+                        <namePart type="given">Manfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-04-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">31</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es wird eine empirische Studie (Fragebogen und halbstrukturierte Interviews) vorgestellt, in welcher Kenntnisse und Vorstellungen in der 4. Jahrgangsstufe zu den herbstlichen Veränderungen an Bäumen ermittelt wurden. Die Erhebung hat sowohl häufi ger vorkommende Vorstellungen zu einzelnen Aspekten aufgezeigt als auch solche von großer Heterogenität. Aufgrund der Interviews werden drei unterschiedliche, besonders markante Konzepte vorgestellt. Abschließend wird erörtert, wie man die Vorstellungen zu Blattfall und Verfärbung im Unterricht ausdifferenzieren könnte. Schwerpunkte sind zunächst die Beobachtung der Phänomene, dann die Erarbeitung von Ursache und Wirkung (z.B. bei Vorbereitung und Bedeutung des Blattfalls; die endogene Komponente), des Zusammenhanges zwischen Nährstoffrücktransport und der Verfärbung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1661</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1661">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1661/1607" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1661" DMDID="DMD_biejournals_1661">
+            <mets:fptr FILEID="FILE0_biejournals_1661"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

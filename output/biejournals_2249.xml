@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2249">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verstehen und Wissen - was Gerhard Leuschner der Beratungswissenschaft zu bieten hat. Eine Würdigung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-04-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag würdigtÂ  die Lebensleistung Gerhard Leuschners für die Supervision aus einer beratungswissenschaftlichen Sicht. Er vergleicht die Positionen Leuschners zur Supervision mit den Beiträgen anderer Pioniere für eineÂ  psychosoziale oder pädagogische Beratung. Besonders hervorgehoben werdenÂ  die Entwicklungslinien einer spezifischen Kontraktethik, die das Supervisionsverständnis Leuschner auszeichnet sowie die BesonderheitÂ  der Haltung des Beraters/der Beraterin und der damit einhergehenden Schaffung eines reflexiven Beziehungsraumes in der Beratung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2249</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2249">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2249/2175" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2249">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2249/2176" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2249" DMDID="DMD_biejournals_2249">
+            <mets:fptr FILEID="FILE0_biejournals_2249"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2249" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2249"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

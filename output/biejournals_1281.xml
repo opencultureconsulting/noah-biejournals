@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1281">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>„Austria is celebrating itself“. The House of Austrian History</title>
+                        <subTitle>A Press Report</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Trautwein, Bernhard</displayForm>
+                        <namePart type="family">Trautwein</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: On the occasion of its one hundredth birthday, the Republic of Austria has opened a history museum in November 2018 called the House of Austrian History. The considerations towards this are almost as old as the republic itself. This article shall analyze why political parties could not agree on a specific project for so long and illustrate the decision-making process and its implementation before ultimately categorizing the didactical-museographical concept of the exhibition from a historical-didactical perspective.
+Design/methodology/approach: The basis for the analysis is provided by Austrian daily newspaper coverage of the House of Austrian History. The body of sources limits itself to the period between January 2008 and January 2019 and has been evaluated based on the analysis of its content.
+Findings: In the course of the discussion, which preceded the opening of the House of Austrian History, the Austrian People’s Party (ÖVP) and the Social Democratic Party of Austria (SPÖ) debated bitterly for decades about how to best interpret Austrian contemporary history and were unable to find common ground. Eventually, both the SPÖ and the ÖVP were able to agree on a concept whereby the museum would focus upon the controversial, politically influenced metanarratives of the Austrian interwar period themselves. With the SPÖ having departed from the government, however, the museum’s future remains uncertain.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1281</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1281">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1281/1454" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1281" DMDID="DMD_biejournals_1281">
+            <mets:fptr FILEID="FILE0_biejournals_1281"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

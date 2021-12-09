@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4402">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ist mein Unterricht inklusiv? Vorstellung einer Reflexionshilfe zur Anregung Forschenden Lernens im Praxissemester des Lehramtsstudiums für sonderpädagogische Förderung an der Universität Paderborn</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wilke, Yannik</displayForm>
+                        <namePart type="family">Wilke</namePart>
+                        <namePart type="given">Yannik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Ausbildung von Studierenden des Lehramtes für sonderpädagogische Förderung unterliegt zahlreichen Spannungen, die sich unter anderem durch unterschiedliche administrative Vorgaben ergeben. Zudem stehen sowohl Lehrende als auch Studierende vor der Herausforderung, dass administrative Vorgaben zueinander widersprüchlich sind, weshalb Spannungsfelder zwischen Vorgaben, pädagogischen Werthaltungen und institutionellen Rahmenbedingungen in der Schule fortlaufender Reflexion bedürfen. Im Folgenden sollen eine Reflexionshilfe für die Planung eines inklusiven Unterrichts und ihr Einsatz in den Begleitseminaren während des Praxissemesters vorgestellt werden. Das vorliegende Material ermöglicht das (gemeinsame) Lernen durch Forschen, indem die Studierenden sich mittels der Checkliste ihre Entscheidungen, Tätigkeiten und Erfahrungen im inklusiven Unterricht bewusst machen&amp;nbsp; und diese kritisch hinterfragen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4402</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4402">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4402/4472" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4402" DMDID="DMD_biejournals_4402">
+            <mets:fptr FILEID="FILE0_biejournals_4402"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

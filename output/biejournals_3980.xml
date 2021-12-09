@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3980">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Preparedness for education to Rohingya refugee children in  Bangladesh</title>
+                        <subTitle>potentials and challenges to citizenship education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hossain, A N M Zakir</displayForm>
+                        <namePart type="family">Hossain</namePart>
+                        <namePart type="given">A N M Zakir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Identify the existing opportunities and challenges for the education of refugee children
+Citizenship and civic education of refugee children is seen as an asset to reduce inequality for their future livelihoods
+What significant initiatives were launched to support refugee children in developing key competence
+Explores how to respond more creatively and collaboratively to support the refugee children education in this critical situation
+How governmental and non-governmental organizations are willing to support their education process
+
+Purpose: The number of Rohingya refugee children in Bangladesh is more than fifty percent who are out of formal education since the persecution and the mass atrocities which started in 2017 by the Myanmar government in Rakhine. They need education as their rights and means of future livelihoods that can contribute to both the refugee and host society in the future. Thus, perceptions into formal education can help refugee children to reduce inequality in general and build capacity from a socio-economic and moral perspective.
+Methodology: The article endeavors to document the existing pros and cons of Rohingya refugee children&apos;s education in Bangladesh. Therefore, the study offers insights examining the existing framework of education for citizenship and civic education of refugee children as well as the opportunities in the future in terms of quality, quantity, and level of education. In direction to investigate the education process in the context of refugee children the study primarily based on secondary sources of data to grasp the conclusion.
+Findings: The results indicate that limited initiative has been taken by the host country and other supporting regional and global non-state actors for Rohingya refugee children. However, the number of education centers need to increase immediately as many more children are out of formal education. In addition, it is crucial to start a junior schooling system for teenagers as well as recruit trained and efficient teachers with a structured curriculum. Furthermore, the government of Bangladesh is adamant to open a formal education system, though the international partners are continuously urging for it which is also crucial for education and citizenship education with a well-structured curriculum.
+The teachers and students need additional support in terms of training and motivation to keep the process ongoing which is found more challenging for both of them while the host country’s schooling shutdown since March 2020.
+Limitations: Findings of this study on refugee children&apos;s education in Bangladesh cannot be generalized to another context.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3980</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3980">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3980/4338" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3980" DMDID="DMD_biejournals_3980">
+            <mets:fptr FILEID="FILE0_biejournals_3980"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

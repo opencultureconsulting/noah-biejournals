@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1964">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Profile Forschenden Lernens in der Bielefelder Lehrer*innenbildung – eine einführende Einordnung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Böhm-Kasper, Oliver</displayForm>
+                        <namePart type="family">Böhm-Kasper</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wischer, Beate</displayForm>
+                        <namePart type="family">Wischer</namePart>
+                        <namePart type="given">Beate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beinhaltet die Einführung in das Heft zu den Profilen Forschenden Lernens in der Bielefelder Lehrer*innenbildung. Mittels eines historischen Rückblicks werden zunächst die Verbindung zwischen dem Konzept Forschenden Lernens und der Universität Bielefeld aufgezeigt sowie die Genese der Inhalte und Zielvorstellungen Forschenden Lernens nachgezeichnet. Die Diskussion aktueller Herausforderungen Forschenden Lernens in der Lehrerbildung an der Universität Bielefeld rahmt den Überblick über die Beiträge des Heftes und deren inhaltliche Einordnung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1964</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1964">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1964/3558" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1964" DMDID="DMD_biejournals_1964">
+            <mets:fptr FILEID="FILE0_biejournals_1964"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

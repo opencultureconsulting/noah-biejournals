@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4455">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wasser, Wald &amp; Wuppertal</title>
+                        <subTitle>Kohärenzerleben von Sachunterrichtsstudierenden bei der Planung, Durchführung und Nachbereitung einer Exkursion</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beudels, Melanie</displayForm>
+                        <namePart type="family">Beudels</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jeske, Ina</displayForm>
+                        <namePart type="family">Jeske</namePart>
+                        <namePart type="given">Ina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preisfeld, Angelika</displayForm>
+                        <namePart type="family">Preisfeld</namePart>
+                        <namePart type="given">Angelika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">32</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird die Konzeption, Durchführung und Evaluation eines Seminares beschrieben, in welchem Sachunterrichtsstudierende unterschiedlichen Ebenen von Kohärenz begegnen. Im nahe der Universität gelegenen Gelpetal können sie die Vielperspektivität dieses Lebensraumes direkt erleben (Ebene 1: Vernetzung der Perspektiven des Sachunterrichts). Sie erarbeiten zuvor, was bei einer Exkursion beachtet werden sollte – auch im Hinblick auf inklusive Lerngruppen. In der Rolle einer Lehrperson selbst geplante, handlungsorientierte Forschungsaufträge werden aus der Sicht von Lernenden erprobt und reflektiert (Ebene 2: Vernetzung der Professionswissensbereiche; Ebene 3: Vernetzung zwischen Ausbildung und beruflichen Anforderungen). Begleitet wird das Seminar von zwei Dozierenden aus unterschiedlichen Fachdisziplinen, die in mehreren Sitzungen im Team lehren (Ebene 4: kollegiale Vernetzung). Die Ergebnisse der Mixed-Methods-Begleitforschung im Prä-Post-Design belegen die Wirksamkeit des Konzeptes. Die Teilnehmer*innen weisen nach dem Seminar signifikant höhere Selbstwirksamkeitserwartungen bezüglich vielperspektivischen Unterrichtens und der Durchführung von Exkursionen im inklusiven Sachunterricht auf. Zudem wird ein hohes situationales Interesse an den Seminarinhalten generiert. Als Weiterempfehlungsgrund wird besonders oft das Erleben von Kohärenz in verschiedensten Formen genannt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4455</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4455">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4455/4294" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4455">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4455/4295" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4455" DMDID="DMD_biejournals_4455">
+            <mets:fptr FILEID="FILE0_biejournals_4455"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4455" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4455"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,49 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2557">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Qualitätsstandards für die Unterrichtsplanung im Fach Sachunterricht</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Quality standards for lesson planning in the subject of general studies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kirsch, Alexander</displayForm>
+                        <namePart type="family">Kirsch</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Rahmen der Output-Orientierung nach PISA wurden auf allen Ebenen des Bildungssystems Kompetenzen und Standards implementiert, die als überprüfbare Zielsetzungen fungieren. Für den Bereich der Lehrerbildung formulierte die Kultusministerkonferenz im Jahr 2004 erstmals Kompetenzen und Standards, die die Anforderungen für angehende Lehrkräfte sowohl für die universitäre als auch für die schulpraktische Phase der Ausbildung transparent machen. Die Standards stellen dabei Konkretisierungen von elf zu erwerbenden Kompetenzen dar, von denen angenommen wird, dass sie zur Ausübung des Lehrerberufes benötigt werden, und sollen unter anderem eine objektive Leistungsbeurteilung im Studium und Referendariat ermöglichen. Zwischen Anspruch und Wirklichkeit ist diesbezüglich jedoch eine Diskrepanz zu konstatieren, die am Beispiel sachunterrichtlicher Planungskompetenz veranschaulicht werden kann. Deren Relevanz wird zwar betont und ihre Ausbildung entsprechend curricular festgelegt, doch sind für die damit einhergehenden Standards fehlende Präzision sowie mangelnde theoretische Fundierung festzustellen. Ihr Potenzial zur Grundlegung objektiver Beurteilungen wird somit nicht ausgeschöpft. Im vorliegenden Beitrag wird auf dieses Defizit reagiert. Das Ziel des Beitrages besteht darin, sogenannte Qualitätsstandards als ein mögliches Instrument zur objektiven Beurteilung angehender Lehrkräfte im Hinblick auf praktische Unterrichtsplanungskompetenzen im Fach Sachunterricht zu entwickeln und zu validieren. Dazu werden eine Inhaltsanalyse sowie eine Befragung von Fachleitungen des Landes Nordrhein-Westfalen durchgeführt. Der Beschreibung ihres Entwicklungsprozesses folgt eine abschließende Diskussion über den Nutzen der erarbeiteten Qualitätsstandards für die Lehrerbildung in der ersten und vor allem in der zweiten Phase.</abstract>
+                    <abstract lang="eng">In the context of the output orientation after the PISA study, competences and standards were implemented at all levels of the education system, on the basis of which it was to be standardised and made verifiable. Beyond the function of quality assurance and quality development at the institutional level, standards at the individual level are also associated with hopes of transparency and objective performance assessment. In this respect, however, a discrepancy between claim and reality can be observed, which can be illustrated with regard to the standards for teacher training using the example of planning competence in general studies. Although their relevance is emphasised and their training defined accordingly in curricula, for the accompanying standards a lack of precision as well as a lack of theoretical foundation can be observed Their fundamental potential for the foundation of objective assessment procedures is thus not exhausted. The present paper reacts to the analysis of this state by describing the development of so-called quality standards. These were derived by content analysis on the basis of a previously developed competency model and then validated by specialist heads of the state of North Rhine-Westphalia. The description of their development process is followed by a concluding discussion on the benefits of quality standards for teacher training in the first and second phases.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2557</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2557">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2557/3522" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2557" DMDID="DMD_biejournals_2557">
+            <mets:fptr FILEID="FILE0_biejournals_2557"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

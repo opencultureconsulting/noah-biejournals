@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_646">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Financial Understanding</title>
+                        <subTitle>A Phenomenographic Access to Students’ Concepts of Credits</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Speer, Sandra</displayForm>
+                        <namePart type="family">Speer</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seeber, Günther</displayForm>
+                        <namePart type="family">Seeber</namePart>
+                        <namePart type="given">Günther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-10-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Financial education has become a more popular part of general education in schools. Different social and economic backgrounds as well as experiences influence the students’ conceptualization of the same financial phenomenon. Therefore, phenomenography is an appropriate research strategy for investigating students’ deeper understanding of financial core concepts. Our research concentrates on ‘credit’ as a central phenomenon. Thirteen focus groups made up of secondary school students and university students in Germany discussed varying examples of taking out a loan. Systematizing students’ conceptualizations, the outcome space consists of four main categories: attitudes, needs, credit terms and calculation. On a deeper level we found further subcategories. The results of our explorative study can guide a chronology of teaching different concepts as well as further research.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_646</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_646">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/646/667" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_646" DMDID="DMD_biejournals_646">
+            <mets:fptr FILEID="FILE0_biejournals_646"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

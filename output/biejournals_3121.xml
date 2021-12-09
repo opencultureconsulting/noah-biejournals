@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3121">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of Segregated Diversity on the Code of the Street</title>
+                        <subTitle>An Analysis of Violence-related Norms in Selected Post-Industrial Neighborhoods in Germany</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kurtenbach, Sebastian</displayForm>
+                        <namePart type="family">Kurtenbach</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rauf, Abdul</displayForm>
+                        <namePart type="family">Rauf</namePart>
+                        <namePart type="given">Abdul</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Youth violence remains a concern in Germany, particularly in specific “risky” neighborhoods that tend to be socially segregated and ethnically diverse. In this paper we critically compare the results of twenty-seven qualitative interviews conducted in three risky neighborhoods in the German Ruhr area with the code of the street. While this theoretical framework is frequently cited in explaining youth violence, it was based on research in an ethnically homogenous neighborhood in the United States and thus does not engage with questions of diversity. Our findings show that the core of the code of the street is also applicable in heterogeneous contexts, thus extending the generalizability of the theoretical framework. Manifestations of manhood, reputation, and symbolic power were found to be major elements of street culture, although characterized somewhat differently than in the original work.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3121</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3121">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3121/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3121" DMDID="DMD_biejournals_3121">
+            <mets:fptr FILEID="FILE0_biejournals_3121"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

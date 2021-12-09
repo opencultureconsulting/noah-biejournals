@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Creating a transnational labor chain between Eastern Europe and the Middle East</title>
+                        <subTitle> A case study in healthcare</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bludau, Heidi</displayForm>
+                        <namePart type="family">Bludau</namePart>
+                        <namePart type="given">Heidi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Recruiters are literally and figuratively at the center of transnational healthcare migration. Although most international migrants depend on some type of intermediary to help them find employment and housing abroad, in the past few decades, for-profit mediation has become the main channel of healthcare migration. Using ethnographic case studies from the Czech Republic, this article illustrates how recruiters influence migration trends in three primary ways: creating the migration chain, creating the desire to be part of the chain, and facilitating movement along the chain. Each step necessitates continued brokerage and negotiation of a variety of resources. Throughout, recruiters act as channels and shape the flow of transnational migration.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1010</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1010">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1010/1118" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1010" DMDID="DMD_biejournals_1010">
+            <mets:fptr FILEID="FILE0_biejournals_1010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

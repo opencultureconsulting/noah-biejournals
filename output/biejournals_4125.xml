@@ -1,0 +1,110 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4125">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Wie komme ICH eigentlich zu einer Note?“</title>
+                        <subTitle>Ein Fortbildungssetting zur Reflexion von Leistungsbewertung im Schulalltag</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lau, Ramona</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Ramona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lübeck, Anika</displayForm>
+                        <namePart type="family">Lübeck</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Leistung zu bewerten, ist die tägliche Herausforderung für Lehrer*innen. Um zu einem Bewertungsergebnis zu kommen, beziehen sich Lehrkräfte explizit oder implizit auf Bezugsnormen, die je nach Bewertungskontext unterschiedlich berücksichtigt werden können – es kommt also zu individuellen oder auch teamspezifischen Aushandlungsprozessen, die konfliktbeladen sein können. Diese sind umso mehr zu erwarten, wenn in sehr heterogenen Lerngruppen unterrichtet und individuelle Leistung bewertet werden soll. In diesem Beitrag stellen wir ein Fortbildungssetting vor, das die Aushandlungsprozesse im Kontext der Leistungsbewertung thematisiert. Mit dem hier zur Verfügung gestellten Fortbildungsmaterial kann eine reflexive Auseinandersetzung mit eigenen, aber auch alternativen Bewertungspraktiken erfolgen und somit eine Professionalisierung im Themenfeld angestoßen werden. Abgerundet wird dieser Beitrag mit der Vorstellung von Erfahrungen, die mit dem Fortbildungssetting im thematischen Kontext gemacht wurden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4125</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4039" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4076" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.presentationml.presentation" ID="FILE2_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4077" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE3_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4078" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4079" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4080" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE6_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4604" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE7_biejournals_4125">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4125/4082" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4125" DMDID="DMD_biejournals_4125">
+            <mets:fptr FILEID="FILE0_biejournals_4125"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4125"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4125"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_4125"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_4125"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_4125"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE6_biejournals_4125"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_biejournals_4125" LABEL="">
+                <mets:fptr FILEID="FILE7_biejournals_4125"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

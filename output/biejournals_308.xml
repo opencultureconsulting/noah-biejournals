@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_308">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Backward World of Economists – A Dilemma of Perception (in German)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bendixen, Peter</displayForm>
+                        <namePart type="family">Bendixen</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Human acting has the form of a cycle that encloses phases of sensual perception and cognitive processing as mental efforts and phases of physical intervention in the world of things. Every acting, as well economic acting, is mentally prepared. Acting is subject to conditions of the physiology and psychology of thinking and engraved pictorial recollections of memory shaped by former experiences. Figures emanate that ought to be carried out. The traditional economy has closed itself to this wide, culturally affected cycle of thinking and acting and focuses on the mechanics of optimal arrangements of things, the so called production factors. Modern economic thinking has to open itself to the broad scope of its cognitive object and understand intellectual powers as the basics of economy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_308</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_308">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/308/305" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_308" DMDID="DMD_biejournals_308">
+            <mets:fptr FILEID="FILE0_biejournals_308"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

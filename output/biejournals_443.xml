@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_443">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Children’s Television as a Medium for Social Orientation? – An Approach in the Perspective of Children’s Use of Television</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Raabe, Claudia</displayForm>
+                        <namePart type="family">Raabe</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The development of individualism, distinction and pluralism has not simply slipped by the every-day life of children and youth. Today they are moreover understood as humans, who take an active role in their social life. On the threshold from being a child to becoming an adolescent, children find themselves in a state of radical change, during this process they look out for possibilities of orientation. Accordingly questions of orientation are no longer mainly/principally asked within a personal environment, but increasingly outwards; for example towards the media. Television is still today the main form of media and presents an attractive source of orientation from which the youth today summon up their symbolic materials for their structuring of life. Adults to whom the children relate most closely and educationalists have their own opinion of what is important regarding the social orientation of the children. However which subjects of social orientation interest today’s youth? This question follows the existing work related to the background of the living situation. Which programmes are they viewing and which subjects of social orientation are in their favourites?</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_443</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_443">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/443/440" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_443" DMDID="DMD_biejournals_443">
+            <mets:fptr FILEID="FILE0_biejournals_443"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_841">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Neoliberal education? Comparing Character and Citizenship Education in Singapore and Civics and Citizenship Education in Australia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neoh, Jia Ying</displayForm>
+                        <namePart type="family">Neoh</namePart>
+                        <namePart type="given">Jia Ying</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This paper compares citizenship education in Singapore and Australia. While discussions have been made about education and neoliberalism, few have explored the direct connections between citizenship education and neoliberalism.Approach: Though a discussion of country contexts, citizenship education policies and curriculum, ‘Character and Citizenship Education’ in Singapore and ‘Civics and Citizenship education’ in Australia are examined to explore the meanings of ‘Character education’ and ‘Civics education’ and their connections with ‘Citizenship education’.Findings: The distinct use of terms for citizenship education suggests that the two countries hold different citizenship ideals. Set within the context of globalisation, the paper argues that some approaches towards citizenship education can inadvertently work towards supporting the goals of neoliberalism, which can be at odds with the classical tradition of democracy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_841</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_841">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/841/953" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_841" DMDID="DMD_biejournals_841">
+            <mets:fptr FILEID="FILE0_biejournals_841"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

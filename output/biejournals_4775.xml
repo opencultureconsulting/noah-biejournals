@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4775">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Lehrerbildner“ – auf der Suche nach einer verlorenen Profession</title>
+                        <subTitle>Allgemeines und Persönliches</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Terhart, Ewald</displayForm>
+                        <namePart type="family">Terhart</namePart>
+                        <namePart type="given">Ewald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der spezifische Typus des „Lehrerbildners“ bzw. der „Lehrerbildnerin“ ist eher in der Geschichte der Volksschullehrer*innenbildung und nicht in der Gymnasiallehrer*innenbildung zu verorten. Lehrkräfte als Bildner können konsequenterweise dann nur in „Bildnerhochschulen“ auf ihren Beruf vorbereitet werden. Dieses personalistisch-idealistische Konzept, welches immer auch als schöner Schein über einer dürftigen Wirklichkeit schwebte, trat mit der Modernisierung, Akademisierung und Verwissenschaftlichung von Lehrberuf und Lehrer*innenbildung in den Hintergrund. Verlauf&amp;nbsp; und Probleme dieses Prozesses der Akademisierung werden geschildert; parallel wird der Weg des Verfassers durch das (Diplom-)Studium der Erziehungswissenschaft hindurch und danach als Wissenschaftler bzw. Schulpädagoge in die Erziehungswissenschaft, in die universitäre Lehrerbildung sowie schließlich in die Rolle eines „Experten“ für Lehrerbildung hinein schlaglichtartig beleuchtet. Der ursprüngliche pädagogische Idealismus des „Lehrerbildners“ kann und sollte heute nicht mehr Maßstab sein. Differenzsensible und rassismuskritische Konzepte und Selbstverständnisse sind wichtig, sollten aber nicht zu einer Überdehnung der Möglichkeiten des Lehrberufs führen. Angesichts der komplexen Aufgabe Lehrer*innenbildung sind Realismus und Nüchternheit angebracht. Forschung zum Prozess des Lehrer*in-Werdens, auch: des Lehrerbildner*in-Werdens bleibt die Aufgabe.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4775</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4775">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4775/4537" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4775" DMDID="DMD_biejournals_4775">
+            <mets:fptr FILEID="FILE0_biejournals_4775"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

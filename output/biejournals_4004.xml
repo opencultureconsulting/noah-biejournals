@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4004">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Individuelle Förderung in inklusiven Schulen als ethische Herausforderung </title>
+                        <subTitle>Eine Modellkonzeption zum Erwerb von Ethical Literacy in der Lehramtsausbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Individual Support in Inclusive Schools as Ethical Challenge</title>
+                        <subTitle>A Model Conception for the Acquisition of Ethical Literacy in Teacher Training</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Quante, Michael</displayForm>
+                        <namePart type="family">Quante</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiedebusch, Silvia</displayForm>
+                        <namePart type="family">Wiedebusch</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die ethischen Fragen und Spannungsfelder individueller Förderung in inklusiven Schulen werden in der Ausbildung von Lehrkräften bisher nicht ausreichend behandelt. Gleichwohl wird erwartet, dass Lehrkräfte neben fachlichen und methodischen Kompetenzen auch ethische Kompetenzen in die Förderdiagnostik und das anschließende Fördervorgehen einbringen: Sie sollen ethische Implikationen ihrer Entscheidungen reflektieren, über eine wertebasierte Urteilsfähigkeit verfügen sowie Verantwortung für ihr pädagogisches Handeln übernehmen. Um diesen Anforderungen gerecht werden zu können, wird in diesem Beitrag für die Einführung einer ethischen Ausbildung angehender Lehrkräfte plädiert. Vorgestellt wird eine Modellkonzeption für zwei konsekutive Module im bildungswissenschaftlichen Anteil von Lehramtsstudiengängen, in denen Studierende eine Ethical Literacy in Bezug auf ihr förderpädagogisches Handeln in inklusiven Schulen erwerben.</abstract>
+                    <abstract lang="eng">The ethical questions and areas of tension of individual support in inclusive schools have not been dealt with sufficiently in the training of teachers up to now. Nevertheless, it is expected that teachers, in addition to professional and methodological skills, also have ethical skills to apply diagnostics and the subsequent process of individual support: They should reflect the ethical implications of their decisions, make value-based judgments and take responsibility for their pedagogical actions. In order to meet these requirements, this article advocates the implementation of an ethical education for prospective teachers. A model conception is presented for two consecutive modules in the educational science part of teacher training courses, in which university students acquire ethical literacy with regard to their pedagogical acting in inclusive schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4004</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4004">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4004/4265" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4004" DMDID="DMD_biejournals_4004">
+            <mets:fptr FILEID="FILE0_biejournals_4004"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

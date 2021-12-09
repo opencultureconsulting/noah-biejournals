@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zusammenhänge erkennen, konzeptuelles Denken entwickeln</title>
+                        <subTitle>Konzept eines Lehr-Lern-Modells für den Sachunterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Freytag, Eva</displayForm>
+                        <namePart type="family">Freytag</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Holl, Peter</displayForm>
+                        <namePart type="family">Holl</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmölzer, Bernhard</displayForm>
+                        <namePart type="family">Schmölzer</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Glettler, Christiana</displayForm>
+                        <namePart type="family">Glettler</namePart>
+                        <namePart type="given">Christiana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jarau, Stefan</displayForm>
+                        <namePart type="family">Jarau</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Luschin-Ebengreuth, Nora</displayForm>
+                        <namePart type="family">Luschin-Ebengreuth</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thomas, Almut</displayForm>
+                        <namePart type="family">Thomas</namePart>
+                        <namePart type="given">Almut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karner, Klemens</displayForm>
+                        <namePart type="family">Karner</namePart>
+                        <namePart type="given">Klemens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Besonders im Sachunterricht ist es aufgrund seiner diversen Bezugsdisziplinen herausfordernd, eine Basis für Anschlussfähigkeit zur nächsten Bildungsstufe zu schaffen. Die Schwierigkeit liegt vordringlich darin, gleichsam das Wesen des Sachunterrichts, mit seinem Anspruch der ganzheitlichen Welterschließung, und die fachlich orientierten Anforderungen der Sekundarstufe zu berücksichtigen. Das Verbindende dieser beiden Ansätze sind zentrale Konzepte diverser Inhalte aus den Bezugsdisziplinen. Die Fähigkeit, Inhalte auf diese Weise zu vernetzen, ist jedoch anspruchsvoll und muss erlernt werden. Dazu fehlt es an Theorien mit Vorschlägen zu konkreten Handlungsideen. Dieser Artikel skizziert ein Lehr-Lern-Modell für den Sachunterricht, das diese Problematik aufgreift und zu lösen sucht. Es zeigt einen theoretischen Ansatz zum verstehensorientierten und konzeptbezogenen Lernen, verknüpft mit fachdidaktischen Tools zur unterrichtlichen Planung, Gestaltung und Umsetzung kompetenzorientierten Sachunterrichts. Ausgehend von der Entwicklung des Lehr-Lern-Modells werden theoretische Hintergründe erläutert, bevor das Modell selbst und seine Einbeziehung in die Unterrichtspraxis vorgestellt werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4351</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4351">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4351/4260" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4351" DMDID="DMD_biejournals_4351">
+            <mets:fptr FILEID="FILE0_biejournals_4351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

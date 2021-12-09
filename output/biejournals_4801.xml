@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4801">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Anderssein als Ressource</title>
+                        <subTitle>Habitus und Habitusreflexion in der Lehrer*innenbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jenert, Tobias</displayForm>
+                        <namePart type="family">Jenert</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Lehrer*innen können dazu beitragen, dass bestehende soziale Ungleichheiten verstärkt oder auch abgebaut werden. Eine wichtige Rolle spielen dabei der sogenannte Habitus der Lehrer*innen und dessen (Nicht-)Passung zur sozialen Herkunft der Schüler*innen. In diesem Text stelle ich die Frage, wie angehende Lehrer*innen im Studium unterstützt werden können, die Bedeutung eigener habitueller Prägungen für das professionelle Handeln als Lehrperson zu reflektieren. Ganz besonders befasse ich mich mit der Rolle der Lehrer*innenbildner*innen bei der Förderung von solchen habitusreflexiven Kompetenzen. Hier spielen das Selbst der Hochschullehrenden und die bildungsbiographischen Erfahrungen, die auf dem Weg in die Hochschule gemacht wurden, eine wichtige Rolle.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4801</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4801">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4801/4529" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4801" DMDID="DMD_biejournals_4801">
+            <mets:fptr FILEID="FILE0_biejournals_4801"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

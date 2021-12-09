@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_183">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nicht-traditionelle Studierende in internationaler Perspektive. Eine vergleichende Untersuchung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Isensee, Fanny</displayForm>
+                        <namePart type="family">Isensee</namePart>
+                        <namePart type="given">Fanny</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolter, Andrä</displayForm>
+                        <namePart type="family">Wolter</namePart>
+                        <namePart type="given">Andrä</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der  Begriff  der  „nicht-traditionellen  Studierenden“  spielt in Deutschland in der Debatte über eine größere Durchlässigkeit zwischen beruflicher und akademischer Bildung und die Öffnung der Hochschulen für Berufstätige eine zentrale Rolle. Gleichwohl ist er  kontrovers und streckenweise diffus. Da  dieser  Begriff  aus  dem  englischsprachigen  Raum  und aus  der  international-vergleichenden  Hochschulforschung kommt, sollen in diesem Beitrag ausgewählte Länderstudien vorgestellt werden, die mit diesem Begriff arbeiten. Dabei zeigt sich nicht nur die Heterogenität des Begriffes, sondern auch die damit verbundene Unterschiedlichkeit von empirischen Befunden. Da das Verständnis von nicht-traditionellen Studierenden immer an die nationalen Bildungssystemstrukturen  rückgebunden ist, schlägt der Beitrag für Deutschland eine strukturbasierte Definition von nicht-traditionellen Studierenden vor, der seinen Ausgangspunkt in der für Deutschland charakteristischen Segmentierung zwischen beruflicher und akademischer Bildung findet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_183</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_183">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/183/172" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_183" DMDID="DMD_biejournals_183">
+            <mets:fptr FILEID="FILE0_biejournals_183"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

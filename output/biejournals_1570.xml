@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1570">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Weiterbildungsstudiengänge als Formate der interaktionalen Professionalisierung </title>
+                        <subTitle>Eine empirische Beobachtung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meyer, Kirsten</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Kirsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Walber, Markus</displayForm>
+                        <namePart type="family">Walber</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jütte, Wolfgang</displayForm>
+                        <namePart type="family">Jütte</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wissenschaftliche Weiterbildungsangebote adressieren als Teil des Wissenschaftssystems insbesondere Akteur_innen der (Berufs-)Praxis. Damit bieten sie aus einer system- und wissenstheoretischen Perspektive Möglichkeiten zur Interaktion von wissenschaftlichen Erkenntnissen und (berufs-)praktischen Erfahrungen. Ausgehend von einem eigenen Modell zur Entstehung von Professionalität in Form einer besonderen Wissensqualität – dem Professionswissen – wurde in einem explorativen Forschungsprojekt untersucht, inwiefern sich die Annahmen des Modells aus der Perspektive von Teilnehmenden bestätigen und welche Professionalisierungseffekte zum Ausdruck kommen. Dafür wurden Teilnehmende drei sich unterscheidender weiterbildender Masterstudiengänge aus dem Bereich Erziehungswissenschaften befragt, wie sie das Verhältnis von wissenschaftlichem und (berufs-)praktischem Wissen wahrnehmen und welche Gelegenheiten sich zur Begegnung der Wissensarten bieten. Gleichwohl in den Studiengängen sowohl in formellen als auch in informellen Kontexten Gelegenheiten zur Interaktion der Wissensarten wahrgenommen werden, zeichnen sich Unterschiede zwischen Studiengängen mit spezifischer Berufsfeldorientierung und einer Orientierung an der Disziplin Erwachsenenbildung/Weiterbildung ab.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1570</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1570">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/1570/1532" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1570" DMDID="DMD_biejournals_1570">
+            <mets:fptr FILEID="FILE0_biejournals_1570"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

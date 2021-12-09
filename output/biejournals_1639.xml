@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1639">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Externe Validität ökologischer Experimente einschätzen können. Befunde und Überlegungen zur Messung und Förderung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rösch, Frank</displayForm>
+                        <namePart type="family">Rösch</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">24</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Lebende Systeme angemessen zu verstehen, setzt Wissen über Ursache-Wirkungsbeziehungen zwischen deren Elementen und mit deren Umgebung voraus. Entsprechende Erkenntnisse zu gewinnen, erfordert Kompetenzen für die eigenständige Planung, Durchführung und Auswertung von Experimenten sowie deren kritische Beurteilung. In der Ökologie sind angesichts der Systemkomplexität in besonderem Maß auch Überlegungen zur Tragweite experimenteller Befunde nötig. Zur Erfassung eines niederschwelligen Verständnisses für zwei Aspekte der externen Validität wurde ein schriftliches Testinstrument entwickelt und validiert sowie die dimensionale Struktur des Konstrukts analysiert. Lernende der 6. (n = 79) und der 9. Klassenstufe (n = 50) (Gymnasien) weisen eine ähnlich niedrige Performanz auf. In Klassenstufe 6 (N = 472, Realschulen) erweist sich das operationalisierte Konstrukt als eindimensional; in einer Interventionsstudie (n = 320) wurden dort keine Effekte des untersuchten Treatments festgestellt. Die Befunde legen Maßnahmen zur Steigerung der Sensitivität, Validität und Reliabilität des vorgestellten Messinstruments nahe. Überdies erscheint es lohnenswert zu klären, ob die Kombination aus ökologischen Realexperimenten, dem Training systemischen Denkens und PC-Simulationen eine spätere Förderung der anspruchsvollen Fähigkeit begünstigen könnte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1639</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1639">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1639/1585" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1639" DMDID="DMD_biejournals_1639">
+            <mets:fptr FILEID="FILE0_biejournals_1639"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

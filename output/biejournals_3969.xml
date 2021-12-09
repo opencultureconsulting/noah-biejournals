@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3969">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Why powerful economic content and scientific language in social studies textbooks matters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Modig, Niclas</displayForm>
+                        <namePart type="family">Modig</namePart>
+                        <namePart type="given">Niclas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-01</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The use of scientific economic terms is insufficient in Swedish social studies textbooks.
+Analysed textbooks do not offer optimal preconditions to develop in-depth economic knowledge.
+Insufficient use of economic terms may have negative impact on cumulative knowledge building.
+The insufficient use of economic terms may also lead to unequal economic education.
+
+Purpose: This article examines the prevalence of six economic terms in 17 Swedish upper-secondary school textbooks and how the language shifts between everyday and scientific language. Variations regarding content in the textbooks used in vocational programmes and preparatory programmes for higher education are also investigated.
+Design: Powerful knowledge (important knowledge within a subject) and semantic waves (variations between everyday and scientific language) are essential to cumulative knowledge building. These theories are used for quantitative and qualitative analyses of the textbooks.
+Findings: There are variations in the extent to which powerful economic terms appear and how the language shifts between everyday and scientific discourses in the textbooks analysed.Coverage and shifts are generally insufficient in textbooks used in vocational programmes.
+Practical implications: The importance of using powerful economic knowledge and shifting between everyday and scientific language in textbooks and teaching should be highlighted for policymakers, textbook authors and teacher educators.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3969</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3969">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3969/4600" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3969" DMDID="DMD_biejournals_3969">
+            <mets:fptr FILEID="FILE0_biejournals_3969"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

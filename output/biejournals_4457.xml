@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4457">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Lebensretterolympiade</title>
+                        <subTitle>Eine themen- und fächerübergreifende Möglichkeit zur Überprüfung des Lernerfolgs im Rahmen von Reanimations- und Gesundheitsunterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dumcke, Rico</displayForm>
+                        <namePart type="family">Dumcke</namePart>
+                        <namePart type="given">Rico</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riegenring, Franziska</displayForm>
+                        <namePart type="family">Riegenring</namePart>
+                        <namePart type="given">Franziska</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rahe-Meyer, Niels</displayForm>
+                        <namePart type="family">Rahe-Meyer</namePart>
+                        <namePart type="given">Niels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wegner, Claas</displayForm>
+                        <namePart type="family">Wegner</namePart>
+                        <namePart type="given">Claas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Schulen stehen im Fokus als eine geeignete Institution, um Erste-Hilfe-Wissen zur Laienreanimation, zur Gesundheit und zur Prävention zu unterrichten und so sukzessive in der Gesellschaft zu etablieren. Die Implementierung einer solchen Thematik wurde in den letzten Jahren intensiv diskutiert und empfohlen. Dieser Beitrag ist darauf ausgerichtet, eine unterrichtspraktische Möglichkeit aufzuzeigen, wie der Lernabschluss von Reanimations- sowie Gesundheitsunterricht im schulischen Biologie- bzw. Sportunterricht gestaltet werden könnte. Dabei wird eine alternative Überprüfungsform, eine „Lebensretterolympiade“, genutzt. Mit der Konzeption der Lebensretterolympiade sollen zwei Bereiche verbunden werden: Es sollen Handlungskompetenz und Sicherheit im Umgang mit Notfallsituationen und zudem mit Blick auf das Thema der eigenen Herz-Kreislauf-Gesundheit gefordert und gefördert werden. Spielerisch und dennoch in realitätsnahen Szenarien und Aufgaben überprüfen die Schüler*innen ihr Wissen und ihre Handlungsfähigkeit. Wie funktioniert und adaptiert sich das menschliche Herz-Kreislauf-System? Worauf kommt es bei der Wiederbelebung an und wie arbeite ich im Team? Wie erkenne ich akute Kreislaufstörungen und wie reagiere ich darauf? Diese im vorhergehenden Unterricht thematisierten Fragen greift die Olympiade beispielhaft auf und ist daher auch anschlussfähig an Inhalte und Kompetenzziele von Lehrplänen etwa in Sport und Biologie. Der Beitrag ordnet das Material in einen didaktisch-empirischen Kontext ein und präsentiert die Unterrichtsmaterialien zusammen mit Hinweisen für die Nutzung durch Lehrkräfte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4457</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4457">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4457/4286" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4457">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4457/4287" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4457">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4457/4288" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_4457">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4457/4289" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4457" DMDID="DMD_biejournals_4457">
+            <mets:fptr FILEID="FILE0_biejournals_4457"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4457" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4457"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4457" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4457"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_4457" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_4457"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

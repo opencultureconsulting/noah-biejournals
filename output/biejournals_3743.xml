@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3743">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Heterogenität beruflich Qualifizierter im Hochschulstudium</title>
+                        <subTitle>Aktuelle Forschungsergebnisse zur Teilnahme an Hochschulweiterbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wolter, Andrä</displayForm>
+                        <namePart type="family">Wolter</namePart>
+                        <namePart type="given">Andrä</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag berichtet aktuelle Forschungsergebnisse zurTeilnahme beruflich Qualifizierter an weiterbildendenAngeboten der Hochschulen in Deutschland, die im Rahmender wissenschaftlichen Begleitung zum Bund-Länder-Wettbewerb „Aufstieg durch Bildung: offene Hochschulen“gewonnen wurden. Weiterbildung an Hochschulen wird indiesem Beitrag nicht von der Art des Studiengangs, sondernvom Lebensverlauf der Teilnehmer/innen her definiert. Dabeiwurden mehrere Datensätze herangezogen und ausgewertet.Es zeigt sich, dass sich hinter dem Begriff der beruflichQualifizierten von ihren Bildungs- und Lebensverläufen hersehr unterschiedliche Gruppen verbergen. Diese Unterschiedezu beachten ist u.a. deshalb wichtig, weil sie mit teilweisedivergierenden Studienanforderungen, Studienverläufen undStudienschwierigkeiten verbunden sind. Unter den beruflichQualifizierten weist die Gruppe der nicht-traditionellenStudierenden zwar eine etwas höhere Studienabbruchquote,aber ein insgesamt ähnliches positives Leistungsbild wie dieMehrzahl der Studierenden auf.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3743</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3743">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3743/3804" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3743" DMDID="DMD_biejournals_3743">
+            <mets:fptr FILEID="FILE0_biejournals_3743"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

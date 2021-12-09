@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1150">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vernetzung der Anerkennungsberatung als Chance für einen ausbildungsadäquaten Weg in den Arbeitsmarkt</title>
+                        <subTitle>Das Projekt VerAN an der Stiftung Universität Hildesheim</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Adorno, Julietta</displayForm>
+                        <namePart type="family">Adorno</namePart>
+                        <namePart type="given">Julietta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Traus, Anna</displayForm>
+                        <namePart type="family">Traus</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag stellt die Grundideen des Hochschulentwicklungsprojekts „VerAn – Vernetzung der Anerkennungsberatung für ein Hochschulstudium“ und seine Projektmaßnahmen vor und gibt Auskunft über die Erfahrungen, die im ersten Projektjahr gemacht wurden. Das Projekt strebt eine themenbezogene Vernetzung von Beratungseinrichtungen an, die die Anerkennungsberatung für Menschen mit im Ausland erworbenen Qualifikationen entweder ins Zentrum ihrer Beratungstätigkeit stellen oder anlassbezogen damit befasst sind. Im Laufe des ersten Projektjahres wurden strukturelle Problemlagen deutlich, die auf das zugrundeliegende Verständnis von Internationalisierung zurückgeführt werden können. Zudem werden neue Aufgaben an die wissenschaftliche Weiterbildung gerichtet, da der Prozess der Anerkennung meist mit der Notwendigkeit der (wissenschaftlichen) Nachqualifizierung einhergeht</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1150</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1150">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/1150/1222" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1150" DMDID="DMD_biejournals_1150">
+            <mets:fptr FILEID="FILE0_biejournals_1150"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

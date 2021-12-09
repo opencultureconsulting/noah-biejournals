@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_708">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ways of Thinking Globalisation – Insights into a Currently Running Investigation of Students´ Ideas of Globalization</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lange, Dirk</displayForm>
+                        <namePart type="family">Lange</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Sebastian</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Florian</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kleinschmidt, Malte</displayForm>
+                        <namePart type="family">Kleinschmidt</namePart>
+                        <namePart type="given">Malte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The investigation is about which ideas ninth form students at grammar schools and secondary modern schools have about globalisation. It shall be investigated if the perception of and judgement on globalisation-connected contexts happens along social structure-specific patterns. At first, by way of a questionnaire, the field of ideas is supposed to be broadly recorded, a selection of interview partners based on the results of the questionnaire aims at a deeper analysis of the students´ ideas. Knowledge of these subjective preconditions for learning, as far as the topic of globalisation is concerned, is supposed to provide empirically-grounded hints for what curricula in the political-economic field of learning might look like. Apart from the education-political background, also the methodical outline of the investigation is described. This is followed by a presentation of the results of the analysis of the questionnaire.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_708</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_708">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/708/764" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_708" DMDID="DMD_biejournals_708">
+            <mets:fptr FILEID="FILE0_biejournals_708"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

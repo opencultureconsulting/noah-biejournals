@@ -1,0 +1,118 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2917">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of Three Evidence-Based Programmes Delivered in Public Systems in Birmingham, UK</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Little, Michael</displayForm>
+                        <namePart type="family">Little</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Berry, Vashti</displayForm>
+                        <namePart type="family">Berry</namePart>
+                        <namePart type="given">Vashti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Morpeth, Louise</displayForm>
+                        <namePart type="family">Morpeth</namePart>
+                        <namePart type="given">Louise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Blower, Sarah</displayForm>
+                        <namePart type="family">Blower</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Axford, Nick</displayForm>
+                        <namePart type="family">Axford</namePart>
+                        <namePart type="given">Nick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Taylor, Rod</displayForm>
+                        <namePart type="family">Taylor</namePart>
+                        <namePart type="given">Rod</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bywater, Tracey</displayForm>
+                        <namePart type="family">Bywater</namePart>
+                        <namePart type="given">Tracey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lehtonen, Minna</displayForm>
+                        <namePart type="family">Lehtonen</namePart>
+                        <namePart type="given">Minna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tobin, Kate</displayForm>
+                        <namePart type="family">Tobin</namePart>
+                        <namePart type="given">Kate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The Birmingham Brighter Futures strategy was informed by epidemiological data on child well-being and evidence on “what works,” and included the implementation and evaluation of three evidence-based programmes in regular children’s services systems, as well as an integrated prospective cost-effectiveness analysis (reported elsewhere). A randomised controlled trial (RCT) of the Incredible Years BASIC parenting programme involved 161 children aged three and four at risk of a social-emotional or behavioural disorder. An RCT of the universal PATHS social-emotional learning curriculum involved children aged four–six years in 56 primary schools. An RCT of the Level 4 Group Triple-P parenting programme involved parents of 146 children aged four–nine years with potential social-emotional or behavioural disorders. All three studies used validated standardised measures. Both parenting programme trials used parentcompleted measures of child and parenting behaviour. The school-based trial used teacher reports of children’s behaviour, emotions, and social competence. Incredible Years yielded reductions in negative parenting behaviours among parents, reductions in child behaviour problems, and improvements in children’s relationships. In the PATHS trial, modest improvements in emotional health and behavioural development after one year disappeared by the end of year two. There were no effects for Triple-P. Much can be learned from the strengths and limitations of the Birmingham experience.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2917</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2917">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2917/pdf_64" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2917">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2917/2777" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2917" DMDID="DMD_biejournals_2917">
+            <mets:fptr FILEID="FILE0_biejournals_2917"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2917" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2917"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

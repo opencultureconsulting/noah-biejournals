@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4710">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildungsbiografische Grenzgänge in der Sekundarstufe II</title>
+                        <subTitle>Eine Längsschnittstudie an acht Oberstufen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herrlich, Christel</displayForm>
+                        <namePart type="family">Herrlich</namePart>
+                        <namePart type="given">Christel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Palowski-Göpfert, Monika</displayForm>
+                        <namePart type="family">Palowski-Göpfert</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schöbel, Rica</displayForm>
+                        <namePart type="family">Schöbel</namePart>
+                        <namePart type="given">Rica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Walbe, Annett</displayForm>
+                        <namePart type="family">Walbe</namePart>
+                        <namePart type="given">Annett</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">39</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag legt die Forschungsgruppe „Bildungs-biografische Grenzgänge in der Sekundarstufe II“ ihren Abschlussbericht über das gleichnamige Forschungs- und Entwicklungsprojekt vor, das zwischen 2012 und 2020 in Kooperation von Versuchsschule und Wissenschaftlicher Einrichtung Oberstufen-Kolleg durchgeführt wurde. Im Zentrum stehen gefährdete, „schwierige“ und scheiternde Bildungsbiografien in der Oberstufe, die mit quantitativen und qualitativen Methoden im Längsschnitt untersucht wurden. Die Ergebnisse sind vielfältig und deuten in ihrer Gesamtheit vor allem darauf hin, dass Rückstufungen und Abbrüche in der Oberstufe in nahezu allen Fällen auf eine Kombination schulischer und außerschulischer Ursachen zurückzuführen sind. Im Fazit ziehen wir erste Schlussfolgerungen für die Gestaltung von Beratung in der Oberstufe und geben einen Ausblick auf die Nutzung der Ergebnisse in einem zukünftigen Transferprojekt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4710</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4710">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4710/4479" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4710" DMDID="DMD_biejournals_4710">
+            <mets:fptr FILEID="FILE0_biejournals_4710"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

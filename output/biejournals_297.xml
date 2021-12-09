@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_297">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>impact of School Education, Family, Cultural Background and Political Attitudes and Experiences in Civic Knowledge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mendes, Madalena</displayForm>
+                        <namePart type="family">Mendes</namePart>
+                        <namePart type="given">Madalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ferreira, Carla</displayForm>
+                        <namePart type="family">Ferreira</namePart>
+                        <namePart type="given">Carla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Marques, Georgina</displayForm>
+                        <namePart type="family">Marques</namePart>
+                        <namePart type="given">Georgina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Monteiro, Conceiçã</displayForm>
+                        <namePart type="family">Monteiro</namePart>
+                        <namePart type="given">Conceiçã</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gião, Joana</displayForm>
+                        <namePart type="family">Gião</namePart>
+                        <namePart type="given">Joana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Afonso, Rosa</displayForm>
+                        <namePart type="family">Afonso</namePart>
+                        <namePart type="given">Rosa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Amaro, Gertrudes</displayForm>
+                        <namePart type="family">Amaro</namePart>
+                        <namePart type="given">Gertrudes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The IEA Civic Education Study in Portugal involved the observation of national representative samples of students from grades 8, 9 and 11. Grades 8 and 9 are the terminal years of basic (compulsory) education, and grade 11 is the mid-year of secondary education. Results on civic knowledge reveal a particular scenario that will be explored in this paper: 8 grade students score clearly below the international mean, but both 9 and 11 grade students score above the international mean. The impact of four relevant variables in the literature on political development - education, family cultural background, political interest and experiences, and interpersonal trust - will be analyzed and discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_297</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_297">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/297/294" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_297" DMDID="DMD_biejournals_297">
+            <mets:fptr FILEID="FILE0_biejournals_297"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

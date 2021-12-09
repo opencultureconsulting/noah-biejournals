@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4687">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Incorporating sustainability into food-based dietary guidelines by  “Traffic Light Ecolabelling”</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>van Asselt, Evelien</displayForm>
+                        <namePart type="family">van Asselt</namePart>
+                        <namePart type="given">Evelien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Elamin, Abdullah</displayForm>
+                        <namePart type="family">Elamin</namePart>
+                        <namePart type="given">Abdullah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>González Sánchez, Clara</displayForm>
+                        <namePart type="family">González Sánchez</namePart>
+                        <namePart type="given">Clara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kalesi, Anastasia</displayForm>
+                        <namePart type="family">Kalesi</namePart>
+                        <namePart type="given">Anastasia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Majoor, Elodie</displayForm>
+                        <namePart type="family">Majoor</namePart>
+                        <namePart type="given">Elodie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Context: Food-Based Dietary Guidelines (FBDGs) are science-based recommendations in the form of guidelines for healthy eating. They provide information and advice on foods and dietary patterns to consumers to promote the overall health and prevent chronic disease. As of now, these FBDGs lack information about the sustainability of food products. Consumer food choices have a large impact on human and planetary health and wellbeing, as the production and processing of diets make up between 20% and 30% of the total greenhouse gas emission of consumable goods in the European Union (EU). A plethora of different ecolabels exist to aid consumers in making sustainable choices when purchasing items, both food and non-food products. These ecolabels make it easier for consumers to choose eco-friendly product alternatives, with the aim of lowering the environmental impact of the products a consumer buys. While the growth of ecolabels may be interpreted as a sign of success, label overload and gaps in the understanding might result in confusion for consumers, resulting in the limit of use of these already existing ecolabels. Therefore, this policy brief proposes the development of a universal, understandable ecolabel for food products, to enable consumers to make better informed decisions.
+&amp;nbsp;
+Policy Options: Three policy options are examined. Firstly, a hypothetical ‘do nothing’ scenario is considered, in which food ecolabels are not used. As a second alternative, the use of carbon footprint labelling is examined. Lastly, the implementation of a “traffic light” colour pattern label that uses the colours green, orange and red to demonstrate low, medium and high environmental impact, respectively, is examined.
+&amp;nbsp;
+Recommendations: In order to determine the best policy option, the three proposed policy options are compared using five evaluation criteria (time of implementation, cost of implementation, ease of implementation, consumer friendliness and positive environmental impact). The traffic light ecolabel had the highest overall score, and it is thus recommended that this food ecolabel should be used. Lastly, it is recommended that the ecolabel is incorporated into the already existing EU ecolabel, in an effort to increase consumer knowledge and understanding of this novel ecolabel.
+&amp;nbsp;
+Acknowledgments: This research was supported by Professor Suzanne M. Babich. Associate Dean of Global Health and Professor, Health Policy and Management, at the Indiana University Richard M. Fairbanks School of Public Health in Indianapolis, Indiana, USA, for North America.
+&amp;nbsp;
+Authors’ contributions: All authors contributed equally to this work.
+&amp;nbsp;
+Conflict of Interest: None declared.
+&amp;nbsp;
+Source of Funding: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4687</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4687">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4687/4415" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4687" DMDID="DMD_biejournals_4687">
+            <mets:fptr FILEID="FILE0_biejournals_4687"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

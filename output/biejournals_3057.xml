@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3057">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Analysis of Non-Stationary Pooled Time-Series Cross-Section-Data</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Birkel, Christoph</displayForm>
+                        <namePart type="family">Birkel</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-05-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">It is common in macro-level research on violent crime to analyze datasets combining a cross-section (N units) with a time-series (T periods) dimension. A large body of methodological literature accumulated since the 1990s raises questions regarding the validity of conventional models for such Pooled Time-Series Cross-Section- (PTCS) data in the presence of non-stationarity (i. e. stochastic trends). Extant research shows that conventional techniques lead to consistent estimates only under specific conditions, and standard procedures for statistical inference do not apply. The approaches proposed in the literature to test for stochastic trends and cointegration (see the introduction to this issue) are reviewed, as well as methods for estimation and inference in the non-stationary PTCS-context. A host of procedures has been developed, including methods to take simultaneously cross-section dependence and/or structural breaks into account. Thus there are now all the tools needed for valid analyses of non-stationary PTCS-data available, although many of them need large samples to perform well. The general approach to the analysis of non-stationary PTCS-data is illustrated using a data set with robbery rates for eleven West-German federal states 1971-2004. Several meaningful long-run relationships are identified and estimated in these analyses.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3057</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3057">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3057/pdf_116" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3057">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3057/_10" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3057">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3057/_11" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3057" DMDID="DMD_biejournals_3057">
+            <mets:fptr FILEID="FILE0_biejournals_3057"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3057" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3057"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3057" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3057"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

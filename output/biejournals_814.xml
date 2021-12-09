@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_814">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Interviewing as a Pedagogical Tool in Arts for Social Justice</title>
+                        <subTitle>A Case Study of an Afterschool Arts Program</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dewhurst, Marit</displayForm>
+                        <namePart type="family">Dewhurst</namePart>
+                        <namePart type="given">Marit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Desai, Dipti</displayForm>
+                        <namePart type="family">Desai</namePart>
+                        <namePart type="given">Dipti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The rise of out-of-school youth arts organizations, especially those dedicated to addressing social issues with young people, suggests a growing need for spaces in which we prepare young people to creatively and critically shape their communities. While the popularity of these programs is certainly positive, it does little to tell us what pedagogical lessons we might learn from how youth arts organizations approach social justice teaching in the arts. In order to understand what it takes to do social justice art education, our research team investigated the pedagogical strategies used by Center for Urban Pedagogy, an out-of-school youth arts organization.Method: Through qualitative interviews, observations, and document analyses, this case study examined the specific pedagogical strategies used by educators in the Center for Urban Pedagogy’s (CUP) Urban Investigations program to engage young people in creating art for social justice aims. Findings: Our initial findings revealed that the process of interviewing is at the center of CUP’s approach to both social engagement and art-making. According to our research, interviewing reveals hidden layers of meaning to learners, offers opportunities to visualize personal connections, and provides a means to critically and collaboratively create artwork.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_814</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_814">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/814/899" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_814">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/814/900" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_814" DMDID="DMD_biejournals_814">
+            <mets:fptr FILEID="FILE0_biejournals_814"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_814" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_814"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4259">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Schwierigkeiten mit Schülern“ – Zur Ambivalenz der Rollenstärkung von Lehrer*innen in der Supervision</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>“Difficulties with Students” – The Ambivalence of Empowering Teachers through Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Griewatz, Hans-Peter</displayForm>
+                        <namePart type="family">Griewatz</namePart>
+                        <namePart type="given">Hans-Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Mit dem vorliegenden Beitrag wird eine objektiv hermeneutische Rekonstruktion eines Interviews dargestellt, in dem eine Lehrerin eine entgrenzte Unterrichtssituation mit einer 10. Klasse und deren supervisorische Bearbeitung schildert. Die Rekonstruktion zeigt, wie einerseits ihre fragile Einnahme der Lehrer*innenrolle mithilfe der Supervision gestärkt wird, aber auch, wie dadurch andererseits die spezifischen Bedingungsgefüge in der schulischen Interaktion ausgeblendet werden, was dann zu einer wiederum entgrenzten Wiederherstellung der organisationalen Ordnung führt.</abstract>
+                    <abstract lang="eng">This article presents a reconstruction of an interview with a teacher who tells about a challenging situation in a 10th class and how she dealt with it within the supervision. On the one hand, the reconstruction shows how she empowered herself in her insecure professional role through the supervision. On the other hand, it also shows that she ignores the specific character of the institutional interaction within school and because of this, the organizational hierarchy is improperly re-established.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4259</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4259">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4259/4405" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4259" DMDID="DMD_biejournals_4259">
+            <mets:fptr FILEID="FILE0_biejournals_4259"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

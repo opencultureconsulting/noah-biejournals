@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_522">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Texts to Pictures in Teaching Civics. Participant Observation in Mark’s Classroom</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Erixon, Per-Olof</displayForm>
+                        <namePart type="family">Erixon</namePart>
+                        <namePart type="given">Per-Olof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">We are now living in a “new media age”, with a dramatic shift from the linguistic to the visual, from books and book pages to screens and windows (Kress, 2003). This article offsets out to explore what happens to educational activities in schools when electronic media and pictures replace written texts. The article draws on interviews and classroom observations of a particular Swedish vocational upper secondary programme, where the social studies teacher observes that students are finding it increasingly difficult to benefit from written texts. Theoretically, the study draws on Meyrowitz (1985/1986) theories concerning the relationship among media, situations and behaviour and the effect of a shift from “print situations” to “electronic situations” on a broad range of social role and Bernstein’s (1996/2000) notions of ‘recontextualisation’, ‘framing’ and ‘classification’. The study shows that classroom relations are changing; hierarchies between students and teachers are being broken down, and classification of subjects is affected in the sense that the students’ own interpretations and references are beginning to govern teaching when pictures and electronic media enter the educational discourse.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_522</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_522">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/522/519" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_522" DMDID="DMD_biejournals_522">
+            <mets:fptr FILEID="FILE0_biejournals_522"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

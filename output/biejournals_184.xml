@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_184">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zeitliche Vereinbarkeitspraktiken von Weiterbildungsteilnehmenden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Präßler, Sarah</displayForm>
+                        <namePart type="family">Präßler</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel analysiert zeitliche Vereinbarkeitspraktiken von Weiterbildungsteilnehmenden  im  Spannungsverhältnis  individueller, beruflicher sowie sozialer Anforderungen. Hierfür  werden  bereits  existierende  Befunde  aus  der  Zeit-  und Vereinbarkeitsforschung  mit  ausgewähltem  Material  einer durchgeführten qualitativen Zeitvereinbarkeitsstudie verglichen.  Es  werden  drei  Interviews  mit  Teilnehmenden  eines wissenschaftlichen Weiterbildungsangebotes analysiert, um aufzuzeigen, wie es nicht-traditionellen Zielgruppen gelingt, Weiterbildung als einen neuen Bereich in ihr Leben zu integrieren, welche Faktoren sich auf die zeitliche Vereinbarkeit auswirken  und  nicht  zuletzt  welche  individuellen  Bewältigungsstrategien  angewendet  werden.  Ziel  des  Artikels  ist es, bereits existierende wissenschaftliche Befunde über die Zeitvereinbarkeit von Weiterbildungsteilnehmenden auf den Hochschulbereich zu übertragen und anhand konkreter Beispiele weiter zu differenzieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_184</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_184">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/184/173" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_184" DMDID="DMD_biejournals_184">
+            <mets:fptr FILEID="FILE0_biejournals_184"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

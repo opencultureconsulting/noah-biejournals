@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Responding to research</title>
+                        <subTitle>An interview study of the teacher wellbeing support being offered in ten English schools</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Manning, Alex</displayForm>
+                        <namePart type="family">Manning</namePart>
+                        <namePart type="given">Alex</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brock, Richard</displayForm>
+                        <namePart type="family">Brock</namePart>
+                        <namePart type="given">Richard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Towers, Emma</displayForm>
+                        <namePart type="family">Towers</namePart>
+                        <namePart type="given">Emma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: Responding to research reporting low-levels of teacher wellbeing in England, policy makers have begun to implement strategies to support wellbeing. Given the recent introduction of such policy, this exploratory study describes the wellbeing support being offered to teachers, and perceptions of its impact on wellbeing. 
+Method: A purposeful sample of ten schools (primary and secondary) in Greater London beginning to offer wellbeing support was selected and fifteen teachers were interviewed.
+Findings: Teachers describe a range of wellbeing support strategies being implemented in their schools and report, in some cases, activities designed with good intentions can harm their wellbeing. We apply the capabilities approach to analyse the interviews and argue wellbeing support should be matched to the needs of recipients and support should increase teachers’ freedoms to act, rather than simply mitigating in the moment feelings of stress. 
+Limitations: Findings of this small-scale study cannot be generalised to other contexts.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3312</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3312">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3312/3672" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3312" DMDID="DMD_biejournals_3312">
+            <mets:fptr FILEID="FILE0_biejournals_3312"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

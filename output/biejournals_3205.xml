@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3205">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Praxisforschung und Transfer – Weiterentwicklungen von Lehrer*innenforschung im Anschluss an Ludwig Huber</title>
+                        <subTitle>Forschungs- und Entwicklungsplan der Wissenschaftlichen Einrichtung Oberstufen-Kolleg für das Jahr 2019</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">38</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag dokumentiert den diesjährigen Forschungs- und Entwicklungsplan. Die aktuellen Änderungen von Konzepten werden unter Rückgriff auf die Ausdifferenzierung der Typik von Forschung und Entwicklung diskutiert, die der in diesem Jahr verstorbene ehemalige Leiter der Wissenschaftlichen Einrichtung des Oberstufen-Kollegs, Ludwig Huber, vor fünfzehn Jahren für Lehrer*innenforschung beschrieben hat. Neben den am Oberstufen-Kolleg projektförmig und im multiprofessionellen Team organisierten Forschungs- und Entwicklungsprojekten zählen nach Huber auch die Reflexion und Produktion für die Praxis, die Verbreitung, der Austausch sowie die Umsetzung (Dissemination und Implementation) hierzu. Der Beitrag dokumentiert die Einrichtung neuer Disseminationsstrategien durch Online-Journale sowie mehrere neue Netzwerke und Forschungskooperationen.
+This article documents this year’s research and development plan. The current changes in concepts are discussed with reference to the differentiation of the typology of research and development described fifteen years ago by Ludwig Huber, former head of the Action Research Department of the Oberstufen-Kolleg, who died this year. In addition to the research and development organized as projects in a multi-professional team at the Oberstufen-Kolleg, according to Huber this also includes reflection and production for practice, distribution, exchange as well as realization (dissemination and implementation). The article documents the establishment of new dissemination strategies through online journals as well as several new networks and research cooperations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3205</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3205">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3205/3321" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3205" DMDID="DMD_biejournals_3205">
+            <mets:fptr FILEID="FILE0_biejournals_3205"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

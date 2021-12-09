@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_764">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>About the Use of the Word “Market” in the Teaching of Economics</title>
+                        <subTitle> The Lexicon at Work at the High School and at the University</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blanchard, Hervé</displayForm>
+                        <namePart type="family">Blanchard</namePart>
+                        <namePart type="given">Hervé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Coléno, Yves-Patrick</displayForm>
+                        <namePart type="family">Coléno</namePart>
+                        <namePart type="given">Yves-Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_764</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_764">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/764/833" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_764" DMDID="DMD_biejournals_764">
+            <mets:fptr FILEID="FILE0_biejournals_764"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

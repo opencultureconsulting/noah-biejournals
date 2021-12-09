@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_583">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Reflection of a Warlike Historical Culture in the Attitudes of Finnish Youths</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rantala, Jukka</displayForm>
+                        <namePart type="family">Rantala</namePart>
+                        <namePart type="given">Jukka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-01-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Two school shootings took place in Finland in 2007–2008, in which 20  people lost their lives. After the shootings, foreign journalists used  the violent culture of Finnish men as an explanation for the tragedies.  Of the old EU countries, the highest rate of capital crimes is found in  Finland. The country has for a long time debated where the violence  comes from. One explanation is that the historical culture in Finland  glorifies war. The wars that were fought against the Soviet Union  (1939–1944) have been elevated in Finland to become key elements of the  national psyche, manifested in celebrations, anniversaries and through  family narratives. According to this explanation, a Finn already learns  as a child to accept violence which is considered to be legitimate and  to behave in accordance with warlike ideals. This article examines the  warlike historical culture in Finland and clarifies why war has remained  a popular theme of Finnish historical culture. Further, it discusses  the impact that a warlike historical culture has on the attitudes of  young people.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_583</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_583">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/583/580" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_583" DMDID="DMD_biejournals_583">
+            <mets:fptr FILEID="FILE0_biejournals_583"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

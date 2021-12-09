@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3076">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Political and Ethnic Identity in Violent Conflict</title>
+                        <subTitle>The Case of Central African Republic</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Isaacs-Martin, Wendy</displayForm>
+                        <namePart type="family">Isaacs-Martin</namePart>
+                        <namePart type="given">Wendy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The conflict in the CAR has been ignored largely by the international media until 2013.  Media and global interest rose with the presidential coup by, and then presidential appointment of, the first Muslim leader of the CAR, Michel Djotodia.  Subsequently violence in the country escalated and cited to be purely sectarian – between Muslim and Christian militia and civilians.  The focus of the paper is confined to the CAR and the question posed is whether the Muslim versus Christian conflict differs from the other conflicts in the CAR?  The method of structured and substantive content analysis used here is the narrative paradigm and the storytelling (data) extracted from the United Nations High Commission for Refugees brief notes and news series to reveal a relatively neutral account of events.  This is used to create a linear timeframe to argue that the current hostilities are part of another cycle of violence that plagues the CAR.  The study and findings are limited to the period 2001-2014 although the history of political leadership is referred to from the country’s ‘independence’ in 1960, using a narrative paradigm and coherence.  The results confirm that apart from a linear path of conflict, reflected in the political leadership, there are accompanying cycles of violence, representative of identity that moves along the linear path. The readings reveal that the violence currently defined as sectarian religious conflict is the start of a new cycle in the linear path of political leadership.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3076</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3076">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3076/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3076">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3076/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3076">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3076/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3076" DMDID="DMD_biejournals_3076">
+            <mets:fptr FILEID="FILE0_biejournals_3076"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3076" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3076"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3076" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3076"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

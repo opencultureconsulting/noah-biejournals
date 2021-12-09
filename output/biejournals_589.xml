@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_589">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Hong Kong Students’ Levels of Political Trust Ten Years after the Return to Chinese Sovereignty</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kennedy, Kerry John</displayForm>
+                        <namePart type="family">Kennedy</namePart>
+                        <namePart type="given">Kerry John</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Huang, Xiaorui</displayForm>
+                        <namePart type="family">Huang</namePart>
+                        <namePart type="given">Xiaorui</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Chow, Joseph Kui Foon</displayForm>
+                        <namePart type="family">Chow</namePart>
+                        <namePart type="given">Joseph Kui Foon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-04-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Hong Kong’s return to the People’s Republic of China in 1997 marked the beginning of a political transition that, if successful, will result in full democracy by 2020 (Ma 2008). Given that there are different levels of political trust in established and emerging democracies (Catterberg, Moreno 2005) and that regime changes itself exerts an influence on trust, this paper reports on a study that compares levels of political trust between two samples of Hong Kong’s young people. The results indicated that more than ten years after Hong Kong’s retrocession to China, some institutions were more strongly endorsed in 2009 than in 1999 but others registered a lower level of endorsement. Structurally it seems that ‘political trust’ is understood by both samples as a multidimensional construct that has a direct impact on the way they see their future citizenship responsibilities The implications of these results for both political theory and civic education are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_589</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_589">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/589/586" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_589" DMDID="DMD_biejournals_589">
+            <mets:fptr FILEID="FILE0_biejournals_589"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

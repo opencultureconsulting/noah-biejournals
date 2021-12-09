@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_446">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Coming of Age at Bullworth Academy</title>
+                        <subTitle>Bully and Narratives of Youth Violence</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rauch, Peter</displayForm>
+                        <namePart type="family">Rauch</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The 1999 rampage at Columbine High School, and the high-profile school shootings that preceded it, dramatically heightened pre-existing cultural anxieties about the consumption of violent media in childhood. In particular, videogames received unprecedented public scrutiny, and even now the spectre of Columbine continues to hang over any discussion of violent videogames. When Rockstar Games, developer of the ultraviolent Grand Theft Auto series, announced Bully, a similarly styled game that would take place in a school, controversy predictably ensued. Rockstar made no effort to dispel this controversy, and might have actually encouraged it, but the game itself bears little relation to an archetypal school shooting. As a text, Bully represents a much different narrative of adolescence, one that questions the morality of adult institutions and problematizes the very idea of “growing up.” This essay compares and contrasts Bully with other narratives of youth violence, ranging from the popularly accepted telling of the Columbine shootings to William Golding’s Lord of the Flies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_446</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_446">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/446/443" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_446" DMDID="DMD_biejournals_446">
+            <mets:fptr FILEID="FILE0_biejournals_446"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

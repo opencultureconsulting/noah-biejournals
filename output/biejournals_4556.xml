@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4556">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mathematische Grundvorstellungen durch Bewegungen aufbauen</title>
+                        <subTitle>Potenziale bewegten Lernens aufgezeigt am Beispiel von Bewegungen auf dem „Zahlenteppich“ zur Förderung des Stellenwertverständnisses</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Radünz, Lena</displayForm>
+                        <namePart type="family">Radünz</namePart>
+                        <namePart type="given">Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Benölken, Ralf</displayForm>
+                        <namePart type="family">Benölken</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Lernbegleitende Formen bewegten Lernens erlangten bereits eine gewisse Bekanntheit und Verbreitung. Bewegtes Lernen kann aber auch lernerschließend gestaltet werden, so dass es für mathematische Lehr-Lern-Prozesse die Funktion einer Entfaltung sogenannter „Grundvorstellungen“ einzunehmen vermag. Hieraus entsteht eine Brücke zu einem der Hauptkonzepte und -ziele des Mathematikunterrichts, insbesondere mit Blick auf ein verstehensorientiertes Lernen als eines der Grundpostulate der Fachdidaktik Mathematik. Der Beitrag stellt für den skizzierten interdisziplinären Zugang zwischen Sportwissenschaft und Mathematikdidaktik theoretische Hintergründe einerseits und konkrete Beispiele entsprechender Lernumgebungen andererseits vor, wobei der Aufbau eines tragfähigen Verständnisses des dekadischen Stellenwertsystems den Anker der Betrachtung bildet. In diesem Kontext wird insbesondere ein „Zahlenteppich“ vorgestellt, der eine Adaption der bekannten „Hundertertafel“ darstellt und speziell für ein Lernen von Mathematik „durch Bewegung“ entwickelt wurde. Dabei möchte der Beitrag ausgehend von der Theorie-Praxis-Verknüpfung in zwei Punkten zum Nachdenken anregen: Zum einen sollen auf theoretischer Ebene Anstöße zur Reflexion des Aufbaus langjährig etablierter Anschauungsmittel gegeben werden. Zum anderen soll auf praktischer Ebene das Potenzial zur Förderung von Grundvorstellungen durch Bewegungen analysiert werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4556</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4556">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4556/4351" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4556" DMDID="DMD_biejournals_4556">
+            <mets:fptr FILEID="FILE0_biejournals_4556"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

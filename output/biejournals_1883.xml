@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1883">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Leadership competencies among male health professionals in a Western Balkan country</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Caushaj, Klevis</displayForm>
+                        <namePart type="family">Caushaj</namePart>
+                        <namePart type="given">Klevis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roshi, Enver</displayForm>
+                        <namePart type="family">Roshi</namePart>
+                        <namePart type="given">Enver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Muja, Herion</displayForm>
+                        <namePart type="family">Muja</namePart>
+                        <namePart type="given">Herion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Our objective was to assess the current and the required level of leadership competencies among male health professionals in Albania, a country which is characterized by an intensive process of emigration of the health workforce in the past few decades.Methods: This was a cross-sectional study carried out in Albania in June-November 2018 including a nationwide representative sample of 132 male health professionals working at different health institutions at both central and local level in Albania (mean age: 41.4±10.1 years; overall response rate: 88%). A structured 52-item questionnaire was administered to all male health professionals aiming at self-assessing the current level and the required (necessary) level of leadership competencies for their actual job positions. Answers for each item of the instrument ranged from 1 (“minimal competency level”) to 5 (“maximal competency level”). An overall summary score (range: 52-260) and a subscale summary score for each domain were calculated for both the current and the required leadership competency levels. Paired sample t-test was used to compare the overall mean scores and the subscale mean scores of the current level and the required level of leadership competencies among male health professionals.Results: Mean value of the overall summary score of the instrument was lower for the current leadership competency level compared with the required leadership competency level (137.6±8.7 vs. 140.7±21.2, respectively; P=0.02). Mean difference between the required and the current level of leadership competencies was higher for male health professionals working in top managerial positions and those working in urban areas of Albania.    Conclusion: This study informs about the current and the required level of leadership competencies among male health professionals in Albania, a transitional country in the Western Balkans. Policymakers and decision-makers in Albania and other countries in the European region should be aware of the existing gap between the required and the current level of leadership competencies among health professionals operating at all levels. Conflicts of interest: None.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1883</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1883">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1883/1803" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1883" DMDID="DMD_biejournals_1883">
+            <mets:fptr FILEID="FILE0_biejournals_1883"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

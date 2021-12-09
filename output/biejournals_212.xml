@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_212">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexion in der Hochschulweiterbildung. Verbindungsglied zwischen unterschiedlichen Erfahrungswelten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cendon, Eva</displayForm>
+                        <namePart type="family">Cendon</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag legt den Fokus auf Reflexion in der Hochschulweiterbildung. Untersucht wird die Rolle von Reflexion als Verbindungsglied zwischen unterschiedlichen Erfahrungswelten der Studierenden. Zunächst erfolgt (1) eine erste Annäherung an den Begriff der Reflexion, danach werden (2) ausgewählte theoretische Ansätze der Verbindung von Reflexion und Lernen dargestellt und dann (3) mit Blick auf ein mögliches Modell von Reflexion in der Hochschulweiterbildung diskutiert. In einem weiteren Schritt werden (4) ausgewählte Ergebnisse einer explorativen Studie mit Weiterbildungsstudierenden dargestellt und (5) in einer Zusammenschau der theoretischen Ansätze und der Erkenntnisse der empirischen Studie erste Eckpfeiler solch eines Modells skizziert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_212</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_212">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/212/213" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_212" DMDID="DMD_biejournals_212">
+            <mets:fptr FILEID="FILE0_biejournals_212"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

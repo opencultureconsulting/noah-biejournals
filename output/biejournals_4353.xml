@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4353">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Community and Informal Care Providers at the Heart of Universal Health Coverage in sub-Saharan Africa</title>
+                        <subTitle>A Position Paper</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kisangala, Ephraim</displayForm>
+                        <namePart type="family">Kisangala</namePart>
+                        <namePart type="given">Ephraim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mbivnjo, Etheldreda Leinyuy</displayForm>
+                        <namePart type="family">Mbivnjo</namePart>
+                        <namePart type="given">Etheldreda Leinyuy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Okeah, Bernard Ojiambo</displayForm>
+                        <namePart type="family">Okeah</namePart>
+                        <namePart type="given">Bernard Ojiambo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Khan, Mohammed Azhar</displayForm>
+                        <namePart type="family">Khan</namePart>
+                        <namePart type="given">Mohammed Azhar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Globally, increased demand on often scarce healthcare resources and those challenges incumbent in responding to the coexistence of infectious and non-communicable diseases warrant the need to address persistent health inequities. Understanding the complex intersectionality of vulnerability and reaching those in most critical need of healthcare lies at the heart of fostering and sustaining resilient healthcare systems. Harnessing the long-recognised value of Community and Informal Care Providers (CICPs) is instrumental to Universal Health Coverage (UHC). The present COVID-19 context serves as a poignant example of where access to formal healthcare services by many has become increasingly difficult. Here, the value of informal or volunteer-led health services has been a lifeline for many. For several decades, formal reportage has evidenced the established role of CICPs, particularly across Sub-Saharan Africa with quantifiable efficacy across a number of domains, such as, maternal and child health, neglected tropical disease prevention, tuberculosis care and malaria control.&amp;nbsp; CICPs have been sustainable and effective as a conduit between the formal and informal health sectors, and between health facilities and the remotest of communities. Maximising the function of CICPs relies on socio-culturally, geographically sensitive, and bespoke support; psychosocial, practical, and logistical capacitation coupled with situationally and culturally appropriate monitoring and evaluation. The Astana Declaration highlights the centrality of building on existing knowledge, insight and resource.&amp;nbsp; We therefore argue that CICPs are indispensable in Africa’s move towards UHC, and hold promise for acceptable, accessible, affordable, and quality healthcare to everyone who needs to get, be and stay healthy.&amp;nbsp; 
+&amp;nbsp;
+&amp;nbsp;
+Source of funding: The WHO African Regional Office and Hidayo Noguchi African Prize (HNAP) for Medical Services sponsored the processing fee for this article.
+&amp;nbsp;
+Conflict of interest statement: The authors declare no financial or non-financial conflicts of interest.
+&amp;nbsp;
+Acknowledgments: The authors acknowledge the mentorship of Professor Margaret Gyapong,
+Director of the Institute of Health Research, University of Health and Allied Sciences, Ghana.
+&amp;nbsp;
+Authors’ contributions: EK contributed to the body of the essay and managed correspondences with the mentor and WHO African Regional Office; ELM wrote the outline, abstract and introduction of the essay; BOO made contributions to the body of the essay, wrote the conclusion and compiled the first complete draft; and MAK contributed to the body of the essay.&amp;nbsp;&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4353</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4353">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4353/4212" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4353" DMDID="DMD_biejournals_4353">
+            <mets:fptr FILEID="FILE0_biejournals_4353"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

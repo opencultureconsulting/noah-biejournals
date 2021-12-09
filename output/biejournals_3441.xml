@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3441">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Aflatoxin B1 as an endocrine disruptor among miller flour workers</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beshir, Safia</displayForm>
+                        <namePart type="family">Beshir</namePart>
+                        <namePart type="given">Safia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Shaheen, Weam</displayForm>
+                        <namePart type="family">Shaheen</namePart>
+                        <namePart type="given">Weam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saad-Hussein, Amal</displayForm>
+                        <namePart type="family">Saad-Hussein</namePart>
+                        <namePart type="given">Amal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saeed, Yuosra</displayForm>
+                        <namePart type="family">Saeed</namePart>
+                        <namePart type="given">Yuosra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Aflatoxin В1 has been stated to inhibit the function of different endocrine glands. This study was proposed to clarify the possible effects of aflatoxin B1 as an endocrine disruptor on pituitary gland, thyroid gland and gonads among miller flour workers, and to evaluate its effects on human male sexual function.
+Methods: A case-control study was conducted in a flour mill in Helwan District Cairo, Egypt in 2019. The study included 42 exposed flour milling male workers from the grinding department which showed the highest level of aspergillus flavus in the air sampling of airborne fungi and 40 non-exposed males. Serumaflatoxin В1/albumin, luteinizing hormone, follicle stimulating hormone, testosterone, 17-beta-estradiol, free triiodothyronine, free thyroxin and thyroid stimulating hormone were measured for the studied groups.
+Results: Sampling of airborne fungi revealed that aspergillus flavus and penicillum were the predominant fungal types in the flour mill. Indoor/Outdoor ratios for aspergillus flavus were ≥ 1 in all the locations indicating presence of indoor sources. Serum Aflatoxin В1/albumin, luteinizing hormone and follicle stimulating, the existence of various types of sexual disorders (decreased libido, impotence and premature ejaculation) were higher while testosterone was lower in the miller flour workers compared to non-exposed. However, there was no significant difference regarding 17-beta-estradioland thyroid hormone levels between both studied groups.
+Conclusion: Aflatoxin B1creates possible human male reproductive health distresses in miller flour workers.
+&amp;nbsp;
+Acknowledgement: The authors are grateful to the National Research Centre for funding this research.
+&amp;nbsp;
+Funding: This study was funded by the National Research Centre, Egypt.
+&amp;nbsp;
+Conflicts of interest: None declared.&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3441</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3441">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3441/3582" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3441" DMDID="DMD_biejournals_3441">
+            <mets:fptr FILEID="FILE0_biejournals_3441"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

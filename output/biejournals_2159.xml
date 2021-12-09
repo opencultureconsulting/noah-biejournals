@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2159">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision und das Prinzip russische Puppe Matrjoschka</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Doppler, Klaus</displayForm>
+                        <namePart type="family">Doppler</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Unter dem steigenden Erfolgsdruck auf die Beratung müssen Beraterinnen ihre Sichtweise auf das Umfeld ihrer Klienten, ihre Problemdiagnose, ihre Beratungskonzepte, ihr Profil und ihr konkretes Vorgehen daraufhin überprüfen, wieweit es aus der Perspektive des Klienten (noch) als hilfreich erlebt wird. Entsprechend der zunehmenden Komplexität von kritischen Situationen des Klienten ist insgesamt ein ganzheitlicher Beratungsansatz von Vorteil, der sich aus Elementen der Individualpsychologie, Fachberatung, Gruppendynamik und Organisationsentwicklung zusammensetzt.Darüber hinaus ist es für Beraterinnen wichtig, ihren eigenen, in ihrer persönlichen Entwicklungsgeschichte angelegten Zugang zu den vom Klienten angefragten Themen zu reflektieren und die daraus sich ergebenden Fokussierungen und Begrenzungen zu reflektieren. Um den Klienten in Form von Hilfe zur Selbsthilfe zu begleiten, wird empfohlen, anstelle radikaler Rollentrennung eine enge Lernpartnerschaft zwischen Berater und Klient einzugehen und gleichzeitig darauf zu achten, sich nicht einseitig ausschließlich für die Interessen der &quot;Gewinner&quot; instrumentalisieren zu lassen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2159</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2159">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2159/2026" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2159" DMDID="DMD_biejournals_2159">
+            <mets:fptr FILEID="FILE0_biejournals_2159"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3345">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Europaschule-Linz</title>
+                        <subTitle>Modell- und Forschungsschule der Pädagogischen Hochschule Oberösterreich</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leeb, Johannes</displayForm>
+                        <namePart type="family">Leeb</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Soukup-Altrichter, Katharina</displayForm>
+                        <namePart type="family">Soukup-Altrichter</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Europaschule-Linz ist eine Schule der Sechs- bis Vierzehnjährigen und vereint die Praxisvolksschule sowie die Praxismittelschule der Pädagogischen Hochschule Oberösterreich. Um das gesamte Bildungsspektrum an Schüler*innen abzubilden, werden bewusst in jedem Jahrgang Kinder mit unterschiedlichsten soziökonomischen Hintergründen und Kinder mit Sonderpädagogischem Förderbedarf aufgenommen, in die einzelnen Klassen integriert und somit Inklusion erleb- und erfahrbar gemacht. Hochqualifizierte Pädagog*innen arbeiten daran, auf Basis von Erkenntnissen aus der pädagogischen Forschung selbst Modelle in den Bereichen der Schulorganisation, Fachdidaktik und Unterrichtsentwicklung umzusetzen und auf ihre Praxistauglichkeit hin zu beforschen.
+The “Europaschule” Linz is a school for 6 to 14 year old students and combines the training school “Volksschule” and the training school “Neue Mittelschule” of the Teacher Training College Upper Austria. In order to cover the entire educational spectrum of pupils, each class consciously includes children from different socio-economic backgrounds and children with special educational needs, integrates them into the individual classes, and thus makes inclusion a tangible experience.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3345</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3345">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3345/3507" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3345" DMDID="DMD_biejournals_3345">
+            <mets:fptr FILEID="FILE0_biejournals_3345"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

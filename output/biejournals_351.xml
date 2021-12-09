@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Research on Moral and Civic Education in the Spanish Educational Theory - Evolution and Current Trends</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Naval, Concepción</displayForm>
+                        <namePart type="family">Naval</namePart>
+                        <namePart type="given">Concepción</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jover, Gonzalo</displayForm>
+                        <namePart type="family">Jover</namePart>
+                        <namePart type="given">Gonzalo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">With this paper the editors of the Journal of Social Science Education start a new kind of report which presents an overview of scholarly discourses on civic education and economic education in several European countries. The overall aim is to provide a first access to these discourses which are often rather difficult to reach. By publishing reports on these national scientific fields the editors of JSSE hope to facilitate the mutual perception of scholars and the development of a European discourse. The NECE database “Networking European Citizenship Education” which is available at http://www.nece.eu and at the German Federal Agency of Civic Education may help networking, too.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_351</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_351">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/351/348" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_351" DMDID="DMD_biejournals_351">
+            <mets:fptr FILEID="FILE0_biejournals_351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

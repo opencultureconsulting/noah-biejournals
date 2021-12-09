@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1008">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Escaping workplace gender discrimination through mobility? Labor-market experiences of Polish female migrants in the West</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pustulka, Paula</displayForm>
+                        <namePart type="family">Pustulka</namePart>
+                        <namePart type="given">Paula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Based on qualitative data gathered during a comparative doctoral research project, this article aims to shed light on the transnational mobility of women as viewed through the lens of the labor market and takes an intersectional approach to the nexus of gender, class, and ethnicity. It investigates in particular the careers of Polish women whose migratory decisions appear to have been affected by gender inequalities and injustices prevalent in the labor market in Poland, and examines accounts by female migrants of their experiences of unfair labor-market practices based on gender. Improved labor-market positions (in general) and personal recollections of positive change and career advancement (in a subjective and individual sense) are analyzed with reference to the idea of international mobility having emancipatory effects. More importantly, the findings challenge the gender order that assigns characteristics of domesticity and rootedness to women, presenting instead the professional lives of the respondents, which are marked by a high degree of agency and success.Key Words: migration, Poland in the EU, labor market, gender, discrimination</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1008</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1008">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1008/1116" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1008" DMDID="DMD_biejournals_1008">
+            <mets:fptr FILEID="FILE0_biejournals_1008"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3251">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transforming rural education in Colombia through family participation</title>
+                        <subTitle>The case of school as a learning community</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Soler, Marta</displayForm>
+                        <namePart type="family">Soler</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Morlà-Folch, Teresa</displayForm>
+                        <namePart type="family">Morlà-Folch</namePart>
+                        <namePart type="given">Teresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>García-Carrión, Rocío</displayForm>
+                        <namePart type="family">García-Carrión</namePart>
+                        <namePart type="given">Rocío</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Valls, Rosa</displayForm>
+                        <namePart type="family">Valls</namePart>
+                        <namePart type="given">Rosa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article studies the impact of the implementation of learning communities in a rural context of Colombia, specifically concerning the improvements related to learning and social cohesion.
+Design/methodology/approach: This longitudinal case study analyses the process and the impacts of the transformation of a school in 2015 and the subsequent years of 2016 and 2017. The data analysed include standardized external tests, a documentary analysis of the school and interviews with students, family members and the schoolteacher.
+Findings: The results obtained indicate academic improvement within the school with results that exceed the national average of Colombia. The results also report how violence has been reduced by 80%. All of these outcomes were motivated by the participation of the community in the school.
+Practical implications: The conclusions drawn are relevant as they show a success case that overcame the difficulties related to the lack of accessibility and quality of rural education in Colombia.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3251</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3251">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3251/3489" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3251" DMDID="DMD_biejournals_3251">
+            <mets:fptr FILEID="FILE0_biejournals_3251"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2926">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Guest Editorial</title>
+                        <subTitle>Processes of Radicalization and De-Radicalization</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Della Porta, Donatella</displayForm>
+                        <namePart type="family">Della Porta</namePart>
+                        <namePart type="given">Donatella</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>LaFree, Gary</displayForm>
+                        <namePart type="family">LaFree</namePart>
+                        <namePart type="given">Gary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The study of radicalization and de-radicalization, understood as processes leading towards the increased or decreased use of political violence, is central to the question of how political violence emerges, how it can be prevented, and how it can be contained. The focus section of this issue of the International Journal of Conflict and Violence addresses radicalization and de-radicalization, seeking to develop a more comprehensive understanding of the processes, dynamics, and mechanisms involved and taking an interdisciplinary approach to overcome the fragmentation into separate disciplines and focus areas. Contributions by Pénélope Larzillière, Felix Heiduk, Bill Kissane, Hank Johnston, Christian Davenport and Cyanne Loyle, Veronique Dudouet, and Lasse Lindekilde address repressive settings, legitimacy, institutional aspects, organizational outcomes, and dynamics in Europe, Asia, Africa, and North and South America.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2926</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2926">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2926/pdf_56" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2926">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2926/2795" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2926" DMDID="DMD_biejournals_2926">
+            <mets:fptr FILEID="FILE0_biejournals_2926"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2926" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2926"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

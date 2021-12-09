@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2791">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violence, Crime, and Violent Crime</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Felson, Richard B.</displayForm>
+                        <namePart type="family">Felson</namePart>
+                        <namePart type="given">Richard B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">I propose a dual conceptualization of violent crime. Since violent crime is both violence and crime, theories of aggression and deviance are required to understand it. I argue that both harm-doing and rule breaking are instrumental behaviors and that a bounded rational choice approach can account for both behaviors. However, while some of the causes of harm-doing and deviance (and violent and nonviolent crime) are the same, some are different. Theories of crime and deviance cannot explain why one only observes individual and group differences in violent crime and theories of aggression and violence cannot explain why one observes differences in all types of crimes. Such theories are &amp;ldquo;barking up the wrong tree.&amp;rdquo;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2791</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2791">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2791/2552" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2791" DMDID="DMD_biejournals_2791">
+            <mets:fptr FILEID="FILE0_biejournals_2791"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

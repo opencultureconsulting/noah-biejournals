@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3784">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Elemente innovativer Brückenkurskonzepte in der wissenschaftlichen Weiterbildung für den Abbau von Abbruchquoten in mathematisch-naturwissenschaftlichen Studiengängen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Poppinga, Thomas</displayForm>
+                        <namePart type="family">Poppinga</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wetzel, Kathrin</displayForm>
+                        <namePart type="family">Wetzel</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Arnold, Marlen</displayForm>
+                        <namePart type="family">Arnold</namePart>
+                        <namePart type="given">Marlen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Studieneingangsphase besitzt eine besondere Bedeutung,insbesondere wenn sie einen Beitrag zur Behebung des Facharbeitermangelsleistet und die Ingenieurslücke schließensoll. Hohe Abbruchquoten in Studiengängen aus den mathematisch-naturwissenschaftlichen Fachdisziplinen belegenein Missverhältnis im Bereich der Vorbildung, der Erwartungshaltungsowie in den Anforderungen an das Studium.Eine effizientere Gestaltung des Überganges erfordert daherinnovative Anpassungen an die Bereiche der Organisationund der Lehrmethoden. In diesem Artikel werden innovativeGestaltungskonzepte für Brückenkurse zu naturwissenschaftlichenund technischen Studiengängen (sog. MINTFächer)dargelegt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3784</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3784">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3784/3837" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3784" DMDID="DMD_biejournals_3784">
+            <mets:fptr FILEID="FILE0_biejournals_3784"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

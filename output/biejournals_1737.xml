@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1737">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Du denkst Zukunft! Ergebnisse eines fächerübergreifenden Schulprojekts zu Morbus Alzheimer</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Höffler, Tim Niclas</displayForm>
+                        <namePart type="family">Höffler</namePart>
+                        <namePart type="given">Tim Niclas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulz, Carmen</displayForm>
+                        <namePart type="family">Schulz</namePart>
+                        <namePart type="given">Carmen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Blankenburg, Janet</displayForm>
+                        <namePart type="family">Blankenburg</namePart>
+                        <namePart type="given">Janet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Parchmann, Ilka</displayForm>
+                        <namePart type="family">Parchmann</namePart>
+                        <namePart type="given">Ilka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das vorgestellte Gesundheitsbildungsprojekt „Du denkst Zukunft!“ hat zum Ziel, Jugendliche an das aktuelle Thema Morbus Alzheimer heranzuführen und sie über medizinische, naturwissenschaftliche und gesellschaftliche Aspekte dieser weitverbreiteten Demenzform aufzuklären. Mittels eines Projekttages an Schulen sowie einem fakultativen anschließenden Praxistag in wissenschaftlichen oder medizinischen Einrichtungen soll das Interesse der Schülerinnen und Schüler geweckt sowie erste thematische und berufsorientierende Einblicke in das Themenfeld ermöglicht werden. Die Evaluation des Projekts, für die 325 Schülerinnen und Schüler der Oberstufe befragt wurden, fokussiert in erster Linie auf das Interesse an medizinischen Aktivitäten, gemessen mit einem adaptierten RIASEC-Ansatz, sowie auf das Wissen über die Demenzform Alzheimer, die Einschätzung der Relevanz für die Gesellschaft, den Berufswunsch sowie die Bereitschaft, sich zukünftig ehrenamtlich im Bereich Alzheimer zu engagieren. Die Ergebnisse zeigen neben einem gesteigerten Wissen insbesondere positiven Zuwachs in einzelnen Interessensdimensionen, ein gefestigtes Interesse, nach der Schule einen medizinischen (aber nicht einen naturwissenschaftlichen) Beruf zu ergreifen, sowie auffallende Geschlechterunterschiede.
+&amp;nbsp;
+Abstract
+The presented health literacy project “Du denkst Zukunft!” aims to introduce young adults to the current topic of morbus Alzheimer and to explain medical, scientific, and societal aspects of this widespread form of dementia. Using a project day in schools and an optional practical day in scientific or medical institutions, students’ interest should be aroused by giving first thematic and vocational insights into the field. The project’s evaluation with 325 students focuses first and foremost on the interest in medical activities (measured with an adapted RIASEC-approach) as well as on knowledge gain about morbus Alzheimer, assessment of societal relevance, career aspirations, and the future willingness to volunteer in this area. The results show significant knowledge gains as well as gains in specific interest dimensions, a strengthened interest in medical careers (but not in science careers), and remarkable gender differences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1737</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1737">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1737/3269" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1737" DMDID="DMD_biejournals_1737">
+            <mets:fptr FILEID="FILE0_biejournals_1737"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

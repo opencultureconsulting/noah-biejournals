@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1650">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was macht „gute“ Biologielehrkräfte aus? </title>
+                        <subTitle>Befragungen von Lehrenden in der Didaktik der Biologie und Biologie-Lehramtsstudierenden an deutschen Hochschulen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krüger, Dirk</displayForm>
+                        <namePart type="family">Krüger</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kloss, Luise</displayForm>
+                        <namePart type="family">Kloss</namePart>
+                        <namePart type="given">Luise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>García Adánez, Isabel</displayForm>
+                        <namePart type="family">García Adánez</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-03-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Projekt „Optimierung der Biologie-Lehramtsausbildung in gemeinsamer Anstrengung (OBLigAt)“ kommen Vorstellungen und Standpunkte von Biologie-Fachleitern, Biologiedidaktik-Dozenten an den Hochschulen, Biologie-Lehramtsstudierenden und -Referendaren zur Verbesserung der Ausbildung zum Ausdruck. Es werden die Ergebnisse von 79 Hochschuldozenten in der Didaktik der Biologie und von 442 Biologie-Lehramtsstudenten vorgestellt. Nach ihrer Meinung werden in den fachdidaktischen Studienanteilen viele Aspekte, die zu gutem Unterricht führen sollen, gut bis befriedigend behandelt. Grundsätzlich werden hierbei die Bedeutung der Berücksichtigung von Schülervorstellungen erkannt sowie personale und diagnostische Kompetenzen ausgebildet. Diskrepanzen zwischen der Schwerpunktsetzung der Dozenten und den Vorstellungen der Studierenden liegen in der Forderung der Studierenden nach mehr praktischen Aspekten, die sich unmittelbar für den Unterricht umsetzen lassen. Eine theoretische Fundierung als Basis der Unterrichtsgestaltung rückt eher für Dozenten in den Vordergrund. Insgesamt ist die Kooperation zwischen Fachwissenschaft, Didaktik und Pädagogik zu optimieren. Die Ergebnisse bieten Ansatzpunkte, die Ausbildung im Sinne des Projekts OBLigAt zu verbessern.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1650</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1650">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1650/1596" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1650" DMDID="DMD_biejournals_1650">
+            <mets:fptr FILEID="FILE0_biejournals_1650"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

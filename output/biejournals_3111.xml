@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pre-war grievances and violence against civilians in civil wars. Evidence from the Spanish Civil War in Catalonia.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herreros, Francisco</displayForm>
+                        <namePart type="family">Herreros</namePart>
+                        <namePart type="given">Francisco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Domenech, Jordi</displayForm>
+                        <namePart type="family">Domenech</namePart>
+                        <namePart type="given">Jordi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-10</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article claims that the role of pre-war grievances as a predictor of violence against civilians in civil wars may have been systematically underestimated because the “grievance hypothesis” has not been properly tested. Pre-war grievances can only affect civilian victimization in civil wars if they have been intensely mobilized in the period close to the outbreak of the conflict and if there is a temporary collapse of state capacity. This article presents a “fair test” of the grievance hypothesis. It analyses in depth a specific case of a pre-war grievance that met these two conditions. This case is the conflict around land property rights in Catalonia before the Spanish Civil War and its effects on violence against civilians during the war. The results show a non-negligible effect of pre-war grievances on civilian victimization.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3111</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3111">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3111/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3111" DMDID="DMD_biejournals_3111">
+            <mets:fptr FILEID="FILE0_biejournals_3111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_684">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Temptation of Documentation</title>
+                        <subTitle>Potential and Challenges of Videographic Documentation and Interpretation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winckler, Marie</displayForm>
+                        <namePart type="family">Winckler</namePart>
+                        <namePart type="given">Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Insights into the civic education classroom can be gained through videographic documentation. Videographic material offers, as I argue in this article, great possibilities: Through a reconstructive approach insights into dimensions of civic education such as spatial organisation, symbolic representation and non-verbal communication may emerge. In this way, a deeper understanding of informal political learning in school can be obtained. These aspects have not yet been considered in depth with videographic documentation primarily employed to date in teacher training contexts and lesson evaluation.The case study I present here was inspired by the documentary method and both the potential and limitations of videographic interpretation are discussed in this context. The study also suggests that what is not offered by videographic documentation includes insights into the individual and collective integration of experiences in civic education lessons.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_684</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_684">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/684/732" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_684">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/684/733" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_684" DMDID="DMD_biejournals_684">
+            <mets:fptr FILEID="FILE0_biejournals_684"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_684" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_684"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

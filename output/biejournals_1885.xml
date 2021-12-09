@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1885">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Data gaps in adolescent fertility surveillance in middle-income countries in Latin America and South Eastern Europe</title>
+                        <subTitle>Barriers to evidence-based health promotion</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sentell, Tetine</displayForm>
+                        <namePart type="family">Sentell</namePart>
+                        <namePart type="given">Tetine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aires da Câmara, Saionara Maria</displayForm>
+                        <namePart type="family">Aires da Câmara</namePart>
+                        <namePart type="given">Saionara Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ylli, Alban</displayForm>
+                        <namePart type="family">Ylli</namePart>
+                        <namePart type="given">Alban</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Velez, Maria P.</displayForm>
+                        <namePart type="family">Velez</namePart>
+                        <namePart type="given">Maria P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Domingues, Marlos R.</displayForm>
+                        <namePart type="family">Domingues</namePart>
+                        <namePart type="given">Marlos R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bassani, Diego G.</displayForm>
+                        <namePart type="family">Bassani</namePart>
+                        <namePart type="given">Diego G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Guo, Mary</displayForm>
+                        <namePart type="family">Guo</namePart>
+                        <namePart type="given">Mary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pirkle, Catherine M.</displayForm>
+                        <namePart type="family">Pirkle</namePart>
+                        <namePart type="given">Catherine M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-30</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Adolescent health is a major global priority. Yet, as recently described by the World Health Organization (WHO), increased recognition of the importance of adolescent health rarely transforms into action. One challenge is lack of data, particularly on adolescent fertility. Adolescent pregnancy and childbirth are widespread and affect lifetime health and social outcomes of women, men, and families. Other important components of adolescent fertility include abortion, miscarriage, and stillbirth. Access to reliable, consistently-collected data to understand the scope and complexity of adolescent fertility is critical for designing strong research, developing meaningful policies, building effective programs, and evaluating success in these domains. Vital surveillance data can be challenging to obtain in general, and particularly in low- and middle-income countries and other under-resourced settings (including rural and indigenous communities in high-income countries). Definitions also vary, making comparisons over time and across locations challenging. Informed by the Adolescence and Motherhood Research project in Brazil and considering relevance to the Southern Eastern European (SEE) context, this article focuses on challenges in surveillance data for adolescent fertility for middle-income countries. Specifically, we review the literature to: (1) discuss the importance of understanding adolescent fertility generally, and (2) highlight relevant challenges and complexity in collecting adolescent fertility data, then we (3) consider implications of data gaps on this topic for selected middle-income countries in Latin America and SEE, and (4) propose next steps to improve adolescent fertility data for evidence-based health promotion in the middle-income country context.Conflicts of interest: None.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1885</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1885">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1885/1805" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1885" DMDID="DMD_biejournals_1885">
+            <mets:fptr FILEID="FILE0_biejournals_1885"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

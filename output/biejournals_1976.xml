@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1976">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Inquiry-based Learning in Inclusive English Didactic</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Amrhein, Bettina</displayForm>
+                        <namePart type="family">Amrhein</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tan, Run</displayForm>
+                        <namePart type="family">Tan</namePart>
+                        <namePart type="given">Run</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Beitrag werden auf Grundlage Deweys Überlegungen zum Forschenden Lernen (inquiry-based learning) in der Englischdidaktik dargelegt. Dabei wird die Wichtigkeit der Vorbereitung auf eine inklusive und demokratische Schulkultur hervorgehoben. Angehende Lehrende sollen darüber hinaus dazu befähigt werden, sprach- und inklusionssensiblen Fachunterricht in der Praxis umzusetzen. Mithilfe der erarbeiteten Methoden in der inklusiven Englischdidaktik sind angehende Lehrende in der Lage, ihre Unterrichtshandlungen zu reflektieren und – aufgrund von Feedbackprozessen – zu optimieren. Fremdsprachenunterricht kann besonderes Potenzial für inklusiven Unterricht zugeschrieben werden, da der Erwerb einer Fremdsprache kulturelle Offenheit fördert und so indirekt inklusives Denken angeregt werden kann. Forschendes Lernen ist als (Selbst-)Kontrollinstrument für inklusiven Englischunterricht zu sehen und leistet einen großen Beitrag zum Professionalisierungsprozess.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1976</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1976">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1976/3565" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1976" DMDID="DMD_biejournals_1976">
+            <mets:fptr FILEID="FILE0_biejournals_1976"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4061">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Student teachers’ implicit knowledge and cognitive complexity of perspectives on being a citizen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Akbulut Tas, Mukerrem</displayForm>
+                        <namePart type="family">Akbulut Tas</namePart>
+                        <namePart type="given">Mukerrem</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sanberk, Ismail</displayForm>
+                        <namePart type="family">Sanberk</namePart>
+                        <namePart type="given">Ismail</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This study examined the implicit knowledge and cognitive complexity of studentteachers’ perspectives on being a citizen.
+Repertory Grid Technique (RGT) can be used as an appropriate technique and tool for exploring implicit knowledge and the cognitive complexity of the student teachers.
+The implicit knowledge of the participants reflected an understanding of a personally responsible citizen.
+Cognitive complexities of the participants on being a citizen did not differ from each other with class year.
+Future studies could use different methods to investigate student teachers’ implicit knowledge and cognitive complexity on citizenships education.
+
+ 
+Purpose: Students can learn to be citizens through school education and experiences in socio-cultural contexts. Individuals’ perspectives on being a citizen can be represented as implicit and explicit knowledge in cognitive structures. This study aimed to investigate the implicit knowledge and cognitive complexity of student social studies teachers’ perspectives on being a citizen
+Design/methodology/approach: This study comprised 23 student social studies teachers in the Department of Social Sciences Teaching in Turkey. Data were collected by using a RGT.
+Findings: The findings revealed that the implicit knowledge of the participants reflected an understanding of a personally responsible citizen. Many participants demonstrated cognitive simplicity.
+Research limitations: As the study included 23 first- and fourth-year student social studies teachers, the findings cannot be generalized to any population as whole.
+Practical implications: This study indicates that the justice-oriented and participatory citizen understanding of student social studies teachers must be emphasized and ened through a multidimensional perspective.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4061</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4061">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4061/4520" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4061" DMDID="DMD_biejournals_4061">
+            <mets:fptr FILEID="FILE0_biejournals_4061"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

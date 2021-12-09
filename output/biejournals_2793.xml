@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2793">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Is a General Theory of Socially Disapproved Violence Possible (or Necessary)?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tittle, Charles</displayForm>
+                        <namePart type="family">Tittle</namePart>
+                        <namePart type="given">Charles</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A model of theoretical science is set forth to guide the formulation of general theories around abstract concepts and processes. Such theories permit explanatory application to many phenomena that are not ostensibly alike, and in so doing encompass socially disapproved violence, making special theories of violence unnecessary. Though none is completely adequate for the explanatory job, at least seven examples of general theories that help account for deviance make up the contemporary theoretical repertoire. From them, we can identify abstractions built around features of offenses, aspects of individuals, the nature of social relationships, and different social processes. Although further development of general theories may be hampered by potential indeterminacy of the subject matter and by the possibility of human agency, maneuvers to deal with such obstacles are available.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2793</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2793">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2793/2554" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2793" DMDID="DMD_biejournals_2793">
+            <mets:fptr FILEID="FILE0_biejournals_2793"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

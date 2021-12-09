@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Foucault im Jobcenter (Teil 2)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Griewatz, Hans-Peter</displayForm>
+                        <namePart type="family">Griewatz</namePart>
+                        <namePart type="given">Hans-Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Walpuski, Volker Jörn</displayForm>
+                        <namePart type="family">Walpuski</namePart>
+                        <namePart type="given">Volker Jörn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">35</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel dieses zweiten Teils ist eine ausführliche (struktur-)hermeneutische Rekonstruktion und Interpretation des Falles, den wir 2017 im ersten Teil dieses Artikels zur Illustration einer historischen, gesellschaftskritischen und makrosoziologischen Perspektive auf den Wandel der Arbeitswelt und den aktivierenden Sozialstaat verwendet hatten. Diese Perspektive tritt nun zugunsten biografischer, sozialwissenschaftlicher und pädagogischer sowie institutions- und organisationstheoretischer Interpretationen und Analysen des Feldes Jobcenter zurück. In ihm spiegeln sich die im ersten Teil beschriebenen Desintegrationsdynamiken wie in einem Brennglas wider. Die biografische Interpretation baut auf der Gestaltmehrdeutigkeit von Biografien nach Rosenthal auf, sie thematisiert die biografischen Übergänge, die eng mit der Bewältigung der Entwicklungsaufgaben korrelieren. Darüber hinaus werden sozialwissenschaftlich sowohl psychoanalytische als auch rollen-, habitus- und machttheoretische Aspekte eine wichtige Rolle spielen. In der institutions- und organisationstheoretischen Interpretation werden die Strukturen und das Beratungsverständnis der Jobcenter als gesellschaftliche Institution analysiert. Beratungswissenschaftlich und supervisionstheoretisch bedeutsam aus der Sicht der Autoren ist, dass sowohl Supervisor_innen als auch die Mitarbeitenden in den Jobcentern über biografietheoretische, sozialwissenschaftliche und sozialpädagogischen Wissensbestände verfügen sollten, damit sie die komplexen, unverstandenen und aufgrund der Aktenlage häufig fragmentierten Biografien ihrer &quot;Kund_innen&quot; besser verstehen und beurteilen können. Nur dann scheint auch eine advokatorische Ethik greifen zu können, die das unverstandene Material nicht zu Ungunsten ihrer Klient_innen auslegt. Ziel dieses Artikels ist es, einen sozial- und strukturhermeneutischen Verstehenszugang in dieses für die Supervision interessante Feld zu eröffnen, der zugleich homologe Übertragungsmöglichkeiten in andere gesellschaftliche Felder ermöglichen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2331</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2331">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2331/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2331" DMDID="DMD_biejournals_2331">
+            <mets:fptr FILEID="FILE0_biejournals_2331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

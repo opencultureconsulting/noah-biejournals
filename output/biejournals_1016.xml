@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1016">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tropenkoller. States of agitation and mood swings in colonial jurisdiction in the German colonies</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schaper, Ulrike</displayForm>
+                        <namePart type="family">Schaper</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The term Tropenkoller emerged in the context of several scandals concerning incidents of excessive violence in the German colonies, predominantly in cases of criminal jurisdiction in the mid-1890s. Tropenkoller was understood as a state of excitation produced by the nerves in reaction to medical, social, and climactic conditions in the colonies. References to Tropenkoller in the context of these scandals were used to legitimize excessive violence as well as to criticize this apologetic rhetoric. The incidents the term referred to, however, contradicted the colonial authorities’ self-perception of rationality and control, which formed a basis for their claim to colonial power. State representatives who acted under the influence of Tropenkoller—I argue—were seen as problematic, especially because they behaved emotionally and recklessly. In analyzing how Tropenkoller was problematized in the context of colonial jurisdiction, I assess feelings of a plenitude of power and the lust for violence, as well as the role that feelings of mental overload and loneliness played in the discussion. I seek to demonstrate the extent to which colonial authorities perceived these feelings, and the uninhibited expression of such feelings, as both a danger to jurisdiction and to the colonial state, and as such as something that had to be excluded from court proceedings. I argue that the occurrence of Tropenkoller among colonial officials, seen as a result of the failure of personal tropical hygiene measures to help state representatives to maintain self-control, met with a barely-regulated colonial jurisdiction. Furthermore, I examine the measures proposed to counter this problematic emotionality.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1016</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1016">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1016/1124" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1016" DMDID="DMD_biejournals_1016">
+            <mets:fptr FILEID="FILE0_biejournals_1016"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1646">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aufgabentypen und Anforderungsbereiche in Tests zur schriftlichen Leistungsmessung im Biologieunterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Germ, Michael</displayForm>
+                        <namePart type="family">Germ</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Harms, Ute</displayForm>
+                        <namePart type="family">Harms</namePart>
+                        <namePart type="given">Ute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-03-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Einblicke in die aktuelle Aufgabenkultur, speziell die Verwendung von Aufgaben in Prüfungsphasen, gibt es für den Biologieunterricht nur sehr wenige. Dieser Beitrag begründet die Notwendigkeit, an diesem Forschungsdefizit anzusetzen, und stellt eine Untersuchung vor, in deren Zentrum die Analyse von insgesamt 600 derzeit eingesetzten Testaufgaben stand. Als Analysekriterien wurden hier zum einen die Kennzeichnung formaler Aufgabentypen sowie auch die Bestimmung kognitiver Anforderungsniveaus herangezogen. Zusätzlich wurden die Lehrkräfte, die die untersuchten Aufgaben verwenden, schriftlich über ihre Prüfungsaufgabengestaltung befragt. Dabei wurde deutlich, dass Aufgaben, die eine Beantwortung in kurzer textlicher Form erfordern, bevorzugt werden, sowie dass sich ein hoher Anteil der gestellten Aufgaben auf den Anforderungsbereich des Wissens beschränkt. Darüber hinaus zeigte sich kein Zusammenhang zwischen den Ergebnissen der Aufgabenanalyse im Hinblick auf die abgeprüften kognitiven Anforderungsbereiche und den diesbezüglichen Selbsteinschätzungen der Lehrkräfte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1646</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1646">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1646/1592" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1646" DMDID="DMD_biejournals_1646">
+            <mets:fptr FILEID="FILE0_biejournals_1646"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

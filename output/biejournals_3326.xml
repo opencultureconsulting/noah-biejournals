@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3326">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Verhältnisbestimmung von Wissenschaft und gesellschaftlicher Umwelt </title>
+                        <subTitle>Eine begriffsgeschichtliche Perspektive auf wissenschaftliche Weiterbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alexander, Carolin</displayForm>
+                        <namePart type="family">Alexander</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wird die wissenschaftliche Weiterbildung als dynamisches Verhältnis von Wissenschaft und gesellschaftlicher Umwelt gefasst, zeigen sich innerhalb unterschiedlicher sozialhistorischer Kontexte (Universitätsausdehnungsbewegung, Weimarer Republik, universitäre Erwachsenenbildung in der BRD, Bologna-Prozess) entsprechende Ausdrucksweisen ihrer Verhältnisbestimmung, als bspw. „volkstümliche Hochschulkurse“, „Popularisierung“, „Laiengeistigkeit“, „Arbeitsgemeinschaft“, „Lebensordnung“ oder „Seminarkurse“. Anliegen dieser begriffsgeschichtlichen Perspektive ist es, dafür zu sensibilisieren,welche Bedeutung eines Begriffs vor dem Hintergrund welcher Bedingungen zum Tragen kommt und damit die Möglichkeit der Präzisierung eines Begriffsinstrumentariums zu schaffen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3326</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3326">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3326/3615" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3326" DMDID="DMD_biejournals_3326">
+            <mets:fptr FILEID="FILE0_biejournals_3326"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

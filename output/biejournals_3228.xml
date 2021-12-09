@@ -1,0 +1,48 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3228">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>affordance of visual tools</title>
+                        <subTitle>The potential of visual representations of pricing facilitating an epistemic practice in economics teaching</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jägerskog, Ann-Sofie</displayForm>
+                        <namePart type="family">Jägerskog</namePart>
+                        <namePart type="given">Ann-Sofie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper results from an intervention study focusing on the relationship between visual representation used in teaching about pricing in economics and teaching-learning practices established in the classroom, with a focus on the affordance offered through the representations used. 
+Method: Lessons were conducted with four upper secondary classes: two had lessons based on graphs and two on a causal loop diagram. Transcriptions of the lesson, including small group discussions, were analysed using a practice theory perspective, identifying actions and goals driving them. Results arising from the two representations were compared. 
+Findings: Different actions were mediated through the different representations. A causal loop diagram afforded more qualified actions, and more epistemic teaching-learning practices, than graphs. 
+Research limitations/implications: This study should be replicated with different subject contents /visual representations. 
+Practical implications: Choice of visual tools used in teaching will affect the practice established and thus the knowledge made available for students to experience. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3228</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3228">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3228/4217" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3228" DMDID="DMD_biejournals_3228">
+            <mets:fptr FILEID="FILE0_biejournals_3228"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

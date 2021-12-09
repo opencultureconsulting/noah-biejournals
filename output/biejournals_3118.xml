@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3118">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Political Mobilisation as the Trigger of Xenophobic Violence in Post-Apartheid South Africa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Misago, Jean Pierre</displayForm>
+                        <namePart type="family">Misago</namePart>
+                        <namePart type="given">Jean Pierre</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">What triggers xenophobic violence in South Africa? By answering this deceivingly simple but critical question, this paper highlights an often-missed empirical factor and key element in the xenophobic violence causal chain: mobilization. Drawing from extensive, comparative empirical data and global literature, the paper argues that, while macro and micro-level socio-economic and political circumstances are important elements in heightening tensions and creating collective discontent, anger and resentment towards foreign nationals, it is the mobilization of this discontent and not the discontent itself that triggers xenophobic attacks in locations where they occur. Mobilization is the vital connective tissue between discontent and xenophobic violence. Local violence entrepreneurs use well-known mobilization techniques, including haranguing and parochial patronage, to stir crowds into targeted and well-organized violent attacks of foreign nationals in South Africa. While this argument is in line with existing theoretical approaches that emphasize mobilization as a key causal factor in the occurrence of collective violence, the paper provides useful solid empirical backing these still hesitant approaches require to consolidate their explanatory value and efficacy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3118</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3118">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3118/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3118" DMDID="DMD_biejournals_3118">
+            <mets:fptr FILEID="FILE0_biejournals_3118"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

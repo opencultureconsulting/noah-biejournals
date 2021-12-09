@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2713">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Im Spannungsfeld zwischen Arterhaltung und Ausrottung</title>
+                        <subTitle>Die Kegelrobbe (Halichoerus grypus)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weiß, Jonas</displayForm>
+                        <namePart type="family">Weiß</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmäing, Till</displayForm>
+                        <namePart type="family">Schmäing</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Oftmals wird die Insel Helgoland mit einem ornithologischen Schwerpunkt verbunden (Schmäing &amp;amp; Grotjohann 2019 [1], 1). Neben dieser Vogelvielfalt bietet vor allem die Helgoländer Düne für das größte in Deutschland, freilebende und vorkommende Raubtier, der Kegelrobbe (Halichoerus gryphus), einen Lebensraum (NABU 2009, 12). Die Kegelrobbe nimmt folglich eine besondere Rolle im Ökosystem ein und ist zugleich ein wichtiger sowie Vertreter für die Erhaltung der Artenvielfalt der heimischen Fauna. Als schützenswert wurden die Kegelrobben nicht immer erachtet. Zu Beginn des vergangenen Jahrhunderts wurden die Großsäuger in Deutschland und in anderen europäischen Ländern, die an der Nord- und Ostsee liegen, gejagt und teils ausgerottet, weil sie als Konkurrenten der Fischindustrie gesehen wurden (Schwarz 2003, 14). Mittlerweile hat sich das Bewusstsein in großen Teilen der Bevölkerung geändert. Die großflächige Jagd wurde nicht nur beendet, sondern bis auf wenige Ausnahmen verboten, sodass die Populationen in der Nord- und Ostsee langsam wieder ansteigen. Die vorliegende Publikation stellt den Meeressäuger mitsamt seinen (früheren) Bedrohungen sowie aktuellen Bestandsentwicklungen aus verschiedenen Perspektiven vor und bietet die Möglichkeit mit Hilfe von didaktisch kommentierten Materialien dies zum unterrichtlichen Gegenstand zu transferieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2713</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2713">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/2713/3409" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_2713">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/2713/3410" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2713" DMDID="DMD_biejournals_2713">
+            <mets:fptr FILEID="FILE0_biejournals_2713"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2713" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2713"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

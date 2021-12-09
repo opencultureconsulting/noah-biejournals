@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2208">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Coaching, das Personal entwickelt, Personen ausschließt und Personenentwicklung instrumentalisiert. Ein diskursanalytischer Blick auf Schreyöggs Beratungsverständnis und ihren Rückgriff auf Neubergers &quot;Personalentwicklung&quot;</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Austermann, Frank</displayForm>
+                        <namePart type="family">Austermann</namePart>
+                        <namePart type="given">Frank</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-11-13</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Was bedeutet es beratungswissenschaftlich und beratungspraktisch, wenn wie bei Astrid Schreyögg Coaching als Instrument einer Personalentwicklung im Sinne Oswald Neubergers verstanden wird, der ausdrücklich betont: &quot;Der Mensch ist Mittel. Punkt.&quot; Wie ist ein solches Coachingverständnis diskursanalytisch zuzuordnen, in dem eine bestimmte Arbeits- und Organisationspsychologie sich in den Dienst eines bestimmten Verständnisses von Personalwirtschaft stellt? Wie wirkt sich dies in der konkreten Beratungspraxis aus? Welches Menschenbild liegt einem solchen Coaching zugrunde? Lassen sich historisch Modelle rekonstruieren, in denen psychologische Methoden und Techniken im Interesse einer bestimmten ökonomistischen Weltanschauung und Haltung instrumentalisiert wurden? Der Autor vertritt die These, dass &quot;Psychotechnik&quot; und &quot;Menschenökonomie&quot; aus den 1910er- und 1920er-Jahren charakteristische Ähnlichkeiten mit einem personalentwicklungsorientierten Coaching aufweisen, wie es Schreyögg unter Rückgriff auf Neubergers Lehrbuch vertritt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2208</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2208">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2208/2109" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2208">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2208/2110" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2208" DMDID="DMD_biejournals_2208">
+            <mets:fptr FILEID="FILE0_biejournals_2208"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2208" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2208"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

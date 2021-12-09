@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1837">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An educational initiative for Mexican school-aged children to promote the consumption of fruit, vegetables and physical activity</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arenas-Monreal, Luz</displayForm>
+                        <namePart type="family">Arenas-Monreal</namePart>
+                        <namePart type="given">Luz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pacheco-Magana, Lilian E</displayForm>
+                        <namePart type="family">Pacheco-Magana</namePart>
+                        <namePart type="given">Lilian E</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rueda-Neria, Celina</displayForm>
+                        <namePart type="family">Rueda-Neria</namePart>
+                        <namePart type="given">Celina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Carrillo-Estrada, Josue</displayForm>
+                        <namePart type="family">Carrillo-Estrada</namePart>
+                        <namePart type="given">Josue</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Marquez-Serrano, Margarita</displayForm>
+                        <namePart type="family">Marquez-Serrano</namePart>
+                        <namePart type="given">Margarita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Magana-Valladares, Laura</displayForm>
+                        <namePart type="family">Magana-Valladares</namePart>
+                        <namePart type="given">Laura</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rivera-Pasquel, Marta</displayForm>
+                        <namePart type="family">Rivera-Pasquel</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-01</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: To present the results of a community initiative focused on strengthening physical activity and the consumption of fruits, vegetables and natural water while discouraging the use of highly energetic food and sugary drinks in public schools of Morelos.Methods: A quasi-experimental study with an educational initiative focused on the school community of two primary schools and two junior high schools. Pre- and-post initiative measurements were made. The study took place in the municipality of Yautepec, Morelos, Mexico, in a rural area and an urban area, from August 2010 to July 2011.  Results: Water consumption among school-aged children increased from 15.1% to 20.1% and soda consumption decreased from 21.4% to 13.2%. A slight increase in the consumption of fruits and vegetables was also measured (oranges, jicamas, bananas, tomatoes, prickly pear pads, lettuces), that are accessible in the region. It was found that the supply of fresh food is limited and that high energy density foods have an oversupply in both study areas. Physical activity increased with actions such as football and dancing, in accordance with the baseline measurement. No changes were observed in the nutritional condition of school-aged children (n=150; 13.3% with overweight and 7.3% with emaciation), or in adults who presented a body mass index higher than normal, 60.2% to 88.4%.Conclusion: In addition to educational activities, schools need to implement strategies to improve the access and availability of fresh foods while limiting the access of high energy-density foods.   </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1837</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1837">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1837/1759" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1837" DMDID="DMD_biejournals_1837">
+            <mets:fptr FILEID="FILE0_biejournals_1837"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

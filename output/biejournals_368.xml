@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_368">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Strategien selbstorganisierten Lernens bei berufstätigen Studierenden. Ausgewählte Ergebnisse einer empirischen Untersuchung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seeber, Günther</displayForm>
+                        <namePart type="family">Seeber</namePart>
+                        <namePart type="given">Günther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Boerner, Sabine</displayForm>
+                        <namePart type="family">Boerner</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Keller, Helmut</displayForm>
+                        <namePart type="family">Keller</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2004</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Autoren betrachten die Nutzung nicht-motivationaler Lernstrategien als bedeutsames Element einer Kultur der Selbstständigkeit in Lehr-Lern-Prozessen. Der Beitrag erläutert, wie der Einsatz dieser Strategien valide erfasst und damit systematisch einer didaktischen Analyse zugeführt werden kann. Darüber hinaus zeigen die Ergebnisse einer empirischen Studie, dass die Strategien sowohl für den Erfolg im Hinblick auf die fachliche Kompetenz als auch für den Transfer an den Arbeitsplatz bedeutsam sind. Abschließend diskutieren die Autoren eine Förderung der Selbstorganisationsfähigkeit durch geeignete Lernarrangements als Aufgabe der (Hochschul-)Didaktik.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_368</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_368">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/368/365" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_368" DMDID="DMD_biejournals_368">
+            <mets:fptr FILEID="FILE0_biejournals_368"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

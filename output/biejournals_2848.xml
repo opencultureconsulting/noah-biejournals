@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2848">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violence and Violence Research in Africa South of the Sahara</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Veit, Alex</displayForm>
+                        <namePart type="family">Veit</namePart>
+                        <namePart type="given">Alex</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barolsky, Vanessa</displayForm>
+                        <namePart type="family">Barolsky</namePart>
+                        <namePart type="given">Vanessa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pillay, Suren</displayForm>
+                        <namePart type="family">Pillay</namePart>
+                        <namePart type="given">Suren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This review presents the major lines of investigation regarding violence in Africa since the Cold War. After a historical introduction to the development of violent&amp;nbsp;phenomena and their political contexts, diverse issues such as civil war, democratization, vigilantism, and the role of youth are assessed. It is argued that recent&amp;nbsp;research has produced important insights by re-focusing on violent phenomena beyond the state. Yet despite the increasing number of non-state violent&amp;nbsp;actors active on the African continent, to speak of a &amp;ldquo;privatization&amp;rdquo; of violence may be premature.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2848</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2848">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2848/pdf_45" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2848">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2848/2638" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2848" DMDID="DMD_biejournals_2848">
+            <mets:fptr FILEID="FILE0_biejournals_2848"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2848" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2848"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

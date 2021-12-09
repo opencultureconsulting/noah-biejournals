@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Socio-demographic inequalities in satisfaction with primary health care and utilization of chosen doctors’ services</title>
+                        <subTitle>a cross-sectional study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jovanovic, Dragana</displayForm>
+                        <namePart type="family">Jovanovic</namePart>
+                        <namePart type="given">Dragana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jankovic, Janko</displayForm>
+                        <namePart type="family">Jankovic</namePart>
+                        <namePart type="given">Janko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mirilovic, Nikola</displayForm>
+                        <namePart type="family">Mirilovic</namePart>
+                        <namePart type="given">Nikola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of the study was to examine socio-demographic inequalities in user satisfaction with PHC and utilization of chosen doctors’ services.
+Methods: This cross-sectional study was conducted in 2016 among 232 respondents who participated in PHC user satisfaction survey in PHC center Valjevo, Serbia. Inclusion criteria were an age of at least 20 years, sufficient skills of Serbian language to fill in questionnaires and consent to participation. Two hundreds and six patients completed an anonymous questionnaire about the user satisfaction with PHC.
+Results: The chosen doctor was seven times more often visited by the elderly (OR=7.03) and almost three times more often by the middle-aged (OR=2.66) compared to the youngest category of respondents. Those with low education and poor financial status of the household visited a doctor four (OR=4.14) and almost nine times (OR=8.66) more often, respectively, compared to those with high education and good socioeconomic status. A statistically significant higher level of PHC satisfaction was recorded in the rural population (p&amp;lt;0.001) and among respondents with poor socioeconomic status of the household (p=0.014).
+Conclusion: The chosen doctor was more frequently visited by respondents with low education and those with poor socioeconomic status of the household, while a higher degree of satisfaction with PHC was recorded in the rural population as well as in those with poor socioeconomic status of the household.
+&amp;nbsp;
+Conflicts of interest: None declared.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3311</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3311">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3311/3426" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3311" DMDID="DMD_biejournals_3311">
+            <mets:fptr FILEID="FILE0_biejournals_3311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

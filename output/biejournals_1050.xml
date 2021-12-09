@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1050">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Re-mapping Europe. Field notes from the French-Brazilian borderland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Santos, Fabio</displayForm>
+                        <namePart type="family">Santos</namePart>
+                        <namePart type="given">Fabio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">By highlighting the case of French Guiana and – more extensively – its border with Brazil, this article is a contribution to the recent academic interest in the European Union’s ›Outermost Regions‹ and the colonial continuities implied by their status. The article begins by depicting sociology’s Eurocentric tradition, precluding postcolonial perspectives on Europe d’outre mer from gaining a foothold in mainstream research and curricula.In this context, recent re-conceptualizations of ›entangled‹ histories and modernities/modernity are brought into focus. In a second step, the paper offers a historical overview of French Guiana and its contested border with Brazil. The article proceeds by presenting ethnographic field notes from the border region. These empirical insights illustrate the on-going entanglements not only between ›mainland‹ France and its exclave on the Latin American continent, but also between France and Brazil as well as between Europe and Latin America more generally.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1050</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1050">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1050/1158" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1050" DMDID="DMD_biejournals_1050">
+            <mets:fptr FILEID="FILE0_biejournals_1050"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

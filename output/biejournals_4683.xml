@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4683">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Increasing influenza vaccination rates among healthcare workers by focusing on workplace and patient safety</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>de Bruin, Jeanine</displayForm>
+                        <namePart type="family">de Bruin</namePart>
+                        <namePart type="given">Jeanine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Machado, Matilde</displayForm>
+                        <namePart type="family">Machado</namePart>
+                        <namePart type="given">Matilde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Marie, Nabbe</displayForm>
+                        <namePart type="family">Marie</namePart>
+                        <namePart type="given">Nabbe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saccà, Riccardo</displayForm>
+                        <namePart type="family">Saccà</namePart>
+                        <namePart type="given">Riccardo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Verhoeven, Jeske</displayForm>
+                        <namePart type="family">Verhoeven</namePart>
+                        <namePart type="given">Jeske</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Clemens, Timo</displayForm>
+                        <namePart type="family">Clemens</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Context: In 2014, the influenza vaccine uptake in Europe was below 35% among healthcare workers (HCWs). Due to a lack of confidence in vaccination as a result of safety concerns, HCWs increasingly do not take the influenza vaccine. Consequently, there is a rising influenza burden which results in increasing mortality of vulnerable patients and absenteeism in hospitals. This policy brief aims to increase the awareness of HCWs regarding the importance of influenza vaccination uptake, which may result in improved patient and workplace safety.
+&amp;nbsp;
+Policy Options: To increase vaccination coverage and reduce vaccine hesitancy among HCWs, a change in attitude towards and knowledge about the influenza vaccine is needed. Two potential approaches are presented in this paper. Firstly, a mandatory vaccination policy is discussed. Practical and ethical challenges of implementing a mandatory vaccination policy are considered.&amp;nbsp; Secondly, information campaigns are described, consisting of three pillars: safety, information, and knowledge.
+&amp;nbsp;
+Recommendations: It is recommended to initiate information campaigns focussing on patient safety. Furthermore, a structural approach to increase access to vaccination at the workplace must be taken. Higher vaccination rates of HCWs lead to an improved workplace safety. The recommended information campaign can also be used for other vaccine preventable diseases or in other situations, such as HCWs vaccine hesitancy regarding COVID-19 vaccines. Lessons from the COVID-19 pandemic regarding acceptance of vaccines should be considered for the improvement of future influenza vaccine uptake.
+&amp;nbsp;
+Acknowledgments: &amp;nbsp;We would like to thank Kasia Czabanowska for the opportunity to develop this policy brief and Timo Clemens for his guidance and extensive feedback during the writing process
+&amp;nbsp;
+Authors’ contributions: All authors contributed equally to this work.
+&amp;nbsp;
+Conflict of interest: None declared
+&amp;nbsp;
+Source of funding: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4683</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4683">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4683/4411" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4683" DMDID="DMD_biejournals_4683">
+            <mets:fptr FILEID="FILE0_biejournals_4683"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

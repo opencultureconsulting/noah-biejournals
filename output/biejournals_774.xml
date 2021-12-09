@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_774">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An Avenue for Challenging Sexism</title>
+                        <subTitle>Examining the High School Sociology Classroom</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stevens, Kaylene Mae</displayForm>
+                        <namePart type="family">Stevens</namePart>
+                        <namePart type="given">Kaylene Mae</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Martell, Christopher C</displayForm>
+                        <namePart type="family">Martell</namePart>
+                        <namePart type="given">Christopher C</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In this interpretative qualitative study, the researchers investigated the beliefs and practices of six high school sociology teachers in relation to the teaching of gender. Using a feminist lens, this study employed mixed methods, analyzing teacher interviews, observations, and classroom artifacts. The results showed that the teachers viewed sociology as different from other social studies courses, because it serves as a more intentional way to reduce sexism and gender stratification. As such, the teachers saw the sociology classroom as a place for students to grapple with issues of gender stratification and inequity.  Teachers’ beliefs related to gender and sexism strongly influenced what they saw as the purpose of sociology class, and it influenced the instructional practices that they used.  Recommendations are made related to professional development around issues of gender equity.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_774</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_774">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/774/843" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_774" DMDID="DMD_biejournals_774">
+            <mets:fptr FILEID="FILE0_biejournals_774"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

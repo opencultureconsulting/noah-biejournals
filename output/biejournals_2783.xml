@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2783">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Banks and the Racial Patterning of Homicide</title>
+                        <subTitle>A Study of Chicago Neighborhoods</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Veléz, María B.</displayForm>
+                        <namePart type="family">Veléz</namePart>
+                        <namePart type="given">María B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">While bank investment is a driving force behind neighborhood viability, few studies have directly examined the effects of bank loan practices on neighborhood crime rates. This paper proposes that variation in residential bank loans helps explain the higher rates of homicide in minority neighborhoods in Chicago compared to white neighborhoods. It finds that black and Latino neighborhoods would experience fewer homicides if more financial capital were infused into these neighborhoods. These findings suggest that neighborhoods are shaped profoundly by the decisions of external economic actors.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2783</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2783">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2783/2544" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2783" DMDID="DMD_biejournals_2783">
+            <mets:fptr FILEID="FILE0_biejournals_2783"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1542">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biografiearbeit in der Lehrer*innenbildung</title>
+                        <subTitle>Ein methodischer Input für die Praxisreflexion mit Lehramtsstudierenden</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Roth-Vormann, Manuela</displayForm>
+                        <namePart type="family">Roth-Vormann</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klenner, Denise</displayForm>
+                        <namePart type="family">Klenner</namePart>
+                        <namePart type="given">Denise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der hier vorgestellte methodische Input für eine supervisorisch begleitete Biografiearbeit mit angehenden Lehrer*innen ist insbesondere für Reflexionsangebote oder Seminare in der Begleitung von Praxisphasen vorgesehen und zielt auf eine bewusste Auseinandersetzung mit dem emotionalen Erleben im Praxisfeld Schule. Die Biografiearbeit soll ermöglichen, Parallelen zwischen dem Erleben in der schulischen Praxis und in bedeutsamen Phasen der eigenen Biografie zu entdecken und so Zusammenhänge und die Bedingtheit eigener Reaktionsweisen und Erwartungen bewusst zugänglich zu machen. Auf diese Weise werden die aktuellen (emotionalen) Erlebnis- und Reaktionsweisen einer Bearbeitung zugänglich gemacht und es kann selbstkritisch hinterfragt werden, inwieweit diese für das zukünftige berufliche Handeln als Lehrer*in angemessen oder womöglich auch hinderlich sind. Durch die Perspektiverweiterung können neue Handlungsalternativen entstehen, und die aufgedeckten Bezüge zur eigenen Lebensgeschichte bleiben als Ressource für eine kritische Auseinandersetzung mit der Praxis wie auch sich selbst in dieser Praxis für die Zukunft bestehen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1542</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1542">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/1542/1483" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1542" DMDID="DMD_biejournals_1542">
+            <mets:fptr FILEID="FILE0_biejournals_1542"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

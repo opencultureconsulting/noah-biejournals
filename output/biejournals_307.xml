@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_307">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Constructivism – Society as Construction (in German)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siebert, Horst</displayForm>
+                        <namePart type="family">Siebert</namePart>
+                        <namePart type="given">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-08-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Constructivism is a theory of cognition based on the science of neurons that emphasizes the operational closeness and structure determination of the human perception and thinking processes. Learning as well is a self-acting, creative construction of knowledge. The learning process can be activated, but not directed by teaching efforts. The construction of knowledge is not only an individual mental process. On the one hand society itself constructs knowledge, on the other hand society is a result of constructions. The social constructivism, as conceived by P. Berger, T. Luckmann, J. Searle, K. Gergen, is especially inspiring for social science education. A differentiation between different forms of construction is suggested: reconstruction, deconstruction, self-construction, co-construction.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_307</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_307">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/307/304" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_307" DMDID="DMD_biejournals_307">
+            <mets:fptr FILEID="FILE0_biejournals_307"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

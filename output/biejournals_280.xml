@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_280">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>Ein </nonSort>
+                        <title>„global orientiertes Geschichtsbewusstsein“ als zukünftige Herausforderung der Geschichtsdidaktik?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Popp, Susanne</displayForm>
+                        <namePart type="family">Popp</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-07-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2001</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für den Geschichtsunterricht, der in seinem Kerncurriculum nationalhistorisch ausgerichtet ist, stellt die Globalisierung eine große Herausforderung dar. Der Beitrag untersucht die Frage, ob und in welcher Weise die aktuelle deutsche Geschichtsdidaktik sich mit dem Thema der &quot;Globalisierung&quot; auseinandersetzt, und stellt die Schwierigkeiten für eine ernsthafte Annäherung an dieses Thema dar. Denn, so wird gezeigt, der Weg zu einer angemessenen geschichtsdidaktischen Antwort auf die Herausforderungen der Globalisierung kann nicht auf dem Weg zusätzlicher Inhalte gefunden werden, sondern erfordert eine konzeptionelle Herangehensweise. Deshalb skizziert der Beitrag in knapper Form neue historische Ansätze einer &quot;globally conceptualized world history&quot; und leitet daraus erste geschichtsdidaktische Überlegungen ab. Des weiteren werden Geschichtscurricula aus anderen Ländern, die sich mit &quot;world history&quot; befassen, dargestellt, diskutiert und auf Anregungen für die geschichtsdidaktische Diskussion befragt. Sie können die keine fertigen Lösungen bieten, doch Wahrnehmung der Probleme schärfen und Impulse für die geschichtsdidaktische Diskussion geben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_280</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_280">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/280/277" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_280" DMDID="DMD_biejournals_280">
+            <mets:fptr FILEID="FILE0_biejournals_280"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

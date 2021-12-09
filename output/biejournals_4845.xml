@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4845">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Ich traue mir zu …“</title>
+                        <subTitle>Effekte einer interdisziplinären Lehrveranstaltung auf motivationale Orientierungen angehender Sachunterrichtslehrkräfte</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Beudels, Melanie</displayForm>
+                        <namePart type="family">Beudels</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schroeder, Nadine</displayForm>
+                        <namePart type="family">Schroeder</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preisfeld, Angelika</displayForm>
+                        <namePart type="family">Preisfeld</namePart>
+                        <namePart type="given">Angelika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">32</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Viele (zukünftige) Sachunterrichtslehrkräfte haben geringe Selbstwirksamkeitserwartungen und teils auch ein geringes Interesse hinsichtlich des Unterrichtens von naturwissenschaftlichen und technischen Inhalten. Gleichzeitig mangelt es an der Beforschung von universitären Lehrkonzepten, welche versuchen, die Entwicklung dieser motivationalen Orientierungen in Bezug auf mehrere sachunterrichtliche Bezugsfächer parallel positiv zu beeinflussen. Dies ist auch aufgrund des perspektivenvernetzenden Charakters des Faches relevant. Im Beitrag wird daher mithilfe eines quasi-experimentellen Pre-Post-Interventions-Baseline-Gruppen-Designs untersucht, ob sich durch einen Kurs, in dem die Bezugsfächer Biologie, Chemie, Physik und Technik vernetzt vermittelt werden, die Interessen und Selbstwirksamkeitserwartungen von n = 202 Grundschullehramtsstudierenden verändern. Während sich in der Baselinegruppe, die nicht an der Lehrveranstaltung teilnahm, die Selbstwirksamkeitserwartungen nicht signifikant ändern und die Interessen teils abnehmen, ist bei der Interventionsgruppe eine positive Entwicklung – gerade in Bezug auf die Selbstwirksamkeitserwartungen – festzustellen. Es zeigt sich zudem bei der Entwicklung der Sachinteressen ein leichter Vorteil für die Teilnehmenden der Lehrveranstaltung als Blockkursformat im Gegensatz zu jenen, die an einem wöchentlichen Format partizipierten. Keine signifikanten Unterschiede in der Veränderung der motivationalen Orientierungen bestehen hinsichtlich des Studienschwerpunktes. Grundschullehramtsstudierende mit und ohne ‚Naturwissenschaften und Technik‘ als Studienfach profitieren gleichermaßen von der Lehrveranstaltung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4845</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4845">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4845/4565" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4845">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4845/4566" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4845" DMDID="DMD_biejournals_4845">
+            <mets:fptr FILEID="FILE0_biejournals_4845"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4845" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4845"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

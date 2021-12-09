@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1771">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Level of competencies of family physicians from patients’ viewpoint in post-war Kosovo</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bojaj, Gazmend</displayForm>
+                        <namePart type="family">Bojaj</namePart>
+                        <namePart type="given">Gazmend</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Skeraj, Fitim</displayForm>
+                        <namePart type="family">Skeraj</namePart>
+                        <namePart type="given">Fitim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Besides the health professionals’ perspective, it is equally important to assess the perceptions of the users of health care services with regard to abilities, skills andcompetencies of their family physicians. Our aim was to assess the level of competencies of family physicians from patients’ viewpoint in transitional Kosovo.Methods: A nationwide survey was conducted in Kosovo in 2013, including a representative sample of 1340 primary health care users aged ≥18 years (49% males aged 50.7±18.4 years and 51% females aged 50.4±17.4 years; response rate: 89%). Participants were asked to assess the level of competencies of their respective family physicians regarding different domains of the medical encounter. The self-administered questionnaire included 37 items structured into six domains. Answers for each item of the instrument ranged from one (“novice” physicians) to five (“expert” physicians). An overall summary score related to family physicians’ competencies was calculated for each participant [range: from 37 (minimalcompetencies) to 185 (maximal competencies)]. Furthermore, demographic andsocioeconomic data were collected. General Linear Model was used to assess thedemographic and socioeconomic correlates of the overall level of family physicians’competences according to patients’ perspective.Results: Mean value of the overall summary score for the 37-item instrument was118.0±19.7. It was higher among the younger and the low-income participants, and in patients who reported frequent health visits and those not satisfied with the quality of the medical encounter. Conversely, no sex, or educational differences were noted.Conclusions: Our findings indicate a relatively high level of competencies of familyphysicians from patients’ perspective in post-war Kosovo. Future studies shouldcomprehensively assess the main determinants of self-perceived competencies of family physicians among primary health care users in Kosovo.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1771</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1771">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1771/1692" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1771" DMDID="DMD_biejournals_1771">
+            <mets:fptr FILEID="FILE0_biejournals_1771"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

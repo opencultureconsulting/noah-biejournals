@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2830">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ethnicised Politics</title>
+                        <subTitle>Patterns of Interpretation of Rwandans and Burundians</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schraml, Carla</displayForm>
+                        <namePart type="family">Schraml</namePart>
+                        <namePart type="given">Carla</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Following Peter Berger and Thomas Luckmann (1991) this study focuses on taken-for-granted notions, i.e. knowledge (defining ethnicised politics asexclusioninterpreted with reference to ethnic categories). This represents a departure from the conventional academic discussion of ethnicised politics, which focuseson exclusion inherent to the structures of political systems when seeking to explain violent conflict aligned along ethnic cleavages. The study compares twoneighbouring countries, Rwanda and Burundi, where different institutional models have been introduced to overcome ethnicised politics following comparableepisodes of ethnic violence. Whereas the Rwandan system avoids political representation based on ethnic categories, the Burundian system prescribes ethnicquotas. Semi-standardised interviews with twenty-two Rwandans and twenty Burundians conducted between September 2007 and May 2008 investigated ethnicisedpolitics as patterns of interpretation (i.e. knowledge). The study found that notwithstanding the different political institutional systems in Rwanda andBurundi (both aiming to overcome ethnicised politics), exclusion in both systems is interpreted with reference to ethnic categories, i.e. politics are ethnicisedin both countries. This result points to the importance of conceiving ethnicised politics as historically produced knowledge, i.e. patterns of interpretation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2830</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2830">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2830/pdf_6" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2830" DMDID="DMD_biejournals_2830">
+            <mets:fptr FILEID="FILE0_biejournals_2830"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

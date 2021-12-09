@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mit Essen spielt man nicht! Material für ein spielerisches Herangehen an die induktive Kategorienbildung im Kontext der qualitativen Inhaltsanalyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag werden eine Arbeitsphase und das dazugehörige Material zur induktiven Kategorienbildung vorgestellt. Ziel ist es, durch ein zunächst eher spielerisches Herangehen den Studierenden erste Erfahrungen in der Kategorienbildung zu ermöglichen, die im weiteren Verlauf bei der Arbeit in eigenen studentischen Forschungsvorhaben noch vertieft werden müssen. Das Vorgehen wird in den Kontext der Nutzung von Forschungsmethoden innerhalb des Forschenden Lernens und in den der qualitativen Inhaltsanalyse eingeordnet. Es werden Erfahrungen mit der Arbeitsphase berichtet, aber auch Einschränkungen aufgezeigt. Der Beitrag schließt mit Überlegungen zu einer möglichen Evaluation des Vorgehens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4730</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4730">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4730/4473" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4730">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4730/4474" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4730">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4730/4475" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4730" DMDID="DMD_biejournals_4730">
+            <mets:fptr FILEID="FILE0_biejournals_4730"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4730" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4730"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4730" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4730"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

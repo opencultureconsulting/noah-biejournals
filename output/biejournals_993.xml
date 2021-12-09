@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_993">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploratory study of the professional identity of higher education teachers in Ukraine</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vitrukh, Mariya</displayForm>
+                        <namePart type="family">Vitrukh</namePart>
+                        <namePart type="given">Mariya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Ukraine entered the Bologna Process in 2005 (European Commission TEMPUS Study, 2012). The Bologna process required a radical change in the educational process in Ukraine, in particular changes in the design of the curriculum, the academic calendar and student grading procedures as well as bigger emphasis on the research work by the faculty (Shaw, Chapman, &amp;amp; Rumyantseva, 2011). Also, in the context of highly centralised system of education and financial problems caused by global economic crisis, there was a need to provide systematic instructional redesign or real support for staff to implement the changes prescribed by the Bologna process. However, this was not done and resulted in the Bologna process implementation that seems patchy to external observers (Shaw, Chapman, &amp;amp; Rumyantseva, 2011). Within this, an instrumental part of the new educational process is how teachers see themselves and construct or reconstruct their professional identity to suit the new educational reform. So, it is relevant to give focus to professional identity of Higher Education teachers in a post-Soviet context as the country seeks compliance with a European Higher Education Area (EHEA). This research aimed to explore and deeply analyse the professional identity of university teachers in Ukraine. The study showed that there was made a shift from teacher-centred approach; however, it is recommended that for teachers to achieve a more substantial move away from current teacher-centred approaches to teaching, teachers will require greater financial and structural support on the part of policy makers as well as further university staff training.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_993</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_993">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/993/1101" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_993" DMDID="DMD_biejournals_993">
+            <mets:fptr FILEID="FILE0_biejournals_993"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_865">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Youth Political Engagement in Australia and the United States</title>
+                        <subTitle>Student Councils and Volunteer Organizations as Communities of Practice</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Homana, Gary A.</displayForm>
+                        <namePart type="family">Homana</namePart>
+                        <namePart type="given">Gary A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: Lave and Wenger’s Communities of Practice is presented as a conceptual framework for examining extracurricular activities as a part of democratic schools’ contribution to students’ civic engagement. Data from the IEA Civic Education Study is analyzed to investigate research questions on the association between participation in two civic communities of practice (student council and volunteer organizations) and two types of expected adult political participation as well as trust in political institutions in Australia and the United States.Method/Approach: The methodology examined data from students in nationally representative samples of schools that surveyed 14-year-olds in 1999. This was the most recent large scale study of civic education in which these two countries participated. Analysis of variance examined main effects and statistical interactions, especially by gender.Findings: Findings were that in both countries, participation in the two civic communities of practice was associated with higher levels of trust in political institutions and greater expectations to become an informed voter and an active citizen. The results also suggest that male and female students in the United States experience these communities of practice in different ways. Practical advantages to encouraging democratic communities of practice are important to the experience of democracy at school.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_865</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_865">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/865/985" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_865">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/865/986" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_865" DMDID="DMD_biejournals_865">
+            <mets:fptr FILEID="FILE0_biejournals_865"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_865" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_865"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

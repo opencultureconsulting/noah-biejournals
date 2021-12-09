@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_334">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Inequality and Gender</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cyba, Eva</displayForm>
+                        <namePart type="family">Cyba</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In traditional sociological theories of inequality, the basis for an unequal distribution of social goods and life chances are classes or social strata, which have been formed by the employment position. Since not all women are integrated in the employment world, the problem arose that the disadvantages of women could only be explained by supplementary assumptions about their role in the family, or they would have to be excluded from the sociological analysis altogether. As a criticism to this unsatisfactory situation, feminist scientists developed new explanatory approaches which influenced the development of analysis of sociological inequalities. First, after a comprehensive definition of the phenomena &quot;social inequality,&quot; some important aspects of inequality between the sexes will be presented. Second, the central arguments of traditional and feminist theoretical approaches explaining gender-based inequalities are discussed. Third, against this background I outline the main features of my own approach based on the supposition that inequalities concerning gender cannot be attributed to other types of social inequalities, taking into consideration their empirical variety. Finally, I discuss to what extent changes in gender-based inequalities can be explained.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_334</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_334">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/334/331" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_334" DMDID="DMD_biejournals_334">
+            <mets:fptr FILEID="FILE0_biejournals_334"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

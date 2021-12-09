@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1767">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>To What Extent do Civic Education Curricula and Textbooks Establish Foundations for Developing Active Citizens in the Republic of Macedonia?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mickovska-Raleva, Ana</displayForm>
+                        <namePart type="family">Mickovska-Raleva</namePart>
+                        <namePart type="given">Ana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-23</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The paper presents a review of the process of inclusion of ‘civic education’ as part of the formal education system in the Republic of Macedonia, from its beginnings as project activity in the late 1990’s to its current implementation as a mandatory subject in the primary grades. &amp;nbsp;Comparison is made between what was initially planned and what has been achieved in the area of civic education during this 20-year period, with a critical review on the potential of the subject for developing civic competencies.
+Methodology: The findings are based on content-analysis of curriculum goals and textbook tasks, through their classification in an indicators’ matrix of Civic Key Competencies as defined by the Council of Europe’s key competence framework for lifelong learning.
+Findings: The analysis provides insight into the frequency of curriculum goals and textbook tasks which relate to manifesting civic competencies, from knowledge, skills, attitudes and values, to the behavior indicators, which should be the goal of civic education.
+Research limitations/implications: The research was based on the method of textual analysis, which is inherently open to individual interpretations by the researcher. However, in order to limit arbitrary interpretations and classification of textual information, variables were operationalized on the basis of the indicators of Civic Key Competences (Appendix 1)
+Practical implications: Bearing in mind that the country is in the process of revising the civic education curriculum for primary and secondary school, the research has the potential to inform the policy process through providing viable recommendations on the most effective models for developing active citizens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1767</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1767">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1767/3178" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1767" DMDID="DMD_biejournals_1767">
+            <mets:fptr FILEID="FILE0_biejournals_1767"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

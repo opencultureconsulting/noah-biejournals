@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_969">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>»Law and Society« in imperial Russia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kirmse, Stefan B.</displayForm>
+                        <namePart type="family">Kirmse</namePart>
+                        <namePart type="given">Stefan B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">At first sight, combining the study of imperial Russia and the interdisciplinary field of &quot;law and society&quot; research may seem unusual. New critical scholarship, however, has helped to narrow the gap between the two fields. Discussing the entangled historiographies of law and society research and Russian imperial history from the mid-1960s to the present, the article highlights the shortcomings of previous research before showing that more recent works have begun to remedy earlier flaws. While historians of the Russian Empire have now entered the cross-cultural and multi-disciplinary field of law and society research, challenges remain. Thus the article identifies five promising areas of research for the future analysis of legal interaction in the Russian Empire. Finally, it offers a short case study to illustrate the ways in which the combination of these areas would help to improve our understanding of everyday legal experiences in imperial Russia.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_969</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_969">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/969/1077" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_969" DMDID="DMD_biejournals_969">
+            <mets:fptr FILEID="FILE0_biejournals_969"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

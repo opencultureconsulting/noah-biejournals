@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1536">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sedimentiertes Wissen über Lehre? Oder</title>
+                        <subTitle>Was alles im Material seinen lebendigen Ausdruck findet …</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schweitzer, Julia</displayForm>
+                        <namePart type="family">Schweitzer</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streblow, Lilian</displayForm>
+                        <namePart type="family">Streblow</namePart>
+                        <namePart type="given">Lilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Das Open-Access-Journal „Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht“ ist ein Publikationsort für den interdisziplinären und phasenübergreifenden Austausch von und über Materialien für Hochschullehre in der Lehrer*innenbildung, der Fortbildung von Lehrpersonen und für den Schulunterricht. Im Editorial zur Erstausgabe der Zeitschrift werden die Entstehungsbedingungen im Kontext der „Qualitätsoffensive Lehrerbildung“, die vielfältigen Funktionen und die Qualitätssicherung der Zeitschrift beschrieben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1536</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1536">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/1536/1484" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1536" DMDID="DMD_biejournals_1536">
+            <mets:fptr FILEID="FILE0_biejournals_1536"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

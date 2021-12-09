@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1404">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Integration von Geschlechterperspektiven in Verbundvorhaben am Beispiel der ersten Förderphase des BMBF-Verbundes Health Literacy in Childhood and Adolescence (HLCA) (2015-2018)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jochimsen, Maren A.</displayForm>
+                        <namePart type="family">Jochimsen</namePart>
+                        <namePart type="given">Maren A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hendricks, Judith</displayForm>
+                        <namePart type="family">Hendricks</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Okan, Orkan</displayForm>
+                        <namePart type="family">Okan</namePart>
+                        <namePart type="given">Orkan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-28</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1404</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1404">
+                <mets:FLocat xlink:href="https://www.izgonzeit.de/index.php/izgonzeit/article/download/1404/1443" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1404" DMDID="DMD_biejournals_1404">
+            <mets:fptr FILEID="FILE0_biejournals_1404"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

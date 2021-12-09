@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3018">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Guest Editorial</title>
+                        <subTitle>Intimate Partner Violence as a Global Problem</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krahé, Barbara</displayForm>
+                        <namePart type="family">Krahé</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abbey, Antonia</displayForm>
+                        <namePart type="family">Abbey</namePart>
+                        <namePart type="given">Antonia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This editorial introduces the Focus Section on Intimate Partner Violence (IPV) as a worldwide problem, which brings together six papers that are truly international and interdisciplinary. They provide insights into IPV from nine different cultures – China, Germany, Italy, Japan, Mexico, Northern Ireland, Sweden, Turkey, and the United States – from scholars in the fields of psychology, gender studies, political science, and economics. The first three papers look at how widespread the experience of IPV is among different groups of women, examine selected risk factors associated with heightened vulnerability to victimization, and discuss consequences of intimate partner victimization. Another two papers place the problem of IPV in the wider context of societal perceptions and attitudes about victims and perpetrators of IPV in different countries, whereas the last paper examines the role of individual differences in the management of emotions in the escalation or de-escalation of relationship conflict. In combination, the papers highlight the interplay between the macro level of social and cultural norms condoning the use of violence, the micro level of family relations and construction of couple relationships, and the individual level of attitudes and behaviors that precipitate IPV.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3018</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3018">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3018/pdf_95" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3018">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3018/2983" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3018" DMDID="DMD_biejournals_3018">
+            <mets:fptr FILEID="FILE0_biejournals_3018"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3018" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3018"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

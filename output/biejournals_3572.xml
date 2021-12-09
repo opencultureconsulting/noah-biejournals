@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3572">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Structuring Arguments in Civic Education - An Explorative Mixed- Methods Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sobernheim, Janine</displayForm>
+                        <namePart type="family">Sobernheim</namePart>
+                        <namePart type="given">Janine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-10</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The aim of this article is to show the underlying structure of developed&amp;nbsp;argumentations in five role-plays recorded in civic education in a vocational school.
+Method: Two models were developed to analyse discursive moves and to analyse&amp;nbsp;complexity levels within students’ arguments.
+Findings: The models show the quality of argumentations in terms of structure from&amp;nbsp;the two different perspectives of discursive moves and of complexity levels. An&amp;nbsp;association between discursive moves and complexity levels may be assumed.The ability of elaborating arguments and connecting them in more complex ways could&amp;nbsp;not be significantly developed in this setting.
+Research implications: The results illustrate the performance of the whole class.&amp;nbsp;Further comparative analyses and the analysis of individual learners are needed to draw&amp;nbsp;even more conclusions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3572</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3572">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3572/3907" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3572" DMDID="DMD_biejournals_3572">
+            <mets:fptr FILEID="FILE0_biejournals_3572"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_995">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Educational policies for non-Russian minorities in Russia</title>
+                        <subTitle>A theoretical-historical case study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mchitarjan, Irina</displayForm>
+                        <namePart type="family">Mchitarjan</namePart>
+                        <namePart type="given">Irina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article presents a theoretical analysis of the educational policies for ethnic minorities, using the example of Russia. To this end, the Russian educational minority policies are analyzed from the perspective of a theory of cultural transmission in minorities recently proposed by the author. It is argued that the theory is able to explain important aspects of the educational policies of a majority for indigenous minorities that are not easily accounted for by existing theoretical approaches, and can therefore contribute to a better understanding of the Russian educational policy for minorities during history and more generally, the educational policies of nation states for ethnic minorities.Keywords: Russia; minorities; minority politics; educational policies; nationalities policy; cultural transmission in minorities</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_995</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_995">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/995/1103" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_995" DMDID="DMD_biejournals_995">
+            <mets:fptr FILEID="FILE0_biejournals_995"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

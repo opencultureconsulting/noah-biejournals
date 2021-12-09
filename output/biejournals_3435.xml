@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3435">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Global Englishes in the Classroom</title>
+                        <subTitle>From Theory to Practice</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schildhauer, Peter</displayForm>
+                        <namePart type="family">Schildhauer</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulte, Marion</displayForm>
+                        <namePart type="family">Schulte</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zehne, Carolin</displayForm>
+                        <namePart type="family">Zehne</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Today’s learners of English will face the challenge of having to communicate with speakers of English from a variety of backgrounds in their future. The smallest fraction of their prospective interlocutors will be native speakers of well-known standard varieties such as British and American English. Researchers of different research paradigms have discussed the pedagogical implications of this diverse sociolinguistic reality, which we refer to by the term Global Englishes. The two strategies that are proposed frequently are a) to allow learners of English to encounter a variety of different Englishes in order to develop (listening) comprehension skills and b) to address pragmatic and interaction strategies that allow to deal with intercultural encounters and – in particular – communication barriers. Starting from this theoretical background, we first investigate one coursebook each for the intermediate and the advanced secondary school level in the German state North Rhine-Westphalia to find out to what extent current coursebooks provide Global Englishes material. We identify a trend to providing a considerable amount of material. However, even most recent ebooks rely on audio files despite the fact that they could include a higher amount of audio-visual material. We argue that in particular audio-visual material is well-suited for making students encounter Global Englishes in the classroom and move on to suggest TED-talks, advertisements and cinematic films as highly suitable sources of material. We illustrate our argument with examples and selected tasks for each category. We end the article by proposing specific activities that can be used to practice interaction strategies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3435</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3435">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3435/3660" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3435" DMDID="DMD_biejournals_3435">
+            <mets:fptr FILEID="FILE0_biejournals_3435"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

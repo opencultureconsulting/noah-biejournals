@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4318">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Post Covid-19 Agenda</title>
+                        <subTitle>Maximizing human resources for health towards Universal Health Coverage in Africa</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Amedari , McKing I.</displayForm>
+                        <namePart type="family">Amedari </namePart>
+                        <namePart type="given">McKing I.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ejidike, Ifunanya Carista</displayForm>
+                        <namePart type="family">Ejidike</namePart>
+                        <namePart type="given">Ifunanya Carista</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: To analyse options for maximising the capacity of human resources for health to achieve Universal Health Coverage (UHC) in Africa.
+Methods: Articles were retrieved from a Pubmed search and additional snowballing was conducted to provide other relevant sources. Further utilizations were made of Campbell&apos;s modified framework of the Human Resources for Health (HRH) and Universal Health Coverage with the WHO labour market dynamics framework for Universal Health Coverage. Four sub-themes viz improved HRH performance, Labour Market Factors, Rural Health Workers Retention Factors, and Information Technology Factors were analysed.
+Results: Labour market factors such as the dynamics of demand and supply of health workers determine the availability of health workers. Supportive supervision enables the health workers to improve in their performance and enhance optimised utilisation of available resources. This supervision can be more effective by complementing it with tools such as information technology that focus on improving the quality of health care, considering the growth in the number of internet and broadband users in the continent.
+Conclusion: Expanding the training opportunities for health workers and also increasing the funding to human resources for health are useful policy options to consider. Cost-effective approaches such as a focus on community health committees which stimulate the demand for health services in rural communities to tackle the disproportionate distribution of health workers should be considered in the context of the uncertain economic aftermath of the covid-19 outbreak.
+Sources of Funding
+Nil
+Acknowledgement
+We express profound gratitude to Prof Flavia Senkubuge for providing technical help and writing assistance during the preparation of this manuscript. We also appreciate Dr. Aborisade Adetayo for assisting with editing of the manuscript.
+Conflicts of Interest
+The authors declare no conflict of interest.
+Author Contributions
+MIA drafted the entire manuscript. ICE provided a critical review and made substantial contributions to the design of the manuscript.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4318</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4318">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4318/4276" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4318" DMDID="DMD_biejournals_4318">
+            <mets:fptr FILEID="FILE0_biejournals_4318"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

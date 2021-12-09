@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2121">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision in der Stille - Supervision und Beratung im gebärdensprachlich orientierten Raum</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Jutta</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Jutta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-13</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der nachstehende Beitrag soll eine Fachexpertise zu einem kleinen, wenig bekannten Feld der Beratungs- und Supervisionsarbeit liefern. Anhand der Auseinandersetzung mit der Minderheit der gehörlosen Menschen möchte ichauch kritische Reflexionen zum gesellschaftspolitischen Vorhaben der Inklusion anstoßen.Abschließend möchte ich einen Einblick in die Supervision mit gehörlosen Menschen und den damit verbundenen Schwierigkeiten geben. Die öffentliche Diskussion zur Situation von Behinderten soll zum Anlass genommen werden, ein Feld auszuleuchten mit dem Ziel, dieses Feld in den Blick der Supervision zu bringen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2121</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2121">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2121/1988" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2121" DMDID="DMD_biejournals_2121">
+            <mets:fptr FILEID="FILE0_biejournals_2121"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

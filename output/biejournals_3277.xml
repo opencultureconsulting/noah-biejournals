@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3277">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Switching emergency contraceptives to non-prescription status and unwanted pregnancy among adult and teenage women</title>
+                        <subTitle>A long-term European comparative study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Italia, Salvatore</displayForm>
+                        <namePart type="family">Italia</namePart>
+                        <namePart type="given">Salvatore</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröder-Bäck, Peter</displayForm>
+                        <namePart type="family">Schröder-Bäck</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Helmut</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Abstract
+&amp;nbsp;
+Aim: Unwanted pregnancy is an important social issue, not least among teenagers. Emergency contraceptives (EMCs) can prevent from unintended pregnancy, if taken quickly after unprotected sex. This study’s objective was assessing abortion/birth rates among adult and teenage women in Europe before/after an EMC switch to non-prescription status.
+Methods: National authorities were consulted for EMC consumption data and abortion/live birth statistics. Rates (n=26 countries) in the year before the switch (= year of reference) were compared with rates before/after the change (up to ±15 years). The focus was laid on the European Union and further countries closely related to the European Union.
+Results: All countries with available data (n=12) experienced a substantial increase of EMC consumption after the switch. On average, abortion rates among women aged 15–49 years were 83% higher 15 years before (compared with the year of reference) and 14% lower 15 years after the switch. Correspondingly, teenage abortion rates were 35% higher 15 years before and 40% lower 15 years after the switch. In 2017, no country had higher teen abortion rates than at time of the switch. Teen birth rates continued decreasing at almost the same rate after the switch as before.
+Conclusion: An EMC switch to non-prescription status increases EMC use and may contribute reducing unwanted pregnancy among teenage girls.
+&amp;nbsp;
+Conflicts of interest: None declared.
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3277</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3277">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3277/3363" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3277" DMDID="DMD_biejournals_3277">
+            <mets:fptr FILEID="FILE0_biejournals_3277"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

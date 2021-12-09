@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1448">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Meere im Kontext der globalen Erwärmung</title>
+                        <subTitle>Experimente für eine schulische Thematisierung der Erwärmung und Versauerung der Meere sowie des Meeresspiegelanstiegs</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmäing, Till</displayForm>
+                        <namePart type="family">Schmäing</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Ein Problemfeld mit gravierenden Auswirkungen auf nahezu sämtliche Ökosysteme unserer Erde ist – nicht erst seit der durch die schwedische Schülerin und Klimaschutzaktivistin Greta Thunberg angestoßenen öffentlichen Debatte – die globale Erderwärmung. Dieser Beitrag thematisiert eingangs aus fachlicher Perspektive die globale Erwärmung und die damit verbundenen Konsequenzen für die Meere. In diesem Kontext werden die Grundlagen des anthropogenen Treibhauseffekts dargestellt und darauf basierend auf den Anstieg des Meeresspiegels sowie auf die Versauerung und die Erwärmung der Meere fokussiert. &amp;nbsp;Im Anschluss werden die sich im Anhang befindlichen unterrichtlichen Materialien hingehend ihrer Einsatzmöglichkeiten erläutert und einige Hinweise für eine Umsetzung in die schulische Praxis illustriert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1448</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1448">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1448/1469" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1448">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1448/1470" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1448" DMDID="DMD_biejournals_1448">
+            <mets:fptr FILEID="FILE0_biejournals_1448"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1448" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1448"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

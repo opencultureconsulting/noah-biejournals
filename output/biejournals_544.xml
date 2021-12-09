@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_544">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Questionning the Citizenship Industry</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Splitter, Laurance J.</displayForm>
+                        <namePart type="family">Splitter</namePart>
+                        <namePart type="given">Laurance J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">I argue that citizenship and related concepts should be treated warily by educators and researchers. Citizenship cannot define who I am, nor can it plausibly ground moral or values education. For both these tasks, the relational concept of being a person in the world does a better, and simpler, job. I suggest that classrooms which take the concept of personhood seriously should function as inquiring communities, in which such issues as the meaning and importance of our affiliations and associations may be critically examined. There may be good reasons for the recent expansion of what I term “the citizenship industry” in educational research, but they should not be taken for granted, particularly given that the concept of citizenship is often used by governments around the world to support strongly nationalistic policies which are inimical to genuine inquiry and autonomy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_544</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_544">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/544/541" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_544" DMDID="DMD_biejournals_544">
+            <mets:fptr FILEID="FILE0_biejournals_544"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

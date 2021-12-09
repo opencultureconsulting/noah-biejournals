@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_795">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Turkish Social Studies Teachers’ Thoughts About the Teaching of Controversial Issues</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Copur, Ahmet</displayForm>
+                        <namePart type="family">Copur</namePart>
+                        <namePart type="given">Ahmet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Demirel, Muammer</displayForm>
+                        <namePart type="family">Demirel</namePart>
+                        <namePart type="given">Muammer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In today’s world, one of the primary goals of education is to raise individuals as citizens equipped with the skills of communication, high-level thinking, problem solving and questioning as well as with a global viewpoint. Introducing controversial issues into the classroom environment may be among the steps to be taken to achieve these goals. In this context, this study has the primary goal of revealing Social Studies teachers’ thoughts about the teaching of controversial issues in the classroom environment. This study adopted mixed methods. The study participants consisted of Social Studies teachers working in Bursa, which is a large-scale province of Turkey, in the 2014-2015 school year. According to the study findings, while terror was the most controversial issue, faith in creation was the least controversial issue. In addition, teachers mainly preferred to introduce issues related to the Social Studies curriculum and that were appropriate for the students’ preparedness. However, another result is that controversial issues contributed to students’ acquisition of personal critical skills such as high-level thinking and communication. It was also observed that the teaching of controversial issues was related to the Social Studies lesson and was important for the achievement of the goals of the lesson.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_795</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_795">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/795/869" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_795" DMDID="DMD_biejournals_795">
+            <mets:fptr FILEID="FILE0_biejournals_795"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

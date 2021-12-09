@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3065">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“Go Back and Tell Them Who the Real Men Are!” Gendering Our Understanding of Kibera’s Post-election Violence</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kihato, Caroline Wanjiku</displayForm>
+                        <namePart type="family">Kihato</namePart>
+                        <namePart type="given">Caroline Wanjiku</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Using a gendered analysis, this article examines the post election violence (PEV) in Kibera, Kenya, between December 2007 and February 2008. Through indepth interviews with Kibera residents, the article interrogates how gender influenced violent mobilizations in Kenya’s most notorious slum. Most scholarly analyses have tended to understand the post-election violence as a result of politicized ethnic identities, class, and local socio-economic dynamics. Implicitly or explicitly, these frameworks assume that women are victims of violence while men are its perpetrators, and ignore the ways in which gender, which cuts across these categories, produces and shapes conflict. Kibera’s conflict is often ascribed to the mobilization of disaffected male youths by political “Big Men.” But the research findings show how men, who would ordinarily not go to war, are obliged to fight to “save face” in their communities and how women become integral to the production of violent exclusionary mobilizations. Significantly, notions of masculinity and femininity modified the character of Kibera’s conflict. Acts of gender-based violence, gang rapes, and forced circumcisions became intensely entwined with ethno-political performances to annihilate opposing groups. The battle for political power was also a battle of masculinities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3065</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3065">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3065/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3065">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3065/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3065" DMDID="DMD_biejournals_3065">
+            <mets:fptr FILEID="FILE0_biejournals_3065"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3065" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3065"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

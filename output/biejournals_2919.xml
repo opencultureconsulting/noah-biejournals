@@ -1,0 +1,118 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2919">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Tackling Cyberbullying</title>
+                        <subTitle>Review of Empirical Evidence Regarding Successful Responses by Students, Parents, and Schools</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perren, Sonja</displayForm>
+                        <namePart type="family">Perren</namePart>
+                        <namePart type="given">Sonja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Corcoran, Lucie</displayForm>
+                        <namePart type="family">Corcoran</namePart>
+                        <namePart type="given">Lucie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cowie, Helen</displayForm>
+                        <namePart type="family">Cowie</namePart>
+                        <namePart type="given">Helen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dehue, Francine</displayForm>
+                        <namePart type="family">Dehue</namePart>
+                        <namePart type="given">Francine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Garcia, D&apos;Jamila</displayForm>
+                        <namePart type="family">Garcia</namePart>
+                        <namePart type="given">D&apos;Jamila</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mc Guckin, Conor</displayForm>
+                        <namePart type="family">Mc Guckin</namePart>
+                        <namePart type="given">Conor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sevcikova, Anna</displayForm>
+                        <namePart type="family">Sevcikova</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tsatsou, Panayiota</displayForm>
+                        <namePart type="family">Tsatsou</namePart>
+                        <namePart type="given">Panayiota</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Völlink, Trijntje</displayForm>
+                        <namePart type="family">Völlink</namePart>
+                        <namePart type="given">Trijntje</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A summary of current knowledge on successful responses to cyberbullying differentiating between three different response domains: reducing risks, combatting the problem, and buffering negative impact. A systematic literature search yielded thirty-six relevant studies, most of which report findings regarding general prevention strategies (e.g., anti-bullying policies or cybersafety strategies) and the use of coping strategies such as seeking support, responding (retaliation or confronting), technical solutions, and avoidant and emotion-focussed strategies. Whilst a few studies report perceived success, very few measure the success of the strategies in relation to risks and outcomes. There is a clear lack of evidence concerning successful responses.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2919</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2919">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2919/pdf_58" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2919">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2919/2781" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2919" DMDID="DMD_biejournals_2919">
+            <mets:fptr FILEID="FILE0_biejournals_2919"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2919" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2919"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

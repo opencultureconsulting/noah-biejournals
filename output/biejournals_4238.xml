@@ -1,0 +1,122 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4238">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Special Volume No. 1, 2021</title>
+                        <subTitle>The Global One Health Environment</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Abed, Yehia</displayForm>
+                        <namePart type="family">Abed</namePart>
+                        <namePart type="given">Yehia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sahu, Monalisha</displayForm>
+                        <namePart type="family">Sahu</namePart>
+                        <namePart type="given">Monalisha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ormea, Veronica</displayForm>
+                        <namePart type="family">Ormea</namePart>
+                        <namePart type="given">Veronica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mans, Linda</displayForm>
+                        <namePart type="family">Mans</namePart>
+                        <namePart type="given">Linda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lueddeke, George</displayForm>
+                        <namePart type="family">Lueddeke</namePart>
+                        <namePart type="given">George</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hokama, Tomiko</displayForm>
+                        <namePart type="family">Hokama</namePart>
+                        <namePart type="given">Tomiko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Goletic, Rusmir</displayForm>
+                        <namePart type="family">Goletic</namePart>
+                        <namePart type="given">Rusmir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eliakimu, Eliudi</displayForm>
+                        <namePart type="family">Eliakimu</namePart>
+                        <namePart type="given">Eliudi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dobe, Madhumita</displayForm>
+                        <namePart type="family">Dobe</namePart>
+                        <namePart type="given">Madhumita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seifman, Richard</displayForm>
+                        <namePart type="family">Seifman</namePart>
+                        <namePart type="given">Richard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-14</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4238</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4238">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4238/4583" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4238" DMDID="DMD_biejournals_4238">
+            <mets:fptr FILEID="FILE0_biejournals_4238"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

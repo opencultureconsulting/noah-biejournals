@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2833">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Are Moral Disengagement, Neutralization Techniques, and Self-Serving Cognitive Distortions the Same? Developing a Unified Scale of Moral Neutralization of Aggression</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ribeaud, Denis</displayForm>
+                        <namePart type="family">Ribeaud</namePart>
+                        <namePart type="given">Denis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eisner, Manuel</displayForm>
+                        <namePart type="family">Eisner</namePart>
+                        <namePart type="given">Manuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Can the three concepts of Neutralization Techniques, Moral Disengagement, and Secondary Self-Serving Cognitive Distortions be conceived theoretically and empiricallyas capturing the same cognitive processes and thus be measured with one single scale of Moral Neutralization? First, we show how the different approaches&amp;nbsp;overlap conceptually. Second, in Study 1, we verify that four scales derived from the three conceptions of Moral Neutralization are correlated in such a way that they&amp;nbsp;can be conceived as measuring the same phenomenon. Third, building on the results of Study 1, we derive a unified scale of Moral Neutralization which specifically&amp;nbsp;focuses on the neutralization of aggression and test it in a large general population sample of preadolescents (Study 2). Confirmatory factor analyses suggest a&amp;nbsp;good internal consistency and acceptable cross-gender factorial invariance. Correlation analyses with related behavioral and cognitive constructs corroborate the&amp;nbsp;scale&amp;rsquo;s criterion and convergent validity. In the final section we present a possible integration of Moral Neutralization in a broader framework of crime causation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2833</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2833">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2833/pdf_9" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2833" DMDID="DMD_biejournals_2833">
+            <mets:fptr FILEID="FILE0_biejournals_2833"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

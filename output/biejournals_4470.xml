@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4470">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of health service delivery networks in achieving universal health coverage in Africa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Simfukwe, Knovicks</displayForm>
+                        <namePart type="family">Simfukwe</namePart>
+                        <namePart type="given">Knovicks</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adebisi, Yusuff Adebayo</displayForm>
+                        <namePart type="family">Adebisi</namePart>
+                        <namePart type="given">Yusuff Adebayo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Oladunni, Amos Abimbola</displayForm>
+                        <namePart type="family">Oladunni</namePart>
+                        <namePart type="given">Amos Abimbola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eltahir Mohammed, Salma Elmukashfi</displayForm>
+                        <namePart type="family">Eltahir Mohammed</namePart>
+                        <namePart type="given">Salma Elmukashfi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lucero-Prisno III, Don Eliseo</displayForm>
+                        <namePart type="family">Lucero-Prisno III</namePart>
+                        <namePart type="given">Don Eliseo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Most countries in Africa are faced with health system problems that vary from one to the next. Countries with a low Human Development Index (HDI) seem to be more prone to challenges in health service delivery. To mark its 70th anniversary on World Health Day, the World Health Organization (WHO) selected the theme “Universal Health Coverage (UHC): Everyone, Everywhere” and the slogan “Health for All. ”UHC refers to ensuring that all people have access to needed health services (including prevention, promotion, treatment, rehabilitation, and palliation) of sufficient quality to be effective while also ensuring that the use of these services does not expose the user to financial hardship. UHC is a WHO’s priority objective. Most governments have made it their major goal.
+This paper provides a perspective on the challenges of achieving UHC in Sub-Saharan Africa (SSA). It also endeavors to spotlight the successful models of Health Service Delivery Networks (HSDNs) that make significant strides in making progress towards achieving UHC. HSDNs propose models that facilitate the attainment of affordability and accessibility while maintaining quality in delivering health services. Additionally, it brings up to speed the challenges associated with setting up HSDNs in health systems in SSA. It then makes propositions of what measures and strategic approaches should be implemented to strengthen HSDNs in SSA. This paper further argues that UHC is not only technically feasible but it is also attainable if countries embrace HSDNs in SSA.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4470</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4470">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4470/4278" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4470" DMDID="DMD_biejournals_4470">
+            <mets:fptr FILEID="FILE0_biejournals_4470"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

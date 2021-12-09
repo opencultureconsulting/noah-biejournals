@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4633">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Xylotheken als Baumherbarien – ein Beitrag zur ökologischen Forstbotanik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwedt, Georg</displayForm>
+                        <namePart type="family">Schwedt</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Xylotheken als Holzbibliotheken entstanden um 1800 und werden heute als wertvolle Objekte in einigen Naturkundemuseen ausgestellt, u. a. in Kassel (Ottoneum), auf Burg Guttenberg am Neckar, in Stuttgart-Hohenheim (Universität) und Ebersberg (Oberbayern). Sie stellen Baumherbarien dar: Ein buchähnlicher Kasten aus dem Holz und der Rinde des jeweiligen Baumes enthält alle botanisch wesentlichen Teile dieses Baumes. Xylotheken sind eine Kombination aus Holzsammlung und Herbarium – sie veranschaulichen die ganze Naturgeschichte der Bäume eines Waldes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4633</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4633">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4633/4395" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4633" DMDID="DMD_biejournals_4633">
+            <mets:fptr FILEID="FILE0_biejournals_4633"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_129">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hochschulische Strategieoptionen im Feld englischsprachiger wissenschaftlicher Weiterbildung</title>
+                        <subTitle>Eine Bewertung auf Basis einer Alumni- und Studierendenbefragung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Ursula Maria</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Ursula Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröger, Gabriele</displayForm>
+                        <namePart type="family">Gröger</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schumacher, Hermann</displayForm>
+                        <namePart type="family">Schumacher</namePart>
+                        <namePart type="given">Hermann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Beitrag werden zunächst allgemeine Prozesse der Globalisierung und Digitalisierung im Feld der Hochschulbildung beschrieben, sowie anhand statistischer Daten aufgezeigt, wie groß der globale, online-basierte Weiterbildungsmarkt derzeit ist und welches Wachstumspotenzial in ihm steckt. In der Folge wird ein Konzept vorgestellt, anhand dessen die im Zeitalter von Globalisierung und Digitalisierung bestehenden Strategieoptionen von Hochschulen eingeordnet werden können. In diesem Kontext werden die Strategie der „Internationalisierung“ sowie drei verschiedene „Transnationalisierungsstrategien“ unterschieden. Der Beitrag enthält mit der Bewertung verschiedener Strategieoptionen für die School of Advanced Professional Studies (SAPS) der Universität Ulm einen konkreten Anwendungsfall. Dabei geht es um die Frage, welche Markteintrittsstrategien im Bereich englischsprachiger Weiterbildungsmodule vor dem Hintergrund des vorgestellten Konzepts konkret gewählt werden sollten. Um für eine derartige Bewertung Anhaltspunkte zu gewinnen, wurde eine empirische Befragung durchgeführt. Die Ergebnisse zur Befragung internationaler Alumni sowie die allgemeine Akzeptanz von englischsprachigen Modulen werden vorgestellt. Dann werden die konkreten Strategieoptionen der SAPS in das zuvor definierte Konzept eingeordnet und einer Bewertung unterzogen. Schließlich wird der Nutzen des Konzepts für Hochschulen im Allgemeinen gewürdigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_129</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_129">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/129/1219" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_129" DMDID="DMD_biejournals_129">
+            <mets:fptr FILEID="FILE0_biejournals_129"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

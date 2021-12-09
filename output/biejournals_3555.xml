@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3555">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen im universitären Lehramtsstudium</title>
+                        <subTitle>Ein Positionspapier des Verbunds schulbezogener Praxisforschung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feindt, Andreas</displayForm>
+                        <namePart type="family">Feindt</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fichten, Wolfgang</displayForm>
+                        <namePart type="family">Fichten</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weyland, Ulrike</displayForm>
+                        <namePart type="family">Weyland</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Winkel für die Steuergruppe des Verbunds schulbezogener Praxisforschung, Jens</displayForm>
+                        <namePart type="family">Winkel für die Steuergruppe des Verbunds schulbezogener Praxisforschung</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Seit einiger Zeit beobachten wir, wie Forschendes Lernen aus einem Nischendasein ins Zentrum der Aufmerksamkeit der Lehrer*innenbildung rückt. Es sind nicht länger kleine, experimentelle Seminarformate, die nur von wenigen Studierenden gewählt werden, sondern Forschendes Lernen ist z.B. vielerorts im Kontext von Langzeitpraktika ein verbindlicher curricularer Baustein für alle Lehramtsstudierenden im zeitlich eng getakteten Studium geworden. Gleichzeitig verliert Forschendes Lernen an konzeptioneller Schärfe und begrifflicher Klarheit, weil eine Vielzahl situativer Anpassungen vor Ort vorgenommen wird. Schließlich stellen wir fest, dass immer wieder weitreichende Idealvorstellungen Forschenden Lernens formuliert werden, ohne dass die institutionellen Bedingungen und personalen Ressourcen mitbedacht werden. Vor diesem Hintergrund haben wir das hier vorliegende Positionspapier erarbeitet. Es bezieht sich explizit auf Forschendes Lernen als Pflichtbaustein im Rahmen der universitären Lehrer*innenbildung. Das Papier soll dazu beitragen, einen kritisch-konstruktiven Blick auf diese Form Forschenden Lernens im Lehramtsstudium zu werfen. Uns geht es um die Qualität des Konzepts und damit um die Stärkung zeitlicher und personeller Ressourcen, die Reflexion institutioneller Situierungen sowie die Förderung von Konzentration und kognitiver Auseinandersetzung in den hochschuldidaktischen Ausgestaltungen Forschenden Lernens im Lehramtsstudium. Das Positionspapier wurde von den Autor*innen in Abstimmung mit der Steuergruppe des Verbunds schulbezogener Praxisforschung (link) erarbeitet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3555</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3555">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3555/3797" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3555" DMDID="DMD_biejournals_3555">
+            <mets:fptr FILEID="FILE0_biejournals_3555"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

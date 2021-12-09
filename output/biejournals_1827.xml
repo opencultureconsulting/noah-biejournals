@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1827">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Governance and management of health care institutions in Serbia</title>
+                        <subTitle>An overview of recent developments</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In order to promote awareness of factors that affect social services, their quality, effectiveness and coverage, the term “governance” is frequently used. However, there is no agreement on definitions, frameworks and how it relates to the health sector.In this overview, two interrelated processes in Serbia will be analyzed: governance and management at the macro-, meso-, and micro level.Key messages are as follows: i) Continue decentralization and support to an effective national decision-making body (Health Council of Serbia) with all relevant stakeholders; ii) Reduce the well-known implementation gap and agree on a binding time frame for reforms, and; iii) Establish obligatory schemes for education and training of managers and support sustainability of state institutional capacity to teach, train and advise on a scientific basis.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1827</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1827">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1827/1748" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1827" DMDID="DMD_biejournals_1827">
+            <mets:fptr FILEID="FILE0_biejournals_1827"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4091">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Implementing antisemitism studies in German teacher education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gläser, Georg</displayForm>
+                        <namePart type="family">Gläser</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hentges, Gudrun</displayForm>
+                        <namePart type="family">Hentges</namePart>
+                        <namePart type="given">Gudrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meier, Marcus</displayForm>
+                        <namePart type="family">Meier</namePart>
+                        <namePart type="given">Marcus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The integration of antisemitism as a topic for teacher education is urgent, especially in the social sciences
+Education regarding contemporary antisemitism must be combined with an analysis of racism and historical-political perspectives on the Shoah to succeed in post-migrant society
+Slight changes of the curricula are a reliable base for further development
+A nexus between schools, universities and actors of civil society is needed in order to target antisemitism
+International summer schools, German-Israeli study groups or collaborative workshops are exemplary pilot projects in order to establish competence regarding education critical of antisemitism
+
+ 
+Purpose: Following the current rise of antisemitism globally and in Germany, this paper examines the current situation regarding Antisemitism in teacher education. The paper aims to make a contribution for the demand of an implementation of education critical of Antisemitism in teacher education.
+Approach: Combining experience from university teacher training and the field of extracurricular political education we appoint perspectives for a sustainable implementation of education critical of antisemitism in teacher training via best practice examples. We evaluate the potentials of field trips, international study groups and networks between university and agents located in civil society.
+Findings: The revised curricula for Social Sciences in the state of North-Rhine-Westphalia (and formerly Berlin) name current antisemitism for the first time, indicating an urgent need for professionalization in Social Science teacher education where the facets of antisemitism only play a minor role. Hence, expertise and existing resource must be stabilized, a structural implementation and funding is needed in order to target the challenging topic of antisemitism.
+Research limitations/implications: This paper functions as a preliminary research in order to examine the given shape of Social Science teacher education and Antisemitism in Germany. A comprehensive, structured analyses of all teacher training facilities as well as extracurricular agents working in the field of education critical of antisemitism could be useful in order to pool expertise. Nonetheless this paper encourages local collaborations between university and civiliety actors.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4091</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4091">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4091/4517" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4091" DMDID="DMD_biejournals_4091">
+            <mets:fptr FILEID="FILE0_biejournals_4091"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

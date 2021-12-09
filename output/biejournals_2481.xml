@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2481">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Umgang mit Norm- und Wissenshorizonten im Kontext rekonstruktiv-kasuistischen Arbeitens an der Schnittstelle von Fachdidaktik und Allgemeiner Didaktik</title>
+                        <subTitle>Perspektiven aus einem gemeinsamen Seminar</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Dealing with norm and knowledge horizons in the context of reconstructive case work at the interface of subject-related didactics and general didactics</title>
+                        <subTitle>Perspectives from a joint seminar</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Tobias</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wieser, Dorothee</displayForm>
+                        <namePart type="family">Wieser</namePart>
+                        <namePart type="given">Dorothee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die rekonstruktive Auseinandersetzung mit realen Fällen des Unterrichts in einem handlungsentlasteten Raum bietet die Möglichkeit der distanzierten und kritischen Analyse von unterrichtlichen Praktiken im Rahmen der Lehrer_innenbildung. Dies setzt aber zugleich spezifische Kompetenzen und Wissensbestände seitens der Studierenden voraus und wirft Fragen nach der normativen Rahmung von Fallarbeit auf. Im Beitrag werden diese allgemeinen Herausforderungen rekonstruktiver Kasuistik vor dem Hintergrund eines Seminars für Lehramtsstudierende spezifiziert, welches an der Technischen Universität Dresden in einer Kooperation zwischen der Fachdidaktik Deutsch und der Allgemeinen Didaktik konzipiert und erprobt wurde. Als eine der zentralen Frage erweist sich dabei, wie es im Seminar gelingen kann, die unterschiedlichen ‒ fach- und allgemeindidaktischen, aber auch individuellen ‒ Normhorizonte in ein reflektiertes Verhältnis zu setzen. In diesem Zusammenhang wird zudem die Problematik der notwendigen und nicht immer gegebenen Wissensbasis bei den Studierenden aufgegriffen. Abschließend wird danach gefragt, inwiefern sich die Verknüpfung von fach- und allgemeindidaktischen Zugängen in einem solchen Lehr-Lern-Setting als Potenzial oder eher als Überforderung erweist. Der Beitrag entwickelt somit Fragen, die es durch empirische Untersuchungen zu klären, die es aber auch hinsichtlich der Ausrichtung des Lehramtsstudiums zu diskutieren gilt.</abstract>
+                    <abstract lang="eng">Reconstructing real cases of teaching in a stress-reduced atmosphere offers the possibility for an objective and critical analysis of teaching practices in the context of teacher education. At the same time, this requires specific competencies and knowledge from the students and it also raises questions about the normative embedding of case work. The article specifies these general challenges of reconstructive case work using the example of a seminar for student teachers, which was designed and implemented at Technische Universität Dresden by the Didactics of German in collaboration with the General Didactics. As one key topic proves to be the question of how putting the different normative horizons – subjectrelated didactic horizons, general didactic horizons, and individual horizons – into a reflected relationship can succeed in the seminar. By doing this, we will raise the issue of the knowledge base that is necessary for such a seminar setting, but which the student teachers may not have prior to it. Finally, the article addresses the following question: to what extent does linking subject-related and general didactic approaches to one another have the potential to benefit or overload students in this kind of seminar? The article thus develops questions that need to be clarified by empirical investigations, but which also need to be discussed with regard to the further development of teacher training programs.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2481</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2481">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2481/3368" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2481" DMDID="DMD_biejournals_2481">
+            <mets:fptr FILEID="FILE0_biejournals_2481"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

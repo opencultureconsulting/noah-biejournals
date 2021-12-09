@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2118">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rahmen und Maßstäbe setzen und halten. Interessen an DGSv - Bedarf - aus Organisationssicht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weiss, Kersti</displayForm>
+                        <namePart type="family">Weiss</namePart>
+                        <namePart type="given">Kersti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-13</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">In diesem Artikel wird aus Sicht meiner beruflichen Entwicklung und der Arbeit eines internen Beratungsinstitutes einer großen Landeskirche die Bedeutung von fachlich durch einen Verband gesetzten Standards beschrieben. Der Nutzen für Supervisanden, für Träger und für Supervisorinnen und Supervisoren wird mit einem Plädoyer zum Qualitätserhalt verbunden. Welche Art Kompetenzen für eine kritisch klärende Prozessbegleitung benötigen Träger und Mitarbeitende verschiedener Organisationen und in welcher Weise müssen die Supervisor(inn)en dazu aus- und weitergebildet werden? Um Supervision als ein sinnvolles, d.h. Sinn stiftendes Format weiter zu etablieren, ist der Blick aus Sicht der Klienten und Kunden unbedingt erforderlich. Welche Rolle dabei die DGSv spielt oder spielen kann, wird aus institutioneller und persönlicher Sicht beschrieben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2118</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2118">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2118/1985" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2118" DMDID="DMD_biejournals_2118">
+            <mets:fptr FILEID="FILE0_biejournals_2118"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

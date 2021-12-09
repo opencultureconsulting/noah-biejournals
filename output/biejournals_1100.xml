@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Einer für Alles“</title>
+                        <subTitle>Verwendung von Honig für Schulexperimente zur Enzymatik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zunftmeister, Felicitas</displayForm>
+                        <namePart type="family">Zunftmeister</namePart>
+                        <namePart type="given">Felicitas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohrmann, Johannes</displayForm>
+                        <namePart type="family">Bohrmann</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Beitrag stellt eine einfache Möglichkeit vor, wie Schülerinnen und Schüler unter Verwendung von Honig die Abhängigkeit der Enzymaktivität und Enzymhemmung von verschiedenen Faktoren (pH-Wert, Temperatur, Schwermetalle) experimentell untersuchen können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1100</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1100">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1100/1196" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1100">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1100/1198" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1100" DMDID="DMD_biejournals_1100">
+            <mets:fptr FILEID="FILE0_biejournals_1100"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1100" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1100"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

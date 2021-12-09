@@ -1,0 +1,110 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2915">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Implementation of PATHS Through Dutch Municipal Health Services</title>
+                        <subTitle>A Quasi-Experiment</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goossens, Ferry</displayForm>
+                        <namePart type="family">Goossens</namePart>
+                        <namePart type="given">Ferry</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gooren, Evelien</displayForm>
+                        <namePart type="family">Gooren</namePart>
+                        <namePart type="given">Evelien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Orobio de Castro, Bram</displayForm>
+                        <namePart type="family">Orobio de Castro</namePart>
+                        <namePart type="given">Bram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Van Overveld, Kees</displayForm>
+                        <namePart type="family">Van Overveld</namePart>
+                        <namePart type="given">Kees</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Buijs, Goof</displayForm>
+                        <namePart type="family">Buijs</namePart>
+                        <namePart type="given">Goof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Monshouwer, Karin</displayForm>
+                        <namePart type="family">Monshouwer</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Onrust, Simone</displayForm>
+                        <namePart type="family">Onrust</namePart>
+                        <namePart type="given">Simone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Paulussen, Theo</displayForm>
+                        <namePart type="family">Paulussen</namePart>
+                        <namePart type="given">Theo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Only a limited number of effectiveness studies have been performed to study the benefits of efficacious behavior problems prevention programs for children when implemented through national health service systems. This study uses a quasi-experimental design to test the effectiveness of the school-based PATHS prevention program (Providing Alternative THinking Strategies) when implemented through Dutch municipal health services by health promotion professionals. A sample of 1,294 children was followed for two years: 674 children attending nine schools providing PATHS and 620 children in nine comparison schools. We hypothesized finding an intervention effect of PATHS in terms of a significant reduction in teacher- and student-rated externalizing and internalizing problem behaviors, and a significant improvement in teacher-, student-, and peer-rated social skills and emotional skills. In fact, the results show low levels of program implementation and no intervention effects on problem behavior or social and emotional skills, suggesting that it is hard to reproduce positive intervention effects where an efficacious social-emotional prevention program is implemented through a national health service. More research is needed on the specific conditions required to implement efficacious programs effectively.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2915</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2915">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2915/pdf_59" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2915">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2915/2773" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2915" DMDID="DMD_biejournals_2915">
+            <mets:fptr FILEID="FILE0_biejournals_2915"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2915" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2915"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

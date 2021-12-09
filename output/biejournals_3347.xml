@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3347">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Knowledge and perception about climate change among healthcare professionals and students</title>
+                        <subTitle>A cross-sectional study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>La Torre, Giuseppe</displayForm>
+                        <namePart type="family">La Torre</namePart>
+                        <namePart type="given">Giuseppe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>De Paula Baer, Alice</displayForm>
+                        <namePart type="family">De Paula Baer</namePart>
+                        <namePart type="given">Alice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sestili, Cristina</displayForm>
+                        <namePart type="family">Sestili</namePart>
+                        <namePart type="given">Cristina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Andrea Cocchiara, Rosario</displayForm>
+                        <namePart type="family">Andrea Cocchiara</namePart>
+                        <namePart type="given">Rosario</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barbato, Domenico</displayForm>
+                        <namePart type="family">Barbato</namePart>
+                        <namePart type="given">Domenico</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mannocci, Alice</displayForm>
+                        <namePart type="family">Mannocci</namePart>
+                        <namePart type="given">Alice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Del Cimmuto, Angela</displayForm>
+                        <namePart type="family">Del Cimmuto</namePart>
+                        <namePart type="given">Angela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of this study was to assess knowledge on Climate Change (CC) and related consequences among students and professionals of healthcare setting.
+Methods: A cross-sectional study involving 364 people was conducted. The survey was performed at Sapienza University (Rome) using questionnaire previously developed and validated by the same research group.
+Results: Findings indicate awareness about CC and its effects and correct identification of practices that could help to mitigate its repercussions. The majority of the participants believed that CC had an impact on the health of humans (96.7%), animals (99.5%) and on the environment (99.7%). Results from the multivariate analysis regarding overall knowledge, show an increased odd in professionals (OR=2.08; 95%CI=1.02-4.26), individuals from the North (OR=3.34; 95%CI=1.37-8.15) and from the Center (OR=2.07; 95%CI=1.17-3.66). Regarding factors able to modify Earth&apos;s climate, correct answer had higher odds of being chosen by professionals (OR=2.83; 95%CI=1.41–5.70), and from individuals from South/Islands than by the ones from the Center (OR=0.65; 95%CI=0.40-1.06). The main sources of information resulted to be TV and school/university.
+Conclusions: These new evidences could guide policymakers on increasing the awareness of the population about this fundamental subject.
+Funding: This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+&amp;nbsp;
+Author contributions: Conceptualization, G.L.T. and A.D.C..; Methodology, G.L.T. and A.M..; Formal Analysis, A.D.P.B., C.S., R.A.C., D.B.; Investigation, A.D.P.B., C.S., R.A.C., D.B.; Data Curation, A.D.P.B., C.S.; Writing – Original Draft Preparation, R.A.C., D.B.; Writing – Review &amp;amp; Editing, R.A.C., D.B., A.M..; Supervision, G.L.T..; Project Administration, G.L.T.
+&amp;nbsp;
+Conflicts of interest: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3347</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3347">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3347/3479" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3347" DMDID="DMD_biejournals_3347">
+            <mets:fptr FILEID="FILE0_biejournals_3347"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

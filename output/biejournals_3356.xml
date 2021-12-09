@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3356">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strategische Partnerschaft zwischen dem Institut für Erziehungswissenschaft der Universität Kassel und Versuchsschulen des Landes Hessen als Impuls für Schulentwicklung und Forschung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hofmann, Julia</displayForm>
+                        <namePart type="family">Hofmann</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koch, Barbara</displayForm>
+                        <namePart type="family">Koch</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuhn, Hans Peter</displayForm>
+                        <namePart type="family">Kuhn</namePart>
+                        <namePart type="given">Hans Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird die strategische Partnerschaft zwischen dem Institut für Erziehungswissenschaft der Universität Kassel und Versuchsschulen des Landes Hessen präsentiert. Dazu werden die Akteure der Zusammenarbeit vorgestellt. Es wird die Form der Zusammenarbeit erläutert und an zwei Forschungsprojekten illustriert. Erkennbar wird, dass durch die unterschiedlichen Formate der Zusammenarbeit Impulse für die Entwicklung von Schulen und für die Gewinnung erziehungswissenschaftlicher Erkenntnisse entstehen.
+The article presents the strategic partnership between the Institute of Educational Science of the University of Kassel and experimental schools of the state of Hesse. For this purpose, the actors of the cooperation are presented. The form of cooperation is explained and illustrated by two research projects. It becomes apparent that the different formats of cooperation generate impulses for school development and for the acquisition of educational science knowledge.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3356</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3356">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3356/3504" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3356" DMDID="DMD_biejournals_3356">
+            <mets:fptr FILEID="FILE0_biejournals_3356"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

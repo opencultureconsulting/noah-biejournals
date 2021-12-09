@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3861">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schule ohne Schule – Perspektiven von Eltern und Lernbegleiter*innen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langner, Anke</displayForm>
+                        <namePart type="family">Langner</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Lernen während des Lockdowns stellt für Schüler*innen, Eltern und Lehrer*innen eine Herausforderung dar. Anhand von Interviews mit Lernbegleiter*innen und Eltern, die zur Schulgemeinschaft des Schulversuchs „Universitätsschule Dresden“ gehören, werden Herausforderungen, aber auch Ressourcen dieser Schulschließungen skizziert. Dies ist der Ausgangspunkt, um das Verhältnis von Digitalisierung und Bildungsprozessen näher zu betrachten, wie auch, um die Umsetzungsmöglichkeiten durch den bzw. die Lehrer*in eines begleiteten und kooperativen Lernprozesses zu untersuchen. Auf der Basis dieser Erkenntnisse werden notwendige Ableitungen für den schulischen Bildungsprozess diskutiert.Schulversuch Universitätsschule Dresden, Elternperspektive, Lernen unter Pandemiebedingungen, Lehrer*innenperspektive, digital gestütztes Lernen, Kooperation, Bildungsgerechtigkeit</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3861</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3861">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3861/3964" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3861" DMDID="DMD_biejournals_3861">
+            <mets:fptr FILEID="FILE0_biejournals_3861"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

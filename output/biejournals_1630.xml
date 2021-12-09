@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1630">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biologie lernen durch Concept Mapping</title>
+                        <subTitle>Bedeutung eines Lernstrategietrainings für kognitive Belastung, kognitive Prozesse und Lernleistung – Kurzdarstellung des DFG–Projekts</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Großschedl, Jörg</displayForm>
+                        <namePart type="family">Großschedl</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tröbst, Steffen</displayForm>
+                        <namePart type="family">Tröbst</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZUSAMMENFASSUNGDie Beschäftigung mit Biologie erfordert ein Denken in Zusammenhängen. Concept Maps veranschaulichen Zusammenhänge durch Begriffe, die durch beschriftete Pfeile semantisch sinnvoll verbunden sind. Traditionell wird davon ausgegangen, dass die Anfertigung von Concept Maps (sog. Concept Mapping) deshalb lernwirksam ist, weil mit ihr anspruchsvolle kognitive Prozesse der Organisation und Elaboration einhergehen. In jüngster Zeit wurde diese etablierte Vorstellung erschüttert, indem vor allem der Abruf von Informationen aus dem Langzeitgedächtnis für die Lernwirksamkeit des Concept Mapping verantwortlich gemacht wurde. Moniert werden kann, dass in den zugrundeliegenden Studien ausschließlich Lernmaterialien geringen Umfangs verwendet und Concept Mapping nicht trainiert wurde. Das geplante Projekt zielt darauf ab, die berichteten Befunde vor dem Hintergrund dieser beiden Monita kritisch zu prüfen. Aus einer biologiedidaktischen Perspektive dient es der evidenzbasierten Entwicklung eines wirksamen Concept Mapping-Trainings. Aus Perspektive der psychologischen Grundlagenforschung gewährt es Einblick in die kognitiven Prozesse, die die Lernwirksamkeit des Concept Mapping bedingen.ABSTRACTLearning biology is characterized by thinking about interrelationships. Concept maps represent interrelationships through concepts connected to each other with labelledarrows. Traditionally, researchers assume that the construction of concept maps (so-called concept mapping) fosters learning by initiating organization and elaboration as complex cognitive processes. Recently, the cognitive basis of the learning efficacy of concept mapping has been questioned as some researchers reasoned that retrieval of information from long-term memory underlies the efficacy of concept mapping. We criticize that the texts to be learned in these studies were comparatively short. Moreover, participants had not been specifically trained in using concept mapping. Our project aims at examining the robustness of the findings reported above. With regard to biology education, we will devise an effective and evidence-based training in concept mapping. From a psychological perspective, the findings will give insight into the cognitive processes that underlie the efficacy of concept mapping as a learning strategy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1630</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1630">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1630/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1630" DMDID="DMD_biejournals_1630">
+            <mets:fptr FILEID="FILE0_biejournals_1630"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

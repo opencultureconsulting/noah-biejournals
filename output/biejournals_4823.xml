@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4823">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Spannende Insektenvielfalt im Totholz</title>
+                        <subTitle>Bedeutung von Totholz für überwinternde Laufkäfer und andere Insekten</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Amazing insect diversity in dead wood</title>
+                        <subTitle>The significance of dead wood for hibernating ground beetles and other insects</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Buse, Jörn</displayForm>
+                        <namePart type="family">Buse</namePart>
+                        <namePart type="given">Jörn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fritze, Michael-Andreas</displayForm>
+                        <namePart type="family">Fritze</namePart>
+                        <namePart type="given">Michael-Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wollik, Nikolai</displayForm>
+                        <namePart type="family">Wollik</namePart>
+                        <namePart type="given">Nikolai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Nutzung von Totholz als Überwinterungslebensraum durch viele fakultative Totholzbewohner ist der breiten Öffentlichkeit wenig bekannt. In diesem Beitrag werden Erkenntnisse der winterlichen Erfassung von Insekten im Totholz aus dem Gebiet des Nordschwarzwalds und der angrenzenden Rheinebene präsentiert. Die Funde zeigen, dass adulte Laufkäfer, Hummeln, Hornissen und Blattwespen regelmäßig im morschen Totholz überwintern. Anhand der in diesem Zusammenhang bedeutenden Gruppe der Laufkäfer werden ökologische Anpassungsmechanismen diskutiert. Neben Vorschlägen für eine Bearbeitung des Themas im schulischen Kontext der Primar- und Sekundarstufe wird auf die großen Wissenslücken und den Forschungsbedarf hingewiesen.</abstract>
+                    <abstract lang="eng">The fact that dead wood is used for hibernation by many facultative saproxylic organisms is litte known to the general public. We present results from winter surveys of insects in dead wood in the northern Black Forest region and the adjacent Rhine valley. Adult ground beetles, bumblebees, hornets, and sawflies are among the most frequent taxa overwintering in dead wood. Using ground beetles as a model group, we discuss ecological mechanisms of adaptation to winter conditions. We present suggestions for including this important topic in environmental education at both primary and secondary school level, where it can be worked on in a variety of ways. Finally, we identify knowledge gaps and the need for further research.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4823</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4823">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4823/4546" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4823" DMDID="DMD_biejournals_4823">
+            <mets:fptr FILEID="FILE0_biejournals_4823"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

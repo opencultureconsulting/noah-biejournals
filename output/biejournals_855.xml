@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_855">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>„Places of Remembrance“</title>
+                        <subTitle>Spaces for Historical and Political Literacy. A Lesson Report</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Offen, Susanne</displayForm>
+                        <namePart type="family">Offen</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The article shows the use of specific educational media in social studies in vocational schools to foster a differentiated historical and political literacy.
+Design/methodology/approach: Accordingly, the article examines a sequence of lessons taught by the author in a vocational classroom, fostering reflexive historical-political awareness of Germany’s post-war coping with the fascist constitution 1933-1945 and specifically of contemporary legal proceedings concerning the persecution and subsequent murder of six million Jewish people during the Holocaust.
+Findings: Teaching techniques comprise explorative learning through guided city walks, document analysis and expert visits, in-class-discussions, the&amp;nbsp; and individual student-teacher-conversations and, particularly, contact with exhibits employed as educational media, originating from an art exhibition in public space covering various unsettling steps of exclusion against Jewish citizens before 1942.
+These materials turn out to bridge the gap from ignorance to learning by the acquisition of knowledge, demonstrating the use of artistic visual representations as educational media in the social studies classroom, especially while addressing students with little prior knowledge and understanding.
+Research limitations/implications: As a lesson report, the article draws on classroom observations.
+Practical implications: The approach presented includes various implications for classroom application.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_855</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_855">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/855/970" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_855">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/855/971" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_855" DMDID="DMD_biejournals_855">
+            <mets:fptr FILEID="FILE0_biejournals_855"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_855" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_855"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

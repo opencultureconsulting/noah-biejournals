@@ -1,0 +1,104 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3354">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>„Heliosschulen – Inklusive Universitätsschulen der Stadt Köln“</title>
+                        <subTitle>Gründungsgeschichte und aktuelle Entwicklungsperspektiven</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hensel, Marion</displayForm>
+                        <namePart type="family">Hensel</namePart>
+                        <namePart type="given">Marion</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Niessen, Andreas</displayForm>
+                        <namePart type="family">Niessen</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Reuther, Ellen</displayForm>
+                        <namePart type="family">Reuther</namePart>
+                        <namePart type="given">Ellen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rosen, Lisa</displayForm>
+                        <namePart type="family">Rosen</namePart>
+                        <namePart type="given">Lisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sehnbruch, Lucia</displayForm>
+                        <namePart type="family">Sehnbruch</namePart>
+                        <namePart type="given">Lucia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Şengüler, Burak</displayForm>
+                        <namePart type="family">Şengüler</namePart>
+                        <namePart type="given">Burak</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weber, Birgit</displayForm>
+                        <namePart type="family">Weber</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Werker, Bünyamin</displayForm>
+                        <namePart type="family">Werker</namePart>
+                        <namePart type="given">Bünyamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Während zu dem Gründungskonzept der „Heliosschulen – Inklusive Universitätsschulen der Stadt Köln“ bereits vergleichsweise viele Publikationen insbesondere mit Blick auf Inklusion existieren (Reich, 2014, 2019; Reich, Asselhoven &amp;amp; Kargl, 2015), wollen wir in diesem Beitrag gewissermaßen einen Blick hinter die Kulissen werfen und weniger das pädagogische Konzept in den Vordergrund stellen, sondern die Entwicklung der Heliosschulen als Universitätsschulen. Zum einen werden wir die Gründungsgeschichte skizzieren und dazu auf ein zentrales Vorläuferprojekt an der Universität zu Köln eingehen. Zum anderen werden wir Meilensteine im Projektverlauf darstellen, wie den Spatenstich des Neubauvorhabens der Universitätsschule sowie aktuelle Initiativen der Wissenschaftlichen Leitung, die dazu dienen, die Universitätsschulen sowohl als Forschungsschulen als auch als Ausbildungsschulen zu konturieren.
+While there are already many publications on the founding concept of the &quot;Helios Schools – Inclusive University Schools of the City of Cologne&quot;, especially with regard to inclusion (Reich, 2014, 2018; Reich, Asselhoven &amp;amp; Kargl, 2015), in this article we want to take a look behind the scenes and focus less on the pedagogical concept and more on the development of the Helios Schools as university schools. On the one hand, we will outline the history of the founding of the Helios Schools and, in this context, we will look at a central predecessor project at the University of Cologne. On the other hand, we will present milestones in the course of the project, such as the ground-breaking for the construction of the new university schools and current initiatives of the scientific management, which serve to define the university schools both as research schools and as training schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3354</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3354">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3354/3502" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3354" DMDID="DMD_biejournals_3354">
+            <mets:fptr FILEID="FILE0_biejournals_3354"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1979">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Bielefelder Profil Forschenden Lernens im Fachgebiet Latein</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sauer, Jochen</displayForm>
+                        <namePart type="family">Sauer</namePart>
+                        <namePart type="given">Jochen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für die alten Sprachen stellt die empirische Forschung eine zentrale gegenwärtige Entwicklungsaufgabe dar. Gegenstände empirischer Forschung sind zunächst die facheigenen Ziele lateinischer Sprach-, Literatur- und Kulturkompetenz, die Sprachbildung im Deutschen und die historische Kommunikation. Zudem werden auch die Transferwirkungen des Lateinunterrichts auf Bildungsziele anderer Fächer, wie etwa die der neuen Fremdsprachen, Geschichte oder Philosophie, erforscht. Um diese Entwicklung voranzutreiben, kommt empirisch angelegten Studienprojekten, wie sie etwa im Bielefelder Praxissemester durch-geführt werden, eine wichtige Schrittmacherfunktion zu, da sie einen Beitrag zur Professionalisierung zukünftiger empirischer Forscher*innen leisten. Forschendes Lernen in den alten Sprachen umfasst grundsätzlich jedoch auch den Bereich der Hermeneutik, in dem das Fach auf eine lange Tradition zurückblickt. Dem Forschenden Lernen im Bereich hermeneutischer Problemstellungen wird auch weiterhin eine große Bedeutung zukommen. Die Besonderheit des Faches (und gleichzeitig die Herausforderung für die Lehramtsausbildung in diesem Fach) liegt nicht zuletzt darin, sowohl hermeneutisch als auch empirisch angelegtes Forschendes Lernen zum Gegenstand universitärer Lehramtsausbildung zu machen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1979</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1979">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1979/3339" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1979" DMDID="DMD_biejournals_1979">
+            <mets:fptr FILEID="FILE0_biejournals_1979"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

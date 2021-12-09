@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2132">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Habitusanalyse&quot; - ein Instrument des sozialwissenschaftliehen Verstehens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Finke-Hoppmann, Doris</displayForm>
+                        <namePart type="family">Finke-Hoppmann</namePart>
+                        <namePart type="given">Doris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Bereich des methodischen und wissenschaftlichen Verstehens von Einzelfällen werden im Bereich der Supervision und Beratung zunehmend die Arbeiten des französischen Soziologen Piene Bourdieu herangezogen. Mit seinem Konzept des Habitus legte Bourdieu die theoretischen Grundlagen dafür, wie Probleme des Behanens und des sich nicht verändern Könnens neben dem Wiederholungszwang ebenfalls wissenschaftlich zu erklären sind. Gleichzeitig ist der Habitus in der Interaktion mit Ratsuchenden und Supervisanden verhandelbar und ebenfalls aufzuklären. Vor allem im Zusammenhang mit beruflichen Banieren, Integrationsproblemen und Problemen der sozialen Isolation im Team, also Berufsproblemen, die nicht fachlich bedingt sind, haben sich Habitusanalysen als wichtiges Instrument soziologischer Aufklärung in Supervisionsprozessen erwiesen. Der nun folgende Beitrag erklärt zunächst das Konzept Habitus von Piene Bourdieu und zeigt am Beispiel einer jungen Frau in der Erzieherinnenausbildung auf, wie sich berufliche Probleme schon in der Ausbildung andeuten und wie diese sich als Ausdruck eines lebensgeschichtlich erworbenen Habitus verfestigen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2132</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2132">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2132/1999" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2132" DMDID="DMD_biejournals_2132">
+            <mets:fptr FILEID="FILE0_biejournals_2132"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

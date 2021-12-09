@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_761">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Students’ Pathways Across Local, National and Supra-National Borders</title>
+                        <subTitle>Representations of a Globalized World in a Francophone Minority School in Ontario, Canada</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Farmer, Diane</displayForm>
+                        <namePart type="family">Farmer</namePart>
+                        <namePart type="given">Diane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cepin, Jeanette</displayForm>
+                        <namePart type="family">Cepin</namePart>
+                        <namePart type="given">Jeanette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Breton-Carbonneau, Gabrielle</displayForm>
+                        <namePart type="family">Breton-Carbonneau</namePart>
+                        <namePart type="given">Gabrielle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Informed by anthropology of childhood and youth, this paper examines how elementary students make sense of their diverse trajectories in an expanding culture of spatial, virtual and linguistic mobility (Farmer, 2012). Drawing on data collected in one francophone minority school in Ontario, Canada, we discuss students’ representations of a “globalized world” as they co-construct with peers and teachers the multiple meanings associated with mobility, citizenship and nationhood.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_761</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_761">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/761/829" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_761" DMDID="DMD_biejournals_761">
+            <mets:fptr FILEID="FILE0_biejournals_761"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

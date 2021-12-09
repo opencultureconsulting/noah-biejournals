@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_979">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Postcolonial Historiography in the Essay Film</title>
+                        <subTitle>&gt;De-Colonizing&lt; Sound and Image</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seider, Tanja</displayForm>
+                        <namePart type="family">Seider</namePart>
+                        <namePart type="given">Tanja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-07-23</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Documentary films that are based on audio and visual recordings made in the era of colonialism face the problem of ‘de-colonizing’ the material. That is to say, how can such material be used without reproducing its stereotypical portrayal of the colonized?This work discusses an intriguing approach to this problem that was applied in a recent essay film, The Halfmoon Files (Scheffner 2007). An essay film is a form of documentary film that contains the filmmaker’s personal commentary on the subject, and often blends fiction and experimental filmmaking with a traditional documentary style. Based on the analysis of The Halfmoon Files, the present work discusses possibilities of the essay film to apply a postcolonial approach to audio/visual material that was produced in colonialist times.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_979</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_979">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/979/1087" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_979" DMDID="DMD_biejournals_979">
+            <mets:fptr FILEID="FILE0_biejournals_979"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

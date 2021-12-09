@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3377">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Neue Wege in die Biologie“ – eine moderne Ergänzung für jeden Biologieunterricht</title>
+                        <subTitle>Eine Rezension zu der gleichnamigen Buchreihe von Ulrich Kattmann</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmäing, Till</displayForm>
+                        <namePart type="family">Schmäing</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel, Annkathrin</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Annkathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nolding, Jana</displayForm>
+                        <namePart type="family">Nolding</namePart>
+                        <namePart type="given">Jana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Mit der Buchreihe „Neue Wege in die Biologie“ gelingt es Ulrich Kattmann auf besondere Weiseunterschiedliche fachspezifische und allgemeine Herausforderungen an moderne Lehrmaterialienvor einem fachdidaktischen Hintergrund mittels innovativer Ansätze zu lösen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3377</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3377">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3377/3540" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3377" DMDID="DMD_biejournals_3377">
+            <mets:fptr FILEID="FILE0_biejournals_3377"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

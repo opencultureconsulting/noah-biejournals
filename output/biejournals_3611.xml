@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3611">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kompetenzentwicklung im Praxissemester</title>
+                        <subTitle>Anspruch und Wirklichkeit im Fach Geschichte im empirischen Vergleich</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Must, Thomas</displayForm>
+                        <namePart type="family">Must</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Etablierung des Praxissemesters in der universitären Lehrer*innenbildung wird hinsichtlich der postulierten positiven Effekte auf die Kompetenzentwicklung der Studierenden kritisch diskutiert. Empirische Studien konnten bisher zu keiner einhelligen Bewertung führen. Neben dem schulischen Kontext ist es vor allem die universitäre Begleitung in Form von Seminaren und dazugehörigen Betreuungspersonen, die solche Praxisphasen rahmt. Hierfür liegen allerdings noch keine ausreichenden Befunde – insbesondere fachspezifisch – vor, um die Bedeutung dieser Begleitung für die praktischen Erfahrungen in der Schule herauszustellen. Das will der folgende Beitrag mit einem Fokus auf das Fach Geschichte an der Universität Bielefeld empirisch untersuchen. Mithilfe von Resultaten zweier Testreihen einer Prä-Post-Studie (n=44/37) soll geklärt werden, inwieweit Erwartungen der Lehrer*innenbildung an das Praxissemester erfüllt werden und welche Rolle vorbereitende und begleitende Veranstaltungen an der Universität dabei spielen (können). Dafür werden das Forschungsdesign und Ergebnisse, die den Seminaren nur eine bedingte Auswirkung auf die Lernprogression der Studierenden bezeugen, vorgestellt und diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3611</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3611">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3611/3706" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3611" DMDID="DMD_biejournals_3611">
+            <mets:fptr FILEID="FILE0_biejournals_3611"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

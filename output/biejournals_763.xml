@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_763">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What’s Wrong With Secondary School Economics and How Teachers Can Make it Right - Methodological Critique and Pedagogical Possibilities</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brant, Jacek Wiktor</displayForm>
+                        <namePart type="family">Brant</namePart>
+                        <namePart type="given">Jacek Wiktor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In the wake of current world financial crisis serious efforts are being made to rethink the dominant economic assumptions. There is a growing movement in universities to make economics more relevant and to embrace an understanding of diverse models. Additionally, philosophical schools such as critical realism have provided new tools for thinking about economics. However, not much attention has been paid to relate these developments to school economics and this paper aims to respond to this need. It is about economics as a discipline, school economics and issues pertaining to the teaching and learning of school economics. Mainstream economists focus predominately on static neo-classical models that are poor predictors of the future and do not even adequately explain current states of affairs. I argue that conceptualised differently, economics can be seen as a social science, concerned with understanding the often conflicting values, interests, and capacities of large numbers of individuals operating within the constraints of limited resources. In line with this orientation, I recommend that economics teachers start engaging in exploring the purpose of economics and adopt an interactive pedagogy that seeks to explain the world in which we live. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_763</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_763">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/763/831" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_763">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/763/832" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_763" DMDID="DMD_biejournals_763">
+            <mets:fptr FILEID="FILE0_biejournals_763"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_763" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_763"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

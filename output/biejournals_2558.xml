@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2558">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Reflexion über praktische Lerngelegenheiten</title>
+                        <subTitle>reflexionsbezogene Tätigkeiten angehender Lehrpersonen in universitären und außeruniversitären Praxisphasen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>On reflection about opportunities to learn in field experience</title>
+                        <subTitle>Student teachers‘ reflection related activities in university und non-university practical situations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Doll, Jörg</displayForm>
+                        <namePart type="family">Doll</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jentsch, Armin</displayForm>
+                        <namePart type="family">Jentsch</namePart>
+                        <namePart type="given">Armin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meyer, Dennis</displayForm>
+                        <namePart type="family">Meyer</namePart>
+                        <namePart type="given">Dennis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaiser, Gabriele</displayForm>
+                        <namePart type="family">Kaiser</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>König, Johannes</displayForm>
+                        <namePart type="family">König</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die vorliegende Studie untersucht die Häufigkeit, mit der Lehramtsstudierende in curricular verankerten Schulpraktika und in selbstinitiierten außeruniversitären Praxisphasen reflektierten. Die Häufigkeit des Reflektierens wurde bei n = 383 Bachelor- und n = 418 Masterstudierenden durch Selbsteinschätzungen auf zwei reflexionsbezogenen Tätigkeitsdimensionen gemessen: der „Theoriebezugs“ und der „analytisch-reflexiven Situationsbearbeitung“. Hypothesenkonform zeigte sich, dass im Masterpraktikum häufiger reflektiert wurde als im Bachelorpraktikum und dass in curricular verankerten Schulpraktika häufiger reflektiert wurde als in außeruniversitären Praxisphasen. Die Berücksichtigung des Studienganges als Bedingungsfaktor ergab, dass angehende Lehrpersonen an beruflichen Schulen in Schulpraktika seltener reflektierten als angehende Lehrpersonen an allgemeinbildenden Schulen. Die Schwierigkeit bei der Theorieanwendung und beim Reflektieren in Praxisphasen wird mit den Annahmen eines Expertiseentwicklungsmodells erklärt.</abstract>
+                    <abstract lang="eng">This study examines the frequency with which student teachers reflected in curricular embedded practical phases and in self-initiated non-university practical phases. n = 383 Bachelor&apos;s and n = 418 Master&apos;s students participated in the study. They judged their reflection frequencies on two reflection-related activity dimensions: the &quot;application of theory&quot; and the &quot;analytical-reflective treatment of situations&quot;. Supporting the hypotheses, it was shown that students in the Master&apos;s internship reflected more frequently than in the Bachelor&apos;s internship and that students in curricular embedded practical phases reflected more frequently than in non-university practical phases. The consideration of the programme as an influencing factor showed that prospective teachers at vocational schools reflected less frequently in field experience than prospective teachers at general schools. The difficulty in applying theory and reflecting in practical phases is explained by the assumptions of an expertise development model.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2558</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2558">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2558/3358" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2558" DMDID="DMD_biejournals_2558">
+            <mets:fptr FILEID="FILE0_biejournals_2558"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

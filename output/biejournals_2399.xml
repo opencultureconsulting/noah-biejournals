@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2399">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anforderungen und Rahmenbedingungen an die Entwicklung einer geeigneten Forschungsfrage für das Praxissemester Sachunterricht</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Challenges in Developing Subject-specific Research Projects</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reh, Anne</displayForm>
+                        <namePart type="family">Reh</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tepe, Anna</displayForm>
+                        <namePart type="family">Tepe</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein wesentliches Element bei der Entwicklung eines professionellen Lehrerhandelns stellt im Rahmen des Praxissemesters die Verankerung des Forschenden Lernens dar (LK, 2011). Das professionelle Handeln beinhaltet hier die Fähigkeit zur Diagnostik, Reflexion des eigenen Handelns und Entwicklung theoriegeleiteter, auf praktischen Erfahrungen basierender Fragestellungen, die durch das Forschende Lernen im Praxissemester geschult werden sollen. Für das Fach Sachunterricht ergeben sich bei der Umsetzung des Forschenden Lernens im Rahmen des Praxissemesters wie für andere Fächer fachspezifische Herausforderungen. Ziel sollte es sein, dass Studierende fachdidaktische Schlüsselprobleme identifizieren können, die im Forschungsprojekt später gewinnbringend untersucht und reflektiert werden können. Ein essenzielles Gelingenskriterium ist dabei das Finden einer geeigneten Forschungsfrage. Im Folgenden werden unter Rückgriff auf das Verständnis von Forschendem Lernen im Praxissemester Sachunterricht, auf den „Qualitätsrahmen Lehrerbildung Sachunterricht“ sowie auf das sachunterrichtliche Fachverständnis Kriterien einer guten Forschungsfrage für den Sachunterricht abgeleitet und in einer Checkliste zusammengetragen. Es werden Kriterien definiert, die bei der Formulierung einer Forschungsfrage im Sachunterricht für das Studienprojekt im Praxissemester berücksichtigt werden sollten und die zeigen, welchen Herausforderungen sich Studierende und Lehrende stellen müssen.</abstract>
+                    <abstract lang="eng">Within the model of the “Praxissemester” [practical semester] at&amp;nbsp;Bielefeld University, explorative learning is included as a basic element for the development of a teaching profession. Professional action involves the ability of diagnostic analysis, reflection on personal growth, and the development of questions through theory as well as practical experiences. Explorative learning during the “Praxissemester” aims at improving these skills. For the subject “Sachunterricht” [lower social and scientific studies] specific challenges result from the implementation of explorative learning. How these challenges are met in the respective context of a seminar is of major importance, since it plays an essential role in the ability of students to identify didactical key problems that can be analysed and evaluated in research projects. A crucial element here is the finding of a suitable research question. Subsequently, criteria of valuable research questions are developed and collated in a check list. Furthermore, challenges and problems of suitable research questions are discussed and an approach on how to deal with these challenges in the context of a supporting seminar is presented.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2399</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2399">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2399/2395" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2399" DMDID="DMD_biejournals_2399">
+            <mets:fptr FILEID="FILE0_biejournals_2399"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

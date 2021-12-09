@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2857">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Perceptions of Everyday Interpersonal Discrimination among Young Men of Turkish Background in Cologne</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hartmann, Henrik</displayForm>
+                        <namePart type="family">Hartmann</namePart>
+                        <namePart type="given">Henrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This small-scale, qualitative study examines how five young male second-generation Turkish immigrants perceive racial discrimination by ethnic Germans and to what extent this perception influences their collective identities. The typology of interactional patterns the interviewees describe as racial discrimination has four elements: a perception of distrust, a distancing gaze, denial of belonging and rule enforcement by members of the German majority. The interviewees, particularly those who are highly educated and socially mobile, identify with a common Ausländer (foreigner) identity in response to experiences of discrimination. This identity is regarded a shared identity marker by immigrants of different backgrounds. It appears as a positive and affirmative identity of difference, which creates a unique type of social capital.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2857</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2857">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2857/pdf_42" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2857">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2857/2656" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2857" DMDID="DMD_biejournals_2857">
+            <mets:fptr FILEID="FILE0_biejournals_2857"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2857" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2857"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

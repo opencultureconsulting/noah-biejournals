@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_528">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Political Perspectives in the Classroom. Results of Video Analyses in History and Civic Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Buergler, Beatrice</displayForm>
+                        <namePart type="family">Buergler</namePart>
+                        <namePart type="given">Beatrice</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hodel, Jan</displayForm>
+                        <namePart type="family">Hodel</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Civic education is not taught as a separate subject at Swiss schools. In this context, it is of great interest to look for specific characteristics of how civic education can be observed as a cross-disciplinary subject in schools through video recordings. The empirical analysis is based on classroom observation in ninth grade classes in various Swiss cantons (Aargau, Bern, and Zurich) from 2003 to 2007. Criteria that allow the identification of elements of civic education in various school subjects are developed, the concept of “political perspective”. The analysis provides useful hints for planning and running classes where civic education is used as an overarching, cross-disciplinary approach. The concept of “political perspective” should not be taken as substitute for institutional knowledge. But the concept can rise above the function of an analytical tool and become a tool that serves the planning and designing of lessons. The perspective could as such be related to the postulate for epistemological knowledge.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_528</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_528">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/528/525" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_528" DMDID="DMD_biejournals_528">
+            <mets:fptr FILEID="FILE0_biejournals_528"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

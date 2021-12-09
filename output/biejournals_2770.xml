@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2770">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Deprivation, Violence, and Conflict</title>
+                        <subTitle>An Analysis of Naxalite Activity in the Districts of India</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Borooah, Vani K.</displayForm>
+                        <namePart type="family">Borooah</namePart>
+                        <namePart type="given">Vani K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper asks: is it a fact that there is more violence in districts affected by Naxalite (Maoist) activity compared to those which are free of Naxalite activity? And can the existence of Naxalite activity in some districts of India, but not in others, be explained by differences in economic and social conditions? This study identifies districts in India in which there was significant Naxalite activity and correlating the findings with district-level economic, social, and crime indicators. The econometric results show that, after controlling for other variables, Naxalite activity in a district had, if anything, a dampening effect on its level of violent crime and crimes against women. Furthermore, even after controlling for other variables, the probability of a district being Naxalite- affected rose with an increase in its poverty rate and fell with a rise in its literacy rate. So, one prong in an anti-Naxalite strategy would be to address the twin issues of poverty and illiteracy in India.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2770</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2770">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2770/2531" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2770" DMDID="DMD_biejournals_2770">
+            <mets:fptr FILEID="FILE0_biejournals_2770"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

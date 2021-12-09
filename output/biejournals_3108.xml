@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3108">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Piecing Together Past and Present in Bhutan</title>
+                        <subTitle>Narration, Silence and Forgetting in Conflict</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Christensen, Line Kikkenborg</displayForm>
+                        <namePart type="family">Christensen</namePart>
+                        <namePart type="given">Line Kikkenborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-28</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">What happens when conflict is silenced in official narratives but not forgotten among a population? This article explores this question using interview data from anthropological fieldwork in Bhutan. In Bhutan, the ethnic conflict of the early 1990s is surrounded by silence and is not openly discussed. Despite this silence, young Bhutanese have formed a multiplicity of narratives about the conflict. The article highlights three different narratives of conflict, as well as the oblivion found among informants. The main argument is that the silence surrounding the conflict in Bhutan has contributed to two forms of societal rift: between the authorities and the people, and between people themselves. The article contributes to the discussion about what role social memories play in conflicts, by suggesting that silence may cause wariness and hinder processes that help societies to move past conflict in a constructive way.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3108</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3108">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3108/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3108" DMDID="DMD_biejournals_3108">
+            <mets:fptr FILEID="FILE0_biejournals_3108"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

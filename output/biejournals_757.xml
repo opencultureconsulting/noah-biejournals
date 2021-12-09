@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_757">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Raising Citizens</title>
+                        <subTitle>Parenting Education Classes and Somali Mothers’ Experiences of Childrearing in Canada</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fellin, Melissa</displayForm>
+                        <namePart type="family">Fellin</namePart>
+                        <namePart type="given">Melissa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Mothers are viewed as the people who are raising future citizens of Canada; therefore, their parenting practices are being targeted for intervention by civic organizations funded by the state. In this article, I argue that modernity narratives and neoliberalism approaches to mothering inform parenting education classes for Somali refugee women to Canada. Thus, Somali women are often seen as victims. Stereotyped identities conceal their social and historical agency. This research draws on 15 individual interviews with Somali mothers and participant- observation in two parenting education classes in Canada. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_757</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_757">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/757/824" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_757" DMDID="DMD_biejournals_757">
+            <mets:fptr FILEID="FILE0_biejournals_757"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

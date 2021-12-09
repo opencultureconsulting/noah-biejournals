@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3086">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of Russian Intervention in Post-Soviet Secessionist Conflict in the South Caucasus on Russian Geo-energy Interests</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Peña-Ramos, José A.</displayForm>
+                        <namePart type="family">Peña-Ramos</namePart>
+                        <namePart type="given">José A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The dismemberment of the Soviet Union prompted a very unstable decade of decline for Russia, and generated numerous conflicts in the post-Soviet space. Russia regained influence at global and, chiefly, regional level from 2000, after Vladimir Putin became president and the price of hydrocarbons rose. Arguably, energy policy played an essential role. The South Caucasus, where three secessionist conflicts took place, leading to Russian political, diplomatic and military intervention, was crucial for the Russian geo-energy interests. This article examines and discusses the impact of intervention on Russian geo-energy interests, in particular since Putin came to power. The working hypothesis proposes that Russia’s involvement in the three secessionist conflicts in the South Caucasus has considerably benefited the many Russian geo-energy interests.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3086</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3086">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3086/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3086">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3086/3132" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3086" DMDID="DMD_biejournals_3086">
+            <mets:fptr FILEID="FILE0_biejournals_3086"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3086" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3086"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1004">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>And protect us from the market. Organized labor and the demand to shorten the workday of women in the 1860s and 1870s</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reick, Philipp</displayForm>
+                        <namePart type="family">Reick</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Drawing on the current re-evaluation of Karl Polanyi’s Great Transformation, this article argues that opposition to the commodification of labor has been a central yet strikingly understudied element in the making of a trans-Atlantic working class in the second half of the nineteenth century. The movement to shorten the workday that emerged in the 1860s in fact constitutes a prime example of what Polanyi has called a movement for social protection. Yet an analysis of the respective rationales that undergirded demands for shorter hours for men and for women shows that gendered struggles for protection drew upon very different argumentations. While early social-democrats and labor reformers opposed the unregulated commodification of male labor as a violation of their political, economic, and social rights, demands for the de-commodification of female wage labor regularly denied women those very rights. Rather than paving the way for equal protection of working men and women, the gendered distinction of protective demands such as shorter hours impeded discussions about the equal participation of women in society, economy, and polity. As a consequence, Polanyi’s movement for social protection posed a serious challenge to female emancipation</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1004</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1004">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1004/1112" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1004" DMDID="DMD_biejournals_1004">
+            <mets:fptr FILEID="FILE0_biejournals_1004"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

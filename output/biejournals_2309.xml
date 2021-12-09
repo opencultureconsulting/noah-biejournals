@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2309">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexives Denken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dumpe, Anna</displayForm>
+                        <namePart type="family">Dumpe</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Artikel untersucht den Zusammenhang von Denken und Reflexion aus einer beratungs- und sozialwissenschaftlichen Perspektive.Â&amp;nbsp;
+Wichtige Vertreter in der sozialwissenschaftlichen Denktradition sind der Sozialphilosoph John Dewey, der Soziologe Pierre Bourdieu und der Psychoanalytiker Wilfred Bion. Während Dewey vor allem das &quot;Durchdenken&quot;, im Sinne eines auf die Wahrnehmung bezogenen logischen Durchdenkens und &quot;Zu-Ende-Denkens&quot;, als reflexives Denken beschreibt, wird nach Bourdieu das reflexive Denken vor allem durch den Bruch mit den Routinen ermöglicht. Wenn sich reflexives Denken an die Grenzen der eigenen Wahrnehmungsfähigkeit herantraut, ist dieser Prozess oft mit Angst besetzt und die Grenzen sind mit Projektionen und Übertragungen besiedelt. Um ein freies Denken zu ermöglichen, bedarf es nach Bion deshalb eines besonderen Beziehungs- und Entwicklungsraums, in dem wir uns wohlfühlen und so angstfrei in neue Richtungen denken können. Diesen Entwicklungsraum angstfreien Denkens beschreibt Bion in seinem Konzept des Containings.Â&amp;nbsp;
+In diesem Artikel wird der Versuch unternommen, aus den drei Denktheorien eine Gestalt zu entwickeln, die als Grundlage supervisorischer Arbeit dienen kann. Im Rahmen eines Fallbeispiels wird im Anschluss skizzenhaft ein supervisorischer Prozess vor dem Hintergrund der drei Denktheorien beleuchtet.Â&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2309</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2309">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2309/2291" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2309" DMDID="DMD_biejournals_2309">
+            <mets:fptr FILEID="FILE0_biejournals_2309"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_224">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Wissenschaftliche Weiterbildung in der digitalen Welt – Annäherung an die Arbeitswelt 4.0“ Bericht zur Frühjahrstagung der Arbeitsgemeinschaft der Einrichtungen für Weiterbildung an Hochschulen (AG-E). 18. bis 19. Mai 2017 an der Leibniz Universität Hannover</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bastian, Michael</displayForm>
+                        <namePart type="family">Bastian</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bauhofer, Christine</displayForm>
+                        <namePart type="family">Bauhofer</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_224</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_224">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/224/226" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_224" DMDID="DMD_biejournals_224">
+            <mets:fptr FILEID="FILE0_biejournals_224"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

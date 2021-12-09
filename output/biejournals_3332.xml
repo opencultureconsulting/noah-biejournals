@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3332">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Universitätsausdehnungsbewegung als Vorläufer der wissenschaftlichen Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schäfer, Erich</displayForm>
+                        <namePart type="family">Schäfer</namePart>
+                        <namePart type="given">Erich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">IIn der Weimarer Reichsverfassung von 1919 erhält die Volksbildung erstmals in der deutschen Geschichte Verfassungsrang. Dieses Jahr gilt als ein Kristallisationspunkt für die Institutionalisierung der Volkshochschule moderner Prägung in öffentlicher Verantwortung. Fast ein halbes Jahrhundert später findet im Januar 1968 an der Universität Göttingen die erste Jahresversammlung des Arbeitskreises Universitäre Erwachsenenbildung (AUE) zum Thema „Universität und Erwachsenenbildung“ statt. Am 3. Oktober 1970 wird im Rahmen der 3. AUE-Jahrestagung an der Technischen Universität Hannover die erste Mitgliederversammlung abgehalten, eine Satzung beraten und verabschiedet (Dikau, Nerlich &amp;amp; Schäfer, 1996; Hörr, 2017). Im Jahr 2001 wird aus dem AUE die „Deutsche Gesellschaft für wissenschaftliche Weiterbildung und Fernstudium (DGWF)“. Beide Ereignisse,die Gründung der Volkshochschulen und die des AUE haben eine gemeinsame historische Wurzel, die Universitätsausdehnungsbewegung (Filla, 2006; Schäfer, 1988). Diese gilt es im Folgenden in ihrer Entstehung und Entwicklung sowie ihren zentralen Merkmalen vorzustellen. Zunächst wird auf die deutschen Professorenvereinigungen, die den geistigen Boden für die Universitätsausdehnungsbewegung bereiten,kurz eingegangen, bevor die englische University-Extension und sodann die Universitätsausdehnungsbewegung in Deutschland und Österreich in ihrer Genese thematisiert werden. Anschließend werden ausgewählte Aspekte der Universitätsausdehnungsbewegung analysiert: die methodischdidaktischen Kennzeichen, die erwachsenenbildnerische Befähigung der Lehrenden und das Engagement der Lernenden, die Kurs- und Besucherzahlen, die Sozialstruktur der Hörer*innenschaft sowie die Finanzierung der volkstümlichen Hochschulkurse. Abschließend wird der Blick auf den Anspruch, durch die Kurse zu einer Popularisierung der Wissenschaft beizutragen, sowie die Utilitätsbestrebungen der Hörer*innen gerichtet, bevor ein Resümee gezogen wird.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3332</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3332">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3332/3614" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3332" DMDID="DMD_biejournals_3332">
+            <mets:fptr FILEID="FILE0_biejournals_3332"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

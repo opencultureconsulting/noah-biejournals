@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_375">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Human Rights Education and Curricular Reform in South Africa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Keet , Andre</displayForm>
+                        <namePart type="family">Keet </namePart>
+                        <namePart type="given">Andre</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Carrim, Nazir</displayForm>
+                        <namePart type="family">Carrim</namePart>
+                        <namePart type="given">Nazir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In this paper we chronicle the development of Human Rights Education (HRE) in South Africa within contemporary structures and processes of curricular reform in the country. We argue that human rights have been constituted as a discursive regime within education that traverses all education policy texts: laws, white papers, guidelines, recommendations and regulations. As such it has found a distinct expression in the new schools&apos; curricula for General Education and Training (GET) and Further Education and Training (FET). We explore the history, processes and structures related to the infusion of human rights into the curriculum in two ways. First, the codification of HRE in the curricula is a product of a continuity and discontinuity with the anti-apartheid struggle for social justice and resistance to apartheid education. Second, the centrality of HRE in the curricula in South Africa is driven by a compliance-approach aimed at meeting an array of international obligations as far as HRE is concerned. In this compliance with global directives HRE in educational policy texts become political symbolic articulations that derive its &apos;logic&apos; in large measure from the human rights language that is constructed within the systems of the United Nations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_375</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_375">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/375/372" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_375" DMDID="DMD_biejournals_375">
+            <mets:fptr FILEID="FILE0_biejournals_375"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3748">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Anforderungen an die stakeholder in Hochschulweiterbildung und beruf</title>
+                        <subTitle>Ergebnisse einer befragung von zwei gruppen berufsbegleitend studierender</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bärtele, Stefanie</displayForm>
+                        <namePart type="family">Bärtele</namePart>
+                        <namePart type="given">Stefanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröger, Gabriele</displayForm>
+                        <namePart type="family">Gröger</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Deimann, Markus</displayForm>
+                        <namePart type="family">Deimann</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vor dem Hintergrund bildungspolitischer Entwicklungenund entlang von rapiden Veränderungen in Technologie undArbeitswelt entstehen immer zahlreichere berufsbegleitendeStudienangebote. Diese sind häufig als Fernstudiengängeangelegt und im Blended Learning-Format, seltener als reineE-Learning-Veranstaltungen, konzipiert. Die zunehmendflexibilisierten Kursangebote verlangen von den Teilnehmenden(TN) ein hohes Maß an Organisation um berufliche undprivate Verpflichtungen mit dem Studium zu vereinbaren.Neben dem Einsatz individueller volitionaler Lernstrategienwerden auch kooperative Lernstrategien als zielführend betrachtet,um Probleme wie Drop-out und soziale Isolation derTN vor allem bei Angeboten im Fernstudium zu reduzierenund in der Folge die Durchführung der Bildungsmaßnahmezu gewährleisten. Entlang der hier vorgestellten Umfragewurde der Frage nachgegangen, inwieweit TN aus zweiGruppen berufsbegleitend Fernstudierender an der UniversitätUlm und an der Fernuniversität Hagen bereits individuellevolitionale und/oder kooperative Strategien für ihrenLernprozess nutzen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3748</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3748">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3748/3808" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3748" DMDID="DMD_biejournals_3748">
+            <mets:fptr FILEID="FILE0_biejournals_3748"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

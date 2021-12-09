@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2351">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gunel, Elvan (2018)</title>
+                        <subTitle>Controversial Issues in Social Studies Education in Turkey. The Contemporary Debates. Information Age Publishing, ISBN 978-1-64113-305-0, 35,56 €</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Gunel, Elvan (2018)</title>
+                        <subTitle>Controversial Issues in Social Studies Education in Turkey. The Contemporary Debates. Information Age Publishing, ISBN 978-1-64113-305-0, 35,56 €</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Demirhan, Sina Aylin</displayForm>
+                        <namePart type="family">Demirhan</namePart>
+                        <namePart type="given">Sina Aylin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-30</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2351</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2351">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/2351/2364" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2351" DMDID="DMD_biejournals_2351">
+            <mets:fptr FILEID="FILE0_biejournals_2351"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

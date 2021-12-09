@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3906">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beherztes körperliches Eingreifen und der Wert von Berührung im schulischen Kontext</title>
+                        <subTitle>Antworten aus einem Workshopangebot zu Handlungsoptionen vor, während und nach der Pandemie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siebert, Matthias</displayForm>
+                        <namePart type="family">Siebert</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Corona-Pandemie rückt Themen ins Bewusstsein und eröffnet neue Dimensionen. Dies gilt auch für das Phänomen der Berührung im schulischen Kontext. Seit 2013 wird ein auf persönlichen Erfahrungen aufbauender Workshop angeboten, der pädagogischen Fachkräften Handlungssicherheit für den Umgang mit Lernenden bieten soll. Durch verschiedene Perspektiven wird verdeutlicht, dass es ein generelles Berührungsverbot im schulischen Kontext nicht geben kann. Es gibt verschiedene Berührungssituationen im Kontext von Schule, die differenziert betrachtet werden sollten. Berührung ist verboten, unpassend, grenzüberschreitend, haltgebend, unterstützend, förderlich, notwendig, erforderlich, unausweichlich und/oder vorgeschrieben. Die Sensibilisierung für dieses Thema ermöglicht Handlungspotenziale, die zu einer professionellen Beziehungsgestaltung und Persönlichkeitsentwicklung von Schüler*innen beitragen können. Insbesondere nach der Corona-Pandemie wird es wichtig sein, Berührung ohne Angst, sich oder andere anzustecken, erlebbar zu machen. Schule kann zu einer gesellschaftlichen Krisenbewältigung ihren Beitrag leisten. Lernen auf Distanz und die notwendigen Digitalisierungsbestrebungen müssen den Wert der körperlichen Präsenz für Lernen und Beziehung berücksichtigen – auch, um etwas gegen eine drohende Berührungsarmut, Vereinzelung, Entmenschlichung und Einsamkeit zu unternehmen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3906</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3906">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3906/3970" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3906" DMDID="DMD_biejournals_3906">
+            <mets:fptr FILEID="FILE0_biejournals_3906"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

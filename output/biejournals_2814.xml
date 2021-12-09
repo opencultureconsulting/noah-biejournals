@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2814">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Holocaust or Benevolent Paternalism? Intergenerational Comparisons on Collective Memories and Emotions about Belgium&apos;s Colonial Past</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Licata, Laurent</displayForm>
+                        <namePart type="family">Licata</namePart>
+                        <namePart type="given">Laurent</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klein, Olivier</displayForm>
+                        <namePart type="family">Klein</namePart>
+                        <namePart type="given">Olivier</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-04-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">After publication of Adam Hochschild&apos;s King Leopold&apos;s Ghost in 1998, asserting that King Leopold II had been responsible for a &quot;holocaust&quot; in the Congo and the heated public debate this provoked, we set out to study Belgian people&apos;s reactions to these accusations. In two studies we compared collective memories of and emotions associated with Belgium&apos;s colonial action in the Congo in different generations. Results show higher levels of collective guilt and support for reparative actions among young adults than among older generations. This difference can be explained either by referring to the different ideological backgrounds in which different generations were socialized, as evidenced by stark differences in collective memories of colonialism, or by referring to the influence of national identification. Indeed, people could adapt their representations of colonialism in order to avoid experiencing a social identity threat. However, evidence for the identity-protecting functions of collective memories and collective emotions was only found in the older generations: young people held negative representations of colonialism independently of their level of national identification. We refer to the normative dimension of collective guilt to interpret these results.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2814</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2814">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2814/pdf_15" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2814" DMDID="DMD_biejournals_2814">
+            <mets:fptr FILEID="FILE0_biejournals_2814"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

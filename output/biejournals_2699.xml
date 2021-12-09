@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2699">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Educational Reconstruction as a Model for Designing Science Teaching at University</title>
+                        <subTitle>Insights from a Massive Open Online Course for Early Career Science Instructors</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Petchey, Sara Elizabeth</displayForm>
+                        <namePart type="family">Petchey</namePart>
+                        <namePart type="given">Sara Elizabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Niebert, Kai</displayForm>
+                        <namePart type="family">Niebert</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dropout rates for university students in STEM fields are high, and students often cite poor teaching as contributing factor. Improving the teaching skills of university science instructors needs a different approach from school-teacher training, as university instructors often have different career goals and different views of the role of students in learning. In this paper, we present “Teaching Science at University,” a professional development course focused on developing pedagogical content knowledge (PCK) and grounded in the Model of Educational Reconstruction (MER) as a framework for the design of teaching interventions. Course participants are early career scientists (PhD researchers to tenure-track professors) with expertise in their scientific field, but little educational training. They start the course with sophisticated content knowledge (CK), and through the course, they gain content- and audience-specific pedagogical techniques (PCK). To assess the effects of the course, we analyzed participants’ assignments (n=63) and pre- and post-course surveys (n=100, 54). We found that participants demonstrated increased valuing of student-centered teaching, especially the consideration of students’ prior knowledge. We found participants were not only able to build conceptual change interventions specific to their learners’ levels of knowledge, but that they also expressed appreciation for the structure that the MER provided to the design of teaching and its role in emphasizing student conceptions. We conclude that PCK-based teaching training should have a role in improving instruction in higher education. We also conclude that the MER provides a useful framework for the design of teaching interventions by science instructors at the university level, and we propose a five-step MER approach for daily teaching practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2699</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2699">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2699/4153" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2699" DMDID="DMD_biejournals_2699">
+            <mets:fptr FILEID="FILE0_biejournals_2699"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

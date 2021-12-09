@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3817">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Verspätete Nation” in Sachen Weiterbildung an Hochschulen? Eindrücke zur internen Auftaktveranstaltung der wissenschaftlichen Begleitung des BMBF-Projekts „Aufstieg durch Bildung</title>
+                        <subTitle>Offene Hochschulen“ 19. bis 20. März 2015 in Berlin</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frosch, Ulrike</displayForm>
+                        <namePart type="family">Frosch</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3817</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3817">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3817/3848" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3817" DMDID="DMD_biejournals_3817">
+            <mets:fptr FILEID="FILE0_biejournals_3817"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_158">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsaktivitäten in der Hochschulweiterbildung. Ein Systematisierungsvorschlag als Auftakt zu einer Kartografie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kondratjuk, Maria</displayForm>
+                        <namePart type="family">Kondratjuk</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schulze, Mandy</displayForm>
+                        <namePart type="family">Schulze</namePart>
+                        <namePart type="given">Mandy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Beitrag werden aktuelle Forschungsaktivitäten in der Hochschulweiterbildung punktuell vorgestellt, um daraus den Bedarf einer Systematisierung dieser zu formulieren. Ein Blick auf die Forschungslandkarte Erwachsenen- und Weiterbildung, die als Reflexionsformat und Steuerungsmedium gleichermaßen fungiert, eröffnet Impulse für die Entwicklung eines geeigneten Instruments zur Systematisierung der Forschung in der Hochschulweiterbildung. Strukturdimensionen der Hochschulweiterbildung können hier als Ankerpunkte dienen, z.B. bei der Überführung in eine Kartografie. Von einem Überblick dieser Art profitieren sowohl die Handelnden im operativen Geschäft der Hochschulweiterbildung, als auch die Forschenden in diesem Feld – zumal viele Akteure beide Funktionen ausüben. Eine fundierte Forschung im Bereich der wissenschaftlichen Weiterbildung erleichtert ein reflektiertes Arbeiten in der Praxis und festigt darüber hinaus die Hochschulweiterbildung akademisch – nicht nur im Diskurs des lebenslangen Lernens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_158</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_158">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/158/147" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_158" DMDID="DMD_biejournals_158">
+            <mets:fptr FILEID="FILE0_biejournals_158"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

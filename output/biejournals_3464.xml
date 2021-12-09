@@ -1,0 +1,103 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3464">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Global Citizenship Education for Global Citizenship? </title>
+                        <subTitle>Students’ Views on Learning About, Through, and For Human Rights, Peace, and Sustainable Development in England, India, New Zealand, South Africa, and Sweden</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nygren, Thomas</displayForm>
+                        <namePart type="family">Nygren</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kronlid, David</displayForm>
+                        <namePart type="family">Kronlid</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Larsson, Esbjörn</displayForm>
+                        <namePart type="family">Larsson</namePart>
+                        <namePart type="given">Esbjörn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Novak, Judit</displayForm>
+                        <namePart type="family">Novak</namePart>
+                        <namePart type="given">Judit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bentrovato, Denise</displayForm>
+                        <namePart type="family">Bentrovato</namePart>
+                        <namePart type="given">Denise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wasserman, Johan</displayForm>
+                        <namePart type="family">Wasserman</namePart>
+                        <namePart type="given">Johan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Welply, Oakleigh</displayForm>
+                        <namePart type="family">Welply</namePart>
+                        <namePart type="given">Oakleigh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Guath, Mona</displayForm>
+                        <namePart type="family">Guath</namePart>
+                        <namePart type="given">Mona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-18</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: In this study, we explore students’ views and experiences in relation to education about, through, and forhuman rights, peace, and sustainability in the global north and south. We investigate what students after nine years of schooling see as central issues and productive actions linked to key elements of global citizenship education (GCE) to better understand the complexity of GCE in theory and practice.
+Design: We use a survey designed in line with theories of global citizenship education. Using a mixed methods approach, we analyse responses from 672 upper secondary school students, aged 16–19, in England, India, New Zealand, South Africa, and Sweden.
+Findings: We find that students in different contexts may experience global citizenship education very differently, even if they are all part of a global community with guidelines from UNESCO. Dimensions of human rights education, peace education, and education for sustainable development  are evident in both the global north and south; yet, students in European contexts, namely in Sweden and England, for instance, appear to be taking away very different learnings. Overall, while students across the national samples have knowledge about human rights, peace, and sustainability, they seem to struggle to identify activities for human rights, peace, and sustainability. We find a vernacularisation of GCE, highlighting a diversity of methods and cultural contexts linked to students’ experiences from education.
+Research limitations: This study is limited to a few schools in selected countries; thus, our findings may not be generalisable on a national or global level.
+Practical implications: Students across our diverse sample highlight the importance of education to promote global goals. Findings indicate that more focus on education for global citizenship is necessary if schooling is to work in line with international recommendations. Similarities and differences in students’ knowledge and understanding about peace, human rights, and sustainability call for differentiated and localised approaches in attempts to reach common and shared goals.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3464</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3464">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3464/3997" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3464" DMDID="DMD_biejournals_3464">
+            <mets:fptr FILEID="FILE0_biejournals_3464"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

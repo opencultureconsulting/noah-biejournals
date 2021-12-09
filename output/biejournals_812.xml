@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_812">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Drama and Citizenship - Devised Drama for Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heikkinen, Hannu</displayForm>
+                        <namePart type="family">Heikkinen</namePart>
+                        <namePart type="given">Hannu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: In this article I will give an example of a linguistic program I have been doing with sixth form college students from Finland and the Netherland and link this action research to the meaning of drama education, and of the potential of devised drama as a part of civic Education.Method: I will explain the theory of devised drama, then I will highlight the research and finally, I will conclude the research findings. The analytical framework used in this article is well-suited for drama education with youth. I would like to characterize drama education dramaturgy not as Aristotelian nor Brechtian, but as an &apos;open or joint - making together - dramaturgy&apos;.Findings: The term &apos;drama&apos; is often used to describe the process of making work that does not necessarily demand an outside audience, and &apos;theatre&apos; to identify work, that is focused on performing to an outside audience. &apos;Devised drama&apos; relies both on process and product. Leaning how to make devised drama is an important as learning about its processes and start thinking: &apos;why we came up with these ideas of us and fictional drama world?&apos;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_812</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_812">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/812/897" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_812" DMDID="DMD_biejournals_812">
+            <mets:fptr FILEID="FILE0_biejournals_812"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

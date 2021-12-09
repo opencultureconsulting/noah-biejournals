@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4187">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Modell der Didaktischen Rekonstruktion – Rahmen und Impulsgeber für die Entwicklung von Fachdidaktik und Unterricht</title>
+                        <subTitle>Einführung in das Themenheft</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Model of Educational Reconstruction</title>
+                        <subTitle>A Framework and Impetus for Developing Subject-Specific Education and Teaching</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dannemann, Sarah</displayForm>
+                        <namePart type="family">Dannemann</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heeg, Julian</displayForm>
+                        <namePart type="family">Heeg</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>von Roux, Yvonne</displayForm>
+                        <namePart type="family">von Roux</namePart>
+                        <namePart type="given">Yvonne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Modell der Didaktischen Rekonstruktion wird seit rund 20 Jahren in den Didaktiken verschiedener Fächer mit unterschiedlichen Zielsetzungen und in verschiedenen Varianten eingesetzt. Es hat das Selbstverständnis der Fachdidaktik im Sinne einer kritischen Vermittlungswissenschaft und die Bestimmung von Kernaufgaben dieser Wissenschaft maßgeblich mitgeprägt. Dieses Themenheft zielt auf einen Überblick zu aktuellen Einsatzschwerpunkten und (Weiter-)Entwicklungen der Didaktischen Rekonstruktion, um hieran fachdidaktische Potenziale und empirische Befunde zu diskutieren. In den Beiträgen dieses Bandes wird die Didaktische Rekonstruktion als Planungs- und/oder Forschungs- und Reflexionsrahmen für schulische und hochschulische Lehr-Lernprozesse angewendet. Der Schwerpunkt liegt auf dem Bereich der Lehrer*innenbildung; nur wenige Beiträge widmen sich dem „klassischen“ Einsatz zur Planung von Unter-richt. Ansätze für eine weiterführende Diskussion ergeben sich insbesondere 1) im Vergleich der Anwendungskontexte Schule und Hochschule, die unterschiedliche Umsetzungen der drei Untersuchungsaufgaben des Modells erfordern, 2) für die fachbezogenen Modifikation der Didaktischen Rekonstruktion ausgehend von den unterschiedlichen Sachlogiken der verschiedenen Bezugsdisziplinen und 3) mit Blick auf den speziellen Fall der kritischen Fachlichen Klärung in der fachdidaktischen Lehrer*innenbildung.</abstract>
+                    <abstract lang="eng">The Model of Educational Reconstruction has been used for about 20 years in educational contexts of various subjects, with different objectives and in different variants. It has had a decisive influence on the self-image of subject-specific education regarding a critical view of science from a teaching-learning perspective and the elaboration of scientific core tasks. This HLZ-issue aims to provide an overview of the current main areas of application and (further) developments of Educational Reconstruction, in order to discuss the potentials of sub-ject-specific teaching and learning as well as empirical findings. In the contributions to this volume, Educational Reconstruction is applied as a planning and/or research and reflection framework for teaching-learning processes in schools and universities. The focus is on the area of teacher education and only a few contributions are dedicated to the “classical” use for planning school lessons. Approaches for further discussion arise particularly with regard to 1) the comparison of the application contexts of school and university, which require different adaptions of the model’s three tasks, 2) the subject-related modification of Educational Recon-struction based on the different factual logics of the various reference disciplines, and 3) the special case of a critical subject clarification in subject-specific teacher education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4187</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4187">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4187/4157" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4187" DMDID="DMD_biejournals_4187">
+            <mets:fptr FILEID="FILE0_biejournals_4187"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

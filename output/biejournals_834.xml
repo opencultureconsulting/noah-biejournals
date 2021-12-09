@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_834">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teaching About the « Economic Crisis » Today. The Example of French « Economic and Social Sciences »</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Coléno, Yves-Patrick</displayForm>
+                        <namePart type="family">Coléno</namePart>
+                        <namePart type="given">Yves-Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Blanchard, Hervé</displayForm>
+                        <namePart type="family">Blanchard</namePart>
+                        <namePart type="given">Hervé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: In France at the high school the subject matter “Sciences Économiques et Sociales” (economic and social sciences) deals with the present economic crisis. We study the ways it is taught about: words, and explanatory patterns. Design/methodology/approach: We use a specific approach, that we call “semantic holism”, conceiving subject contents as the product of a dual process of didactization and of axiologization of reference knowledge. That implies relating these contents to the social value system and, especially, to the lexicon, set of keywords through which people must think and talk at some point. The analysis starts from the examination of economic and social sciences syllabuses and teaching resources, and leads us to highlight the predominance of the references to standard economics, but this predominance cannot be justified by the state of scientific knowledge.Findings: We show on the contrary a lexicon effect: the subject key notions have been selected in accordance to the lexicon keywords. Therefore the proposed contents seem far from the objective to understanding the major issues at stake today. Research limitations/implications: Then further researches must focus on the ways of teaching about the crisis in spite of the present lexicon.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_834</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_834">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/834/942" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_834">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/834/943" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_834">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/834/944" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE3_biejournals_834">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/834/945" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE4_biejournals_834">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/834/946" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_834" DMDID="DMD_biejournals_834">
+            <mets:fptr FILEID="FILE0_biejournals_834"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_834" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_834"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_834" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_834"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_834" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_834"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_834" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_834"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

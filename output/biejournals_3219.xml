@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3219">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schnecken in der Schule</title>
+                        <subTitle>Haltung und Langzeitbeobachtung der Großen Achatschnecke Achatina fulica</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Franken , Sabrina</displayForm>
+                        <namePart type="family">Franken </namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohrmann, Johannes</displayForm>
+                        <namePart type="family">Bohrmann</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Große Achatschnecke Achatina fulica kann nutzbringend in der Schule gehalten und für vielfältige fachgemäße Arbeitsweisen eingesetzt werden. Sie erlaubt die originale Begegnung mit einem beeindruckenden Vertreter der Mollusken, eines der größten Stämme des Tierreichs. Es werden Hilfestellungen bei Planung, Organisation und Umsetzung der Schneckenhaltung gegeben. Die Arbeitsmaterialien unterstützen die Schülerinnen und Schüler bei der Einrichtung und Pflege des Terrariums, bei der Beschreibung des Körperbaus sowie der Dokumentation von Langzeitbeobachtungen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3219</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3219">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3219/3525" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3219">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3219/3526" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3219" DMDID="DMD_biejournals_3219">
+            <mets:fptr FILEID="FILE0_biejournals_3219"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3219" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3219"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

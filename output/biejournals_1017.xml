@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1017">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Serene justitia and the passions of the public sphere</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rosenblum, Warren</displayForm>
+                        <namePart type="family">Rosenblum</namePart>
+                        <namePart type="given">Warren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The image of justice as the triumph of reason over emotion legitimized state power in nineteenth century Germany. The allegorical figure of a serene and blindfolded Justitia embodied a promise of rationality and fairness for all citizens, regardless of politics, class, race or religion. After the turn of the century, however, there was growing dissatisfaction with this ideal of blind and dispassionate justice. A crisis of trust in justice climaxed in the Weimar Republic, when various “scandals” undermined the façade of legal reason and validated a new politics of emotion. This essay looks at two justice affairs, both from the city of Magdeburg, which marked a turning-point in left-liberal attitudes toward justice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1017</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1017">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1017/1125" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1017" DMDID="DMD_biejournals_1017">
+            <mets:fptr FILEID="FILE0_biejournals_1017"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1075">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Imagined markets? Long distance trade in the British Empire</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Admin, InterDisciplines</displayForm>
+                        <namePart type="family">Admin</namePart>
+                        <namePart type="given">InterDisciplines</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Piekacz, Agnes</displayForm>
+                        <namePart type="family">Piekacz</namePart>
+                        <namePart type="given">Agnes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Imagined Markets?Long-distance trade in the British EmpireRecent studies, particularly in economic sociology, point out the role of images and imaginaries of future states of the world—more precisely, the role of »fictional expectations«—as driving forces of capitalist dynamics. This perspective enriches historical research on markets while it simultaneously challenges historians to not only embed markets in complex social and cultural contexts, but also to consider their temporality. An actor-centered historical analysis of markets, then, ought not only to pay attention to historical actors’ past experiences, but also to their perceptions of the future.In the nineteenth century, British merchants willing to trade their commodities to the far-off markets of the recently annexed colony of Natal were confronted with several risks and uncertainties: e.g., the business environment was unfamiliar or even completely unknown and demand was difficult to estimate. Historians therefor stress the importance of personal connections and co-ethnic networks with regard to nineteenth century long-distance trade. Communication with actors abroad could help to spread information, build trust and reciprocity, and enable market exchange. British settler communities played a key role in these communication networks as possible consumers and, more importantly, sources of information on supposedly future economic opportunities in the colony.By analyzing emigrants’ manuals published shortly after the annexation of Natal the article proposes that discourses on these future business opportunities and prospective economic developments could shape expectations of merchants in Britain. Information in emigrants’ manuals therefor contributed to the construction of an »imagined market« in Natal.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1075</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1075">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1075/1181" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1075" DMDID="DMD_biejournals_1075">
+            <mets:fptr FILEID="FILE0_biejournals_1075"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

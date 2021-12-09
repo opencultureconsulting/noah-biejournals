@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2832">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Us versus Them in Context</title>
+                        <subTitle>Meta-Analysis as a Tool for Geotemporal Trends in Intergroup Relations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tan, Judy You Rong</displayForm>
+                        <namePart type="family">Tan</namePart>
+                        <namePart type="given">Judy You Rong</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Huedo-Medina, Tania B.</displayForm>
+                        <namePart type="family">Huedo-Medina</namePart>
+                        <namePart type="given">Tania B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lennon, Carter A.</displayForm>
+                        <namePart type="family">Lennon</namePart>
+                        <namePart type="given">Carter A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>White, Angela C.</displayForm>
+                        <namePart type="family">White</namePart>
+                        <namePart type="given">Angela C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Johnson, Blair T.</displayForm>
+                        <namePart type="family">Johnson</namePart>
+                        <namePart type="given">Blair T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The increasing availability of studies from many nations offers important potential insights into group-based psychology and behavior, conflict, and violence. Nonetheless, to date, few cross-national or cultural comparisons of study findings have been made, representing a gap in our understanding of the historical causes and courses of inter-group conflict in current comparative approaches. Meta-analytic methods offer researchers the ability to combine data from studies with groups as well as across time. Our review of statistical methods available for comparative analyses in inter-group research found strengths and limitations for understanding group differences, conflict, and violence, and meta-analytic methods address these limitations by exploring potential structural-level moderators and by identifying how temporal and geographical variations may relate directly to group-based variables. Such methods can contribute to our understanding of broad structural effects on group-based variables by elucidating the mechanisms underlying them.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2832</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2832">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2832/pdf_5" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2832" DMDID="DMD_biejournals_2832">
+            <mets:fptr FILEID="FILE0_biejournals_2832"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2178">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Genetische Beratung im Spiegel von Normalisierung und Gouvernementalität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleine, Manuela</displayForm>
+                        <namePart type="family">Kleine</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von Samerskis Untersuchung zur genetischen Beratung knüpft der folgende Artikel an den beratungskritischen Diskurs an. Im Fokus der Analyse stehen die Konzepte der Normalisierung (Link) und der Gouvernementalität (Foucault). Dem Artikel liegt die These zugrunde, dass normalistische und gouvernementale Elemente in der genetischen Beratung so miteinander verwoben sind, dass die Beratung (ungewollt) zum Agenten einer normalistischökonomischen Regierungsweise wird, in deren Fokus (Selbst-)Optimierung und Risikomanagement stehen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2178</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2178">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2178/2050" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2178">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2178/2051" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2178" DMDID="DMD_biejournals_2178">
+            <mets:fptr FILEID="FILE0_biejournals_2178"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2178" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2178"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

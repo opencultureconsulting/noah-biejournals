@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2470">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zertifikat Inklusion – Basiskompetenzen</title>
+                        <subTitle>Fokussierte Theorie-Praxis-Verbindung in der Lehrer_innenbildung für schulische Inklusion</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Certificate Inklusion – Basiskompetenzen [Inclusion – Basic Competences]</title>
+                        <subTitle>Focused Theory-Practice-Connection in Teacher Education for Inclusion</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Unverferth, Meike</displayForm>
+                        <namePart type="family">Unverferth</namePart>
+                        <namePart type="given">Meike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rank, Astrid</displayForm>
+                        <namePart type="family">Rank</namePart>
+                        <namePart type="given">Astrid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weiß, Veronika</displayForm>
+                        <namePart type="family">Weiß</namePart>
+                        <namePart type="given">Veronika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel gibt einen konzeptionellen und inhaltlichen Überblick über das dreisemestrige Studienangebot Zertifikat Inklusion – Basis-kompetenzen (ZIB), welches seit dem Sommersemester 2016 an der Universität Regensburg angeboten wird. Interessierte Lehramtsstudierende des Grund- oder Mittelschullehramts erhalten dadurch die Möglichkeit, grundlegende Kompetenzen für ihre spätere Berufspraxis in inklusiven Settings zu erwerben. Das Gesamtkonzept zeichnet sich durch eine intensive und strukturierte Theorie-Praxis-Verzahnung aus. Während des Semesters besuchen die Studierenden jede Woche ihre Praktikumsschule und erhalten Aufgaben, die die Praxiserfahrungen systematisch mit theoretischen Inhalten in Beziehung setzen. Im begleitenden Seminar an der Universität reflektieren die Studierenden ihre Erfahrungen. Die Aufgaben im Praktikum steigern sich jedes Semester in der Komplexität vom Arbeiten mit einem Kind oder Jugendlichen über das Arbeiten mit einer Kleingruppe hin zum Arbeiten mit der Klasse. Die inhaltliche Basis des Studienangebots bildet das von der Europäischen Agentur für Entwicklungen in der sonderpädagogischen Förderung (2012) entwickelte Profil für inklusive Lehrerinnen und Lehrer. Es werden entsprechend drei Kompetenzbereiche zugrunde gelegt: Einstellungen, Wissen und Handeln. In Anlehnung an die zentralen Grundwerte des Profils wurden Grundlagen zu Inklusion, individueller Förderung, Beratung und Kooperation sowie Unterstützung aller Lernenden in inklusiven Settings als inhaltliche Schwerpunktthemen gesetzt. Im Artikel wird die Konzeption des ZIB dargestellt sowie an ausgewählten Ergebnissen der Begleitforschung die Wirksamkeit des zusätzlichen Studienangebots bezogen auf die Kompetenzbereiche aus Studierenden- wie auch aus Dozierendensicht dargestellt. Des Weiteren werden Einschätzungen bezüglich der Bedeutung der konzeptionellen Teile des Zertifikats anhand von Studierendenaussagen aufgezeigt.</abstract>
+                    <abstract lang="eng">The article gives a conceptual and content-related overview of the three-semester study programme Zertifikat Inklusion – Basiskompetenzen (ZIB), which is offered at the University of Regensburg since summer term 2016. Interested primary or secondary school teacher students are thus given the opportunity to acquire basic competences for their future professional practice in inclusive settings. The overall concept is characterized by intensive and structured theory-practice interlocking. During the semester, students attend their internship school every week and are assigned tasks that systematically relate practical experience to theoretical content. They reflect on their experiences in the accompanying practical seminar. The tasks in the internship increase each semester in complexity from working with one child or teenager to working with a small group to working with the class. The conceptual and content basis was formed by the Profile for Inclusive Teachers, which was developed by the European Agency for Development in Special Needs Education (2012). Accordingly, three areas of competence are taken as a basis: attitudes, knowledge, and skills. In accordance with the central basic values of the profile, the main focus is on inclusion, indi-vidual support, counselling and cooperation as well as support for all learners in inclusive settings. The article describes ZIB’s concept and uses selected results from empirical research to illustrate the effectiveness of this study program in relation to the areas of competence from both the students’ and lecturers’ perspective. In addition, assessments of the significance of the conceptual parts of the certificate are shown based on student statements.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2470</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2470">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2470/3232" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2470" DMDID="DMD_biejournals_2470">
+            <mets:fptr FILEID="FILE0_biejournals_2470"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

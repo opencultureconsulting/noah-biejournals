@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2484">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fallportraits von Bielefelder Grundschulkindern</title>
+                        <subTitle>Fallarbeit in der (phasenübergreifenden) Lehrer_innenbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Case portraits of primary school children from Bielefeld</title>
+                        <subTitle>Casework in (multi-phase) teacher education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pieper, Catania</displayForm>
+                        <namePart type="family">Pieper</namePart>
+                        <namePart type="given">Catania</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kottmann, Brigitte</displayForm>
+                        <namePart type="family">Kottmann</namePart>
+                        <namePart type="given">Brigitte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miller, Susanne</displayForm>
+                        <namePart type="family">Miller</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">77</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem vorliegenden Beitrag werden insgesamt zehn authentische Fallportraits von Bielefelder Grundschulkindern vorgestellt. Sie bieten sowohl Einblicke in die familiäre als auch in die schulische Situation von Kindern, so dass heterogene Lebenswirklichkeiten mehrperspektivisch abgebildet werden. Die Fallportraits können im Rahmen der phasenübergreifenden Lehrer_innenbilung eingesetzt werden, um bspw. Transferprozesse zwischen Theorie und Praxis zu unterstützen, eine kritisch-reflexive Auseinandersetzung sowie ein Sensibilisieren für heterogene Lebenswirklichkeiten zu fördern, etc. Didaktische Implementierungsmöglichkeiten und Anknüpfungspunkte zur Portfolioarbeit (2), vier exemplarische theoretische Schwerpunkte (3) sowie der Prozess der Fallportraitgenerierung (4) werden zunächst im vorliegenden Beitrag erläutert, ehe die zehn Fallportraits (5), ein Fazit (6) und zwei exemplarische Veranschaulichungsmaterialien (7) den Beitrag beenden.</abstract>
+                    <abstract lang="eng">The following contribution includes ten authentic case portraits of primary school children from Bielefeld. The case portraits provide insights into the family and school situations of these children and represent their heterogeneous daily realities from multiple perspectives. The case portraits can be used in the context of multi-phase teacher education to support the transfer processes between theory and practice, promote a critical-reflective engagement and create more sensitization for heterogeneous daily realities, etc. The following contribution elucidates the didactic implementation possibilities and connecting factors of portfolio work (2), four exemplary theoretical focus areas (3) as well as the process of creating a case portrait (4).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2484</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2484">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2484/3419" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2484" DMDID="DMD_biejournals_2484">
+            <mets:fptr FILEID="FILE0_biejournals_2484"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

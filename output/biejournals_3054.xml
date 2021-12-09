@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3054">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Guest Editorial</title>
+                        <subTitle>Methodological Issues in Longitudinal Analyses of Criminal Violence</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Thome, Helmut</displayForm>
+                        <namePart type="family">Thome</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-06-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This editorial introduces the IJCV Focus Section on Methodological Issues in Longitudinal Analyses of Criminal Violence. Longitudinal designs offer distinctive advantages for purposes of making causal inferences with observational data, but significant challenges must be confronted as well.  The purpose of this editorial is to highlight some of the more important methodological issues that arise in longitudinal analyses, describe in general terms selected approaches for dealing with them, and indicate ways in which the papers included in this focus section skilfully apply methodological techniques for longitudinal analyses to address substantively important issues pertaining to criminal violence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3054</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3054">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3054/pdf_120" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3054">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3054/_16" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3054">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3054/_17" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3054" DMDID="DMD_biejournals_3054">
+            <mets:fptr FILEID="FILE0_biejournals_3054"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3054" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3054"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3054" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3054"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_881">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Students’ Perceptions of Citizenship Preparation in Social Studies</title>
+                        <subTitle>The Role of Instruction and Students’ Interests</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mathé, Nora Elise Hesby</displayForm>
+                        <namePart type="family">Mathé</namePart>
+                        <namePart type="given">Nora Elise Hesby</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Elstad, Eyvind</displayForm>
+                        <namePart type="family">Elstad</namePart>
+                        <namePart type="given">Eyvind</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The main purpose of this study is to explore how 16- to 17-year-old students’ experiences within the social studies classroom and their online political communication are related to their perceptions of citizenship preparation in social studies.Design/methodology/approach: To meet the purpose of this study, regression analyses were executed based on a survey of 264 Norwegian students aged 16–17. The dependent variable was the students’ perceptions of citizenship preparation in social studies.Findings: The analyses indicated that enjoying social studies was strongly associated with students’ perceptions of citizenship preparation in social studies. The teacher’s contributions, discussing democracy and politics in social studies lessons, and students’ online political communication were also significantly associated with students’ per-ceptions of citizenship preparation in social studies.Research limitations/implications: Some limitations exist in the instrument and in internal and external validity. Future research could add more content to improve the model’s explanatory adequacy. More nuanced explanatory factors from outside school are needed to study factors indirectly influencing students’ perceptions of citizenship pre-paration.Practical implications: These results indicate that focusing on students’ interests and quality instruction have positive implications for students’ perceived value of the subject when it comes to preparing them for civic and political engagement.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_881</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_881">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/881/1016" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_881">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/881/1017" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE2_biejournals_881">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/881/1018" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_881" DMDID="DMD_biejournals_881">
+            <mets:fptr FILEID="FILE0_biejournals_881"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_881" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_881"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_881" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_881"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

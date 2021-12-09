@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2393">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Studienprojekte im Praxissemester</title>
+                        <subTitle>Editorial zum Themenheft 1 der HLZ</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Study Projects in the Practical Semester</title>
+                        <subTitle>Editorial to Special Issue 1 of the HLZ</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Josting, Petra</displayForm>
+                        <namePart type="family">Josting</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Golus, Kinga</displayForm>
+                        <namePart type="family">Golus</namePart>
+                        <namePart type="given">Kinga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Beiträge dieses Themenheftes beschäftigen sich mit der Frage,&amp;nbsp; wie und mit welchen fachlichen und fachdidaktischen Gegenständen und Praxen ein Forschendes Lernen der Studierenden in Form von Studienprojekten gelingen kann. Die Ansätze der Beiträge sind multiperspektivisch und multiparadigmatisch.</abstract>
+                    <abstract lang="eng">The articles of this Special Issue deal with the question in what cir-cumstances and with which kind of subject-related knowledge and subject-didactical practices research-oriented learning of teacher students can become successful. The approaches of the contributions are multi-perspective and multi-paradigmatic.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2393</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2393">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2393/2389" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2393" DMDID="DMD_biejournals_2393">
+            <mets:fptr FILEID="FILE0_biejournals_2393"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

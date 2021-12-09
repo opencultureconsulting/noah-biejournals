@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_822">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Understanding ’Price’ and the Environment</title>
+                        <subTitle>Exploring Upper Secondary Students’ Conceptual Development</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ignell, Caroline</displayForm>
+                        <namePart type="family">Ignell</namePart>
+                        <namePart type="given">Caroline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Davies, Peter</displayForm>
+                        <namePart type="family">Davies</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lundholm, Cecilia</displayForm>
+                        <namePart type="family">Lundholm</namePart>
+                        <namePart type="given">Cecilia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-03-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2016</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: To explore changes in upper secondary students´ conceptions of environmental issues in how prices are determined and how they should be determined.Design: The study uses an ’alternative frameworks’ conceptual change approach to examine change in the conceptions of fifteen business and economic students. Students were asked about the prices of familiar products and asked to explain prices for eco-friendly and eco-unfriendly products. A first interview was conducted in the second year of education and the second interview a year later when students were 18 years old and in the final year of schooling. Interviews were carried out out by a researcher independent from the schools and carried out in schools.Findings: Identifies the fragmentary nature of students´ every-day thinking in relation to productivity, consumer preference and negative externalities. Results show characteristics of partial conceptions, which are considered as students´ conceptions in a process of change towards a more scientific understanding of relationships between price and environmental impacts.Practical implications: The study clarifies conceptions, which students bring to the classroom and the directions that development in understanding may take. The study should help teachers to design effective strategies to support students’ learning.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_822</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_822">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/822/921" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_822">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/822/922" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_822">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/822/923" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_822" DMDID="DMD_biejournals_822">
+            <mets:fptr FILEID="FILE0_biejournals_822"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_822" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_822"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_822" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_822"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

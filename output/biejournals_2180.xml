@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2180">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ich bin ich, du bist fremd - und wer sind wir? Annäherung an zwei Gruppensupervisionssettings im universitären Kontext</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rumpold, Vanessa</displayForm>
+                        <namePart type="family">Rumpold</namePart>
+                        <namePart type="given">Vanessa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Behrend, Sabine</displayForm>
+                        <namePart type="family">Behrend</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Aktuell wird vor allem im Rahmen der Inklusionsdiskussion wieder verstärkt über die Lehramtsausbildung diskutiert. Supervision als integraler Bestandteil des Studiums hält in diesem Kontext Einzug in die Hochschulen. Dies mag auch der Konjunktur der Fallarbeit und Fallreflexion in der erziehungswissenschaftlichen und sozialpädagogischen Forschung geschuldet sein. Reflexives Lernen als Ergänzung zum wissenschaftlichen Lernen erscheint vor dem Hintergrund einer von Heterogenität geprägten Gesellschaft als Schlüsselqualifikation. Supervision als reflexives Instrument hat entsprechend eine zunehmend wichtige Unterstützungsfunktion für die (Weiter-) Entwicklung professioneller Rollen und professionellen Handelns.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2180</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2180">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2180/2054" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2180">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2180/2055" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2180" DMDID="DMD_biejournals_2180">
+            <mets:fptr FILEID="FILE0_biejournals_2180"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2180" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2180"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

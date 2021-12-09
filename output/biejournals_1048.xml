@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1048">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Persistence of Eurocentric orders and divisions. Reflections on »postcolonial scholarship« and the disentanglement of »race« and »religion«</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hernandez Aguilar, Luis Manuel</displayForm>
+                        <namePart type="family">Hernandez Aguilar</namePart>
+                        <namePart type="given">Luis Manuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zubair, Ahmad</displayForm>
+                        <namePart type="family">Zubair</namePart>
+                        <namePart type="given">Ahmad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The contribution tackles the division between race and religion in critical-postcolonial scholarship. We argue that critical and postcolonial conversations have not only sidelined interest in the category of religion, and of its historical evolvement as an analytical category, but moreover its relationship with race. In keeping the question of religion marginal at best and detached from race at worst, strands of critical-postcolonial scholarship, we argue, have reproduced the epistemic order of Eurocentrism along with its sedimented divisions between race and religion.In exploring the critical-postcolonial scholarship on race and religion respectively, we illustrate the operations defining and dividing both. This contribution’s aim, however, does not attempt to conflate race and religion as categories of analysis, rather, it seeks to unravel the historical operations and moments where these categories served to classify and rank humans. By exploring this merging and detachment we aim to contribute to the growing literature pertaining to anti-Muslim racism or Islamophobia, and approaches framing anti-Semitism as a form of racism, that is, those persistent political operations whereby race and religion persistently overlap.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1048</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1048">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1048/1156" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1048" DMDID="DMD_biejournals_1048">
+            <mets:fptr FILEID="FILE0_biejournals_1048"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

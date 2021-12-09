@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_624">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial</title>
+                        <subTitle>Education for … and the Social Sciences, Perspectives in  French Speaking Research</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Simonneaux, Jean</displayForm>
+                        <namePart type="family">Simonneaux</namePart>
+                        <namePart type="given">Jean</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tutiaux-Guillon, Nicole</displayForm>
+                        <namePart type="family">Tutiaux-Guillon</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Legardez, Alain</displayForm>
+                        <namePart type="family">Legardez</namePart>
+                        <namePart type="given">Alain</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">-</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_624</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_624">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/624/630" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_624" DMDID="DMD_biejournals_624">
+            <mets:fptr FILEID="FILE0_biejournals_624"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3189">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schüler*innen mit psychischen Erkrankungen in der Oberstufe – Wege zu einer verstärkten Kooperation zwischen Schulen und Institutionen der psychosozialen Versorgung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wäcken, Martina</displayForm>
+                        <namePart type="family">Wäcken</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Etwa 20 Prozent aller Schüler*innen zeigen psychische Auffälligkeiten, ungefähr die Hälfte von ihnen sind psychisch erkrankt. Aufgrund dieser hohen Zahlen und der gravierenden Auswirkungen psychischer Erkrankungen auf das schulische Lernen müssen alle Schulen und auch die gymnasialen Oberstufen diese Gruppe der Schüler*innen stärker in den Blick nehmen. Am Oberstufen-Kolleg Bielefeld beschäftigt sich ein Teilprojekt des Forschungs- und Entwicklungsprojekts „Inklusion in der gymnasialen Oberstufe“ mit der Frage, wie Schulen den betroffenen Schüler*innen den Schulbesuch und -erfolg ermöglichen können. Da viele dieser Schüler*innen gleichzeitig im System der psychosozialen Versorgung sind, arbeitet die Teilgruppe aktuell daran, den Kontakt und die Kooperation zwischen der Schule und den relevanten Institutionen zu verstärken. Zu diesem Zweck wurden Interviews mit Fachleuten der psychosozialen Versorgung geführt sowie ein Fachtag für Personen aus beiden Bereichen veranstaltet, und es werden Besuche in psychosozialen Einrichtungen organisiert. Weitere Vorhaben werden sich unter anderem aus der Auswertung dieser Besuche ergeben. Die bislang positiven Erfahrungen könnten ein Impuls für andere Schulen und Institutionen sein, ebenfalls mehr Kontakt und Kooperation zu suchen.
+Approximately 20 percent of school students show mental disorders and about half of them have a mental illness. In view of these high figures and the serious consequences of mental diseases for learning and education, all schools and also the upper secondary schools need to give more attention to this group of students. One part of the research and development project “Inclusion at the Upper Level of Secondary Schools” at the Oberstufen-Kolleg Bielefeld deals with the question how schools can support the students concerned to attend school successfully. As many of these students are also in the system of psychosocial care, the project group presently focuses on strengthening the contact and cooperation between the school and the respective institutions. For this purpose it carried out interviews with experts of psychosocial care, organized a symposium with participants from both areas, and is arranging visits in psychosocial institutions. The evaluation of these activities will lead to further steps. The positive experiences so far could be an impulse for other schools and institutions to seek more contact and cooperation, too.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3189</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3189">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3189/3317" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3189" DMDID="DMD_biejournals_3189">
+            <mets:fptr FILEID="FILE0_biejournals_3189"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4572">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Navigationssystem der Vögel – Teil 2</title>
+                        <subTitle>Mechanismen zur Bestimmung der Richtung zum Ziel</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>navigation system of birds – part 2</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wiltschko, Roswitha</displayForm>
+                        <namePart type="family">Wiltschko</namePart>
+                        <namePart type="given">Roswitha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiltschko, Wolfgang</displayForm>
+                        <namePart type="family">Wiltschko</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im ersten Teil dieses Beitrags haben wir aufgezeigt, welche Kompassmechanismen Vögel für die Navigation nutzen. Für die Bestimmung der Richtung zum Ziel im Heimbereich können sich junge Vögel zunächst spontan auf Weginformation verlassen, indem sie die Richtung des Hinwegs registrieren und Richtungsänderungen integrieren; die Umkehr dieser Richtung ergibt die Heimrichtung. Der erste Zug junger Zugvögel ins noch unbekannte Winterquartier wird durch ein angeborenes Zugprogramm gesteuert, das die Richtung und – über die Dauer des Zuges – die Entfernung vorgibt. Diese Mechanismen erlauben es den Vögeln, eine Navigationskarte aufzubauen, indem sie die räumliche Verteilung von Umweltgradienten erlernen. Durch Vergleich der lokalen Werte dieser Faktoren mit den Werten des Zielorts können sie den Kurs zum Ziel bestimmen. Die Navigationskarte wird von erfahrenen Vögeln bevorzugt benutzt, denn sie erlaubt mehr Flexibilität und bietet mehr Sicherheit als die angeborenen Mechanismen.</abstract>
+                    <abstract lang="eng">In the first part of this article we have shown which types of compass systems birds use for navigation. For determining the course to the goal, young birds can rely on information gathered en route during the outward journey by recording the direction,  integrating twists and turns and reversing this direction to obtain the course towards home. The first migration of young migrants is controlled by an innate migratory program that indicates the direction and – by the duration of migration – also the distance. These spontaneous mechanisms allow birds to establish a ‘navigational map’ by familiarizing themselves with the spatial distribution of  environmental gradients. By  comparing the local values of these factors with the remembered ones of the goal they can determine the course to the goal.  Experienced birds preferably use the navigational map because it allows more flexibility and provides more security than the innate mechanisms.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4572</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4572">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4572/4381" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4572" DMDID="DMD_biejournals_4572">
+            <mets:fptr FILEID="FILE0_biejournals_4572"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

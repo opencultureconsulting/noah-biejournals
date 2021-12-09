@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_391">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Vision of a Future Europe</title>
+                        <subTitle>Infectious or Infected? The Position of Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Papastephanou, Marianna</displayForm>
+                        <namePart type="family">Papastephanou</namePart>
+                        <namePart type="given">Marianna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This essay aims to examine the discourse that conceptualizes the educational exchange and the European culture within the framework of a theory of European identity construction. Then, I shall discuss the main positions of this discourse, their concern with the global market and their indifference about political and material inequalities. The following question is posed: which are the innovative proposals that could set in course an ideal of a unified, just and radical Europe? A first approach to it is provided by Habermas&apos; and Derrida&apos;s recent publications. Their views constitute the starting point of my intervention in the debate on the educational future of Europe and the inculcation of a European identity in students&apos; consciousness. But my response to the above question challenges the kind of European philosophical discourse that does not rethink the main objectives of the social and political elites of Europe. I suggest that we criticize the dominant position of those elites and that we promote an alternative normativity of equality and justice. In the absence of such a normative condition, the bad side of modernity may continue to prevail and serve the material and symbolic interests of the privileged European classes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_391</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_391">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/391/388" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_391" DMDID="DMD_biejournals_391">
+            <mets:fptr FILEID="FILE0_biejournals_391"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

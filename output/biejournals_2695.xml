@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2695">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>(Praxis-)Reflexion durch Mehrebenen-Mentoring von Lehramtsstudierenden in der frühen Praxisphase</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoferichter, Frances</displayForm>
+                        <namePart type="family">Hoferichter</namePart>
+                        <namePart type="given">Frances</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Volkert, Ute</displayForm>
+                        <namePart type="family">Volkert</namePart>
+                        <namePart type="given">Ute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Reflexion über Denk- und Handlungsprozesse im pädagogischen Kontext ist eine grundlegende Bedingung für die professionelle Ent-wicklung der Lehrerpersönlichkeit und wird als Basiskonstante für den beruflichen Selbstlernprozess verstanden. Verschiedene Mentoring-Formate in der Lehreraus- und -weiterbildung zeigen, dass Reflexionsprozesse im Rahmen einer Mentor-Mentee Beziehung angeregt und unterstützt werden können. Das Mentoring als reflexionsanleitender Aspekt ist in der empirischen Forschung bislang vor allem in Hinblick auf fachspezifische Elemente untersucht worden. Es fehlt jedoch an Studien zur spezifischen Rolle von 1. Peer-, 2. Schul- und 3. Tandem-Mentor*innen im Rahmen eines multiprofessionellen Mentorings für die Reflexion von Lehramtsstudierenden während ihrer ersten Praxisphase. In der vorliegenden Studie werden 38 Lehramtsstudierende nach ihrem Schulpraktikum mittels semistrukturierter Interviews zu reflexionsangeleiteten Prozessen durch multiprofessionelles Mentoring befragt. Die Interviews wurden mit Hilfe der Grounded Theory durch ein Forscher*innenteam analysiert und die Ergebnisse mittels MAXQDA dargestellt. Aus den insgesamt 180 Transkript-Seiten konnten folgende sechs Kernkategorien extrahiert werden, die von den Befragten als besonders relevant für das nachhaltige Gelingen ihrer ersten Schulpraxisphase bewertet wurden: Reflexion, Verfügbarkeit, gemeinsame Basis, Beziehung, Unterstützung und Teamgeist. Dabei wurden die Kategorien unterschiedlich zu Peer-, Schul- und Tandem-Mentor*innen in Bezug gesetzt. Die Ergebnisse zeigen, dass im Rahmen eines multi-professionellen Mentorings insbesondere die Kommunikation auf Augenhöhe auf der Basis gemeinsamem kontextinternen Wissens und gemeinsamer Fähigkeiten einen entscheidenden Faktor für reflexive Prozesse darstellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2695</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2695">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2695/3860" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2695" DMDID="DMD_biejournals_2695">
+            <mets:fptr FILEID="FILE0_biejournals_2695"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

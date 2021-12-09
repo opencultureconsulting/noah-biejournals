@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3045">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From a Duty to Remember to an Obligation to Memory? Memory as Reparation in the Jurisprudence of the Inter-American Court of Human Rights</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Campisi, Maria Chiara</displayForm>
+                        <namePart type="family">Campisi</namePart>
+                        <namePart type="given">Maria Chiara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-08-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Commemorations and reparations are central elements of the transitional justice agenda. The inclusion of memory-related measures among the steps that states are expected to take along the transitional process has been progressively translated from the transitional justice domain to the language of international law. Judicial and quasi-judicial human rights instances have required states to make and undertake memorials, commemorations and public acts of remembrance, both as an instrument of reparation for the individual victim and as a mechanism to warn against the repetition of the same abuses in the future. As a result of this trend, memory-related measures have progressively become part of the state obligation to provide reparations to victims. The inclusion of memory-related measures in the scope of the international obligation to repair, however, raises some thorny issues. This review of the jurisprudence of the Inter-American Court of Human Rights in relation to memory-related orders and analysis of the case of the memorial El Ojo que Llora in Peru critically assesses the emerging trend of using memory-related initiatives as measures of reparation determined by judicial organs.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3045</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3045">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3045/pdf_108" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3045">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3045/3037" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3045" DMDID="DMD_biejournals_3045">
+            <mets:fptr FILEID="FILE0_biejournals_3045"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3045" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3045"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

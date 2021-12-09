@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3497">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Transkulturelle Kompetenz im Spanischunterricht</title>
+                        <subTitle>Sensibilisierung für Identitätskonstruktionen durch Übersetzungsprozesse im Werk von Rosario Ferré</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gerling, Vera Elisabeth</displayForm>
+                        <namePart type="family">Gerling</namePart>
+                        <namePart type="given">Vera Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Spanischunterricht bietet viel Anschauungsmaterial, um in heterogenen, schulischen Lernsettings über Fragen von Identität und Zugehörigkeit bewusst und selbstkritisch nachzudenken. Dieser Beitrag möchte darstellen, wie das Übersetzen sowohl als literarisches Phänomen als auch als didaktische Methode eine Reflexion über die Normvorstellungen von Kultur, Sprache und Identität anregen kann. Die Lyrik von Rosario Ferré bietet sich für eine inhaltliche Erschließung der Thematik Migration und Kulturkontakt in besonderer Weise an. Darüber hinaus ist es möglich, durch eine Konfrontation mit dem literarischen Werk und insbesondere seiner sprachlichen Hybridität transkulturelle Phänomene ästhetisch erfahrbar zu machen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3497</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3497">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3497/3657" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3497" DMDID="DMD_biejournals_3497">
+            <mets:fptr FILEID="FILE0_biejournals_3497"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

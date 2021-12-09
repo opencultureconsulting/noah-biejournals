@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_686">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Using Classroom Recordings in Educational History Research. An East German Civics Lesson</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jehle, May</displayForm>
+                        <namePart type="family">Jehle</namePart>
+                        <namePart type="given">May</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Blessing, Benita</displayForm>
+                        <namePart type="family">Blessing</namePart>
+                        <namePart type="given">Benita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Students learned in civics lessons in the German Democratic Republic (GDR, or East Germany) that their socialist society uniquely guaranteed all individuals the right to work, and that, as good socialists, they had the duty to take on socially meaningful work. Using the example of a video recording of an East German civics lesson and its transcription, this article demonstrates how to use audio-visual sources in historical scholarship on educational research. In this manner, we offer a new source in the evaluation of the East German state’s attempt to socialize young East Germans to value work as part of their socialist responsibility to the nation.Im Staatsbürgerkundeunterricht der Deutschen Demokratischen Republik (DDR) sollte den Schüler_innen vermittelt werden, dass nur in einer sozialistischen Gesellschaft das Recht auf Arbeit gesichert ist und dass damit auch die Pflicht eines sozialistischen Staatsbürgers zu gesellschaftlich nützlicher Tätigkeit verbunden ist. Am Beispiel einer Videoaufzeichnung einer Unterrichtstunde zu dieser Thematik und ausgewählten Transkriptauszügen diskutiert der Artikel, wie audiovisuelle Quellen in der historischen Unterrichtsforschung genutzt werden können. Diskutiert werden damit auch die Möglichkeiten der Erschließung einer neuen Quelle zur Erforschung des Versuchs staatlich organisierter Erziehung, die  den Schüler_innen die Bedeutung von Arbeit als eine sozialistische Errungenschaft und als Verpflichtung jedes sozialistischen Staatsbürgers zugleich vermitteln sollte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_686</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_686">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/686/735" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE1_biejournals_686">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/686/736" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_686">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/686/737" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_686" DMDID="DMD_biejournals_686">
+            <mets:fptr FILEID="FILE0_biejournals_686"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_686" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_686"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_686" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_686"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

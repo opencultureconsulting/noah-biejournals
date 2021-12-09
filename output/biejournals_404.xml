@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_404">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Why Sociology Has a Marginal Position in Civic Education in Bulgaria Nationally Specific and/or Universal Trends</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dimitrov, Georgi</displayForm>
+                        <namePart type="family">Dimitrov</namePart>
+                        <namePart type="given">Georgi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stoykova, Elena</displayForm>
+                        <namePart type="family">Stoykova</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The authors claim that, to an extent, the marginalization is a by-product of relationship among sociology, citizenship education and school education in general. This relationship is pretty complex and problematic because each of the three constituents undergoes a phase of fundamental crisis of axiological and institutional character. The developments in American sociology that exemplifies the state of affairs in the field are taken as point of departure while the Bulgarian case is used just as a magnifying glass to see clearer the triple crises which bring us to the roots of the civilizational transformation experienced today.The moral of the story is that sociology has been marginalized in last decades because its public and academic status won by the previous generation can not be taken for granted. It does not correspond to the pressing demands of the changing world for a different type of sociology. Thus sociology falls easy prey to the academic competitors who follow aggressive strategy and policy of public expansion even in civil education. The particular situation in other countries may be different but these are common general rules of construing sociology. At the end the paper offers some guidelines for transformation of the pattern in which contemporary sociology should be practiced in order to raise its public and civic relevance through refocusing it on sophisticated mediation of public policy and actions of citizens and through new forms of cultural communication.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_404</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_404">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/404/401" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_404" DMDID="DMD_biejournals_404">
+            <mets:fptr FILEID="FILE0_biejournals_404"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

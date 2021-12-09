@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3240">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Forschendes Lernen“ als diffuser Steuerungsimpuls in günstiger Gelegenheitsstruktur? Governanceanalytische Betrachtungen zur Implementierungslogik des Programms Forschenden Lernens</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der Frage nach den Ursachen für den derzeitigen Hype um das Konzept des Forschenden Lernens in der Lehrer*innenbildung erfolgen im vorliegenden Beitrag aus Governance-Perspektive eine Analyse des Steuerungsimpulses im Land Nordrhein-Westfalen auf der Makroebene sowie eine Darstellung der parallel vom Bund zur Verfügung gestellten ressourciellen Gelegenheitsstruktur zur Ausgestaltung, um in diesem Zusammenspiel nachzuzeichnen, welche Effekte dies an der Universität Bielefeld in den einzelnen Fächern auf der Programmebene hatte. Abschließend wird die Frage gestellt, inwiefern diese Entwicklung mit Blick auf das Ziel der Implementierung des „Forschenden Lernens“ als Reaktion auf einen diffusen Steuerungsimpuls funktional ist. Hier wird argumentiert, dass die Verschiedenheit der disziplinären Zugänge und deren Referenzen auf unterschiedliche Paradigmen dann für das Forschende Lernen an der Universität produktiv werden können, wenn es jenseits der Paradigmenstreite im konstruktiven Interdependenzmanagement der Disziplinen zur produktiven Ausdifferenzierung anstatt zu nivellierender Entdifferenzierung der forschenden Zugänge kommt. Die im vorliegenden Beitrag beschriebene Konstellation eines diffusen Steuerungsimpulses (Lehrerausbildungsgesetz), der auf eine günstige Gelegenheitsstruktur (Qualitätsoffensive Lehrerbildung) traf, kann so als durchaus funktionale Kombination gelten.
+Starting with a query of the reasons for the hype regarding the concept of research-based learning in teacher education, this article analyzes from a governance-analytical perspective both the governance impulse by the Land North Rhine-Westphalia on the macro-level and a depiction of the parallel provided opportunity structure to get resources to react to the impulse. It describes for various university subjects the effects of these initiatives on the program level. Finally it raises the question to which extent this development, triggered by a diffuse governance impulse, is functional with regard to the implementation of “research-based learning”. It argues that the diversity of disciplinary approaches and their reference to various paradigms can become productive for research-based learning at the university if it results – beyond paradigm disputes and in a constructive interdependency management of the disciplines – in a productive differentiation instead of a levelling de-differentiation of research approaches. The constellation of a diffuse governance impulse (Teacher Education Law) meeting a favorable structure of opportunities (“Qualitätsoffensive Lehrerbildung”), which is described in this article, can thus be seen as a functional combination.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3240</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3240">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3240/3593" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3240" DMDID="DMD_biejournals_3240">
+            <mets:fptr FILEID="FILE0_biejournals_3240"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

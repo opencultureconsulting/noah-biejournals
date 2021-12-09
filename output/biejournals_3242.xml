@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3242">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Methodenberatung zur Unterstützung von Lehramtsstudierenden beim Forschenden Lernen in der Masterarbeit</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Methodological Consulting for the Support of Student Teachers in Research-Based Learning in the Master Thesis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bock, Thomas</displayForm>
+                        <namePart type="family">Bock</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Graebel, Norbert</displayForm>
+                        <namePart type="family">Graebel</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gold, Bernadette</displayForm>
+                        <namePart type="family">Gold</namePart>
+                        <namePart type="given">Bernadette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mit der curricularen Implementation Forschenden Lernens in die Praxissemester der meisten Bundesländer ist die Erwartung verbunden, dass Lehramtsstudierende Forschungskompetenzen und eine forschende Grundhaltung entwickeln (Fichten &amp;amp; Weyland, 2018). Die Doppelaufgabe des Unterrichtens und Forschens im Praxissemester wird jedoch von den Studierenden häufig als eine belastend wahrgenommene Antinomie beschrieben (Fichten &amp;amp; Weyland, 2018). Eine Möglichkeit des Forschenden Lernens außerhalb der Lehramtspraktika ist die Umsetzung von empirischen Projekten im Rahmen von Abschlussarbeiten (Kamm &amp;amp; Bieri, 2008; Vetter, Staub &amp;amp; Ingrisani, 2014). Die Masterarbeit bietet dabei die Möglichkeit, in einer zeitlich längeren Phase fokussiert einen distanzierten Blick auf Schule und Unterricht einzunehmen. Jedoch existiert auch bei dieser Form Forschenden Lernens die Herausforderung einer guten methodischen Betreuung, damit das Forschende Lernen als sinnvoll erachtet wird (Weyland, 2014). Es kann also zielführend sein, Lehramtsstudierende am Ende ihres Bachelor- oder Masterstudiums beim wissenschaftlichen Arbeiten sowie beim Erlernen forschungsmethodischer Kenntnisse zu unterstützen, um den Nutzen Forschenden Lernens für die spätere Berufspraxis zu verdeutlichen. Dieser Herausforderung begegnet das vom BMBF geförderte Qualitätsoffensive-Lehrerbildung-Projekt QUALITEACH mit dem Teilprojekt „Forschungslabor MasterMind“ mit einer individuellen Methodenberatung für Lehramtsstudierende in der Phase ihrer Abschlussarbeit. Im vorliegenden Beitrag wird die Methodenberatung zunächst erläutert, anschließend werden die thematischen Unterstützungsanliegen der Lehramtsstudierenden skizziert und erste Evaluationsdaten präsentiert.</abstract>
+                    <abstract lang="eng">The curricular implementation of research-based learning within the practical semesters of most federal states is associated with the expectation that teaching students will develop research skills and a research-oriented attitude (Fichten &amp;amp; Weyland, 2018). However, the dual task of teaching and researching within the practical phase is often described as a stressfully perceived antinomy for most students (Fichten &amp;amp; Weyland 2018). One possibility for research-based learning apart from obligatory (teaching) internships is the implementation of empirical projects within the final thesis (Kamm &amp;amp; Bieri, 2008; Vetter, Staub &amp;amp; Ingrisani, 2014). The process of a bachelor/master thesis enables students to achieve a broader view of teaching systems and school systems over a longer term. However, even with this form of research-based learning, there is a need for methodological support so that it is considered meaningful (Weyland, 2014). It may therefore be useful to support students at the end of their bachelor&apos;s or master&apos;s degree in scientific work and in learning research methods in order to demonstrate the benefits of research-based learning for later professional practice. The QUALITEACH project &quot;Qualitätsoffensive Lehrerbildung&quot; funded by the BMBF has taken up this challenge and provides individual methodological advice for student teachers in their final thesis phase via the sub-project &quot;Forschungslabor MasterMind &quot;. In this article, the process of the methodological consulting is explained, the students ‘issues are sketched out and initial evaluation data is presented.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3242</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3242">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3242/3873" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3242" DMDID="DMD_biejournals_3242">
+            <mets:fptr FILEID="FILE0_biejournals_3242"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

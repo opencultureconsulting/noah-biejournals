@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3734">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Evaluation und Förderung von Facetten einer Nachhaltigkeitskompetenz bei Schülerinnen und Schülern der Sekundarstufe I</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoppe, Tobias</displayForm>
+                        <namePart type="family">Hoppe</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rieß, Werner</displayForm>
+                        <namePart type="family">Rieß</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Um globalen Herausforderungen wie der ökologischen Krise zu begegnen und an einer nachhaltigen Entwicklung mitzuwirken, benötigen Lernende ein grundlegendes Verständnis ökologischer Prinzipien und Wirkungszusammenhänge. Im Unterrichtsfach Biologie sollen hierfür wesentliche ökologische Konzepte vermittelt werden. Gleichzeitig hat sich gezeigt, dass Lernende trotz oft vorausgegangenem Unterricht häufig Schwierigkeiten haben, relevante Aspekte wie z. B. die essentielle Bedeutung von Pflanzen in Ökosystemen angemessen einzuschätzen.&amp;nbsp; Es stellt sich die Frage, wie sich bei Lernenden das Verständnis ökologischer Konzepte entwickelt und wie es wirksam gefördert werden kann. Zur Beantwortung dieser Frage wurden im Rahmen einer Querschnittstudie wurden Schülerinnen und Schüler der Sekundarstufe I aus unterschiedlichen Klassenstufen zu ihren Vorstellungen und Denkmustern zu wesentlichen ökologischen Konzepten befragt (N = 294). Darüber hinaus wurden im Rahmen einer Wirksamkeitsstudie die Effekte eines Waldschulheimaufenthalts auf die Entwicklung eines Verständnisses der hier fokussierten ökologischen Konzepte getestet (N&amp;nbsp;=&amp;nbsp;52). Es zeigte sich u. a., dass sich die Vorstellungen der Lernenden zu Stoffkreisläufen im Laufe der Sekundarstufe I deutlich in Richtung fachlich gültiger Vorstellungen veränderten. Durch den Waldschulheimaufenthalt konnten lediglich einzelne Aspekte gefördert werden, z.&amp;nbsp;B. die Artenkenntnis von Pflanzen des Waldes. Die Ergebnisse werden in Hinblick auf die Wirkung von Biologieunterricht und Entwicklung von Lernangeboten hinsichtlich der Förderung nachhaltigkeitsrelevanten ökologischen Wissens diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3734</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3734">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3734/4209" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3734" DMDID="DMD_biejournals_3734">
+            <mets:fptr FILEID="FILE0_biejournals_3734"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

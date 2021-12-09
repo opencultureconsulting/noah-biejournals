@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2176">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Einstimmung in die Kontrollgesellschaft. Der „Trainingsraum“ als fragwürdiges Beratungsformat</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pongratz, Ludwig A.</displayForm>
+                        <namePart type="family">Pongratz</namePart>
+                        <namePart type="given">Ludwig A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">An die Stelle des veralteten und verpönten Strafdiskurses ist in heutigen Schulen längst ein Kontrolldiskurs getreten, der sich ein zeitgemäßes Image zulegt. Nun werden Schüler in &quot;Trainingsräume&quot; geschickt, als ginge es um eine Übungsstunde im Fitness-Studio. Tatsächlich geht es um mehr: um die Einstimmung in eine spezifische Weise der Selbst-Beobachtung und Selbst-Transformation, um Normalisierungsprozesse, die zum selbsttätigen - und scheinbar &quot;freiwilligen&quot; - Nachsteuern animieren. Die intendierte Selbst-Führung aber muss eigens angeleitet werden. Um die &quot;Führung der Selbst-Führungen&quot; erzeugen und systematisch variieren zu können, braucht man ein darauf abgestimmtes Instrumentarium. Die derzeit propagierte &quot;Trainingsraum&quot;-Methode kann als Teil dieses Instrumentariums begriffen werden. Was immer an Beratungsprozessen im &quot;Trainingsraum&quot; angestoßen wird, bleibt eingebunden in Normalisierungs- und Kontrollprozeduren, die einen grundlegenden gesellschaftlichen Wandel anzeigen: den Aufstieg der &quot;Kontrollgesellschaft&quot;.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2176</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2176">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2176/2046" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2176">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2176/2047" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2176" DMDID="DMD_biejournals_2176">
+            <mets:fptr FILEID="FILE0_biejournals_2176"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2176" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2176"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

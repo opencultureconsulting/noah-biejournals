@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Invasive tropische Landplanarie Obama nungara in Deutschland</title>
+                        <subTitle>Verhalten und Beutespektrum</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kutschera, Ulrich</displayForm>
+                        <namePart type="family">Kutschera</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ehnes, Ingo</displayForm>
+                        <namePart type="family">Ehnes</namePart>
+                        <namePart type="given">Ingo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die aus Argentinien und anderen Regionen Südamerikas stammende, seit 2008 wiederholt über Blumenerde importierte, u. a. in Frankreich vorkommende räuberische Obama nungara konnte erstmals für Deutschland nachgewiesen werden. Ein im April 2021 in Regensburg (Bayern) gefundenes, ca. 4 cm langes Exemplar wurde kultiviert und untersucht. Die Landplanarie meidet stehendes Wasser; sie ernährt sich von kleinen Regenwürmern und Gehäuseschnecken. Einheimische Süßwasserplanarien werden von O. nungara gejagt und verschlungen, Mückenlarven und Kellerasseln hingegen ignoriert. Ob es zu einer Bioinvasion kommen wird, ist derzeit noch unbekannt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4873</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4873">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4873/4559" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4873" DMDID="DMD_biejournals_4873">
+            <mets:fptr FILEID="FILE0_biejournals_4873"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

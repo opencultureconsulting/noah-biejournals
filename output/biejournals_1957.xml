@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1957">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social studies teachers’ reflections after participating in an experimental study on deliberative teaching</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Andersson, Klas</displayForm>
+                        <namePart type="family">Andersson</namePart>
+                        <namePart type="given">Klas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This article examines teachers’ reflections during and after their participation in a teaching experiment focusing on how different teaching methods affect student learning in the social studies/civic education. 
+Method: In the field experiment, classes and teachers were randomly assigned to a teaching syllabus based on the theoretical ideal of deliberative teaching or a conventional syllabus that served as a control. Building on Guskey’s model of teacher change (1986/2002), the participating teachers were interviewed to investigate the occurrence of possible change sequences. 
+Findings: The results showed that the teachers were not interested in changing their teaching practices due to the result of the study. While the teachers were keen to develop the material from the experiment, they preferred to do so in their own way based on their personal beliefs about what constitutes good social studies teaching.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1957</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1957">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1957/3670" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1957" DMDID="DMD_biejournals_1957">
+            <mets:fptr FILEID="FILE0_biejournals_1957"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

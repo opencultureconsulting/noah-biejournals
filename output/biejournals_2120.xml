@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2120">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Konsequente, wertorientierte Kommunikation als eine Schlüsselkompetenz zur Gewaltprävention in Organisationen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Fred</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Fred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-13</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">In diesem Beitrag möchte ich darstellen, dass Supervision ein zentrales Element der Kommunikationsentwicklung in Organisationen sein kann, um Strukturen zu fördern, die sexueller und sexualisierter Gewalt einen möglichst geringen Nährboden bereiten. Dabei soll neben der Vielzahl der strukturellen Einflussmöglichkeiten vor allem auf die Frage der Werthaltung der in der Organisation tätigen Menschen und deren spürbarer Einforderung eingegangen werden. Dies verlangt eine Kommunikations- und Feedback-Kultur, welche entscheidenden Einfluss auf die Frage hat, wie früh gewaltbereite Menschen in einer Organisation auf spürbare Grenzen stoßen. Vor den inhaltlichen Ausführungen möchte ich meinem Text eine kurze, aber wichtige Begriffsbeschreibung voranstellen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2120</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2120">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2120/1987" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2120" DMDID="DMD_biejournals_2120">
+            <mets:fptr FILEID="FILE0_biejournals_2120"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

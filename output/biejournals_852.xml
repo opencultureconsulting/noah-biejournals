@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_852">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cosmopolitan Citizenship Education</title>
+                        <subTitle>Realistic Political Program or Program to Disillusioned Powerlessness? A Plea for a Critical Power Perspective within Global Citizenship Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eis, Andreas</displayForm>
+                        <namePart type="family">Eis</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Moulin-Doos, Claire</displayForm>
+                        <namePart type="family">Moulin-Doos</namePart>
+                        <namePart type="given">Claire</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The aim of the research is to determine to what extent one can talk about “cosmopolitan citizenship” not only programmatically, but also as an already functioning entity. And what role can and should civic education play in the development of such a citizenship?Methods: A working definition of citizenship at the national, supranational, and global level is developed with the help of political theory and European and international law. Several theses on the understanding of cosmopolitan citizenship in Global Citizenship Education and Education for Sustainable Development programs are discussed thanks to a policy analysis of, for example, UNESCO documents.Findings: Supranational programs and German curriculum-recommendations are mostly reduced to the level of rights-holders and if “political action” is envisaged then it is mostly focused on its individual dimension of (private) social responsibility i.e. in its post-political dimension. This lacks analysis of global power conflicts and of the question of democratic participation on supranational policy regulation. Practical implications: There are implications for curriculum development and implementation of educational policy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_852</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_852">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/852/966" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_852" DMDID="DMD_biejournals_852">
+            <mets:fptr FILEID="FILE0_biejournals_852"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3995">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Statistical Literacy &amp; Data Literacy – Grundbildung im Umgang mit empirischen Daten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stiller, Cornelia</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Allmers, Tobias</displayForm>
+                        <namePart type="family">Allmers</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stockey, Andreas</displayForm>
+                        <namePart type="family">Stockey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bereits in der Schule ist es notwendig, ein Verständnis von wissenschaftlichen Forschungsprozessen und dem Zustandekommen der daraus resultierenden Befunde, Schlüsse und Darstellungen zu fördern, um Schüler*innen so auf einen kompetenten Umgang mit Informationen im Alltag vorzubereiten. In diesem Beitrag wird ein Ansatz vorgestellt, wie diese Förderung im Rahmen eines Naturwissenschaftskurses für die Eingangsphase der Oberstufe erfolgen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3995</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3995">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3995/3956" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3995">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3995/3958" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3995" DMDID="DMD_biejournals_3995">
+            <mets:fptr FILEID="FILE0_biejournals_3995"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3995" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3995"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

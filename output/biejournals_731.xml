@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_731">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Struggling Concept of Social Issues in Social Studies</title>
+                        <subTitle>A Discourse Analysis on the Use of a Central Concept in Syllabuses for Social Studies in Swedish Upper Secondary School</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Morén, Göran</displayForm>
+                        <namePart type="family">Morén</namePart>
+                        <namePart type="given">Göran</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aldenmyr, Sara Irisdotter</displayForm>
+                        <namePart type="family">Aldenmyr</namePart>
+                        <namePart type="given">Sara Irisdotter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This is a study of how the concept of social issues was used in various ways in syllabuses for the school subject Samhällskunskap (Social Studies) in Swedish upper secondary school from 1965 to 2011. The concept is present in all syllabuses, be it with shifting status and position. A discourse analysis of syllabus texts shows how the concept of social issues in some contexts functions as a subject content among other contents, while functioning as a central, organizing principle in others. This analysis also shows how the use of the concept of social issues further indicates what educational philosophies and working methods are advocated in the syllabuses. The use of the concept may in turn be interpreted as part of a discursive struggle of powers between advocators of a differentiated upper-secondary school model on the one hand and advocators of a unified upper-secondary school model on the other. In this sense, the study of a single concept used in syllabuses may contribute to a discussion about larger educational discourse and the normativity embedded in education in general and in the school subject Samhällskunskap in particular.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_731</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_731">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/731/791" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_731" DMDID="DMD_biejournals_731">
+            <mets:fptr FILEID="FILE0_biejournals_731"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

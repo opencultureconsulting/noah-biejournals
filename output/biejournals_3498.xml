@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3498">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wenn familia nicht Familie bedeutet</title>
+                        <subTitle>Kulturelles, interkulturelles und transkulturelles Lernen anhand lateinischer Hotwords</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Janssen, Leoni</displayForm>
+                        <namePart type="family">Janssen</namePart>
+                        <namePart type="given">Leoni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Angesichts einer zunehmend heterogenen Schüler*innenschaft sind die Themen kultureller, interkultureller und transkultureller Bildung sowie der Mehrsprachigkeit aus aktuellen sprachdidaktischen Diskussionen nicht mehr wegzudenken. In der Lateindidaktik wurde jedoch bisher kaum grundlegend aufgearbeitet, was unter kulturellem, interkulturellem und transkulturellem Lernen im Kontext von Spracherwerb und Mehrsprachigkeit zu verstehen ist oder wie diese Ansätze in den Elementarunterricht implementiert werden können. Der vorliegende Artikel widmet sich der Verbindung von Sprache und Kultur und stellt ein erstes Modell vor, das kulturelles, interkulturelles und transkulturelles Lernen an das Verständnis und die Reflexion von Lehrbuchtexten anbindet. Eine zentrale Rolle in diesem Modell nimmt die Hotword-Methode aus dem Fach Deutsch als Fremdsprache ein, mit welcher auf kulturelle Deutungsmuster in den Konzepten lateinischer Vokabeln fokussiert werden kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3498</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3498">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3498/3663" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3498" DMDID="DMD_biejournals_3498">
+            <mets:fptr FILEID="FILE0_biejournals_3498"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

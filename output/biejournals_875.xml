@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_875">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teaching About the Other in Primary Level Social Studies</title>
+                        <subTitle>The Sami in Norwegian Textbooks</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eriksen, Kristin Gregers</displayForm>
+                        <namePart type="family">Eriksen</namePart>
+                        <namePart type="given">Kristin Gregers</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The aim of this article is to discuss to what extent and in what ways the Sami people are included in national imaginary in textbooks. The article sheds critical light on important aspects of democracy, inclusion and multi-culturalism in education through the example of indigenous peoples in Norway. The article also explores what opportunities textbooks provide for promoting anti-oppressive education and pedagogical subjectification.Method: Social studies textbooks for primary school are analyzed based on critical discourse analysis (CDA) and elements from multi-modal analysis. The analysis focuses on the use of vocabulary and pronouns signaling inclusion and exclusion. Specific attention is paid to the hidden curriculum.Findings: The Sami are essentialized and actively constructed as the Other through the structure and content of narratives. This corresponds to the strategy described in anti-oppressive education as education for the Other. Externalization of the Sami from the story of the Norwegian national day and in particular, treatment of the discriminatory Norwegianization politics, reinforce the image of Norwegian exceptionalism.Practical implications: Potential for education that promotes social change and subjectification through disrupting hegemonic discourses are located. Extended knowledge on this implicates further research on the workings of discourse in educational practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_875</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_875">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/875/1005" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_875">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/875/1006" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_875" DMDID="DMD_biejournals_875">
+            <mets:fptr FILEID="FILE0_biejournals_875"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_875" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_875"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

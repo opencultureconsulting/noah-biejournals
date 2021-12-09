@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3658">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehrende in der Hochschulweiterbildung und ihr didaktischer Unterstützungsbedarf</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fischer, Andreas</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dozentinnen und Lehrbeauftragte gestalten den Unterrichtder wissenschaftlichen Weiterbildung maßgeblich in eigenerKompetenz. Deshalb spielen sie für die Qualität des Angebotseine zentrale Rolle. Wer aber sind sie? Wie sind sie fürdiese Aufgabe qualifiziert? Wie werden sie unterstützt undwelche Unterstützung wünschen sie sich? Im Rahmen einerStudie zur didaktischen Qualität der Hochschulweiterbildung1hat das Zentrum für universitäre Weiterbildung ZUWauch Daten zu diesen Fragen erhoben. Die Ergebnisse gebeneinen Einblick in die Praxis der Hochschulweiterbildung underlauben Folgerungen hinsichtlich Personalentwicklung unddidaktischer Unterstützung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3658</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3658">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3658/3729" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3658" DMDID="DMD_biejournals_3658">
+            <mets:fptr FILEID="FILE0_biejournals_3658"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4396">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Merkmale guten Unterrichts als Sprungbrett zum Forschenden Lernen im Literaturunterricht</title>
+                        <subTitle>Unterstützung zur Themenfindung für Studienprojekte</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Freudenau, Tanja</displayForm>
+                        <namePart type="family">Freudenau</namePart>
+                        <namePart type="given">Tanja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wenn Lehramtsstudierende sich im Masterstudium in den Vorbereitungsseminaren für das Praxissemester befinden, sind sie überwiegend bereits mit den Merkmalen guten Unterrichts nach Meyer (2004) in Berührung gekommen. In diesem Beitrag wird dargestellt, wie die Merkmale in deutsch- bzw. literaturdidaktischen Bezug gesetzt werden können, um sie schließlich für die Erarbeitung eines Forschungsanliegens für das Praxissemester nutzbar zu machen. So steht als Material eine Tabelle im Zentrum dieses Beitrags, die ausgehend von den Merkmalen guten Unterrichts die Themenfindung hinsichtlich des Forschenden Lernens unterstützen soll. Erprobt wurde die Tabelle mit Studierenden rund um das Praxissemester in der Sprachlichen Grundbildung mit dem Schwerpunkt Literaturdidaktik für die Grundschule. Vorrangiges Ziel war es, Ideen für Studienprojekte zu entwickeln und Anregungen in der Seminargruppe zu teilen. Weiterhin ist es möglich, die Tabelle im Begleitseminar einzusetzen, indem neue Erkenntnisse sukzessiv ergänzt werden, sowie sie neben der Themenfindung für Studienprojekte auch zur Unterstützung für die Unterrichtsplanung heranzuziehen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4396</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4396">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4396/4461" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4396">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4396/4462" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4396" DMDID="DMD_biejournals_4396">
+            <mets:fptr FILEID="FILE0_biejournals_4396"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4396" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4396"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

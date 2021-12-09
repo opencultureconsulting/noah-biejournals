@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Childhood adversity and leisure time physical and sports activity in older adults</title>
+                        <subTitle>A cross-sectional analysis from the International Mobility in Aging Study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>W. Hwang, Phoebe</displayForm>
+                        <namePart type="family">W. Hwang</namePart>
+                        <namePart type="given">Phoebe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>dos Santos Gomes, Cristiano</displayForm>
+                        <namePart type="family">dos Santos Gomes</namePart>
+                        <namePart type="given">Cristiano</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Auais, Mohammad</displayForm>
+                        <namePart type="family">Auais</namePart>
+                        <namePart type="given">Mohammad</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>L. Braun, Kathryn</displayForm>
+                        <namePart type="family">L. Braun</namePart>
+                        <namePart type="given">Kathryn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>M. Pirkle, Catherine</displayForm>
+                        <namePart type="family">M. Pirkle</namePart>
+                        <namePart type="given">Catherine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The purpose is to examine the relationship between childhood adversity and leisure time physical activity (LTPA) among community-dwelling older adults from high and middle-income sites.
+Methods: Cross-sectional analysis of 2012 data from older adult ages 64-75 years old from King-ston, Canada; St. Hyacinthe, Canada; Tirana, Albania; Manizales, Colombia; and Natal, Brazil. Principal exposure variables were childhood social and economic adversity. Covariates included participant age, sex, income, and educational attainment. Outcome variables were LTPA and lei-sure time sports activity (LTSA).
+Results: High-income sites had higher LTPA prevalence than middle-income sites. Females were less likely to engage in LTPA compared to males in Tirana (OR:0.53, 95%CI:0.30-0.94), but were more likely to engage in LTPA in Manizales (OR:2.54, 95%CI:1.54-4.18). Low education was less likely than high education to engage in LTPA in Kingston (OR:0.38, 95%CI:0.19-0.73) and Natal (OR: 0.52, 95%CI:0.28-0.97). Low income was less likely than high income to engage in LTPA in St. Hyacinthe (OR: 0.42, 95%CI:0.20-0.89) and Manizales (OR:0.33, 95%CI:0.16-0.55). In Tirana, low income was more likely than high income to engage in LTPA (OR:5.27, 95%CI:2.06-13.51).
+Conclusions: Childhood economic and social adversity were not significantly associated with LTPA. Sex, income, and education were associated with older adult PA engagement, however the direction of the association varied by site location. This suggests that the paradigms surrounding PA behavior may vary from city to city. Understanding the site-specific risk factors to PA engage-ment may better inform clinical recommendations and public health approaches to increase PA engagement among older adults across the globe.
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3890</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3890">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3890/3871" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3890" DMDID="DMD_biejournals_3890">
+            <mets:fptr FILEID="FILE0_biejournals_3890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

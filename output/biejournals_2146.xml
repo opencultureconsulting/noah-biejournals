@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2146">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wege zur Professionalisierung - Über die Anfänge der Supervision in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leuschner, Gerhard</displayForm>
+                        <namePart type="family">Leuschner</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weigand, Wolfgang</displayForm>
+                        <namePart type="family">Weigand</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">FoRUM SuPERVISION: Wir freuen uns darüber, hier mit zwei Menschen zusammen zu kommen, die von der Supervision biografisch geprägt sind und die die Profession Supervision in den letzten Jahrzehnten nachhaltig geprägt haben. Wir würden gern von Ihnen etwas mehr erfahren, wie Sie die Anfänge der Supervision in Deutschland erlebt haben. Dabei geht es uns weniger um eine exakte Rekonstruktion Geschichte der Supervision - das sollten wir vielleicht späteren Generationen vorbehalten - als vielmehr um prägende biografische Begegnungen und wichtige Entwicklungspunkte.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2146</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2146">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2146/2013" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2146" DMDID="DMD_biejournals_2146">
+            <mets:fptr FILEID="FILE0_biejournals_2146"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

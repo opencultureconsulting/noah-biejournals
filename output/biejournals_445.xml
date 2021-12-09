@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_445">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>mypoliticalspace – Making Politics Visible through Web 2.0</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Perlot, Flooh</displayForm>
+                        <namePart type="family">Perlot</namePart>
+                        <namePart type="given">Flooh</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Web 2.0 is one of the later innovations in Internet-related developments. The term expresses less a new piece of technology but more new ways of using the Net; weblogs and social networks like myspace are among the most prominent examples of Web 2.0. Its catchphrase may be: you control your own data. Web 2.0 gimmicks bear new possibilities for young people, which are the heaviest users of the Internet, not only to get political information, but also to show and share their views and opinions. It also gives politicians a way of presenting themselves without any interference. In both ways it can contribute to a process of making politics visible. Besides assessing some data about political Internet usage the article tries to show some opportunities as well as problems related to making politics visible in Web 2.0.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_445</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_445">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/445/442" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_445" DMDID="DMD_biejournals_445">
+            <mets:fptr FILEID="FILE0_biejournals_445"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

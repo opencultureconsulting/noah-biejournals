@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3401">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Leitlinien für die universitäre Lehrerfort- und -weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Margaretha</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Margaretha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baust, Christina</displayForm>
+                        <namePart type="family">Baust</namePart>
+                        <namePart type="given">Christina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fleck, Patrick B.</displayForm>
+                        <namePart type="family">Fleck</namePart>
+                        <namePart type="given">Patrick B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Werner-Neumann, Evamaria</displayForm>
+                        <namePart type="family">Werner-Neumann</namePart>
+                        <namePart type="given">Evamaria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pachner, Anita</displayForm>
+                        <namePart type="family">Pachner</namePart>
+                        <namePart type="given">Anita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt-Hertha, Bernhard</displayForm>
+                        <namePart type="family">Schmidt-Hertha</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vor dem Hintergrund der Qualitätsoffensive Lehrerbildung wurden an der Tübingen School of Education (TüSE) im Teilprojekt „Lehrerfort- und -weiterbildung“ bedarfsgerechte und wissenschaftlich fundierte Fort- und Weiterbildungsangebote für Lehrkräfte in Baden-Württemberg pilotiert. Auf dieser Basis und orientiert an erwachsenenpädagogischen Prinzipien wurden Leitlinien für die dritte Phase der Lehrerbildung an Universitäten entwickelt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3401</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3401">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3401/3990" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3401" DMDID="DMD_biejournals_3401">
+            <mets:fptr FILEID="FILE0_biejournals_3401"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3021">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Intimate Partner Violence Against Disabled Women as a Part of Widespread Victimization and Discrimination over the Lifetime</title>
+                        <subTitle>Evidence from a German Representative Study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schröttle, Monika</displayForm>
+                        <namePart type="family">Schröttle</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Glammeier, Sandra</displayForm>
+                        <namePart type="family">Glammeier</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Prevalence rates of partner violence are high for women in general, but disabled women seem to be even more vulnerable. To explore this question, interviews were conducted with a representative sample of women with physical, mental, intellectual, hearing, and vision disabilities living in households (N=800) and in institutions (N=420). Additionally, a supplementary survey with a non-representative sample of blind, severely physically/multiply disabled, and deaf women (N=341) and qualitative interviews with thirty-one victimized women with disabilities were conducted. The standardized questionnaire was comparable to an earlier German representative survey on violence against women in the general population (N=10,264). Overall, 25 to 45 percent of women with disabilities had experienced intimate partner violence, which is two to five times the rate for the general population (depending on the specific group). Type and severity of disability, living situation, and experience of discrimination and violence in childhood and adolescence correlated with increased vulnerability. The findings confirm the hypothesis of elevated vulnerability discussed in international research and deepen insights into risk factors for victimization, for example discrimination, violence in childhood and youth, life situation, and type of disability. The results are crucial for further research as well as for prevention, intervention and support.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3021</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3021">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3021/pdf_93" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3021">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3021/2989" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3021" DMDID="DMD_biejournals_3021">
+            <mets:fptr FILEID="FILE0_biejournals_3021"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3021" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3021"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

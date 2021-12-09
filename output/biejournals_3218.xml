@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3218">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wirkung von Neurotoxinen aus Pflanzenschutzmitteln auf den Wasserfloh Daphnia magna</title>
+                        <subTitle>Ein neues Schulexperiment mit neurobiologischen und ökologischen Aspekten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Giovio, Hazel</displayForm>
+                        <namePart type="family">Giovio</namePart>
+                        <namePart type="given">Hazel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Viele Insektizide wirken neurotoxisch auf Pflanzenschädlinge. Dies kann in einem Schulexperiment mit einem haushaltsüblichen Pflanzenschutzmittel und Wasserflöhen als Modellorganismen untersucht werden. Das Neurotoxin bewirkt eine Verminderung der Herzschlagfrequenz der Tiere, wobei dieser Effekt reversibel ist. Das Experiment eignet sich für mehrere Inhaltsfelder der Sekundarstufen I und II.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3218</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3218">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3218/3414" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3218">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3218/3415" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_3218">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3218/3524" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3218" DMDID="DMD_biejournals_3218">
+            <mets:fptr FILEID="FILE0_biejournals_3218"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3218" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3218"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3218" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3218"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

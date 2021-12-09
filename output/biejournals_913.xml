@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_913">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Our Silent Day”</title>
+                        <subTitle>One White Gay Teacher Explores Teacher Agency in Counter-Socialization during the National Day of Silence</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Conrad, Jenni</displayForm>
+                        <namePart type="family">Conrad</namePart>
+                        <namePart type="given">Jenni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This study examines one “out” gay teacher’s participation in the Day of Silence (DoS), an international event highlighting the silencing of LGBTQ people in schools, to illustrate teacher agency in counter-narrative teaching, particularly for countering the typical civic exclusions of LGBTQ people.
+Design: Civic education and queer theory inform this interpretive qualitative case study based on four semi-structured teacher interviews and document analysis.
+Findings: When all 150 students chose to participate and nearly all found DoS meaningful, the ritual’s possibilities for counter-socialization and civic inclusion deepened, expanding teacher agency and&amp;nbsp; suggesting increased trust and communal concern, particularly for students of color. Though being “out” may often be perceived as a constraint or liability for social educators, this teacher drew on his identity and queer theory as clear assets for crafting effective, experiential counter-socialization learning.
+Research limitations: District concerns limited data to those collected from the teacher, limiting triangulation efforts.
+Practical implications: “Out” LGBTQ teachers able to contextualize counter-socialization learning with their own experiences of civic exclusion may have particular assets for social education. DoS and queer theory may offer useful tools for non-LGBTQ educators, especially when multiple or intersectional meanings are validated.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_913</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_913">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/913/1449" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_913" DMDID="DMD_biejournals_913">
+            <mets:fptr FILEID="FILE0_biejournals_913"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

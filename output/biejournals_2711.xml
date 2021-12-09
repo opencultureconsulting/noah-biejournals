@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2711">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nachdenken und Sprechen über Unterricht und mich selbst</title>
+                        <subTitle>Reflexionsmethoden für den phasenübergreifenden Einsatz in der Lehrer_innenbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Reflection and discussion about tuition and oneself</title>
+                        <subTitle>Reflective methods for comprehensive application in Teacher Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Junghans, Carola</displayForm>
+                        <namePart type="family">Junghans</namePart>
+                        <namePart type="given">Carola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Feindt, Andreas</displayForm>
+                        <namePart type="family">Feindt</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag präsentiert ausgewählte Kleinformate, die in allen drei Phasen der Lehrer_innenbildung erprobt wurden. Es handelt sich um&amp;nbsp;&amp;nbsp;&amp;nbsp; didaktische Instrumente, mit denen Reflexionsprozesse sowohl in Lehr-, Lern-, Fortbildungs- als auch Beratungssettings angeregt werden können. Gemeinsam ist diesen Instrumenten, dass ihnen jeweils ein theoretisches Modell zur Professionalisierung und/oder Unterrichtsentwicklung zugrunde liegt. Sie sind so aufbereitet, dass sie als visualisierte Reflexions- und Gesprächsimpulse zum Einsatz kommen. Ziel dieser Vorgehensweise ist, ein theoriegeleitetes und kriterienorientiertes Nachdenken und Sprechen über Unterricht und die eigene Person systematisch zu befördern. Dabei werden theoretische Implikationen sichtbar und für eine berufliche Weiterentwicklung nutzbar gemacht, indem Sehen und Verstehen durch die didaktischen Instrumente dialogisch gefördert werden.
+&amp;nbsp;</abstract>
+                    <abstract lang="eng">The article presents selected extracts (competencies) that are tested through all the phases of teacher education. It deals with the use of didactical tools and their reflective processes that could be stimulated not only in the teaching, learning and vocational training environment, but also in a consultative setting. These tools, together with their theoretical model, underpin professionalism and/or tuition development and are formatted in such a way that they are applied in visualized reflecting and discussion impulses. The target of this process is to promote a systematic approach to “Reflection and Discussion about Tuition and Oneself,” guided by theory and criteria orientation. Thus, the theoretical implications are made clear and useful for professional development and “seeing and understanding” are realized by means of the didactical tools promoted through dialogue.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2711</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2711">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2711/3382" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2711" DMDID="DMD_biejournals_2711">
+            <mets:fptr FILEID="FILE0_biejournals_2711"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

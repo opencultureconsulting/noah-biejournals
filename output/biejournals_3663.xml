@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3663">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Videofallbasiertes Lernen</title>
+                        <subTitle>Ein innovatives Konzept zur Weiterbildung von Hochschullehrenden</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Digel, Sabine</displayForm>
+                        <namePart type="family">Digel</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baust, Christina</displayForm>
+                        <namePart type="family">Baust</namePart>
+                        <namePart type="given">Christina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schrader, Josef</displayForm>
+                        <namePart type="family">Schrader</namePart>
+                        <namePart type="given">Josef</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zuge der in Wissenschaft und Praxis geführten Diskussionum die Qualität von Lehre erfährt die Hochschuldidaktikim Kontext der Professionalisierung von Hochschullehrendenin den letzten Jahren einen Bedeutungsgewinn. Dabeistellt sich im Rahmen eines am Standort Tübingen initiiertenQualitätspakt-Lehre-Projektes die Frage, wie Lehrendein ihrer Handlungskompetenz bedarfsgerecht gefördert werdenkönnen und sich gleichzeitig eine nachhaltige Angebotsstrukturan der Hochschule etabliert lässt. Videofallarbeitstellt ein innovatives und empirisch bewährtes Konzept dar,das an den unmittelbaren Praxisanforderungen Lehrenderansetzend, die Entwicklung grundlegender Fähigkeiten professionellenpädagogischen Handelns thematisiert und flexibelin bestehende oder neu zu konzipierende Weiterbildungenintegrierbar ist. Der vorliegende Beitrag stellt ein Projekt vor,das – aufbauend auf eine Bedarfsanalyse bei den Hochschullehrenden– auf die Implementation dieses Konzepts in dieWeiterbildungspraxis zielt und im Zuge der Erprobung vongeeigneten zeitlichen und organisationalen Formaten aucheinen Einbezug der bestehenden Ressourcen und Strukturender Hochschule Tübingen zur Weiterbildung ihres Lehrpersonalszu berücksichtigen versucht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3663</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3663">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3663/3734" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3663" DMDID="DMD_biejournals_3663">
+            <mets:fptr FILEID="FILE0_biejournals_3663"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

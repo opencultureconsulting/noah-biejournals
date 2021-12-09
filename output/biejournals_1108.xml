@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1108">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Empfehlungen zu einem Inklusionskonzept am Oberstufen-Kolleg Bielefeld</title>
+                        <subTitle>Ein Diskussionspapier der FEP-Gruppe „Kernaufgabe Inklusion am Oberstufen-Kolleg“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lübeck, Anika</displayForm>
+                        <namePart type="family">Lübeck</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lau, Ramona</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Ramona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rath-Arnold, Ingrid</displayForm>
+                        <namePart type="family">Rath-Arnold</namePart>
+                        <namePart type="given">Ingrid</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schultz, Nicola</displayForm>
+                        <namePart type="family">Schultz</namePart>
+                        <namePart type="given">Nicola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wäcken, Martina</displayForm>
+                        <namePart type="family">Wäcken</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Oberstufen-Kolleg Bielefeld verfügt über eine langjährige Erfahrung im Umgang mit seiner heterogenen Kollegiatenschaft und den daraus resultierenden unterschiedlichen pädagogischen Bedürfnissen. Die Projektgruppe „KIOSK – Kernaufgabe Inklusion am Oberstufen-Kolleg“ hat während der dreijährigen Projektlaufzeit von 2014 bis 2017 das Anliegen verfolgt, auf die Erfahrungen des Hauses in der Arbeit mit der heterogenen Kollegiatenschaft aufzubauen und systematischere Strukturen zu schaffen, die es ermöglichen, näher auf die individuellen pädagogischen Bedürfnisse der Kollegiat*innen in unterschiedlichen Bereichen des Schullebens eingehen zu können. Zu diesem Zwecke wurden mit unterschiedlichen Akteursgruppen Interviews und Gruppendiskussionen geführt, schulische Strukturen und Prozesse mit inklusionssensiblem Blick analysiert und z.T. auch adaptiert, neue Kursformate erprobt und Transferveranstaltungen durchgeführt. Die Erkenntnisse dieser umfassenden Analyse sind im vorliegenden Papier in Form von Empfehlungen zu einem Inklusionskonzept am Oberstufen-Kolleg Bielefeld gebündelt, die sich insgesamt auf zwölf unterschiedliche Be­reiche beziehen. Einige dieser Bereiche betreffen die Beratungs- und Unterstützungsstrukturen für Kollegiat*innen (etwa hinsichtlich ihrer Potenzialförderung, sonderpädagogischer Expertise, Schulsozialarbeit und Coaching-Programmen); andere Bereiche beziehen sich auf Strukturen und Prozesse des Hauses (z.B. das Aufnahmeverfahren, die Gewährung von Nachteils­ausgleich und der Umgang mit psychisch erkrankten Kollegiat*innen). Obwohl sich das vorliegende Dokument in erster Linie als Arbeitspapier für die weitere inklusive Schulentwicklung des Oberstufen-Kollegs versteht, mag es darüber hinaus jedoch trotz seiner Spezifik auch wertvoll für andere (Oberstufen-)Schulen sein – etwa, um den Blick für inklusive Strukturen und Prozesse zu schärfen, mögliche blinde Flecken aufzuspüren und Impulse für die eigene Schulentwicklung zu bekommen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1108</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1108">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1108/1190" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1108" DMDID="DMD_biejournals_1108">
+            <mets:fptr FILEID="FILE0_biejournals_1108"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

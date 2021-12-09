@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4808">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mathematische Problemaufgaben ohne Sprachbarriere</title>
+                        <subTitle>Problemlösen für alle Schüler*innen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dexel, Timo</displayForm>
+                        <namePart type="family">Dexel</namePart>
+                        <namePart type="given">Timo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Witte, Alena</displayForm>
+                        <namePart type="family">Witte</namePart>
+                        <namePart type="given">Alena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Kontext der Diskussion um inklusiven Mathematikunterricht gerät die Frage nach guten Aufgaben, zu denen möglichst viele Kinder einen Zugang finden, verstärkt in den Mittelpunkt. Um Kindern, die Schwierigkeiten beim Lesen von Aufgabentexten aufweisen, ebenfalls einen Zugang zu klassischen Problemaufgaben aus der Mathematik zu ermöglichen, haben wir diese so adaptiert, dass das Lesen eines Aufgabentextes keine Voraussetzung für das Lösen der Aufgabe mehr darstellt. Der Prozess der Adaption wird hier konkret an einem exemplarischen Beispiel erläutert, es wird die Erprobung mit Kindern betrachtet, und es werden Schlussfolgerungen für die weitere Aufgabenadaption abgeleitet.Im Kontext der Diskussion um inklusiven Mathematikunterricht gerät die Frage nach guten Aufgaben, zu denen möglichst viele Kinder einen Zugang finden, verstärkt in den Mittelpunkt. Um Kindern, die Schwierigkeiten beim Lesen von Aufgabentexten aufweisen, ebenfalls einen Zugang zu klassischen Problemaufgaben aus der Mathematik zu ermöglichen, haben wir diese so adaptiert, dass das Lesen eines Aufgabentextes keine Voraussetzung für das Lösen der Aufgabe mehr darstellt. Der Prozess der Adaption wird hier konkret an einem exemplarischen Beispiel erläutert, es wird die Erprobung mit Kindern betrachtet, und es werden Schlussfolgerungen für die weitere Aufgabenadaption abgeleitet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4808</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4808">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4808/4521" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4808">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4808/4523" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4808">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4808/4524" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4808" DMDID="DMD_biejournals_4808">
+            <mets:fptr FILEID="FILE0_biejournals_4808"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4808" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4808"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4808" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4808"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2328">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fallverständnis in der Sozialen Arbeit und seine Relevanz für Fallsupervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Althoff, Monika</displayForm>
+                        <namePart type="family">Althoff</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag widmet sich der Fallsupervision, die in der Supervisionspraxis regelmäßig angefragt wird und im Supervisionsdiskurs eine vernachlässigte Kategorie ist. Fallsupervision hat eine lange gemeinsame Geschichte mit der Sozialen Arbeit und für die supervisorische Debatte ist der Blick auf das Fallverständnis anderer Professionen lohnend. Die Ansätze von Marianne Hege und Fritz Schütze sind richtungsweisend und beispielhaft wird ihr jeweiliges Fallverständnis herausgearbeitet, so dass Fallsupervision als sozialer und diskursiver Ort fundiert wird. Der Artikel beruht auf Ausschnitten der Ergebnisse des Dissertationsvorhabens zum Thema &quot;Fallsupervision im Diskurs - Auseinandersetzung mit und Fundierung durch Theorien der Sozialen Arbeit, Sozialwissenschaften und der Psychoanalyse&quot; (Arbeitstitel), ohne dass diese als Zitate kenntlich gemacht sind.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2328</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2328">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2328/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2328" DMDID="DMD_biejournals_2328">
+            <mets:fptr FILEID="FILE0_biejournals_2328"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

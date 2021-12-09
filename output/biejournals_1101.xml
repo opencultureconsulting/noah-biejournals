@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1101">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Archaeology goes to high school </title>
+                        <subTitle>Practical approach to archaeology teaching in high school</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vijand, Liia</displayForm>
+                        <namePart type="family">Vijand</namePart>
+                        <namePart type="given">Liia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The study investigated how various school subjects can be integrated into archaeology teaching and how this could lead students towards empathy and a more sustainable worldview. Design/methodology/approach: To meet the purpose of this multiple-case study, optional archaeology course development (2011-2019) and students’ questionnaires and feedback group A (2018) and group B (2019) and various empirical material, was analysed in cross-case methods. Findings: Archaeology interdisciplinarity and analysing long-term human behaviour supports an understanding of human nature, emphasizes empathy and tolerance, and encourages social cohesion.Research limitations/implications: The study was carried out in Estonia as a multiple-case study and further research, especially in the empathy part, is needed for further conclusions. Practical implications: Archaeology is interdisciplinary and therefore as a school subject it links together various and sometimes abstract subjects. It gives an understanding of long-term human behaviour, which allows developing students’ empathy and tolerance.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1101</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1101">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1101/3306" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1101" DMDID="DMD_biejournals_1101">
+            <mets:fptr FILEID="FILE0_biejournals_1101"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

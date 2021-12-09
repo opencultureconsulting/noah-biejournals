@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2504">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Sensibilisierung für die Sprachförderung DaZ im Fachunterricht der Sekundarstufe – Annäherung durch reflektierte Praxiserfahrung</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>On awareness raising for language support in German as a second language (GSL) in subject teaching at secondary level through reflected practical experience</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wahbe, Nadia</displayForm>
+                        <namePart type="family">Wahbe</namePart>
+                        <namePart type="given">Nadia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riemer, Claudia</displayForm>
+                        <namePart type="family">Riemer</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag stellt ein Angebot zur Initiierung und Unterstützung von Reflexivität für sprachsensiblen Fachunterricht vor. Im Rahmen des BMBF-Projekts Diagnose- und Förderkompetenz für sprachsensiblen Fachunterricht der Sekundarstufe (BiProDaZ_FörBi) an der Universität Bielefeld wird ein Konzept zur Sensibilisierung für die fachintegrierte Sprachförderung erarbeitet, in dem Lehramtsstudierende im Rahmen eines spezifischen Praktikums für eine bewusste Integration bildungs- und fachsprachlicher Elemente im Unterricht qualifiziert werden, um Sprachdiagnose- und Sprachförderkompetenz zu entwickeln. In diesem Zusammenhang ist ein Reflexionsbogen zur systematischen Anbahnung von Reflexion entwickelt worden, der im Folgenden vorgestellt wird.</abstract>
+                    <abstract lang="eng">This article introduces a proposal for the initiation and support of reflexivity for language awareness in subject teaching. An approach to awareness raising for subject-integrated language support is being developed in the context of the BMBF project Diagnose- und Förderkompetenz für sprachsensiblen Fachunterricht der Sekundarstufe (BiProDaZ_FörBi) [= Competence in [language] diagnosis and support for language-aware subject teaching at the secondary level (BiProDaZ_FörBi)] at Bielefeld University. Student teachers will take part in a specifically focused practical training, which will equip them to integrate elements of German for specific and academic purposes systematically into their subject teaching in class. This internship will enable them to develop competence in language diagnosis and support for language-aware subject teaching. In this context a reflection sheet, introduced and attached below, has been developed to initiate systematic reflection</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2504</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2504">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2504/3378" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2504">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2504/3379" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2504" DMDID="DMD_biejournals_2504">
+            <mets:fptr FILEID="FILE0_biejournals_2504"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2504" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2504"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

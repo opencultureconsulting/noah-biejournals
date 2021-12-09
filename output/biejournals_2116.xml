@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2116">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Reflexion meiner Mitgliedschaft als Selbstständige Supervisorin in der DGSv und in der Arbeitsgemeinschaft der Selbstständigen (AGS) in der DGSv</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bispinck-Weigand, Ingeborg</displayForm>
+                        <namePart type="family">Bispinck-Weigand</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-13</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Autorin reflektiert ihre Entwicklung als Supervisorin, die Identifikation mit dem eigenen Ausbildungsinstitut, die allmählich der Identifikation mit dem Verband wich. Sie beschreibt ihre Arbeit in der AG der Selbstständigen in der DGSv, die jetzt allmählich &quot;in die Jahre kommt&quot; und dringend an Nachwuchs interessiert ist.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2116</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2116">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2116/1983" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2116" DMDID="DMD_biejournals_2116">
+            <mets:fptr FILEID="FILE0_biejournals_2116"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

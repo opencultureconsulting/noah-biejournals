@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1456">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Strengthening European citizenship education</title>
+                        <subTitle>Business as usual or time for change?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Missira, Vasiliki</displayForm>
+                        <namePart type="family">Missira</namePart>
+                        <namePart type="given">Vasiliki</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The article intends to identify whether and to what extent the educational activities supported by the European action programmes of the Council of Europe (CoE),as well as the European Union (EU), contribute to the promotion of active European citizenship. Taking into consideration that an effort is taking place to actively involve citizens – especially the youth – in public life at the national and European level, and that active citizenship is not limited exclusively to voting, a question arises: How to activate and enhance the participation of young people in public life? With reference to the EU, this question could be formulated as follows: Ηas a sense of belonging to a European demosbeen consolidated? Alternatively: Are young – mainly – people familiar with the democratic processes at the European level, such as European elections? In a Europe characterised by political apathy, social racism,racial discriminations and high unemployment rates, what would be the outcome of the efforts of the CoE and the EU on civic education? What has been recorded in the European countries where relevant programmes are implemented?[i]This analysis will also provide an answer on the future of Europe and its transition to a more democratic construction.
+&amp;nbsp;
+[i]The example of Greece, England and France is studied.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1456</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1456">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1456/2359" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1456" DMDID="DMD_biejournals_1456">
+            <mets:fptr FILEID="FILE0_biejournals_1456"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

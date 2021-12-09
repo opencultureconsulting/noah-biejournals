@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2849">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violence Research from North Africa to South Asia</title>
+                        <subTitle>A Historical and Structural Overview</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wilke, Boris</displayForm>
+                        <namePart type="family">Wilke</namePart>
+                        <namePart type="given">Boris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hippler, Jochen</displayForm>
+                        <namePart type="family">Hippler</namePart>
+                        <namePart type="given">Jochen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zakar, Muhammad Zakria</displayForm>
+                        <namePart type="family">Zakar</namePart>
+                        <namePart type="given">Muhammad Zakria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This is a historical and sociological overview of violence and violence research in and on North Africa, West Asia, and South Asia, considering only studies for a global audience. The main focus is on political violence, with a brief look at religious and communal violence, youth violence, and domestic and gendered violence. These regions have been consistently affected by political violence for many decades, the main source of which seems to be the ongoing state formation process, as well as social transformation in general. The literature on violence is dominated by international debates, at times with little regard to realities in the ground. It would be highly desirable for scholars from North Africa, West Asia and South Asia to play a more active role in research and debate.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2849</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2849">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2849/pdf_26" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2849">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2849/2640" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2849" DMDID="DMD_biejournals_2849">
+            <mets:fptr FILEID="FILE0_biejournals_2849"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2849" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2849"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

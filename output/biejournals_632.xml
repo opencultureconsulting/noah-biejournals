@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_632">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>New Global Cycle of Protest and the Portuguese Case</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Estanque, Elísio</displayForm>
+                        <namePart type="family">Estanque</namePart>
+                        <namePart type="given">Elísio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Costa, Hermes Augusto</displayForm>
+                        <namePart type="family">Costa</namePart>
+                        <namePart type="given">Hermes Augusto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Soeiro, José</displayForm>
+                        <namePart type="family">Soeiro</namePart>
+                        <namePart type="given">José</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-02-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper focuses on the recent cycle of collective action across countries and continents over the past few years. It seems to be evident that in the outset of 2011 began a new wave of global protests made of contagion and communication that spread in different contexts. Our argument is that, unlike other cycles marked by post-materialistic values, changes in labour and material issues have gained a new centrality. The labour and social basis of these mobilizations is particularly evident, though not exclusive, linking up with disaffection towards political institutions and a crisis of legitimacy of elites in power. We will take the example of the demonstration of 12th March in Portugal as an expression of some of the features in this emerging type of mobilization, where youth plays a leading role. It is from the empirical information concerning this public protest that we will build our analysis, identifying in the Portuguese reality parallels with the international context but also national peculiarities, dynamics of continuity and rupture in relation to the historical past.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_632</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_632">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/632/642" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_632">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/632/643" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_632" DMDID="DMD_biejournals_632">
+            <mets:fptr FILEID="FILE0_biejournals_632"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_632" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_632"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

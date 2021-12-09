@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_301">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Politics of League Tables</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Steiner-Khamsi, Gita</displayForm>
+                        <namePart type="family">Steiner-Khamsi</namePart>
+                        <namePart type="given">Gita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2002</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The article focuses on the political usages of OECD- and IEA-type studies on student achievement, and suggests that we examine in more detail how policy makers use results from international comparisons to advance fundamental school reform at national level. The author categorizes three types of policy reactions to league tables: (1) scandalization, (2) glorification, and (3) indifference. Drawing from media reports and policy debates that emerged right after the release of the results from TIMSS, PISA, and the Civic Education Study, the author points at the different policy reactions that these OECD and IEA studies have had in various national contexts. In Japan, for example, the release of TIMSS led to a self-affirmation or glorification of Japanese methods in science and mathematics, whereas the release of PISA in Germany triggered self-criticism or scandalization, and strengthened existing demands for a fundamental reform of the German educational system. Most striking is the political indifference that the release of the IEA Civic Education encountered in Germany. German students held the last rank in the international league table on attitudes towards immigrants (Civic Education Study), whereas they scored below OECD-average in reading literacy (PISA). The author provides a few tentative explanations for the following question: why was there such a political spectacle about the reading literacy scores of German students given that German students did far worse with regard to xenophobia?</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_301</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_301">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/301/298" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_301" DMDID="DMD_biejournals_301">
+            <mets:fptr FILEID="FILE0_biejournals_301"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

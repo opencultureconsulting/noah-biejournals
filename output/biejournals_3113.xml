@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3113">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Law Students’ Judgments of a Rape Victim’s Statement</title>
+                        <subTitle>The Role of Displays of Emotion and Acceptance of Sexual Aggression Myths</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bohner, Gerd</displayForm>
+                        <namePart type="family">Bohner</namePart>
+                        <namePart type="given">Gerd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schapansky, Evelyn</displayForm>
+                        <namePart type="family">Schapansky</namePart>
+                        <namePart type="given">Evelyn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Female rape victims who display “appropriate” emotions (versus “inappropriate” or no emotions) are often judged to be more credible. The authors studied the interplay of different emotion displays with perceivers’ acceptance of modern myths about sexual aggression (AMMSA) in predicting judgments of credibility and blame. Law students (N = 120) completed a 16-item AMMSA scale and watched a video showing a simulated interview with a rape victim (played by an actress). The emotion displayed by the victim (sad, angry, or neutral) was experimentally manipulated; her statement’s verbal content was held constant. Main dependent variables were perceived victim credibility, victim blame, severity of the injury, and likelihood of recovery. Results showed that AMMSA strongly predicted all dependent variables across conditions. Effects of displayed emotions were less pervasive and depended on participants’ gender and AMMSA: At higher (vs. lower) levels of AMMSA, women – but not men – judged the sad victim’s statement to be most credible, and the angry victim’s statement to be least credible, with the neutral statement falling in between. The findings suggest that perceivers may be better at keeping their judgements free from unwanted external influences (the emotional displays) than unwanted internal influences (their own AMMSA). The authors discuss future directions regarding the mechanisms involved and practical implications for the legal context.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3113</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3113">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3113/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3113" DMDID="DMD_biejournals_3113">
+            <mets:fptr FILEID="FILE0_biejournals_3113"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

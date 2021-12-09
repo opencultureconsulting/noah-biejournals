@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_693">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Methodological Aspects of Documenting Civics Lessons in Israel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cohen, Aviv</displayForm>
+                        <namePart type="family">Cohen</namePart>
+                        <namePart type="given">Aviv</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In this paper the author wishes to shed light on some methodological aspects of documenting civics classes as part of educational research. Rooted in the research traditions of grounded theory and the use of ideal types, this study concentrates on one case of a civics course taught in an Israel high school. Touching on the empirical and theoretical aspects of this case, this study will present the contributions of using such methodologies, particularly regarding the ways in which contextual factors such as the students’ academic level and socio-economic factors influence the teaching of this subject-matter. Practical pedagogical implications that were identified as a result of this study will also be presented.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_693</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_693">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/693/744" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_693">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/693/745" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_693">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/693/746" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE3_biejournals_693">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/693/747" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE4_biejournals_693">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/693/748" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_693" DMDID="DMD_biejournals_693">
+            <mets:fptr FILEID="FILE0_biejournals_693"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_693" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_693"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_693" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_693"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_693" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_693"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_693" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_693"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

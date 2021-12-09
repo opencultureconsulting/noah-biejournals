@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4559">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Change in Juvenile Offending Versatility Predicted by Individual, Familial, and Environmental Risks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wallner, Susanne</displayForm>
+                        <namePart type="family">Wallner</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thomas, Hoben</displayForm>
+                        <namePart type="family">Thomas</namePart>
+                        <namePart type="given">Hoben</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stemmler, Mark</displayForm>
+                        <namePart type="family">Stemmler</namePart>
+                        <namePart type="given">Mark</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Developmental and life-course criminology elucidate the developmental course and change of antisociality over time, considering that longitudinal trajectories differ. Specific relations between risks and different antisociality outcomes are emphasized. We assume that adolescents have different longitudinal trajectories considering the change of offending over time and that risks contribute variably to offending pathways. The current study is based on a German research project in which adolescents (N = 577) were interviewed in two German cities. Based on self-reported crime data, we utilized the slope values of offending versatility (OV) over time as outcome values in regression mixture models capturing the trends for participants over age and exhibiting two components of offending adolescents. We explored the contribution of different risks to OV, defining specific risk patterns: Acceptance of violence and peer delinquency have significant negative effects on the emergence of OV within the group of adolescents with decreasing OV. Acceptance of violence has a significant negative effect, and corporal punishment has a significant positive effect on the emergence of OV within the group of adolescents with increasing or rather stable OV. The results underline the relevance of the violence-related risk factor corporal punishment for the emergence of OV within the last-mentioned group.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4559</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4559">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/4559/4402" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4559" DMDID="DMD_biejournals_4559">
+            <mets:fptr FILEID="FILE0_biejournals_4559"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

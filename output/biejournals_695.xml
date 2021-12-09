@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_695">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Justice in and through education?  Students’ participation in decision-making</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rönnlund, Maria</displayForm>
+                        <namePart type="family">Rönnlund</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Drawing on one year of ethnographic work in three Swedish lower secondary schools, this article problematizes students’ participation in decision-making in everyday school life in the perspective of social justice. In order to extend the traditional liberal understanding of justice and include also relational, procedurial, social and cultural aspects of justice, the analysis focuses on the range, depth and breadth of the participation. The analysis highlights how students’ participation in decision-making was curtailed and restricted in ways that referred to both the range and the depth of the participation. There were also deficiencies as regards the breadth.  The analysis indicates inconveniences as regards students’ participation in decision-making in the perspective of social justice. At the same time it raises questions about social justice in educational contexts – to what extent is it possible to reach a social just school and classroom culture? Based on this analysis, it is argued that school actors need to be more explicit about the institutional frameworks and boundaries that regulate and frame students’ participation in decision-making in school. Such an approach might facilitate for students and staff to negotiate within these frameworks to a greater extent than was the case in these three schools. It is also argued that more students need to be involved in decision-making.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_695</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_695">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/695/750" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/jpeg" ID="FILE1_biejournals_695">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/695/751" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_695" DMDID="DMD_biejournals_695">
+            <mets:fptr FILEID="FILE0_biejournals_695"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_695" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_695"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

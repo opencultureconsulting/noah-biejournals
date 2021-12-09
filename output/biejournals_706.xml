@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_706">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Effects of the Economic Crisis on Inter-Ethnic Relations in Cypriot Schools</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vryonides, Marios</displayForm>
+                        <namePart type="family">Vryonides</namePart>
+                        <namePart type="given">Marios</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The aim of the paper is to examine the effects of the current economic crisis in the way teenagers experience and report interethnic relations with emphasis on interethnic violence in the school environment in Cyprus. It will report findings from an EU funded project which was recently completed (2012) titled: “Children’s voices: Exploring interethnic violence in schools”. Through an eclectic analysis on interview transcripts from group interviews with teenagers (16-17 year old) it emerges that in Cyprus there is an environment of growing concern about the presence of migrants in society and this has direct and indirect effects on education. Overall there are mixed perceptions about interethnic tolerance in schools ranging from negative to (politically correct) positive ones. While the prevalent discourse of multiculturalism in Cyprus uses the rhetoric of integration, what appears to be happening in the Cypriot educational system, is assimilation practices focusing on language acquisition. The findings of the empirical investigation point to interesting directions for educational policy regarding the whole gamut of interethnic relations in Cyprus at a period in time when the current economic crisis appears to have largely negative effects on multiculturalism. The paper concludes with a discussion on the way the Ministry of Education and schools in Cyprus respond to the above challenges and the prospects for the near future.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_706</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_706">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/706/762" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_706" DMDID="DMD_biejournals_706">
+            <mets:fptr FILEID="FILE0_biejournals_706"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

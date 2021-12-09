@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3077">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violent Mexico</title>
+                        <subTitle>The Mexican Case as an ‘Extremely Violent Society.’</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rodriguez, Octavio</displayForm>
+                        <namePart type="family">Rodriguez</namePart>
+                        <namePart type="given">Octavio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Violent conflicts have evolved significantly throughout time and have become more intricate and hard to define under traditional categories. Armed conflicts, genocide, and mass atrocities are no longer enough to classify new conflicts that emerge every day in different regions of the globe. Such is the case of Mexico, a country that after a series of conflicts over more than a hundred years, became relatively stable throughout the 20th century; nonetheless, such apparent tranquillity became abruptly altered with a roughly 150% increase in intentional homicides starting in 2007, totalling more than 121,000 killings in the six-year period from 2007-2012, most of which were somehow linked to organised crime. The levels of violence, the nature of different groups involved, the advanced weaponry and the widespread of the conflict make the context difficult to be labelled through traditional concepts. As new approaches are considered for evolving developments, the situation in Mexico is described under an emerging classification, the “extremely violent societies.” This paper explores the country’s context to conclude its features meet indeed the characteristics of an extremely violent society as a tool for future policy shaping.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3077</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3077">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3077/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3077">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3077/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3077">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3077/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3077" DMDID="DMD_biejournals_3077">
+            <mets:fptr FILEID="FILE0_biejournals_3077"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3077" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3077"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3077" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3077"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

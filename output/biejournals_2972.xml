@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2972">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Dynamics of the Creation, Evolution, and Disappearance of Terrorist Internet Forums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Torres-Soriano, Manuel Ricardo</displayForm>
+                        <namePart type="family">Torres-Soriano</namePart>
+                        <namePart type="given">Manuel Ricardo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An examination of the organizational nature of the threat posed by jihadi terrorism, supplying quantitative and qualitative data on the dynamics behind the creation, evolution, and disappearance of the main jihadi Internet forums during the period 2008–2012. An analysis of the origins and functions of the forums, their links with terrorist organizations, their internal structures, and the processes accounting for their stability in cyberspace shows that far from representing a horizontal structure where the main actors are a network of followers, the terrorist presence on the Internet is in fact a hierarchical organization in which intervention by formal terrorist organizations plays a crucial role.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2972</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2972">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2972/pdf_81" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2972">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2972/2889" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2972" DMDID="DMD_biejournals_2972">
+            <mets:fptr FILEID="FILE0_biejournals_2972"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2972" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2972"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

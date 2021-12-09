@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3124">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Education as Treatment for Chronic Pain in Survivors of Trauma in Cambodia</title>
+                        <subTitle>Results of a Randomized Controlled Outcome Trial</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Harlacher, Uwe</displayForm>
+                        <namePart type="family">Harlacher</namePart>
+                        <namePart type="given">Uwe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Polatin, Peter</displayForm>
+                        <namePart type="family">Polatin</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Taing, Sopheap</displayForm>
+                        <namePart type="family">Taing</namePart>
+                        <namePart type="given">Sopheap</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Phana, Pich</displayForm>
+                        <namePart type="family">Phana</namePart>
+                        <namePart type="given">Pich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sok, Phaneth</displayForm>
+                        <namePart type="family">Sok</namePart>
+                        <namePart type="given">Phaneth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sothera, Chim</displayForm>
+                        <namePart type="family">Sothera</namePart>
+                        <namePart type="given">Chim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-18</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Based on the hypothesis that pain is a stand-alone problem, not just a symptom of Post-Traumatic Stress Disorder (PTSD), the effect of group psycho-education (“pain school”) for survivors of the Khmer Rouge regime with pain-PTSD comorbidity was tested in Cambodia in 2015. After baseline assessment comprising pain-related measures (Brief Pain Inventory, Disability Rating Index) and measures for PTSD, anxiety, depression, and distress, 113 subjects were randomized to a waitlist control group (CG, n = 58) and a treatment group (TG, n = 55). After treatment TG improved significantly, with clinically relevant effect size. Effect size was, however, substantially lower than in two prior pilot trials, and the improvement was not maintained at six-month follow-up. The main reason for this is hypothesized to be that the intervention had been delivered in too condensed a format. It is concluded that treatment addressing pain can also ameliorate mental health problems, implying that more attention should be paid to pain treatment for subjects suffering from pain/PTSD comorbidity.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3124</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3124">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3124/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3124" DMDID="DMD_biejournals_3124">
+            <mets:fptr FILEID="FILE0_biejournals_3124"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

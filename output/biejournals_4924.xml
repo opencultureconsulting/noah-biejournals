@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4924">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>COVID-19 pandemic providing a window of opportunity for higher education</title>
+                        <subTitle>Case study of a three-country teaching-learning experience</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Poirier, Mathieu JP</displayForm>
+                        <namePart type="family">Poirier</namePart>
+                        <namePart type="given">Mathieu JP</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hard, Julie</displayForm>
+                        <namePart type="family">Hard</namePart>
+                        <namePart type="given">Julie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Holst, Jens</displayForm>
+                        <namePart type="family">Holst</namePart>
+                        <namePart type="given">Jens</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Since March 2020, the COVID-19 pandemic has been causing unprecedented challenges to higher education by disrupting traditional face-to-face teaching as well as international mobility of students, faculty and staff. The factual knock-out of established modes of teaching and learning and the restriction of international travel called for rapid action and a shift towards remote learning and teaching.
+Methods: Within the framework of a pragmatic approach, global health faculty from Fulda University of Applied Sciences in Germany and York University in Canada, including a small group of public health students from Cluj in Romania, established a globally networked learning environment. Between November and December 2020, a total of 147 students participated in joint virtual lectures and international collaborative group projects. To capture the acceptance and effectiveness of the innovative didactic experience, a semi-structured student survey was conducted directly after the last session.
+Results: The overall rating of internet-based cross-university teaching-learning was positive: Students reported benefits of an enriched learning experience through the sharing of different perspectives, approaches and debates with international professors and peers. Success and overcoming challenges for collaboration among students depended strongly on the level of coordination relating to time differences and expectations.
+Conclusion: The COVID-19 pandemic has revealed that transnational inter-university teaching-learning is feasible, provides a beneficial pedagogic option and points promising ways to the future.
+ 
+Conflict of interest: None declared.
+ 
+Acknowledgements: We gratefully acknowledge the contributions of Prof. Dr. Kai Michelsen and Prof. Dr. Marius I. Ungureanu to the development of the three-country teaching-learning experience.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4924</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4924">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4924/4590" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4924" DMDID="DMD_biejournals_4924">
+            <mets:fptr FILEID="FILE0_biejournals_4924"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

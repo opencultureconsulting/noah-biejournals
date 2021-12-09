@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_652">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Continuing the Conversation on the Chilean Student Movement</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hernandez, Ivette</displayForm>
+                        <namePart type="family">Hernandez</namePart>
+                        <namePart type="given">Ivette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This current article is an interview made with Francisco Figueroa. Francisco is a Chilean university student who was Vice-President of Student Federation from University of Chile between 2010 and 2011. He, like other students, was leading the mass student demonstrations in 2011 who demanded a radical reform of the Chilean education system. As a militant of Autonomous Left and director of Fundacion Nodo XXI, he gave in this interview his own political opinion about process of political construction of the student movement and what challenges the student movement is currently facing in order to create possibilities for a deep social and radical transformation of democracy and education in the Chilean society.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_652</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_652">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/652/682" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_652" DMDID="DMD_biejournals_652">
+            <mets:fptr FILEID="FILE0_biejournals_652"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

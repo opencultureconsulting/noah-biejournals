@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2701">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Raumveränderungen in Vergangenheit, Gegenwart und Zukunft</title>
+                        <subTitle>Wie die Didaktische Rekonstruktion an der Hochschule fachdidaktisches und fachliches Wissen bei Studierenden des Lehramtes Primarstufe fördern kann</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Spatial Transformation</title>
+                        <subTitle>Promoting Pre-Service Primary School Teachers’ Learning to Think Spatially through the Model of Educational Reconstruction</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Huser, Karin</displayForm>
+                        <namePart type="family">Huser</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Niebert, Kai</displayForm>
+                        <namePart type="family">Niebert</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag analysiert, wie fachliches und fachdidakti-sches Wissen zum Lerngegenstand „Raumveränderungen in Vergangenheit, Gegenwart und Zukunft“ in der fachdidaktischen Hochschullehre adaptiver vermittelt werden kann. Als Forschungsrahmen dient das Modell der Didaktischen Rekonstruktion, bei dem fachliches und fachdidaktisches Wissen von Lehramtsstudieren-den und Expert*innen wechselseitig verglichen und so der Lernbedarf ermittelt wird. Bezogen auf deutschsprachige, geographiedidaktische Anforderungen zeigen Studierende des Studiengangs Primarstufe am Ende des Studiums (in der Schweiz ein Bachelorstudium) ein unzureichendes Raumverständnis. Die Befragten vermeiden tendenziell bedeutsame geographische Inhalte, die systemisches Denken fördern sowie das Nachdenken über Gestaltungs- und Verhaltensmöglich-keiten in der Zukunft ermöglichen. Das zu einseitige Alltagskonzept des „Räume-Betrachtens“ sollte dahingehend erweitert werden, dass Studierende sich selbst – durch alltägliche konsumtive Handlungen – als mitgestaltender und mitverantwortlicher Teil des Raumes begreifen und dies auch ihren Schüler*innen stufengerecht vermitteln.</abstract>
+                    <abstract lang="eng">This article analyzes how content knowledge and pedagogical content knowledge of ‘spatial transformation’ can be developed with pre-service primary school teachers. The Model of Educational Reconstruction serves as a research framework, in which the conceptions shown by students and experts are compared with one another and the learning needs are determined. The results show that students don’t show an adequate understanding. Based on this analysis, the learning needs are identified and educational guidelines for spatial thinking through geography are proposed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2701</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2701">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2701/4155" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2701" DMDID="DMD_biejournals_2701">
+            <mets:fptr FILEID="FILE0_biejournals_2701"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1148">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wissenschaftliche Weiterbildung als „Transfer“</title>
+                        <subTitle>Erweiterung eines Bedeutungshorizontes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alexander, Carolin</displayForm>
+                        <namePart type="family">Alexander</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wissenschaftliche Weiterbildung im Sinne eines Transfers zu konzeptualisieren, erfordert, so die eingenommene Perspektive in dem Beitrag, eine nähere Auseinandersetzung mit den Voraussetzungen des Verständnisses von Transfer. Im Rahmen einer begriffshistorischen Perspektive wird daher Transfer als ein forschungsrelevanter Begriff in den Blick genommen, der nicht terminologisch im Sinne einer Nominaldefinition festzulegen ist, sondern im Sinne einer „Begrifflichkeit“ selber einem historisch-epistemischen Wandel unterworfen ist. Unter Berücksichtigung eines relationslogischen Zugangs wird im Beitrag dafür plädiert, die bislang unbeachtete Mehrdeutigkeit des Transferbegriffs aus der Latenz zu heben, ihn darüber kontingent zu setzen und als „transformativen Transfer“ zu respezifizieren.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1148</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1148">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/1148/1224" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1148" DMDID="DMD_biejournals_1148">
+            <mets:fptr FILEID="FILE0_biejournals_1148"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

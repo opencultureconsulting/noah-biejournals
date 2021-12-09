@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_712">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>European Cooperation is Facing New Challenges - Some Impact on Citizenship Education in the Netherlands</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Oonk, Henk</displayForm>
+                        <namePart type="family">Oonk</namePart>
+                        <namePart type="given">Henk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The crisis in Europe constitutes a major test for the very pursuit of European integration and for its legitimacy in the eyes of the citizens. In this paper a number of striking economic aspects of the crisis will be discussed next to political tensions concerning sensitive issues. Given the decline in the support for the European integration among the public over the past years it is necessary to improve the quality of citizenship education on European issues and to use a more critical approach. Teaching and learning in a balanced manner is necessary about issues like migration, free movement, populist political parties, enlargement and other themes, besides other regular topics. In contrast to current opinions we argue that to reach not only the higher levels of secondary schools but also the lower levels a too strong social-constructivist approach is not effective. Complicated European issues need a good instruction by the teacher in combination with an attractive didactical approach that builds on a common core European orientation curriculum improving students’ knowledge and skills and thus enhancing opinions and attitudes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_712</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_712">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/712/768" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_712" DMDID="DMD_biejournals_712">
+            <mets:fptr FILEID="FILE0_biejournals_712"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

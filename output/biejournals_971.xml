@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Economic perspectives on the history of law</title>
+                        <subTitle>Property rights in business history</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schulz, Ulrike</displayForm>
+                        <namePart type="family">Schulz</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Which political, socio-economic, and cultural circumstances bring actors to recognize property rights, and what are the consequences with regard to the economic performance of a business company? To answer this question, this article analyzes the allocation of property rights in firms with a view to systematizing the categories of analysis. Business firms are continuously subject to internal and external structural challenges.  As a consequence, they have to be able to transform their organizational structures very flexibly and very dynamically. Property rights are one of the central aspects of this process.This essay begins with a short summary of the basic characteristics of property rights theory, which offers an approach to studying social practices, processes of codification, and institutional changes in different property regimes. With these problems in mind, I suggest combining the theoretical and methodological implications of this economic model using the concept of “recognition” as a link between the social and the structural dimension of property. In the final part of the essay, I propose a systematic model for economic and business historians interested in analyzing governance structures within firms. I show how property rights theory can be modified to be applicable to the work of historians and social scientist without sacrificing its analytical value.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_971</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_971">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/971/1079" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_971" DMDID="DMD_biejournals_971">
+            <mets:fptr FILEID="FILE0_biejournals_971"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

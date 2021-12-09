@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3360">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ohne die innere Uhr keine Blüte</title>
+                        <subTitle>Die Wirkung der Tageslänge auf den Blühbeginn der Pflanzen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Begger, Jan-Hendrik</displayForm>
+                        <namePart type="family">Begger</namePart>
+                        <namePart type="given">Jan-Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steffen, Alexander</displayForm>
+                        <namePart type="family">Steffen</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nolding, Jana</displayForm>
+                        <namePart type="family">Nolding</namePart>
+                        <namePart type="given">Jana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Staiger, Dorothee</displayForm>
+                        <namePart type="family">Staiger</namePart>
+                        <namePart type="given">Dorothee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Beitrag führt in das Thema „Die circadianen Rhythmen der Pflanzenwelt“ ein und fokussiert auf die Blühinduktion bei Arabidopsis thaliana. Die Unterrichtseinheit ist für Ökologie-, Genetik- oder Projektkurse der Sek. II konzipiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3360</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3360">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3360/3608" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3360">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3360/3609" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_3360">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3360/3610" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3360" DMDID="DMD_biejournals_3360">
+            <mets:fptr FILEID="FILE0_biejournals_3360"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3360" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3360"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3360" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3360"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

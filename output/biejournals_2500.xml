@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2500">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf dem Weg zum Lehrberuf</title>
+                        <subTitle>Zur Verschränkung studentischer Erfahrungen mit domänenspezifischen Theorien</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Becoming a teacher</title>
+                        <subTitle>Relating student experiences with domain-specific theories</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Caruso, Carina</displayForm>
+                        <namePart type="family">Caruso</namePart>
+                        <namePart type="given">Carina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Martin, Alexander</displayForm>
+                        <namePart type="family">Martin</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Woppowa, Jan</displayForm>
+                        <namePart type="family">Woppowa</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Artikel beschreibt unter Berücksichtigung von fachdidaktischen Überlegungen (Religionsdidaktik und Didaktik des Schulfaches Erziehungswissenschaft, letztere wird oftmals auch als Didaktik des Unterrichtsfaches Pädagogik bezeichnet), wie durch die Thematisierung studentischer Erfahrungen in Praxisphasen begleitenden Veranstaltungen ein Beitrag zur Professionalisierung angehender Lehrkräfte geleistet werden könnte. Exemplarisch werden Vorgehensweisen aufgezeigt, wie Unterrichtserfahrungen angehender Lehrkräfte in solchen Unterrichtsfächern, die sich in Bezug auf Inhalte und Gegenstände des Unterrichts durch ein hohes Maß an Uneindeutigkeit auszeichnen, im Rahmen der universitären Veranstaltungen thematisiert und zu Theorien in Beziehung gesetzt werden können. Der Begriff Uneindeutigkeit bezeichnet dabei das Spezifikum beider Fächer, dass Fragen thematisiert und Aufgaben bearbeitet werden, die sich nicht immer eindeutig beantworten oder als richtig oder falsch bewerten lassen. Ziel der Einbindung studentischer Praxiserfahrungen und von deren Reflexion ist es, dass angehende Lehrkräfte professionelle Kompetenz entwickeln sowie für die Komplexität und Uneindeutigkeit theologischer Rede bzw. theologischen und pädagogischen Handelns und Wirkens sensibilisiert werden und gleichzeitig erkunden, wie sie Kinder und Jugendlichen in der Schule einen verlässlichen Referenzrahmen für die Entwicklung einer reflektierten religiösen bzw. pädagogischen Kompetenz vermitteln können.</abstract>
+                    <abstract lang="eng">Taking into account of subject-didactic considerations (didactics of religion and didactics of the discipline of educational science as a school subject), the article describes how the thematization of student experiences could contribute to the professionalization of prospective teachers. The aim is to show how teaching experience of prospective teachers in subjects which are characterized by a high degree of ambiguity can be put into a relationship with theories at university. The term ambiguity refers to the specificity of both subjects that questions are addressed and tasks are dealt with which cannot be answered clearly or be considered correct or incorrect. The aim of integrating student practical experience and its reflection is to ensure that students develop professional competence and raise awareness of the complexity and ambiguity of theological and pedagogical action and work, and at the same time, explore how they can provide children and adolescents at school with a reliable frame of reference for the development of a reflected religious or pedagogical combination.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2500</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2500">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2500/3369" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2500" DMDID="DMD_biejournals_2500">
+            <mets:fptr FILEID="FILE0_biejournals_2500"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3342">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auf dem Weg. Aachener Kooperationsverbund</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haupt, Selma</displayForm>
+                        <namePart type="family">Haupt</namePart>
+                        <namePart type="given">Selma</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hering, Sabine</displayForm>
+                        <namePart type="family">Hering</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Unger, Tim</displayForm>
+                        <namePart type="family">Unger</namePart>
+                        <namePart type="given">Tim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der Unzufriedenheit der Lehrenden und Studierenden in den Bildungswissenschaften haben wir uns auf den Weg gemacht, die Aachener Lehrer*innenbildung zu verändern. Unsere zentrale Frage ist dabei: Wieviel Freiheit für Persönlichkeitsentwicklung können wir im bildungswissenschaftlichen Studium ermöglichen und gleichzeitig die Qualität der Lehramtsausbildung garantieren? Unser Anliegen ist es, sowohl für uns als auch für die Studierenden die Veränderungen zu durchleben, die notwendig sind, um Innovationen im Bildungssystem – in der Schule wie im Lehramtsstudium – mitzugestalten. Unser Ansatz liegt darin, Kooperation in Forschung und Lehre zu praktizieren, als Lehrende und als Wissenschaftler*innen. Der Aachener Kooperationsverbund befindet sich auf dem Weg. Realisiert sind bereits das Denkkollektiv, die Aachener Bildungsgespräche und einige Kooperationen mit Schulen. Auf dem weiteren Weg wollen wir daran festhalten, gemeinsam Veränderung zu durchleben und Innovationen mitzugestalten.
+Based on the dissatisfaction of teachers and students in the educational sciences, we have set out to change teacher education in Aachen. Our central question is: How much freedom for personal development can we allow in the study of educational science and at the same time guarantee the quality of teacher training? It is our concern, both for us and for the students, to experience the changes that are necessary to help shape innovations in the educational system – in schools and in teacher training. Our approach as teachers and as scientists is to practice cooperation in research and teaching. The Aachen cooperation network is on the way. The “Denkkollektiv” [“thinking collective”], the “Aachener Bildungsgespräche” [“Aachen Education Talks”] and a number of cooperations with schools have already been realized. On the way ahead, we want to continue to experience change and help shape innovations together.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3342</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3342">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3342/3513" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3342" DMDID="DMD_biejournals_3342">
+            <mets:fptr FILEID="FILE0_biejournals_3342"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

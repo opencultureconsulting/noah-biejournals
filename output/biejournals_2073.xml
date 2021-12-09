@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2073">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kindertageseinrichtungen im Spagat zwischen Pädagogik und Betriebswirtschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seime, Gudrun</displayForm>
+                        <namePart type="family">Seime</namePart>
+                        <namePart type="given">Gudrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die auf das bevölkerungsreichste Bundesland NordrheinWestfalen bezogene Situationsbeschreibung ist repräsentativ für ein bundesweit supervisions-relevantes Thema: Neue Bundes- und Ländergesetze bringen tiefgreifende Veränderungen in die Landschaft der Kindertageseinrichtungen und stellen eine Reihe zusätzlicher Anforderungen an Träger und Beschäftigte in einem traditionsreichen Arbeitsfeld. Die Anpassung meist langjährig gewachsener Strukturen, Verbindlichkeiten, baulicher und personeller Verhältnisse an neu formulierte Ziele verlangt erhebliche Investitionen - auf struktureller, materieller und personeller Ebene. Existenzsicherung erfordert weitreichende Umorganisation auf institutioneller Ebene und erhebliche physische und psychische Belastbarkeit auf Seiten der Mitarbeitenden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2073</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2073">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2073/1940" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2073" DMDID="DMD_biejournals_2073">
+            <mets:fptr FILEID="FILE0_biejournals_2073"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

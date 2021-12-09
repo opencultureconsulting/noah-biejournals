@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2382">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie können wir Konzepte und didaktische Ansätze aus der Lehrer_innenbildung sicht- und nutzbar machen? Editorial zur ersten Ausgabe der HLZ</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>How can teacher education concepts made visible and usable? Editorial from the HLZ 2018</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gorges, Julia</displayForm>
+                        <namePart type="family">Gorges</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Störtländer, Jan Christoph</displayForm>
+                        <namePart type="family">Störtländer</namePart>
+                        <namePart type="given">Jan Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Wie können wir Konzepte und didaktische Ansätze aus der Lehrer_innenbildung sicht- und nutzbar machen? Im Editorial zur ersten Ausgabe der HLZ werfen wir einen Blick zurück auf die Entstehungsgeschichte und spezifische Ausrichtung der Zeitschrift, geben einen Überblick der in diesem Jahresheft publizierten Beiträge und schließen mit einem Ein- und Ausblick in aktuelle Entwicklungen.</abstract>
+                    <abstract lang="eng">How can&amp;nbsp; teacher education concepts made visible and usable? The present editorial from the first edition of the HLZ looks back on how the HLZ was conceptualized and founded in 2017, gives an overview of published articles and concludes with some insights into current developments.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2382</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2382">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2382/2370" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2382" DMDID="DMD_biejournals_2382">
+            <mets:fptr FILEID="FILE0_biejournals_2382"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

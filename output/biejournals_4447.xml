@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4447">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Applying innovative strategies to achieve Universal Health Coverage in the African Region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leufak, Arlette Mouako</displayForm>
+                        <namePart type="family">Leufak</namePart>
+                        <namePart type="given">Arlette Mouako</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ndwandwe, Duduzile</displayForm>
+                        <namePart type="family">Ndwandwe</namePart>
+                        <namePart type="given">Duduzile</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Universal health coverage is defined as ensuring that all people have access to needed health services of sufficient quality to be effective while ensuring that these services do not expose the user the financial hardship. Universal health coverage includes three related objectives: equity in access to health services (everyone who needs services should get them, not only those who can pay for them); the quality of health services should be good enough to improve the health of those receiving services; and people should be protected against financial risk, ensuring that the cost of using services does not put people at risk of financial harm. Africa still has a long way to go to achieve these objectives. Many barriers limit the progress of the African Region towards building the robust health systems needed for universal health coverage. Such barriers include poor infrastructure, high out-of-pocket payments and catastrophic health expenditures, shortages and inequitable distribution of qualified healthcare workers, poor quality of care delivery, high cost of quality medicines, and lack of innovative technologies appropriate to the range of settings where care is delivered, health financing and governance. This paper aims to propose innovative strategies that could be applied to improve health systems in the Africa Region, which progress towards the continent attaining universal health coverage. &amp;nbsp;&amp;nbsp;
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4447</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4447">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4447/4270" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4447" DMDID="DMD_biejournals_4447">
+            <mets:fptr FILEID="FILE0_biejournals_4447"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

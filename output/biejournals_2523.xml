@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2523">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Bedeutung von Ausbildung, Erfahrung und Wissen in der Sexualerziehung für Lehrkräfte - eine Bestandsaufnahme</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Relevance of Training, Experience and Knowledge in Sex Education for Teachers - An Overview</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hackbart, Marcel</displayForm>
+                        <namePart type="family">Hackbart</namePart>
+                        <namePart type="given">Marcel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thies, Barbara</displayForm>
+                        <namePart type="family">Thies</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Schule ist ein zentraler Ort sexueller Sozialisation von Kindern und Jugendlichen, somit haben Lehrkräfte eine bedeutsame Rolle bei der Sexualerziehung von Heranwachsenden. Sexualerziehung sollte idealerweise fächer- und jahrgangsübergreifend stattfinden, allerdings werden viele Lehrkräfte weder in der universitären noch in der praktischen Phase ihrer Ausbildung auf die Sexualerziehung gezielt vorbereitet. Dabei befürworten die meisten Lehrkräfte die schulische Sexualerziehung; von einer grundlegenden Motivation, hier tätig zu werden, kann also ausgegangen werden. Vorliegende empirische Ergebnisse zeigen Zusammenhänge zwischen Ausbildung, Wissen und Erfahrungen in der Sexualerziehung von Lehrkräften mit Einstellungen, der Bereitschaft und dem Wohlbefinden während des Unterrichtens sexualerzieherischer Themen. Zusammengenommen verweisen vorliegende Befunde darauf, sexualerzieherische Themen stärker und systematisch in die Lehramtsausbildung zu integrieren.</abstract>
+                    <abstract lang="eng">School is a place of sexual socialization and teachers play an important role in sex education for children and adolescents. Sex education should ideally take place across subjects and age groups, but many teachers are not prepared for sex education, neither in the theoretical nor in the practical phase. Nevertheless, most teachers see the importance and meaning for sex education at school, so basic motivation can be assumed. Empirical results on training, knowledge and experience in sex education so far show positive relations with attitudes, readiness and comfort during the teaching of sex education topics.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2523</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2523">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2523/3485" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2523" DMDID="DMD_biejournals_2523">
+            <mets:fptr FILEID="FILE0_biejournals_2523"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

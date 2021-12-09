@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4820">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schwarmintelligenz</title>
+                        <subTitle>Vernetzung schafft Zugang zur nächsten Ebene</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Swarm intelligence</title>
+                        <subTitle>Accessing a higher level of intelligence and performance by networking</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eitner, Pascal</displayForm>
+                        <namePart type="family">Eitner</namePart>
+                        <namePart type="given">Pascal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Intelligentes Verhalten ist ein Phänomen, das sich bei Gemeinschaften gleichartiger Individuen finden lässt, obwohl kein Mitglied alleine über diese Eigenschaft verfügt. Dieses als Schwarmintelligenz bezeichnete Phänomen findet sich in unterschiedlichem Maße bei Insektenstaaten, Vogelschwärmen und Fischschulen, aber auch bei Schleimpilzen oder Bakterienfilmen. Auslöser für die Schwarmbildung können schwieriger werdende Umweltbedingungen wie Nahrungsmangel sein. Stabilisiert werden die neuen Gemeinschaften oder Superorganismen durch intensive Kommunikation zwischen den Mitgliedern. Die Leistungen des Kollektivs beruhen teilweise auf wenigen einfachen Regeln, die von Informatikern aufgegriffen und in spezielle Algorithmen mit technischen Anwendungen umgeformt werden. Diese Form der künstlichen Intelligenz hilft bei vielen Optimierungsaufgaben in der Logistik von Daten und Gütern. Auffällig ist, dass durch die Vernetzung der Einheiten eines biologischen Systems nicht nur mehr Komplexität generiert wird, sondern dass auch synergistische Effekte deutlich werden: Das Ganze ist mehr als die Summe der Einzelteile.</abstract>
+                    <abstract lang="eng">Intelligent behaviour is a phenomenon which is found within communities of individuals of the same species, although this is unknown to the individual agent. The socalled swarm intelligence is found in different degrees in insect colonies, flocks of birds, shoaling fish but also in slime moulds or bacterial films. Swarm aggregation can be triggered by increasingly difficult environmental conditions, e.g. lack of food. The new communities or superorganisms are stabilized by intensive communication among the members. The collective performance is partially due to a set of simple rules, which computer scientists use to create suitable algorithms for technical applications. This form of artificial intelligence helps to solve optimizing tasks for the efficient logistical processing of data and goods. It is striking that crosslinking the units of a biological system not only generates more complexity but also results in unprecedented synergistic effects: The entire system is more than the sum of the parts.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4820</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4820">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4820/4543" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4820" DMDID="DMD_biejournals_4820">
+            <mets:fptr FILEID="FILE0_biejournals_4820"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

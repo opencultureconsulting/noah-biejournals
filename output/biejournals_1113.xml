@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1113">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Critical Friends zu einer kritischen (?) Freundschaft</title>
+                        <subTitle>Forschung und Entwicklung am Oberstufen-Kolleg</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">30</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird das aktuelle Forschungs- und Entwicklungsmodell für das Oberstufen-Kolleg dargelegt. Dies geschieht sowohl vor dem Hintergrund der aktuellen Kritik an der empirischen Bildungsforschung als auch der Ergebnisse eines externen Peer-Reviews, das im Jahr 2016 gemeinsam für die Versuchsschule und die Wissenschaftliche Einrichtung Oberstufen-Kolleg stattgefunden hat. Es wird deutlich, wie die Fragen des internen Transfers, der Verzahnung von Forschung und Schulentwicklung sowie der stärkeren Einbindung von Schüler*innen des Oberstufen-Kollegs in die Forschung und Entwicklung bearbeitet werden sollen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1113</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1113">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1113/1195" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1113" DMDID="DMD_biejournals_1113">
+            <mets:fptr FILEID="FILE0_biejournals_1113"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

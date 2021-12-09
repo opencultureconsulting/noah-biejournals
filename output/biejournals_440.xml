@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_440">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pleasure and Politics. Making Youth-Cultural Commitment Visible</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Renate</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Calmbach, Marc</displayForm>
+                        <namePart type="family">Calmbach</namePart>
+                        <namePart type="given">Marc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rhein, Stefanie</displayForm>
+                        <namePart type="family">Rhein</namePart>
+                        <namePart type="given">Stefanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-03-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Youth and politics as well as pleasure and politics are often seen as bad matches. Accordingly, today’s youth is diagnosed as generally indifferent towards politics. We suggest, that politics in youth cultures can only be made visible by looking at it from a different angle: from the perspective of reconcilability between work, politics and pleasure. This article provides and discusses a theoretical framework for the analysis of the connections between them in youth cultural contexts. Increasing medialisation and globalisation make cultural symbols accessible to almost everyone. This results in a “devaluation” of style as a marker of distinction and self-positioning. We argue that this devaluation of style causes a shift of focus onto ostensibly non-stylistic aspects in youth cultures – i.e. onto commitment, work or politics. Youth cultures can therefore be viewed as contexts in which self-professionalisation, self-education and self-socialisation take place. Even though within the field of youth culture research, youth-cultural activities are therefore no longer considered to be merely recreational activities or pastimes, youth cultural participation still means the pleasure of sharing certain cultural activities and, beyond this, the pleasure of resistance. We suggest that understanding the – in some ways unexpected und partly still unexplored – connections young people establish between work, politics and pleasure provides insight into new forms of their political commitment.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_440</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_440">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/440/437" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_440" DMDID="DMD_biejournals_440">
+            <mets:fptr FILEID="FILE0_biejournals_440"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2362">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Predictive factors for patient satisfaction in public and private hospitals in Kosovo</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hoxha, Rina</displayForm>
+                        <namePart type="family">Hoxha</namePart>
+                        <namePart type="given">Rina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kosevska, Elena</displayForm>
+                        <namePart type="family">Kosevska</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Berisha, Merita</displayForm>
+                        <namePart type="family">Berisha</namePart>
+                        <namePart type="given">Merita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ramadani, Naser</displayForm>
+                        <namePart type="family">Ramadani</namePart>
+                        <namePart type="given">Naser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jerliu, Naim</displayForm>
+                        <namePart type="family">Jerliu</namePart>
+                        <namePart type="given">Naim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zhjeqi, Valbona</displayForm>
+                        <namePart type="family">Zhjeqi</namePart>
+                        <namePart type="given">Valbona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gashi, Sanije</displayForm>
+                        <namePart type="family">Gashi</namePart>
+                        <namePart type="given">Sanije</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The objective of this study was to assess predictive factors for patient satisfaction with healthcare services as a measure of the quality of hospital care in public and private hospitals in Kosovo.
+Methods: A cross-sectional study was conducted in Kosovo during 2015-2016 including a representative sample of 2585 patients older than 18 years [1010 (48.6%) males and 1069 (51.4%) females from public hospitals; and 240 (47.4%) males and 266 (52.6%) females from private hospitals]. Patient satisfaction dimensions such as satisfaction with medical care, nursing care, organization, and overall impression were the main variables measured. A risk-adjusted multivariate analysis was applied.
+Results: Multiple linear regression analysis revealed as independent significant predictors of the total satisfaction of patients from public hospitals the following factors: age, length of stay in hospital in days, education, payment for additional analyzes during hospitalization and buying medications for hospital treatment. These five independent significant predictors accounted for 7.3% of the change in the total patients’ satisfaction (stepwise method - R2 = 0.073). Conversely, there were only four predictors of the total satisfaction of patients from private hospitals: length of stay in hospital in days, number of hospitalizations in the last 12 months, paying for hospitalization, and cost of hospitalization exceeds received services. Only the variables “length of hospital stay” together with “cost of hospitalization exceeds received services” as independent predictors, explained 5.3% of the variability of total satisfaction.
+Conclusion: Structural and qualitative characteristics of hospitals have a significant impact on patients’ satisfaction. Age, length of stay, education, payment for additional analyzes during hospitalization and the cost of hospitalization in public hospitals and length of stay, paying for hospitalization, and cost of hospitalization in private hospitals are useful predictors for total satisfaction of patients in Kosovo.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2362</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2362">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/2362/2356" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2362" DMDID="DMD_biejournals_2362">
+            <mets:fptr FILEID="FILE0_biejournals_2362"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

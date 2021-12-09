@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_366">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>Das </nonSort>
+                        <title>Potenzial von Schülerunternehmen zur Förderung einer unternehmerischen Grundhaltung gegenüber dem gesamten Leben</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eickelmann, Dirk</displayForm>
+                        <namePart type="family">Eickelmann</namePart>
+                        <namePart type="given">Dirk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2004</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag setzt sich mit dem Potenzial von Schülerunternehmen zur Förderung einer unternehmerischen Grundhaltung gegenüber dem gesamten Leben auseinander. Im Fokus der Überlegungen steht zunächst der Lebensentrepreneur, die Leitfigur einer modernen Gesellschaft, dessen elementare Persönlichkeitsmerkmale die Eigeninitiative und die Verantwortungsübernahme sind. Eine Analyse dieser Persönlichkeitsmerkmale in den vier Bedeutungsdimensionen der Lebenswelt des Lebensentrepreneurs begründet die These, dass Schule besonders der Funktion als Wegbereiter und Übungsfeld dieser Kompetenzen gerecht werden muss. Notwendige Bedingung dafür ist die Ausgestaltung schüleraktiver, selbstorganisierter Lernprozesse in Form mehrdimensionaler Lehr-Lern-Arrangements. Am Beispiel des Schülerunternehmens als Extra-curricular-Activity soll das Potenzial eines solchen Arrangements zum Erwerb persönlichkeitsbezogener unternehmerischer Kompetenz im Hinblick auf alle vier lebensrelevanten Dimensionen analysiert werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_366</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_366">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/366/363" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_366" DMDID="DMD_biejournals_366">
+            <mets:fptr FILEID="FILE0_biejournals_366"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

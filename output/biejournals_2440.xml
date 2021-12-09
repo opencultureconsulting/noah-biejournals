@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2440">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Funktion und Qualität von Praktika und Praxisbezügen aus Sicht von Lehramtsstudierenden</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>role and quality of internships in teacher education and the practical relevance of university teacher training courses from the students’ point of view</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jennek, Julia</displayForm>
+                        <namePart type="family">Jennek</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lazarides, Rebecca</displayForm>
+                        <namePart type="family">Lazarides</namePart>
+                        <namePart type="given">Rebecca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Panka, Katarzyna</displayForm>
+                        <namePart type="family">Panka</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Körner, Dorothea</displayForm>
+                        <namePart type="family">Körner</namePart>
+                        <namePart type="given">Dorothea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rubach, Charlott</displayForm>
+                        <namePart type="family">Rubach</namePart>
+                        <namePart type="given">Charlott</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Verknüpfung von Theorie und Praxis im universitären Lehramtsstudium kann durch Praktika und Praxisbezüge vorgenommen werden. Aktuelle Forschungsbefunde weisen darauf hin, dass Praktika von Lehramtsstudierenden als zentraler Teil ihrer universitären Ausbildung wahrgenommen werden. Bislang ist jedoch nur wenig bekannt darüber, wie Lehramtsstudierende die verschiedenen Funktionen und Qualitätskriterien von Praktika und Praxisbezügen im Lehramtsstudium beurteilen. Die vorliegende Studie untersucht die Funktionen und Qualität von Praktika und Praxisbezügen aus Sicht von Lehramtsstudierenden anhand von Fokusgruppeninterviews mit zwölf Studierenden. Die Interviews wurden mittels qualitativer Inhaltsanalyse ausgewertet. Die Ergebnisse zeigen, dass die Studierenden in Praktika die Chance sehen, ihre Fähigkeiten zu erproben, ihre Berufswahl zu überprüfen und Feedback zu erhalten, ihre Kompetenzentwicklung jedoch nicht ihren Hauptfokus bildet. Praxisbezüge dienen ihnen zum Transfer theoretischer Inhalte in die Praxis, gleichzeitig wünschen sie sich eine stärkere wissenschaftliche Fundierung und Verknüpfung der theoretischen Ausbildungsinhalte mit Praxissituationen, beispielsweise durch Videos. Mögliche Implikationen für die Lehrkräftebildung werden diskutiert.</abstract>
+                    <abstract lang="eng">The theoretical content of university teacher training can be linked to practical experience through internships and practical teacher training courses. Study findings suggest that teacher students’ percept internships as central part of their university teacher training. To date we know little about how teacher students define the role and quality of internships and practical teacher training courses. In this study, we used focus group interviews to investigate students’ perceptions about the role of internships in teacher education as well as about teacher students’ perceptions of their quality. The results show that teacher students perceive intern-ships as an opportunity to test and get feedback about their teaching competences and to verify their career choice. The participants (N=12) in this study further per-ceived practical teacher training courses as encouraging to transfer theoretical con-tent into practice, but also wished a stronger academic foundation in their courses. Furthermore, we discuss possible implications for university teacher training.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2440</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2440">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2440/2442" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2440" DMDID="DMD_biejournals_2440">
+            <mets:fptr FILEID="FILE0_biejournals_2440"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

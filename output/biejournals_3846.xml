@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3846">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Linzer Entwicklungsportfolio</title>
+                        <subTitle>Konzeption – Charakterisierung - Innovationspotential</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>A </nonSort>
+                        <title>Portfolio Concept in Teacher Education and Its Potential</title>
+                        <subTitle>Konzeption – Charakterisierung - Innovationspotential</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Himmelsbach, Michael</displayForm>
+                        <namePart type="family">Himmelsbach</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Professionalisierungsprozess von Lehrpersonen werden ein ausgeprägtes Reflexionsvermögen und eine forschende Haltung als zentrale Aspekte angesehen. In der neuen österreichischen Sekundarstufenlehrerausbildung sind schulpraktische Phasen, bei denen Studierende von Praxispädagog*innen begleitet werden, ein wichtiger Punkt der Ausbildung. In ihnen wird ein Brückenele-ment zur Verbindung der theoretischen Lehrinhalte an der Hochschule mit den praktischen Handlungsfeldern in der Schule gesehen. Im Cluster Mitte, Standort Linz, werden die bildungswissenschaftlichen Lehrveranstaltungen an den beiden pädagogischen Hochschulen und der lokalen Universität abgehalten. Die Praxisphasen finden an unterschiedlichen Schultypen der Sekundarstufe statt, wobei ca. 900 Praktikumsplätze pro Semester vergeben werden. Um bei so vielen lehrenden Personen einheitliche Standards zu gewährleisten, sind verbindliche Konzepte für Inhalte und Aufträge an die handelnden Personen notwendig. Ausbildungsbegleitend wird daher mit einem Entwicklungsportfolio gearbeitet, welches die zentralen curricularen Kompetenzen verdichtet abbildet und Studierenden die Gelegenheit bietet, einerseits ihre Lerngelegenheiten im Ausbildungsprozess zu dokumentieren und andererseits am Ende des Studiums ihre individuelle Entwicklung zu reflektieren. In diesem Beitrag werden die Konzeption des Linzer Entwicklungsportfolios vorgestellt und die Ausgestaltung unter den vorliegenden Rahmenbedingungen dargestellt. Dabei werden Gelingensbedingungen in der Portfolioarbeit genauer betrachtet. Es wird zudem die Frage geklärt, welches Innovationspotenzial in der Arbeit mit dem Entwicklungsportfolio steckt und wie dieses anhand bestehender Kategorien charakterisiert werden kann.</abstract>
+                    <abstract lang="eng">In the process of professionalization of teachers, a distinct ability to reflect and an inquiry-based learning attitude are regarded as central aspects. In Austria’s secondary teacher education, practical school phases, in which students are accompanied by teacher mentors, are an important issue in education science education. They are seen as a bridging element to connect the theoretical teaching content at the university with practical fields of action at schools. In the Cluster Mitte, Linz location, the educational science courses are held at the two teacher training colleges and the local university. The practical phases take place at different types of secondary schools, with approx. 900 internships per semester being assigned. In order to ensure uniform standards with so many people involved in teaching, binding concepts regarding contents and assignments to the acting persons are necessary. Accompanying the bachelor program, a portfolio work-process is implemented, which condenses the central curricular competences and offers students the opportunity to document their learning opportunities in the training process and to reflect on their individual development at the end of their studies. In this article, the concept of the Linz development portfolio is presented and the design of the portfolio under the existing framework conditions is described. The conditions of success of portfolio work are examined in more detail. In addition, the question is to be clarified which innovation potential lies in the work with the development portfolio and how this can be characterized on the basis of existing literature.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3846</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3846">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3846/4193" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3846" DMDID="DMD_biejournals_3846">
+            <mets:fptr FILEID="FILE0_biejournals_3846"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

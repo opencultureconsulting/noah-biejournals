@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4411">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Seltene Sandspezialisten</title>
+                        <subTitle>Steppenrüssler in Brandenburg</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Jörg</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Petrischak, Hannes</displayForm>
+                        <namePart type="family">Petrischak</namePart>
+                        <namePart type="given">Hannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Rüsselkäfer des Tribus Cleonini sind überwiegend groß, attraktiv gefärbt – und dennoch bestens getarnt. Viele von ihnen leben in steppenartigen Biotopen. Mehrere Gattungen aus dieser Gruppe tragen folglich die deutsche Bezeichnung „Steppenrüssler“. Sie werden selten gefunden und sind zum Teil stark gefährdet. Der Heide-Steppenrüssler (Coniocleonus nebulosus) wurde im August 2020 in Sielmanns Naturlandschaft Kyritz-Ruppiner Heide erstmals seit Jahrzehnten wieder in Brandenburg entdeckt. Mit dem Sand-Steppenrüssler (Coniocleonus hollbergii) und dem Gefleckten Langrüssler (Cyphocleonus dealbatus) zählen mindestens zwei weitere Cleonini sogar zu den Charakterarten der Sandheiden und Bergbaufolgelandschaften Brandenburgs.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4411</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4411">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4411/4253" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4411" DMDID="DMD_biejournals_4411">
+            <mets:fptr FILEID="FILE0_biejournals_4411"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

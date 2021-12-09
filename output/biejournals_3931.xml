@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3931">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Meeresschildkröten</title>
+                        <subTitle>Wie sie leben, was sie bedroht und wie wir sie schützen können</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tönnesmann, Nora</displayForm>
+                        <namePart type="family">Tönnesmann</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmäing, Till</displayForm>
+                        <namePart type="family">Schmäing</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Verschmutzung der Ozeane durch Plastikmüll nimmt immer weiter zu. Was für uns Menschen das Bild eines leeren sauberen Sandstrandes während des Urlaubs zerstören kann, stellt eine tödliche Gefahr für alle Meeresbewohner dar. Dieser Beitrag fokussiert sich hierbei auf die Meeresschildkröten. Zunächst werden die Arten mitsamt ihrer Systematik, die Lebensweise sowie die Orientierung und Navigation thematisiert. Darauf folgt eine Darstellung der Gefahren für die Meeresschildkröten und die Schutzmaßnahmen, die bereits getroffen werden, beziehungsweise potenziell zu treffen sind. Hierbei liegt der Fokus auf dem Einfluss des Menschen selbst. Im Anschluss werden Implikationen für die unterrichtliche Praxis in der 8. Jahrgangsstufe erläutert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3931</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3931">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3931/4306" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_3931">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3931/4307" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_3931">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3931/4308" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3931" DMDID="DMD_biejournals_3931">
+            <mets:fptr FILEID="FILE0_biejournals_3931"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3931" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3931"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3931" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3931"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_394">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Generational Belonging and Mediascape in Europe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aroldi, Piermarco</displayForm>
+                        <namePart type="family">Aroldi</namePart>
+                        <namePart type="given">Piermarco</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Colombo, Fausto</displayForm>
+                        <namePart type="family">Colombo</namePart>
+                        <namePart type="given">Fausto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">&quot;Web generation&quot;, &quot;Nintendo generation&quot;, &quot;e-generation&quot; and so forth, are just a few among the popular generational definitions often mentioned not only in journalistic simplifications but also in scientific publications. This paper presents a theoretical examination of the implications and the limits of the generational approaches to audience research, in order to show under what conditions they can in fact be both relevant and useful. Refusing the simplifying attitude that dominates in popularization just quoted, the analysis develops the sociological tradition, drawn on the work of Mannheim, that studies the generations as a collective subject bound by a shared historical semantics, a resource of models of interpretation and linguistic devices by means of which experiences are thematicized and crystallized in a common &quot;we-sense&quot;. On the basis of a certain body of empirical evidences, the authors outline some significant aspects and mechanisms of the mutually reinforcing relationship between media diet and generational semantics, pointing out the capacity of certain specific products to unite the generations in shared cultural legacy. The article concludes with a look to European framework, suggesting that a common European culture must be promoted by institutional strategies that look at the media as means for its dissemination, and that take stock both of local construction of identities and of cultural diversification between generations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_394</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_394">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/394/391" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_394" DMDID="DMD_biejournals_394">
+            <mets:fptr FILEID="FILE0_biejournals_394"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

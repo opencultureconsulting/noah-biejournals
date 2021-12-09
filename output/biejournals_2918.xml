@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2918">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Successful Bullying Prevention Programs</title>
+                        <subTitle>Influence of Research Design, Implementation Features, and Program Components</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hahn Fox, Bryanna</displayForm>
+                        <namePart type="family">Hahn Fox</namePart>
+                        <namePart type="given">Bryanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Farrington, David P.</displayForm>
+                        <namePart type="family">Farrington</namePart>
+                        <namePart type="given">David P.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ttofi, Maria M.</displayForm>
+                        <namePart type="family">Ttofi</namePart>
+                        <namePart type="given">Maria M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Bullying prevention programs have been shown to be generally effective in reducing bullying and victimization. However, the effects are relatively small in randomized experiments and greater in quasi-experimental and age-cohort designs. Programs that are more intensive and of longer duration (for both children and teachers) are more effective, as are programs containing more components. Several program components are associated with large effect sizes, including parent training or meetings and teacher training. These results should inform the design and evaluation of anti-bullying programs in the future, and a system of accreditation of effective programs.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2918</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2918">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2918/pdf_65" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2918">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2918/2779" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2918" DMDID="DMD_biejournals_2918">
+            <mets:fptr FILEID="FILE0_biejournals_2918"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2918" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2918"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

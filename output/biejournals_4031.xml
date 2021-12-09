@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4031">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sachunterrichtsbezogene Teilstudiengänge aus NRW auf dem Prüfstand</title>
+                        <subTitle>Eine Dokumentenanalyse der Bachelor- und Masterprüfungsordnungen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Degree Programs of General Studies from NRW under Scrutiny</title>
+                        <subTitle>A Document Analysis of the Bachelor and Master Examination Regulations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schilling, Yannick</displayForm>
+                        <namePart type="family">Schilling</namePart>
+                        <namePart type="given">Yannick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Beudels, Melanie</displayForm>
+                        <namePart type="family">Beudels</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuckuck, Miriam</displayForm>
+                        <namePart type="family">Kuckuck</namePart>
+                        <namePart type="given">Miriam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preisfeld, Angelika</displayForm>
+                        <namePart type="family">Preisfeld</namePart>
+                        <namePart type="given">Angelika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Aufgrund der Charakteristika des Faches Sachunterricht und seiner Didaktik gilt das Studium als komplex. Bisherige Studien weisen auf die bundesweit sehr heterogene Ausbildungssituation für dieses Grundschulfach hin. Vor dem Hintergrund vergleichbarer Studienabschlüsse, der Umsetzung der Ansprüche der Sachunterrichtsdidaktik und der Ausbildung einer entsprechenden Fachidentität gilt es, derzeitige Ausbildungsstrukturen und -inhalte näher zu untersuchen. Anknüpfend an das kürzlich von der Gesellschaft für Didaktik des Sachunterrichts entwickelte Qualifikationsmodell zu Mindeststandards für die Aus- und Weiterbildung von Sachunterrichtslehrkräften wird exemplarisch für das Bundesland Nordrhein-Westfalen das intendierte Curriculum der hiesigen acht Studienstandorte auf der Ebene von Prüfungsordnungen und Modulhandbüchern für die sachunterrichtsbezogenen Bachelor- und Masterstudiengänge untersucht. Die Ergebnisse der Dokumentenanalyse zeigen, dass die Ausbildungssituation im Hinblick auf das intendierte Curriculum nicht nur auf Bundesebene, sondern auch auf Bundeslandebene und sogar innerhalb einer Universität äußerst heterogen gestaltet ist. Es gibt große Unterschiede hinsichtlich der Berücksichtigung und Gewichtung fachwissenschaftlicher Anteile verteilt auf die Perspektiven des Sachunterrichts sowie hinsichtlich der Realisierung einer Vernetzung der Perspektiven.</abstract>
+                    <abstract lang="eng">Due to the characteristics of the subject General Studies and its didactics, the course of study is considered rather complex. Previous studies indicate the very heterogeneous training situation for this elementary school subject nationwide. Against the background of comparable degrees, the implementation of the requirements of General Studies and its didactics and the development of a corresponding subject identity, it is necessary to examine current training structures and study contents more closely. The qualification model for minimum standards, recently developed by the ‘Gesellschaft für Didaktik des Sachunterrichts’, can be used as an orientation framework for teacher training in the field of General Studies. Drawing on this model, the intended curriculum of the eight study locations for General Studies in the federal state of North Rhine-Westphalia has been chosen to be examined with focus on examination regulations and module handbooks (Bachelor’s and Master’s degrees). The results of the document analysis show that the training situation with regard to the intended curriculum is extremely heterogeneous not only at the federal level, but also at the state level and even within a university. There are major differences in the consideration and prioritisation of subject-specific parts distributed across the perspectives of General Studies as well as with regard to the implementation of linkage of perspectives.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4031</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4031">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4031/4373" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4031">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4031/4374" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4031" DMDID="DMD_biejournals_4031">
+            <mets:fptr FILEID="FILE0_biejournals_4031"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4031" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4031"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

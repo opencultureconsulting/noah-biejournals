@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3894">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Informationsgestützte Auseinandersetzung mit pädagogischen Situationen</title>
+                        <subTitle>Ein Lehrkonzept für die bildungswissenschaftliche Vorbereitung des Praxissemesters</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hartmann, Ulrike</displayForm>
+                        <namePart type="family">Hartmann</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Trempler, Kati</displayForm>
+                        <namePart type="family">Trempler</namePart>
+                        <namePart type="given">Kati</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schellenbach-Zell, Judith</displayForm>
+                        <namePart type="family">Schellenbach-Zell</namePart>
+                        <namePart type="given">Judith</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem vorgestellten Lehrkonzept wird durch die Auseinandersetzung mit realen pädagogischen Situationen ein Vorgehen zur informationsbasierten Reflexion für das Praxissemester eingeübt. Das Konzept schließt an den aktuellen Diskurs zur Evidenzorientierung sowie an das professionstheoretische Modell metareflexiver Lehrerbildung an. Es wird davon ausgegangen, dass eine intensive Auseinandersetzung mit pädagogischen Situationen den (angehenden) Lehrkräften komplexe Fähigkeiten abverlangt, die u.a. die Wahrnehmung und das Verstehen einer Situation, die Informationssuche und -bewertung bildungs-wissenschaftlicher Theorien und Befunde, die argumentative und reflektierte Auseinandersetzung sowie das Ableiten alternativer Handlungen umfassen. Anhand eines Videofalls wird ein mehrschrittiger Reflexionsprozess eingeübt, der aus folgenden Elementen besteht: (1) die Beschreibung einer pädagogischen Situation, (2) die Erklärung der gewählten Situation anhand interner und externer Informationsquellen sowie (3) die Schlussfolgerung mit der Ableitung von Handlungsoptionen für die eigene professionelle Praxis. In der hier vorgestellten Form dient das Lehrkonzept als Trainingseinheit für praxissemesterbegleitende Reflexionsaufgaben in Form von Lerntagebüchern, die von den Studierenden verfasst werden und die sich auf selbst erlebte pädagogische Situationen an ihrer Praxissemesterschule beziehen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3894</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3894">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3894/3890" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3894">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3894/3891" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_3894">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3894/3892" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3894" DMDID="DMD_biejournals_3894">
+            <mets:fptr FILEID="FILE0_biejournals_3894"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3894" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3894"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3894" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3894"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

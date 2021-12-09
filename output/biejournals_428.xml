@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_428">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Talk-and-Action Approach to Citizenship Education. An Outline of a Methodology of Critical Studies in Citizenship Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hedtke, Reinhold</displayForm>
+                        <namePart type="family">Hedtke</namePart>
+                        <namePart type="given">Reinhold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zimenkova, Tatjana</displayForm>
+                        <namePart type="family">Zimenkova</namePart>
+                        <namePart type="given">Tatjana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The present research on the development of citizenship education in (transformation) countries fails to ac-knowledge that systems of citizenship education are political organisations by nature. This research does not analyse citizenship education (CE) as a multi-level, multi-actor and multi-interest system with multiple envi-ronments. The diverse environmental and internal demands addressed to CE actors are also ignored. This paper sees CE as situated and developing in a tension field of diverse and contradicting demands to which each organised CE actor has to respond simultaneously. This especially holds for post-socialist transforma-tion countries but applies as well to “old” democracies which, like the aforementioned, are confronted with the challenges of Europeanisation and migration. A multi-level actor-centred approach, acknowledging actor-specific perspectives, as suggested in this article, is essential for understanding the complex interplay of demands and reactions (talk, decision and action) of different actors and hence the change of CE under the conditions of societal change or transformation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_428</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_428">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/428/425" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_428" DMDID="DMD_biejournals_428">
+            <mets:fptr FILEID="FILE0_biejournals_428"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1890">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Maternal and new-born health policy indicators for low-resourced countries</title>
+                        <subTitle>The example of Liberia</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Broniatowski, Raphael</displayForm>
+                        <namePart type="family">Broniatowski</namePart>
+                        <namePart type="given">Raphael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Byepu, Stephen</displayForm>
+                        <namePart type="family">Byepu</namePart>
+                        <namePart type="given">Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Abstract Aim: Over the past two decades, two catastrophic events caused a steep decline in health services in Liberia: the long-lasting civil war (1989-2003) and the weak response of the health system to the Ebola Viral Disease (EVD) outbreak (2013-2015). In early 2015 The Liberian Government reacted and developed a strategic health policy framework. This paper reviews that framework with a focus on maternal and newborn health.Methods: The study is designed as a narrative review executed during the second half of 2017 in Monrovia. It takes advantage of triangulation, derived from recent international and national documents, relevant literature, and available information from primary and secondary sources and databases.Results: In 2015 the severely compromised health system infrastructure included lack of functional refrigerators, low availability of vaccines and child immunization guidelines, high stock-out rates, and an absence of the cold chain minimum requirements in 46% of health facilities. The public health workforce on payroll during 2014/15 included only 117 physicians. Skilled birth attendance as an indicator of maternal health services performance was 61%. Presently, approximately 4.5 women die each day in Liberia due to complications of pregnancy, delivery, and during the post-partum period, equalling about 1,100 women per 100,000 live births. Of particular note is the adolescent birth rate of 147 per 1000 women aged 15-19 years, three times higher than the world average of 44. Additionally, with a neonatal mortality rate of 19.2 neonatal deaths per 1,000 live births, Liberia stands higher than the world average as well. The high mortality rates are caused by multiple factors, including a delay in recognition of complications and the need for medical care, the time it takes to reach a health facility due to a lack of suitable roads and transportation, and a delay in receiving competent care in the health facilities.Conclusions: The fact that performance is above average for some indicators and far below for other points to unexplained discrepancies and a mismatch of international and national definitions or validity of data. Therefore, it is recommended to concentrate on the core of tracer indicators adopted at the global level for Universal Health Coverage and the Sustainable Development Goals to enable a permanent update of relevant information for policymaking and adjustment. At present all health policy documents miss a thorough application of the SMART objectives (Specific, Measurable, Attainable, Relevant and Timely), notably missing in most documents are realistic and detailed budgeting and obligatory timelines for set targets.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1890</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1890">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1890/1810" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1890" DMDID="DMD_biejournals_1890">
+            <mets:fptr FILEID="FILE0_biejournals_1890"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

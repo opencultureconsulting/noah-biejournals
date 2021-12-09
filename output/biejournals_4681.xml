@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4681">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Addressing ableism in inclusive education policies</title>
+                        <subTitle>a policy brief outlining  Italy, Poland, the Netherlands and the United Kingdom</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kusters, Joni</displayForm>
+                        <namePart type="family">Kusters</namePart>
+                        <namePart type="given">Joni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Millner, Mareike Annemarie</displayForm>
+                        <namePart type="family">Millner</namePart>
+                        <namePart type="given">Mareike Annemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Omelyanovskaya, Karina</displayForm>
+                        <namePart type="family">Omelyanovskaya</namePart>
+                        <namePart type="given">Karina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tangerli, Mehmet Mikail</displayForm>
+                        <namePart type="family">Tangerli</namePart>
+                        <namePart type="given">Mehmet Mikail</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laszewska, Agata</displayForm>
+                        <namePart type="family">Laszewska</namePart>
+                        <namePart type="given">Agata</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van Kessel, Robin</displayForm>
+                        <namePart type="family">van Kessel</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Context: Access to education is a fundamental right that should be realised to the degree that every child can develop their talents to the fullest potential. Therefore, children with special education needs and disabilities (SEND) have the right to claim resources and aid to function in schools and should not be excluded from any level of mainstream education. However, the process towards executing this fundamental right is slowed down by existing ableist structures.&amp;nbsp;&amp;nbsp;
+&amp;nbsp;
+Policy Options: This policy brief analyses inclusive education policies from the perspective of four different European Countries (Italy, the Netherlands, Poland, and the United Kingdom). The data was synthesised using four types of ableism that are addressed in this policy brief. The gaps within definitions and argumentation were identified and discussed to provide recommendations concerning education for people with SEND.
+&amp;nbsp;
+Recommendations: The evaluation provided three significant recommendations towards inclusive education systems by addressing ableist structures. Firstly, it is crucial to reduce the linguistic gaps between national educational policies and the underlying national laws. Secondly, it is necessary to include the target group and raise awareness for SEND to reinforce societal and scientific perspectives, and influence policy decision-making. Lastly, it is important to address the discrepancies between the inclusive education policies and the structural capacity. The synergy between these two key factors is crucial for an effective implementation of inclusive education.
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Acknowledgments: We thank Robin van Kessel, our senior advisor, and Dr Katarzyna Czabanowska for the opportunity to explore this topic as part of the Leadership track in the Master Governance and Leadership in European Public Health.
+&amp;nbsp;
+Authors’ contributions: All authors contributed equally to this work.
+&amp;nbsp;
+Conflict of interest: None declared
+&amp;nbsp;
+Source of funding: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4681</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4681">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4681/4409" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4681" DMDID="DMD_biejournals_4681">
+            <mets:fptr FILEID="FILE0_biejournals_4681"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

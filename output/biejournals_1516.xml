@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1516">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sprachsensibler Biologieunterricht mit neuzugewanderten Schüler*innen</title>
+                        <subTitle>Dem Kleinsten auf der Spur – Arbeiten mit dem Mikroskop</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmiedebach, Mario</displayForm>
+                        <namePart type="family">Schmiedebach</namePart>
+                        <namePart type="given">Mario</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baumgarth, Julia</displayForm>
+                        <namePart type="family">Baumgarth</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wegner, Claas</displayForm>
+                        <namePart type="family">Wegner</namePart>
+                        <namePart type="given">Claas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Beschulung neuzugewanderter Schüler*innen hat in den letzten Jahren aufgrund steigender Zuwanderungszahlen an Bedeutung für das deutsche Schulsystem gewonnen. Oftmals werden diese Kinder und Jugendliche in eigens für sie eingerichtete Klassen, so genannten „internationalen Klassen“ (IK), Willkommensklassen, Sprachfördergruppen, etc., unterrichtet. Der vorliegende Artikel zeigt, wie in einer solchen Lerngruppe Biologieunterricht trotz geringer Sprachkenntnisse erfolgen kann und ist im Rahmen des Projekts „Biology for Everyone“ entstanden. Zudem lässt er sich auch im Regelunterricht als sprachsensibler Fachunterricht umsetzen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1516</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1516">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1516/3601" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1516">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1516/3602" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1516" DMDID="DMD_biejournals_1516">
+            <mets:fptr FILEID="FILE0_biejournals_1516"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1516" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1516"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

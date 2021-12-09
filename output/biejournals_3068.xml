@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3068">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Protecting the “Most Vulnerable”? The Management of a Disaster and the Making/Unmaking of Victims after the 2008 Xenophobic Violence in South Africa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Cabane, Lydie</displayForm>
+                        <namePart type="family">Cabane</namePart>
+                        <namePart type="given">Lydie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In 2008, South Africa witnessed a bout of xenophobic violence, requiring the state to declare a disaster to manage a massive displacement of migrants and foreigners. How did the South African state come to care for these populations, whereas it had previously sought to avoid providing protection to foreigners, and was seen as responsible for fostering xenophobia, if not violence? Analyzing the management of the disaster at the local level (in Cape Town), and the various discourses and mobilizations involved in it, this article shows how widespread violence and displacement rendered migrant vulnerabilities visible in the urban space and forced the state to temporarily recognize and protect those who became seen as “victims.” It also questions the idea that xenophobia and failure to comply with international norms were responsible for the lack of protection of migrants and foreigners. Rather, it is the kind of protection displayed, restricted to the “most vulnerable,” that failed to address the root causes of the violence and envision broader social integration issues. The article provides further theorization on what it means to treat violence as disaster and points out to the need to envisage critically humanitarian and social assistance by including them in broader welfare patterns.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3068</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3068">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3068/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3068">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3068/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3068" DMDID="DMD_biejournals_3068">
+            <mets:fptr FILEID="FILE0_biejournals_3068"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3068" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3068"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

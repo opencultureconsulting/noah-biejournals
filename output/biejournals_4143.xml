@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4143">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Unterricht und Unterstützung</title>
+                        <subTitle>Fortbildung zur Reflexion von Rollenvorstellungen und Zielsetzungen in der Zusammenarbeit mit Schulbegleitungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lübeck, Anika</displayForm>
+                        <namePart type="family">Lübeck</namePart>
+                        <namePart type="given">Anika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Demmer, Christine</displayForm>
+                        <namePart type="family">Demmer</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vielfach werden Schulbegleitungen im inklusiven Unterricht eingesetzt, ohne dass ihre Rolle oder auch das Ziel ihrer Unterstützung hinreichend geklärt sind. Gleichzeitig haben diese Unbestimmtheiten Auswirkungen auf die Rollen derjenigen, die mit ihnen zusammenarbeiten. Dieser Beitrag rückt das Dreieck in den Blick, das sich zwischen den individuellen Bedürfnissen der begleiteten Schülerin bzw. des begleiteten Schülers, der noch ungeklärten Rolle der Schulbegleitung und der sich im Rahmen der Zusammenarbeit verändernden Rolle der Lehrkraft aufspannt. Ein Ausschnitt aus einem Gespräch zwischen einer Lehrkraft und einer Schulbegleitung, in dem die wechselseitigen Rollen thematisch sind, kann für Aus‑, Weiter- und Fortbildungsveranstaltungen mit Lehrkräften und Schulbegleitungen eingesetzt werden und zur Reflexion von Rollen- und Zielvorstellungen einladen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4143</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4143">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4143/4135" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4143">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4143/4136" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4143" DMDID="DMD_biejournals_4143">
+            <mets:fptr FILEID="FILE0_biejournals_4143"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4143" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4143"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

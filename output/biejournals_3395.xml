@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3395">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Analyse von Unterrichtskonzepten zum Experimentieren hinsichtlich theoretisch begründeter Unterrichtsprinzipien</title>
+                        <subTitle>Bestandsaufnahme und kriteriale Gegenüberstellung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bewersdorff, Arne</displayForm>
+                        <namePart type="family">Bewersdorff</namePart>
+                        <namePart type="given">Arne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baur, Armin</displayForm>
+                        <namePart type="family">Baur</namePart>
+                        <namePart type="given">Armin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Emden, Markus</displayForm>
+                        <namePart type="family">Emden</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Seit vielen Jahrzehnten versucht die naturwissenschaftsdidaktische Entwicklung die Lernwirksamkeit lernendenaktiver Experimentierphasen durch innovative, unterschiedlich akzentuierte Unterrichtskonzepte zu fördern. Unterrichtskonzepte sind Gesamtorientierungen didaktisch-methodischen Handelns, in denen ein begründeter Zusammenhang von Ziel-, Inhalts- und Methodenentscheidungen hergestellt wird. Dies hat zu einer Vielzahl von namens- wie auch teils inhaltsgleichen Unterrichtskonzepten geführt, aus deren Nebeneinander Lehrkräfte möglichst geeignete Ansätze für ihren Unterricht auswählen sollen. In diesem Artikel werden prominente Unterrichtskonzepte zum Experimentieren gesichtet, geordnet und bezüglich ihrer Potenziale untersucht, Experimentieren im Sinne der Bildungsstandards zu fördern. Zur Analyse werden vornehmlich im deutschsprachigen Raum besprochene Unterrichtskonzepte ausgewählt, die konstruktivistischen Theorien zum aktiven Lernen folgen. Grundlage des kriteriengeleiteten Vergleichs sind acht theoretisch begründete Unterrichtsprinzipien: (P1) ‚Teilprozesse des Experimentierens berücksichtigen‘, (P2) ,Experimentieren als expliziter Unterrichtsgegenstand‘, (P3) ‚Experimentieren üben‘, (P4) ‚Experimentieren zum Problemlösen einsetzen‘, (P5) ‚Prozessreflektierend experimentieren‘, (P6) ‚Grenzen von Experimenten ansprechen‘, (P7) ‚Wissenschaftliche Strenge walten lassen‘, (P8) ‚Zunehmende Selbstständigkeit der Lernenden beim Experimentieren‘. Als Ergebnis ist festzustellen, dass keines der untersuchten Unterrichtskonzepte alle acht Unterrichtsprinzipien berücksichtigt. Besonders hinsichtlich einer zunehmenden Lernendenselbstständigkeit und des Übens wissenschaftlichen Experimentierens wurden bei vielen Unterrichtskonzepten Leerstellen identifiziert. Die Konzepte des Forschend-entdeckenden Lernens nach Höttecke und des Forschenden Lernens nach Arnold versprächen, nach Erweiterung um einen Übungs-Aspekt, die Berücksichtigung aller Unterrichtsprinzipien.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3395</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3395">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3395/3850" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3395" DMDID="DMD_biejournals_3395">
+            <mets:fptr FILEID="FILE0_biejournals_3395"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

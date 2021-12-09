@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Bridging the gap“ – Zur Verringerung der Kluft zwischen allgemeinen Lehr-Lernmodellen und konkreter Unterrichtsgestaltung am Beispiel der Förderung dynamischer Problemlösekompetenz in der Biologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rieß, Werner</displayForm>
+                        <namePart type="family">Rieß</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mischo, Christoph</displayForm>
+                        <namePart type="family">Mischo</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-05-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Förderung naturwissenschaftsbezogener Problemlösekompetenz ist ein wichtiges Ziel der naturwissenschaftlichen Ausbildung an Schulen und Hochschulen. Wie aber können entsprechende Kompetenzen evidenzbasiert gefördert werden? Die Autoren referieren zunächst wichtige Merkmale und Konzepte des Problemlösens in naturwissenschaftlichen Kontexten, stellen anschließend Ansätze und Effekte eher instruktivistischer vs. konstruktivistischer Lehr-Lernverfahren zur Förderung von Problemlösefähigkeiten dar und diskutieren die empirische Befundlage kritisch. Auf der Basis vielfach empirisch bewährter Lehr-Lernprinzipien und in Anlehnung an ein Lehr-Lernmodell von Van Merriënboer (2013) entwickeln die Autoren ein Modell problemorientierten Lehrens und Lernens (MopoLL), das die Kluft zwischen bereichsübergreifenden und adressaten- sowie inhaltsunspezifischen Lehr-Lernmodellen einerseits und den Bedürfnissen praktisch Lehrender nach einer Konkretisierung für die Unterrichtsplanung andererseits überbrückt und als Ansatz zur evidenzbasierten Förderung dynamischer Problemlösekompetenz (zumindest) biologischer Inhalte gelten kann. Abschließend werden Desiderata für die weitere Forschung aufgezeigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1631</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1631">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1631/1571" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1631" DMDID="DMD_biejournals_1631">
+            <mets:fptr FILEID="FILE0_biejournals_1631"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

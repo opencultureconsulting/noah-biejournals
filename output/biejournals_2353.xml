@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2353">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Education through democracy – Civic activation of the youth </title>
+                        <subTitle>Self-reflection on program evaluation methodology</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Żerkowska-Balas, Marta</displayForm>
+                        <namePart type="family">Żerkowska-Balas</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel, Michał</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Michał</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The objective of the paper is to present the effects of the evaluation study of the Polish project “Youth Vote +: Social and civic activation of young people”1 – a comprehensive education program in the field of civic engagement, based on three practical pillars: conscious electoral participation (Pillar 1), involvement in civic activities (Pillar 2) and political discussion and opinion expression (Pillar 3). 
+Methodology: We developed an evaluation study that was aligned with the nature of the program. To capture the change in civic competence and skills, we used quantitative (a retrospective pretest design and one-group pretest-posttest design) and qualitative (focus group interviews) methods. The former enabled us to achieve robust measurement of increases in competence, while the latter gave us better insight into participants’ perceptions of the project. 
+Findings: The evaluation study documented the effectiveness of the program regarding a behavioral dimension, but cognitive development was insufficient relative to goals. The study also allowed for critical evaluation of the program and its modifications.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2353</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2353">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/2353/3671" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2353" DMDID="DMD_biejournals_2353">
+            <mets:fptr FILEID="FILE0_biejournals_2353"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

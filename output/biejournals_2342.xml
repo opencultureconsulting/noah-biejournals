@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2342">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision in der Konsumgesellschaft - Tagungsbericht zur „Reflexiven Supervision“ vom 18. März 2017</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Roth-Vormann, Manuela</displayForm>
+                        <namePart type="family">Roth-Vormann</namePart>
+                        <namePart type="given">Manuela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Konsum hat sich flächendeckend auf alle Subsysteme der Gesellschaft ausgeweitet. Baudrillards Verständnis vom Konstrukt Konsum zeigt sich - in neomarxistischer, strukturalistischer Tradition - als soziales System. Als universales Kommunikations- und Repräsentationssystem erfährt Konsum einen relationalen Sinn, der sich in Distinktionsbemühungen hinsichtlich einer Abgrenzung zu anderen oder ein Dazugehören zu einer bestimmten Gruppe niederschlägt. Über das Konsumieren eines bestimmten Konsumobjektes wird zugleich die jeweilige Signal- und Symbolfunktion des Konsumobjektes angeeignet. Somit findet eine Verortung des Subjekts im sozialen Feld statt - Konsumobjekte sind relativ bedeutungsvoll in Abhängigkeit der anderen gleichen Konsumobjekte (also nur dann relevant, wenn sie im Verhältnis der anderen Konsumobjekte der gleichen Art gesehen werden). Das System der Konsumobjekte korreliert mit dem System der Lebensstile. Beide Systeme befinden sich in einem steten Wandel, so dass diese aufgrund ihrer Komplexität ständig unübersichtlicher werden. Konsum ist kein Anhängsel von Produktion, sondern erfährt die universale Funktion der Relevanz - eigenständig und autonom zeigt sich das System des Konsums als Phänomen, das die Gesellschaft durchdringt und sinngebend bestimmt. Ein Begehren also, dass vermeintlich autonome Menschen in einer ausdifferenzierten Gesellschaft antreibt, ist der Konsum.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2342</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2342">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2342/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2342">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2342/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2342" DMDID="DMD_biejournals_2342">
+            <mets:fptr FILEID="FILE0_biejournals_2342"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2342" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2342"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

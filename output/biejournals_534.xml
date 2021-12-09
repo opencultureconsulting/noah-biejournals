@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_534">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teacher Identity and the Marketizised Society. Discursive Constructions in Teachers’ Discussion Groups</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aldenmyr, Sara Irisdotter</displayForm>
+                        <namePart type="family">Aldenmyr</namePart>
+                        <namePart type="given">Sara Irisdotter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In the latest decennium, there have been several and gradual changes in the Swedish and other European school systems. The steering system has become more decentralized and the entire school system is now a part of the freedom of trade. Schools are competing with each other and this has, according to previous research, an effect on how teachers think about, and carry out their everyday activities (Gerwitz et al. 1995; Irisdotter 2006). How teachers think about themselves, their students and the educational task is of great importance for the social climate of the classroom and, in the longer run, society in general. The current study dicusses how teachers‘ identities and self-understandings are influenced by the marketization of society. The material analysed consists of group discussions in three different teacher groups in compulsory school in Sweden. Questions raised are: Can teachers work within the context of marketization and yet relate to it with an attitude of self-awareness and critical reflection? And how can teachers deal with both traditional teacher values and progressive, democratic values that may be in conflict with the conditions of a marketizised school system?</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_534</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_534">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/534/531" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_534" DMDID="DMD_biejournals_534">
+            <mets:fptr FILEID="FILE0_biejournals_534"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3463">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pluriversal possibilities and challenges for Global Education in Northern Europe</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pashby, Karen</displayForm>
+                        <namePart type="family">Pashby</namePart>
+                        <namePart type="given">Karen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>da Costa, Marta</displayForm>
+                        <namePart type="family">da Costa</namePart>
+                        <namePart type="given">Marta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sund, Louise</displayForm>
+                        <namePart type="family">Sund</namePart>
+                        <namePart type="given">Louise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-18</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This paper considers the relevance of critical and decolonial approaches to global education in northern Europe through theoretical and empirical research.
+Methodology:  We present a case for an approach that engages the modern/colonial dynamic (Mignolo, 2000; Andreotti, 2014) and pluriversality (Mignolo &amp;amp; Walsh, 2018). We conducted a project involving workshops with secondary teachers in England, Finland, and Sweden centred on Andreotti’s (2012) HEADSUP tool. We recorded discussions at the workshops and individual interviews after applying the tool in practice.
+Findings: Teachers are both strategic and reticent in how they take up colonialism when teaching global issues. Wider political contexts and teachers’ and students’ own experiences with colonialism and racialisation are very much part of how ethical global issues are framed, unpacked, and responded to in classrooms. While there are some significant challenges evident, several teachers deepened their approach and co-produced a teacher resource supporting the application of HEADSUP to classroom practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3463</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3463">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3463/3996" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3463" DMDID="DMD_biejournals_3463">
+            <mets:fptr FILEID="FILE0_biejournals_3463"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

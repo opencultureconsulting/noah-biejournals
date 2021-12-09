@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2285">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision in pädagogischen Kontexten. Ein Vergleich von Supervision in der Sozialen Arbeit und in der Schule</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Drüge, Marie</displayForm>
+                        <namePart type="family">Drüge</namePart>
+                        <namePart type="given">Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schleider, Karin</displayForm>
+                        <namePart type="family">Schleider</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Pädagogische Kontexte sind von einer Vielzahl an Konflikten geprägt. Supervision stellt eine Möglichkeit dar, diese Konflikte zu lösen und kann nachweislich dazu beitragen zu entlasten sowie Kooperation und Handlungssicherheit zu fördern. In verschiedenen pädagogischen Kontexten (z.B. Soziale Arbeit und Schule) ist Supervision unterschiedlich stark etabliert. Diese Studie untersucht und vergleicht Häufigkeit, Rahmenbedingungen, Anliegen und den wahrgenommenen Nutzen von Supervision in Sozialer Arbeit und Schule, indem 376 Supervisorinnen und Supervisoren, die in pädagogischen Kontexten supervidieren, befragt wurden. Die Ergebnisse zeigen Unterschiede in allen Bereichen zwischen Sozialer Arbeit und Schule, aus denen sich Implikationen für Praxis, Forschung und Weiterbildung ableiten lassen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2285</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2285">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2285/2247" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2285">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2285/2248" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2285" DMDID="DMD_biejournals_2285">
+            <mets:fptr FILEID="FILE0_biejournals_2285"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2285" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2285"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

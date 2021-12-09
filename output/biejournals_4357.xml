@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4357">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Developing Critical Cultural and Digital Literacy</title>
+                        <subTitle>From Primary School to Teacher Education and Back</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Louloudi, Eleni</displayForm>
+                        <namePart type="family">Louloudi</namePart>
+                        <namePart type="given">Eleni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>König, Lotta</displayForm>
+                        <namePart type="family">König</namePart>
+                        <namePart type="given">Lotta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schildhauer, Peter</displayForm>
+                        <namePart type="family">Schildhauer</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In this contribution, we propose critical literacy as a concept that allows to anchor democratic education in foreign language teaching, namely in the context of cultural and digital learning. We suggest a framework for planning teaching units and present practical examples based on ethnographic research on critical literacy education in Canada, which span the full range from primary school to teacher training at university. On this basis, we discuss implications and further questions related to democratic education in the first phase of teacher training at Bielefeld University and beyond.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4357</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4357">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4357/4225" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4357" DMDID="DMD_biejournals_4357">
+            <mets:fptr FILEID="FILE0_biejournals_4357"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_330">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gender Equality and Citizenship Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arnot, Madeleine</displayForm>
+                        <namePart type="family">Arnot</namePart>
+                        <namePart type="given">Madeleine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article illustrates the ways in which citizenship education can contribute to the marginalisation of women. It focuses particularly on the form of citizenship education recently implemented in England and Wales to demonstrate the gender assumptions of liberal and civic republican traditions, especially the privileging of individualism over collectivism, rationality over the affective domain and difficulties associated with the notion of gender difference. Some of the consequences of the separation between public and private civic spheres are to be found in the marginalisation of sexuality, lesbian and gay citizenship, and violence against women. Alternative conceptualisations of citizenship education would engage in the controversial changes in family life and in gender relations, would &apos;recognise diversity&apos; and promote notions of female power and agency. These gender-sensitive educational agendas would contribute more effectively to creating mature democratic societies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_330</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_330">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/330/327" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_330" DMDID="DMD_biejournals_330">
+            <mets:fptr FILEID="FILE0_biejournals_330"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

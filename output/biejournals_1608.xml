@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1608">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Helgoländer Lummenfelsen – Deutschlands einziger Vogelfelsen</title>
+                        <subTitle>So fliegen Trottellumme, Basstölpel, Dreizehenmöwe, Tordalk und Eissturmvogel mittels Gruppenpuzzle direkt in das Klassenzimmer</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmäing, Till</displayForm>
+                        <namePart type="family">Schmäing</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Wer bereits die Gelegenheit hatte, Helgoland zu besuchen, wird ihn kennen: Den Helgoländer Lummenfelsen. Dieser Vogelfelsen – benannt nach den dort brütenden Trottellummen – ist der Einzige in ganz Deutschland. Wenn nicht grad die Gelegenheit besteht im Rahmen einer biologischen Exkursion bzw. einer Klassen-/ Kursfahrt diesen beeindruckenden Lebensraum erleben zu dürfen, ermöglicht dieser Beitrag eine Auseinandersetzung mittels Gruppenpuzzle mit dem kleinsten Naturschutzgebiet Deutschlands und seinen Bewohnern. Die fachlichen Grundlagen werden mit Hilfe einer Sachanalyse illustriert, die sich im Anhang befindlichen Arbeitsblätter im Anschluss didaktisch kommentiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1608</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1608">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1608/1548" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1608">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1608/1549" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_1608">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1608/1550" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1608" DMDID="DMD_biejournals_1608">
+            <mets:fptr FILEID="FILE0_biejournals_1608"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1608" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1608"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1608" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1608"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_941">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>interdependence of work norms and sanctioning behavior. An example of the rotation system at an international chain hotel</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zaytseva, Anna</displayForm>
+                        <namePart type="family">Zaytseva</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In this article I deal with two basic ideas which I will try to link in the course of my analysis. First, I call into question whether sanctions can be regarded as an integral characteristic of norms. Here, I will turn to theoretical insights of a contemporary sociological discussion and to empirical evidence collected in my study. Second, my chosen approach is to consider norms a system of interdependent, partly competitive norms. This will be demonstrated by an example of the introduction of the rotation principle of work organization at an international chain hotel. My study examines the preconditions for the constellation of contradictory norms, i.e. when existing norms are inconsistent with new operational norms. In turn, the limits of sanctioning as an integral characteristic of norms are illustrated by referring to the assumption of interdependence, and in this way I establish the link between both aspects of my paper. Based on theoretical arguments, I try to find empirical evidence supporting that, in the same setting, following one norm leads to the infraction of another. Therefore, within a system of competitive norms, deviant behavior is inevitable. To understand sanctioning behavior in the context of interdependent norms, it is important to have in mind that both managers and employees in work organizations may impose sanctions. For example, employees demonstrate sanctioning behavior when they resist following contradictory norms.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_941</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_941">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/941/1049" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_941" DMDID="DMD_biejournals_941">
+            <mets:fptr FILEID="FILE0_biejournals_941"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_282">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Sachanalyse Globalisierung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jung, Eberhard</displayForm>
+                        <namePart type="family">Jung</namePart>
+                        <namePart type="given">Eberhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Juchler, Ingo</displayForm>
+                        <namePart type="family">Juchler</namePart>
+                        <namePart type="given">Ingo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2002-07-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2001</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Terminus Globalisierung bildet einen schillernden Begriff im Spannungsverhältnis von Hoffnungen und Ängsten. Die Hoffnungen beziehen sich auf die Verbesserungen wirtschaftlicher, politischer und sozialer Zustände, die Ängste auf deren Verschlechterung. Die mit dem Begriff Globalisierung umschriebenen Strukturveränderungen und Modernisierungsprozesse stellen zwar kein grundsätzlich neues Phänomen dar. Doch haben die technischen Innovationen im Bereich der Informationstechnologien sowie politische Deregulierungsentscheidungen der Internationalisierung weltweit vernetzter wirtschaftlicher und finanztechnischer Aktivitäten eine neue Qualität verliehen. Zur Ausbildung (wirtschafts-)politischer Urteilsfähigkeit bei den Schülerinnen und Schülern ist vor diesem Hintergrund eine differenzierte unterrichtliche Auseinandersetzung mit den unterschiedlichen Facetten der Globalisierung vonnöten. Neben den dezidiert wirtschaftlichen Implikationen des Lerngegenstandes Globalisierung muss dabei auch dessen politische Dimension adäquat Berücksichtigung finden. Das Konzept der &quot;global governance&quot; zur Rückgewinnung politischer Steuerungsfähigkeit unter den Bedingungen der Globalisierung kann hier für globales Lernen richtungsweisend werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_282</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_282">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/282/279" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_282" DMDID="DMD_biejournals_282">
+            <mets:fptr FILEID="FILE0_biejournals_282"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

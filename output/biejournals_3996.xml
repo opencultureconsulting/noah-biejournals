@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3996">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>health of the public</title>
+                        <subTitle>What has gone wrong?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alderslade, Richard</displayForm>
+                        <namePart type="family">Alderslade</namePart>
+                        <namePart type="given">Richard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kokeny, Mihaly</displayForm>
+                        <namePart type="family">Kokeny</namePart>
+                        <namePart type="given">Mihaly</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tsouros, Agis</displayForm>
+                        <namePart type="family">Tsouros</namePart>
+                        <namePart type="given">Agis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">COVID-19, a new pandemic, has swept the world. How could this have happened? In theory the world should have been prepared, armed as it has been since 2005 with a new set of International Health Regulations with universal commitment by WHO Member States. Yet disaster has struck. The authors of this paper consider that fundamental rethinking is needed, with a new review of the post-World War 2 international system for global governance for health. Whilst WHO and its present and future actions will be scrutinized, the organization is fundamentally made up of 194 Member States, which must share the responsibility for ensuring better global health protection in the future. It is clear the world needs a more effective WHO, but it also needs countries to support and develop their public health infrastructure to face today’s more complex health challenges, which can only grow in scope and complexity over coming years. The paper proposes several key steps to achieve these goals.
+Conflict of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3996</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3996">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3996/3933" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3996" DMDID="DMD_biejournals_3996">
+            <mets:fptr FILEID="FILE0_biejournals_3996"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

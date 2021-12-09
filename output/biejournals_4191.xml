@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4191">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Pädagogische Beziehungen und Anerkennung – Perspektiven aus den Fachdidaktiken und Bildungswissenschaften</title>
+                        <subTitle>Einführung in das Themenheft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bender, Saskia</displayForm>
+                        <namePart type="family">Bender</namePart>
+                        <namePart type="given">Saskia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dempki, Carolin</displayForm>
+                        <namePart type="family">Dempki</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lüken, Miriam</displayForm>
+                        <namePart type="family">Lüken</namePart>
+                        <namePart type="given">Miriam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-03-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag führt in das Themenheft „Pädagogische Beziehungen und Anerkennung – Perspektiven aus den Fachdidaktiken und Bildungswissenschaften“ ein, das die Bielefelder Frühjahrstagung 2020 dokumentiert. Neben einer Einführung in die Thematik werden die Beiträge des Themenheftes vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4191</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4191">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4191/4160" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4191" DMDID="DMD_biejournals_4191">
+            <mets:fptr FILEID="FILE0_biejournals_4191"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

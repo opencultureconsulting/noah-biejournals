@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1626">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehr- und Lernvorstellungen angehender Biologielehrender im Kontext des Praxissemesters</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schumacher, Fabian</displayForm>
+                        <namePart type="family">Schumacher</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Großmann, Nadine</displayForm>
+                        <namePart type="family">Großmann</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Eckes, Alexander</displayForm>
+                        <namePart type="family">Eckes</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hüfner, Christiane</displayForm>
+                        <namePart type="family">Hüfner</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">ZUSAMMENFASSUNGLehr- und Lernvorstellungen (LLV) konstituieren u. a. das Lehrerprofessionswissen. Die naturwissenschaftliche, universitäre Lehramtsausbildung ist v.a. durch konstruktivistische Paradigmen geprägt. An Schulen finden sich vielfach eher transmissive LLV. Praxisphasen innerhalb der Lehramtsausbildung könnten voruniversitäre transmissive LLV der Lehrkräfte stärken. An der Universität Bielefeld wird das gerade eingeführte halbjährige Praxissemester stark mit Elementen Forschenden Lernens verknüpft. In der vorliegenden Studie interessierte, ob diese Elemente die Ausprägung der Zustimmung zu den LLV zwischen den Gruppen vor und nach dem Praxissemester beeinflussen. 105 Studierende (MAlter = 24.90 Jahre, SDAlter = 2.07 Jahre, 73,30 % weiblich) des Fachs Biologie wurden bezüglich der Wirkung des Praxissemesters auf ihre generalisierten LLV transmissiv und konstruktivistisch sowie ihre fachspezifischen LLV zu Vernetzung und Präkonzepten im Fach Biologie untersucht. Die Ergebnisse dieser Trendstudie zeigen eine überraschende Wirkung des Praxissemesters: Transmissive LLV sind nach dem Praxissemester besonders gering ausgeprägt. Möglicherweise könnte dies auf eine gelingende Theorie-Praxis-Verknüpfung zurückzuführen sein.ABSTRACTTeacher beliefs about learning constitute i. a. professional competence in teaching. The science teacher training at university is characterized by constructivist paradigms in particular. Most often, teacher beliefs at school are transmissive. Practical phases during teacher training at university could strengthen the teacher trainees’ pre-university transmissive beliefs. The currently established six-month practical semester at the Bielefeld University is strongly linked to elements of research-based learning. The present study investigated if these elements of theoretical reflection influence the consent to the beliefs between the groups before and after the practical phase. Therefore, the effects of the practical phase on the general beliefs about transmissive and constructivist learning as well as the science-specific beliefs about connectivity and preconcepts in biology of 105 teacher trainees (MAge = 24.90 years, SDAge = 2.07 years, 73,30 % female) were examined. Results of the trend study hint that the practical phase had a surprising effect: Transmissive beliefs are remarkably weak after the practical phase. This may be ascribed to a successful conjunction of theory and practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1626</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1626">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1626/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1626" DMDID="DMD_biejournals_1626">
+            <mets:fptr FILEID="FILE0_biejournals_1626"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

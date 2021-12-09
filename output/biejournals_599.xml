@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_599">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Vote for Me! Electing a Class Monitor in a Chinese Middle School</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Changqing, Liu</displayForm>
+                        <namePart type="family">Changqing</namePart>
+                        <namePart type="given">Liu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Please Vote for Me is a film produced in China, but provoking hot discussion all over the world. Because bare-knuckled threats, outright lies, well-placed bribes, and well-resourced lobbyists happen among eight-yearolds without a savvy politician’s script. To any Chinese, this is the best material to review Chinese democracy. However, electoral politics is the system, but not the democracy itself. Similarly, the Chinese Electoral Law is the foundation of the Chinese political system, which does not mean democracy in reality. Therefore, it can be reviewed and adjusted to be more suitable for a better democracy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_599</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_599">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/599/596" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_599" DMDID="DMD_biejournals_599">
+            <mets:fptr FILEID="FILE0_biejournals_599"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

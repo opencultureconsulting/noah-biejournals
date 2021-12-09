@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_383">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transformed Institutions – Transformed Citizenship Education? Remarks on the Current Situation in Spain</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jover, Gonzalo</displayForm>
+                        <namePart type="family">Jover</namePart>
+                        <namePart type="given">Gonzalo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Naval, Concepción</displayForm>
+                        <namePart type="family">Naval</namePart>
+                        <namePart type="given">Concepción</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Educational systems are placing great emphasis on the need to generate a sense of citizenship. In this article, we treat this question within the concrete framework of the recent history of Spain (from 1990 to current day). We make reference to three points: (1) The institutional framework of citizenship education; (2) The concepts of citizenship present in the school curriculum and the public debate; (3) The state of research into citizenship education. Based on our analysis of the situation in Spain, we draw several conclusions regarding international research projects on citizenship education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_383</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_383">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/383/380" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_383" DMDID="DMD_biejournals_383">
+            <mets:fptr FILEID="FILE0_biejournals_383"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

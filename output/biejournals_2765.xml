@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2765">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Anomic Crime in Post-Welfarist Societies</title>
+                        <subTitle>Cult of the Individual, Integration Patterns and Delinquency</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frerichs, Sabine</displayForm>
+                        <namePart type="family">Frerichs</namePart>
+                        <namePart type="given">Sabine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Münch, Richard</displayForm>
+                        <namePart type="family">Münch</namePart>
+                        <namePart type="given">Richard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sander, Monika</displayForm>
+                        <namePart type="family">Sander</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Post-Fordist economies come along with post-welfarist societies marked by intensified cultural individualism and increased structural inequalities. These conditions are commonly held to be conducive to relative deprivation and, thereby, anomic crime. At the same time, post-welfarist societies develop a new “balance of power” between institutions providing for welfare regulation, such as the family, the state and the (labour) market—and also the penal system. These institutions are generally expected to improve social integration, ensure conformity and thus reduce anomic crime.
+Combining both perspectives, we analyse the effects of moral individualism, social inequality, and different integration strategies on crime rates in contemporary societies through the lenses of anomie theory. To test our hypotheses, we draw on time-series cross-section data compiled from different data sources (OECD, UN, WHO, WDI) for twenty developed countries in the period 1970–2004, and run multiple regressions that control for country-specific effects. Although we find some evidence that the mismatch between cultural ideal (individual inclusion) and structural reality (stratified exclusion) increases the anomic pressure, whereas conservative (family-based), social-democratic (state-based) and liberal (market-based) integration strategies to a certain extent prove effective in controlling the incidence of crime, the results are not very robust. Moreover, reservations have to be made regarding the effects of “market” income inequality as well as familialist, unionist and liberalist employment policies that are shown to have reversed effects in our sample: the former reducing, the latter occasionally increasing anomic crime.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2765</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2765">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2765/3643" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2765" DMDID="DMD_biejournals_2765">
+            <mets:fptr FILEID="FILE0_biejournals_2765"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

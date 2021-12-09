@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_647">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Making Sense of the Financial Crisis in Economic Education</title>
+                        <subTitle>An Analysis of the Upper Secondary School Social Studies Teaching in Finland in the 2010’s</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lofstrom, Jan</displayForm>
+                        <namePart type="family">Lofstrom</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van den Berg, Marko</displayForm>
+                        <namePart type="family">van den Berg</namePart>
+                        <namePart type="given">Marko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-10-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The current financial-economic crisis has actualized important issues regarding the dynamics of the economic system, the relations between economy and politics, and the notions of good society. Thus the question of how economic education in school can support students’ understanding of the crisis is relevant to pose. This article asks what are the strengths and weaknesses, and also the promises and challenges, in the Finnish upper secondary school economic education, concerning teaching about the crisis? The article analyses the core curriculum for upper secondary school economic education in Finland, the available upper secondary school economy textbooks, and a selection of students’ social studies exam papers in the matriculation examination in spring 2010. The focus of the analysis is on how the current financial-economic crisis is presented in the textbooks and in the exam papers, what the competences are that the core curriculum delineates economic education should develope in students, and what capacity Finnish social studies teachers have for teaching about economy. The article proposes that the presence of historical perspectives and political analyses in economic education are important, in particular when teaching about topics like the current financial-economic crises.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_647</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_647">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/647/668" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE1_biejournals_647">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/647/669" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE2_biejournals_647">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/647/670" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_647" DMDID="DMD_biejournals_647">
+            <mets:fptr FILEID="FILE0_biejournals_647"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_647" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_647"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_647" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_647"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_806">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Positure in Plato’s Laws</title>
+                        <subTitle> An Introduction to Figuration on Civic Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hall, Joshua M.</displayForm>
+                        <namePart type="family">Hall</namePart>
+                        <namePart type="given">Joshua M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The aim of the research was to determine the benefits of applying the new Figuration philosophy of dance, based in part on Plato, to civic education.Design/methodology: A close phenomenological reading of Plato’s The Laws, with a strategic focus on its account of the concept of posture.Findings: Plato considers posture to be central to dance education, which in turn is central to civic education, as suggested by concrete analyses of dance based on posture.Research limitations: Further studies on this subject are required in order to achieve a more nuanced and balanced account of the concepts of posture articulated by other philosophers and theorists.Practical implications: More resources must be allocated to dance and dance education, in the interest of fostering civic education, and the political virtue that results therefrom.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_806</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_806">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/806/888" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_806" DMDID="DMD_biejournals_806">
+            <mets:fptr FILEID="FILE0_biejournals_806"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

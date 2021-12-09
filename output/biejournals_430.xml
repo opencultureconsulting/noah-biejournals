@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_430">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“Shut Up When You Talkin with Me.” Civil Education in a Post-Communist Society Challenged by the Institutionalized Public Culture. The Case of Bulgaria</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dimitrov, Georgi</displayForm>
+                        <namePart type="family">Dimitrov</namePart>
+                        <namePart type="given">Georgi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The paper provides a concise overview of the state of arts of civil education in Bulgaria giving proofs that the contents and values of CE basically contradict the fundamental cultural pattern which is embedded in the institutional design of the school system and the policies of the Ministry of Education. There is a tremendous tension between critical and hypocritical education in democracy. The discrepancy between public “talk” and institutional “action” in civil education is more than overt. This is why the more we concentrate our attention on texts (textbooks, expert publications, manuals for teachers, etc.) the higher level of advancement of CE we will encounter and vice versa – the more we study the school life as practice the less traits of civil culture we register. Hence, the main conclusion is that civil education cannot substitute or get ahead of the democ-ratic institution building; both processes should develop in accord with each other. Or they both would turn out to be abortive.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_430</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_430">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/430/427" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_430" DMDID="DMD_biejournals_430">
+            <mets:fptr FILEID="FILE0_biejournals_430"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

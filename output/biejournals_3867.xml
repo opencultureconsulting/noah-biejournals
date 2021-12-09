@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3867">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zertifikatsangebote zur wissenschaftlichen Weiterbildung von Gesundheitsfachkräften an niedersächsischen Verbundhochschulen</title>
+                        <subTitle>Certificates of Basic Studies (CBS) und Diploma of Basic Studies (DBS) als neue Abschlussformate im Kontext einer spezifischen Hochschulkooperation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Niemeyer, Gerold</displayForm>
+                        <namePart type="family">Niemeyer</namePart>
+                        <namePart type="given">Gerold</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>von Moeller, Karin</displayForm>
+                        <namePart type="family">von Moeller</namePart>
+                        <namePart type="given">Karin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Um flächendeckend eine qualitativ hochwertige Gesundheitsversorgung zu etablieren, bedarf es insbesondere qualifizierter Gesundheitsfachkräfte. Bislang fehlt jedoch weitestgehend eine strukturierte Form der Weiterbildung, die Gesundheitsfachkräften eine an den aktuellen und zukünftigen Bedarfen sowie an ihren eigenen Bedürfnissen orientierte (Weiter-)Entwicklung beruflicher und persönlicher Kompetenzen ermöglicht. Mit den im Rahmen eines BMBF-geförderten Projektes, innerhalb einer hochschulübergreifenden Kooperation von fünf niedersächsischen Hochschulen (KeGL-Verbund) entwickelten wissenschaftlichen Zertifikatsangeboten, kann diese Lücke geschlossen werden. Die kurzformatigen, berufsbegleitend absolvierbaren Weiterbildungsmodule sind in einer Baukastensystematik angeordnet. Ein Blended Learning-Format soll es den Teilnehmenden ermöglichen, zeitlich und örtlich flexibel, erforderliche Kompetenzen in speziellen Themenfeldern zeitnah und bedarfsgerecht weiterzuentwickeln und – ggf. auch hochschulübergreifend – verschiedene Zertifikatsabschlüsse zu erwerben. Diese gewährleisten eine hohe Durchlässigkeit in die berufliche und hochschulische Bildung. Projektabschließend erfolgte eine externe Zertifizierung des an den Verbundhochschulen entwickelten Weiterbildungsangebots sowie eine institutionelle Zertifizierung des KeGL-Verbundes. Der Abschluss eines Vertrages zur Verstetigung der hier vorbereiteten Hochschulkooperation steht aktuell noch aus.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3867</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3867">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3867/4359" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3867" DMDID="DMD_biejournals_3867">
+            <mets:fptr FILEID="FILE0_biejournals_3867"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3937">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildungsbenachteiligung in der Corona-Pandemie</title>
+                        <subTitle>Erste Ergebnisse einer multiperspektivischen Fragebogenstudie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bremm, Nina</displayForm>
+                        <namePart type="family">Bremm</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bildungsbenachteiligung ist neben der Digitalisierung eines der großen Themen, die die wissenschaftlichen und öffentlichen Diskurse rund um mögliche Folgen der Corona-Pandemie für Bildungsprozesse dominieren. Jedoch reicht die Beschäftigung mit struktureller Benachteiligung bislang kaum über Fragen der Ausstattung und der Ressourcenverteilung, etwa mit Blick auf ein herkunftsbedingt unterschiedliches Verfügen über digitale Infrastruktur und geeignete Räume für das Lernen zuhause, hinaus. Im Beitrag wird der Frage nachgegangen, welche Strategien im Fernlernen Lehrpersonen an Schulen unterschiedlicher sozialräumlicher Lage in der Zeit der COVID-19-bedingten Schulschließungen in Bezug auf die Dimensionen „inhaltliche Standards“ und „Schüler*innen-Lehrer*innen-Beziehung“ verfolgt haben. Die Ergebnisse deuten für benachteiligte Schulen im Vergleich zu privilegierten auf ein Senken des Anspruchsniveaus bei gleichzeitig stärkerer Betonung von Beziehungsaspekten hin. Die Ergebnisse werden vor dem Hintergrund von Befunden zu gelingenden Lernprozessen an Schulen in sozialräumlich benachteiligten Lagen diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3937</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3937">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3937/4261" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3937" DMDID="DMD_biejournals_3937">
+            <mets:fptr FILEID="FILE0_biejournals_3937"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

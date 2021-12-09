@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3912">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Global Citizenship Education for Non-Citizens?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Risberg, Eirik Julius</displayForm>
+                        <namePart type="family">Risberg</namePart>
+                        <namePart type="given">Eirik Julius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Global Citizenship Education is one of the fastest-growing educational reform movements in educational research and policy development.
+Recent theoretical development, however, has given rise to a plethora of different conceptions of what Global Citizenship Education is, and to whom it is directed.
+Conceptions of Global Citizenship Education that construe it as an extension of Citizenship Education end up excluding non-citizens, such as migrants and refugees.
+Despite the importance of fostering an awareness of existing social injustice, Global Citizenship Education must therefore take the form of a moral cosmopolitanism.
+
+Purpose: This article seeks to examine whether Global Citizenship Education is able to address non-citizens, such as migrants and refugees. While conceptions of Global Citizenship Education differ, the popular conception of Global Citizenship Education as an extension of Citizenship Education has left the role of non-citizens precarious and in need of explanation.
+
+
+Approach: Through a theoretical analysis of the dominant approaches to Global Citizenship Education, the articles seeks to expose a lacuna in the postcolonial conception of Global Citizenship Education. 
+
+
+Findings: Acknowledging that postcolonial theory has provided a necessary corrective to naïve forms of cosmopolitanism, I argue that a moral or cosmopolitan approach to Global Citizenship Education is more accommodating to non-citizens by allowing them to take part in the conversation. In increasingly diverse societies it is paramount that Global Citizenship Education is able to speak to citizens and non-citizens alike in seeking to foster future global citizens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3912</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3912">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3912/4334" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3912" DMDID="DMD_biejournals_3912">
+            <mets:fptr FILEID="FILE0_biejournals_3912"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

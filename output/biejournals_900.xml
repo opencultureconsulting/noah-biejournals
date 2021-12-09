@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_900">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Studying Politics or Being Political? High School Students’ Assessment of the Welfare State</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sandahl, Johan</displayForm>
+                        <namePart type="family">Sandahl</namePart>
+                        <namePart type="given">Johan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This article examines high school students’ understanding of the welfare state as a political issue and discusses how it can be approached in the classroom. The study was conducted within a social-science educational context and departs from a perspective from which educational goals can be seen as intrinsic (goals closely connected to the academic disciplines) or extrinsic (goals formulated by the political sphere, e.g. students’ deliberation on political issues). These variant goals can pose a dilemma for teachers and students alike as they engage in highly political topics.
+Design &amp;amp; methodology: To explain the structure of the dilemmas of teaching issues that can be understood politically in a social-science context, this paper focuses on students’ assessment of such topics before teaching and how they generally reason different political views on the welfare state. The data consist of written documents produced by tenth-year students in response to two accounts of the best welfare state. Using a qualitative content analysis, the data were analysed to identify students’ approaches to a political issue and their normative reasoning.
+Findings: The results display an understanding of the welfare state that is consistent with extrinsic goals, i.e. as an issue to engage with as a political entity rather than exclusively as a social scientist. It was noted that students experience difficulty in recognising the difference between politics and the study of politics.Practical implications: The study contributes to an understanding of the influence of normativity on students’ thinking and represents an attempt to bridge the difficulty of combining intrinsic and extrinsic goals in social-science education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_900</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_900">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/900/1452" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_900" DMDID="DMD_biejournals_900">
+            <mets:fptr FILEID="FILE0_biejournals_900"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

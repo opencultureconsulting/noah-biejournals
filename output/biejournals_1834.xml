@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1834">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Discrimination of elderly patients in the health care system of Lithuania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Selli, Kristina</displayForm>
+                        <namePart type="family">Selli</namePart>
+                        <namePart type="given">Kristina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Kasia</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Kasia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Danusevičienė, Lina</displayForm>
+                        <namePart type="family">Danusevičienė</namePart>
+                        <namePart type="given">Lina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Butkevičienė, Rūta</displayForm>
+                        <namePart type="family">Butkevičienė</namePart>
+                        <namePart type="given">Rūta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jurkuvienė, Ramunė</displayForm>
+                        <namePart type="family">Jurkuvienė</namePart>
+                        <namePart type="given">Ramunė</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Overall, Judy</displayForm>
+                        <namePart type="family">Overall</namePart>
+                        <namePart type="given">Judy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-07-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: This study aimed to explore and describe the barriers that elderly Lithuanians experience with respect to going to court or other institutions to defend their right not to be discriminated regarding medical care.Methods: We used a mixed methods approach due to the scarcity of information in Lithuania. First, the review of laws was done using the e-tar database and court cases were searched using the e-teismai database followed by policy analysis. Additional sources of information were identified searching Google Scholar and PubMed, as well as Google for grey literature. The keywords used were: ageism in patient care, discrimination against elderly, elderly and health (English and Lithuanian: 2000-2015). Secondly, we conducted in-depth individual interviews with 27 clients of newly-established integrated home care services: 13 elderly patients, and 14 informal caregivers.Results:  This study identified five groups of barriers explaining why Lithuanian elderly are hesitant to fight discrimination in the health system. The results of the study disclose the following barriers that the elderly in Lithuania face: i) the lack of recognition of the phenomenon of discrimination against the elderly in patient care; ii) the lack of information for complaining and the fear of consequences of complaining; iii) the deficiencies and uncertainties of laws and regulations devoted to discrimination; iv) the high level of burden of proof in court cases and lack of good practices; v) the lack of a patient (human) rights-based approach in all policies and in education as well as the lack of intersectoral work.Conclusions:  This study disclosed the need to: encourage training of legists and lawyers in expanding knowledge and skills in human rights in patient care;  encourage training of health care professionals – the burden of leadership for this has to be assumed by universities and public health professionals; incorporate a new article in the ‘Law on the rights of patients and compensation for the damage to their health’, clearly stating where to complain in case of discrimination; create a webpage and brochures with readable and understandable information for elderly persons and their families and caregivers; establish legal consultation and mediation cabinets in health care facilities; establish an older persons’ rights protection service under the Ministry of Social Security and Labour in close cooperation with the Ministry of Health; promote sustainable results by incorporating a human rights-based approach regarding elderly persons in all policies. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1834</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1834">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1834/1756" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1834" DMDID="DMD_biejournals_1834">
+            <mets:fptr FILEID="FILE0_biejournals_1834"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

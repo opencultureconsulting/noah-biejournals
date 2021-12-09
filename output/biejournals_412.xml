@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_412">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Vom Nachhaltigkeitsdiskurs zum hochschuldidaktischen Kriteriensatz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Greb, Ulrike</displayForm>
+                        <namePart type="family">Greb</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-08-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Als regulative Idee impliziert die „Nachhaltigkeitsidee“ eine Reihe geisteswissenschaftlicher Theoreme. Sie gilt daher als überkomplex und konnte bislang hochschuldidaktisch nicht systematisch transformiert wurden. Zur Rede stehen hier begriffliche Großprojekte wie Gerechtigkeit, Verantwortung, Partizipation, Retinität oder Globalität und Interkulturalität, die als Kristallisationspunkte der Nachhaltigkeitsidee die Grundlagentexte, Positionspapiere und Programme durchziehen. Im Anschluss an die heuristische Studie Globalität und Interkulturalität als integrale Bestandteile beruflicher Bildung für eine nachhaltige Entwicklung (GInE, www.ibw.uni-hamburg.de/GInE) wurde ein didaktisches Strukturgitter entworfen, das exemplarische Problemlagen und Dilemmata benennt, so wie Reflexionskategorien für die Hochschuldidaktik in der beruflichen Lehrerbildung zur Diskussion stelltAs a regulative concept, the idea of sustainability implies a number of theorems in the field of humanities. It is regarded as supercomplex and, thus, could not yet be systematically transformed in university didactics. Large scale conceptual terms such as justice, responsibility, participation, retinity, globality, and interculturality are at the core of the discussion – terms which run through basic texts, policy papers, and programmes as focal points of the idea of sustainability. With respect to the heuristic study Globality and Interculturality as Integral Elements of a Professional Education for a Sustainable Development (GInE, www.ibw.uni-hamburg.de/GInE), a didactic framework was designed which not only denotes exemplary problems and dilemmata but also puts up categories of reflection for a university didactics aiming at a professional teacher training.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_412</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_412">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/412/409" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_412" DMDID="DMD_biejournals_412">
+            <mets:fptr FILEID="FILE0_biejournals_412"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

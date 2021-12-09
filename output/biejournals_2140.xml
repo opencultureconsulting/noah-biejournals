@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2140">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Wer breite Füße hat&quot;- Briefwechsel mit Pionieren der Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tölle, Ursula</displayForm>
+                        <namePart type="family">Tölle</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Ehrung von Kolleginnen und Kollegen der Supervision anlässlich des 20-jährigen Jubiläums der DGSv in Berlin im Oktober 2009 hat uns und viele beeindruckt und nachhaltig beschäftigt. Daraus ist die Idee entstanden, in dieser Ausgabe die &quot;Gelebte Geschichte der Supervision&quot; aufleuchten zu lassen. Nicht eine nüchterne Darstellung, sondern persönliche Erlebnisse, Geschichten und Begegnungen der als Pioniere Geehrten sollen Einsichten in die Zeit vor und zur Gründung der DGSv so ermöglichen, dass der Geist dieser Zeit, das Wesen der Entwicklungen spürbar wird.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2140</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2140">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2140/2007" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2140" DMDID="DMD_biejournals_2140">
+            <mets:fptr FILEID="FILE0_biejournals_2140"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

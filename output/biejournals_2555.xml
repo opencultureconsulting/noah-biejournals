@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2555">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lernunterstützungen im Geographieunterricht videobasiert analysieren</title>
+                        <subTitle>Konzeption, Durchführung und Evaluation einer geographiedidaktischen Lehrveranstaltung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meurel, Melissa</displayForm>
+                        <namePart type="family">Meurel</namePart>
+                        <namePart type="given">Melissa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hemmer, Michael</displayForm>
+                        <namePart type="family">Hemmer</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Lehrpersonen werden im Unterrichtsalltag mit der Heterogenität von Lerngruppen konfrontiert. Um individuelle Lernangebote initiieren zu können, muss eine Lehrperson fähig sein, heterogenitäts- und lernrelevante Ereignisse im komplexen Unterrichtsgeschehen professionell wahrzunehmen. Zur Förderung dieser domänenspezifischen Fähigkeit bei angehenden Geographielehrkräften wurde eine videobasierte Lehrveranstaltung im Rahmen der von BMBF geförderten Qualitätsoffensive Lehrerbildungam Standort Münster konzipiert, durchgeführt und evaluiert. Der inhaltliche Analyseschwerpunkt liegt beim Einsatz von Lernunterstützungen als elementare Facetten eines heterogenitätssensiblen Unterrichts. Im folgenden Beitrag werden zunächst theoretische Grundlagen zum Konstrukt der professionellen Unterrichtswahrnehmung und der Lernunterstützungen im Unterricht sowie zum Einsatz von Unterrichtsvideos in der hochschuldidaktischen Lehre vorgestellt. Anknüpfend werden die Ziele und didaktisch-methodischen Überlegungen bei der Konzeption der Lehrveranstaltung sowie die &amp;nbsp;Einbettung der authentischen Videoaufnahmen von Geographieunterricht und geographischen Schülerexkursionen erläutert. Weiter werden konkrete Einblicke in die inhaltlich-methodische Umsetzung der einzelnen Seminarsitzungen gegeben und Ergebnisse der Seminarevaluation sowie der fachdidaktischen Begleitforschung dargestellt.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2555</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2555">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2555/3518" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2555" DMDID="DMD_biejournals_2555">
+            <mets:fptr FILEID="FILE0_biejournals_2555"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

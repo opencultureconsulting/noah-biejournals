@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2026">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Haben Organisationen eine Biografie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Edding, Cornelia</displayForm>
+                        <namePart type="family">Edding</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Auf der Suche nach der Bedeutung, die ihre Vergangenheit für eine Organisation hat, stößt man auf zwei Argumentationsstränge, die zwar nicht trennscharf sind, sich aber doch deutlich unterscheiden lassen. Es finden sich zum einen Konzepte, die bei Begriffen der individuellen Biografie Anleihen machen und diese auf die Organisation übertragen, und es finden sich zum anderen Ansätze, die unter dem Stichwort &quot;History matters&quot; zu verstehen suchen, wie die Vergangenheit einer Organisation Gegenwart und Zukunft bestimmt. Für beide Richtungen wird je ein Ansatz - Organisationsidentität und Pfadabhängigkeit - genauer dargestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2026</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2026">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2026/1893" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2026" DMDID="DMD_biejournals_2026">
+            <mets:fptr FILEID="FILE0_biejournals_2026"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

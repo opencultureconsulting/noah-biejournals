@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_262">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Weiterbildung von Hochschuldozierenden in der medizinischen Lehre </title>
+                        <subTitle>Ein Blended-Learning basiertes Format</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Liebke, Lisa</displayForm>
+                        <namePart type="family">Liebke</namePart>
+                        <namePart type="given">Lisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Strohmer, Renate</displayForm>
+                        <namePart type="family">Strohmer</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lauber, Heike</displayForm>
+                        <namePart type="family">Lauber</namePart>
+                        <namePart type="given">Heike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Winzer, Andrea</displayForm>
+                        <namePart type="family">Winzer</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Strittmatter-Haubold, Veronika</displayForm>
+                        <namePart type="family">Strittmatter-Haubold</namePart>
+                        <namePart type="given">Veronika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaden, Jens J.</displayForm>
+                        <namePart type="family">Kaden</namePart>
+                        <namePart type="given">Jens J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Herausforderung, dass eine große Zahl von heterogenen Lehrenden auf verschiedenste komplexe Lehrsituationen trifft. Hierbei steigen die Anforderungen, während insbesondere zeitliche Ressourcen häufig knapp sind. Es wird eine Möglichkeit veranschaulicht, dieser Herausforderung mit einem Blended-Learning basierten Format der Hochschulweiterbildung zu begegnen: In einem in bedarfsgerechte Module aufgebauten, dreischrittigen Trainingssystem aus Online-Kursen, Präsenzveranstaltungen und kollegialem Coaching werden zunächst kleine Lerneinheiten niederschwellig online zur Verfügung gestellt; in der Regel erfolgen ergänzendePräsenzveranstaltungen zur Vertiefung und praktischen Anwendung der Inhalte. Inhaltlich werden Teilkompetenzen definiert, die für professionelles Handeln der Lernenden in ihrer darauffolgenden Aufgabe als Lehrende erforderlich sind. Anhand des kollegialen Coachings werden diese Handlungskompetenzenerweitert und gleichzeitig die Anvertraubarkeit der professionellen Tätigkeit an die jeweilige Lehrpersonüberprüft. Die didaktische Einbettung des zugrundeliegenden Lehr-/Lernansatzes und das Spannungsfeld, in dem sich dieser bewegt, werden vor dem Hintergrund des aktuellen Bedarfs diskutiert und Chancen für personalisiertes Lernen aufgezeigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_262</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_262">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/262/1531" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_262" DMDID="DMD_biejournals_262">
+            <mets:fptr FILEID="FILE0_biejournals_262"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

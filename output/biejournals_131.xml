@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_131">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Strukturdaten Distance Learning/Distance Education – Potenziale der revidierten Fernunterrichtsstatistik für Hochschulen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fogolin, Angela</displayForm>
+                        <namePart type="family">Fogolin</namePart>
+                        <namePart type="given">Angela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Fernunterrichtsstatistik stellte als Anbieterstatistik bis 2015 jährlich auf freiwilliger Basis erhobene Daten für das durch das Fernunterrichtsschutzgesetz (FernUSG) definierte Bildungssegment (i.e. nichtakademische Fernlehrinstitute sowie auf privatrechtlicher Basis agierende Hochschulen) bereit. Nach einer umfassenden Revision der Statistik durch das Bundesinstitut für Berufsbildung (BIBB), in deren Rahmen u.a. auch ihre Umbenennung erfolgte, werden nun auch auf öffentlich-rechtlicher Basis im Feld der „Distance Education“ agierende Hochschulen in die Stichprobe einbezogen. Damit ist intendiert, Daten zu einem – im Zuge der zunehmenden Öffnung der Hochschulen – emergierenden Bildungssegment zu generieren, das sich gegenwärtig als relativ unübersichtlich und empirisch nur unzureichend erfasst darstellt. Fokussierend auf die hochschulische Teilstichprobe stellt der Beitrag ausgewählte Ergebnisse der Erhebung 2017 vor und reflektiert dabei Herausforderungen und Potenziale der Statistik.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_131</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_131">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/131/258" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_131" DMDID="DMD_biejournals_131">
+            <mets:fptr FILEID="FILE0_biejournals_131"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

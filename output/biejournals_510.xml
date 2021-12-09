@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_510">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Rationale of Crisis Management – On the Handling of Coincidence in Economic Situation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bendixen, Peter</displayForm>
+                        <namePart type="family">Bendixen</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-07-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The subject of this essay is too complex a problem as to cover all details in depth and, thus, draws its attention only to core aspects of the handling of coincidence leaving out sophisticated studies and analytic findings as well as detailed reference to economic literature though there is not very much. On the other hand, for a lot of actual as well as general reasons, the subject is too important a matter as to ignore the serious methodological problems of crisis management, which are rooted in some politically still active bias hidden in orthodox neo-classical economics (Stiglitz 2010). If crisis management continues to follow traditional rationales, it will fail realizing the increasing dynamic of crises within the globalising economies of the world. No existing economy can be considered as an isolated system of its own embedded in a stable composition of societal surroundings. Obviously, many a critical situation has its origin in the sphere of civilization, of political discrepancies, and of administrative inflexibilities. On the other hand, any grave amplitude of markets would touch the entire social surrounding. The belief in the markets’ strength of self-regulation is a dangerous construction of orthodox economics (Bendixen 2009b, 2010). The view on crises suggested here is that of a holistic approach to understand a critical situation. Any interpretation of a situation includes empirical dates and figures based on analytic research, but solving a problem is not an act of logical derivation from findings, as if a solution can be excavated in the mud of reality by empirical studies only. Empirical figures report events of the past; the future does not reveal any empiricism. This would be a contradiction in itself. The end of a crisis as well as the search for solutions to fight the problems revealed is unavoidably a view into the future. Therefore, the rationale of crisis management cannot be made of pure empiricism but should include a far reaching vision of the future emerging from holistic understanding of the situation as a whole.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_510</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_510">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/510/507" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_510" DMDID="DMD_biejournals_510">
+            <mets:fptr FILEID="FILE0_biejournals_510"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

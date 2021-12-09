@@ -1,0 +1,48 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3960">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Consumer education as counselling? Teacher beliefs about consumption and (social science) education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wittau, Franziska</displayForm>
+                        <namePart type="family">Wittau</namePart>
+                        <namePart type="given">Franziska</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">- Consumer education is a normative field of action.
+- Social science teachers base the design of consumer education concepts often on their own, milieu-bound values.
+- Especially when teachers see students&apos; consumption as deficient, consumer education has the task to teach appropriate consumption patterns.
+- In formal teacher training processes, students’ everyday experiences as members of society can serve as a starting point for self-reflective processes.
+Purpose: This article aims to discuss the influence of milieu-based daily life experiences on teaching social science studies by taking the example of consumption. It should be asked to what extent personal habitus in a Bourdieuian sense influences teachers’ beliefs about consumer education in particular and social science education in general. 
+Method: Qualitative interviews and group discussions with 19 teachers out of the social science domain were analysed following the concept of interpretation patterns as socially shared world views. 
+Findings: Personal experiences and common knowledge based on the daily involvement in consumption practices are a crucial factor influencing consumer education. They lead rather to tendencies of overwhelming students than imparting knowledge about consumption as a social phenomenon. Implications: Teacher training in fields of social science education, which is strongly related milieu-driven daily life, should focus a distanced, reflective and multiperspective view on the teaching practices based on professional, theoretic knowledge.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3960</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3960">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3960/4514" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3960" DMDID="DMD_biejournals_3960">
+            <mets:fptr FILEID="FILE0_biejournals_3960"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

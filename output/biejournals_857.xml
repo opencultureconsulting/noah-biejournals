@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_857">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Can Schools Engage Students? Multiple Perspectives, Multidimensional School Climate Research in England and Ireland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sampermans, Dorien</displayForm>
+                        <namePart type="family">Sampermans</namePart>
+                        <namePart type="given">Dorien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Isac, Maria Magdalena</displayForm>
+                        <namePart type="family">Isac</namePart>
+                        <namePart type="given">Maria Magdalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Claes, Ellen</displayForm>
+                        <namePart type="family">Claes</namePart>
+                        <namePart type="given">Ellen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article assesses how different aspects of the school climate relate to students’ intended future electoral engagement. Until now, political socialization researchers found evidence for a relation between formal citizenship education in school and students’ participation levels. There is less consensus, however, in how multiple aspects of informal political socialization can contribute to individuals&apos; participatory acts.Method: To learn more about several aspects of informal political socialization and their relevance for student intended electoral participation this work draws on educational sciences and political socialization literature and focuses on multiple dimensions of school climate (cf. Konold, 2014; Lenzi, 2014) and their relationship to future electoral engagement. We rely on the English and Irish International Civic and Citizenship Survey (ICCS) 2009 data to operationalize multiple dimensions of the school climate. We estimate a structural equation model in which school climate is measured by indicators based on student and teacher questionnaire data aggregated at the school level.  The relationship between multiple dimensions of school climate and student future electoral participation is tested.Findings: We find that in order to engage students in voting; schools should focus not only on the formal curriculum but also on more informal aspects (the school climate). Implications for research, policy, and practice are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_857</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_857">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/857/975" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_857">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/857/976" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_857" DMDID="DMD_biejournals_857">
+            <mets:fptr FILEID="FILE0_biejournals_857"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_857" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_857"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

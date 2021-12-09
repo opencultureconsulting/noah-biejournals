@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2395">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beratungsmodell zur Begleitung studentischer Forschung im Praxissemster</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Mentoring Model for Research-based Learning in Teacher Training during School Practicums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Körbs, Caroline</displayForm>
+                        <namePart type="family">Körbs</namePart>
+                        <namePart type="given">Caroline</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Saunders, Constanze</displayForm>
+                        <namePart type="family">Saunders</namePart>
+                        <namePart type="given">Constanze</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiethoff, Christoph</displayForm>
+                        <namePart type="family">Wiethoff</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der&amp;nbsp; Beitrag&amp;nbsp; stellt&amp;nbsp; ein&amp;nbsp; prozessbegleitendes&amp;nbsp; Beratungsmodell mit Blick auf Forschendes Lernen im Praxissemester vor, in dessen Zentrum der individuelle Lernprozess der Studierenden steht und das die unterschiedlichen Akteur_innen&amp;nbsp; an&amp;nbsp; Schule&amp;nbsp; und&amp;nbsp; Universität&amp;nbsp; und&amp;nbsp; deren&amp;nbsp; Expertisen&amp;nbsp; in&amp;nbsp; den&amp;nbsp; Blick nimmt.&amp;nbsp; Die&amp;nbsp; Einbeziehung&amp;nbsp; verschiedener&amp;nbsp; Akteur_innen&amp;nbsp; in&amp;nbsp; den&amp;nbsp; Beratungsprozess soll&amp;nbsp; Studierende dazu&amp;nbsp; anregen,&amp;nbsp; ihr&amp;nbsp; Forschungsprojekt und&amp;nbsp; ihr&amp;nbsp; forschendes&amp;nbsp; Handeln&amp;nbsp; kontinuierlich&amp;nbsp; zu&amp;nbsp; reflektieren&amp;nbsp; und&amp;nbsp; ihre&amp;nbsp; Forschungskompetenz&amp;nbsp; weiterzuentwickeln.&amp;nbsp; Im&amp;nbsp; Rahmen&amp;nbsp; des&amp;nbsp; Beitrags&amp;nbsp; wird&amp;nbsp; beleuchtet,&amp;nbsp; wie&amp;nbsp; Studierende&amp;nbsp; zu&amp;nbsp; ihren Forschungsprojekten beraten und unterstützt werden können. Hierzu wird auf&amp;nbsp; unterschiedliche&amp;nbsp; Gesprächs-&amp;nbsp; und&amp;nbsp; Coaching-Techniken&amp;nbsp; sowie&amp;nbsp; praktische&amp;nbsp; Erfahrungen&amp;nbsp; aus&amp;nbsp; der&amp;nbsp; Hochschullehre&amp;nbsp; zurückgegriffen,&amp;nbsp; und&amp;nbsp; diese&amp;nbsp; werden&amp;nbsp; beispielhaft veranschaulicht.
+&amp;nbsp;</abstract>
+                    <abstract lang="eng">This article presents a process-based model for mentoring, focusing on&amp;nbsp; research-based&amp;nbsp; learning&amp;nbsp; in&amp;nbsp; teacher&amp;nbsp; training&amp;nbsp; during&amp;nbsp; school&amp;nbsp; practicums.&amp;nbsp; The model&amp;nbsp; responds&amp;nbsp; to&amp;nbsp; the&amp;nbsp; individual&amp;nbsp; learning&amp;nbsp; process&amp;nbsp; of&amp;nbsp; the&amp;nbsp; student&amp;nbsp; and&amp;nbsp; considers various&amp;nbsp; mentors&amp;nbsp; at&amp;nbsp; school&amp;nbsp; and&amp;nbsp; university,&amp;nbsp; taking&amp;nbsp; into&amp;nbsp; account&amp;nbsp; their&amp;nbsp; respective fields of expertise. The involvement of several mentors in the counselling process was adopted with the aim of encouraging students to continuously reflect on their research&amp;nbsp; projects&amp;nbsp; and&amp;nbsp; research&amp;nbsp; activities&amp;nbsp; as&amp;nbsp; well&amp;nbsp; as&amp;nbsp; to&amp;nbsp; further&amp;nbsp; develop&amp;nbsp; their&amp;nbsp; research competence. This paper examines ways of mentoring students during their research activities; different coaching techniques are presented and illustrated using an example from higher education practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2395</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2395">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2395/2391" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2395" DMDID="DMD_biejournals_2395">
+            <mets:fptr FILEID="FILE0_biejournals_2395"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

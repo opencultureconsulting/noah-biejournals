@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2321">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Louis Lowy - erlebte Geschichte(n) als Entwicklungsimpuls der Supervision in Deutschland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stenzel, Heidrun</displayForm>
+                        <namePart type="family">Stenzel</namePart>
+                        <namePart type="given">Heidrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Artikel wird der Anteil Louis Lowys (1920-1991), Professor an der Boston University, an der Professionsentwicklung der Supervision im Nachkriegsdeutschland belegt. In seiner besondere Biographie(vor 6 Jahren als Buch in englischer Sprache erschienen) als jüdischer Mitbürger ein Opfer des Holocaust, der zunaÌˆchst im KZ Theresienstadt, spaÌˆter im Lager für &quot;displaced persons&quot; in Deggendorf Methoden sozialer Arbeit entwickelte, drückt sich eine außergewoÌˆhnliche Werteorientierung und Haltung aus. Diese begründet neben seiner spaÌˆteren Karriere als Wissenschaftler in den USA sein Konzept der Supervision als Lehr-, Lernprozess. Folgend auf die Skizzierung dieses Konzepts werden Fragen an den Umgang der Profession mit ihren Wurzeln gestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2321</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2321">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2321/2303" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2321" DMDID="DMD_biejournals_2321">
+            <mets:fptr FILEID="FILE0_biejournals_2321"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

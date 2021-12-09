@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_907">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>An Evaluation on the Changing Educational Policies and Sociopolitical Rituals in Turkey</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Giorgetti, Filiz Meşeci</displayForm>
+                        <namePart type="family">Giorgetti</namePart>
+                        <namePart type="given">Filiz Meşeci</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The purpose of this paper is to demonstrate how the sociopolitical rituals such as national festivals and the student pledge have changed in the Turkish Republic primary schools within the last twenty years.
+Method: The data used to achieve this purpose was collected from three different sources; the applicable legislation, statements of policymakers and primary school class teachers.
+Findings: As a result, it can be said that changes in politics have affected both the daily life and the special occasions in primary schools considerably. Abrogating the Student Pledge in can be regarded as the most important alteration in the everyday life of the school. The most important change of special occasions in primary schools was made in 2012 to free the national festivals from their militaristic framework. However, this change was also perceived as having created a lack of enthusiasm for the festivals. After the failed coup attempt on 15th July 2016, Turkey announced 15th July the Democracy and National Unity Day. During the first week of the school year, activities are carried out for this day. However, it can be said that some teachers are having difficulties understanding and accepting 15th July.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_907</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_907">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/907/1448" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_907" DMDID="DMD_biejournals_907">
+            <mets:fptr FILEID="FILE0_biejournals_907"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

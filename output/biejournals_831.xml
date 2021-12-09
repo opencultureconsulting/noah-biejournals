@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_831">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Citizenship Education in Croatia</title>
+                        <subTitle>At the Margins of the System</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kekez, Anka</displayForm>
+                        <namePart type="family">Kekez</namePart>
+                        <namePart type="given">Anka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Horvat, Martina</displayForm>
+                        <namePart type="family">Horvat</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Šalaj, Berto</displayForm>
+                        <namePart type="family">Šalaj</namePart>
+                        <namePart type="given">Berto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This paper unfolds the ways in which Croatia, as a young post-communist democracy, has aligned its transition and consolidation with the development of education programs that would support the protection of human rights and the creation of a democratic political culture. Design/methodology/approach: By combining the existing studies with the authors’ own analyses of documents and internet sources, as well as interviews with teachers, this paper reveals that by adopting vague and non-binding policies, the Croatian political elite has demonstrated a lack of political will and courage over the past twenty-five years to develop a systematic and quality-based citizenship education.Findings: After long-term negligence, in the most recent five-year period, the need to change the educational path has gained prominence on the policy and political agenda. However, the reform process did not result in bridging, but in the deepening of ideological divides within the Croatian society. With the officially adopted interdisciplinary and cross-curricular approach, the responsibility for carrying out citizenship education was placed in the hands of teachers, with civil society organizations taking a compensating role. Whilst the former lack practical education, as well as guidelines and resources to incorporate citizenship education into the subjects they teach, the latter are incapable of reaching out to a sufficient share of the youth population. The outcome is that the youth continuously displays inadequate levels of citizenship competences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_831</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_831">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/831/934" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_831">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/831/935" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_831" DMDID="DMD_biejournals_831">
+            <mets:fptr FILEID="FILE0_biejournals_831"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_831" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_831"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

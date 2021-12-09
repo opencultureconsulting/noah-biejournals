@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_786">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Report on the Present Trainer Training Course of the Pestalozzi Programme (Council of Europe) “Evaluation of Transversal Attitudes, Skills and Knowledge” (Module A)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gebauer, Bernt</displayForm>
+                        <namePart type="family">Gebauer</namePart>
+                        <namePart type="given">Bernt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_786</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_786">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/786/855" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_786" DMDID="DMD_biejournals_786">
+            <mets:fptr FILEID="FILE0_biejournals_786"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

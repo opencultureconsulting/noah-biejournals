@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_876">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>„Am I a politics person?“ A Qualitative Study of Students`perspectives on Mock Elections as Political Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Borge, Julie Ane Odegaard</displayForm>
+                        <namePart type="family">Borge</namePart>
+                        <namePart type="given">Julie Ane Odegaard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-05</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The purpose of this study is to examine mock elections as political education in school, taking the Norwegian case as an empirical example.Methodology: This study’s qualitative content analysis is based on data collected through fieldwork in five upper secondary schools in the Western region of Norway, through observations and in 18 ordinary language interviews with 18-year-old students in the 3rd grade.Findings and implications: In the mock elections at Norwegian schools, the students meet and interact with three different identities of political participation:  ‘the politician’, ‘the party member’ and ‘the voter’. How do the students use the mock election (ME) to shape their conceptions of their political selves? The interview data shows that the students who are active members of political parties accept the three analytical categories of political identities, and the students who are not members of political parties, reject ‘the politician’, but accept ‘the party member’ as part of their peer group. Finally, the MEs simulate an ordinary election and offer a norm of voting which the students accept as a school assignment. The students vote in the mock election because they are told to do so and generally do not view voting in the mock elections as a way of expressing the voice of their generation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_876</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_876">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/876/1008" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_876">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/876/1177" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_876" DMDID="DMD_biejournals_876">
+            <mets:fptr FILEID="FILE0_biejournals_876"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_876" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_876"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

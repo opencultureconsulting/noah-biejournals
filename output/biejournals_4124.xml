@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4124">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Leistung und Inklusion</title>
+                        <subTitle>Eine Einladung zur Reflexionspause</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arndt, Ann-Kathrin</displayForm>
+                        <namePart type="family">Arndt</namePart>
+                        <namePart type="given">Ann-Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Becker, Jonas</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Löser, Jessica M.</displayForm>
+                        <namePart type="family">Löser</namePart>
+                        <namePart type="given">Jessica M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Urban, Michael</displayForm>
+                        <namePart type="family">Urban</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Werning, Rolf</displayForm>
+                        <namePart type="family">Werning</namePart>
+                        <namePart type="given">Rolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag dient als Einführung in das Themenheft. Nach einer inhaltlichen Hinführung werden die zugrunde gelegten Begriffsverständnisse von inklusiver Bildung und Leistung erläutert. Dabei wird das Verhältnis zwischen den beiden Begriffen als ein – aus divergierenden programmatischen Logiken resultierendes – spannungsreiches entworfen. Es folgt eine Vorstellung des BMBF-Verbundprojektes Reflexion, Leistung &amp;amp; Inklusion (ReLInk), aus dem heraus das Themenheft entstanden ist. Dieses Projekt ist durch ein Forschungs- und Entwicklungsdesign charakterisiert. Bezugnehmend auf einen Schwerpunkt der Forschungen werden ausgewählte Aspekte (z.B. Leistung als Frage individueller und institutioneller Erwartungen, Fragen zur Differenzierung von Aufgaben, Differenz in der Leistungsbewertung etc.) zu der Bandbreite der mit Leistung und Inklusion im schulischen Alltag verbundenen Fragen und Herausforderungen dargestellt. Diesen Beitrag schließt ein Überblick über die Beiträge im Themenheft.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4124</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4124">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4124/4038" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4124" DMDID="DMD_biejournals_4124">
+            <mets:fptr FILEID="FILE0_biejournals_4124"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

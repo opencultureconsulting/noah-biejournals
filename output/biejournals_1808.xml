@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1808">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Piloting an advanced methodology to analyse health care policy networks</title>
+                        <subTitle>The example of Belgrade, Serbia</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wenzel, Helmut</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-30</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Political decisions usually emerge from the competing interests of politicians, voters, and special interest groups. We investigated the applicability of an advanced methodological concept to determine whether certain institutional positions in a cooperating network have influence on the decision-making procedures. To that end, we made use of the institutional network of relevant health care and health governance institutions, concentrated in Belgrade, Serbia.Methods: We used a Principal Component Analysis (PCA) based on a combination of measures for centrality in order to evaluate the positions of 25 players in Belgrade‟s institutional network. Their directed links were determined by a simulated position approach employing the authors‟ long-term involvement. Software packages used consisted of Visone 2.9, UCINET 6, and KeyPlayer 1.44.Results: In our analysis, the network density score in Belgrade was 71%. The PCA revealed two dimensions: control and attractiveness. The Ministry of Health exerted the highest level of control but displayed a low attractiveness in terms of receiving links from important players. The National Health Insurance Fund had less control capacity but a high attractiveness. The National Institute of Public Health‟s position was characterized by a low control capacity and high attractiveness, whereas the National Drug Agency, the National Health Council, and Non-Governmental Organisations were no prominent players.Conclusions: The advanced methodologies used here to analyse the health care policy network in Belgrade provided consistent results indicating that the intended decentralization of the health care network in Belgrade may be incomplete, still with low participation of civil society representatives. With the present study we set the stage for a broad-range survey based data collection applying the methodology piloted in Belgrade.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1808</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1808">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1808/1729" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1808" DMDID="DMD_biejournals_1808">
+            <mets:fptr FILEID="FILE0_biejournals_1808"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

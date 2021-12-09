@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3703">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Integration von älteren Beschäftigten und ausländischen Fachkräften in der Arbeitswelt durch wissenschaftliche Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weineck, Gabriele</displayForm>
+                        <namePart type="family">Weineck</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Halilović, Jadranka</displayForm>
+                        <namePart type="family">Halilović</namePart>
+                        <namePart type="given">Jadranka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der demografische Wandel hat nicht nur Auswirkungen aufden Fachkräftemangel und damit auf das Neudenken vonArbeitskonzepten oder der Organisations- und Personalentwicklung,er tangiert auch stark den Weiterbildungsbereichan Hochschulen. Kulturelle, technisch-mediale und sozialeVeränderungen verlangen nach veränderten Angeboten underschließen zugleich neue Bildungsmöglichkeiten. Eine dergroßen Herausforderungen an Weiterbildungseinrichtungenbesteht daher in der inhaltlichen Ausgestaltung zukünftigerQualifizierungsangebote unter Berücksichtigung zielgruppen-und generationsspezifischer Lernmotive. Das Weiterbildungszentruman der Brandenburgischen Technischen UniversitätCottbus-Senftenberg (BTU) hat in den vergangenenJahren zwei Projekte auf den Weg gebracht, die sich diesengesellschaftlichen Herausforderungen stellen. Während imersteren überwiegend kooperative Lernformen im Rahmendes demografischen Wandels ausprobiert wurden, stehen imzweiten ausländische Fachkräfte im Fokus.Im folgenden Beitrag werden die Qualifizierungsangeboteund Erfahrungen sowie wesentliche Erfolgsfaktoren undHemmnisse bei der Projektdurchführung und Implementierungaufgezeigt. Darüber hinaus werden die bisherigen Projektergebnissezusammengetragen und neue Herausforderungenaufgezeigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3703</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3703">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3703/3774" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3703" DMDID="DMD_biejournals_3703">
+            <mets:fptr FILEID="FILE0_biejournals_3703"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

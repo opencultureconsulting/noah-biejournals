@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1884">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Healthcare access in Bosnia and Herzegovina in the light of European Union accession efforts</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jarke, Hannes</displayForm>
+                        <namePart type="family">Jarke</namePart>
+                        <namePart type="given">Hannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Džindo, Amra</displayForm>
+                        <namePart type="family">Džindo</namePart>
+                        <namePart type="given">Amra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jakob, Lea</displayForm>
+                        <namePart type="family">Jakob</namePart>
+                        <namePart type="given">Lea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">European Union (EU) member states are bound to ensure accessible, good quality healthcare for all of their citizens. In 2018, Bosnia and Herzegovina has been named as a candidate for accession to EU membership as part of the “Strategy for the Western Balkans”. This scoping review identifies healthcare access issues in the country, aiming to inform policy-makers of challenges that may be faced in a possible membership application process and beyond. While the country has seemingly improved citizens’ healthcare access—as measured by the Healthcare Access and Quality Index—various specific problems remain unresolved. The main barrier to equal access appears to lie in the division of the healthcare system between the Federation of Bosnia and Herzegovina, the Republika Srpska, and the Brcko District, which also influences medicine availability and pricing. Although not necessarily systematic, studies further report distance from healthcare providers, alleged widespread corruption, discrimination of minorities and vulnerable populations, as well as vaccination gaps as problems in healthcare access for specific groups. While certainly not easy to realise, this scoping review concludes that possible solutions could include efforts to unify the healthcare and pricing system, and the implementation of the World Health Organization’s Essential Medicines List, as well as investigating and tackling corruption and stigma issues.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1884</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1884">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1884/pdf_1" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1884" DMDID="DMD_biejournals_1884">
+            <mets:fptr FILEID="FILE0_biejournals_1884"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

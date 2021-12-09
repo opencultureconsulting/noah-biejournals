@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1799">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Health seeking behaviour among caregivers of under-five children in Edo State, Nigeria</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aigbokhaode, Adesuwa Q.</displayForm>
+                        <namePart type="family">Aigbokhaode</namePart>
+                        <namePart type="given">Adesuwa Q.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Isah, Essy C.</displayForm>
+                        <namePart type="family">Isah</namePart>
+                        <namePart type="given">Essy C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Isara, Alphonsus R.</displayForm>
+                        <namePart type="family">Isara</namePart>
+                        <namePart type="given">Alphonsus R.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Timely and appropriate healthcare seeking behaviours if practiced by caregivers of under-five children can have a significant impact on child survival. This study assessed the knowledge of, and general health seeking practices among mothers of under-five children in Nigeria.Methods: This descriptive cross-sectional study was carried out among caregivers of under-five children in Edo State, Nigeria, in 2013. A multi-staged sampling technique was used to recruit respondents. Data collection was done by means of a structured interviewer-administered questionnaire adapted from UNICEF/IMCI household baseline survey questionnaire.Results: A total of 370 caregivers (mean age: 31.1±5.9 years) participated in the study. Almost all of them were females 368 (99.5%), 234 (63.2%) had secondary education and 283 (76.5%) were in the unskilled social class. Over 70%, 76%, 72%, 76% and 82% of participants did not know that being unable to eat/drink, fast breathing, blood in stool and convulsion, respectively, were symptoms of a child not feeling well. The place of primary care of children by caregivers was at home 142 (38.4%), chemist shop 91 (24.6%) and health facility 80 (21.6%). Cost and long waiting time were major reasons for not seeking care in health facilities.Conclusion: This study showed poor health seeking practices among caregivers of under-five children in Edo State, Nigeria. There should be continuous education of  caregivers on recognition of danger signs in children and the need to seek appropriate medical care in health facilities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1799</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1799">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1799/1720" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1799" DMDID="DMD_biejournals_1799">
+            <mets:fptr FILEID="FILE0_biejournals_1799"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4926">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zum Stellenwert der Allgemeinen Didaktik in der (aktuellen) Lehrer*innenbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Besa, Kris-Stephen</displayForm>
+                        <namePart type="family">Besa</namePart>
+                        <namePart type="given">Kris-Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Dauerkrise der Allgemeinen Didaktik führt zu immer neuen Auseinandersetzungen rund um ihren Stellenwert und ihre Zukunftsfähigkeit. Dabei scheint ihr Status als (schul-)pädagogische Leitdisziplin spätestens mit der stärkeren Out-Put-Orientierung des Bildungssystems seit Anfang der 2000er-Jahre verloren. Dennoch beschäftigen sich nach wie vor zahlreiche Personen und Publikationen in – zum Teil stark selbstreferenziellen – Diskursen mit der Allgemeinen Didaktik, wobei neben Reformüberlegungen auch Abgrenzungen zu anderen Disziplinen eine große Rolle spielen. Wenig beachtet ist bislang jedoch der Stellenwert der Allgemeinen Didaktik in der (universitären) Lehrer*innenbildung, was umso mehr erstaunt, bedenkt man, dass durch eine hochschulische Verankerung auch die unterrichtsbezogene Ausrichtung und späteres berufliches Handeln mit beeinflusst werden. Der Beitrag greift diese Überlegungen auf und versucht sich in einer mehrstufigen Beleuchtung der Allgemeinen Didaktik in der aktuellen Lehrer*innenbildung, die sowohl Hochschullehrpersonen als auch curriculare Vorgaben und die Studierendenperspektive umfasst.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4926</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4926">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4926/4601" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4926" DMDID="DMD_biejournals_4926">
+            <mets:fptr FILEID="FILE0_biejournals_4926"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

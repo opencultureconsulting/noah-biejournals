@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1611">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Können Pflanzen ohne Erde wachsen? Ein Schülerversuch für die Jahrgangsstufe 5/6 zur vergleichenden Kultivierung von Mais in Erde und in einem hydroponischen System</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hardt, Hanna</displayForm>
+                        <namePart type="family">Hardt</namePart>
+                        <namePart type="given">Hanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van Dongen, Joost T.</displayForm>
+                        <namePart type="family">van Dongen</namePart>
+                        <namePart type="given">Joost T.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohrmann, Johannes</displayForm>
+                        <namePart type="family">Bohrmann</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schmidt, Romy</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Romy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">In diesem Artikel wird ein Kultivierungsexperiment mit Mais vorgestellt, bei dem einfache, selbst gebaute hydroponische Systeme zum Einsatz kommen. Es wird geprüft, ob Maiskeimlinge in einem solchen System ohne Erde ebenso wachsen können wie bei Kultivierung in Erde. Das Experiment ist quantitativ und dabei so einfach und zuverlässig hinsichtlich Durchführung und Ergebnis, dass die Kompetenzentwicklung im Bereich Erkenntnisgewinnung besonders gefördert werden kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1611</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1611">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1611/1551" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1611">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1611/1552" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_1611">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1611/1553" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1611" DMDID="DMD_biejournals_1611">
+            <mets:fptr FILEID="FILE0_biejournals_1611"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1611" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1611"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1611" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1611"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

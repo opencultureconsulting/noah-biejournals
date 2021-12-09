@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_453">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Kompetenzorientierte Lehrerbildung in den sozialwissenschaftlichen Unterrichtsfächern – Blühende Landschaften in der Lehrerbildung von morgen?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zurstrassen, Bettina</displayForm>
+                        <namePart type="family">Zurstrassen</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Erwartungen, die mit einer kompetenzorientierten Lehrerbildung verbunden werden, sind ausgesprochen hoch, teilweise euphorisch. Beim Rezipieren der Literatur entsteht der Eindruck einer blühenden Zukunft der Lehrerbildung. Ist aber die Hinwendung zu einer an Kompetenzen und Standards ausgerichteten, outputorientierten Lehrerbildung der Königsweg aus der Misere im Bildungssystem? Zweifel sind meines Erachtens angebracht. Im Aufsatz werden unter Bezugnahme auf die Lehrerbildung für die sozialwissenschaftlichen Fächer drei Thesen diskutiert, die im Kontext der Debatte um Kompetenzen und Standards oft als Legitimation angeführt werden: (1) Externe Monitoringverfahren im Rahmen der Outputsteuerung verbessern die Qualität der Lehrerbildung, (2) Kompetenzorientierung ist eine „erfolgreiche Forschungsstrategie“ und (3) Kompetenzorientierte Lehrerausbildung führt zu einer Qualitätssteigerung des Schulunterrichts.The expectations which are associated with a competence-oriented teacher’s training are extremely high, partly euphoric. When absorbing the literature the impression is gained of a blooming future for teacher’s training. Is however the devotion to a teacher’s training which is oriented to competences and standards and output-oriented the best way out of the misery in the education system? Doubts are reasonable here in my opinion. Three theses are discussed in the essay by referring to teacher’s training for social science subjects, which are often mentioned as legitimation in the context of the debate concerning competences and standards: (1) External monitoring procedures within the framework of the output control improve the quality of teacher’s training, (2) Competence-orientation is a „successful research strategy“ and (3) Competence-oriented teacher’s training leads to an improvement in quality of the school lessons.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_453</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_453">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/453/450" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_453" DMDID="DMD_biejournals_453">
+            <mets:fptr FILEID="FILE0_biejournals_453"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

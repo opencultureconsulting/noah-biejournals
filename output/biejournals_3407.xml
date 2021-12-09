@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3407">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>School-based intervention to promote healthy nutrition and physical activity in Palestinian girls - Process evaluation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Husseini, Maha Nubani</displayForm>
+                        <namePart type="family">Husseini</namePart>
+                        <namePart type="given">Maha Nubani</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Donchin, Milka</displayForm>
+                        <namePart type="family">Donchin</namePart>
+                        <namePart type="given">Milka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: School-based interventions have the potential to intervene with the students and teachers, and to reach their families. A controlled program trial was designed to promote healthy eating and physical activity among Palestinian females, while the process evaluation aimed to monitor the program’s implementation and identify factors that led to its success.
+Methods: A randomized controlled program trial was conducted in 14-Palestinian schools under 4-different jurisdictions, divided into 7-control and 7-intervention schools chosen randomly after applying a sample size calculation. A monitoring system, elucidated factors which contributed to improved outcomes, was applied in the intervention schools only, while the control schools continued with their regular curriculum. The process evaluation tracked the timing and implementation of interventions including changes in the school strategy, policy and structure, teachers’ capacity building, mothers’ education and involvement, the school’s supportive&amp;nbsp;health environment, and integration food consumption records and physical activity into the daily class routine.
+Results: The intervention included 3,805 schoolchildren and their mothers’ as-well-as 147 teachers. At the completion of the 18-month intervention the schools had successfully participated in the various intervention activities. Only the private school did not sustain some of the interventions, which put it at 55% completion of the school supportive environment activities compared to the other schools which all reached the 100% completion of planned activities.
+Conclusion: This process evaluation approach enabled a more comprehensive understanding of the intervention implementation and outcomes and identified factors that contribute to the sustainability of the intervention. Each school required a different amount of time for understanding, applying and implementing the program depending on its needs.
+&amp;nbsp;
+Acknowledgments: The authors thank the participating schools, the Palestinian Ministry of Education, the UNRWA Office of Education and Jerusalem Municipality for facilitating fieldwork. I would like to acknowledge my gratitude to my doctoral thesis supervisors, Prof. Elliot Berry and Prof. Ziad Abdeen.
+&amp;nbsp;
+Source of funding: This study is a part of Ph.D. degree. The researcher received scholarship from Joint Distribution Committee (JDC). The author thanks Nutrition and Health Research Institute Al-Quds University for funding part of the research. The Linda Joy Pollin Cardiovascular Wellness Center for Women at the Division of Cardiology of Hadassah University Medical Center, directed by Dr. Donna Zfat funded the mothers’ activities and lectures towards the end of the intervention, as well as the implementation of the program at the control schools one year after the study ended, as they were promised when they got selected.
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3407</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3407">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3407/3576" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3407" DMDID="DMD_biejournals_3407">
+            <mets:fptr FILEID="FILE0_biejournals_3407"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

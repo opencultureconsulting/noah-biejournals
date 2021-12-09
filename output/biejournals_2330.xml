@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2330">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Fallsupervision von Dr. A. aus der Perspektive des Masterstudiengangs Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Gerhard Leuschner hat im November 2016 anlässlich des Symposiums zu seinem 80sten Geburtstag einen Fall aus seiner supervisorischen Praxis vorgetragen und den Einzel- wie auch Teamberatungsprozess mit dem Chefarzt Dr. A. vor allem im Hinblick auf sein Supervisionsverständnis erläutert. Entsprechend seiner Auffassung von Supervision als Beziehungskunst und besonderer Beziehungsraum (Leuschner 2007) haben all jene, die beim Symposium anwesend waren, noch einmal erleben dürfen, wie reflexive Arbeit in der Supervision, die Gestaltung eines Beziehungsraumes mit einer ausgeprägten Containerfunktion und eine Art archäologisches Arbeiten an den Interessen aller Beteiligten eines Teams dazu geführt hat, dass diese komplizierte Supervision letztlich gelungen ist. Gerhard Leuschner hat noch einmal gezeigt, dass Supervision ein professionelles Beratungsverfahren ist und wie sie im Einzelnen funktioniert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2330</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2330">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2330/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2330" DMDID="DMD_biejournals_2330">
+            <mets:fptr FILEID="FILE0_biejournals_2330"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

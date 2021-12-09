@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1033">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>city as an assignment. From multiple pasts to a vision of the future</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dingersen, Elena</displayForm>
+                        <namePart type="family">Dingersen</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The paper provides an insight into the narrative reproduction modes of the self-images of Dresden and St. Petersburg, to be found in the recent media discourses. The cities have been produced narratively by the self-referentiality, namely by referring to their multiple pasts on the one hand as well as by the interaction with their citizens on the other hand. The moral vocabulary such as give-and-take-relationship, gratefulness, loyalty, evolved as a result of the turbulent historical development of the cities, spreads out the temporality of their self-perception into the past and into the future, thus aiming at maintenance and reproduction of the urban order. The case studies show furthermore the relevance of analyzing the way societies or local communities narrate and therefrom conceptualize the relations between events and structures. It is their interplay, their duality, the figures of causality, ascribed to these relations, and the composition of events, confirming or confronting each other, which points out the narrative patterns of the (collective) actor and its strategies of reflecting on oneself. The contribution of the events-structure-interplay to a narrative constitution of the city as an entity suggests this research perspective for analysis of other social structures of belonging and identification both in and beyond cities.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1033</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1033">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1033/1141" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1033" DMDID="DMD_biejournals_1033">
+            <mets:fptr FILEID="FILE0_biejournals_1033"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

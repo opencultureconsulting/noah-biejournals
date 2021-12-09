@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_798">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Educational Governance of German School Social Science</title>
+                        <subTitle>The Example of Globalization</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Szukala, Andrea</displayForm>
+                        <namePart type="family">Szukala</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This article challenges the outsiders&apos; views on European school social science adopting genuine cosmopolitan views, when globalisation is treated in social science classrooms.Method: The article is based on the theoretical framework of educational governance analysis and on qualitative corpus analysis of representative German Laenders&apos; social science curricula from 1994-2014 (n=13).Findings: The article highlights tendencies of renationalisation of the global learning agenda and the problematisation of democracy in contexts of globalisation studies at German schools.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_798</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_798">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/798/873" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_798">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/798/874" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_798">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/798/875" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_798" DMDID="DMD_biejournals_798">
+            <mets:fptr FILEID="FILE0_biejournals_798"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_798" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_798"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_798" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_798"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

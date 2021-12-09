@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_612">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Class councils in Switzerland</title>
+                        <subTitle>Citizenship education in classroom communities?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wyss, Corinne</displayForm>
+                        <namePart type="family">Wyss</namePart>
+                        <namePart type="given">Corinne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Loetscher, Alexander</displayForm>
+                        <namePart type="family">Loetscher</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Democracy depends on the participation of citizens. Citizenship education is taking place in classroom communities to prepare pupils for their role as citizens. Class councils are participatory forms of citizenship education guaranteeing the children’s right to form and express their views freely as written down in the Convention on the Rights of the Child. Theoretical deficiencies and empirical objections have been formulated against participation in the school setting. Despite widespread practices, empirical data about class councils in Switzerland barely exists. In our project we video-recorded fourteen class councils in secondary schools, we interviewed the teacher and four pupils of each class, and all the pupils filled in a standardized questionnaire. Class councils are very popular forms of education with pupils although the actual power to influence decisions by deliberation is doubted to some extent. Quantitative analysis of the video-recordings shows the wide range of forms of class councils that exist in respect to the talking time of the pupils. To express one’s own viewpoint and to understand the standpoint of other discussants, construct arguments and counterarguments, participate, and lead discussions are difficult tasks. Based on the empirical research the project describes three forms of class councils that favour the development of communicative competences as a part of citizenship education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_612</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_612">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/612/611" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_612" DMDID="DMD_biejournals_612">
+            <mets:fptr FILEID="FILE0_biejournals_612"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

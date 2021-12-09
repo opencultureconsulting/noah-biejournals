@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1635">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Situation naturwissenschaftlicher Bildungsstandards in Österreich am Beispiel der Biologie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schiffl, Iris</displayForm>
+                        <namePart type="family">Schiffl</namePart>
+                        <namePart type="given">Iris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Naturwissenschaftliche Bildungsstandards werden in Österreich seit 2005 entwickelt und sind seither auch Gegenstand fachdidaktischer Forschung. Obwohl die Einführung von Bildungsstandards rechtlich für die Naturwissenschaften nicht geregelt ist, wurden dennoch zahlreiche Entwicklungen vorangetrieben. So wurden Kompetenzstrukturmodelle für die Sekundarstufen I und II erstellt, es wurden Unterrichtsaufgaben für Lehrpersonen zur Verfügung gestellt, die die Anwendung der Kompetenzen im Unterricht demonstrieren und seit einiger Zeit werden Diagnoseinstrumente für den Einsatz durch die Lehrpersonen entwickelt und evaluiert. Viele dieser Entwicklungen, wie die Evaluation des Kompetenzstrukturmodells oder die Erstellung von Diagnoseaufgaben, beschränken sich jedoch auf die Sekundarstufe I. Dieser Beitrag beleuchtet die ambivalente Stellung der naturwissenschaftlichen Bildungsstandards in Österreich am Beispiel der Biologie und geht dabei auf unterschiedliche Entwicklungen in der Sekundarstufe I und II ein. Dabei werden sowohl abgeschlossene Forschungsprojekte als auch Desiderata für die zukünftige Forschung in diesem Bereich diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1635</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1635">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1635/1579" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1635" DMDID="DMD_biejournals_1635">
+            <mets:fptr FILEID="FILE0_biejournals_1635"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

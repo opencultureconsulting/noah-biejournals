@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3909">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Entwicklung von Selbstlern- und Medienkompetenz im Homeschooling – Chancen und konzeptionelle Anforderungen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gerhardts, Lara</displayForm>
+                        <namePart type="family">Gerhardts</namePart>
+                        <namePart type="given">Lara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kamin, Anna-Maria</displayForm>
+                        <namePart type="family">Kamin</namePart>
+                        <namePart type="given">Anna-Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meister, Dorothee M.</displayForm>
+                        <namePart type="family">Meister</namePart>
+                        <namePart type="given">Dorothee M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Richter, Lea</displayForm>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="given">Lea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Teichert, Jeannine</displayForm>
+                        <namePart type="family">Teichert</namePart>
+                        <namePart type="given">Jeannine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Schüler*innen, Lehrkräfte und Eltern sehen sich durch die pandemiebedingten schulischen Veränderungen vor neue Herausforderungen gestellt: Gesamte Klassenverbände müssen (plötzlich) im Homeschooling unterrichtet werden. Das bedeutet für Lehrkräfte und Schüler*innen eine Umstrukturierung und ein Neudenken des Unterrichts und für Eltern eine erhebliche Mehrbelastung bei der Koordination des Familienalltags. Im Homeschooling verlagern sich Aufgaben, die traditionell der Schule zugeschrieben werden, auf das häusliche Lernumfeld. Zudem werden digitale Medien verstärkt für die Bearbeitung schulischer Aufgaben genutzt. Unter den aktuellen Bedingungen stellen die beiden Kompetenzbereiche Medien- und Selbstlernkompetenz für Schüler*innen deshalb wichtige Schlüsselqualifikationen zur Bewältigung des schulischen Alltags dar. Der Beitrag geht der Frage nach, wie sich die Selbstlern- und Medienkompetenz von Schüler*innen während der Corona-Pandemie im häuslichen Kontext weiterentwickelt haben. Mittels eines kontaktlosen Erhebungsverfahrens, das Lerntagebücher und telefonische Interviews umfasste, wurde die Sicht von Schüler*innen und ihren Eltern erfasst. Die Ergebnisse zeigen, dass verschiedene Faktoren das häusliche Lernen erschweren. Das Homeschooling erfordert weitreichende Selbstständigkeit und Eigenorganisation der Schüler*innen, um den schulischen Alltag strukturieren und bewältigen zu können. Es werden wichtige Handlungsbedarfe festgehalten, die die Relevanz einer Anpassung der Rahmenbedingungen an die Häuslichkeit verdeutlichen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3909</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3909">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3909/3966" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3909" DMDID="DMD_biejournals_3909">
+            <mets:fptr FILEID="FILE0_biejournals_3909"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

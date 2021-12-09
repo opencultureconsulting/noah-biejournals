@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3288">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Praxissemester im Lehramtsstudium illustriert am Beispiel der Sozialwissenschaften</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Deutsch</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwier, Volker</displayForm>
+                        <namePart type="family">Schwier</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Handelmann, Jan</displayForm>
+                        <namePart type="family">Handelmann</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Film illustriert den Verlauf des Praxissemesters in Nordrhein-Westfalen aus der Perspektive von Lehramtsstudierenden. Am Beispiel des Faches Sozialwissenschaften und seiner konkreten Ausgestaltung werden ganz praktische Probleme, Herausforderungen und Chancen aus Sicht von Studierenden thematisiert. Dabei geht es um typische Probleme wie die beachtliche Anforderung des eigenen Unterrichtens und die Planung und Durchführung von Studienprojekten. Ins Zentrum rückt die Frage, wie die Weiterentwicklung der eigenen Professionalität durch die Einnahme einer forschenden Perspektive gelingen kann. Der Film verweist auf das Forschende Lernen und lotet dazu verschiedene Theorie- und Praxisbezüge exemplarisch aus. Es wird gezeigt, wie gerade fachdidaktische Prinzipien helfen, Zugänge zur Erforschung von Schul- und Unterrichtswirklichkeiten zu eröffnen und damit die (fachdidaktische) Reflexivität der Studierenden herauszufordern. Im Film werden Unterstützungsmöglichkeiten für Studierende themati-siert. Zudem ergeben sich anschauliche Impulse für die Portfolioarbeit im Praxissemester. Damit bietet der Film weit über die sozialwissenschaftsfachdidaktische Perspektive hinaus eine Projektionsfläche sowohl für fachliche als auch für überfachliche Fragestellungen in Bezug auf das Praxissemester.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3288</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3288">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3288/3577" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3288">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3288/3578" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE2_biejournals_3288">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3288/3556" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3288" DMDID="DMD_biejournals_3288">
+            <mets:fptr FILEID="FILE0_biejournals_3288"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3288" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3288"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3288" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3288"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

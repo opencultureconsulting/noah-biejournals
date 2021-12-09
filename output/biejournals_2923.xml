@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2923">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Identity Centrality and In-Group Superiority Differentially Predict Reactions to Historical Victimization and Harm Doing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bilali, Rezarta</displayForm>
+                        <namePart type="family">Bilali</namePart>
+                        <namePart type="given">Rezarta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-10-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Two U.S. studies report a differential effect of identity centrality and in-group superiority on reactions to in-group victimization and in-group harm-doing. Study1 (N = 80) found that higher identity centrality predicted less justification for freely-recalled in-group victim events, whereas higher in-group superiority predictedmore justification for freely-recalled in-group harm-doing events. Study 2 (N = 105) reexamined these findings in specific contexts of historical victimization(Pearl Harbor) and harm-doing (Hiroshima and Nagasaki), finding that in-group superiority was a predictor of reactions to historical in-group harm-doing(justification, emotional reactions, importance of events), whereas centrality was a predictor of reactions to historical in-group victimization.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2923</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2923">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2923/pdf_63" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2923">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2923/2789" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2923" DMDID="DMD_biejournals_2923">
+            <mets:fptr FILEID="FILE0_biejournals_2923"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2923" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2923"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

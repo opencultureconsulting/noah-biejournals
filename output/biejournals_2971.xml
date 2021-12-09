@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2971">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“I Am First and Foremost a Man of Logic” – Stereotyping, the Syndrome Character of Prejudice, and a Glance at Anders Breivik’s Manifesto</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Milbradt, Bjoern</displayForm>
+                        <namePart type="family">Milbradt</namePart>
+                        <namePart type="given">Bjoern</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Attitudes, stereotyping, and prejudice are often conceived of as inner, mental or cognitive processes. Drawing on discursive psychology and critical theory, this article proposes a language-based understanding of stereotyping and the “syndrome character” of prejudice that is able to avoid certain epistemological shortcomings and connect social-psychological and sociological research. Stereotyping is outlined as a relational concept that denotes a linguistic mode of relating to the world, whilst the syndrome character of prejudice is conceptualized as a phenomenon that shows in particular stereotypical speech acts, but does not completely coincide with them. The impact of this conceptual figuration is empirically illustrated using Anders Breivik’s manifesto.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2971</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2971">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2971/pdf_86" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2971">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2971/2887" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2971" DMDID="DMD_biejournals_2971">
+            <mets:fptr FILEID="FILE0_biejournals_2971"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2971" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2971"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

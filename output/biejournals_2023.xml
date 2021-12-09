@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2023">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision und Biografie im Kontext psycho-sozialer Traumatisierungsprozesse. Erfahrungen aus Guatemala</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rohr, Elisabeth</displayForm>
+                        <namePart type="family">Rohr</namePart>
+                        <namePart type="given">Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Supervision in einem Kontext psychosozialer Traumatisierungsprozesse, wie er sich in Guatemala darstellt, hat mit spezifischen Schwierigkeiten zu ringen: Was in der westlichen Modeme tendenziell als problematische Situation erscheint, ist in vielen Ländern des Südens, auch in Guatemala, eher die Norm: Vermischungen von Biografie und professioneller Funktion, bzw. Rolle sind in dem hier präsentierten Fallbeispiel sowohl vom Arbeitgeber wie von Mitarbeiterinnen und Mitarbeitern erwünscht. Dies aber führt zu Burnout, zu Konflikten, zu Arbeitsunzufriedenheit, zu Frustration und auch zu hoher Fluktuation. Supervision hat deshalb vorrangig die Aufgabe, eine Entmischung herbeizuführen, was jedoch nur dann gelingen kann, wenn eine Identifikation mit generalisierten Zielen der Arbeit nicht nur auf der symbolischen, sondern auch auf der manifesten Ebene denkbar ist.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2023</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2023">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2023/1890" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2023" DMDID="DMD_biejournals_2023">
+            <mets:fptr FILEID="FILE0_biejournals_2023"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

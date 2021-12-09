@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1972">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mein Unterricht als Experiment – ein quasi-experimenteller Ansatz zum Forschenden Lernen in der chemiedidaktischen Lehramtsausbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwedler, Stefanie</displayForm>
+                        <namePart type="family">Schwedler</namePart>
+                        <namePart type="given">Stefanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riewerts, Kerrin</displayForm>
+                        <namePart type="family">Riewerts</namePart>
+                        <namePart type="given">Kerrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das didaktische Konzept des Forschenden Lernens hat in den letzten Jahren in der Lehrkräftebildung verbreiteten Einsatz gefunden. Dabei eignet sich die Beforschung schulischer Praxis besonders zur Unterstützung des Theorie-Praxis-Transfers. Durch die forschende Reflexion des (eigenen) Lehrhandelns kann zudem der individuelle Professionalisierungsprozess der Studierenden gefördert werden. Jedoch sind die Methoden der empirischen Sozialforschung für Studierende der Chemie häufig nicht leicht zugänglich, und es können sogar Widerstände auftreten, sich damit intensiver auseinanderzusetzen. Um dem entgegenzuwirken, wird ein Ansatz vorgestellt, der Studierenden die Ähnlichkeit des ihnen vertrauten Experiments mit dem Lehrhandeln im Forschenden Lernen aufzeigt: Mein Unterricht als Experiment. Studierende sollen den eigenen Unterricht als Experiment begreifen und beforschen. Dieser Ansatz knüpft an die extensiven Vorerfahrungen der Studierenden mit dem (Labor-)Experiment im Erkenntnisgang an und erhöht somit die Wahrscheinlichkeit für einen gelungenen Transfer ebenso wie für einen Abbau der Vorbehalte gegenüber fachdidaktischer Forschung. In überwiegend qualitativ-konzeptionellen, quasi-experimentellen Studienprojekten werden theoretische Ansätze bzw. fachdidaktische Konzeptionen beleuchtet, praktisch ausgearbeitet, als Intervention eingesetzt und die Auswirkungen im Klassenzimmer wissenschaftlich untersucht. Forschendes Lernen erzeugt auf diese Weise eine handlungsorientierte Erarbeitung bzw. praktische Anwendung von theoretischen Inhalten, wodurch die analytisch-reflexive, forschende Grundhaltung gegenüber eigenem Unterricht nicht nur theoretisch vermittelt, sondern auch exemplarisch in den Studienprojekten eingeübt wird. Durch den Erkenntnisgewinn zum praktischen Lehrerhandeln erleben die Studierenden Forschendes Lernen als berufsorientierte, explorative Auseinandersetzung und nicht als zusätzliche, ergebnislose Aufgabe. Zudem können die untersuchten fachdidaktischen Theorien und Konzepte als praxisrelevante und (im Optimalfall) wirkungsmächtige Unterstützungssysteme wahrgenommen werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1972</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1972">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1972/3332" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1972" DMDID="DMD_biejournals_1972">
+            <mets:fptr FILEID="FILE0_biejournals_1972"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

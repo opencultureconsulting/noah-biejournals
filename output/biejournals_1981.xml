@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1981">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen im Praxissemester Philosophie</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Golus, Kinga</displayForm>
+                        <namePart type="family">Golus</namePart>
+                        <namePart type="given">Kinga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der Philosophiedidaktik an der Universität Bielefeld wird mit dem Konzept der fachdidaktischen Transformation (Johannes Rohbeck) gearbeitet, um das Forschende Lernen bei Studierenden im Praxissemester anzuleiten. Der Grad an Professionalität als Philosophielehrkraft wird daran gemessen, wie gut die fachdidaktische Transformation gelingt. Studierende haben durch das Verfahren die Möglichkeit, an sich forschend zu erlernen, wie guter Philosophieunterricht bereits im Praxissemester gelingen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1981</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1981">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1981/3568" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1981" DMDID="DMD_biejournals_1981">
+            <mets:fptr FILEID="FILE0_biejournals_1981"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

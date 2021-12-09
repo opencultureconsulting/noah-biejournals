@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_529">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Parteipolitik in der Schule? (1964)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Engelhardt, Rudolf</displayForm>
+                        <namePart type="family">Engelhardt</namePart>
+                        <namePart type="given">Rudolf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wird die Aktualisierung des Unterrichts den Lehrer nicht in Versuchung führen, seine parteipolitischen Ansichten den Schülern zu suggerieren? Die eben besprochene Karikatur war in dieser Hinsicht durchaus unproblematisch und kein heißes Eisen im Sinne der Parteipolitik. Welcher Partei der Lehrer auch an-[87/88]gehören oder welcher er auch nahestehen mag, auf die Deutung und Auswertung der Karikatur dürfte das keinen Einfluß haben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_529</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_529">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/529/526" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_529" DMDID="DMD_biejournals_529">
+            <mets:fptr FILEID="FILE0_biejournals_529"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

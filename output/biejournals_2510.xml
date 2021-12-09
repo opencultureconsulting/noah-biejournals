@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2510">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Blumenuhr</title>
+                        <subTitle>Seminarkonzept für einen interesseweckenden Einstieg in die Grundlagen der Botanik</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Floral Clock</title>
+                        <subTitle>Raising Students’ Interest in Botany</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Desch, Inga Hilke</displayForm>
+                        <namePart type="family">Desch</namePart>
+                        <namePart type="given">Inga Hilke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nessler, Stefan</displayForm>
+                        <namePart type="family">Nessler</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Beez, Dorothee</displayForm>
+                        <namePart type="family">Beez</namePart>
+                        <namePart type="given">Dorothee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Volkmar, Ute</displayForm>
+                        <namePart type="family">Volkmar</namePart>
+                        <namePart type="given">Ute</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vorgestellt wird eine 90-minütige Einführungssitzung in die Botanik mit Bezügen zu Chronobiologie, Evolution und Zoologie. Die Sitzung zeichnet sich durch einen hohen Eigenanteil der Studierenden aus, in dem diese mit Hilfe von rätselartigen, authentischen Problemstellungen botanische Grundkonzepte (Blattaufbau, Blütenaufbau, Wind- und Tierbestäubung) erarbeiten. Die bisherigen Erfahrungen bei der Durchführung der Einführungssitzung haben gezeigt, dass ein zumeist eher als uninteressant wahrgenommenes Thema in einem interessanten, authentischen und autonomieförderlichen Rahmen zu „verstecken“ möglich ist:
+Die Blumenuhr von Carl von Linné wirft die Fragen auf, woher Pflanzen wissen, wie spät es ist und wieso sich manche Blüten zu verschiedenen Zeiten öffnen und schließen. Der ersten Frage wird in einem kurzen Vortrag nachgegangen, in diesem werden auch die aktuellen Erkenntnisse zur Inneren Uhr von Drosophila (Nobelpreis 2017) vorgestellt, sowie die Unterschiede zwischen der Inneren Uhr und einer lichtinduzierten Reaktion bei Pflanzen. In der Gruppenarbeitsphase assistieren die Studierenden einem (ausgedachten) Schüler von Carl von Linné bei der Prüfung neuer Pflanzen für die Blumenuhr und erfahren so, dass das Öffnen und Schließen zu bestimmten Zeiten koevolutive Gründe hat, wieso sich hierfür keine windbestäubten Blüten eignen, was die Blüte überhaupt ist und wie der basale Bauplan der Pflanzen aussieht.</abstract>
+                    <abstract lang="eng">Botany and its basics are hardly interesting for most biology students. We here describe an approved highly activating first session of a lecture series on botany. To raise students’ interest, an original problem-solving environment is constructed connecting fundamental botanical knowledge about leaf and flower mor-phology, wind and animal pollination with chronobiology, evolution, and zoology. Carl Linnaeus was said to know the exact day time by looking at his floral clock composed of plants with different flower opening and closing times. A provided introductory talk briefly explains the molecular background of circadian clocks in plants and animals (chronobiology; cp. Nobel Prize 2017). Working in groups, the students then assist an imaginary scholar of Carl Linnaeus in selecting novel plants for the floral clock. Thereby they gain knowledge on plant and flower morphology, the different types of pollination, the co-evolutionary aspects of flower opening and closing times, and they learn why wind pollinated plants are not suitable for floral clocks.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2510</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2510">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2510/3404" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2510">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2510/3405" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_2510">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2510/3406" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_2510">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2510/3407" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2510" DMDID="DMD_biejournals_2510">
+            <mets:fptr FILEID="FILE0_biejournals_2510"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2510" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2510"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_2510" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_2510"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_2510" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_2510"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

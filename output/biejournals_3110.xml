@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3110">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Chinese Schools of Wisdom on Conflict Resolution and Their Relevance to Contemporary Public Governance</title>
+                        <subTitle>A Contingent Framework</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yang, Lihua</displayForm>
+                        <namePart type="family">Yang</namePart>
+                        <namePart type="given">Lihua</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-07-23</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The literature concerning conflict resolution in public governance largely ignores comparative cross-cultural settings. This study investigates Chinese schools of thought on conflict resolution and their relevance to contemporary public governance. Based on a review of the literature and a cross-cultural approach examining Chinese thought and experience, the study describes the different philosophies, methods, and principles of conflict resolution in China. It shows that eight major Chinese schools of thought comprise a continuum of methods (in terms of force vs. peace) and form a contingent framework for Chinese conflict resolution. The findings are of great relevance for contemporary public governance and provide new openings for improving conflict resolution methods.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3110</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3110">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3110/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3110" DMDID="DMD_biejournals_3110">
+            <mets:fptr FILEID="FILE0_biejournals_3110"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

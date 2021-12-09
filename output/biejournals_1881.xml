@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1881">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Need for nursing care support in cancer patients</title>
+                        <subTitle>Registry-linkage study in Germany</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spallek, Jacob</displayForm>
+                        <namePart type="family">Spallek</namePart>
+                        <namePart type="given">Jacob</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Breckenkamp, Jürgen</displayForm>
+                        <namePart type="family">Breckenkamp</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kraywinkel, Klaus</displayForm>
+                        <namePart type="family">Kraywinkel</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schwabe, Wolfgang</displayForm>
+                        <namePart type="family">Schwabe</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krieg, Volker</displayForm>
+                        <namePart type="family">Krieg</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Greiner, Wolfgang</displayForm>
+                        <namePart type="family">Greiner</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Damm, Oliver</displayForm>
+                        <namePart type="family">Damm</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Razum, Oliver</displayForm>
+                        <namePart type="family">Razum</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: In Germany, very little is known about the need for assistance and nursing care support among cancer patients after hospitalization. The aim of this study was to describe nursing care support for cancer patients and to analyse whether these patients need more care assistance than other persons in need for care.Methods: This was a registry linkage study conducted in 2011. Cases were identified from the population-based cancer registry for the Muenster District in north-western Germany and in factually anonymised form linked by a semi-automatic probabilistic procedure (the standard procedure of the cancer registry) with medical examination records of patients applying for assistance and nursing care support from the regional statutory health insurance. The application records of 4,029 patients with colon, breast and prostate cancer were compared to a reference group of 13,104 non-cancer patients.Results: In only 41.7% of colon, 45.8% of breast and 37.4% of prostate cancer patients was the malignancy the main underlying diagnostic cause for the application of assistance and nursing care. These patients were on average younger (mean age 71.1 vs. 76.8 years) than the non-cancer reference group, required higher levels of support (79.5 vs. 58.1% “considerable” or higher level care need) and their applications were less likely to be rejected (odds ratios [ORs] 0.26, 0.28, and 0.31, respectively). By contrast, the proportion of successful applications and the level of support granted did not differ between multimorbid cancer patients with other main diagnoses as compared to non-cancer applicants.Conclusion: Patients with colon, breast or prostate cancer do not need per se more nursing care than non-cancer patients. Only if cancer is the main underlying diagnosis for nursing care support, higher levels of support are needed. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1881</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1881">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1881/1801" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1881" DMDID="DMD_biejournals_1881">
+            <mets:fptr FILEID="FILE0_biejournals_1881"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

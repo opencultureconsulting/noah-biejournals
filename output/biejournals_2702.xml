@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2702">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Alles, was schwer ist, geht unter.“</title>
+                        <subTitle>Warum Lehrer*innen-Vorstellungen wichtig sind - Ein Konzept für eine Seminarsitzung zum Thema „Schwimmen und Sinken“</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>“All Heavy Objects Sink.” </title>
+                        <subTitle>Why Teacher Conceptions Are Important – A Teaching Unit on the Subject of “Floating and Sinking&quot;</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Barkhau, Jörg</displayForm>
+                        <namePart type="family">Barkhau</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kühn, Claudia</displayForm>
+                        <namePart type="family">Kühn</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Basten, Melanie</displayForm>
+                        <namePart type="family">Basten</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das konstruktivistische Lehr- und Lernverständnis des Sachunterrichtes geht einher mit einer Auffassung von kindlichem Lernen gemäß des Conceptual-Change-Ansatzes. Die Theorie der didaktischen Rekonstruktion vereint beide Denkweisen in einem Triplett aus Fachlicher Klärung, der Lernendenperspektive und der Didaktischen Strukturierung eines Unterrichtsangebotes, welches es ermöglicht, dass die Lernenden ihre vorherigen Vorstellungen verändern oder erweitern können. Aber auch (angehende) Lehrkräfte verfügen über Vorstellungen zu einer Thematik, die wie die Vorstellungen von Schüler*innen fest verankert und damit schwer selbst erkenn- und veränderbar sein können. In der hier vorgestellten Seminarsequenz für Grundschullehramtsstudierende wird dies exemplarisch am Beispiel des Themas „Schwimmen und Sinken“ für den Sachunterricht illustriert. Es werden typische Vorstellungen der Studierenden vorgestellt, und es wird aufgezeigt, wie das Modell der Didaktischen Rekonstruktion die Stu-dierenden dabei unterstützen kann, Unterricht zu dem fachlich komplexen Thema „Schwimmen und Sinken“ den Lernendenvorstellungen gerecht zu planen. Zusätzlich rückt die Seminarsequenz die eigenen Vorstellungen der Studierenden in den Fokus und zeigt ihnen deren Bedeutung für die Fachliche Klärung auf.</abstract>
+                    <abstract lang="eng">The constructivist understanding of teaching and learning in primary science and social education goes hand in hand with a conception of children’s learning according to the conceptual change approach. The Model of Didactic Reconstruction unites both ways of thinking in a triplet of technical clarification, learner perspective and didactic structuring of a teaching offer, which makes it possible for learners to change or develop their preconceptions. But (prospective) teachers also have conceptions on a topic that, like the ideas of pupils, are firmly anchored and can therefore be difficult to be recognized and changed. In the course of a seminar for primary school teacher students presented here, this is illustrated exemplarily using the topic “floating and sinking”. Typical conceptions of the students are presented and it is shown how the Model of Didactic Reconstruction can support the students in planning lessons on the complex subject of “floating and sinking” in accordance with the learner’s preconceptions. In addition, the teaching unit focuses on their own preconceptions and emphasizes their importance for the clarification of the subject.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2702</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2702">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2702/4141" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2702" DMDID="DMD_biejournals_2702">
+            <mets:fptr FILEID="FILE0_biejournals_2702"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

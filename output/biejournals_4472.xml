@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4472">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mukoviszidose</title>
+                        <subTitle>Vielseitige Betrachtung einer Erbkrankheit im Inhaltsfeld „Genetik“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maak, Anna-Lena</displayForm>
+                        <namePart type="family">Maak</namePart>
+                        <namePart type="given">Anna-Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Osman, Khaleda</displayForm>
+                        <namePart type="family">Osman</namePart>
+                        <namePart type="given">Khaleda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Beitrag thematisiert die Erkrankung Mukoviszidose und beschreibt die grundlegenden genetischen Ursachen, Symptome sowie Therapien der Krankheit. Darüber hinaus werden frühdiagnostische Verfahren der Präimplantations- und Pränataldiagnostik in ihren Grundzügen aufgezeigt. Die vorliegenden Unterrichtsanregungen wurden für die Sek. II entwickelt und lassen sich dem Inhaltsfeld Genetik zuordnen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4472</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4472">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4472/4318" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_4472">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4472/4319" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4472" DMDID="DMD_biejournals_4472">
+            <mets:fptr FILEID="FILE0_biejournals_4472"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4472" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4472"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

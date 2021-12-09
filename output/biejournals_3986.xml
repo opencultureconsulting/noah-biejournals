@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3986">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Political education of young children</title>
+                        <subTitle>Teacher descriptions of social studies teaching for children in 1st- 4th grade in the norwegian primary school</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Johansen Utler, Stine</displayForm>
+                        <namePart type="family">Johansen Utler</namePart>
+                        <namePart type="given">Stine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Teachers emphasise political aspects of the initial social studies education despite not being asked about them directly.
+Teachers seems to focus on building a foundation for thinking and acting politically
+
+Purpose: This study investigated the political aspects of 1st- to 4th-grade social studies education in Norwegian primary schools through qualitative interviews with 30 social studies teachers. The research examined how and to what extent politics is in focus in initial social studies education using the pre-political perspective as a theoretical starting point.
+Findings: The political sphere is, to a large extent, focused on initial social studies education, in the form of either political actions or preparation – e.g. building a foundation on which pupils can think and act politically. Despite the fact that not all aspects of the political are equally emphasised in initial social studies education and often seem to tend towards harmony and common agreement, pupils have the potential to be politically orientated or socialised in initial social studies education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3986</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3986">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3986/4516" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3986" DMDID="DMD_biejournals_3986">
+            <mets:fptr FILEID="FILE0_biejournals_3986"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

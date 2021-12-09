@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2831">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Picturing the Other</title>
+                        <subTitle>Targets of Delegitimization across Time</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Volpato, Chiara</displayForm>
+                        <namePart type="family">Volpato</namePart>
+                        <namePart type="given">Chiara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Durante, Federica</displayForm>
+                        <namePart type="family">Durante</namePart>
+                        <namePart type="given">Federica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gabbiadini, Alessandro</displayForm>
+                        <namePart type="family">Gabbiadini</namePart>
+                        <namePart type="given">Alessandro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Andrighetto, Luca</displayForm>
+                        <namePart type="family">Andrighetto</namePart>
+                        <namePart type="given">Luca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mari, Silvia</displayForm>
+                        <namePart type="family">Mari</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Italian Fascist propaganda was compared with contemporary right-wing material to explore how political propaganda depicts specific target groups in different historical periods. Taking the theory of delegitimization as the theoretical framework, we analyzed visual images concerning despised social groups used by the Fascist regime and current images of contemporary targets of social resentment used by Lega Nord (currently part of the governing coalition). Images of Jewish and Black people published in the Fascist magazine La Difesa della Razza were classified according to eight delegitimizing strategies, as were images of immigrants used on Lega Nord propaganda posters. Although the target group has changed, six of the eight strategies of delegitimization were used in both periods. In most cases, overlap was found in the way target groups were portrayed in the past and in the present.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2831</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2831">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2831/pdf_3" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2831" DMDID="DMD_biejournals_2831">
+            <mets:fptr FILEID="FILE0_biejournals_2831"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

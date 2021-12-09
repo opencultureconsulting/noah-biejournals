@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_659">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploring the Keys to Citizen Formation in Teacher&apos;s Discourse</title>
+                        <subTitle>Implications of Teaching Citizenship in the Araucanía Region, Chile</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>León, Abelardo</displayForm>
+                        <namePart type="family">León</namePart>
+                        <namePart type="given">Abelardo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The present article addresses the main points observed during a series of interviews carried out between 2008 and 2009 with  teachers of the 8th grade subject, Citizen Formation. All of the interviewees come from private and municipal educational institutions from the Araucanía region in Chile. The study revolved around two initial questions: how do teachers of the ninth region of the Araucanía deal with the notion of citizenship? And, in what way do they make sense of this concept? In this way we look to identify the elements in the discourse that form the notion of citizenship starting with the beliefs and interpretations given by the interviewees. In the results we can observe a tension between the concept the teachers have of themselves and their social role and, on the other hand, the way they should conceive the subject as a tool of the institutional character of the state.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_659</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_659">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/659/703" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/zip" ID="FILE1_biejournals_659">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/659/704" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_659" DMDID="DMD_biejournals_659">
+            <mets:fptr FILEID="FILE0_biejournals_659"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_659" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_659"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3659">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hochschuldidaktische Qualifizierung von Lehrenden in der wissenschaftlichen Weiterbildung</title>
+                        <subTitle>Das Zertifikatsprogramm „Kompetenz für professionelle Hochschullehre mit dem Schwerpunkt wissenschaftliche Weiterbildung“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Braun, Monika</displayForm>
+                        <namePart type="family">Braun</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rumpf, Marguerite</displayForm>
+                        <namePart type="family">Rumpf</namePart>
+                        <namePart type="given">Marguerite</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rundnagel, Heike</displayForm>
+                        <namePart type="family">Rundnagel</namePart>
+                        <namePart type="given">Heike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im bundesweiten Wettbewerb „Aufstieg durch Bildung: offeneHochschulen“ haben die drei mittelhessischen Hochschulen(Justus-Liebig-Universität Gießen, Philipps-UniversitätMarburg und Technische Hochschule Mittelhessen) dashochschultypenübergreifende Verbundprojekt ‚WM³ WeiterbildungMittelhessen‘ eingeworben. Ziel des Verbundprojektsist der Aufbau neuer, nachfrageorientierter undberufsbegleitender Masterstudiengänge, Zertifikatskurseund Studienmodule, die gemeinsam entwickelt, durchgeführtund vermarktet werden sollen. Die Lehrenden der beteiligtenHochschulen werden im vorgestellten Zertifikatsprogramm„Kompetenz für professionelle Hochschullehre mitdem Schwerpunkt wissenschaftliche Weiterbildung“ auf dieWeiterbildungslehre auf meso- und mikrodidaktischer Ebenevorbereitet und für die Besonderheiten sensibilisiert undgeschult.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3659</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3659">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3659/3730" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3659" DMDID="DMD_biejournals_3659">
+            <mets:fptr FILEID="FILE0_biejournals_3659"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

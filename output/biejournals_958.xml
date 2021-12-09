@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_958">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ships and Beaches as Arenas of Entanglements from Below</title>
+                        <subTitle>Whalemen in Coastal Africa, c. 1760–1900</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schürmann, Felix</displayForm>
+                        <namePart type="family">Schürmann</namePart>
+                        <namePart type="given">Felix</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Based on a current research project on contacts between coastal dwellers in Africa and its offshore islands and sailors from whaling vessels in the eighteenth and nineteenth centuries, this article offers a contribution to the debate on spatial concepts in historiography. It portrays the ›beach‹ and the ›ship‹ as spatial images for arenas of historic entanglements and suggests that the ›entangled histories‹ approach should be linked to a historical anthropological perspective in order to direct the view to the historical actors who, in their mobile practices, created connections across long distances. On the two empirical examples of the Cape Verdean-American migration and the emergence of Walvis Bay (Namibia) as a trading port, it outlines how ordinary, underprivileged people initiated such connections ›from the bottom up‹. In conclusion, it suggests the term ›entanglements from below‹ to emphasize that historical entanglements should be understood as a result of everyday practices.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_958</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_958">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/958/1066" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_958" DMDID="DMD_biejournals_958">
+            <mets:fptr FILEID="FILE0_biejournals_958"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

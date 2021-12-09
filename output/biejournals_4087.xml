@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4087">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Meta-reflexivity and epistemic cognition in social science teacher education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kindlinger, Marcus</displayForm>
+                        <namePart type="family">Kindlinger</namePart>
+                        <namePart type="given">Marcus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Keywords: meta-reflexivity, epistemic reflexivity, epistemic cognition, reflective
+practice, social science teacher education
+
+Social science requires a meta-reflexive approach to teacher education
+Social science teachers manage subject-specific reflective demands
+Meta-reflexivity can be conceptualized using epistemic cognition frameworks
+Epistemic cognition frameworks expand on social science education competence models
+Epistemic cognition gives a new perspective on reflective practice in social science education
+
+Purpose: This article argues that in social science teacher education general demands for teacher reflection overlap with subject-specific reflective demands. This calls for conceptual frameworks that account for an extended reflectivity, encompassing both teacher reflection and the subject-specific approach to representing controversial issues.
+Approach: Concepts of reflective practice and meta-reflexivity in teacher education are presented, and a discussion is provided regarding the challenges inherent in teaching social sciences as a multidisciplinary subject. Furthermore, aspects of meta-reflectivity are identified in a German teacher competence framework (PKP). To enable a broader analysis, frameworks from the field of epistemic cognition are introduced.
+Findings: Utilizing frameworks of epistemic cognition enables a detailed investigation of how social science teachers manage subject-specific challenges. Epistemic reflexivity offers a concept of teacher reflection that enables a new perspective on connecting theoretical reflection in pre-service teacher education programs with later reflective practice.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4087</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4087">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4087/4519" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4087" DMDID="DMD_biejournals_4087">
+            <mets:fptr FILEID="FILE0_biejournals_4087"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

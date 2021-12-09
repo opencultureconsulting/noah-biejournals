@@ -1,0 +1,52 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1874">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>corporatization of global health</title>
+                        <subTitle>The impact of neoliberalism</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marstein, Egil</displayForm>
+                        <namePart type="family">Marstein</namePart>
+                        <namePart type="given">Egil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Babich, Suzanne M.</displayForm>
+                        <namePart type="family">Babich</namePart>
+                        <namePart type="given">Suzanne M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Concomitant with the emergence of a neoliberal precept for global health is the decline in support for publicly funded programs working to alleviate health disparities in poor countries. An unequivocal faith in the privatization and marketization of public health services is evident in current day national policy reforms.  Commodification of health services is perceived as a cure-all. Privatization of global health initiatives contrasts with the past institutional paradigm. Corporate and philanthropic power trumps intergovernmental governance. The epistemological precept is clear: Global health is best served with mandated private initiatives. Powerful foundations cause critical shifts in the balance of power among stakeholders and become preeminent players in global health policy agenda formation. The ethics of consequentialism have attained current day prominence. This contrasts with the merits and relevancy of de-ontological ethics in which rules and moral duty are central. In this paper, authors make a case for contesting the ethos of effective altruism or venture philanthropy, suggesting that this approach keeps nations and people from recognizing the oppressive nature of neoliberalism as a governing precept for global health.   </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1874</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1874">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1874/1794" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1874" DMDID="DMD_biejournals_1874">
+            <mets:fptr FILEID="FILE0_biejournals_1874"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

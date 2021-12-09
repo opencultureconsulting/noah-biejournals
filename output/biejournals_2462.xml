@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2462">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ist das guter inklusiver Unterricht? Mit Videoanalysen und Unterrichtshospitationen von der Theorie zur Praxisreflexion</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Is this good inclusive teaching? With video analyses and school oberservations from theory to practice reflection</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Faix, Ann-Christin</displayForm>
+                        <namePart type="family">Faix</namePart>
+                        <namePart type="given">Ann-Christin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Textor, Annette</displayForm>
+                        <namePart type="family">Textor</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wild, Elke</displayForm>
+                        <namePart type="family">Wild</namePart>
+                        <namePart type="given">Elke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Artikel wird ein Seminarkonzept theoretisch hergeleitet und didaktisch begründet, welches die Förderung der Professionellen Unterrichtswahrnehmung von Lehramtsstudierenden in Bezug auf inklusiven Unterricht zum Ziel hat. Das interdisziplinäre Seminar nimmt guten inklusiven Unterricht aus den Perspektiven der Pädagogischen Psychologie, der Schulpädagogik und der Sonderpädagogik in den Blick. Die Lehrveranstaltung wird von zwei Lehrenden aus zwei der drei beteiligten Disziplinen im Teamteaching durchgeführt und bezieht die dritte Perspektive über gemeinsam entwickelte Bausteine mit ein. Das Lehrkonzept sieht vier miteinander verschränkte Schritte vor: In einem ersten Schritt arbeiten die Studierenden ihre Subjektiven Theorien über guten inklusiven Unterricht heraus. Die Subjektiven Theorien werden anschließend mit Theorien und Forschungsergebnissen der drei beteiligten Disziplinen konfrontiert. Im zweiten Schritt entwickeln die Studierenden auf Basis der theoreti-schen Inputs ein Raster für die Beurteilung inklusiven Unterrichts, das anhand von Unterrichtsvideos sukzessive weiterentwickelt wird. Das Raster kommt schließlich in einem dritten Schritt bei Hospitationen in „Good Practice“-Schulen zum Einsatz. In einer abschließenden Boostersession wird das Instrument vor dem Hintergrund der gesammelten Hospitationserfahrungen reflektiert.</abstract>
+                    <abstract lang="eng">In the article, a seminar concept is theoretically and didactically de-rived. Its aim is to promote student’s professional vision towards inclusive teaching. The interdisciplinary seminar focuses on good inclusive teaching from the perspectives of pedagogical psychology, school pedagogy, and special education. Two teachers from two of the three disciplines are teaching the seminar and integrate the third perspective. In a first step, the students work out their subjective theories about good inclusive teaching. The subjective theories are confronted with theories and research results of the three disciplines involved. On the basis of the theoretical inputs, the students develop a grid for observing inclusive teaching. Parts of the grid will be tested and further developed on the basis of videos. Finally, the grid is used for observations in “good practice” schools. In a concluding booster session, the grid is reflected on the background of the experiences gained during the observations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2462</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2462">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2462/3201" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2462">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2462/3202" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_2462">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2462/3203" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2462" DMDID="DMD_biejournals_2462">
+            <mets:fptr FILEID="FILE0_biejournals_2462"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2462" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2462"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_2462" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_2462"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

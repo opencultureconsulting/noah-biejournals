@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4287">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pattern of population coverage of a social health insurance scheme in a Southwest Nigeria State</title>
+                        <subTitle>A 3-year post implementation evaluation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Adewole, David Ayobami</displayForm>
+                        <namePart type="family">Adewole</namePart>
+                        <namePart type="given">David Ayobami</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ilori, Temitope</displayForm>
+                        <namePart type="family">Ilori</namePart>
+                        <namePart type="given">Temitope</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ladepo, Wuraola</displayForm>
+                        <namePart type="family">Ladepo</namePart>
+                        <namePart type="given">Wuraola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Akande, Olusola Augustus</displayForm>
+                        <namePart type="family">Akande</namePart>
+                        <namePart type="given">Olusola Augustus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Owolabi, Ganiyu</displayForm>
+                        <namePart type="family">Owolabi</namePart>
+                        <namePart type="given">Ganiyu</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-13</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aims: Social health insurance scheme is capable of minimizing inequity of access to health services, and thereby enhance an improvement in population health outcomes. Recently the National Health Insurance Scheme (NHIS) of Nigeria decentralized its management to the sub-national levels, thus the emergence of State Health Insurance Schemes (SHIS).&amp;nbsp; The SHIS of Oyo State Nigeria started operations about three years ago (June 2017). There is limited/sparse evidence on the performance of the scheme since its inception. Therefore, the aim of this study was to assess the scheme’s level of population coverage in the first three years of implementation. The findings will also provide an evidence base to inform the repositioning of the scheme for improved performance and enable it achieve the purpose of its establishment.&amp;nbsp;
+Methods: Service data from the server of Oyo SHIS were downloaded, collated and analyzed with excel software. Data extraction, cleaning and analysis covered a period of three months (September – October, 2020). Descriptive statistics were used to summarise the data. Population coverage distributions were expressed as frequency and percentages. Frequency tables and graphs were generated to disaggregate the findings.
+Conclusion: Stakeholders in the Oyo State SHIS need to re-strategize to reposition the scheme for an accelerated population coverage as a proxy for performance assessment.
+Acknowledgements:
+Authors wish to acknowledge Oyo State Health Insurance Agency for the permission to make use of the data and to submit the manuscript for publication. We authors would like to sincerely acknowledge the contributions of Prof. Charles Wiysonge and that of Dr. Chukwudi Nnaji for the comprehensive review and suggestions made on this manuscript. Many thanks.
+&amp;nbsp;
+Authors&apos; contributions:
+David Adewole conceived and designed the study. Wuraola Ladepo and Temitope Ilori did data collection and analysis.&amp;nbsp; Adewole, Owolabi and Akande contributed equally to the manuscript write up. All authors read through the manuscript draft the second time. All authors agreed to the final manuscript.
+&amp;nbsp;
+Conflict of interests: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4287</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4287">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4287/4207" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4287" DMDID="DMD_biejournals_4287">
+            <mets:fptr FILEID="FILE0_biejournals_4287"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

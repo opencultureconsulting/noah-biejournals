@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4458">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kollaborative Fallarbeit in Videokonferenzen</title>
+                        <subTitle>Ablaufschema eines Lehrkonzepts und Materialien zur begleitenden Reflexion der Gruppenarbeit</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dähling, Christoph</displayForm>
+                        <namePart type="family">Dähling</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Standop, Jutta</displayForm>
+                        <namePart type="family">Standop</namePart>
+                        <namePart type="given">Jutta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Fallmethode hat Tradition in der Lehrer*innenbildung wie in anderen Bereichen. Die Digitalisierung erlaubt ihren Einsatz in neuen Kontexten. So ermöglichen etwa Videokonferenzprogramme die synchrone Kollaboration von Teilnehmenden, die sich an unterschiedlichen Orten befinden. In diesem Beitrag wird geschildert, wie Videokonferenzen in einer internationalen Kooperation eingesetzt wurden, um österreichische, deutsche und israelischen Studierende gemeinsam interkulturelle Fallgeschichten bearbeiten zu lassen. Das enthaltene Ablaufschema für Online-Fallarbeit sowie Reflexions- und Dokumentationsvorlagen für die Studierenden sind in ganz verschiedenen Kontexten für die Realisierung von Fallarbeit in Videokonferenzform einsetzbar.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4458</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4458">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4458/4290" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4458">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4458/4291" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4458">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4458/4292" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4458" DMDID="DMD_biejournals_4458">
+            <mets:fptr FILEID="FILE0_biejournals_4458"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4458" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4458"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4458" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4458"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

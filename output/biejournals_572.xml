@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_572">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Metaphors as a Tool for Diagnosing Beliefs about Teaching and Learning in Social Studies Teacher Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Szukala, Andrea</displayForm>
+                        <namePart type="family">Szukala</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-10-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Do domain specific teaching/learning beliefs and epistemological beliefs exist and do they explain a domain specific approach to teaching and learning the social sciences? This paper reports on the first stage of an exploratory qualitative study carried out at the University of Bielefeld in 2010/11 on pre-service social studies teachers (PSST, n=61). It has a threefold aim: First, providing a very short overview of relevant trends in recent research on epistemological beliefs and teaching/learning beliefs and presenting some plausible hypotheses on if and how these belief dimensions are related to each other in the field of social studies education; second, presenting and discussing metaphors as a suitable qualitative research method for diagnosing and analysing the teaching and learning beliefs in the field; third, presenting the general outline of the Bielefeld project and a comparison of two emblematic cases of the project to evaluate the potential advantages and shortcomings of the research design and methods, especially of metaphor analysis.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_572</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_572">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/572/569" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_572" DMDID="DMD_biejournals_572">
+            <mets:fptr FILEID="FILE0_biejournals_572"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

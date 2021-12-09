@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1822">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Concurrent validity of radiography and ultrasound examination for the diagnosis of aortic aneurisms in Albanian patients</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Laci, Ilirian</displayForm>
+                        <namePart type="family">Laci</namePart>
+                        <namePart type="given">Ilirian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spahiu, Alketa</displayForm>
+                        <namePart type="family">Spahiu</namePart>
+                        <namePart type="given">Alketa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The aim of our study was to assess the concurrent validity of radiography and ultrasound examination among patients diagnosed with aortic aneurisms in Albania, a transitional country in South Eastern Europe.   Methods: This study included 75 consecutive patients diagnosed with aortic aneurisms (thoracic and/or abdominal) admitted at the University Hospital Centre “Mother Teresa” in Tirana during 2012-2014 (56 men and 19 women). For each patient, computerized tomography (CT) scan with contrast was used to confirm the diagnosis of aortic aneurisms. In addition to the CT scan (“gold standard” for the diagnosis of aneurisms), in 37 patients, radiography and ultrasound examination were simultaneously performed in order to assess the validity of these techniques. Furthermore, demographic data and other relevant clinical information were collected for each study participant.Results: In 18 patients with thoracic aneurisms pertinent to ascendant aorta where radiography and ultrasound were simultaneously performed, ultrasound was able to diagnose 5 (27.8%) cases which were not detected through radiography (P=0.038). Conversely, in 16 patients with abdominal aneurisms where radiography and ultrasound were simultaneously performed, ultrasound was able to diagnose 4 (25.0%) cases which were not detected through radiography (P=0.034). The remaining three patients diagnosed with thoracic-abdominal aneurisms were not detected either by ultrasound examination or radiography.      Conclusions: In this sample of Albanian patients diagnosed with aortic aneurisms (N=75), overall, 9 (24.3%) subjects were detected through ultrasound examination but not radiography (P&amp;lt;0.001). Findings from this study provide valuable clues about the concurrent validity and predictive value of these two key examinations for the diagnosis of aortic aneurisms.      </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1822</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1822">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1822/1743" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1822" DMDID="DMD_biejournals_1822">
+            <mets:fptr FILEID="FILE0_biejournals_1822"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

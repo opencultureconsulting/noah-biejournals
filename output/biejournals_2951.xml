@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2951">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Transitional Justice</title>
+                        <subTitle>History-Telling, Collective Memory and the Victim-Witness</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brants, Chrisje</displayForm>
+                        <namePart type="family">Brants</namePart>
+                        <namePart type="given">Chrisje</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klep, Katrien</displayForm>
+                        <namePart type="family">Klep</namePart>
+                        <namePart type="given">Katrien</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article examines the complex, inherently political, and often contradictory processes of truth-finding, history-telling, and formation of collective memory through transitional justice. It explores tensions between history-telling and the normative goals of truth commissions and international criminal courts, taking into account the increasing importance attributed to victims as witnesses of history. The legal space these instruments of transitional justice offer is determined by both their historical and political roots, and specific goals and procedures. Because the legal space that truth commissions offer for history-telling is more flexible and their report open to public debate, they may open up alternative public spaces and enable civil society to contest the master narrative. The legal truth laid down in the rulings of an international criminal court is by definition closed. The verdict of a court is definite and authoritative; closure, not continued debate about what it has established as the truth, is its one and only purpose. In conclusion, the article calls for a critical appraisal of transitional justice as acclaimed mediator of collective memories in post-conflict societies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2951</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2951">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2951/pdf_78" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2951">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2951/2846" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_2951">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2951/pdf_104" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2951" DMDID="DMD_biejournals_2951">
+            <mets:fptr FILEID="FILE0_biejournals_2951"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2951" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2951"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_2951" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_2951"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

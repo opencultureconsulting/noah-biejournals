@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_406">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>„…ich konnte viel über mein Leben lernen“ Soziologieunterricht an der Gymnasialen Oberstufe in Bremen – Eine „Parallelwelt“?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Papke, Marianne</displayForm>
+                        <namePart type="family">Papke</namePart>
+                        <namePart type="given">Marianne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Largely unnoticed by both sociology and the German educational institutions and their discourse, Bremen has been offering both Advanced Placement and standard level sociology classes in its schools in grades 11 through 13 for the last 30 years. This paper deals mainly with the relevance of the school subject of sociology as seen by about 100 students recruited from five different classes. The students discuss the difference between the school subject sociology and other social sciences related subjects taught in school. Against this background, the emergence, development and formation of the new Bremen curriculum for sociology will be presented, concluding with a tentative inquiry into the “lack of interrelation” between school and universityIn der deutschen Bildungslandschaft und in der Soziologie nahezu nicht wahrgenommen gibt es in Bremen seit 30 Jahren Soziologieleistungs- und -grundkurse in der Gymnasialen Oberstufe. Dieser Aufsatz beschäftigt sich schwerpunktmäßig mit der Bedeutung des Unterrichtsfaches Soziologie aus der Sicht von ca. 100 Schülerinnen und Schülern aus fünf Oberstufenkursen. Die Jugendlichen setzen sich mit dem Unterschied zwischen dem Fach Soziologie und anderen sozialwissenschaftlichen Fächern in der Schule auseinander. Vor diesem Hintergrund werden kurz die Entstehung und die Erarbeitung des neuen Bremer Bildungsplanes Soziologie dargestellt, um am Ende fragend auf die „Beziehungslosigkeit“ zwischen Universität und Schule hinzuweisen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_406</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_406">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/406/403" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_406" DMDID="DMD_biejournals_406">
+            <mets:fptr FILEID="FILE0_biejournals_406"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

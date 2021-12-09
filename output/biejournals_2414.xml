@@ -1,0 +1,49 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2414">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschend Lernen in den Pädagogisch-praktischen Studien im Lehramt Sekundarstufe im Verbund-Nord-Ost in Österreich</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Inquiry-based  Learning  in  Practical  Studies  in  Teacher  Education  for  General Secondary Education of the  Association  North-East  (Vienna and Lower  Austria)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Potzmann, Renate</displayForm>
+                        <namePart type="family">Potzmann</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Schulpraktika&amp;nbsp; gelten&amp;nbsp; als&amp;nbsp; zentrales&amp;nbsp; Element&amp;nbsp; der&amp;nbsp; Lehrer_innenbildung.&amp;nbsp; Mittels&amp;nbsp; Verzahnung&amp;nbsp; theoretischer,&amp;nbsp; forschender&amp;nbsp; und&amp;nbsp; praxis reflektiver&amp;nbsp; Elemente&amp;nbsp; unterstützt&amp;nbsp; Forschendes&amp;nbsp; Lernen&amp;nbsp; in&amp;nbsp; Praxisphasen&amp;nbsp; theoriegeleitete,&amp;nbsp; reflexive&amp;nbsp; Aufarbeitung&amp;nbsp; und&amp;nbsp; Durchdringung&amp;nbsp; von&amp;nbsp; Praxiserfahrungen.&amp;nbsp; Vor diesem Hintergrund erörtert der Beitrag Ansätze&amp;nbsp; Forschenden Lernens in der ersten&amp;nbsp; Phase&amp;nbsp; der&amp;nbsp; Lehrer_innenausbildung.&amp;nbsp; Zuerst&amp;nbsp; wird&amp;nbsp; ein&amp;nbsp; Begriffsverständnis&amp;nbsp; zu Forschendem Lernen in der universitären Lehrer_innenausbildung skizziert. Am Beispiel eines Seminarkonzepts wird ein Ansatz in Pädagogisch-praktischen Studien&amp;nbsp; forschungsorientierten&amp;nbsp; Typs&amp;nbsp; vorgestellt.&amp;nbsp; Dieses&amp;nbsp; Seminarkonzept&amp;nbsp; wird&amp;nbsp; seit dem&amp;nbsp; Studienjahr&amp;nbsp; 2016/17&amp;nbsp; in&amp;nbsp; der&amp;nbsp; ersten&amp;nbsp; Phase&amp;nbsp; der&amp;nbsp; Ausbildung zum&amp;nbsp; Lehramt&amp;nbsp; für die Sekundarstufe Allgemeinbildung im Verbund Nord-Ost in Österreich umgesetzt.</abstract>
+                    <abstract lang="eng">Practical studies are considered as a central element of teacher education. Although there are various&amp;nbsp; implementation types&amp;nbsp; of Inquiry-based Learning&amp;nbsp; with connection to practical studies in schools, it can be assumed it is aiming at supporting theory-based, research-based and practice-based reflection of classroom teaching experiences in practical studies. Against this background, the paper discusses Inquiry-based Learning in the first phase of teacher education. First, a conceptual understanding of&amp;nbsp; Inquiry-based Learning in teacher education is addressed. Furthermore, the paper outlines a teaching and learning concept in practical studies of a research-oriented type which has been implemented in the first phase of teacher education for&amp;nbsp; General Secondary Education of the&amp;nbsp; Association North-East (Vienna and Lower Austria) since the academic year 2016/17.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2414</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2414">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2414/2410" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2414" DMDID="DMD_biejournals_2414">
+            <mets:fptr FILEID="FILE0_biejournals_2414"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

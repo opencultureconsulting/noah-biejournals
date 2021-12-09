@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3613">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Reallabor Universitätsschule Dresden – forschungsmethodische Grundlagen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langner, Anke</displayForm>
+                        <namePart type="family">Langner</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ritter, Matthias</displayForm>
+                        <namePart type="family">Ritter</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pesch, Marlis</displayForm>
+                        <namePart type="family">Pesch</namePart>
+                        <namePart type="given">Marlis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Technische Universität Dresden (TUD) begleitet seit dem Schuljahr 2019/20 den auf 15 Jahre angelegten Schulversuch „Universitätsschule Dresden“. Der Schulversuch zeichnet sich durch die Ermöglichung von individuellen Entwicklungswegen in kooperativen Lernprozessen aus. Das Lernmanagement und die Schulorganisation erfolgen digital gestützt. Neben den dadurch entstandenen Daten werden systematisch Daten über den Lern- und Entwicklungsprozess der Schüler*innen sowie über die schulorganisatorischen Prozesse erhoben. Im vorliegenden Beitrag werden die grundlegende Forschungsausrichtung und das methodische Vorgehen durch eine Einbettung in die jeweiligen Diskurse (Schul- und Unterrichtsentwicklung, Lern- und Entwicklungsforschung, Professionalisierungs- und Einstellungsforschung) dargelegt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3613</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3613">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3613/3708" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3613" DMDID="DMD_biejournals_3613">
+            <mets:fptr FILEID="FILE0_biejournals_3613"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

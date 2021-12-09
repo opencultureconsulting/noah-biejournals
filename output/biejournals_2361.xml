@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2361">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Making social studies in standards-based curricula</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wahlström, Ninni</displayForm>
+                        <namePart type="family">Wahlström</namePart>
+                        <namePart type="given">Ninni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Adolfsson, Carl-Henrik</displayForm>
+                        <namePart type="family">Adolfsson</namePart>
+                        <namePart type="given">Carl-Henrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Vogt, Bettina</displayForm>
+                        <namePart type="family">Vogt</namePart>
+                        <namePart type="given">Bettina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-27</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The aim of this article is to critically explore the complex relations among the triad comprising standards-based curriculum, the curriculum concept of ‘competences’ and the subject of civics in Swedish curricula. 
+Design/methodology/approach: The theoretical framework is based on Bernstein’s (2000) two models of pedagogy, the competence model and the performance model. Following Deng and Luke (2008), we analyse the conceptions of ‘knowledge’ in the subject of civics and explore how a civics syllabus in a standards-based curriculum can be understood and expanded in relation to a classical typology of social studies by Barth and Shermis (1970).
+Finding: The syllabi of civics includes a clear orientation towards social efficiency. Moreover, the abilities, the concept used instead of competences, are strongly linked to the subject matter. Civics is thus understood as a mélange of abilities and in-built subject-specific content. We identify a new category in the typology of social studies, which is social studies as performance-based generic competences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2361</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2361">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/2361/3679" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2361" DMDID="DMD_biejournals_2361">
+            <mets:fptr FILEID="FILE0_biejournals_2361"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

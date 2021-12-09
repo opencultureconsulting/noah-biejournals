@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_906">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Ideology, Education, and Financial Literacy</title>
+                        <subTitle>Uncovering Neoliberal Ideology in Assessment Studies of Economics Education – The Case of Austria</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stieger, Sandra</displayForm>
+                        <namePart type="family">Stieger</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jekel, Thomas</displayForm>
+                        <namePart type="family">Jekel</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: This contribution contextualizes the current debate on financial literacy within the discourses on ideology in curriculum design. The critical review questions the concept of financial literacy as used in assessment studies in Austria, revealing the studies’ ideological assumptions and their embeddedness within neoliberal ideology.
+Methodology: A critical conception of ideology and of curriculum developed by Thompson (1990) and Apple (2004) serves as the basis for analysis. Categories of analysis are derived from neoclassical economics and neoliberal thought. The research is based on a qualitative content analysis of nine recent studies that all argue for enhanced economics education.
+Findings: The authors of the studies analysed write in support of an individualistic, naturalized and “apolitical” understanding of economic and financial literacy. This means that they conceive the economy as a closed system, separate from society and politics. The suggested education programs, consequently, are linked mainly to the neoliberal political project, with a lack of emancipatory or transformative ideas.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_906</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_906">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/906/1511" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_906" DMDID="DMD_biejournals_906">
+            <mets:fptr FILEID="FILE0_biejournals_906"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

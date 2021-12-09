@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_672">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Symbols of Citizenship Education in Schools</title>
+                        <subTitle>A Pictoral Analysis</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grammes, Tilman</displayForm>
+                        <namePart type="family">Grammes</namePart>
+                        <namePart type="given">Tilman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This gallery is designed to simulate a walk through a school building regarded to symbols, moments and rituals of formal and informal citizenship education as it might appear to a pupil/student/teacher during the course of a normal school day. The five contributions from Japan, Poland, Luxemburg/Germany, Germany and Denmark document examples from the actual citizenship studies curriculum.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_672</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_672">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/672/717" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_672" DMDID="DMD_biejournals_672">
+            <mets:fptr FILEID="FILE0_biejournals_672"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

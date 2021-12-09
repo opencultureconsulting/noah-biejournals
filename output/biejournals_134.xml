@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_134">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auswahl einer Lernplattform für wissenschaftliche Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Popplow, Anne</displayForm>
+                        <namePart type="family">Popplow</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-06-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der vorliegende Artikel beschäftigt sich mit der Auswahl einer geeigneten Plattform für wissenschaftliche Weiterbildung. Nach Einordnung der Themenrelevanz werden zunächst die Grundfunktionalitäten von sieben Lernplattformen miteinander verglichen sowie deren Vor- und Nachteile gegenübergestellt. Im Hauptteil werden die zwei Lernplattformen moodle und Ilias anhand eines Kriterienkataloges mit zehn Einzelkriterien gegenübergestellt und weiteren Usability Tests unterzogen, um die Eignung als Lernplattform für wissenschaftliche Weiterbildung zu prüfen. Abschließend werden die Ergebnisse diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_134</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_134">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/134/249" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_134" DMDID="DMD_biejournals_134">
+            <mets:fptr FILEID="FILE0_biejournals_134"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

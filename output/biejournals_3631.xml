@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3631">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Clinical and epidemiological evaluation of Tuberculosis in Albania during the period 2009-2018</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Peposhi, Ilir</displayForm>
+                        <namePart type="family">Peposhi</namePart>
+                        <namePart type="given">Ilir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tafa, Holta</displayForm>
+                        <namePart type="family">Tafa</namePart>
+                        <namePart type="given">Holta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bardhi, Donika</displayForm>
+                        <namePart type="family">Bardhi</namePart>
+                        <namePart type="given">Donika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hafizi, Hasan</displayForm>
+                        <namePart type="family">Hafizi</namePart>
+                        <namePart type="given">Hasan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: To estimate the clinical and epidemiological pattern of Tuberculosis (TB) in Albania over the period 2009-2018.
+Methods: A retrospective analysis of clinical and epidemiological data based on TB individual notification forms during the period 2009-2018.
+Results: During the 10-years period, TB incidence increased from 14 to 15.5, but without a significant increasing trend. The total number of TB cases increased from 440 to 447. The proportion of extra-pulmonary TB decreased from 32% to 25% in 2018 (p=0.015), with and average mean change of 29 cases. Males prevail among TB cases and male-to-female ratio ranges from 2:1 to 3:1. Drug susceptibility testing (DST) was carried out depending on the availability of the reagents and there were 54%, 18% and 96% culture cases confirmed positive in 2009, 2014 and 2019, respectively. The overall treatment completion rate was 85% and 88.2% in 2009 and 2018, respectively. However, there was a significant drop in cured cases from 26% in 9.3%, whereas the percentage of deaths has increased from 0.5% in 4.1%. All treatment outcomes exhibited a significant change (p&amp;lt;0.001).
+&amp;nbsp;
+Conclusion: TB continues to be a public health challenge in Albania regardless of the seemingly generally stable epidemiological situation.
+&amp;nbsp;
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3631</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3631">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3631/3710" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3631" DMDID="DMD_biejournals_3631">
+            <mets:fptr FILEID="FILE0_biejournals_3631"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2537">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schulischen Umgang mit Vielfalt verstehen und gestalten</title>
+                        <subTitle>Ein hochschuldidaktischer Einblick in eine Lern- und Forschungswerkstatt an der Westfälischen Wilhelms-Universität Münster</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Understanding and shaping the handling of diversity in schools</title>
+                        <subTitle>An insight into a learning and research workshop at the University of Münster</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feindt, Andreas</displayForm>
+                        <namePart type="family">Feindt</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fischer, Christian</displayForm>
+                        <namePart type="family">Fischer</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zeinz, Horst</displayForm>
+                        <namePart type="family">Zeinz</namePart>
+                        <namePart type="given">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Einstellungen und Haltungen haben sich als bedeutsam für professionelles Handeln in Settings gemeinsamen Lernens herausgestellt. Die Reflexion und Entwicklung der eigenen Einstellungen und Haltungen wird damit zu einer wichtigen Aufgabe der Lehrer_innenbildung und der Unterstützung von Professionalisierungsprozessen von Studierenden. Wie dies im Rahmen einer Lern- und Forschungswerkstatt im Institut für Erziehungswissenschaft der Westfälischen Wilhelms-Universität Münster ermöglicht werden soll, zeigen die folgenden Ausführungen. Eine besondere Bedeutung nimmt dabei die Aktionsforschung ein. Dort wird die reflexive Auseinandersetzung mit den eigenen standortgebundenen Vorannahmen und Normalitätsvorstellungen explizit in den Prozess der Forschung eingebunden. So wird aus dem Forschenden Lernen über den schulischen Umgang mit Heterogenität gleichzeitig auch ein forschendes Lernen über sich selbst. Darüber hinaus wird mit dem Konzept der Aktionsforschung der reflexive Zugang zum schulischen Feld explizit mit dem praktischen Handeln verknüpft. Diese Verbindung findet sich auch in der hier beschriebenen Lern- und Forschungswerkstatt wieder, bei der neben dem Verstehen auch die Gestaltung schulischer Praxis verfolgt wird. Wie dies konkret aussehen kann, wird am Beispiel der Erprobung adaptiven Unterrichts exemplarisch erläutert.</abstract>
+                    <abstract lang="eng">Teacher beliefs and attitudes have proven to be significant for professional action in inclusive settings. The reflection and development of one’s own attitudes thus becomes an important task of teacher education and the professionalization of teacher students. How this shall be realized within the framework of a learning and research workshop at the Institute for Educational Science of the University of Münster, is shown by the following remarks. Special importance is attached to action research. There, the reflexive examination of one’s own situated point of view and concepts of normality is explicitly included in the process of research (self-study). In this way, research-based learning about the school-based dealing with diversity also becomes a research-based learning about oneself. In addition, the concept of action research explicitly links the reflective access to the school field with practical action. This connection can also be found in the learning and research workshop described here, in which not only the understanding but also the design of school practice is pursued. How this can look concretely, is exemplified by the example of testing adaptive teaching</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2537</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2537">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2537/3389" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2537" DMDID="DMD_biejournals_2537">
+            <mets:fptr FILEID="FILE0_biejournals_2537"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

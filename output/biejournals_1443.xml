@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1443">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Beeinflusst non-formale und informale Bildung die politische Partizipation?</title>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Do non-formal and informal adult education affect citizens’ political participation during adulthood?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Busse, Robin</displayForm>
+                        <namePart type="family">Busse</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lischewski, Julia</displayForm>
+                        <namePart type="family">Lischewski</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seeber, Susan</displayForm>
+                        <namePart type="family">Seeber</namePart>
+                        <namePart type="given">Susan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-04-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: While research on political participation hardly takes into account the effects of non-formal or informal education, the effects of formal education are well investigated. The aim of this paper is to determine the extent to which non-formal and informal education contribute to adults’ participation in different political activities when formal educational background and other socioeconomic factors are controlled. 
+Method: This paper uses data from the German National Educational Panel Study (NEPS, N=9,084). Binomial logistic regressions are used for the analyses, and average marginal effects (AMEs) are used for the model’s output.
+Findings: The findings reveal that non-formal and informal adult education significantly affect different political activities. However, the effects of non-formal and informal adult education differ with regard to the different forms of political participation. The results underline the importance of differentiated analyses of political participation and non-formal and informal adult education. In addition, the results show that some types of non-formal and informal education have a greater impact on adults of low socioeconomic status. 
+Research limitations: This paper cannot account for self-selection effects because adults’ participation in different political activities was collected only in one wave.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1443</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1443">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1443/3290" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1443" DMDID="DMD_biejournals_1443">
+            <mets:fptr FILEID="FILE0_biejournals_1443"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1046">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Petrified worldviews. The Eurocentric legacy in architectural knowledge bases on Japan</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Löffler, Beate</displayForm>
+                        <namePart type="family">Löffler</namePart>
+                        <namePart type="given">Beate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">During the later half of the 19th century, the Japanese government initiated a rapid modernization effort that aimed to create a competitive Japanese nation state. In addition to such changes as new family law, compulsory education, redistribution of property, etc., the government contracted experts from Europe and North America as advisers and teachers. Many reported home and soon travelogues, regional studies, and accounts on particular topics were published in Europe and the US.Dealing with the most diverse topics, the writers usually mediated factual information embedded in reflections upon Japanese culture in general. This happened against the background of a global understanding of civilization in which the western claim for hegemony was apparent. When Japan adopted its position as one of the leading countries in the world over time and Japanese studies developed as an academic field, these early texts lost relevance. However, they did not lose their influence.My paper traces the various western discourses on Japanese architecture thru the late 19th century and the formation of a body of specialist’s knowledge permeated by cultural normative, by a demarcation between the Own and the Other. I argue that these embedded Eurocentric perceptions still impact today’s research topics and architectural discourses on Japan.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1046</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1046">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1046/1154" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1046" DMDID="DMD_biejournals_1046">
+            <mets:fptr FILEID="FILE0_biejournals_1046"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

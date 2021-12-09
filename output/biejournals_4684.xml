@@ -1,0 +1,101 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4684">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Towards harmonisation of public health master education based on WHO-ASPHER Competency Framework for Public Health Workforce in the Euro-pean Region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haque, Sharmi</displayForm>
+                        <namePart type="family">Haque</namePart>
+                        <namePart type="given">Sharmi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Terêncio Marques, Inês</displayForm>
+                        <namePart type="family">Terêncio Marques</namePart>
+                        <namePart type="given">Inês</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stankutė, Ieva</displayForm>
+                        <namePart type="family">Stankutė</namePart>
+                        <namePart type="given">Ieva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bikniūtė, Inesa</displayForm>
+                        <namePart type="family">Bikniūtė</namePart>
+                        <namePart type="given">Inesa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Staišiūnaitė, Agnė</displayForm>
+                        <namePart type="family">Staišiūnaitė</namePart>
+                        <namePart type="given">Agnė</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska,  Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given"> Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The absence of harmonisation in public health curricula between Schools of Public Health is a possible root cause of the ability to effectively address future public health problems in the European Region. Increased cross-border mobility enables public health higher education institutions to become transnational actors in the direction of competency-based education. Four Public Health Master’s programmes were compared: Management of Public Health in Lithuanian University of Health Sciences (LUHS), Governance and Leadership in European Public Health in Maastricht University (UM), Public Health in National (Portuguese) School of Public Health (ENSP) and Public Health in The University of Sheffield (SH). The WHO-ASPHER Competency Framework was used to compare the four public health master programmes. Inconsistencies were found among these masters. Content and Context which includes core public health disciplines appears to be the most consistent element. Relations and Interactions focus appeared diminished in the four schools examined. Performance and Achievement varied within the evaluated curricula. (1)
+The WHO-ASPHER Competency Framework served as a reference to assess the core programme elements for the partial harmonisation of public health masters in relation to the competency, values covered and inter-professional orientation.
+&amp;nbsp;
+Recommendations:&amp;nbsp;&amp;nbsp;&amp;nbsp;
+
+Increase competency-based education
+Introduce leadership and communication skills in the public health curricula;
+Increase the network of Schools of Public Health in the European Region;
+Use a competency framework towards partial harmonisation of public health programmes.
+
+&amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
+Acknowledgments: We would like to thank Prof. Kasia Czabanowska for the considerate feedback. Likewise, we thank Julien Goodman, Director of the Agency for Public Health Education Accreditation (APHEA) Secretariat, Dr. Richard Cooper, Deputy Director of Public Health Section of The University of Sheffield, John Middleton, ASPHER President and Robert Otok, Director of ASPHER Secretariat for insightful expert comments.
+&amp;nbsp;
+Authors’ contributions: All authors contributed equally to this work.
+&amp;nbsp;
+Conflicts of interest: None declared
+&amp;nbsp;
+Funding: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4684</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4684">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4684/4412" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4684" DMDID="DMD_biejournals_4684">
+            <mets:fptr FILEID="FILE0_biejournals_4684"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

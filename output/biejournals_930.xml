@@ -1,0 +1,41 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_930">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Was war Bielefeld? Eine ideengeschichtliche Nachfrage. Edited by Sonja Asal and Stephan Schlak – Bookreview</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hüntelmann, Axel C.</displayForm>
+                        <namePart type="family">Hüntelmann</namePart>
+                        <namePart type="given">Axel C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_930</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_930">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/930/1038" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_930" DMDID="DMD_biejournals_930">
+            <mets:fptr FILEID="FILE0_biejournals_930"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

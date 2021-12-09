@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2284">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Übungsformen in Coaching-Weiterbildungen. Ergebnisse einer Online-Befragung - Teil II</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klenner, Denise</displayForm>
+                        <namePart type="family">Klenner</namePart>
+                        <namePart type="given">Denise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bischofberger, Barbara</displayForm>
+                        <namePart type="family">Bischofberger</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Während die gegenwärtig vorliegende empirische Coaching-Weiterbildungsforschung bisher vor allem evaluative Ansätze verfolgt hat und ergebnisorientiert Ausbildungserfolg, Kompetenzzuwachs und TeilnehmerInnenzufriedenheit zu messen beabsichtigte (vgl. Klenner/Bischofberger 2014), rückt die im vorliegenden Artikel dargestellte Studie das Weiterbildungsgeschehen selbst in den Vordergrund. Im Fokus stehen die Praxisanteile von Coaching-Weiterbildungen, und zwar spezifisch die eingesetzten Übungsformen und -Settings. Mittels einer Online-Befragung konnten hierzu Angaben von 209 Coaching-WeiterbildnerInnen aus dem deutschsprachigen Raum gewonnen werden. Im Folgenden wird der zweite Ergebnisteil dieser Befragung vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2284</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2284">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2284/2245" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2284">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2284/2246" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2284" DMDID="DMD_biejournals_2284">
+            <mets:fptr FILEID="FILE0_biejournals_2284"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2284" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2284"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

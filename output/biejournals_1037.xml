@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1037">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Colonial temporality and Chinese national modernization discourses</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Meinhof, Marius</displayForm>
+                        <namePart type="family">Meinhof</namePart>
+                        <namePart type="given">Marius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In this paper I intend to investigate the relations between colonial wars and the conceptual changes in the notion of war in China since the First Opium War. My argument is that contemporary Chinese interpretations attributed China’s defeat in wars against colonial powers to the bigger power of Western armaments. This assumption has provoked dramatic changes in various aspects of Chinese society, but most importantly, in the Chinese perception of war. The traditional emphasis on the “art of war” was changed to the “force of war”, adopting the Western understanding of modern wars. The most essential factor in winning a war became not so much to master a better war stratagem, but to possess the ultimate force of modern armaments.Under the influence of “national humiliation” – regardless of slogans, aims, and the diversity of efforts to modernize China – the desire for modern armaments has become a central concern for diverse reform-minded Chinese groups. However, the lack of a mature Chinese armament industry and the continuous foreign aggressions in China made it impossible to modernize China’s military without seeking foreign involvements. Therefore, a conceptual change in war in China dramatically affected the trajectory of modern Chinese history and had a considerable influence on China’s foreign affairs.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1037</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1037">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1037/1145" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1037" DMDID="DMD_biejournals_1037">
+            <mets:fptr FILEID="FILE0_biejournals_1037"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

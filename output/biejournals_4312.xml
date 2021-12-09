@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Scenario planning</title>
+                        <subTitle>An alternative approach to European Commission for combating antimicrobial resistance by 2050</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Orellana García, Laura Patricia</displayForm>
+                        <namePart type="family">Orellana García</namePart>
+                        <namePart type="given">Laura Patricia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kaur, Kiranjeet</displayForm>
+                        <namePart type="family">Kaur</namePart>
+                        <namePart type="given">Kiranjeet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brand, Helmut</displayForm>
+                        <namePart type="family">Brand</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröder-Bäck, Peter</displayForm>
+                        <namePart type="family">Schröder-Bäck</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Antimicrobial resistance (AMR) is one of the major health challenges of the future, but the concrete impact of counteracting measures is still unclear. To study possible outcomes within the European Union, a scenario analysis for the year 2050 was performed on the possible influence of the European Commission (EC).
+Methods: Scenario planning and development of strategies based on different scenarios.
+Results: Rational use of antimicrobials in animals and humans, surveillance and monitoring, new antimicrobial therapies, travel and globalization, exposure to the environment, and awareness were recognized as the main driving elements. Four Scenarios were developed: An efficient and impli-cated EC sorts out AMR; An implicated but unsuccessful EC withstands AMR; AMR is managed regardless of the EC disinterest; and A neutral and inefficient EC fails to manage AMR.
+Conclusion: All the strategies developed on the basis of the four scenarios probe for an increase in European Union&apos;s dedication to achieve positive outcomes. These include the development of effective legislation and international coordination.
+Acknowledgment: Peter Schröder-Bäck, Helmut Brand and Kiranjeet Kaur’s contribution is co-funded through a grant of the European Commission within the Erasmus+ programme (Project: Prevent it. Project reference: 598515-EPP-1-2018-1-IN-EPPKA2-CBHE-JP).
+Conflict of interests: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4312</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4312">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4312/4202" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4312" DMDID="DMD_biejournals_4312">
+            <mets:fptr FILEID="FILE0_biejournals_4312"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

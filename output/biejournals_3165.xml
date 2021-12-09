@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3165">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Digitalisierung im Feld der wissenschaftlichen Weiterbildung</title>
+                        <subTitle>Entwicklungslinien und Tendenzen des Bildungsbegriffs</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lerch, Sebastian</displayForm>
+                        <namePart type="family">Lerch</namePart>
+                        <namePart type="given">Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Deutsch, Kim</displayForm>
+                        <namePart type="family">Deutsch</namePart>
+                        <namePart type="given">Kim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Wissenschaftliche Weiterbildung ist als Feld zu markieren, auf das unterschiedliche Einflüsse wirken und in dem insgesamt unterschiedliche Logiken (u.a. Politik, Forschung, Wirtschaft und Gesellschaft) vorherrschen und aufeinandertreffen (Wittpoth, 2005). Diese allgemeine Feststellung erfährt gegenwärtig eine Zuspitzung. Neben der Tendenz der Orientierung an Beruf und Beruflichkeit, die schon seit längerem feststellbar ist (Kraus, 2006) sowie an neoliberalen Steuerungsmechanismen, besteht zudem mit der Digitalisierung eine zentrale Tendenz mit beträchtlichen Auswirkungen für gesellschaftliches und berufliches Leben. Was geschieht, wenn das heterogene Feld der wissenschaftlichen Weiterbildung zunehmend mit technischen Neuerungen wie Digitalisierung und ihren Auswirkungen für Beruf und Gesellschaft konfrontiert wird? Was geschieht dann mit der „Bildung“ in der wissenschaftlichen Weiterbildung? Diese Fragen diskutiert der Beitrag kritisch, um gleichsam Anregung für das Selbstverständnis wissenschaftlicher Weiterbildung in Zeiten gesellschaftlichen Wandels zu geben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3165</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3165">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3165/3616" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3165" DMDID="DMD_biejournals_3165">
+            <mets:fptr FILEID="FILE0_biejournals_3165"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

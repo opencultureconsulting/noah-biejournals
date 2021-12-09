@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1121">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was krabbelt denn da? - Tiere in der Laubstreu entdecken</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fränkel, Silvia</displayForm>
+                        <namePart type="family">Fränkel</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sellmann-Risse, Daniela</displayForm>
+                        <namePart type="family">Sellmann-Risse</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Wald bietet sich als kostengünstiges und meist relativ einfach zu erreichendes Exkursionsziel mit Schülerinnen und Schülern an. Die Funktionen des Waldes und seiner Bewohner können dabei auf vielfältige Weise thematisiert werden. Der Beitrag zeigt, wie Schülerinnen und Schüler aktiv den Wald entdecken können, indem sie in der Laubstreu nach Tieren suchen und die Bedeutung dieser Tiere als Destruenten für das gesamte Ökosystem kennenlernen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1121</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1121">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1121/1200" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1121">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1121/1216" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_1121">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1121/1217" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1121" DMDID="DMD_biejournals_1121">
+            <mets:fptr FILEID="FILE0_biejournals_1121"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1121" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1121"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1121" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1121"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

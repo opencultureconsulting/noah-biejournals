@@ -1,0 +1,49 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2448">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionalisierung im Fach Deutsch. Eine gesprächsanalytische Rekonstruktion von Erklärungen angehender Grundschullehrkräfte im Hinblick auf die Anwendung schriftsystematischen Wissens</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Professionalization of Prospective German teachers – A Conversation-Analytical Reconstruction of Explanations with Regard to Systematic Writing Knowledge</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herzig, Catherina</displayForm>
+                        <namePart type="family">Herzig</namePart>
+                        <namePart type="given">Catherina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschäftigt sich aus gesprächsanalytischer Perspektive mit der Rekonstruktion von interaktiven Erklärungen in authentischen Situationen basaler Lese-Rechtschreibförderung. In den videographierten Förderstunden wird mit den Grundlagen der silbenanalytischen Methode nach Röber (2009, 2015) gearbeitet. Dabei handelt es sich um ein Konzept, das die Silbe ins Zentrum des Schriftspracherwerbs rückt. Konkret werden zwei Erklärsequenzen gegenübergestellt, in denen Lehramtsstudierende in Einzelfördersituationen mit Zweitklässlern die Unterschiede zwischen offenen und geschlossenen Hauptsilben erarbeiten. Es geht insbesondere darum zu beschreiben, wie die Studierenden die Erklärungen situativ strukturieren und fachlich konturieren. Es wird untersucht, wie sie auf Schülerbeiträge eingehen und wie es ihnen dadurch gelingt bzw. misslingt, den Erklärprozess zu managen und interaktiv Wissen herzustellen. Die Analyse zeigt, dass beide Studierende über das relevante schriftsystematische Wissen und über das Wissen zur didaktischen Aufbereitung des Lerngegenstandes verfügen, ihnen die Einbettung dieses Wissens in den situativen Kontext aber sehr unterschiedlich gelingt. Inwieweit sich diese Erkenntnisse für Konzeptionen und Umsetzungen Forschenden Lernens in der Hochschullehre nutzen lassen, wird abschließend diskutiert.</abstract>
+                    <abstract lang="eng">The contribution deals with the reconstruction of interactive expla-nations in authentic situations of individual reading and spelling promotion from a conversation-analytical perspective. In the videographed classes, the basics of the syllabic analytical method according to Röber (2009, 2015) are worked on. This concept emphasizes the importance of the syllable for the process of written language acquisition. Two explanatory sequences are contrastively analyzed in which student teachers explain the differences between open and closed main syl-lables. It has proved to be important to describe how the students situatively and interactively structure the explanations, and how the subject matter is shaped. It is examined how the student teachers respond to the pupils’ contributions and how they succeed or fail managing the explanation process and producing knowledge interactively. The analysis shows that both students have the relevant knowledge of the German writing system and appropriate didactic knowledge for teaching the learning object. However, they succeed very differently in embedding this knowledge in the situational context. Finally, the extent to which these findings can be used for concepts and implementations of research-based learning in high-er education will be discussed.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2448</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2448">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2448/2450" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2448" DMDID="DMD_biejournals_2448">
+            <mets:fptr FILEID="FILE0_biejournals_2448"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

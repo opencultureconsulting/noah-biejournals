@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1633">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Welche spezifischen professionellen Handlungskompetenzen benötigen Lehrkräfte für die Umsetzung von Bildung für Nachhaltige Entwicklung (BNE)?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hellberg-Rode, Gesine</displayForm>
+                        <namePart type="family">Hellberg-Rode</namePart>
+                        <namePart type="given">Gesine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schrüfer, Gabriele</displayForm>
+                        <namePart type="family">Schrüfer</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-07-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bei der Umsetzung von Bildung für nachhaltige Entwicklung (BNE) wird der LehrerInnenbildung eine zentrale Rolle zugewiesen. Aktuelle Untersuchungen zeigen jedoch, dass eine entsprechende Verankerung des BNE-Konzepts in der universitären Lehrerbildung kaum erkennbar ist. Bislang wurden nur ansatzweise Kompetenzen definiert, über die Lehrkräfte im Kontext von BNE verfügen sollten. Die explorative Studie geht daher der Frage nach, welche Kenntnisse und Fähigkeiten Lehrkräfte für einen BNE-spezifischen Unterricht benötigen und orientiert sich dabei am Modell der professionellen Handlungskompetenz. Methodisch wurde zunächst eine zweistufige Delphi-Studie durchgeführt. Auf dieser Basis wurde ein Fragebogen entwickelt, mit Hilfe dessen die extrahierten Kompetenzen quantitativ überprüft wurden. Im Hinblick auf eine spätere disziplinübergreifende Curriculums-Konstruktion sollten darüber hinaus die BNE-spezifischen Kenntnisse und Fähigkeiten im Sinne der professionellen Handlungskompetenz als „Fachwissen“, „Fachdidaktisches Wissen“ und „Pädagogisches Wissen“ klassifiziert werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1633</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1633">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1633/1575" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1633" DMDID="DMD_biejournals_1633">
+            <mets:fptr FILEID="FILE0_biejournals_1633"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2430">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehrerbildung virtuell integrieren</title>
+                        <subTitle>Implementation und Wirkung eines universitären Informationsportals zu Lehramt und Lehrerbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Integrating Teacher Training Virtually</title>
+                        <subTitle>Developing and Implementing a  University Information Portal for Teaching Studies and Teacher Training</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Garzarella, Andrea</displayForm>
+                        <namePart type="family">Garzarella</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Windscheid, Eike Christoph</displayForm>
+                        <namePart type="family">Windscheid</namePart>
+                        <namePart type="given">Eike Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die universitäre Lehrerbildung weist aufgrund&amp;nbsp; ihrer fachlichen Vielfalt und einer häufig fehlenden Organisation als Fakultät Bedarfe nach Kohärenz&amp;nbsp; auf.&amp;nbsp; Um&amp;nbsp; eine&amp;nbsp; größere&amp;nbsp; Sichtbarkeit&amp;nbsp; und&amp;nbsp; Integration&amp;nbsp; im&amp;nbsp; Rahmen&amp;nbsp; der Lehrerbildung zu erzeugen, wurde mittels eines virtuellen und an die bestehende Internetpräsenz&amp;nbsp; der&amp;nbsp; Universität&amp;nbsp; Bamberg&amp;nbsp; angeschlossenen&amp;nbsp; Portals&amp;nbsp; eine&amp;nbsp; gemeinsame&amp;nbsp; Anlaufstelle&amp;nbsp; und Informationsquelle&amp;nbsp; für&amp;nbsp; Lehramtsstudierende&amp;nbsp; und&amp;nbsp; Lehrerbildner_innen&amp;nbsp; geschaffen.&amp;nbsp; Bislang&amp;nbsp; dezentral&amp;nbsp; verteilte&amp;nbsp; Inhalte&amp;nbsp; rund&amp;nbsp; um&amp;nbsp; Lehrerbildung und Lehramtsstudium wurden gebündelt und zielgruppenspezifisch aufbereitet.&amp;nbsp; Dieser&amp;nbsp; Werkstattbericht&amp;nbsp; schildert&amp;nbsp; die&amp;nbsp; Konzeption&amp;nbsp; und&amp;nbsp; Entwicklung&amp;nbsp; des Info-Portals&amp;nbsp; Lehrerbildung&amp;nbsp; sowie&amp;nbsp; dessen&amp;nbsp; Implementation&amp;nbsp; an&amp;nbsp; der&amp;nbsp; Universität Bamberg.</abstract>
+                    <abstract lang="eng">Regarding&amp;nbsp; its&amp;nbsp; disciplinary&amp;nbsp; variety&amp;nbsp; and&amp;nbsp; a&amp;nbsp; typically&amp;nbsp; missing&amp;nbsp; facultylike organization, coherence of university teacher training is a special is sue. To generate&amp;nbsp; greater visibility and better integration within teacher training, a virtual portal connected to university web pages was built up as a common contact and information&amp;nbsp; point&amp;nbsp; for&amp;nbsp; students&amp;nbsp; and&amp;nbsp; teacher&amp;nbsp; trainers.&amp;nbsp; Content&amp;nbsp; regarding&amp;nbsp; teacher training that was managed peripheral so far has been bunched and worked up target-group-specific.&amp;nbsp; This&amp;nbsp; report&amp;nbsp; delineates&amp;nbsp; conceptualization,&amp;nbsp; development&amp;nbsp; and implementation of the Info-Portal Lehrerbildung at the University of Bamberg.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2430</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2430">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2430/2429" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2430" DMDID="DMD_biejournals_2430">
+            <mets:fptr FILEID="FILE0_biejournals_2430"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,44 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3095">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Complexity of a Murder</title>
+                        <subTitle>Situational Dynamics, Social Relations, and Historical Context</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Naepels, Michel</displayForm>
+                        <namePart type="family">Naepels</namePart>
+                        <namePart type="given">Michel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The aims of this article are to incorporate a historical perspective in a pragmatic description of a violent situation, through a case study of a murder in New Caledonia, and to examine the internal social and political dynamics in a situation where violence takes place. In order to understand the complexity of a singular case, I show that the interactionist study of a situation of violence is improved by a description of segmentary and antagonistic social relations, and their historicity. This research is based on long-term ethnographic fieldwork, and a historical approach in political anthropology. The empirical case of a homicide is drawn from research interviews, and the analysis demonstrates the relevance of an ethnographic description of the social and historical context in order to reconstruct the complexity of the situation, beyond a strictly interactionist approach. In this case, the ambiguity on the macro-structural level of segmentary kinship created occasions for conflict, and the ambiguity of the conversational interaction on the micro-situational level multiplied the probability for violence to take place.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3095</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3095">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3095/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3095" DMDID="DMD_biejournals_3095">
+            <mets:fptr FILEID="FILE0_biejournals_3095"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

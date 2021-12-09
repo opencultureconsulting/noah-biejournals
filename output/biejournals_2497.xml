@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2497">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lässt sich die Reflexionsfähigkeit von angehenden Lehrkräften verändern? Eine Studie zum Beitrag der „Reckahner Reflexionen zur Ethik pädagogischer Beziehungen“ zur Lehrer_innenbildung</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Is the reflecticity of teacher students changeable? A study on the constribution of the Reckahner Refelctions on the Ethics of Pedagogical Releations to teacher education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lambrecht, Jennifer</displayForm>
+                        <namePart type="family">Lambrecht</namePart>
+                        <namePart type="given">Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bosse, Stefanie</displayForm>
+                        <namePart type="family">Bosse</namePart>
+                        <namePart type="given">Stefanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Problematisches Verhalten von Lehrkräften gegenüber Schulkindern ist, so wurde durch empirische Studien gezeigt, kein seltenes Phänomen. Um Lehrkräfte in ihrer Reflexionsfähigkeit in Bezug auf ihr eigenes Verhalten und das von Kolleg_innen zu bestärken, wurden die Reckahner Reflexionen zur Ethik pädagogischer Beziehungen entwickelt. Inwiefern die Reckahner Reflexionen die Reflexionsfähigkeit von angehenden Lehrkräften anregen können, ist eine offene Forschungsfrage. Auf Basis des Modells von Reflexion als Wahrnehmungsfähigkeit wurde mittels eines Prä-Post-Designs anhand von N = 77 Studierenden des Lehramts überprüft, inwiefern eine Auseinandersetzung mit den Reckahner Reflexionen zu einer stärkeren Wahrnehmung verletzenden Lehrkräfteverhaltens führt und ob sich die Einschätzung der Handlungsmöglichkeiten bei verletzendem Lehrkräfteverhalten verändert. Darüber hinaus wurde untersucht, ob die Einschätzung der Intensität des verletzenden Lehrkräfteverhaltens mit der allgemeinen Sensibilität für Ungerechtigkeit und der Einschätzung der Handlungsmöglichkeiten in Zusammenhang stand. Es zeigte sich, dass die Studierenden nach dem Kennenlernen der Reckahner Reflexionen das Lehrkräfteverhalten teilweise verletzender einstuften als zuvor und dass sie die Handlungsmöglichkeiten positiver bewerteten. Des Weiteren zeigten sich Zusammenhänge zwischen der Einschätzung der Intensität des verletzenden Lehrkräfteverhaltens und der Einschätzung der Handlungsmöglichkeiten, aber nicht zwischen der Ungerechtigkeitssensibilität und der Einschätzung des Lehrkräfteverhaltens.</abstract>
+                    <abstract lang="eng">Problematic behavior by teachers towards pupils is not a rare phenomenon as empirical studies have shown (Krumm, Lamberger-Baumann &amp;amp; Haider, 1997; Schubarth &amp;amp; Ulbricht, 2015). To encourage teachers in their capability to reflect their own but also their colleagues’ behavior, the Reckahner Reflections on the Ethics of Pedagogical Relations were developed. It is an open question if the “Reckahner Reflections” can indeed stimulate teachers’ and teacher students’ reflectivity. Based on the model of reflectivity as learning to notice (van Es &amp;amp; Sherin, 2002), we implemented a pre-post design investigating N = 77 teacher students. We tested if the confrontation with the Reckahner Reflections relates to noticing problematic teacher behavior and if the teacher students evaluate possible actions against problematic teacher behavior more positively. Further, we investigated if noticing teacher behavior as more problematic relates to the general sensitivity with regard to unfairness and the evaluation of possible actions. The study revealed that the teacher students noticed the teacher behavior as more problematic after the confrontation with the Reckahner Reflections. Moreover, there were relations between noticing problematic teacher behavior and the evaluation of possible actions, but not to the general sensibility to unfairness.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2497</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2497">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2497/3373" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2497" DMDID="DMD_biejournals_2497">
+            <mets:fptr FILEID="FILE0_biejournals_2497"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

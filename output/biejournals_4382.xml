@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4382">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Unlocking the power of communities to achieve Universal Health Coverage in Africa</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ndejjo, Rawlance</displayForm>
+                        <namePart type="family">Ndejjo</namePart>
+                        <namePart type="given">Rawlance</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Musinguzi, Geofrey</displayForm>
+                        <namePart type="family">Musinguzi</namePart>
+                        <namePart type="given">Geofrey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Musoke, David</displayForm>
+                        <namePart type="family">Musoke</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wanyenze, Rhoda K.</displayForm>
+                        <namePart type="family">Wanyenze</namePart>
+                        <namePart type="given">Rhoda K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Africa is at a critical time undergoing demographic, epidemiological, political and socio-economic transitions and faced with repeated outbreaks of emerging and remerging diseases amidst other broader challenges of climate change, environmental degradation and pollution testing the resilience of its health systems and hindering progress to achieve health for all. Five years into the journey towards Sustainable Development Goals (SDGs), the continent – similar to the rest of the world – has been gripped with the Corona virus disease pandemic that has caused significant morbidity and mortality as well as severely disrupted health systems and the underlying socioeconomic determinants of health. One of the most significant SDG targets is the achievement of Universal Health Coverage (UHC) where all people have access to quality health services they need without inflicting a financial hardship on them. However, progress towards this target has been slow on the continent and requires rethinking the current approaches employed. We argue that Africa’s key strength lies in the communities whose potential should be unlocked to build cost effective and sustainable bottom-up health systems founded on Primary Health Care (PHC). Such systems should be founded on community-based services, designed around individuals, families and the community involving community health workers and other actors, and capitalising on health promotion and disease prevention approaches. A strong community health system should be adequately linked to district, regional and national levels working together to empower and serve populations to make health for all a reality.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4382</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4382">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4382/4280" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4382" DMDID="DMD_biejournals_4382">
+            <mets:fptr FILEID="FILE0_biejournals_4382"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

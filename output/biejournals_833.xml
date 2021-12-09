@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_833">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teaching Civic Education in a Migrating Global Community</title>
+                        <subTitle>How Can Students with a Migration Background Contribute to Didactics and Civic Education Theory?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gessner, Susann</displayForm>
+                        <namePart type="family">Gessner</namePart>
+                        <namePart type="given">Susann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The article enquires about how young migrants perceive and evaluate civic education in school and what expectations they have of the subject.Method: The article is based on a qualitative-oriented research work based on the Grounded Theory; surveys were made by interviews with students.Findings: The article emphasises that educational theorists can learn something from young migrants about the content and construction of civic education in a migrating Global Community.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_833</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_833">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/833/941" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_833" DMDID="DMD_biejournals_833">
+            <mets:fptr FILEID="FILE0_biejournals_833"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

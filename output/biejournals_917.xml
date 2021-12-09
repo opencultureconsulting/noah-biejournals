@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_917">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Diversity and Credibility in Young People’s News Feeds</title>
+                        <subTitle>A Foundation for Teaching and Learning Citizenship in a Digital Era</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nygren, Thomas</displayForm>
+                        <namePart type="family">Nygren</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brounéus, Fredrik</displayForm>
+                        <namePart type="family">Brounéus</namePart>
+                        <namePart type="given">Fredrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Svensson, Göran</displayForm>
+                        <namePart type="family">Svensson</namePart>
+                        <namePart type="given">Göran</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The credibility of digital news is presently a topic of debate, and curricula underline the importance of media literacy. However, the content and credibility of young people’s news feeds have not been investigated in detail in any large-scale studies. Here we explore the nature of news featured in Swedish upper secondary school students’ news feeds, how news is shared, and how credible the news isaccording to the students.
+Approach: Using citizen science and a mixed methods approach we review 2617 news from authentic news feeds.
+Findings: The students’ news feeds primarily contain hard news from established news media. News is predominately found on news domains, not through social media. Soft news is less common and is perceived as less credible. Boys find more sports while girls identify more entertainment and lifestyle news. The news feeds also contain some highly biased political information.
+Research limitations: The study was carried out in Sweden, and further international research on authentic news feeds is needed to view results in relation to society and educational practices.
+Research and practical implications: In education, students’ news feeds can be used to scrutinize credibility and help students navigate towards credible news domains to support democratic engagement.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_917</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_917">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/917/1539" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_917" DMDID="DMD_biejournals_917">
+            <mets:fptr FILEID="FILE0_biejournals_917"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1866">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Developing an implementation strategy for a World Health Organization public health report</title>
+                        <subTitle>The implementation of the International Perspectives on Spinal Cord Injury (IPSCI) in Romania</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Groote, Per M. von</displayForm>
+                        <namePart type="family">Groote</namePart>
+                        <namePart type="given">Per M. von</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Comanescu, Gabi M.</displayForm>
+                        <namePart type="family">Comanescu</namePart>
+                        <namePart type="given">Gabi M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ungureanu, Claudia</displayForm>
+                        <namePart type="family">Ungureanu</namePart>
+                        <namePart type="given">Claudia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bickenbach, Jerome E.</displayForm>
+                        <namePart type="family">Bickenbach</namePart>
+                        <namePart type="given">Jerome E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lavis, John N.</displayForm>
+                        <namePart type="family">Lavis</namePart>
+                        <namePart type="given">John N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">AbstractAim: The World Health Organization (WHO) publishes a large number of health reports every year, containing recommendations to overcome societal and system barrier challenges toward targeting unmet health needs. One such report, the International Perspectives on Spi-nal Cord Injury (IPSCI), specifically describes the situation of persons with spinal cord in-jury. Against this backdrop, the question arises about how these recommendations can be incorporated into an implementation strategy. Therefore, the aim of this paper is to describe a phased process of developing an implementation strategy for a WHO public health report with IPSCI serving as a case example.Methods: The process to develop the implementation strategy consisted of specific phases each employing particular mechanisms. The preparatory phase was composed of a group dis-cussion to select development mechanisms. The implementation strategy development phase comprised focus-group interviews, as well as of a stakeholder dialogue. Thematic content analysis was applied to qualitative data.Results: The group discussion led to selection of specific development mechanisms. The focus group mechanism allowed key stakeholders to openly discuss implementation goals and processesand impacted the selection of the core implementation group members and the focus of the stakeholder dialogue (SD) discussion.The SD was instrumental in developing a specific implementation strategy based on the report‟s recommendations. The strategy con-sisted of a detailed implementation plan, provisions to coordinate an implementation group and expert guidance.Conclusion: The findings from the current study can inform the ongoing development of systematic, evidence-informed, participatory and stakeholder-driven processes for the devel-opment of implementation strategies for recommendations from WHO public health reports.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1866</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1866">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1866/1786" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1866" DMDID="DMD_biejournals_1866">
+            <mets:fptr FILEID="FILE0_biejournals_1866"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

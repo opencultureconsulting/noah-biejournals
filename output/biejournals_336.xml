@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_336">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gender, Time and Biographical Narrative</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leccardi, Carmen</displayForm>
+                        <namePart type="family">Leccardi</namePart>
+                        <namePart type="given">Carmen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">It is a well-known fact that the analysis of the time dimension represents a useful instrument both for charting the complex field of social changes in which we find ourselves, as well as for defining an efficient code for interpretation. In particular, a reflection on time and gender allows us to bring to the foreground relevant dimensions of these changes. By making use of the results of some of the research on young women’s biographic construction, the article aims at highlighting the relationship between gender, the acknowledgment of the multiplicity of human times, and the present restructuring of biographical narratives.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_336</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_336">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/336/333" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_336" DMDID="DMD_biejournals_336">
+            <mets:fptr FILEID="FILE0_biejournals_336"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

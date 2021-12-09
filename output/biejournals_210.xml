@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_210">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lernanlässe und Nutzenaspekte von wissenschaftlicher Weiterbildung. Eine explorative Analyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kollmann, Ulrike</displayForm>
+                        <namePart type="family">Kollmann</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Rahmen einer Masterarbeit wurde der Nutzen von wissenschaftlicher Weiterbildung an der Alice Salomon Hochschule untersucht. Forschungsgegenstand waren die Zertifikatskurse des Zentrums für Weiterbildung, welche im Zeitraum von 2009 bis 2015 abgeschlossen wurden. Die zentralen Fragestellungen lauteten: a) Welche Ziele wurden von den ehemaligen Teilnehmer_innen (retrospektiv) mit ihrer Partizipation an den Zertifikatskursen verbunden? b) Welche Nutzenaspekte ergaben sich hieraus aus subjektiver Perspektive der Teilnehmer_innen? c) Welche Faktoren üben Einfluss auf die Bewertung der Ziele bzw. des Nutzens aus? Das Mixed Method Design umfasste zum einen vier problemzentrierte Interviews mit ehemaligen Teilnehmer_innen und zum anderen eine quantitativ angelegte Online-Befragung aller Personen, welche im angegebenen Zeitraum erfolgreich einen Zertifikatskurs abgeschlossen haben. Bis dato liegen für diesen speziellen Forschungsbereich nahezu keine umfangreichen Studien vor, auch fällt die empirische Erkenntnisdichte bezüglich des Nutzens von Weiterbildung allgemein eher gering aus bzw. beschränkt sich auf eine eher instrumentelle Auslegung des Nutzens. Mit der Masterarbeit wurde ein empirischer Beitrag zu diesem Thema angestrebt. Ein zentrales Ergebnis dieser Arbeit ist die herausgestellte Funktion der wissenschaftlichen Weiterbildung als Professionalisierungsinstanz von Berufspraktiker_innen der sozialen Bereiche. Im Kontext der bedingenden Arbeitsmarktstrukturen mündete die Partizipation an wissenschaftlicher&amp;nbsp; Weiterbildung hingegen deutlich seltener in einen beruflichen Aufstieg oder in eine monetäre Verbesserung für die ehemaligen Teilnehmer_innen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_210</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_210">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/210/199" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_210" DMDID="DMD_biejournals_210">
+            <mets:fptr FILEID="FILE0_biejournals_210"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

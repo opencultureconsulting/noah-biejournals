@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1106">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Die Beurteilung, die müsst ihr nachvollziehen, die kann ich euch nicht aufdrücken“</title>
+                        <subTitle>Beobachtungen und Einblicke in die Leistungsbewertungspraxis am Oberstufen-Kolleg Bielefeld</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fiedler-Ebke, Wiebke</displayForm>
+                        <namePart type="family">Fiedler-Ebke</namePart>
+                        <namePart type="given">Wiebke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Oberstufen-Kolleg Bielefeld hat als Versuchsschule den Auftrag, innovative Konzepte des Unterrichtens und Lernens zu entwickeln und zu erforschen. Dies beinhaltet auch alternative Formen der Leistungserhebung, -bewertung und -rückmeldung. Ein sichtbarer Ausdruck dieser alternativen Praxis ist die Notenfreiheit in der elften Jahrgangsstufe (Eingangsphase) des Oberstufen-Kollegs, die u.a. eine größere Freiheit der Lehrkräfte bei der Auswahl und Gestaltung von Leistungsnachweisen ermöglichen soll. In diesem Artikel werden Daten eines Projekts beleuchtet, das sich in den knapp drei Jahren seiner Laufzeit mit Leistungsnachweisen in der Eingangsphase des Oberstufen-Kollegs befasst und hierbei neben der Praxis im Schulalltag insbesondere die ihnen zugeschriebenen Funktionen und angenommenen Funktionalitäten in den Fokus genommen hat. Es werden zunächst Problemstellungen aufgezeigt, die sich durch neue Akteure und neue Anforderungen im Zusammenhang mit der Bewertung von Leistung in Schulen in den letzten Jahrzehnten ergeben haben. Anschließend werden die pädagogische Praxis am Oberstufen-Kolleg, ihre historisch bedingten Besonderheiten sowie das Forschungs- und Entwicklungsprojekt Funktionen und Funktionalität von Leistungsnachweisen in der gymnasialen Oberstufe vorgestellt. Die Beiträge von Lehrkräften in einer Gruppendiskussion im Rahmen dieses Projekts werden schließlich mit Blick auf den Umgang mit dem Legitimationsdruck, insbesondere bei unüblichen Bewertungspraxen, das Vorhandensein schulformspezifischer Leistungskonzepte, die Nutzung von Freiheiten und Spielräumen sowie die Auseinandersetzung mit der Schulkultur betrachtet. Die Schlussfolgerungen greifen den spezifischen Umgang des Oberstufen-Kollegs mit Aspekten der Leistungsbewertung auf und verweisen auf das Potenzial der Beforschung der eigenen Schulpraxis, auch für andere Schulen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1106</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1106">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1106/1187" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1106" DMDID="DMD_biejournals_1106">
+            <mets:fptr FILEID="FILE0_biejournals_1106"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

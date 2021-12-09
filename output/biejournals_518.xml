@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_518">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Didactic Reconstruction of the Financial and Economic Crisis</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schuhen, Michael</displayForm>
+                        <namePart type="family">Schuhen</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-08-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Theoretical approaches to constructivism have put learner autonomy into the spotlight of didactic discourse. Apart from the matter of pedagogic actions on how (constructivisticly) organised education might be arranged, this paper focuses on the perspective of didactic reconstruction. Thus, an observation-based research perspective is being adopted in this paper. The epistemic beliefs that have emerged over the course of the global financial and economic depression are reconstructed. The goal of the paper is to provide an insight into these different interpretations. In order to do this, university students were surveyed regarding this topic and the results of this qualitative study on these epistemic beliefs will be represented in this article. The paper tries to give answers on how students, who have been experiencing the financial and economic depression for nearly three years now, define its causes and what subsequent actions they would recommend. The results show that the main issue is not misinterpretation of political and economic knowledge but rather incomplete constructs based on only approximate knowledge.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_518</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_518">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/518/515" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_518" DMDID="DMD_biejournals_518">
+            <mets:fptr FILEID="FILE0_biejournals_518"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

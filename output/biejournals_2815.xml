@@ -1,0 +1,119 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2815">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Shadow of the Italian Colonial Experience</title>
+                        <subTitle>The Impact of Collective Emotions on Intentions to Help the Victims’ Descendants</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mari, Silvia</displayForm>
+                        <namePart type="family">Mari</namePart>
+                        <namePart type="given">Silvia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Andrighetto, Luca</displayForm>
+                        <namePart type="family">Andrighetto</namePart>
+                        <namePart type="given">Luca</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gabbiadini, Alessandro</displayForm>
+                        <namePart type="family">Gabbiadini</namePart>
+                        <namePart type="given">Alessandro</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Durante, Federica</displayForm>
+                        <namePart type="family">Durante</namePart>
+                        <namePart type="given">Federica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Volpato, Chiara</displayForm>
+                        <namePart type="family">Volpato</namePart>
+                        <namePart type="given">Chiara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-05-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Recalling the Italian colonial experience elicits the collective emotions of guilt, shame, and ingroup-focused anger. We expected that these emotions would predict different reparation intentions in favor of the colonized populations&apos; descendants. Students and non-students were recruited (N = 152) and asked to rate their emotions of collective guilt, shame, and anger for the violence that their ingroup had perpetrated against colonized people. Results showed that shame affected intentions to provide economic compensation to current inhabitants of the ex-colonies. This relationship was mediated by concerns of damage for the ingroup&apos;s image. Anger toward the ingroup predicted intentions to help immigrants from the ex-colonies now living in Italy. Interestingly, empathy toward the outgroup mediated the latter relation. Finally, collective guilt was not reliably associated with any reparation strategy. These findings have implications for theory and for the historical collective memory of Italian colonialism.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2815</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2815">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2815/pdf_16" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_2815">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2815/2585" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_2815">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2815/2586" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE3_biejournals_2815">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2815/2587" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE4_biejournals_2815">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2815/2588" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE5_biejournals_2815">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2815/2589" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2815" DMDID="DMD_biejournals_2815">
+            <mets:fptr FILEID="FILE0_biejournals_2815"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2815" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2815"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_2815" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_2815"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_2815" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_2815"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_2815" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_2815"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_2815" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_2815"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

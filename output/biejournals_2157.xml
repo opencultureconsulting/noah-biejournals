@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2157">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Hauptsache, die Chemie stimmt. Vom Verschwinden des Widerstandes und der Abstinenz</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidbauer, Wolfgang</displayForm>
+                        <namePart type="family">Schmidbauer</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Rede von der Chemie, die stimmen muss, begleitet heute die Auswahl von Führungskräften, aber auch von Beratern und Therapeuten. Entweder ist die Beziehung die richtige, oder man lässt sie lieber. Auch Berater werden in einer Art Casting gesucht, für das manche Einrichtungen ein Drittel der insgesamt für Supervision oder Teamentwicklung vorgesehenen Mittel einzusetzen pflegen. Was in dieser Sehnsucht nach symbiotischer Erfüllung verloren geht, ist die Arbeit am Widerstand. Ich habe manchmal den Eindruck, dass auch psychoanalytisch orientierte Helfer nicht mehr von diesem Konzept überzeugt sind. Wenn etwas verschwindet, heißt das keineswegs, dass es nicht mehr da ist. Es haben sich nur Gründe ergeben, Aufmerksamkeit ab zu ziehen, ein Konzept zu ignorieren, das einmal als wesentlich und fortschrittlich galt. In der Supervision ebenso wie in der (analytischen) Psychotherapie, ihrer älteren Stiefschwester, ist das Modell des Widerstandes ebenso wie das der Abstinenz (vor allem in ihrer Gestalt als Enthaltung von Suggestionen) mehr und mehr verloren gegangen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2157</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2157">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2157/2024" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2157" DMDID="DMD_biejournals_2157">
+            <mets:fptr FILEID="FILE0_biejournals_2157"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

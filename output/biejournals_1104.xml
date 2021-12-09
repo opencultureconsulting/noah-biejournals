@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1104">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Diversität, Leistung und Inklusion – eine Einführung in den Themenschwerpunkt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klewin, Gabriele</displayForm>
+                        <namePart type="family">Klewin</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im vorliegenden Beitrag wird aufgezeigt, dass die Phänomene Diversität, Leistung und Inklusion seit der Gründung des Oberstufen-Kollegs zentrale Topoi für die Forschungs- und Entwicklungsarbeit der Versuchsschule darstellen. Auch wenn sich die Terminologie in den letzten Jahrzehnten gewandelt hat, so hält die Beschäftigung mit diesen Phänomenen an. Die im Jahrbuch enthaltenen Beiträge werden entsprechend vor diesem Hintergrund mit Blick auf die Entwicklungen der Versuchsschule und ihrer Wissenschaftlichen Einrichtung Oberstufen-Kolleg kommentiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1104</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1104">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/1104/1188" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1104" DMDID="DMD_biejournals_1104">
+            <mets:fptr FILEID="FILE0_biejournals_1104"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

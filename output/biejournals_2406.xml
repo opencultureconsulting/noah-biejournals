@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2406">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen in Studienprojekten im Fach Sport an der WWU Münster</title>
+                        <subTitle>Bestandsaufnahme und seminardidaktische Konsequenzen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Inquiry-based Learning in Pre-Service Physical-EducationTeacher Education during Student Teaching</title>
+                        <subTitle>Evaluation of Students’ Inquiry-based Projects in Physical Education and Didactic Consequences</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nocon-Stoffers, Renate Anna</displayForm>
+                        <namePart type="family">Nocon-Stoffers</namePart>
+                        <namePart type="given">Renate Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der Ausbildungsregion Münster realisieren die Studierenden im Praxissemester drei Studienprojekte. Laut Orientierungsrahmen (Steuergruppe, 2014, S. 8) sollen sie Studierenden ermöglichen, „eigene Fragestellungen im Sinne des Forschenden Lernens zu entwickeln und ihnen im Rahmen des Praxissemesters eigenständig nachzugehen.“ Studienprojekte dienen der fachlichen, fachdidaktischen und unterrichtsmethodischen Kompetenzerweiterung sowie der professionellen Selbsterkundung der Studierenden. Seit Einführung des Praxissemesters im WS 2014/15 wurden 254 Studienprojekte an der WWU Münster im Fach Sport betreut und durchgeführt. Ziel des Beitrages ist es, diese Projekte genauer in den Blick zu nehmen, um Schlussfolgerungen für vorbereitende Lehrveranstaltungen zu ziehen und diese ggf. weiterentwickeln zu können. Im ersten Teil des Beitrags werden die Studienprojekte hinsichtlich der bearbeiteten Themen und forschungsmethodischen Zugänge ausgewertet und mit dem Rahmenthema des Vorbereitungsseminars verglichen. Zudem wird dargestellt, wie häufig Unterrichtsvorhaben und Studienprojekte miteinander verbunden werden. Auf Grundlage der Übersicht wird im zweiten Teil der Frage nachgegangen, inwiefern Indikatoren für Forschendes Lernen in den Studienprojekten identifiziert werden können. Dabei wird von der Annahme ausgegangen, dass Forschendes Lernen über die pragmatische Anwendung von Forschungsmethoden hinausgeht und sich erst in einer tiefgehenden, professionalisierungssensiblen Reflexionsleistung zeigt. Aus der Bilanzierung Forschenden Lernens in Studienprojekten werden Überlegungen zur Weiterentwicklung der vorbereitenden Veranstaltungsformate insbesondere hinsichtlich der Förderung Forschenden Lernens aufgezeigt.&amp;nbsp;</abstract>
+                    <abstract lang="eng">At the University of Münster, three inquiry-based projects are required during the pre-service teacher education practicum (cf. Steuergruppe,2014). According to these requirements students are expected to develop their own research questions – an aspect considered substantial in the concept of inquiry-based learning – and to complete their inquiry-based projects during the field practicum. The purpose of these projects is to enhance the students’ competences and professional self-investigation by relating and connecting theory and practice. Since the introduction of the field practicum in teacher education in the winter semester of 2014/15, 254 inquiry-based projects have been mentored at the University of Münster in physical education. The purpose of this study is to analyse these projects to draw conclusions for preparatory classes and to promote inquiry-based learning. In the first part of the article, the inquiry-based projects are analysed with regard to the students’ thematic preferences and research methods. Moreover, these themes are compared to the topics of the preparatory course. In addition, the que stion is addressed as to whether or not the inquiry-based projects are connected to the students’ own teaching projects. In the second part of the paper, the author attempts to identify the presence and type of indicators of inquiry-based learning in the students’ projects. The basic hypothesis is that inquiry-based learning is more than a pragmatic application of research methods and that it shows a profound and sensitive reflection on the learning experiences. The evaluation of inquiry-based learning as reflected in these projects is intended to enrich and improve preparatory classes, inquiry-based learning arrangements and finally the students’ appreciation of inquiry-based learning in physical-education teacher education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2406</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2406">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2406/2402" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2406" DMDID="DMD_biejournals_2406">
+            <mets:fptr FILEID="FILE0_biejournals_2406"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

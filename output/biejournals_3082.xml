@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3082">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Gender Perspective on State Support for Crime Victims in Switzerland</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kersten, Anne</displayForm>
+                        <namePart type="family">Kersten</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Budowski, Monica</displayForm>
+                        <namePart type="family">Budowski</namePart>
+                        <namePart type="given">Monica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-10-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Violence causes physical and mental harm to others, and victims must find ways of coping with their injuries. Since the middle of the 20th century, the effects of violence and crime on the victim have become an increasingly important topic in politics and society. Many countries in the industrialised world have enacted programmes and laws designed to uphold the needs and rights of victims. Such steps were taken, e.g., in New Zealand in 1963, in the UK in 1964 and in Germany in 1976. The Swiss Victims of Crime Act (VCA) has been in place since 1993. It guarantees free legal, medical, psychological and social counselling, as well as some financial compensation for victims of violent crime. Comparatively, it is presently one of the most encompassing laws applied with regards to victim support legislation. It stipulates that victims of violence are to be offered quick and efficient support in specialised, state-subsidised counselling centres. This paper applies a gender perspective to the field of criminology and victim support to unpack the paradox, that according to the statistics men experience violence acts more often than women, yet receive support less often through Swiss victim support counselling centres.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3082</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3082">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3082/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3082">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3082/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE2_biejournals_3082">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3082/mobi" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3082" DMDID="DMD_biejournals_3082">
+            <mets:fptr FILEID="FILE0_biejournals_3082"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3082" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3082"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3082" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3082"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

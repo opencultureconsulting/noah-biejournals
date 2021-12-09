@@ -1,0 +1,60 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1199">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Haie</title>
+                        <subTitle>Ein Jäger wird zum Gejagten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Nolding, Jana</displayForm>
+                        <namePart type="family">Nolding</namePart>
+                        <namePart type="given">Jana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Beitrag gibt einen kurzen Überblick über die Biologie der Haie. Aufgrund der gestiegenen Nachfrage nach Haiprodukten, vor allem Flossen, ist diese sehr alte Tiergruppe akut vom Aussterben bedroht. Das Thema wird, unter besonderer Berücksichtigung des Finnings, für Ökologiekurse der Oberstufe aufgearbeitet.
+Wir möchten außerdem  Gerhard Wegner sowie dem Fotografen und Entwickler der WHALEGUIDE App Ralf Kiefner für das zur Verfügung stellen ihrer Fotos danken.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1199</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1199">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1199/1277" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1199">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1199/1279" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1199" DMDID="DMD_biejournals_1199">
+            <mets:fptr FILEID="FILE0_biejournals_1199"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1199" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1199"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

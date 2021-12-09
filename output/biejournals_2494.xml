@@ -1,0 +1,57 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2494">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Nutzung von Schülerrückmeldungen im Praxissemester – ein Forschungskonzept zur Förderung von Reflexivität</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Use of student feedback in practical term - a research concept to promote reflexivity</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neuber, Katharina</displayForm>
+                        <namePart type="family">Neuber</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Göbel, Kerstin</displayForm>
+                        <namePart type="family">Göbel</namePart>
+                        <namePart type="given">Kerstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Praxissemester im Lehramtsstudium weist ein hohes Potenzial für die Förderung von Reflexivität auf und bietet damit die Gelegenheit, systematische Angebote zur Unterrichtsreflexion empirisch zu erforschen. Als unterrichtsbezogene Reflexionsanregung können Lehramtsstudierende im Praxissemester auch die Unterrichtsrückmeldungen der Schülerschaft nutzen, welche sich in der Unterrichtsforschung als valide Informationsquelle für die Unterrichtsqualität erwiesen haben. Obwohl Rückmeldungen der Lernenden für die professionelle Entwicklung der Studierenden hilfreich sein können, werden Schülerrückmeldungen in aktuellen Studien kaum berücksichtigt. Der Beitrag stellt konzeptionelle Grundlagen einer schülerrückmeldungsgestützten Reflexion von Unterricht sowie empirische Befunde eines Forschungsprojekts zur Nutzung dieser Reflexionsformate durch Lehramtsstudierende im Praxissemester vor. Die Schülerrückmeldungsnutzung wird insgesamt von den Untersuchungsteilnehmenden positiv bewertet; die Nutzung wird jedoch durch unterschiedliche Bedingungen beeinflusst. Neben dem zeitlichen und organisatorischen Aufwand des Rückmeldungseinsatzes scheint auch das Reflexionsformat bedeutsam zu sein. Für die Reflexion der Rückmeldungen werden kollegiale Reflexionsformate als hilfreicher eingeschätzt als individuelle Formate. Weiterhin spielt der Informationsgehalt der Rückmeldungen der Lernenden für den Ertrag der Unterrichtsreflexion eine wichtige Rolle. Die Befunde verdeutlichen die Relevanz einer konzeptionellen Weiterentwicklung der im Projekt entwickelten Reflexionsinstrumente und liefern wichtige Hinweise für die Entwicklung schülerrückmeldungsgestützter Reflexionsangebote, die sowohl in der Lehrpersonenausbildung als auch im Lehrerberuf eingesetzt werden können.</abstract>
+                    <abstract lang="eng">: During practical terms in teacher education different opportunities for reflection of teaching are usually provided. In order to encourage teaching-related reflections, pre-service teachers can also make use of student feedback during their practical term. Recent studies have confirmed the reliability and validity of students’ perceptions of teaching. However, the potential of students’ feedback for pre-service teachers’ reflections and professional development in practical terms has hardly been investigated so far. The following article presents results of a quasi-experimental study which aims at analyzing pre-service teachers’ reflections on student feedback to their instruction during practical term. The descriptive findings indicate a generally positive attitude of 87 pre-service teachers towards the use of student feedback during their practical term. The findings further demonstrate the relevance of time resources and organizational effort for the use of feedback-based reflection settings. Moreover, pre-service teachers evaluate collegial reflection settings as being more helpful for the reflection of student feedback than individual settings. Furthermore, the content of student feedback plays an important role in the yield of lesson reflection. All in all, the findings hint at the necessity of further development of prompts and settings for a feedback-based reflection during practical term in teacher education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2494</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2494">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2494/3374" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2494" DMDID="DMD_biejournals_2494">
+            <mets:fptr FILEID="FILE0_biejournals_2494"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

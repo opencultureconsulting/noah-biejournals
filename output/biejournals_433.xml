@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_433">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Model of Organised Hypocrisy Applied to Romanian Civic Education Policies and Practices</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rus, Calin</displayForm>
+                        <namePart type="family">Rus</namePart>
+                        <namePart type="given">Calin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-12-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Behind an apparently positive image, civic education in Romania proves to be an excellent illustration of “organised hypocrisy” (Brunsson, 2002). At a closer look, it becomes obvious that policy decisions related to civic education are isolated responses to various, and often contradictory, pressures from inside and from outside Romania, and that there is a huge gap between policy statements and the school practice, where civic education has a low status and where classical, directive and knowledge-focused pedagogical methods are still widely used.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_433</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_433">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/433/430" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_433" DMDID="DMD_biejournals_433">
+            <mets:fptr FILEID="FILE0_biejournals_433"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

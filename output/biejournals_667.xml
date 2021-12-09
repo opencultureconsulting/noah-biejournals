@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_667">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Impact of Civic Education on the Citizenship of Romanian Youth</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Colceru, Emilian</displayForm>
+                        <namePart type="family">Colceru</namePart>
+                        <namePart type="given">Emilian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-08-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper discusses the contribution of the public system of citizenship education to the development of civic attitudes of the youth in post-communist Romania. As one of the goals of the state is to create “good citizens”, there is a discipline called Civic culture in the compulsory system of education. However, the fact that the discipline lacks consistency determines young people not to manifest the desired civic attitudes, as shown in public surveys targeted on youth. Therefore, the paper discusses the failure of the state to develop “good citizenship” through citizenship education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_667</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_667">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/667/712" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_667" DMDID="DMD_biejournals_667">
+            <mets:fptr FILEID="FILE0_biejournals_667"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

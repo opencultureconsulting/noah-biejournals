@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1625">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Thermoregulation und Temperaturschwankungen – zum Umgang mit Fachbegriffen im Ökologieunterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Humar, Marcel</displayForm>
+                        <namePart type="family">Humar</namePart>
+                        <namePart type="given">Marcel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Verständnis der Terminologie einer Naturwissenschaft ist essentiell für eine erfolgreiche Teilnahme am Unterricht. Fachspezifische Begriffe sollen dabei nicht additiv, sondern am konkreten Fall gelernt werden. Der vorliegende Beitrag gibt zunächst eine problemorientierte Übersicht über Aufgaben und Lösungsvorschläge zu dem Phänomen der Thermoregulation bei Lebewesen und zeigt, wie uneinheitlich die dabei verwendeten Fachbegriffe homoiotherm/poikilotherm bzw. endo- und ektotherm in verschiedenen Lehrbüchern und Lehrmaterial präsentiert werden. Daran anschließend wird kurz diskutiert, unter welchen Bedingungen diese Begriffe im Unterricht eingeführt werden sollten und wobei es darauf zu achten gilt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1625</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1625">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1625/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1625" DMDID="DMD_biejournals_1625">
+            <mets:fptr FILEID="FILE0_biejournals_1625"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

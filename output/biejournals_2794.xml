@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2794">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violence as Situational Action</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wikström, Per-Olof H.</displayForm>
+                        <namePart type="family">Wikström</namePart>
+                        <namePart type="given">Per-Olof H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Treiber, Kyle H.</displayForm>
+                        <namePart type="family">Treiber</namePart>
+                        <namePart type="given">Kyle H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Violence comes in many forms and occurs in many different circumstances for many different reasons. Is it really possible to develop a single theory that can explain all these disparate acts? In this paper, we argue it is. We make the case that acts of violence are essentially moral actions and therefore can, and should, be analysed and explained as such. We maintain that all acts of violence can be explained within the general framework of a theory of moral action. We present just such a theory – Situational Action Theory – and demonstrate how it can be applied to the explanation and study of violence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2794</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2794">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2794/2555" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2794" DMDID="DMD_biejournals_2794">
+            <mets:fptr FILEID="FILE0_biejournals_2794"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

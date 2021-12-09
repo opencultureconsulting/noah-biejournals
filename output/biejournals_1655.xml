@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1655">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>Analyse von Biologie-Schulbüchern - unter besonderer Berücksichtigung des Experimentierens mit Pflanzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Aufdermauer, Anke</displayForm>
+                        <namePart type="family">Aufdermauer</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hesse, Manfred</displayForm>
+                        <namePart type="family">Hesse</namePart>
+                        <namePart type="given">Manfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-04-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">31</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Eine knappe Erläuterung zum Untersuchungsgegenstand „Schulbuch“ und „Experiment“ und zur wissenschaftlichen Schulbuchforschung dient als theoretischer Hintergrund für die Schulbuchanalyse. Ausgewählt wurden hierzu die aktuellen nordrhein-westfälischen Schulbücher für die fünfte und sechste Jahrgangsstufe der Hauptschule. Es wird ein eigenständig entwickeltes Analyseschema vorgestellt, welches Kriterien zur Charakterisierung und Beurteilung der Bücher enthält und als Vorschlag für eine Schulbuchanalyse durch Lehrer verstanden wird. Die Ergebnisse der Schulbuchanalyse und des Schulbuchvergleichs werden diskutiert. Die Durchführung einer Meinungsbefragung von Schülern bezüglich Schulbüchern und Versuchen wird in diesem Heft gesondert vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1655</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1655">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1655/1601" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1655" DMDID="DMD_biejournals_1655">
+            <mets:fptr FILEID="FILE0_biejournals_1655"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

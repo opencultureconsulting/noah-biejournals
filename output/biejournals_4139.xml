@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4139">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Informationsdreieck?“</title>
+                        <subTitle>Zum Verhältnis zwischen Lehrkräften, Familie und Schulbegleitungen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gasterstädt, Julia</displayForm>
+                        <namePart type="family">Gasterstädt</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Strecker, Alica</displayForm>
+                        <namePart type="family">Strecker</namePart>
+                        <namePart type="given">Alica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Urban, Michael</displayForm>
+                        <namePart type="family">Urban</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolf, Juliane</displayForm>
+                        <namePart type="family">Wolf</namePart>
+                        <namePart type="given">Juliane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Zusammenarbeit zwischen Familie und Schule wird einerseits eine hohe Bedeutung für den Schulerfolg, andererseits aber auch für die Reproduktion sozialer Ungleichheit zugemessen. Im Kontext inklusiver Schulentwicklungsprozesse wird die Entwicklung einer heterogenitätssensiblen Elternarbeit im Anschluss an Konzepte wie die Erziehungs- und Bildungspartnerschaften gefordert. Der Beitrag stellt empirisches Material als Anlass zur expliziten Auseinandersetzung mit Erwartungen, Vorbehalten und Positionen von Seminarteilnehmer*innen im Kontext von Aus-, Weiter- und Fortbildungsveranstaltungen zu Elternarbeit bereit. Dabei wird auch die Akteursgruppe der Schulbegleitungen berücksichtigt, die häufig zwischen Schule und Familie steht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4139</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4139">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4139/4131" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4139">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4139/4132" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4139" DMDID="DMD_biejournals_4139">
+            <mets:fptr FILEID="FILE0_biejournals_4139"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4139" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4139"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

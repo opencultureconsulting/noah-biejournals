@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2268">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fallsupervision als hermeneutische Methode - eine Würdigung der Fallanalyse von Fritz Schütze. Zusammenfassung des Festvortrages anlässlich des fünfjährigen Bestehens des Masterstudiengangs Supervision und Beratung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schütze, Fritz</displayForm>
+                        <namePart type="family">Schütze</namePart>
+                        <namePart type="given">Fritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Beitrag widmet sich der Forschungsleistung von Fritz Schütze zum Verstehen von Fällen und diskutiert die Bedeutung für ein Format der Fallsupervision. Schütze entwickelte ein Konzept der Fallanalyse, in dessen Mittelpunkt der Zugang quasi zur Natur des professionellen Handelns als ein von der Klientenakte geleitetes Handeln steht. Dazu wird das Bild vom Fall, der in der Akte verschwindet, benutzt. Dieser Handlungstypus wird mit Rechtsstaatlichkeit oder Sachlichkeit begründet, ist aber eigentlich eine formalistische und reduzierende Strategie. Entsprechend werden Störungen produziert, da Klienten diese Reduktion nicht akzeptieren. Diskutiert wird auch, dass die Fallsupervision als Prozess der Verlebendigung Wege aus den Stereotypen aufzeigen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2268</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2268">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2268/2213" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2268">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2268/2214" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2268" DMDID="DMD_biejournals_2268">
+            <mets:fptr FILEID="FILE0_biejournals_2268"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2268" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2268"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2385">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Modellierung und Analyse komplexer Alltagsphänomene</title>
+                        <subTitle>Ein Seminarkonzept zum Umgang mit digitalen Werkzeugen im Physikunterricht</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Modelling Complex Everyday Phenomena</title>
+                        <subTitle>A Seminar Concept for Dealing with Digital Tools in Physics Instruction</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vogelsang, Christoph</displayForm>
+                        <namePart type="family">Vogelsang</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Szabone Varnai, Agnes</displayForm>
+                        <namePart type="family">Szabone Varnai</namePart>
+                        <namePart type="given">Agnes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">26</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zuge der wachsenden Digitalisierung von allen Aspekten der Schule wandeln sich auch die Anforderungen an die Unterrichtsgestaltung. Auch angehende Physiklehrkräfte sollten schon in der ersten Ausbildungsphase auf diese Anforderungen vorbereitet werden. Hierzu müssen sie Kompetenzen insbesondere zum Einsatz spezifischer digitaler Medien für das Lehren und Lernen von Physik erwerben. Um dies zu ermöglichen, wurde an der Universität Paderborn das Seminarkonzept MORPH entwickeln und erprobt. Dabei handelt es sich um einen fachdidaktischen Projektkurs, der den Nutzen digitaler Werkzeuge für das naturwissenschaftliche Arbeiten betont. Als zentrale Lernaktivitäten nutzen die Teilnehmenden digitale Werkzeuge, um physikalische Alltagsphänomene experimentell zu analysieren und zu modellieren. Neben einer Beschreibung didaktischer Hintergründe des Konzepts und einer konkreten Umsetzung berichtet der Beitrag zudem die Ergebnisse einer Evaluation der ersten beiden Erprobungen. Dabei stellte sich heraus, dass die Studierenden zwar die angestrebten Fähigkeiten zum Umgang mit digitalen Werkzeugen erwerben, sie aber für eine Nutzung digitaler Medien in ihrer späteren Unterrichtstätigkeiteher weniger motiviert werden konnten.</abstract>
+                    <abstract lang="eng">Given the growing digitalization of all aspects of school, prospective physics teachers need to learn how to integrate digital learning technologies into their instruction, preferably already during their initial studies. In order to achieve this goal, the seminar concept MORPH was developed and tested at the University of Paderborn. MORPH is a project course, which emphasizes the use of digital tools for scientific work in the classroom. As central learning activities, the participants use digital tools to experimentally analyze and model physical everyday phenomena. In addition to a description of the theoretical background of the course and a concrete implementation, we also report the results of an evaluation of the first two trials. It turned out that although the students acquire the desired skills for handling digital tools, motivation to use digital media in their later teaching activities could hardly be increased.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2385</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2385">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2385/2375" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2385" DMDID="DMD_biejournals_2385">
+            <mets:fptr FILEID="FILE0_biejournals_2385"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

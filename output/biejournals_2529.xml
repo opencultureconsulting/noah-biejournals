@@ -1,0 +1,104 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2529">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Fachspezifische Lerngelegenheiten zum Thema Inklusion an der Leuphana Universität Lüneburg</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Subject-specific learning opportunities on inclusion at the Leuphana University of Lüneburg</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Greve, Steffen</displayForm>
+                        <namePart type="family">Greve</namePart>
+                        <namePart type="given">Steffen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Troll, Bianka</displayForm>
+                        <namePart type="family">Troll</namePart>
+                        <namePart type="given">Bianka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Egger, Daniela</displayForm>
+                        <namePart type="family">Egger</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Besser, Michael</displayForm>
+                        <namePart type="family">Besser</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abels, Simone</displayForm>
+                        <namePart type="family">Abels</namePart>
+                        <namePart type="given">Simone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ahlers, Michael</displayForm>
+                        <namePart type="family">Ahlers</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Leiss, Dominik</displayForm>
+                        <namePart type="family">Leiss</namePart>
+                        <namePart type="given">Dominik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Süßenbach, Jessica</displayForm>
+                        <namePart type="family">Süßenbach</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Umgang mit Inklusion im Kontext von Schule ist als zentrale Herausforderung des deutschen Bildungssystems zu verstehen. An der Leuphana Universität Lüneburg wurden im Rahmen eines Lehrentwicklungsprojekts mehrere Veranstaltungen zu dieser Thematik entworfen und durchgeführt. Dies wurde im Verbund von vier Fachdidaktiken (Mathematik, Naturwissenschaften, Sport, Musik) und Vertreter*innen aus den Bildungswissenschaften realisiert. Die Wissenschaftler*innen organisierten dazu Planungs- und Projekttreffen während der gesamten Laufzeit des Projekts. Die Veranstaltungen führte jedes Fach in Kooperation mit einer Lehrperson aus der Praxis durch: Lehrer*innen, die im Kontext von Heterogenität in der Schule über Erfahrung verfügen, gestalteten die Seminare und Vorlesungen mit den Wissenschaftler*innen gemeinsam. Die Studierenden konnten auf diesem Wege von den Erfahrungen aus Theorie und (Schul-) Praxis profitieren, anhand von authentischen Unterrichtsmaterialien lernen und einen Einblick in die Anforderungen ihrer zukünftigen Tätigkeiten bekommen. Der fächerübergreifende Austausch und die verschiedenen Kooperationen zwischen Lehrkräften und universitären Dozent*innen wurden von allen Beteiligten als überaus gewinnbringend beschrieben. Im Beitrag werden die einzelnen Veranstaltungen dezidiert beschrieben und reflektiert. Dazu folgt eine Reflexion des gemeinsamen Vorgehens im Lehrentwicklungsprojekt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2529</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2529">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2529/3859" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2529" DMDID="DMD_biejournals_2529">
+            <mets:fptr FILEID="FILE0_biejournals_2529"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

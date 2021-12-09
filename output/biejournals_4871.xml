@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4871">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Eine </nonSort>
+                        <title>neue Partnerschaft mit Vögeln in der Neuen Welt</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sander, Johannes</displayForm>
+                        <namePart type="family">Sander</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Fingerhut, eine attraktive, auch bei uns heimische Schlagflurpflanze, ist nach seiner Einführung in Mittel- und Südamerika eine neue Partnerschaft mit Vögeln als Bestäuber eingegangen. Innerhalb weniger Jahrzehnte hat dies zu morphologischen Anpassungen geführt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4871</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4871">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4871/4555" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4871" DMDID="DMD_biejournals_4871">
+            <mets:fptr FILEID="FILE0_biejournals_4871"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

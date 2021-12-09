@@ -1,0 +1,49 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1583">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>A </nonSort>
+                        <title>Yhteiskuntaoppi</title>
+                        <subTitle>Social studies in Finland. A country report</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Löfström, Jan</displayForm>
+                        <namePart type="family">Löfström</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This country report aims to provide a view of the current state and recent developments of the school subject social studies in Finland.
+Approach: This report draws from research in social studies education that has been done in Finland in the last 20 years, and it also presents selected highlights from the national core curricula and the matriculation exam.
+Findings: Social studies has recently got the status of independent school subject and it has got more teaching resources which suggests decision-makers consider it important. It does not have a clear epistemological homebase, as school subjects like history or physics, for example, which poses challenges when defining what kind of academic studies are the most pertinent to a social studies teacher, for example</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1583</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1583">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1583/3293" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1583" DMDID="DMD_biejournals_1583">
+            <mets:fptr FILEID="FILE0_biejournals_1583"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

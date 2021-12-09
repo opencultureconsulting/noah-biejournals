@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4384">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Innovative Strategies to Strengthen Health Service Delivery for Universal Health Coverage in Africa – A Scoping Literature Review</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Salawu, Mobolaji Modinat</displayForm>
+                        <namePart type="family">Salawu</namePart>
+                        <namePart type="given">Mobolaji Modinat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Onwujekwe, Obinna Emmanuel</displayForm>
+                        <namePart type="family">Onwujekwe</namePart>
+                        <namePart type="given">Obinna Emmanuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fawole, Olufunmilayo Ibitola</displayForm>
+                        <namePart type="family">Fawole</namePart>
+                        <namePart type="given">Olufunmilayo Ibitola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">African nations have failed to achieve the mandate of health for all forty years after Alma Ata declaration. To achieve Universal Health Coverage (UHC), government alone are unable to solve the problems of health service delivery such as lack of good infrastructure, poor management, inter-cadre conflicts, lack of skilled birth attendants amongst others. This review assessed the involvement of non-state actors (private sector/philanthropists) in achieving UHC in Africa.
+We explored eight databases and search engines using specific search terms. We retrieved and conducted a detailed review of 47 publications comprising published literature and reports focused on private sector/philanthropy involvement in achieving UHC in Africa, and explored the challenges and opportunities. We included both qualitative and quantitative studies published in English.
+Inequity and a wide gap exist in countries’ health care service delivery due to numerous challenges such as chronic economic instability, bureaucracy, poor healthcare financing, corruption among others. Review of existing literature suggests that as Africa embarks on reforms toward UHC there is a great need for involvement of private sector/philanthropists to support government in addressing challenges facing health care system.&amp;nbsp; The type of involvement revealed were; provision of infrastructure (hospital buildings/facility, good roads), technical support, technological innovations, provision of diagnostic and therapeutic equipment, financial support and other support services.&amp;nbsp;
+This scoping review showed that private and philanthropist actors’ involvement in healthcare system have huge potentials to improve, restore and maintain health service delivery in African nations. This will accelerate progress towards the achieving UHC by 2030.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4384</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4384">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4384/4234" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4384" DMDID="DMD_biejournals_4384">
+            <mets:fptr FILEID="FILE0_biejournals_4384"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_316">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Kerncurriculum</title>
+                        <subTitle>Suchstrategien und Kriterien für einen Lehrstück-Kanon im Lernfeld Gesellschaft/ Politik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grammes, Tilman</displayForm>
+                        <namePart type="family">Grammes</namePart>
+                        <namePart type="given">Tilman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Lehrstücke im Lernfeld Gesellschaft/Politik - Fehlanzeige? Entlang von acht Suchstrategien in Geschichte und Konzeptionen der Fächergruppe wird nachgewiesen, daß es eine gewachsene Tradition von Unterrichtsmodellen gibt. Politische Lehrstücke liegen auf den unterschiedlichen Ebenen des Elementaren nach Klafki: Fundamentales, Exemplarisches, Typisches, Klassisches, Repräsentatives. Das Paradigma der kategorialen Konfliktdidaktik führt zu einem sachlogischen Kerncurriculum, das es Schülerinnen und Schülern ermöglicht, die werthaltigen Verfahren der Demokratie im Prozeß des Werdens zu erleben und zu reflektieren. Für diese Logik und Grammtik des Politischen gibt es drei Inszenierungsmodi. Die Weiterentwicklung vorliegender Unterrichtsmodelle sichert Qualitätsstandards und wird als mittelfristige Strategie der Curriculumreform empfohlen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_316</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_316">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/316/313" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_316" DMDID="DMD_biejournals_316">
+            <mets:fptr FILEID="FILE0_biejournals_316"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

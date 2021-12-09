@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_925">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>History, the social sciences and potentials for cooperation. With particular attention to economic history</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kocka, Jürgen</displayForm>
+                        <namePart type="family">Kocka</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In contrast to preceding decades, the distance between history and the social sciences has be­come wider in the last quarter of the 20th century. Economic history has somewhat lost importance. But new opportunities and approaches at cooperation between economic history and economics, between history and the social sciences have emerged recently. The author discusses these changes and shows in what ways history and the social sciences may profit from one another.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_925</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_925">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/925/1033" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_925" DMDID="DMD_biejournals_925">
+            <mets:fptr FILEID="FILE0_biejournals_925"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

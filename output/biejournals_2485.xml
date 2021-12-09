@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2485">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>„perfekte“ Kooperationssituation</title>
+                        <subTitle>Rekonstruktionen ambivalenter Kooperationsvorstellungen angehender Lehrkräfte im Kontext schulischer Inklusion entlang von Norm und Expertise</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Köpfer, Andreas</displayForm>
+                        <namePart type="family">Köpfer</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lemmer, Kathrin</displayForm>
+                        <namePart type="family">Lemmer</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Kooperation unterschiedlicher (para-)professioneller Akteur_innen wird im Fachdiskurs als sine qua non für gelingenden Unterricht in inklusiven Schulen verhandelt. Bislang ungeklärt ist, welche Vorstellungen von professioneller Kooperation im Kontext schulischer Inklusion Studierende in der ersten Ausbildungsphase besitzen. Vor diesem Hintergrund werden in diesem Beitrag Vorstellungen angehender Lehrkräfte von professioneller Kooperation im Rahmen schulischer Inklusion herausgearbeitet, basierend auf Daten aus dem Forschungsprojekt „Unterstützung von Lehrpersonen im Kontext inklusiver Lehr-Lernprozesse“ (UNIP). Entlang einer komparativen Sequenzanalyse von Gruppendiskussionen mit Lehramtsstudierenden werden Kooperationsverständnisse rekonstruiert. Das methodische Vorgehen basiert dabei auf der dokumentarischen Methode der Textinterpretation nach Bohnsack. Die Ergebnisse werden mit theoretischen Bezügen zu Norm und Expertise hinsichtlich einer zu entwickelnden inklusionsorientierten Lehrer_innenbildung eingeordnet und diskutiert.</abstract>
+                    <abstract lang="eng">In the discourse of inclusive education, the importance professional cooperation of stakeholders from various professional backgrounds in inclusive schools gains increasing attention. However, the conceptions of students in initial teacher training on professional collaboration in inclusive settings have rarely been focused in research yet. This article aims at approaching this research gap by presenting reconstructions from a research project which gathered data referring to students&apos; conceptions on collaborative practices in inclusive schools. The students&apos; understandings of collaboration have been reconstructed by a comparative analysis of sequences accumulated in group discussions using the documentary method by Ralf Bohnsack. The results of this exploratory study are discussed with theoretical references to norm and expertise. Finally, possibilities of implementations regarding teacher education for inclusion are derived.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2485</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2485">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2485/3403" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2485" DMDID="DMD_biejournals_2485">
+            <mets:fptr FILEID="FILE0_biejournals_2485"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

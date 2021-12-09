@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_927">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>History and sociology – the First Century. From Ranke to Weber</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tyrell, Hartmann</displayForm>
+                        <namePart type="family">Tyrell</namePart>
+                        <namePart type="given">Hartmann</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The contribution deals with the complicated history of the sciences of history and sociology (predominantly in Germany). It shows, firstly, how Ranke formulated one of his essential world-historical insights as definitely closing off from contemporary discourses of the social and the »social movement«. Almost one hundred years later Max Weber integrated this insight of Ranke in his early days into his sociology. Secondly, Tyrell highlights the importance of Dilthey’s »studies of society and history« for a joining of history and sociology. Essential for this was his understanding of »social differentiation«. Thirdly: Before and after 1900, that line of history which was then predominant in Germany and which dealt primarily with the history of political events rejected every programme and idea of social or cultural history. Also for this reason, since the 1890s sociology – being a new scientific discipline – has developed by a clear distance to history. This is illustrated by the example of the sociologists Simmel and Durkheim. The final remark glances briefly at Max Weber’s sociology which rightly so may be called historic sociology.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_927</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_927">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/927/1035" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_927" DMDID="DMD_biejournals_927">
+            <mets:fptr FILEID="FILE0_biejournals_927"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

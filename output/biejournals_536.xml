@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_536">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Who Actually Sets the Criteria for Social Studies Literacy? The National Core Curricula and the Matriculation Examination as Guidelines for Social Studies Teaching in Finland in the 2000’s</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Löfström, Jan</displayForm>
+                        <namePart type="family">Löfström</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Virta, Arja</displayForm>
+                        <namePart type="family">Virta</namePart>
+                        <namePart type="given">Arja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van den Berg, Marko</displayForm>
+                        <namePart type="family">van den Berg</namePart>
+                        <namePart type="given">Marko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2006</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The issue of how to define the content of social studies literacy has become topical in Finland in the 2000’s in a new way as a result of social studies having been instituted as an independent subject in upper secondary school and in basic education. Freedom from the ties confining social studies in the role of a subdivision of the subject history has entailed a need to profile social studies and also to problematize the parametres of social studies literacy more clearly and consciously than before. However the question remains as to who defines the content of social studies literacy. In this article we will argue that in Finland today the most central role in this respect is being played not by the national core curricula where the competence aims of social studies teaching are rather vague, but by the social studies exam in the national matriculation examination. This is not necessarily a bad situation in terms of the outcome but it is noteworthy that the task of operationalizing social studies literacy is here as if “outsourced” to a small group of social science and social studies education experts who design social studies exam questions, whereas the authority responsible for developing the national core curricula only sanctions very general descriptive objectives for social studies teaching.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_536</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_536">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/536/533" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_536" DMDID="DMD_biejournals_536">
+            <mets:fptr FILEID="FILE0_biejournals_536"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

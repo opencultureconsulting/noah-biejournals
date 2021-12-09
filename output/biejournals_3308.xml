@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3308">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>ökologische Nische</title>
+                        <subTitle>Ein Dosis-Wirkungs-Experiment zur Ermittlung des physiologischen Spektrums verschiedener Getreidearten</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Haunhorst, Darius</displayForm>
+                        <namePart type="family">Haunhorst</namePart>
+                        <namePart type="given">Darius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stockey, Andreas</displayForm>
+                        <namePart type="family">Stockey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird ein Experiment zur Bestimmung der NaCl-Toleranz von Getreidearten vorgestellt. Die zuvor erworbenen Kenntnisse zur osmotischen Wirkung von NaCl werden vorausgesetzt. Das Experiment ist Kernelement einer Einheit zur Einführung von fundamentaler und realer Nische. Durch die Thematisierung von interspezifischer Konkurrenz, wie z.B. über die exemplarische Bearbeitung des historischen Hohenheimer Grundwasserversuchs (Ellenberg, 1952), wird zum darauffolgenden Schwerpunkt „Selektion und Evolution“ übergeleitet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3308</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3308">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3308/3465" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3308">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3308/3466" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3308" DMDID="DMD_biejournals_3308">
+            <mets:fptr FILEID="FILE0_biejournals_3308"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3308" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3308"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

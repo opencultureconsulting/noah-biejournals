@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3320">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vielfalt ‚durch die BLUME‘ unterrichten </title>
+                        <subTitle>Konzepte und Materialien mit Blütenpflanzen für die 5. bis 7. Klassenstufe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Janko, Lisa</displayForm>
+                        <namePart type="family">Janko</namePart>
+                        <namePart type="given">Lisa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dreesmann, Daniel</displayForm>
+                        <namePart type="family">Dreesmann</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Pflanzen bilden die Basis allen Lebens auf der Erde: sie verwandeln Sonnenlicht in nutzbare Energie und produzieren Sauerstoff. Sie liefern uns Nahrung, Kleidung, Baumaterialien und Medizin. Dennoch spielen Pflanzen sowohl im gesellschaftlichen als auch schulischen Kontext meist nur eine untergeordnete Rolle. Wandersee und Schussler (1998) haben diese Achtlosigkeit gegenüber Pflanzen aufgedeckt und ihr die Bezeichnung „Plant Blindness“ verliehen. Durch die BLUME ist ein biologiedidaktisches Forschungs- und Entwicklungsprojekt, das es sich zum Ziel gesetzt hat, Schülerinnen und Schülern einen begeisternden Zugang zur Welt der Pflanzen zu schaffen, botanisches Wissen zu vermitteln, die Bedeutung von Blütenpflanzen und pflanzlicher Vielfalt für das Leben auf der Erde bewusst zu machen und so der Plant Blindness ein Stück weit entgegenzuwirken. Dafür wurden verschiedene Konzepte und Materialien entwickelt, bei denen die originale Begegnung und praktische Auseinandersetzung mit den Pflanzen im Vordergrund stehen. Für ein schülernahes und authentisches Lernen wurden auch E-Learning-Elemente sowie der außerschulische Bildungsort Botanischer Garten mit einbezogen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3320</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3320">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3320/3634" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3320">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3320/3635" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_3320">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3320/3638" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_3320">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/3320/3639" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3320" DMDID="DMD_biejournals_3320">
+            <mets:fptr FILEID="FILE0_biejournals_3320"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3320" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3320"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3320" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3320"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_3320" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_3320"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

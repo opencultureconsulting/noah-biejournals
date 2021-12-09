@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1011">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Reading theory or reading historical evidence</title>
+                        <subTitle>The case of Anglo-settler veterinary professionalization</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Burns, Edgar</displayForm>
+                        <namePart type="family">Burns</namePart>
+                        <namePart type="given">Edgar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Reviewing veterinary professionalization across six Anglo-American colonial settler societies draws upon the national-comparative emphasis of recent historical analyses of these settler societies, applying this to one occupational group, veterinarians. Distinctive historical processes led to the participation of these countries today as advanced ›western-type‹ economies controlled by white populations - very different from the subaltern experience Spivak (1994) describes. However, the empirical data undercuts mid-twentieth Euro-American century ideas of coherent, linear modernization, even amongst the evidence within this restricted grouping. Wilensky’s (1964) asserted universal steps of professionalization are re-read as culturally local, rather than generally true. Adapting this methodology provides the tools for undoing such sociology of professions, unreflexive of its own historical positioning. The over-reach of such functionalist arguments characteristic of sociology-history disagreements in the 1960s and 1970s, ignored the presence of government veterinary agencies in every case, and is a fundamental omission. Partial evidence of country similarities may be better interpreted through interactive effects.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1011</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1011">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1011/1119" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1011" DMDID="DMD_biejournals_1011">
+            <mets:fptr FILEID="FILE0_biejournals_1011"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

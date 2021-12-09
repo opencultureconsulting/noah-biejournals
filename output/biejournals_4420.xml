@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4420">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Two sides of a broken medal</title>
+                        <subTitle>Disease prevention and health promotion in schools of public health</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stamenkovic, Zeljka</displayForm>
+                        <namePart type="family">Stamenkovic</namePart>
+                        <namePart type="given">Zeljka</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel, Helmut</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Helmut</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jankovic, Janko</displayForm>
+                        <namePart type="family">Jankovic</namePart>
+                        <namePart type="given">Janko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Disease prevention and health promotion are closely related through the lifestyle concept and teaching modules on them should be a part of the postgraduate curriculum of every School of Public Health (SPH) in the European Region and beyond. We aimed to determine to which degree the European SPH offer modules on Disease Prevention and Health Promotion in their postgradu-ate programs, but also the delay in full implementation for the target year 2030 that has been set at 100% for all SPHs.
+Methods: The Association of Schools of Public Health in the European Region (ASPHER) con-ducted two surveys on the activities of its members in 2011 and 2015/16. A group of 48 SPH responded in both surveys. Questions were related to the content offered by SPHs, the types of teaching methods that are in use and presentations of the modules at social networks.
+Results: For both modules, the 2nd survey in 2015/16 shows slightly less positive results as com-pared to the 1st Survey in 2011 (72.9% vs. 77.1% and 81.3% v. 87.5%). The only exception is the use of social media which increased for disease prevention from 20.8% to 37.5% of all SPH and for health promotion from 22.9% to 39.6%. Referring to the set target of 100%, delays between 4 and 13.5 years accumulate for the target year 2030.Conclusion: With the exception of the use of social media, progress towards 2030 is slow or even negative. Serious efforts have to be made by ASPHER to revert this process.
+Acknowledgments: The authors would like to thank all members of ASPHER for their commit-ment in responding to the survey questionnaire and providing examples of good practices in edu-cation, training and research for public health.
+Conflict of interest: None declared.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4420</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4420">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4420/4262" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4420" DMDID="DMD_biejournals_4420">
+            <mets:fptr FILEID="FILE0_biejournals_4420"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

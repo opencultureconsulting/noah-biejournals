@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_185">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beruflich Qualifizierte in Hochschulstudium und wissenschaftlicher Weiterbildung. Eine Charakterisierung von Motiven und Hindernissen zur Aufnahme akademischer Lernprozesse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Knörl, Susanne</displayForm>
+                        <namePart type="family">Knörl</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Herdegen, Susanne</displayForm>
+                        <namePart type="family">Herdegen</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Beruflich Qualifizierte als besondere Zielgruppe für akademisches Lernen zeichnen sich durch eine hohe Heterogenität aus. Vor diesem Hintergrund hat das BMBF-geförderte Projekt OTH mind in zwei empirischen Untersuchungen Meinungen  und  Einschätzungen  beruflich Qualifizierter zum sogenannten dritten Bildungsweg erhoben. Im folgenden Artikel werden daraus Ergebnisse zu Voraussetzungen sowie Interessen und möglichen Hindernissen in Bezug auf die Aufnahme akademischer Lernprozesse dargestellt. Das Interesse an  solchen  Lernprozessen  zeigt  sich  dabei  als  geprägt  von existentiellen und persönlichen Motiven – sowohl bei einer Entscheidung  für  als  auch  gegen  eine  Aufnahme  akademischen Lernens. Festzustellen ist, dass beruflich Qualifizierte, die eine akademische Weiterbildung anstreben, sich intrinsisch motiviert für den Weg an die Hochschule entscheiden. Die Ergebnisse der Erhebung zeigen, dass es angesichts der aufgezeigten Hindernisse weiterhin Aufgabe der Hochschulen ist, den Bildungsweg für diese Zielgruppe zu ebnen, um die akademische Qualifizierung dieser Fachkräfte bestmöglich zu stärken.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_185</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_185">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/185/174" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_185" DMDID="DMD_biejournals_185">
+            <mets:fptr FILEID="FILE0_biejournals_185"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

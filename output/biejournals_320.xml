@@ -1,0 +1,48 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_320">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>Die </nonSort>
+                        <title>Suche nach der besten Verfassung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leps, Horst</displayForm>
+                        <namePart type="family">Leps</namePart>
+                        <namePart type="given">Horst</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">&quot;Welches ist nun für die Mehrzahl der Staaten und der Menschen die beste Verfassung und die beste Lebensform, (...) indem man (...) von dem Leben (ausgeht), das die Mehrzahl zu führen vermag, und einer Verfassung, die sich die Mehrzahl der Staaten aneignen können?&quot; (Aristoteles) Diese Frage ist bis heute die zentrale Frage der politischen Ordnung. Zur Klärung dieser Frage griff Aristoteles auf die Einteilungen in Monarchie - Oligarchie - Demokratie (Herodot) und die Analysen Platons in der &quot;Politeia&quot; zurück; er sichtete selbst 158 Verfassungen. Dabei stellte er zwei grundlegende Bedingungen für einen stabilen Staat für normale Menschen fest: Eine ausgewogene Sozialstruktur und Beteiligungsmöglichkeiten der verschiedenen sozialen Gruppen.
+
+Die Schüler werden über eine Simulation in die Neugründung eines Staates eingebunden. Dabei erfahren sie praktisch und erarbeiten sie theoretisch die Gefährdungen eines Staates und schaffen dabei mit den Prinzipien eines neuen Staates - teils aus eigener Kraft, teils durch Beratung durch Aristoteles - und entwerfen ein politisch-gesellschaftliches Organisationsmodell. Dabei gewinnen sie Kenntnisse, Erkenntnisse und Einsichten im Hinblick auf die Aufgaben und Schwierigkeiten einer demokratischen politischen Ordnung, die ihnen später ein vertieftes Verstehen der Ordnung nach dem GG ermöglicht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_320</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_320">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/320/317" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_320" DMDID="DMD_biejournals_320">
+            <mets:fptr FILEID="FILE0_biejournals_320"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

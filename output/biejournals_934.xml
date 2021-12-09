@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_934">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Isolation, imposture and the impact of the ›Taboo‹ in Stalinist society.  A diarist on the verge of loneliness</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Griesse, Malte</displayForm>
+                        <namePart type="family">Griesse</namePart>
+                        <namePart type="given">Malte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The article reconsiders the significance of atomization in Stalinist society and reassesses the phenomenon of imposture as a constituent part of the system’s functioning. In historiography, impostors have been regarded as subverters who perfectly mastered Bolshevik language and behavioral codes to take advantage of the revolutionary chaos and the system’s dysfunctions: thus they revealed the regime’s incapacity to establish totalitarian control. This view overlooks that parallel to its campaigns for transparency and unambiguity the Stalinist regime systematically pushed large segments of the population into double-dealing, i.e. into hiding central aspects of their (past) lives. The impact of such dissimulation is explored on the basis of an unedited personal diary written by a former Menshevik converted to Bolshevism who silenced his former political allegiance and committed to paper his sufferings from loneliness and political guilt. His diary served him to “leave a trace” and to “find consolation” in “conversations with himself”. It is a liminal document that perfectly illustrates Arendt’s distinction between solitude as a domain of dialogical thinking and loneliness as a state of readiness to succumb to purely deductive logical (or totalitarian) thinking, a distinction that is developed with the aid of the multiple-personality-model as proposed in ego-states-psychology.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_934</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_934">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/934/1042" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_934" DMDID="DMD_biejournals_934">
+            <mets:fptr FILEID="FILE0_biejournals_934"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_367">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Entrepreneurship-Ausbildung an Hochschulen und „Kultur der Selbstständigkeit“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schulte, Reinhard</displayForm>
+                        <namePart type="family">Schulte</namePart>
+                        <namePart type="given">Reinhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2004</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag diskutiert die vermehrt thematisierte so genannte „Kultur der Selbstständigkeit“ im Kontext der akademischen Ausbildung, speziell in Verbindung mit der sich zunehmend etablierenden „Entrepreneurship-Ausbildung“. Sie bezeichnet die Qualifizierung für eine Tätigkeit als unternehmerischer Entscheidungsträger. Aus der Perspektive der wirtschaftswissenschaftlichen Hochschulausbildung liefert der Beitrag eine kritische Auseinandersetzung mit dem Begriff der „Kultur der Selbstständigkeit“ sowie eine Konkretisierung der Erwartungen an diese. Dazu werden auch die darauf bezogenen Operationalisierungsversuche skizziert und reflektiert sowie empirische Evidenzen vorgestellt. Da die Entrepreneurship-Ausbildung an Hochschulen als ein Indikator dieser Kultur verstanden werden kann, geht der Beitrag auch der grundsätzlichen Frage der Lehrbarkeit unternehmerischer Qualifikationen sowie des dazu erforderlichen didaktischen Gerüstes nach und leitet daraus einige elementare Überlegungen zu methodischer Ausgestaltung, Zielgruppen und Praxisorientierung der Entrepreneurship-Ausbildung ab. Der Beitrag zeigt abschließend ihre Kongruenzen mit bildungstheoretischen Leitbildern.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_367</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_367">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/367/364" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_367" DMDID="DMD_biejournals_367">
+            <mets:fptr FILEID="FILE0_biejournals_367"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

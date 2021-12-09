@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4717">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Worldviews and Personal Beliefs as Risk Factors for Radicalization</title>
+                        <subTitle>A Comparison Between Muslims and non-Muslims Living in Poland</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jakubowska, Urszula</displayForm>
+                        <namePart type="family">Jakubowska</namePart>
+                        <namePart type="given">Urszula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Korzeniowski, Krzysztof</displayForm>
+                        <namePart type="family">Korzeniowski</namePart>
+                        <namePart type="given">Krzysztof</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Radkiewicz, Piotr</displayForm>
+                        <namePart type="family">Radkiewicz</namePart>
+                        <namePart type="given">Piotr</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This paper contributes to the understanding of the radicalization process. Muslim and non-Muslim residents of Poland were compared on their pro-terrorist attitudes toward sacrifice and non-sacrifice terrorism. We observed that acceptance of sacrifice terrorism and non-sacrifice terrorism are distinct but overlapping attitudes. These attitudes are explained by a separate configuration of social worldviews and personal beliefs. We found acceptance of non-sacrifice terrorism to be predicted by individual belief in a hostile world and the perception of low social support, whereas acceptance of sacrifice terrorism is determined by religious fundamentalism and authoritarianism. The separate beliefs underlying these two forms of pro-terrorist attitudes may indicate their different psychological functions. Acceptance of sacrifice terrorism serves as a defense of religion and culture, whereas acceptance of non-sacrifice terrorism serves to release personal frustration. This distinction may be used in terrorism prevention programs and/or de-radicalization programs. We also found that the risk of radicalization increases with the socio-cultural isolation of Muslims, decreases with age, and is particularly high for males.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4717</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4717">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/4717/4478" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4717" DMDID="DMD_biejournals_4717">
+            <mets:fptr FILEID="FILE0_biejournals_4717"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_582">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Civic Education and Intercultural Issues in Switzerland</title>
+                        <subTitle>Psychosocial Dimensions of an Education to “Otherness”</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Muller Mirza, Nathalie</displayForm>
+                        <namePart type="family">Muller Mirza</namePart>
+                        <namePart type="given">Nathalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In contemporary democratic societies that deal with cultural and linguistic diversity, education faces new challenges such as how to promote a shared knowledge and competence framework about “citizenship,” how to prepare the young generation to enter a complex world, and how to help immigrant students to integrate into the school system. Some of the European recommendations focus on the importance of promoting “intercultural education”. However, so far little is known about concrete practices and their outcomes. This paper aims at documenting and providing elements of reflections about the difficulties and contradictions faced by both teachers and students involved in pedagogical intercultural activities in Switzerland. From the results of a qualitative research based on a sociocultural perspective, identity and institutional issues of addressing “otherness” in school are discussed. It stresses the importance of a frame in order to allow elaboration and transformation of personal and emotional experiences into thinking and reflexive processes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_582</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_582">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/582/579" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_582" DMDID="DMD_biejournals_582">
+            <mets:fptr FILEID="FILE0_biejournals_582"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

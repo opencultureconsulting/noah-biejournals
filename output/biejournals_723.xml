@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_723">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Performing Citizenship Down Under</title>
+                        <subTitle>Educating the Active Citizen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wood, Bronwyn E.</displayForm>
+                        <namePart type="family">Wood</namePart>
+                        <namePart type="given">Bronwyn E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Black, Rosalyn</displayForm>
+                        <namePart type="family">Black</namePart>
+                        <namePart type="given">Rosalyn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">In democracies such as Australia and New Zealand, education policy increasingly seeks to foster active citizens who are committed to social justice and change. Whilst many aspects of these initiatives are to be applauded for their commitment to empowering young people, in this paper we describe some of the ambiguities that attend young people’s experiences of civic engagement and active citizenship. In doing so, we draw on Isin’s (2008) reconceptualization of citizenship as something that is, above all, performed or enacted. Isin’s focus is upon ‘acts of citizenship’ which he argues are best understood by examining their grounds, effects and consequences. Drawing on illustrations of young people’s global and local citizenship actions in schools in Australia and New Zealand, we examine some of the contradictions and tensions that lie within the enactment of such ‘performed’ curricula. We conclude by reflecting on the opportunities that exist within school and community spaces for the active citizen to perform acts of citizenship.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_723</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_723">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/723/782" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_723" DMDID="DMD_biejournals_723">
+            <mets:fptr FILEID="FILE0_biejournals_723"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

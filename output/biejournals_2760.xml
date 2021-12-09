@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2760">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Democracy Concepts of the Fundamentalist Parties of Algeria and Tunisia — Claim and Reality</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wöhler-Khalfallah, Khadija Katja</displayForm>
+                        <namePart type="family">Wöhler-Khalfallah</namePart>
+                        <namePart type="given">Khadija Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2007-01-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article discusses democratic elements in early Islamic sources and in the programs of the Algerian FIS (Front Islamique du Salut) and ANNAHDA in Tunesia. According to historic writings, Islam includes the principles of democratic consensus, consultation, and freedom of opinion, and an understand- ing that the sources of Islamic jurisdiction are subject to interpretation, that the sharia can be changed, and that religious authorities’ power to issue in- structions on worldly matters is limited. These are the type of expectations that fundamentalist parties arouse when they speak of an Islamic caliphate as a state system. Against this background, an examination of the political system proposed until 1992 by the Algerian FIS shows that this system would have resulted in a very restrictive form of Islam. An investigation of the political system of the Tunisian fundamentalist leader Rached al-Ghannouchi reveals that the system he proposes may be designated as an Islamic democracy, since it takes into account separation of powers and pluralism of po- litical parties. The head of state would be subject to the law in the same manner as the people. However, it is no liberal democracy, as he categorically rejects secularism, intends to punish apostates, and is only willing to allow political parties that are based on the religion of Islam. His state would only be a state of those citizens who follow Islam, completely neglecting secularist groups. Social conflicts and unrest are thus predetermined.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2760</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2760">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2760/2521" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2760" DMDID="DMD_biejournals_2760">
+            <mets:fptr FILEID="FILE0_biejournals_2760"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_193">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zielgruppenspezifische didaktische Gestaltung von Weiterbildungsmodulen. Eine Befragung von Fachkräften und Alumni</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Krikler, Katharina</displayForm>
+                        <namePart type="family">Krikler</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im  Sommer  2015  wurde  im  Rahmen  des  Projekts  „OTH mind: modulares innovatives Netzwerk für Durchlässigkeit“ eine  onlinebasierte  Befragung  der  Zielgruppen  technische Fachkräfte, beruflich Qualifizierte mit Studieninteresse sowie Ingenieur_innen an den beiden Ostbayerischen Technischen Hochschulen (OTH) Amberg-Weiden und Regensburg durchgeführt.  Anhand  standardisierter  Erhebungen  wurde versucht, zielgruppenspezifische  didaktische  Gestaltungswünsche abzuleiten. Die Resultate ergaben, dass die Unterschiede  zwischen  den  verschiedenen  Zielgruppen  marginal sind. Über alle Zielgruppen hinweg zeigt sich in Hinblick auf eine Weiterbildungsteilnahme ein starker Wunsch nach Praxisnähe der Weiterbildungsinhalte sowie der Dozent_innen. Der Theoriegedanke und wissenschaftliche Aspekte werden dagegen eher in den Hintergrund gerückt. Der Einsatz von virtuellen Lehrelementen scheint bisher nicht sehr verbreitet zu sein.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_193</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_193">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/193/182" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_193" DMDID="DMD_biejournals_193">
+            <mets:fptr FILEID="FILE0_biejournals_193"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

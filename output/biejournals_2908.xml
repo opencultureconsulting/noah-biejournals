@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2908">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial</title>
+                        <subTitle>Letter from the Editors</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heitmeyer, Wilhelm</displayForm>
+                        <namePart type="family">Heitmeyer</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Massey, Douglas S.</displayForm>
+                        <namePart type="family">Massey</namePart>
+                        <namePart type="given">Douglas S.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sidanius, James</displayForm>
+                        <namePart type="family">Sidanius</namePart>
+                        <namePart type="given">James</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wieviorka, Michel</displayForm>
+                        <namePart type="family">Wieviorka</namePart>
+                        <namePart type="given">Michel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">0</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Dear Reader,This issue of the journal focuses on the question of bullying prevention, with a collection of articles put together by Manuel Eisner and Tina Malti. We are very grateful to them for the hard work they put in as focus section editors – and in their contributions to the section. The open section this time takes us to North America for a study of identity and in-group superiority and Africa for a review of the question of youth and violence.The next issue, to appear in spring 2013, will feature a double focus for the first time, presenting collections on transitional justice and on qualitative research on prejudices.December 2012Wilhelm Heitmeyer Douglas S. Massey Steven F. Messner James Sidanius Michel Wieviorka</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2908</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2908">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2908/pdf_73" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2908">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2908/2759" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2908" DMDID="DMD_biejournals_2908">
+            <mets:fptr FILEID="FILE0_biejournals_2908"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2908" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2908"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

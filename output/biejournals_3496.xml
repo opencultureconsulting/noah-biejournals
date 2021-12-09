@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3496">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Operating between Cultures and Langugages</title>
+                        <subTitle>Multilingual Films in Foreign Language Classes</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Blell, Gabriele</displayForm>
+                        <namePart type="family">Blell</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Our societies have undergone two major changes during the last decades: firstly, the continuous rise of cultural and linguistic diversity, due to the global economy, migration and universal mobility, and secondly, the steady expansion and gathering impetus of the new communication media (Cope &amp;amp; Kalantzis, 2000, 2012). In consequence, multilingualism, acquired or learned, has shaped our living together and pertains to our learners in the classroom. Similarly, polyglot movies, literatures and other cultural productions have become symbolic expressions for worldwide cross-cultural movements for all age groups. Both the multilingualism and the multi-/transculturalism inherent in the texts and images constitute a rich cultural resource for the Foreign Language (FL) classroom. This article argues that the creative potential of transnational film, to be found in its multilingualism and transculturalism, should be used as a complementary field of teaching film beyond the traditional and curriculum-bound (English only) English as a Foreign Language (EFL) classroom in Germany and therefore supports multicultural, multilingual and multimodal learning. The article uses examples from Quentin Ta­rantino’s Inglourious Basterds (2009), Gonzalez Iñarritu’s Babel (2012) and Wim Wenders’ documentary Pina (2011).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3496</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3496">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3496/3658" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3496" DMDID="DMD_biejournals_3496">
+            <mets:fptr FILEID="FILE0_biejournals_3496"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_928">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Concluding remarks. History, sociology, theory and the fallacy of misplaced abstractness</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mennell, Stephen</displayForm>
+                        <namePart type="family">Mennell</namePart>
+                        <namePart type="given">Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-10-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Partly through autobiographical reflection on his own intellectual development as a historical sociologist and sociological theorist, the author stresses both the need for theory in the writing of history and the necessity of avoiding the wrong – unhelpful – kind of theory. As a one-time student of Talcott Parsons, he recognised the danger posed by »the fallacy of misplaced abstractness«, and the trap presented by the prestige of over-abstract concepts. Many sociological theorists since Parsons – including Niklas Luhmann – have fallen into this trap, as have, under their influence, other empirical sociological and historical researchers. Instead, the author commends as more fruitful the kind of processual thinking derived from another major figure in the history of the University of Bielefeld, Norbert Elias. The paper concludes with some illustrations from the history of the USA.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_928</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_928">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/928/1036" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_928" DMDID="DMD_biejournals_928">
+            <mets:fptr FILEID="FILE0_biejournals_928"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

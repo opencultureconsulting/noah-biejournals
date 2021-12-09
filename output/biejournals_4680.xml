@@ -1,0 +1,102 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4680">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Improving the health status of sex workers in Europe</title>
+                        <subTitle>a policy brief with  recommendations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>van Ravenswaaij, Hilde</displayForm>
+                        <namePart type="family">van Ravenswaaij</namePart>
+                        <namePart type="given">Hilde</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rojas, Daniela</displayForm>
+                        <namePart type="family">Rojas</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sharjeel, Muhammed</displayForm>
+                        <namePart type="family">Sharjeel</namePart>
+                        <namePart type="given">Muhammed</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Slaats, Puck</displayForm>
+                        <namePart type="family">Slaats</namePart>
+                        <namePart type="given">Puck</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Andelic, Petra</displayForm>
+                        <namePart type="family">Andelic</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Paric, Martina</displayForm>
+                        <namePart type="family">Paric</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">&amp;nbsp;
+Context:&amp;nbsp; Although the United Nations and the European Union are set to improve life on earth through the Sustainable Development Goals (SDG) Framework, sex workers have not been included in this Framework, thereby further increasing various issues, which affect this group, such as discrimination, stigma, and poor mental- and physical health. The COVID-19 pandemic has exacerbated the already existing disadvantages of sex workers, highlighting the need for a systematic change to sustainably improve the empowerment and health status of sex workers throughout the European Union.
+&amp;nbsp;
+Policy Options: The aim of this policy brief is to propose recommendations, which can contribute to the sustainable improvement of the health status and empowerment of sex workers throughout the EU. Policy options include a bottom-up approach with use of community-based organizations and public-private partnerships, targeting inclusion of sex workers, the organization of workshops, and the distribution of toolkits.
+&amp;nbsp;
+Recommendations: 
+
+Inclusion of sex workers in the SDG Framework;
+Organization of community-based workshops by and for sex workers;
+Distribution of culture-personalized toolkits by and to sex workers.
+
+&amp;nbsp;
+&amp;nbsp;
+Acknowledgments: We thank Martina Paric, our senior advisor, and Kasia Czabanowska for heart-warming support.
+&amp;nbsp;
+Authors’ contributions: All authors contributed equally to this work.
+&amp;nbsp;
+Conflict of interest: None declared
+&amp;nbsp;
+Source of funding: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4680</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4680">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4680/4408" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4680" DMDID="DMD_biejournals_4680">
+            <mets:fptr FILEID="FILE0_biejournals_4680"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

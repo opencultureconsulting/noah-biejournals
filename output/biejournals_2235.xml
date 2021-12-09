@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2235">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sorge-Ethik im Leben mit hochbetagten Frauen und Männern</title>
+                        <subTitle>Gefühle, Bezogenheit, Achtsamkeit und die Notwendigkeit angemessener Strukturen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reitinger, Elisabeth</displayForm>
+                        <namePart type="family">Reitinger</namePart>
+                        <namePart type="given">Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der Psychologie der Hochaltrigkeit werden im Kontext von Verletzbarkeit Ethiken der Achtsamkeit, der Sorge und der Generativität erläutert. Vor allem im Kontext von Hilfebedürftigkeit und Angewiesenheit alter Menschen auf ihre Pflegenden und Helfenden werden Haltungen beschrieben, die einen Umgang mit dem Differenten, dem Anderen als ethisches Handeln im Kontext von Professionalität beschreiben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2235</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2235">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2235/2147" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2235">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2235/2148" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2235" DMDID="DMD_biejournals_2235">
+            <mets:fptr FILEID="FILE0_biejournals_2235"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2235" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2235"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

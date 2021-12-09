@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_860">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Finanzinformierte Bürger_innen, bürgerbestimmtes Finanzsystem</title>
+                        <subTitle>Ein Essay aus Anlass des International Handbook of Financial Literacy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Willis, Lauren E.</displayForm>
+                        <namePart type="family">Willis</namePart>
+                        <namePart type="given">Lauren E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Zielsetzung: Überall in der Welt sieht der dominante Diskurs „Finanzbildung“ als notwendig und ausreichend an, um das Wohl Einzelner und der Gesellschaft zu verbessern.Erkenntnisse: In diesem Essay wird argumentiert, dass Finanzbildung weder notwendig noch ausreichend ist und dass die Förderung der Finanzbildung ein abwegiger Ansatz ist, um unzureichende Finanzierung von Renten, Überschuldung, Finanzkrisen und andere soziale Missstände in den Griff zu bekommen, wie es Regierungen und Pädagog_innen von dieser Maßnahme erhofft haben. Stattdessen wird hier angeregt, das Ziel von Finanzbildung darin zu sehen, finanzinformierte Bürger_innen heranzuziehen, die die Fähigkeit zum bürgerschaftlichen Engagement besitzen, das eine von den Bürger_innen bestimmte Wirtschaftspolitik und Finanzregulierung hervorbringen kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_860</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_860">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/860/979" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_860" DMDID="DMD_biejournals_860">
+            <mets:fptr FILEID="FILE0_biejournals_860"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

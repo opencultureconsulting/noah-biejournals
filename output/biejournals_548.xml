@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_548">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Not for Profit</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Veldhuis, Ruud</displayForm>
+                        <namePart type="family">Veldhuis</namePart>
+                        <namePart type="given">Ruud</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2010</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In this book Nussbaum makes a strong case for the importance of the liberal arts in education. If the economic pressure of globalization is not kept under control, the end result might be an erosion of our democracies. The book is more a manifesto (178 pages) and not an empirical study. Quantitative data have been omitted.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_548</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_548">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/548/545" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_548" DMDID="DMD_biejournals_548">
+            <mets:fptr FILEID="FILE0_biejournals_548"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

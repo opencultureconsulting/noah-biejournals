@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_166">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Projektbezogene Forschung und Entwicklung in der wissenschaftlichen Weiterbildung als Steuerungsimpuls hochschulinterner Veränderungsprozesse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lengler, Asja</displayForm>
+                        <namePart type="family">Lengler</namePart>
+                        <namePart type="given">Asja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Durch projektbezogene Forschungs- und Entwicklungsvorhaben wird die hochschulinterne Auseinandersetzung mit dem Bereich der wissenschaftlichen Weiterbildung auf verschiedenen Funktions- und Organisationsebenen gefördert. Hierdurch ergeben sich nicht selten Veränderungsnotwendigkeiten innerhalb der Hochschulorganisation, die vor Projektbeginn nicht im Fokus lagen und erst im Prozess an Relevanz gewinnen. In dem vorliegenden Beitrag wird beispielhaft aufgezeigt, wie Veränderungsprozesse innerhalb von Hochschulen durch das Zusammenwirken von Forschung und (Angebots-)Entwicklung initiiert und von innen heraus intensiviert werden können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_166</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_166">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/166/155" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_166" DMDID="DMD_biejournals_166">
+            <mets:fptr FILEID="FILE0_biejournals_166"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

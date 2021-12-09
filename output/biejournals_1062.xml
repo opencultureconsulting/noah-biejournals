@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1062">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>This is the soundtrack of our identity</title>
+                        <subTitle>National mythscapes in music and the construction of collective identity through music in early Flemish radio (1929–1939)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Goessens, Lieselotte</displayForm>
+                        <namePart type="family">Goessens</namePart>
+                        <namePart type="given">Lieselotte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-06-26</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Based on research on the early Flemish radio of the 1920s and 1930s this article shows how particular musical repertoires can be used to address feelings of togetherness and imagined community and to influence the content and color of collective identities. Radio has played an important part in the reinforcement of Flemish collective identity and Flemish cultural emancipation, and music was an important means in this process. Through the example of the very first music program of the catholic Flemish broadcaster in October 1929 it becomes clear how music programs on the radio were an expression of collective identity, but also directed the meaning of this identity towards a specific interpretation. The article uses theories both from the field of nationhood studies as from the field of music sociology. Concepts of A.D. Smith and D. S. Bell are merged in the concept of ›mythscape‹ and used as tool in the analyses.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1062</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1062">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1062/1169" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1062" DMDID="DMD_biejournals_1062">
+            <mets:fptr FILEID="FILE0_biejournals_1062"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

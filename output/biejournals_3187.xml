@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3187">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kulturelle Bildungsnetzwerke in ländlichen Räumen</title>
+                        <subTitle>Das Verbundprojekt „Passungsverhältnisse Kultureller Bildungsnetzwerke und Kultur(en) in ländlichen Räumen im Kontext sozialer Teilhabe“ (PaKKT)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bender, Saskia</displayForm>
+                        <namePart type="family">Bender</namePart>
+                        <namePart type="given">Saskia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kolleck, Nina</displayForm>
+                        <namePart type="family">Kolleck</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lambrecht, Maike</displayForm>
+                        <namePart type="family">Lambrecht</namePart>
+                        <namePart type="given">Maike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In Bezug auf die Gewährleistung von Chancengleichheit benennt der Bildungsbericht 2018 die ausreichende bildungsbezogene Versorgung von ländlichen sowie eher strukturschwachen Regionen als eine der wichtigsten und schwierigsten Herausforderungen. Damit sind Phänomene sozialer Ungleichheit angesprochen, die sich aus Differenzen zwischen (urbanem) Zentrum und (ländlicher) Peripherie ergeben. In diesem Kontext versprechen kulturelle Bildungsprojekte in ländlichen Räumen notwendige Transformationseffekte hin-sichtlich sozial-kultureller Teilhabe sowie eine entsprechende Persönlichkeits-, Kompetenz- und Strukturentwicklung. Gleichzeitig stellt sich jedoch die Frage, &amp;nbsp;inwieweit Ansätze Kultureller Bildung, die tendenziell durch einen „urbanen Stil“ geprägt sind, Transformations- und Integrationsprozesse in ländlichen Räumen tatsächlich in Gang setzen können. Dieser Gegenstandsraum wird mit dem BMBF-Verbundvorhaben „Passungsverhältnisse Kultureller Bildungsnetzwerke und Kultur(en) in ländlichen Räumen im Kontext sozialer Teilhabe“ (PaKKT) sowohl netzwerktheoretisch als auch bildungs- und kulturtheoretisch konturiert. Im Zentrum stehen dabei kulturelle Bildungsnetzwerke in sehr peripheren ländlichen Räumen. Der Beitrag stellt die theoretische Konzeption, das Forschungsdesign sowie das in Kooperation mit der Wissenschaftlichen Einrichtung Oberstufen-Kolleg entwickelte Transferkonzept des Verbundprojekts vor.
+With regard to ensuring equal opportunities, the Education Report 2018 identifies the provision of sufficient education-related services to rural and structurally weak regions as one of the most important and most difficult challenges. This addresses phenomena of social inequality resulting from differences between (urban) centers and (rural) peripheries. In this context, cultural education projects in rural areas promise necessary transformation effects with regard to social and cultural participation as well as corresponding personal, competence-related and structural development. At the same time, the question arises to what extent approaches to cultural education, which tend to be characterized by an “urban style”, can actually set transformation and integration processes in rural areas in motion. The BMBF joint project “The Fitting of Cultural Education Networks and Culture(s) in Rural Areas in the Context of Social Participation (PaKKT)” will contour this area in terms of network theory, cultural theory, and theory of “Bil-dung”. The focus is on cultural education networks in very peripheral rural areas. This article presents the theoretical conception and the research design of the joint project and introduces the transfer concept, which was developed in co-operation with the Wissenschaftliche Einrichtung Oberstufen-Kolleg.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3187</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3187">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3187/3315" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3187" DMDID="DMD_biejournals_3187">
+            <mets:fptr FILEID="FILE0_biejournals_3187"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

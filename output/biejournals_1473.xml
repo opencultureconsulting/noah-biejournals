@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1473">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Vizepräsident_innen als Akteure in der hierarchischen Selbststeuerung wissenschaftlicher Weiterbildung</title>
+                        <subTitle>Ein Forschungsbericht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinbach, Gesa</displayForm>
+                        <namePart type="family">Heinbach</namePart>
+                        <namePart type="given">Gesa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rohs, Matthias</displayForm>
+                        <namePart type="family">Rohs</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vor dem Hintergrund der Umgestaltung von Steuerungsprozessen in Hochschulen – weg von einer verwaltenden Steuerung, hin zu einer Governance – verändert sich auch die Rolle der Hochschulleitungen im Geflecht hierarchischer Selbststeuerung. Der Bereich der wissenschaftlichen Weiterbildung stellt dabei ein besonderes Steuerungsfeld dar, da er im Gegensatz zu Forschung und grundständiger Lehre bisher wenig etabliert und damit gestaltbar ist. Eine besondere Funktion kommt dabei den Vizepräsident_innen zu, welche zentral für die strategische Ausrichtung und Steuerung entsprechender Einheiten zuständig sind. In sieben Interviews mit Vizepräsident_innen für Studium und Lehre im Sommer und Herbst 2018 wurde der Frage nachgegangen, ob die wissenschaftliche Weiterbildung als Feld der Etablierung neuer Steuerungsformen im Hochschulbereich fungiert und welche Instrumente dabei eingesetzt werden. Das Ergebnis zeigt eine geringe aktive Steuerung der wissenschaftlichen Weiterbildung durch die Vizepräsident_innen. Dabei werden– wenn überhaupt – etablierte Steuerungsinstrumente eingesetzt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1473</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1473">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/1473/3297" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1473" DMDID="DMD_biejournals_1473">
+            <mets:fptr FILEID="FILE0_biejournals_1473"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

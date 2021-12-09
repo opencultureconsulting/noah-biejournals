@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2852">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Scarcity and Abundance Revisited</title>
+                        <subTitle>A Literature Review on Natural Resources and Conflict</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mildner, Stormy-Annika</displayForm>
+                        <namePart type="family">Mildner</namePart>
+                        <namePart type="given">Stormy-Annika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lauster, Gitta</displayForm>
+                        <namePart type="family">Lauster</namePart>
+                        <namePart type="given">Gitta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wodni, Wiebke</displayForm>
+                        <namePart type="family">Wodni</namePart>
+                        <namePart type="given">Wiebke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Natural resources can contribute to economic growth, employment, and fiscal revenues. But many resource-rich and resource-dependent countries are, in fact, body of literature is devoted to the issue of intrastate resource conflicts. These studies can be broadly divided into two groups: studies which focus on resource characterized by disappointing growth rates, high inequality and wide-spread impoverishment, bad governance, and an increased risk of civil violence. A vast scarcity and conflict, and studies that analyse the relationship between resource abundance and conflict. While studying resources and intrastate conflict is anything but new, we show that the main findings from the literature, which are often conflicting, are difficult to compare due to a lack of adequate, and conflict, we discuss the central terminology and approaches to measuring independent and dependent variables (resources and conflict). general definitions and measurements of scarcity, abundance, and conflict. After overviews of research on resource scarcity and conflict and on resource abundance.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2852</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2852">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2852/pdf_48" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2852">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2852/2646" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2852" DMDID="DMD_biejournals_2852">
+            <mets:fptr FILEID="FILE0_biejournals_2852"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2852" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2852"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

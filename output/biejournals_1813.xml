@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1813">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Public expenditure and drug policies in Bulgaria in 2014</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vekov, Toni Yonkov</displayForm>
+                        <namePart type="family">Vekov</namePart>
+                        <namePart type="given">Toni Yonkov</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aleksandrova-Yankulovska, Silviya</displayForm>
+                        <namePart type="family">Aleksandrova-Yankulovska</namePart>
+                        <namePart type="given">Silviya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-30</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The objective of this study was to provide an analysis of the factors which have a significant impact on the growth of public expenditure on medical products in Bulgaria.Methods: This research work consists of a critical analysis of the data reported by theNational Health Insurance Fund in Bulgaria on the stability of the healthcare insurance model and the implementation of the budget for 2014.Results: The results from the current analysis indicate that the growth of public expenditure is directly proportional to the number of reimbursed medical products and that the pattern of prescriptions including the innovative medical products mainly for the treatment of oncological and rare diseases has a significant impact on it.Conclusion: The reasons for the increase of public expenditure in Bulgaria include the non-transparent decisions in pricing and reimbursement of the products, the lack of guidelines for presenting pharmacological evidence and the lack of legislatively-defined drug policies for the management and control of the patterns of medical prescriptions.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1813</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1813">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1813/1734" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1813" DMDID="DMD_biejournals_1813">
+            <mets:fptr FILEID="FILE0_biejournals_1813"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

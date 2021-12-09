@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3142">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theoriebasierte Fallreflexion (TFR) im Praxissemester </title>
+                        <subTitle>Didaktische Umsetzung und Evaluation</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Theory based counseling for students in teacher education during a long-term internship</title>
+                        <subTitle>Didactic implementation and evaluation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bonanati, Sabrina</displayForm>
+                        <namePart type="family">Bonanati</namePart>
+                        <namePart type="given">Sabrina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Westphal, Petra</displayForm>
+                        <namePart type="family">Westphal</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiethoff, Christoph</displayForm>
+                        <namePart type="family">Wiethoff</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der systematischen Reflexion von Praxiserfahrungen anhand von Theorie wird in der Lehrerinnenbildung ein besonders hoher Stellenwert zugeschrieben. Auf Makroebene wurde durch die Einführung des Praxissemesters in NRW auf der einen Seite ein wichtiger Schritt zur stärkeren Verknüpfung von Schulpraxis und universitärer Ausbildung getan. Auf der anderen Seite bestehen auf der Mirkoebene immer noch Herausforderungen in der Relationierung von Theorie und Praxis für Lehramtsstudierende. Hier heißt es für Dozierende, die Lehramtsstudierende während dieses Langzeitpraktikums in universitären Veranstaltungen begleiten, tragfähige Seminarkonzepte zu entwickeln. Der vorliegende Beitrag stellt eine Methode, die Theoriebasierte Fallreflexion (TFR), mit zwei Umsetzungsvarianten vor. Damit wird eine konkrete Möglichkeit dargelegt, wie in Begleitveranstaltungen zum Praxissemester zum einen eine systematische theoretische Analyse und zum anderen die Generierung individueller Handlungsmöglichkeiten für die konkrete Schulpraxis angeleitet werden kann. Des Weiteren werden insgesamt 410 verschiedene Rückmeldungen zur Methode von insgesamt N = 93 Studierenden, welche die TFR im Rahmen einer halbtägigen Blockveranstaltung durchführten, mittels der qualitativen Inhaltsanalyse nach Mayring (2015) kategorisiert. Die Studierenden betonten in ihren Rückmeldungen besonders das Potential der TFR im Hinblick auf ein tieferes Verständnis von theoretischen Inhalten sowie hinsichtlich der Möglichkeiten zum intensiven Austausch mit Kommilitonen*innen sowie zur individuellen Reflexion schulpraktischer Situationen.</abstract>
+                    <abstract lang="eng">One important goal in teacher education is to reflect experiences which pre-service teachers gain in their practical training during internships. On macro-level teacher education was optimized by implementing a long-term internship. For students, on micro-level, there are still challenges in relating theory and field experiences. That means for university teachers who accompany these students during their long-term internship to establish good working concepts for lectures. The following article presents a special lecture format, the theory based counceling (TFR), with two implementation forms. TFR offers a specific possibility to systematically relate theory and practice. Furthermore, TFR will help students gaining own and specific opportunities to act in the future. With regard to the evaluation, 410 comments of&amp;nbsp;N = 93 students were analyzed by Mayring’s (2015) content analysis. The students emphasized that TFR especially supported a deeper understanding of relevant theories, a more intensive discussion with other students, and a good option to relate theory and field experiences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3142</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3142">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3142/3579" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3142" DMDID="DMD_biejournals_3142">
+            <mets:fptr FILEID="FILE0_biejournals_3142"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

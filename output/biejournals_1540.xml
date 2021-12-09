@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1540">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Beobachtung für (angehende)  Lehrer*innen</title>
+                        <subTitle>Ein Lernvideo zu Grundlagen der Methode</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schweitzer, Julia</displayForm>
+                        <namePart type="family">Schweitzer</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zentrum des Beitrags steht ein Lernvideo, das einen Zugang zum systematischen Beobachten im Rahmen der Lehrer*innenbildung eröffnet. Nach der Darstellung der Inhalte des Videos, werden die verschiedenen Anwendungskontexte des Lernvideos konkretisiert. So kann es sowohl in der Lehrer*innenausbildung als auch von Lehrkräften im Rahmen von kollegialen Hospitationen zur Vorbereitung von systematischen Beobachtungen genutzt werden. Zudem wird im Beitrag die Abgrenzung einer Alltagsbeobachtung zu einer wissenschaftlichen Beobachtung erläutert, es werden verschiedene paradigmatische Zugänge zur Methode Beobachtung skizziert sowie zwei Argumentationslinien für den Einsatz von Beobachtungen in der Lehrer*innenbildung aufgezeigt. Schließlich werden die bisherigen Erfahrungen mit dem Einsatz des Lernvideos in der Lehre zusammengefasst.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1540</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1540">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/1540/1475" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE1_biejournals_1540">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/1540/1478" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1540" DMDID="DMD_biejournals_1540">
+            <mets:fptr FILEID="FILE0_biejournals_1540"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1540" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1540"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

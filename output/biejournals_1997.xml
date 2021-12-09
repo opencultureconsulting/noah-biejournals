@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1997">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Witz und Humor in der Supervision</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gogoll, Jörg</displayForm>
+                        <namePart type="family">Gogoll</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In der vorliegenden Arbeit werden Witz, Humor, Komisches, so wie es im beruflichen Alltag und Supervisionsprozessen auftaucht, beschrieben und im Hinblick auf die Tätigkeit des Einzelnen, der Gruppe oder der Institution untersucht. Freuds Buch &quot;Der Witz und seine Beziehung zum Unbewussten&quot; wird dabei als theoretischer Hintergrund aufgefasst.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1997</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1997">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/1997/1864" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1997" DMDID="DMD_biejournals_1997">
+            <mets:fptr FILEID="FILE0_biejournals_1997"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

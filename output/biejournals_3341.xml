@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3341">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Siegener Netzwerk Schule (SiNet)</title>
+                        <subTitle>Von der Universitätsschule zum Kooperationsverbund</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siewert, Jörg</displayForm>
+                        <namePart type="family">Siewert</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Trautmann, Matthias</displayForm>
+                        <namePart type="family">Trautmann</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag schildert die Entwicklung einer Partnerschaft zwischen der Universität Siegen und Schulen in der Region Südwestfalen und stellt das aktuelle Netzwerk als Ergebnis dieser Bemühungen vor. Im Schlussteil werden Potenziale und Probleme dieser Form der Zusammenarbeit erörtert.
+The article describes the development of a partnership between the University of Siegen and schools in the region of South Westphalia and presents the current network as a result of these efforts. In the concluding part, the potentials and problems of this form of cooperation are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3341</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3341">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3341/3510" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3341" DMDID="DMD_biejournals_3341">
+            <mets:fptr FILEID="FILE0_biejournals_3341"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2879">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Spousal Violence against Women in the Context of Marital Inequality</title>
+                        <subTitle>Perspectives of Pakistani Religious Leaders</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zakar, Rubeena</displayForm>
+                        <namePart type="family">Zakar</namePart>
+                        <namePart type="given">Rubeena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zakar, Muhammad Zakria</displayForm>
+                        <namePart type="family">Zakar</namePart>
+                        <namePart type="given">Muhammad Zakria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krämer, Alexander</displayForm>
+                        <namePart type="family">Krämer</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-10-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Spousal violence against women is a controversial issue in Pakistan. Some religious leaders argue that “mild wife-beating” is permissible in exceptional circumstances to discipline the wife and protect the institution of the family. Some conservative religious leaders also argue that the husband has a superior and authoritative position in marital relations. This highly contested and sensitive issue acquires religious overtones and the scientific community seems reluctant to investigate it. Based on fourteen in-depth interviews, this article documents the views and opinions of religious leaders in Lahore, Pakistan, concerning spousal violence within the context of marital inequality. Rather than debating the position of Islam on spousal violence, the paper explores the minds of religious leaders who greatly influence the views of the general public.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2879</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2879">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2879/pdf_28" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2879">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2879/2700" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2879" DMDID="DMD_biejournals_2879">
+            <mets:fptr FILEID="FILE0_biejournals_2879"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2879" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2879"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

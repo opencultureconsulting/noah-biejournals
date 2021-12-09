@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3994">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Konzept des fächerübergreifenden „Basiskurs Naturwissenschaften“ und seine didaktisch-methodischen Prinzipien</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stockey, Andreas</displayForm>
+                        <namePart type="family">Stockey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stiller, Cornelia</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hahn, Stefan</displayForm>
+                        <namePart type="family">Hahn</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Sinne einer naturwissenschaftlichen Grundbildung (Scientific Literacy) sollen Schüler*innen Kompetenzen vermittelt werden, durch die diese naturwissenschaftliches Wissen nicht nur abrufen, sondern auch anwenden können. In diesem Beitrag wird ein stark experimentell ausgerichteter Naturwissenschaftskurs mit sukzessiv steigender Selbstständigkeit für die Eingangsphase der Oberstufe vorgestellt, der das Ziel verfolgt, bei Schüler*innen Scientific Literacy anzubahnen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3994</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3994">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3994/3957" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3994" DMDID="DMD_biejournals_3994">
+            <mets:fptr FILEID="FILE0_biejournals_3994"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

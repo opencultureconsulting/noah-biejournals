@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4183">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Online-Lernen im Schülerlabor</title>
+                        <subTitle>Der Online-Workshop „Evolution von Coronaviren“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Panhorst , Maren</displayForm>
+                        <namePart type="family">Panhorst </namePart>
+                        <namePart type="given">Maren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Buschmann, Jana-Kim</displayForm>
+                        <namePart type="family">Buschmann</namePart>
+                        <namePart type="given">Jana-Kim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Das Schülerlabor teutolab-biotechnologie hat in Zeiten der Covid-19-Pandemie ein umfassendes Online-Angebot entwickelt. Der Online-Kurs „Evolution von Coronaviren“ richtet sich an Q2-Biologiekurse der gymnasialen Oberstufe. Er behandelt genetische Untersuchungen (Analyse von Genmutationen), phylogenetische Untersuchungen (Erstellung von Stammbäumen) sowie die Diagnostik von SARS-CoV-2 und wird von Mitarbeiter*innen des teutolab-biotechnologie via Zoom durchgeführt.“</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4183</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4183">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4183/4297" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4183" DMDID="DMD_biejournals_4183">
+            <mets:fptr FILEID="FILE0_biejournals_4183"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

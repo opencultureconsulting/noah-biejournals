@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Changing Attitudes, Changing Behaviors. Conceptual Change as a Model for Teaching Freedom of Religion or Belief</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ramirez, Mary Anne Rea</displayForm>
+                        <namePart type="family">Ramirez</namePart>
+                        <namePart type="given">Mary Anne Rea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ramirez, Tina Marie</displayForm>
+                        <namePart type="family">Ramirez</namePart>
+                        <namePart type="given">Tina Marie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: The purpose is to demonstrate that conceptual change theory and strategies can be applied to areas of the social science, such as human rights education on FORB.Design/methodology/approach: The theoretical scope of this paper is conceptual change theory and is intended to introduce the theory and practice of conceptual change in teaching about FORB in social sciences and how it was used in training teachers.Findings: Conceptual change theory and strategies were found to be effective in teaching about FORB.Practical implications: This study introduces the use of conceptual change theory and strategies in teaching about human rights.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_856</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_856">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/856/972" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/png" ID="FILE1_biejournals_856">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/856/973" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_856">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/856/974" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_856" DMDID="DMD_biejournals_856">
+            <mets:fptr FILEID="FILE0_biejournals_856"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_856" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_856"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_856" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_856"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

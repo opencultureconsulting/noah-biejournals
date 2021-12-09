@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2910">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Violence Prevention in Austrian Schools</title>
+                        <subTitle>Implementation and Evaluation of a National Strategy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Spiel, Christiane</displayForm>
+                        <namePart type="family">Spiel</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wagner, Petra</displayForm>
+                        <namePart type="family">Wagner</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Strohmeier, Dagmar</displayForm>
+                        <namePart type="family">Strohmeier</namePart>
+                        <namePart type="given">Dagmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A qualitative study of Austria’s national strategy against violence in the public school system introduced in 2008. The national strategy developed by researchers consists of six activity domains with specific goals and projects defined for each. The evaluation (1) analyzes how the realized projects contributed to the six activity domains, (2) evaluates the national strategy at a general level, and (3) provides future recommendations. Eight members of the steering committee were interviewed at two points in the implementation process. The systematic interviews were coded according to the goals of the activity domains. According to the interviewees most of the projects have been satisfactorily implemented. Networking and cooperation with the different actors in the field of violence prevention and cooperation among steering committee members have been improved. However, the national strategy has not achieved the intended public recognition. The lessons learned from the evaluation and its results are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2910</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2910">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2910/pdf_62" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2910">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2910/2763" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2910" DMDID="DMD_biejournals_2910">
+            <mets:fptr FILEID="FILE0_biejournals_2910"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2910" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2910"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

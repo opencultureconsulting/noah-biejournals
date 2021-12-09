@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_791">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Real-World Engagement with Controversial Issues in History and Social Studies</title>
+                        <subTitle>Teaching for Transformative Experiences and Conceptual Change</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Alongi, Marc D</displayForm>
+                        <namePart type="family">Alongi</namePart>
+                        <namePart type="given">Marc D</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heddy, Benjamin C</displayForm>
+                        <namePart type="family">Heddy</namePart>
+                        <namePart type="given">Benjamin C</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sinatra, Gale M</displayForm>
+                        <namePart type="family">Sinatra</namePart>
+                        <namePart type="given">Gale M</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-06-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Controversial issues have been established within the larger framework of civic education as an effective pedagogical approach to developing critical thinking in the classroom, preparing students with intellectual habits necessary for participation in scholarship, civic life and democracy. In this study, we found that a pedagogical intervention, Teaching for Transformative Experience in History, in some cases led to significantly higher engagement with political concepts beyond the classroom, and in other cases, the intervention led to significantly improved conceptual change. The study addresses some of the challenges presented by the research on civic education, providing a potential framework for developing pedagogical practice in history and social studies education that grounds a participatory, meaning-making process in curriculum design and assessment framed by controversial issues.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_791</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_791">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/791/860" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_791">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/791/861" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE2_biejournals_791">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/791/862" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE3_biejournals_791">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/791/863" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE4_biejournals_791">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/791/864" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_791" DMDID="DMD_biejournals_791">
+            <mets:fptr FILEID="FILE0_biejournals_791"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_791" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_791"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_791" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_791"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_791" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_791"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_791" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_791"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

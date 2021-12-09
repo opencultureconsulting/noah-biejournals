@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3096">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Two violent trajectories on the micro-macro continuum</title>
+                        <subTitle>emotional tipping-point conflicts, and dispersed attrition conflicts</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Collins, Randall</displayForm>
+                        <namePart type="family">Collins</namePart>
+                        <namePart type="given">Randall</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Micro-sociology analyzes very short expanses of time and space, macro-sociology long expanses. There is no historical trend from micro to macro techniques of violence or vice versa; but changes result from stalemates of older technique, shifting to either a faster or a longer sequence of violent moves; advantage goes to the side which catches their opponent emotionally off balance. Prolonged stalemated struggles are destructive wars of attrition. Successful revolutions concentrate masses of people on a dramatic showdown in a central place, and can result in a rapid, low-casualty transfer of power. Comparing failed and successful revolutions, the more micro-concentration in time and place, the more likely a rapid tipping point will occur through a shift in emotional domination. But where revolutionary struggle becomes spread out, it turns into civil war, which become especially destructive when outside allies supply weapons to keep it going. Moving along the continuum towards the macro end de-emphasizes emotional turning points and motivates opponents to win by attrition. Moving towards the micro end allows the possibility of a quick and less destructive resolution.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3096</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3096">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3096/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3096" DMDID="DMD_biejournals_3096">
+            <mets:fptr FILEID="FILE0_biejournals_3096"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

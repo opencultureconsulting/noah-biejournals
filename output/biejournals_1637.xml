@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1637">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mehr Zeit zum Experimentieren - Ein Vorschlag zur Konzeption einer Unterrichtseinheit „Enzymatik“ in der Oberstufe mittels des ICM</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gerhard, Marc</displayForm>
+                        <namePart type="family">Gerhard</namePart>
+                        <namePart type="given">Marc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wrede, Jonathan</displayForm>
+                        <namePart type="family">Wrede</namePart>
+                        <namePart type="given">Jonathan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Immer wieder wird die fehlende Zeit als ein Grund für die seltene Durchführung von Experimenten im Biologieunterricht angeführt. Trotzdem ist die Planung, Durchführung und Auswertung von Experimenten ein anerkanntes Ziel des Biologieunterrichts. Eine Analyse bisheriger Unterrichtseinheiten der Enzymatik zeigt: Insbesondere die Vorbereitung der Schülerinnen und Schüler (S.) auf das Experimentieren benötigt viel Unterrichtszeit. Häufig kommt dadurch die Auswertung des Experiments am Ende der Stunde zu kurz.Diesem Missstand wird in dieser Konzeption begegnet. Die Vorbereitung der S. auf die Experimente wird durch das Inverted Classroom Models (ICM) motivierend ausgelagert und professionalisiert. Hierbei wird den S. ein Videoclip mit zugehörenden Aufgaben als vorbereitende Hausaufgabe zur Verfügung gestellt. Nach deren Bearbeitung sind die S. mit dem Zweck des Experiments, den Enzymen und den Materialen sowie Tipps zur Durchführung vertraut. Durch die gute Vorbereitung planen die S. während des Unterrichts ein zum Phänomen des Stundeneinstiegs passendes biokatalytisches Experiment zielgerichteter. Zudem beginnen sie schneller mit einer fehlerfreieren Durchführung. Dadurch gibt es vor dem Stundenende ausreichend Zeit zur gemeinsamen Analyse der Ergebnisse z.B. zur Substratspezifität der Enzyme oder der Abhängigkeit der Umsatzrate von Substratmenge, Temperatur bzw. des pH-Wertes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1637</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1637">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1637/1583" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1637" DMDID="DMD_biejournals_1637">
+            <mets:fptr FILEID="FILE0_biejournals_1637"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

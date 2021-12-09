@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1648">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Denken in Kreisläufen </title>
+                        <subTitle>Lernerperspektiven zum Entwicklungszyklus von Blütenpflanzen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Benkowitz, Dorothee</displayForm>
+                        <namePart type="family">Benkowitz</namePart>
+                        <namePart type="given">Dorothee</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lehnert, Hans-Joachim</displayForm>
+                        <namePart type="family">Lehnert</namePart>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-03-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In unserer vergleichenden Querschnittstudie haben wir die Vorstellungen zum pflanzlichen Entwicklungszyklus von Schülerinnen und Schülern unterschiedlicher Schulstufen (Jgst. 1, 6, 8) sowie von Studierenden erhoben. Im Rahmen leitfadenstrukturierter Einzelinterviews sollten unterschiedliche Entwicklungsstadien einer einjährigen Blütenpflanze geordnet und das Vorgehen begründet werden. Zusätzlich wurden ergänzende Fragen zur Herkunft von Pflanzen und Samen gestellt. Die Ergebnisse der Studie zeigen, dass die meisten Probanden Schwierigkeiten hatten, die pflanzliche Entwicklung als Zyklus bzw. Spirale zu verstehen. Dies ließ sich nicht nur an der gestellten Reihenfolge, sondern vor allem an den Begründungen für die gewählte Reihe erkennen. Die Mehrheit der Untersuchten – auch der Erwachsenen – verfügt demnach nicht über ein tragfähiges Konzept zum pflanzlichen Entwicklungszyklus. Einen entscheidenden Einfluss zur Entwicklung eines tragfähigen Konzepts hat die eigene Vorerfahrung mit Säen von Samen: Es besteht ein hochsignifikanter Zusammenhang zwischen eigenen Erfahrungen mit dem Aussäen und dem Stellen der Reihe. Dies spricht für einen erfahrungsbasierten Ansatz als Ausgangspunkt für erfolgreichen Unterricht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1648</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1648">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1648/1594" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1648" DMDID="DMD_biejournals_1648">
+            <mets:fptr FILEID="FILE0_biejournals_1648"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bildung für die Zukunft in Zeiten globaler Krisen? Chancen und Dilemmata in der demokratischen und (trans)kulturellen Bildung sowie der Bildung für nachhaltige Entwicklung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kolleck, Nina</displayForm>
+                        <namePart type="family">Kolleck</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Als Konsequenz der Covid-19-Pandemie und der damit verbundenen Schulschließungen in Deutschland fordern Expert*innen aus Wissenschaft, Bildungspolitik und Bildungsverwaltung eine verstärkte Thematisierung von demokratischer und (trans)kultureller Bildung in Schulen sowie neue Strategien zur Umsetzung von Bildung für nachhaltige Entwicklung. Der vorliegende Beitrag wendet sich der Thematik zu und diskutiert die Relevanz der Vermittlung von Aspekten der demokratischen und (trans)kulturellen Bildung sowie der Bildung für nachhaltige Entwicklung zu Zeiten der globalen Pandemie sowie ein daraus resultierendes Dilemma: die Notwendigkeit von Erziehung einerseits (Erhalt der Gesellschaft) und die Unmöglichkeit von Erziehung andererseits (freie Entfaltung einer eigenen Persönlichkeit).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3914</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3914">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3914/3959" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3914" DMDID="DMD_biejournals_3914">
+            <mets:fptr FILEID="FILE0_biejournals_3914"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

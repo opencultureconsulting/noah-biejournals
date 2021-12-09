@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3125">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Necro-spaces and Violent Homicides in Mexico</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Arteaga-Botello, Nelson</displayForm>
+                        <namePart type="family">Arteaga-Botello</namePart>
+                        <namePart type="given">Nelson</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dávila-Cervantes, Claudio A.</displayForm>
+                        <namePart type="family">Dávila-Cervantes</namePart>
+                        <namePart type="given">Claudio A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pardo-Montaño, Ana M.</displayForm>
+                        <namePart type="family">Pardo-Montaño</namePart>
+                        <namePart type="given">Ana M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article focuses on the spatial autocorrelation of homicidal violence and the presence of groups that have the capacity to exercise sovereignty. These actors possess necro-power and operate sometimes within, sometimes outside the framework of the law. They are sometimes in opposition to one another, while at other times they operate in a coordinated fashion. Their presence gives form to what we shall call necro-spaces: places where different actors (hitmen, dealers, the police or the military) spread death and destruction, in indefinite confrontations with no foreseeable victor. The methodology of our analysis of the spatial autocorrelation of homicidal violence at the municipal level in the years 2005, 2010 and 2015 enabled us to connect the spatial relationships among the homicides with descriptions of the groups that build regimes of violence in those spaces.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3125</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3125">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3125/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3125" DMDID="DMD_biejournals_3125">
+            <mets:fptr FILEID="FILE0_biejournals_3125"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

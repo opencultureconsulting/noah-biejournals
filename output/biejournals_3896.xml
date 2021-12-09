@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3896">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexion fachspezifischer Beliefs</title>
+                        <subTitle>„Meine musikdidaktische Position“</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neuhaus, Daniela</displayForm>
+                        <namePart type="family">Neuhaus</namePart>
+                        <namePart type="given">Daniela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das vorgestellte Material zielt darauf ab, Lehramtsstudierende mit dem Fach Musik dabei zu unterstützen, sich ihre Beliefs über Musikunterricht bewusst zu machen, und entsprechende Reflexionsprozesse im Kontext des Praxissemesters anzuregen. Inhaltlich stehen dabei normative Vorstellungen über Musikunterricht im Mittelpunkt. Das Material besteht aus einer ausführlichen Anleitung dazu, sich die Beliefs zu Zielen, Inhalten und Methoden von Musikunterricht soweit wie möglich bewusst zu machen. Im nächsten Schritt werden diese schriftlich formuliert sowie mit den zugrundeliegenden Erfahrungen verknüpft. Ebenso sollen Veränderungen vor bzw. während des Praxissemesters reflektiert werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3896</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3896">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3896/3886" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3896">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3896/3887" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3896" DMDID="DMD_biejournals_3896">
+            <mets:fptr FILEID="FILE0_biejournals_3896"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3896" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3896"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

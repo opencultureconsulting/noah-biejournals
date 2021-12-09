@@ -1,0 +1,94 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3284">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Schüler*innen wiederholen selbstständig lineare Funktionen</title>
+                        <subTitle>Binnendifferenzierung im Mathematikunterricht durch gestufte Lernhilfen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hamers, Philipp</displayForm>
+                        <namePart type="family">Hamers</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bekel-Kastrup, Holger</displayForm>
+                        <namePart type="family">Bekel-Kastrup</namePart>
+                        <namePart type="given">Holger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kleinert, Svea Isabel</displayForm>
+                        <namePart type="family">Kleinert</namePart>
+                        <namePart type="given">Svea Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tegtmeier, Nina</displayForm>
+                        <namePart type="family">Tegtmeier</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">5</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dem Forschungsprojekt „Bielefelder Binnendifferenzierung in den MINT-Fächern“ (BiBi-MINT) am Oberstufen-Kolleg Bielefeld zur Verzahnung von Mathematikunterricht und Naturwissenschaftsunterricht mit gleichzeitiger Binnendifferenzierung sind unter anderem zwei gestufte Lernhilfen zur Wiederholung linearer Funktionen entstanden und evaluiert worden. Sie sind dazu geeignet, dass Schüler*innen eigenverantwortlich lineare Funktionen wiederholen und vertiefen und können ebenfalls als exemplarisches Beispiel in der Lehrer*innenbildung dienen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3284</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3284">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3284/3436" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3284">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3284/3444" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_3284">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/3284/3445" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3284" DMDID="DMD_biejournals_3284">
+            <mets:fptr FILEID="FILE0_biejournals_3284"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3284" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3284"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_3284" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_3284"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

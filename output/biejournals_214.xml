@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_214">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„…die bringen so viel mit“ Wie Lehrende Studierende in der wissenschaftlichen Weiterbildung wahrnehmen und ihre Lehrstrategien davon ableiten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mörth, Anita</displayForm>
+                        <namePart type="family">Mörth</namePart>
+                        <namePart type="given">Anita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schiller, Erik</displayForm>
+                        <namePart type="family">Schiller</namePart>
+                        <namePart type="given">Erik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-12-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Artikel beschäftigt sich mit der Frage, welche Strategien Lehrende haben, um Lehren und Lernen in der wissenschaftlichen Weiterbildung zu gestalten. Zu diesem Zweck werden Analyseergebnisse von Interviews mit Lehrenden in der wissenschaftlichen Weiterbildung zu ihren Rollen und Lehrstrategien sowie zu ihrer Wahrnehmung von Studierenden vorgestellt. Ferner wird die wechselseitige Beziehung zwischen dem Bild von Studierenden, den&amp;nbsp; Lehrstrategien und der Gestaltung eines offenen Lernklimas diskutiert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_214</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_214">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/214/216" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_214" DMDID="DMD_biejournals_214">
+            <mets:fptr FILEID="FILE0_biejournals_214"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

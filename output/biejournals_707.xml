@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_707">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Young People and the European Dimension in a Norwegian Context. Migration and National Critical Events as Challenges to Citizenship Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Skeie, Geir</displayForm>
+                        <namePart type="family">Skeie</namePart>
+                        <namePart type="given">Geir</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-04-06</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The article discusses the ‘European dimension’ in a Norwegian context with focus on the relevance for young people in particular. Against a backdrop of literature discussing Norwegian majority self-understanding in relation to Europe, the article discusses some examples that are relevant for addressing the overall theme, namely recent work-migration to Norway and the terrorist attacks of 22. July 2011. As different as they may be, both these cases are raising urgent issues related to socio-cultural diversity, inclusion and resilience and it is suggested that this may be addressed more in citizenship education.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_707</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_707">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/707/763" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_707" DMDID="DMD_biejournals_707">
+            <mets:fptr FILEID="FILE0_biejournals_707"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

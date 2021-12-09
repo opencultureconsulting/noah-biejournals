@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4381">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Digital health information technology utilization for enhanced health services delivery in Africa</title>
+                        <subTitle>Unravelling barriers to adoption among Primary healthcare providers</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ohia, Chinenyenwa</displayForm>
+                        <namePart type="family">Ohia</namePart>
+                        <namePart type="given">Chinenyenwa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ongolo-Zogo, Pierre</displayForm>
+                        <namePart type="family">Ongolo-Zogo</namePart>
+                        <namePart type="given">Pierre</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fawole, Olufunmilayo Ibitola</displayForm>
+                        <namePart type="family">Fawole</namePart>
+                        <namePart type="given">Olufunmilayo Ibitola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In tandem with the current drive to achieve the SDG 2030 goals, the Universal Health Coverage (UHC) is been projected as a strong propelling strategy with key indicators, all aimed at achieving universal access to health services without having to endure financial difficulties in individual countries. Currently, Africa is lagging in meeting the targets of the UHC with between 5% -25% coverage across countries.
+Adoption of new innovations are critical for the actualization of Universal Health Coverage in Africa. Digital health technology offers one of such novel approaches to providing quality healthcare services and can help countries achieve the Universal Health Coverage targets. It has been suggested that digital health provides an opportunity to overcome the longstanding problems of inefficiency of health information gathering, sharing, and access. In addition, literature is already replete with various factors that can aid countries to achieve UHC and one of such factors is the urgency of generating valid and quality evidence to inform decision-making.
+Although the Primary Health Care remains at the core of the achievement of Universal Health Coverage, the utilization of digital health technologies remains very poor at the grassroots in Africa and this poses a huge barrier to effectiveness and quality of healthcare delivery. Given the foregoing, it is obvious that there is an urgent need to understand the landscapes, issues and barriers to utilization of digital health at the Primary Health Care levels. However, there remains a paucity of data to support evidence-based decision making about full implementation of digital health services across the continent while also taking into cognisance the peculiarities of individual countries.
+Hence, there is a critical need to determine the current levels of knowledge, skills, attitude, practice and readiness to adopt digital health in service delivery by healthcare workers at the Primary Health Care levels across the continent. The generation of such data from major stakeholders such as health workers and health managers, providers among others will provide important evidence needed for attaining optimal utilization of digital health in the context of health for all.&amp;nbsp;
+Summarily, a clear understanding of the contextual and implementation bottlenecks highlighted from such assessment(s), especially as it relates to individual African countries, will go a long way to guide decisions to address the low utilization of digital health technologies in health services delivery in Africa.
+&amp;nbsp;
+Source of funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+&amp;nbsp;
+Acknowledgement
+The authors acknowledge the support of the Department of Environmental Health Sciences, University of Ibadan and contributions of Prof. G.R.E. E Ana, Prof. M.K.C. Sridhar, Dr. E.C. Uwalaka, Dr. O.T. Okareh and Dr. O.M. Morakinyo, in the writing of this paper
+CO is supported by&amp;nbsp;Consortium for Advanced Research Training in Africa (CARTA) which is funded by the Carnegie Corporation of New York (Grant No--B 8606.R02), Sida (Grant No:54100029), the DELTAS Africa Initiative (Grant No: 107768/Z/15/Z).
+&amp;nbsp;
+Conflict of interest statement 
+The authors declare that they have no known competing financial interests or personal relationships that could have influenced the writing of this paper.
+&amp;nbsp;
+Author contributions
+CO:&amp;nbsp;Conceptualization; CO, PO and OF: Writing- Original draft preparation,&amp;nbsp;CO, PO and OF: Writing- Reviewing and Editing.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4381</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4381">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/4381/4434" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4381" DMDID="DMD_biejournals_4381">
+            <mets:fptr FILEID="FILE0_biejournals_4381"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

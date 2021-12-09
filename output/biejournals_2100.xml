@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2100">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie Reisen in ein anderes Land</title>
+                        <subTitle>Supervision im Osten der Republik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mory, Friedhild</displayForm>
+                        <namePart type="family">Mory</namePart>
+                        <namePart type="given">Friedhild</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Prozesse, nicht nur kurz nach der Wende gestartet, haben bis heute Eigendynantiken besonderer Art, die mit verborgenen Wünschen der Supervisandinnen - unter anderem nach Anerkenntnis der Geschichte und der spezifischen Professionalität -, einhergehen, und die auch einer hohen Sensibilität und Neugier einer (West-)Supervisorin oder eines (West-)Supervisors bedürfen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2100</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2100">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2100/1967" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2100" DMDID="DMD_biejournals_2100">
+            <mets:fptr FILEID="FILE0_biejournals_2100"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

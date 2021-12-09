@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2921">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Knowing, Building and Living Together on Internet and Social Networks</title>
+                        <subTitle>The ConRed Cyberbullying Prevention Program</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ortega-Ruiz, Rosario</displayForm>
+                        <namePart type="family">Ortega-Ruiz</namePart>
+                        <namePart type="given">Rosario</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Del Rey, Rosario</displayForm>
+                        <namePart type="family">Del Rey</namePart>
+                        <namePart type="given">Rosario</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Casas, José A.</displayForm>
+                        <namePart type="family">Casas</namePart>
+                        <namePart type="given">José A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An evaluation of the success of the evidence-based ConRed program, which addresses cyberbullying and other emerging problems linked with the use of the internet and seeks to promote a positive use of this new environment. The main aims of the ConRed program are a) to improve perceived control over information on the internet, b) to reduce the time dedicated to digital device usage, and c) to prevent and reduce cyberbullying. The impact of the program was evaluated with a quasi-experimental design with a sample of 893 students (595 experimental and 298 control). The results of the mixed repeated measures ANOVAs demonstrate that ConRed contributes to reducing cyberbullying and cyber-dependence, to adjusting the perception of information control, and to increasing the perception of safety at school.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2921</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2921">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2921/pdf_67" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2921">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2921/2785" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2921" DMDID="DMD_biejournals_2921">
+            <mets:fptr FILEID="FILE0_biejournals_2921"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2921" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2921"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

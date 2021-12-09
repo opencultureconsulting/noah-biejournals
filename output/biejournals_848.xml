@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_848">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Finance-Informed Citizens, Citizen-Informed Finance</title>
+                        <subTitle>An Essay Occasioned by the International Handbook of Financial Literacy</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Willis, Lauren E.</displayForm>
+                        <namePart type="family">Willis</namePart>
+                        <namePart type="given">Lauren E.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: Throughout the world, the dominant discourse treats “financial literacy” as both necessary and sufficient to improve the well-being of individuals and society.Findings: This essay argues that financial literacy is neither, and that promoting financial literacy is a perverse way to address the inadequate retirement funding, overindebtedness, financial crises, and other social ills that have inspired governments and educators to pursue it. In its place, this essay suggests that the aim of financial education ought to be to foster finance-informed citizens, who have the capacity for civic engagement that can create citizen-informed economic policies and financial regulation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_848</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_848">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/848/960" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_848" DMDID="DMD_biejournals_848">
+            <mets:fptr FILEID="FILE0_biejournals_848"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

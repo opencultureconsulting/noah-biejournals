@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1058">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Body and its Multiple Dimensions</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mosuela, Cleovi C.</displayForm>
+                        <namePart type="family">Mosuela</namePart>
+                        <namePart type="given">Cleovi C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dostert, Britta</displayForm>
+                        <namePart type="family">Dostert</namePart>
+                        <namePart type="given">Britta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Studies of health in psychology have typically utilized an individualistic approach, focusing on individuals’ adjustment to changes (e.g., due to migration or aging). This paper examines the intersection of aging and migration, exploring how individual behaviors, decisions, and meanings around health are produced within larger social structures that shape Filipina migrants’ lives. Thematic analysis (Braun and Clarke, 2006) with attention to discourse was applied to in-depth, semi-structured interviews with Filipina migrants in Auckland, New Zealand. I argue that Filipina migrants construct good health in aging as being an outcome of a health-promoting culture and environment in New Zealand. Such a claim proposes that healthy aging is a norm in New Zealand, easily achievable by its (responsible) citizens. Achieving and displaying a healthy body can mean the fulfilling good citizenship and success as migrants in New Zealand, but also obscures socially produced challenges that make it difficult for migrants to achieve health.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1058</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1058">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1058/1166" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1058" DMDID="DMD_biejournals_1058">
+            <mets:fptr FILEID="FILE0_biejournals_1058"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

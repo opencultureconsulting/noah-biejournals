@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4456">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschendes Lernen im Sachunterricht</title>
+                        <subTitle>Eine Strukturierungshilfe zur Formulierung einer sachunterrichtsdidaktischen Forschungsfrage</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reh, Anne</displayForm>
+                        <namePart type="family">Reh</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die vielperspektivische bzw. interdisziplinäre Konzeption des Sachunterrichts überfordert viele Studierende bei der Ausarbeitung einer geeigneten Forschungsfrage für Studienprojekte im Praxissemester. Denn neben der grundsätzlichen Schwierigkeit – der Durchführung eines bisher noch wenig eingeübten Forschungsprozesses – bereitet die besondere Offenheit des Sachunterrichts bzgl. der Perspektiven der Kinder in Kombination mit den vielen verschiedenen möglichen Themen und Unterrichtsgegenständen, die der Sachunterricht als vielperspektivisches Fach bietet, den Studierenden bei der Planung und Durchführung ihrer Studienprojekte große Schwierigkeiten. Das beiliegende Material kann durch mehrere Reflexions- und Austauschzyklen Abhilfe anbieten. Bei der Konzeption des Materials wurden verschiedene Bezüge einerseits zur Fachdidaktik, andererseits des Forschenden Lernens berücksichtigt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4456</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4456">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4456/4463" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4456" DMDID="DMD_biejournals_4456">
+            <mets:fptr FILEID="FILE0_biejournals_4456"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

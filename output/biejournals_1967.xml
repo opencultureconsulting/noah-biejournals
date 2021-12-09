@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1967">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Forschungsnah Lehren und Studieren – die Rolle der Hochschuldidaktik</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riewerts, Kerrin</displayForm>
+                        <namePart type="family">Riewerts</namePart>
+                        <namePart type="given">Kerrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weiß, Petra</displayForm>
+                        <namePart type="family">Weiß</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Welche Rolle spielt die Hochschuldidaktik in der Umsetzung einer forschungsnahen Lehre und beim Forschenden Studieren? Anhand eines hochschuldidaktischen Workshops an der Universität Bielefeld wird dargelegt, wie Lehrende angeregt werden, ihre Lehre forschungsnah auszugestalten. Letztendlich sollen Studierende davon profitieren, indem sie sich motiviert mit einem Sachverhalt tiefgreifend auseinandersetzen. Anschließend werden beispielhaft Projekte anderer Hochschulen skizziert und die dazugehörige Begleitung der Hochschuldidaktik aufgezeigt, um die Spannbreite des Einsatzes dieses Konzeptes aufzuzeigen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1967</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1967">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/1967/3326" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1967" DMDID="DMD_biejournals_1967">
+            <mets:fptr FILEID="FILE0_biejournals_1967"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

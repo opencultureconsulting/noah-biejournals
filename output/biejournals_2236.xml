@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2236">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Mut zur Wahrheit&quot;. Michel Foucault als Supervisor und Berater</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Friedrich, Peter</displayForm>
+                        <namePart type="family">Friedrich</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend vom Gesamtwerk Foucaults werden historisch entstandeneMachtformen â€&#144; die leviathanische Macht, die Panoptikummacht, dieÂ  Pastoratsmacht und die Gouvernementalität erläutert und unterschieden. Beratung als Schlüsselform wird den jeweiligen Formen der Macht in ihren historischen Ausprägungen und Selbstverständnissen zugeordnet. Schließlich wird auf reflexive Haltungen in der Beratung, vor allem auf die parrhesia alsmachtkritische Form hingewiesen</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2236</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2236">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2236/2149" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2236">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2236/2150" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2236" DMDID="DMD_biejournals_2236">
+            <mets:fptr FILEID="FILE0_biejournals_2236"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2236" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2236"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

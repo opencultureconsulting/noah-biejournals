@@ -1,0 +1,49 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1830">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>First half century of the Association of Schools of Public Health in the European Region</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Levett, Jeffrey</displayForm>
+                        <namePart type="family">Levett</namePart>
+                        <namePart type="given">Jeffrey</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-20</dateIssued>
+                    </originInfo>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1830</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1830">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1830/1751" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_1830">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1830/1752" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1830" DMDID="DMD_biejournals_1830">
+            <mets:fptr FILEID="FILE0_biejournals_1830"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1830" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1830"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

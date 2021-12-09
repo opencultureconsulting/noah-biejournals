@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3359">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Democracy and Education (John Dewey 1916)</title>
+                        <subTitle>– a commentary and a handbook</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grammes, Tilman</displayForm>
+                        <namePart type="family">Grammes</namePart>
+                        <namePart type="given">Tilman</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In 1916, John Dewey published one of his most influential books, Democracy and Education, often abbreviated as D&amp;amp;E among the Dewey community. As part of the centennary of its publication, in 2016, some interesting works on this seminal book have been published.&amp;nbsp;The books, authored by Dennis Phillips and by Leonhard Waks, describe themselves as “a companion” and “a handbook”.&amp;nbsp;As it is a voluminous, jagged work and perhaps quoted more often than read, social science educators may find the following two books interesting and useful commentaries.
+&amp;nbsp;
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3359</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3359">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3359/3550" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3359" DMDID="DMD_biejournals_3359">
+            <mets:fptr FILEID="FILE0_biejournals_3359"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

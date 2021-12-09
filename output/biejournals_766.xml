@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_766">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Iranian EFL Teachers’ Voices on the Pedagogy of Word and World</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Safari, Parvin</displayForm>
+                        <namePart type="family">Safari</namePart>
+                        <namePart type="given">Parvin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rashidi, Nasser</displayForm>
+                        <namePart type="family">Rashidi</namePart>
+                        <namePart type="given">Nasser</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2016-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Critical pedagogy (CP) with the eventual aim of creating changes in society towards the socially just world rests upon the premise that language learning is understood as a sociopolitical event. Schools and classrooms are not merely seen as the neutral and apolitical sites or oxymoron of transmitting taken-for-granted knowledge and common sense to students but rather as the political and democratic sites in which teachers, through praxis-oriented activities, furnish opportunities for students to critically question oppressive systems, hierarchies, and sociopolitical inequalities. Through the connection of word to the world, or the relationship between classroom learning and students’ lived experiences and worlds, teachers can create social transformation and empowerment in the marginalized students’ lives. However, teachers as the transformative intellectuals can facilitate this transformative process only if they are equipped with the critical theories, theoretical underpinnings and practical implications of CP. A brief look at the CP literature reveals that most of the researches center on its theories and conceptual dimensions without presenting any pragmatic discourse or practical realizations to critical pedagogues. In fact, this study intends to investigate the problems, concerns, and frustrations that Iranian EFL teachers encounter while enacting this alternative pedagogy. So, the researchers adopted purposive sampling to choose thirty-four EFL teachers from private English language institutes in Tehran, Yazd and Shiraz, Iran; and focused interview as the appropriate data gathering instrument of qualitative research. Finally, the researchers unearthed the relevant themes concerning the practical dimensions as the supplementary components of CP in EFL context of Iran.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_766</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_766">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/766/835" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_766" DMDID="DMD_biejournals_766">
+            <mets:fptr FILEID="FILE0_biejournals_766"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

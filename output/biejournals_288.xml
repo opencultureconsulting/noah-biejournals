@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_288">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Economic Education in England</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Abbott, Ian</displayForm>
+                        <namePart type="family">Abbott</namePart>
+                        <namePart type="given">Ian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2003-11-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2001</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Over recent years Economics as a separate subject has been in decline in England. Business Studies has grown in importance and the term Business Education is now more commonly used, in schools and colleges, to describe this area of work. This paper considers recent developments in the subject area and opportunities for further development. Particular emphasis is placed on the role of Business Education in the wider 14-19 curriculum and the prospects for future growth. The division between academic and vocationally related courses is emphasised with consideration given to the recent reform of the post-16 curriculum in England. The training of teachers in this area is outlined and implications arising from an increasing demand for teachers of Business Education is discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_288</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_288">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/288/285" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_288" DMDID="DMD_biejournals_288">
+            <mets:fptr FILEID="FILE0_biejournals_288"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

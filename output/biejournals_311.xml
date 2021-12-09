@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>„Lehrkunstdidaktik“ - Framework and Example of a Definite „Inhaltsdidaktik“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Berg, Hans Christoph</displayForm>
+                        <namePart type="family">Berg</namePart>
+                        <namePart type="given">Hans Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2004-01-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">According to our experience, didactics as integration of method, subject (syllabi or curricula), and organisation of teaching on the one hand and of theory of education and formation (Bildung) on the other hand is most likely to succeed by concentrating on the composition of Lehrstücke in a case-work manner, which mean not only construction but also composition of the regular teaching units of 10-25 lessons. These regular teaching units are usually thematically, methodologically, and organisationally coherent and now they are developed and composed in three plus one steps: Firstly, the Lehrkunstdidaktik selects only teaching units concerning culturally and educationally as well as personally central subjects, i. e. epochally important humane subjects. Secondly, the Lehrkunstdidaktik composes these teaching units according to, what Lehrkunst calls, the &quot;triad of exemplary-genetical-dramaturgical method&quot;. Thirdly, the organisation of teaching orients itself towards culturally authentic learning places, learning times and learning forms. Finally fourthly: all subjects, methods and organisations of teaching have to account for the claims of the theory of education and formation (Bildung). Thus they have to stand the question whether such a teaching unit really has succeeded in combining the free development of the personality with a deep understanding of the world. Only then the teaching unit has become a Lehrstück. In the designing of teaching units to Lehrstücke more than thirty Lehrstücke have arisen on the traces of Wagenschein within the last twenty years. In this process the working manner of the Kollegiale Lehrkunstwerkstatt, a collegial working group of teachers, has proven fine. The same goes for the compositional product of casuistic, enlightened subjective teaching reports, nearly &quot;novels of education&quot; as well as for an overall orientation of didactics not only to the sciences, but also to the arts, thus Lehrkunstdidaktik. In a lexicon of theatre plays there are many hundred works described; we are dreaming of a little lexicon of Lehrstücke. Lately the perspective has arisen that the teaching of Lehrstücke, Lehrstückunterricht, can offer a contribution to the educational teaching development.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_311</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_311">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/311/308" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_311" DMDID="DMD_biejournals_311">
+            <mets:fptr FILEID="FILE0_biejournals_311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

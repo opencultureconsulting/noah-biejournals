@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3576">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Errors made by 5th-, 6th-, and 9th-graders when planning and performing experiments</title>
+                        <subTitle>Results of video-based comparisons</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baur, Armin</displayForm>
+                        <namePart type="family">Baur</namePart>
+                        <namePart type="given">Armin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Some previously-published research deals with pupils’ errors in experimentation (manual mistakes, methodological errors, misconceptions and pupil-specific approaches). However, many of these studies work neither with pupils who experiment themselves nor with individually working pupils. The article presents the observed pupils’ errors of 9th (n1 = 12), 5th and 6th graders (n2 = 18), recorded during individual, open experimentation using videography (60 minutes per experiment) and sub-sequent analysis of observation protocols based on the video material and pupils’ experimentation report. In the inquiry, each pupil carried out two different experiments. The results replicate many errors described in the literature and also reveal new ones. When comparing 5th and 6th graders with 9th graders, very few differences could be observed in the pupils’ errors. The analysis of the strategies (pupils’ course of action) shows that five strategies (four strategies, one of which consist of two sub-strategies) could be assigned to all pupils, which are categorised as follows: ‘Initially, only one experimental trial with all variables’, ‘Control variables are varied in the experimental trials’, ‘Only the assumed variable(s) and the necessary variable(s) are included in the experimental trials’, ‘Working in engineer mode’, ‘Procedure without hypothesis’. Not a single pupil used the control of variables strategy correctly. The calculation of correlations between the occurrence of errors in the two different contents shows few significant correlations, except in hypothesis formulation, indicating that the occurrence of pupils&apos; errors is content dependent.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3576</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3576">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3576/4370" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3576" DMDID="DMD_biejournals_3576">
+            <mets:fptr FILEID="FILE0_biejournals_3576"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

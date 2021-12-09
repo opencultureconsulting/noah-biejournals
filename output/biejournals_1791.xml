@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1791">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>What we need to improve the Public Health Workforce in Europe?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bjegovic-Mikanovic, Vesna</displayForm>
+                        <namePart type="family">Bjegovic-Mikanovic</namePart>
+                        <namePart type="given">Vesna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Flahault, Antoine</displayForm>
+                        <namePart type="family">Flahault</namePart>
+                        <namePart type="given">Antoine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Otok, Robert</displayForm>
+                        <namePart type="family">Otok</namePart>
+                        <namePart type="given">Robert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Shortell, Stephen M.</displayForm>
+                        <namePart type="family">Shortell</namePart>
+                        <namePart type="given">Stephen M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wisbaum, Wendy</displayForm>
+                        <namePart type="family">Wisbaum</namePart>
+                        <namePart type="given">Wendy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laaser, Ulrich</displayForm>
+                        <namePart type="family">Laaser</namePart>
+                        <namePart type="given">Ulrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-12-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">With the growth and complexity of current challenges such as globalization, health threats, and ageing society, financial constraints, and social and health inequalities, amultidisciplinary public health workforce is needed, supported by new skills and expertise. It has been demonstrated that public health education needs to include a wider range of health related professionals including: managers, health promotion specialists, health economists, lawyers and pharmacists. In the future, public health professionals will increasingly require enhanced communication and leadership skills, as well as a broad, interdisciplinary focus, if they are to truly impact upon the health of the population and compete successfully in today‘s job market. New developments comprise flexible academic programmes, lifelong learning, employability, and accreditation. In Europe‘s current climate of extreme funding constraints, the need for upgrading public health training and education is more important than ever. The broad supportive environment and context for change are in place. By focusing on assessment and evaluation of the current context, coordination and joint efforts to promote competency-based education, and support and growth of new developments, a stronger, more versatile and much needed workforce will be developed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1791</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1791">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1791/1712" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1791" DMDID="DMD_biejournals_1791">
+            <mets:fptr FILEID="FILE0_biejournals_1791"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

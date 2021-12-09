@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3508">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>One-Take-Videos als effektive Lernstrategie in der universitären Ausbildung angehender Lehrkräfte? </title>
+                        <subTitle>Erste Befunde zur Wirksamkeit und Akzeptanz der Methode</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Börger, Julian</displayForm>
+                        <namePart type="family">Börger</namePart>
+                        <namePart type="given">Julian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spilles, Markus</displayForm>
+                        <namePart type="family">Spilles</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krull, Johanna</displayForm>
+                        <namePart type="family">Krull</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hagen, Tobias</displayForm>
+                        <namePart type="family">Hagen</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hennemann, Thomas</displayForm>
+                        <namePart type="family">Hennemann</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die vorliegende Pilotstudie untersucht die Wirksamkeit der Methode One-Take-Video auf die Gedächtnisleistung von Lehramtsstudierenden. Bei der Methode werden eigene Kurzreferate mithilfe eines Smartphones oder einer Webcam in den Phasen des Selbststudiums als Videos ohne Schnitt aufgezeichnet. 172 Teilnehmer*innen bereiteten innerhalb eines Bachelormoduls im Studiengang Lehramt für sonderpädagogische Förderung im Förderschwerpunkt Emotionale und soziale Entwicklung pädagogisch-psychologische Lerninhalte im Selbststudium als (1) selbstproduzierte Videos, als (2) selbstproduzierte Videos inklusive Feedback oder als (3) schriftliche Ausarbeitung vor. Der Gruppenvergleich unter Berücksichtigung aller drei Bedingungen offenbart einen signifikanten Un-terschied in der Punktzahl der zugehörigen Modulabschlussklausur. Im paarweisen Vergleich lassen sich hingegen keine überzufälligen Differenzen feststellen, wobei rein deskriptiv Gruppe (2) am stärksten profitierte. Beide Varianten der One-Take-Videos (1, 2) wurden von den Studierenden als lernförderlich und gut umsetzbar eingeschätzt.</abstract>
+                    <abstract lang="eng">This pilot study examines the effectiveness of the One-Take-Video approach on the memory performance of teaching students. 172 participants prepared learning content in self-study as (1) self-produced videos, (2) self-produced videos including feedback or as (3) written elaboration. The group comparison, considering all three conditions, shows a significant difference in the number of points scored in the semester&apos;s written exam. In a pairwise comparison, however, no overly coincidental differences can be found, whereby purely descriptive group (2) profited most. The students rated both variations of the One-Take Videos (1, 2) as learning-oriented and easy to implement.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3508</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3508">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3508/3973" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3508" DMDID="DMD_biejournals_3508">
+            <mets:fptr FILEID="FILE0_biejournals_3508"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

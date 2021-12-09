@@ -1,0 +1,117 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4844">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aktivität von Radionuklidgemischen – Ein Konzept zur Entwicklung eines mathematischen Modells</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Allmers, Tobias</displayForm>
+                        <namePart type="family">Allmers</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird ein Konzept zur schülergerechten Entwicklung eines mathematischen Modells vorgestellt, mit dem die Beschreibung der zeitabhängigen Aktivität eines Gemisches von Radionukliden gelingt. Den notwendigen Zugang liefert eine Simulation, anhand derer die Vorgänge der Kernumwandlung auf der Teilchenebene nachgestellt und mittels Differenzengleichungen modelliert werden können. Die Ergebnisse der numerischen Simulation werden mit experimentellen Daten verglichen. Die vorgestellte Simulation ist darüber hinaus geeignet, fehlerhafte Präkonzepte zu korrigieren und ein tiefergehendes Verständnis der ablaufenden Prozesse zu ermöglichen, die eine vollständige Interpretation von Messergebnissen ermöglicht.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4844</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4570" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4571" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4572" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4573" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE4_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4574" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4575" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.oasis.opendocument.spreadsheet" ID="FILE6_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4576" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE7_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4577" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.oasis.opendocument.spreadsheet" ID="FILE8_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4578" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.oasis.opendocument.spreadsheet" ID="FILE9_biejournals_4844">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4844/4579" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4844" DMDID="DMD_biejournals_4844">
+            <mets:fptr FILEID="FILE0_biejournals_4844"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE6_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE7_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART8_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE8_biejournals_4844"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART9_biejournals_4844" LABEL="">
+                <mets:fptr FILEID="FILE9_biejournals_4844"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

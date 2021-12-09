@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_935">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>writing self. Rousseau and the author’s identity</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jung, Theo</displayForm>
+                        <namePart type="family">Jung</namePart>
+                        <namePart type="given">Theo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-12-31</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In 1749, while on the road to Vincennes to visit his friend Diderot in prison, Rousseau had an inspirational experience that prove to be a deciding moment in his life story. In his many autobiographical writings, he would time and again interpret this event as the seminal point of his identity as a writer. Taking the conflicting contemporary interpretations of the Vincennes episode as a starting point, this article asks in what way modern, post-subjectivist theories of the self can enrich our understanding of historical events, while at the same time providing answers to wider questions concerning the ways in which historically changing and contextually specific forms of what it means to be a self are constructed, intepreted, articulated and ›put into practice‹. To this end, Rousseau’s ›illumination‹ and its subsequent interpretations are interpreted in the light of contemporary controversies over the identity of the writer that developed against the background of fundamental changes in the social and economic structure of the literary field.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_935</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_935">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/935/1043" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_935" DMDID="DMD_biejournals_935">
+            <mets:fptr FILEID="FILE0_biejournals_935"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

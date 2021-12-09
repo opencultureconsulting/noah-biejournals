@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1849">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Protecting the planet and sustainable development</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kahn, Laura H.</displayForm>
+                        <namePart type="family">Kahn</namePart>
+                        <namePart type="given">Laura H.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The United Nations has made a commitment for sustainable development. An important component of this is a healthy environment. But what exactly is a healthy environment? Environmental health specialists typically focus on occupational exposures in workers; the field mainly addresses the abiotic (i.e. non-living) aspects of environments. Ecosystem health addresses biotic (i.e. living) aspects of environments. Merging these two realms is essential for sustainable development but will be challenging because the fields are so different. The United Nations, individual countries, and schools of public health could do much to help merge these realms by implementing environmental/ecosystem health into their missions and curriculums.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1849</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1849">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1849/1770" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1849" DMDID="DMD_biejournals_1849">
+            <mets:fptr FILEID="FILE0_biejournals_1849"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

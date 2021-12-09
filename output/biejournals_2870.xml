@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2870">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Editorial Remarks</title>
+                        <subTitle>Youth at Risk</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heitmeyer, Wilhelm</displayForm>
+                        <namePart type="family">Heitmeyer</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Messner, Steven F.</displayForm>
+                        <namePart type="family">Messner</namePart>
+                        <namePart type="given">Steven F.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Youth must always be analysed with respect to two aspects: Firstly, as a societally shaped phase of life that varies socially and culturally across countries and regions, characterized by different chances of social integration and dangers of disintegration. Secondly, as individual biographies playing out in a specific societal dynamic of integration/disintegration, where experiences with violence as perpetrators or victims play an important role. Life in particular societal constellations presents risks for certain parts of the young generation, just as the behavior of youth may itself pose risks in some societal situations. The way the general relationship varies across different national and cultural contexts is the question we have chosen to home in on in this issue of the journal. Post-war, post-dictatorial, developing, transformative, and precarious societal contexts form consistent points of reference for the contributions, which include both country-specific case studies and comparative investigations.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2870</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2870">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2870/pdf_32" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2870">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2870/2682" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2870" DMDID="DMD_biejournals_2870">
+            <mets:fptr FILEID="FILE0_biejournals_2870"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2870" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2870"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

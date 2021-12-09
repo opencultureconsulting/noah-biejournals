@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2773">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Hating the Neighbors</title>
+                        <subTitle>The Role of Hate Crime in the Perpetuation of Black Residential Segregation</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lynch, Ami M.</displayForm>
+                        <namePart type="family">Lynch</namePart>
+                        <namePart type="given">Ami M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-06-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Grounded in group conflict theory and the defended neighborhoods thesis, this nationwide empirical study of cities and their residential segregation levels examines the occurrence of hate crime using data for all U.S. cities with populations over 95,000 and Uniform Crime Reporting data for hate crime, in conjunction with 2000 census data. Hate crime is any illegal act motivated by pre-formed bias against, in this case, a person’s real or perceived race. This research asks: Do hate crime levels predict white/black segregation levels? How does hate crime predict different measures of white/black segregation? I use the dissimilarity index measure of segregation operationalized as a continuous, binary, and ordinal variable, to explore whether hate crime predicts segrega- tion of blacks from whites. In cities with higher rates of hate crime there was higher dissimilarity between whites and blacks, controlling for other factors.
+The segregation level was more likely to be “high” in a city where hate crime occurred. Blacks are continually multiply disadvantaged and distinctly affected by hate crime and residential segregation. Prior studies of residential segregation have focused almost exclusively on individual choice, residents’ lack of finances, or discriminatory actions that prevent racial minorities from moving, to explore the correlates of segregation. Notably absent from these studies are measures reflecting the level of hate crime occurring in cities. This study demonstrates the importance of considering hate crime and neighborhood conflict when contemplating the causes of residential segregation.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2773</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2773">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2773/2534" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2773" DMDID="DMD_biejournals_2773">
+            <mets:fptr FILEID="FILE0_biejournals_2773"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

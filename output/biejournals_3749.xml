@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3749">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Studium und Beruf verzahnen</title>
+                        <subTitle>Anrechnung außerhochschulisch erworbener Kompetenzen auf ein Studium an der Carl von Ossietzky Universität Oldenburg</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Brokmann-Nooren, Christiane</displayForm>
+                        <namePart type="family">Brokmann-Nooren</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lammers, Sarah</displayForm>
+                        <namePart type="family">Lammers</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Förderung der Durchlässigkeit zwischen Berufstätigkeitund Studium ist politischer Wille und wird bundesweitseit Jahren propagiert und gefördert. Die Carl von OssietzkyUniversität Oldenburg ist im Aktionsfeld Anrechnung außerhochschulischerKompetenzen schon lange aktiv und hat beiihren berufsbegleitenden Studiengängen etablierte pauschaleund individuelle Anrechnungsmöglichkeiten und –verfahrengeschaffen. Wie sieht es aber im Bereich der grundständigenund konsekutiven Studienformate aus? Hier zeigt ein (auchdurch studentische Forscher_innen unterstütztes) Projekt auf,dass es auf dem Anrechnungsweg noch einige „Hürden“ zuüberspringen gab, die durch verbesserte Information, Beratungund Verfahrenswege fächerübergreifend zum Teil schonbeseitigt werden konnten.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3749</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3749">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/3749/3809" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3749" DMDID="DMD_biejournals_3749">
+            <mets:fptr FILEID="FILE0_biejournals_3749"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2279">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Du sollst nicht merken - dass Du arbeitest!“ Das elfte Gebot? Psychoanalytische Anmerkungen zu einem Film über moderne Arbeitswelten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bauer, Annemarie</displayForm>
+                        <namePart type="family">Bauer</namePart>
+                        <namePart type="given">Annemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fröse, Marlis W.</displayForm>
+                        <namePart type="family">Fröse</namePart>
+                        <namePart type="given">Marlis W.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein neuerer Film über moderne Arbeitswelten ist der Ausgangspunkt für unsere psychoanalytischen Überlegungen, wie die Arbeitswelt sich in der Moderne zeigt. Dabei tauchen im Film Sequenzen auf, die in Organisationsberatungs- und Teamentwicklungsprozessen Anwendung finden und auf Instrumente der Beratung und des Coaching verweisen. Diese Filmsequenzen greifen wir in Auswahl auf und unterziehen sie einer kritischen Analyse.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2279</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2279">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2279/2235" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2279">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2279/2236" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2279" DMDID="DMD_biejournals_2279">
+            <mets:fptr FILEID="FILE0_biejournals_2279"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2279" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2279"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

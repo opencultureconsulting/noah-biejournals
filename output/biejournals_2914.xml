@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2914">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introducing, Researching, and Disseminating the Incredible Years Programmes in Wales</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hutchings, Judy Mary</displayForm>
+                        <namePart type="family">Hutchings</namePart>
+                        <namePart type="given">Judy Mary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-09-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A case study reviewing the establishment of the evidence-based Incredible Years programme in Wales, describing the rationale for selecting the programme, the outcomes achieved in Wales, and the influence on policy leading to a Wales-wide dissemination strategy. The UK context features a growing trend towards evidence-based anti-violence services and significant increases in funding for early intervention. Factors that contributed to the success of this project included careful selection of a programme with evidence, establishing a local evidence base for it, ensuring that information was disseminated to government and service providers, and the need to build in a sustainability plan. The biggest challenge, lack of leader time and resources to deliver the programme effectively, is explored and solutions from Wales, including leader feedback surveys and manager training days are described.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2914</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2914">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2914/pdf_66" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2914">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2914/2771" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2914" DMDID="DMD_biejournals_2914">
+            <mets:fptr FILEID="FILE0_biejournals_2914"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2914" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2914"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_902">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Students Motivation for Social Studies – Existential Exploration or Critical Engagement</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Børhaug, Kjetil</displayForm>
+                        <namePart type="family">Børhaug</namePart>
+                        <namePart type="given">Kjetil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: To understand what motivates students for social studies.
+Design: Social studies as a school subject is defined in terms of its contents (knowledge, skills, values), by its teaching methods and by the organisational regulation of how students and teachers should engage in the subject. Student motivation for these components of social studies was examined in interviews with 26 students in optional social studies courses, and the results were analysed in a theoretical framework of motivation theory.
+Findings: The aspects of social studies most clearly seen as motivating for students is that social studies offers more possibilities for student self-regulation, that it provides an arena for subjective, emotional engagement. Students are also motivated by subject matter content that concerns them directly or that evoke emotions.
+Limitations: The data material only covers 26 students in optional courses in Norway. Further studies a-cross countries, comparing optional and compulsory courses, are needed. Broader data are also needed.
+Implications: Didactical models and advice must take these student interests into account, as these are the pre-conditions students bring into the classroom. At the same time there is an urgent need to develop ideas on how to link these self-reflective, subjective students perspectives to social, economic and political structures and processes.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_902</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_902">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/902/1240" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_902" DMDID="DMD_biejournals_902">
+            <mets:fptr FILEID="FILE0_biejournals_902"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

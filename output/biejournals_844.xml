@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_844">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Role of Turkish National Holidays in Promoting Character and Citizenship Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Acikalin, Mehmet</displayForm>
+                        <namePart type="family">Acikalin</namePart>
+                        <namePart type="given">Mehmet</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kilic, Hamide</displayForm>
+                        <namePart type="family">Kilic</namePart>
+                        <namePart type="given">Hamide</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose:  This article introduces the history and development of Turkish national holidays. It also describes how these holidays being celebrated overtime in Turkey.  Thus, the purpose of this article is providing fundamental information regarding Turkish national holidays and discussing possible role of these holidays in promoting character and citizenship education in Turkey.Design/Methodology/Approach: The article is created based on literature review, document analysis and qualitative observations of the authors with the support of several audiovisual materials that show the celebrations of these national holidays.  In order to provide the fundamental information (history, development, and etc.) regarding to the holidays, relevant literature presented and synthesized. Also relevant official documents (laws, regulations, and orders) analyzed. Finally, observations of the authors based on their experiences of these national holidays included in the article with the aid of several audiovisuals materials that provided as hyperlink in the text.Findings: After analyzing all materials described above, we concluded that national holidays in Turkey has some aspects that promote character and citizenship education while these national days may have been lost their spirits and passions comparing their early years.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_844</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_844">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/844/956" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_844" DMDID="DMD_biejournals_844">
+            <mets:fptr FILEID="FILE0_biejournals_844"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

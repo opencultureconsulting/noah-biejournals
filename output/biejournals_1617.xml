@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1617">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>merchant, the scientist and the citizen</title>
+                        <subTitle>The competing approaches of social science education in the French high school</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Martinache, Igor</displayForm>
+                        <namePart type="family">Martinache</namePart>
+                        <namePart type="given">Igor</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gobert, Cloé</displayForm>
+                        <namePart type="family">Gobert</namePart>
+                        <namePart type="given">Cloé</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The aim of this article is to give a bird’s eye view of the main issues surrounding the teaching of economic and social sciences in the French high school
+Approach: This article is based above all on a synthesis of the existing primary and se-condary literature on Economic and social sciences (“sciences économiques et sociales”) teaching in France and the controversies surrounding it. 
+Findings: This text gives a general overview of the situation of SES teaching in France, by going back to the original intentions of its authors; by analysing curricular developments, which show a progressive distance from them; and finally by highlighting the main collective actors involved (SES teachers and other neighbouring disciplines, national education hierarchy, academics, political actors, employer lobbies, etc.). 
+Practical implications: Beyond the French situation it presents, this article raises a number of more general questions about the objectives that can be assigned to social science teaching in high schools, the opportunity to mix several academic disciplines and the pedagogical methods that can be implemented.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1617</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1617">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1617/3542" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1617" DMDID="DMD_biejournals_1617">
+            <mets:fptr FILEID="FILE0_biejournals_1617"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

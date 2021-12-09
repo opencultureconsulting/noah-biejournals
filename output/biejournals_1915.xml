@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1915">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Making a Difference</title>
+                        <subTitle>Investing in Sustainable Health and Well-being for the People of Wales</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wales, Public Health</displayForm>
+                        <namePart type="family">Wales</namePart>
+                        <namePart type="given">Public Health</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-11-06</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The &apos;Making a Difference: Investing in Sustainable Health and Well-being for the People of Wales&apos; report offers research evidence and expert opinion in support of preventing ill health and reducing inequalities to achieve a sustainable economy, thriving society and optimum health and well-being for the present and future generations in Wales.More information</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1915</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1915">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1915/1850" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1915" DMDID="DMD_biejournals_1915">
+            <mets:fptr FILEID="FILE0_biejournals_1915"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

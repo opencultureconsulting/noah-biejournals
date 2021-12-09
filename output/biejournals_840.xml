@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_840">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Clarifying the Characteristics and Exploring the Collaboration of Citizenship and Character Education in South Korea</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Park, Sun Young</displayForm>
+                        <namePart type="family">Park</namePart>
+                        <namePart type="given">Sun Young</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: This paper seeks to illuminate the background of citizenship and character education in South Korea in order to better determine a means of collaboration between the two goals.Method: The paper is based on the qualitative analysis of the official documents and law in relation to citizenship and character education.Findings: The paper finds the differences and the similarities of citizenship and character education and there are increasing needs for both educational initiatives in terms of social and national development of South Korea.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_840</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_840">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/840/952" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_840" DMDID="DMD_biejournals_840">
+            <mets:fptr FILEID="FILE0_biejournals_840"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

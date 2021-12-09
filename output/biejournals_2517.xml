@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2517">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Aufgabenentwicklung und projektbasiertes Studieren an der Schnittstelle von Erzählforschung, Fremdsprachen- und Mediendidaktik</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Developing Tasks in a Project-Based Seminar at the Intersection of Nar-ratology, Foreign Language Education and Media Didactics</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gießler, Ralf</displayForm>
+                        <namePart type="family">Gießler</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Becker, Daniel</displayForm>
+                        <namePart type="family">Becker</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schledjewski, Janine</displayForm>
+                        <namePart type="family">Schledjewski</namePart>
+                        <namePart type="given">Janine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschreibt die theoretischen und didaktisch-methodischen Grundlagen eines Projektseminars für Studierende der Anglistik/Amerikanistik. In diesem Seminar stehen die Analyse von populärkulturellen Medien und eine darauf aufbauende Didaktisierung des Materials (Entwicklung von Lernaufgaben) im Fokus. Neben der Diskussion grundlegender und für das Seminar maßgeblicher Konzepte aus den Disziplinen der Literaturwissenschaft, der Fremdsprachen- und der Mediendidaktik, werden Aspekte des projektbasierten Studierens und des Cognitive Apprenticeship vorgestellt, die in die didaktische-methodische Gestaltung des Seminars Eingang gefunden haben. Eine beispielhafte Analyse eines populärkulturellen Textes veranschaulicht die Herangehensweise im Seminar. Die Reflexion der praktischen Durchführung des Seminars eröffnet Perspektiven für die Realisierung projektbasierten Studierens in andere Fächern und Fachbereichen.</abstract>
+                    <abstract lang="eng">This paper describes important theoretical, methodological and content-related aspects of a project-based seminar for students of English and American Studies. The seminar mainly focuses on the analysis of popular cultural texts and aims at enabling students to prepare these texts for use in the EFL classroom. Next to discussing the seminar’s underlying concepts from the perspectives of literary studies, foreign language education and media didactics, the present paper describes the notions of project-based learning and cognitive apprenticeship. An exemplary analysis of a popular cultural text as well as some reflections on the practical implementation are presented in order to show the way of adaptations of the course concept to other subject areas.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2517</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2517">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2517/3446" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2517" DMDID="DMD_biejournals_2517">
+            <mets:fptr FILEID="FILE0_biejournals_2517"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

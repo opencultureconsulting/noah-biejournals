@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2730">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Portfolio als Prüfungsinstrument in der Hochschullehre</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Portfolio as an alternative performance assessment in higher education teaching</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hericks, Nicola</displayForm>
+                        <namePart type="family">Hericks</namePart>
+                        <namePart type="given">Nicola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Einsatz von Portfolios in der Hochschullehre hat in den letzten Jahren deutlich zugenommen, und es bieten sich vielfältige Einsatzmöglichkeiten. So kann das Portfolio als modul- oder fachübergreifendes Entwicklungsportfolio über die gesamte Studiendauer, zur Darstellung erworbener Kompetenzen, als Präsentationsportfolio im Rahmen einzelner Lehrveranstaltungen, aber auch als Bewertungsportfolio und damit als Prüfungsinstrument eingesetzt werden (vgl. Weber, Hehn-Oldiges, Vogel &amp;amp; Stehle, 2017; Hornung-Prähauser, Geser, Hilzensauer &amp;amp; Schaffert, 2007). Neben dem klassischen Papier-Portfolio wird in den letzten Jahren der Einsatz sog. ePortfolios immer interessanter. Bei dieser digitalen Variante erstellen die Studierenden ihre Einträge direkt im Internet. Neben schriftlichen Einträgen ist das Einfügen von Bildern, Videos und Links möglich. Nach Fertigstellung wird das Portfolio von den Studierenden für den bzw. die Lehrende*n sowie ggf. für weitere oder alle Seminarteilnehmer*innen freigeschaltet, so dass auch Formen des Peer-Feedbacks einbezogen werden können. An der Goethe-Universität Frankfurt werden derzeit Einsatzmöglichkeiten des Portfolios im Rahmen der Lehrer*innenbildung erprobt. Der vorliegende Beitrag zeigt zunächst Möglichkeiten, wie ein Portfolio in der universitären Lehre als Prüfungsform eingesetzt werden kann. Im zweiten Teil wird der konkrete Einsatz im Rahmen eines Seminars für Lehramtsstudierende im Wintersemester 2018/2019 beschrieben. Zudem werden die Ergebnisse einer Befragung gezeigt, bei der die Seminarteilnehmer*innen zu ihren bisherigen Erfahrungen mit Portfolios in der Hochschullehre sowie zum Einsatz des ePortfolios als Prüfungsform im genannten Seminar befragt wurden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2730</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2730">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2730/3724" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2730" DMDID="DMD_biejournals_2730">
+            <mets:fptr FILEID="FILE0_biejournals_2730"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

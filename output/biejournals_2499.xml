@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2499">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ins Schreiben kommen und im Schreiben bleiben – die Selbststeuerung beim Schreiben wissenschaftlicher Texte in den Qualifizierungsphasen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Klingsieck, Katrin B.</displayForm>
+                        <namePart type="family">Klingsieck</namePart>
+                        <namePart type="given">Katrin B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Golombek, Christiane</displayForm>
+                        <namePart type="family">Golombek</namePart>
+                        <namePart type="given">Christiane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-10-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Schreiben von wissenschaftlichen Texten ist mit einer Vielzahl von Herausforderungen verbunden, die die Bewältigung einer Schreibaufgabe häufig mühselig erscheinen lassen. Dieser Beitrag führt das wissenschaftliche Schreiben als eine Form des komplexen Problemlösens ein. Er betrachtet das wissenschaftliche Schreiben als ein rhetorisches Problem und zeigt auf, welche Ressourcen und Strategien im Rahmen des Schreibprozesses eingesetzt werden, um dieses Problem zu lösen. Der Fokus liegt dabei auf der Rolle der Selbstregulation beim wissenschaftlichen Schreiben. Aus prominenten Kompetenz- und Phasenmodellen des Schreibens abgeleitet, stellt der Beitrag grundlegende Strategien einer erfolgreichen Selbstregulation beim wissenschaftlichen Schreiben vor, die individuell eingesetzt werden können, um ins Schreiben zu kommen und im Schreiben zu bleiben.</abstract>
+                    <abstract lang="eng">Writing scientific texts is associated with a multitude of challenges, both explicit and implicit. They often make the writing process seem painstaking. This paper introduces scientific writing as a form of complex problem solving. It understands writing as a rhetorical problem and identifies the resources and strategies used in the writing process to solve this problem. The focus is on the role of self-regulation in writing. Derived from prominent models of writing, the paper presents four basic strategies for successful self-regulation in writing that can be applied individually to start with and to stay tuned to writing.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2499</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2499">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2499/3872" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2499" DMDID="DMD_biejournals_2499">
+            <mets:fptr FILEID="FILE0_biejournals_2499"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

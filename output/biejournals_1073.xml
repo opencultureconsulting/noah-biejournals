@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1073">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Global Historical Sociology and Connected Gender Sociologies</title>
+                        <subTitle>On the Re-Nationalization and Coloniality of Gender</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Winkel, Heidemarie</displayForm>
+                        <namePart type="family">Winkel</namePart>
+                        <namePart type="given">Heidemarie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-03</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The article starts with a discussion of history’s and historical sociology’s influence on gender sociology. It is argued that the reconstruction of gender-historical developments as institutionally and socio-culturally sequential processes, or as historical figurations and their causal mechanisms, is a marginal research agenda in gender sociology. As a result, colonial history and its gendered legacy—which is considered pivotal for a comprehensive conceptual understanding of contemporary society—is (still) relegated to a back seat in gender sociology. This is reflected in the way how current anti-genderist controversies in European societies are discussed in terms of theory; gender sociology misses both to consult gender-historical and postcolonial perspectives systematically in the analysis of anti-genderism, although postcolonial approaches have become prominent in global historical sociology in the last decade. I suggest conceiving anti-genderists’ stance clearly as an indicator of European societies’ colonial (epistemic) legacy and as a result of the consistent (re)nationalization of gender throughout the twentieth century. Against this backdrop, the contribution starts from the question to what extent a global historical sociology can enable gender sociology to decolonize its body of knowledge and to decode the continuing (re)nationalization of gender as a colonial legacy. This includes a reflection on the extent to which gender sociology is built on a colonial body of white gender knowledge and how gender can be made visible as a colonial category of knowledge production. Accordingly, the deconstruction of gender sociology’s blind spot vis-a-vis its own imperial standpoint and its enmeshment with colonial epistemic legacies is envisioned as a central task. This is evidenced by the way how gender was inserted in national discourse throughout the second half of the twentieth century, namely as a medium that allows for the assertion of cultural differences between »us« and »them«. This finally led into a new, European nationalism after Germany’s so-called reunification, in which gender’s symbolic role once more became central, such as in the »headscarf debates« in the early 2000s, at a time when the NSU terror spread. At large it is argued that decolonial thinking reveals how classifications in terms of race and nation are unfolding as a cornerstone of the bourgeois, heteronormative gender order and how this is fostering the coloniality of gender, namely as part of (re)nationalization processes throughout the twentieth century up to now. As a consequence, recent anti-genderism affects white women and women of color alike, albeit in very different ways; but first and foremost, anti-genderism involves white women against women of color.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1073</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1073">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1073/1179" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1073" DMDID="DMD_biejournals_1073">
+            <mets:fptr FILEID="FILE0_biejournals_1073"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_613">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>complex ecology of young people’s community engagement and the call for civic pedagogues</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Warwick, Paul</displayForm>
+                        <namePart type="family">Warwick</namePart>
+                        <namePart type="given">Paul</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Cremin, Hilary</displayForm>
+                        <namePart type="family">Cremin</namePart>
+                        <namePart type="given">Hilary</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Harrison, Tom</displayForm>
+                        <namePart type="family">Harrison</namePart>
+                        <namePart type="given">Tom</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mason, Carolynne</displayForm>
+                        <namePart type="family">Mason</namePart>
+                        <namePart type="given">Carolynne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-07-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper focuses upon the community engagement of young people growing up in socio-economically disadvantaged areas and the creation of apt civic learning spaces. It is in direct response to public policy within the UK, as in many other democratic countries, giving continued attention to how young people’s active citizenship can be best supported.  As a consequence of processes of globalisation, social change and technological advancement it is being increasingly recognised that young citizens face unprecedented challenges in the 21st century. At the same time young people growing up within areas of socio-economic disadvantage are commonly identified as being most at risk of social exclusion and discouragement with regard to their civic participation.This paper draws from the EngagED research project, a two-year study based in England that used a mixed methods approach to explore the civic action and learning of young people living in both inner city and rural areas of socio-economic disadvantage. It presents an eco-systemic model of the host of factors and agencies that influence young people’s civic identity and patterns of community engagement. It outlines two new civic learning spaces that were created in response to these complex ecologies and from these experiments in ‘pre-figurative practice’ proposes a set of key principles for the effective civic pedagogue. This radical notion of the civic educator moves away from educational strategies that seek to ‘transform’ young people into good future citizens, towards finding personalised ways of supporting young people ‘as’ citizens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_613</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_613">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/613/612" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_613">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/613/613" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_613" DMDID="DMD_biejournals_613">
+            <mets:fptr FILEID="FILE0_biejournals_613"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_613" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_613"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_170">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verbindung von qualitativen und quantitativen Bedarfsanalysen in der wissenschaftlichen Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bartsch, Annette</displayForm>
+                        <namePart type="family">Bartsch</namePart>
+                        <namePart type="given">Annette</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kundolf, Susanne</displayForm>
+                        <namePart type="family">Kundolf</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wrobel, Ulrike</displayForm>
+                        <namePart type="family">Wrobel</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Um wissenschaftliche Weiterbildungsangebote zielgruppenspezifisch und nachfrageorientiert aufzusetzen, sollten qualitative und quantitative Studien gezielt kombiniert werden. Das Forschungsdesign im Projekt „excellent mobil“ verknüpft die Sekundäranalyse zu branchenspezifischen Veränderungen in den Tätigkeitsstrukturen und eine Marktanalyse zu den Weiterbildungsangeboten mit eigenen standortübergreifenden Bedarfserhebungen in Betrieben der Mobilitätswirtschaft. Die auf diesen Grundlagen entwickelten Pilotstudienangebote wurden in einem weiteren Schritt mittels Primäranalysen geprüft, ob sie inhaltlich sowie didaktisch den Anforderungen und Erwartungen der Unternehmen und der Teilnehmenden entsprechen. Der Artikel gibt Empfehlungen für die Forschungspraxis anhand konkreter Beispiele und Ergebnisse und zeigt weiterführende Ansätze einer kombinierten qualitativ-quantitativen Bedarfsanalyse auf.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_170</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_170">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/170/159" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_170" DMDID="DMD_biejournals_170">
+            <mets:fptr FILEID="FILE0_biejournals_170"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

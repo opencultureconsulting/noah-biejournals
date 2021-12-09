@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2338">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Was soll ich wollen? Zur supervisorischen Relevanz der Frage nach dem guten Leben</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dieringer, Volker</displayForm>
+                        <namePart type="family">Dieringer</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-10-30</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird anhand eines in der Literatur dokumentierten Fallbeispiels herausgearbeitet, auf welche Weise die Frage nach dem guten Leben in einer Einzelsupervision zum Thema werden kann. Bezüglich der supervisorischen Bearbeitung dieses Themas wird für einen Rückgriff auf einen reflektierten Subjektivismus argumentiert, dessen Grundidee darin besteht, nicht das Was, sondern das Wie unseres Wollens einer kritischen Prüfung zu unterziehen und auf diese Weise zu einer reflektierten Konzeption zu gelangen, wie wir je individuell unser Leben führen wollen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2338</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2338">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2338/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2338">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2338/epub" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2338" DMDID="DMD_biejournals_2338">
+            <mets:fptr FILEID="FILE0_biejournals_2338"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2338" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2338"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

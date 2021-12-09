@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3174">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionshygiene bei Lehrkräften</title>
+                        <subTitle>Lehrer*innenfortbildung als Sollbruchstelle</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wilckens, Susanne</displayForm>
+                        <namePart type="family">Wilckens</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Lehrer*innenfortbildung dient der zunehmenden Professionalisierung. Sie soll den Lernfortschritt der Schüler*innen im Blick haben. Dabei scheitert die Umsetzung des in Fortbildungen Gelernten häufig an der Widerständigkeit der Praxis (Organisation) mit Folgen für das Professionalitätsbewusstsein von Lehrkräften. Hier legt die objektiv-hermeneutische Rekonstruktion narrativer Ausschnitte aus einer Fortbildung die Vermutung nahe, dass so genannte Sollbruchstellen in den Fortbildungsveranstaltungen es den Lehrkräften ermöglichen, ihren (utopischen) Anspruch auf Professionalisierung aufrecht zu erhalten. Im Sinne einer Professionshygiene gelingt es so den Lehrkräften, eine Aufkündigung ihrer pädagogischen Beziehungspraxis trotz mangelnder Alimentierung auf der organisationalen Ebene zu vermeiden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3174</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3174">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3174/3324" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3174" DMDID="DMD_biejournals_3174">
+            <mets:fptr FILEID="FILE0_biejournals_3174"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

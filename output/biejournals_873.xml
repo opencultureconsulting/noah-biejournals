@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Learning About the European Union in Times of Crisis</title>
+                        <subTitle>Portuguese Textbooks’ Normative Visions of European Citizenship</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Piedade, Filipe</displayForm>
+                        <namePart type="family">Piedade</namePart>
+                        <namePart type="given">Filipe</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ribeiro, Norberto</displayForm>
+                        <namePart type="family">Ribeiro</namePart>
+                        <namePart type="given">Norberto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Loff, Manuel</displayForm>
+                        <namePart type="family">Loff</namePart>
+                        <namePart type="given">Manuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Neves, Tiago</displayForm>
+                        <namePart type="family">Neves</namePart>
+                        <namePart type="given">Tiago</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-08-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: To investigate how EU related contents are represented in Portuguese upper secondary school textbooks of History and English as a Foreign Language (EFL).Design/methodology/approach: The study performs a textbook analysis on two History textbooks and three EFL textbooks to explore if and how EU related topics are addressed. The methodological approach was mainly qualitative, based on a content analysis of the textbooks, but also includes some quantitative data (e.g., number of paragraphs) to determine the importance given to European topics in each of the selected school subjects.Findings: EFL textbooks have a residual approach to EU topics that is mainly focused in students’ mobility. History textbooks, while containing a significant amount of information about the EU, present it mainly in a non-confrontational perspective and do not prioritize the development of students’ critical thinking about the EU. Our data also points to a predominance of national level citizenship related content, with European citizenship being briefly and normatively presented to the students.Research limitations/implications: EFL is attended by almost 100% of students in the academic track of secondary education, but History is a curricular subject only available to 25-30% of the students; as such, our findings refer to a specific group.Practical implications: Textbooks should include more information about the actual problems and challenges of the EU to foster the development of students’ critical thinking about the EU.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_873</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_873">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/873/1000" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_873">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/873/1001" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_873" DMDID="DMD_biejournals_873">
+            <mets:fptr FILEID="FILE0_biejournals_873"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_873" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_873"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

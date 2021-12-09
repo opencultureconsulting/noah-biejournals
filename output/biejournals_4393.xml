@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4393">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Morbus Alzheimer </title>
+                        <subTitle>Wie die Alzheimer-Krankheit die Kommunikation der Neuronen zerstört und zum Absterben der Neuronen und Synapsen führt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gürel , B.</displayForm>
+                        <namePart type="family">Gürel </namePart>
+                        <namePart type="given">B.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, N.</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">N.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Dieser Beitrag stellt ein Unterrichtskonzept zum Inhaltsfeld Neurobiologie für einen Biologie-Leistungskurs dar. Die Unterrichtseinheit vermittelt neurobiologische Hintergründe durch die Auseinandersetzung mit der Alzheimer-Krankheit. Die Auseinandersetzung mit dieser Krankheit zeigt, dass die Strukturen und Prozesse innerhalb des Körpers aufeinander abgestimmt sind und kleinste (krankhafte) Veränderungen negative Auswirkungen auf den gesamten Organismus haben können. Dabei werden außerdem Ursachen, Symptomatik und Therapiemaßnahmen (Acteylcholinesterase-Hemmer/-Inhibitoren) vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4393</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4393">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4393/4300" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4393" DMDID="DMD_biejournals_4393">
+            <mets:fptr FILEID="FILE0_biejournals_4393"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

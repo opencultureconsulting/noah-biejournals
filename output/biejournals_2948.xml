@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2948">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Contesting International Norms of Transitional Justice</title>
+                        <subTitle>The Case of Timor Leste</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ottendoerfer, Eva</displayForm>
+                        <namePart type="family">Ottendoerfer</namePart>
+                        <namePart type="given">Eva</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A discussion of the interplay of different concepts of justice and reconciliation in United Nations peace operations in Timor Leste and in the Timorese political leadership. Drawing on research into norm diffusion and concepts of localization and norm contestation to understand how societies deal with their violent past under the auspices of international actors in UN peace operations, the analysis challenges the UN’s functionalistic concept of transitional justice as a precondition to state- and nationbuilding in post-conflict societies. As the case of Timor Leste demonstrates, the Timorese leadership has been successful in promoting its own concept of justice and reconciliation, leading to a localized version of state- and nationbuilding that openly contests international approaches.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2948</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2948">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2948/pdf_76" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2948">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2948/2840" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2948" DMDID="DMD_biejournals_2948">
+            <mets:fptr FILEID="FILE0_biejournals_2948"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2948" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2948"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

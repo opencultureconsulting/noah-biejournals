@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_449">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Gelingende Lehrerbildung – Professionstheorie und Fachdidaktik, Erfahrungen und Konsequenzen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reinhardt, Sibylle</displayForm>
+                        <namePart type="family">Reinhardt</namePart>
+                        <namePart type="given">Sibylle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Handlungsprobleme des Lehrers sind zum einen allgemeine konfligierende Ansprüche an die Lehrerrolle, zum anderen fachspezifische Anforderungen an das Unterrichten (strukturtheoretisches bzw. kompetenztheoretisches Professionsverständnis). Konflikte müssen reflexiv balanciert werden, professionelles Unterrichten verlangt Wissen, Können und Reflexion. Fachdidaktische Prinzipien formulieren den Zusammenhang in fachspezifischer Weise. Lehrerbildung muss das Wechselspiel von Theorie und Praxis von Anfang an und durch alle Phasen, wenn auch mit unterschiedlichen Gewichten, verwirklichen. Denn Theorie bleibt ohne Praxis unbegriffen, Praxis bleibt ohne Theorie blind in Krisen und für Veränderungen; Reflexion verweist das eine aufs andere. Unterrichten involviert ganze Personen, weshalb die Ausbildung das Risiko von Kränkungen besonders in der Referendarzeit mit sich bringt. Für die Ausbildung durch die Universität ist zu fordern, dass die Hochschullehrer nicht nur wissen, sondern auch können, also selbst ausgebildete Professionelle sind. Seminarausbilder wiederum müssen auch theorienah reflektieren können, also nicht bloß praktizieren.The teacher has to deal with generally conflicting expectations and with the specific tasks of teaching a subject (theories of structural understanding versus theories of teaching competence of the profession). Conflicts call for reflexive balancing, professional teaching needs knowledge, routines and reflexions. Content-specific didactical principles describe and explain the linkage between these three dimensions. Teachers’ education has to realize the switch of theoretical and practical approaches in every phase, no matter that the emphasis might differ. Thinking without doing remains to be just words, doing without theoretical thinking will remain blind in the cases of crisis and changes. Reflexion links the one to the other and vice versa. Teaching is done for and by whole persons. Therefore the risk of humiliation is very present especially during the practical phases. University teachers teaching to-be-teachers should be educated professionals themselves and not only gifted scholars. School teachers in teachers’ education should be able to reflect on teaching with theoretical means.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_449</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_449">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/449/446" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_449" DMDID="DMD_biejournals_449">
+            <mets:fptr FILEID="FILE0_biejournals_449"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

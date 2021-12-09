@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3041">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Introduction</title>
+                        <subTitle>Violence, Justice, and the Work of Memory</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neumann, Klaus</displayForm>
+                        <namePart type="family">Neumann</namePart>
+                        <namePart type="given">Klaus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Anderson, Dan</displayForm>
+                        <namePart type="family">Anderson</namePart>
+                        <namePart type="given">Dan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-05-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The search for historical justice has become one of the defining features of the late twentieth and early twenty-first centuries. So has the consensus about the need to remember the violence of past injustices and its victims. The search for justice is closely related to a focus on remembrance: the striving for justice relies on memories of injustices, and the public remembering of past wrongs is increasingly considered one crucial means of redressing such wrongs. This focus section brings together authors from a variety of disciplinary backgrounds in the humanities and social sciences, ranging from anthropology to law, and from cultural studies to political science. Focusing on post-conflict societies in Africa (Morocco, Rwanda), Asia (Nepal), Latin America (Argentina, Peru, Uruguay) and the Pacific (Solomon Islands), the papers explore aspects of the work of memory in attempts to redress past wrongs and make the present inhabitable. This introduction also extends some of the themes that connect the seven individual papers.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3041</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3041">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3041/pdf_107" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_3041">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3041/3029" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3041" DMDID="DMD_biejournals_3041">
+            <mets:fptr FILEID="FILE0_biejournals_3041"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3041" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3041"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

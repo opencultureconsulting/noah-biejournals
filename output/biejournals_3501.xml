@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3501">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Dealing with Diversity in English Children&apos;s Books in the Heterogeneous EFL Classroom</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reckermann, Julia</displayForm>
+                        <namePart type="family">Reckermann</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-20</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The use of children’s literature in language teaching is very common. However, in view of heterogeneous English as a foreign language (EFL) classrooms with learners of different interests, abilities, preferences, competences, identities, beliefs, etc., approaches to dealing with literature need to be supplemented by carefully selected scaffolds to cater to individual learner needs. Yet, it is not just the teaching methods that need to be (re)considered with regards to teaching a heterogeneous learner group, but also the topics that are covered in class should be carefully selected. Children’s books offer a wide range of topics that are commonly dealt with in the EFL classroom with younger learners. Some books, classic as well as recent ones, also depict different aspects of diversity. Such pieces of literature offer the potential to discuss diversity with learners in the EFL classroom and can serve as a basis for negotiations of diversity at the content-level. Therefore, this article deals with a two-fold question on aspects of diversity: &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (1)&amp;nbsp;How do selected English children’s books represent or mirror diversity? &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (2)&amp;nbsp;Can such books be used successfully in the heterogeneous EFL classroom?</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3501</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3501">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3501/3653" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3501" DMDID="DMD_biejournals_3501">
+            <mets:fptr FILEID="FILE0_biejournals_3501"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

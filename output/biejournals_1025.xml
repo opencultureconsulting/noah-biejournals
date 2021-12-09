@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1025">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Migration pressures and opportunities</title>
+                        <subTitle>Challenges to belonging in the European Unions’ mobility regime</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Barglowski, Karolina</displayForm>
+                        <namePart type="family">Barglowski</namePart>
+                        <namePart type="given">Karolina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-06-07</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This article scrutinizes the mobility regime of the EU by focusing on the challenges to belonging, which are incremental, but often neglected, aspects of the expansion of mobility rights. Based on a qualitative study of migration between Poland and Germany, one of the worlds’ most vivid and historically rooted migration spaces, I will argue that the enabled mobility in the course of the expansion of the EU beginning in 2004, created a situation for many to choose between two unsatisfying modes of belonging: Either choosing for the »Scylla« of migrating to what for some of them feels like unfamiliar social contexts with challenges for their belonging, mainly due to the shared beliefs of countries as framed by ethnic boundaries. Or, they can chose for the »Charybdis« of non-migrating, which is consequential because it implies resisting contemporary mobility discourses, which frame being »put in place« as lower life chances and modes for self-realization, mostly as a matter of class and gender.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1025</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1025">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1025/1133" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1025" DMDID="DMD_biejournals_1025">
+            <mets:fptr FILEID="FILE0_biejournals_1025"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

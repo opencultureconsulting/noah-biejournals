@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_827">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Comentary </title>
+                        <subTitle>‘“Mobilising for the Values of the Republic” - France&apos;s Education Policy Response to the “Fragmented Society”</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Proeschel, Claude</displayForm>
+                        <namePart type="family">Proeschel</namePart>
+                        <namePart type="given">Claude</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2015</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The article by Matthias Busch and Nancy Morys ‘“Mobilising for the Values of the Republic” - France&apos;s Education Policy Response to the “Fragmented Society”: A Commented Press Review’ is dedicated to the recent debates on moral education in France. The study by Busch and Morys is based on a review of official texts, including educational policy documents, scientific and journalistic articles, interviews, statements of teachers and experts. This methodological approach considers a variety of arguments in the debate and highlights the key points which relate more broadly to the role of secular schools in the ideology of the French Republic on social integration. Our aim here is to provide a non-exhaustive historical perspective in the aim of better understanding the significance of these very topical issues.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_827</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_827">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/827/929" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_827">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/827/930" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_827" DMDID="DMD_biejournals_827">
+            <mets:fptr FILEID="FILE0_biejournals_827"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_827" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_827"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

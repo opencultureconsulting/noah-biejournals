@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1692">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Moorkunde mit Kopf, Herz und Hand </title>
+                        <subTitle>Ein neuer Schulversuch auf den Spuren Ferdinand Rüthers</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bögeholz, Susanne</displayForm>
+                        <namePart type="family">Bögeholz</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die RÜTHERsche Moorkunde folgte dem klassischen Motto &quot;Lernen mit Kopf, Herz und Hand&quot;. Auf den Spuren Rüthers wird eine kurze Einführung in den Lebensraum Moor gegeben. Der Darstellung ausgewählter ökologischer Fakten zu Mooren folgt die kritische Diskussion von zwei Standard-Schulversuchen zu Torfmoosen; die Versuche können gravierende Fehlvorstellungen zum Wasserhaushalt von Moorökosystemen provozieren (&quot;Kopf&quot;). Es wird ein neuer Schulversuch präsentiert, der zur Vermeidung solcher Fehlvorstellungen den klassischen Weg der Erkenntnisgewinnung über Hypothesenbildung und quasi-experimentelle Überprüfung (&quot;Kopf&quot; und &quot;Hand&quot;) geht. Zu einer vollständigen biologiedidaktischen Moorkunde gehören auch ästhetische Aspekte (&quot;Herz&quot;). Anhand von Daten einer empirischen Untersuchung zur Bewertung von Moorökosystemen durch Schülerinnen und Schüler wird anschließend gezeigt, wie wichtig und aktuell die &quot;Bildung des Herzens&quot; in Zeiten der Bildung für Nachhaltige Entwicklung bleibt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1692</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1692">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1692/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1692" DMDID="DMD_biejournals_1692">
+            <mets:fptr FILEID="FILE0_biejournals_1692"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

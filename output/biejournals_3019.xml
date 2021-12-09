@@ -1,0 +1,71 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3019">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Relation Between Dating Violence Victimization and Commitment Among Turkish College Women</title>
+                        <subTitle>Does the Investment Model Matter?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Toplu-Demirtas, Ezgi</displayForm>
+                        <namePart type="family">Toplu-Demirtas</namePart>
+                        <namePart type="given">Ezgi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hatipoğlu-Sümer, Zeynep</displayForm>
+                        <namePart type="family">Hatipoğlu-Sümer</namePart>
+                        <namePart type="given">Zeynep</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>White, Jacquelyn W</displayForm>
+                        <namePart type="family">White</namePart>
+                        <namePart type="given">Jacquelyn W</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The present study explored the sexual, physical, psychological, and overall dating violence experiences, and related these experiences to Investment Model variables among Turkish college women. Three hundred and ninety dating women from four universities in Ankara, Turkey completed the Satisfaction, Investment, Alternatives, and Commitment subscales from the Investment Model Scale and the Sexual Coercion, Physical Assault, and Psychological Aggression subscales from the Revised Conflict Tactics Scale. 79.5 percent reported at least one incident of violence in a dating relationship within the previous year. Regression analyses indicated that satisfaction fully mediated the relations between physical, psychological, and overall dating violence victimization and commitment, but not for sexual victimization. The results suggest that future research should explore the possibility that the dissatisfaction women experience may be related to an increased likelihood of relation termination.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3019</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3019">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3019/pdf_94" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3019">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3019/2985" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3019" DMDID="DMD_biejournals_3019">
+            <mets:fptr FILEID="FILE0_biejournals_3019"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3019" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3019"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

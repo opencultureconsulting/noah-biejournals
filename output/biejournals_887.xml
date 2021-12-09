@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_887">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Phenomenon of Banished Soldiers in Polish Schools as an Example of the Politics of Memory</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bacia, Ewa</displayForm>
+                        <namePart type="family">Bacia</namePart>
+                        <namePart type="given">Ewa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-02-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose:&amp;nbsp;The article intends to analyse the manner in which banished soldiers are presented in the new history curriculum at schools in Poland as an example of the politics of memory.
+Design/methodology/approach:&amp;nbsp;The analyses performed included the following issues: the history of banished soldiers, the core history curriculum after the education reform in Poland, its objectives and goals (with particular emphasis on banished soldiers), the manner of presenting the banished soldiers in educational, public and social environments in Poland today, the impact of new historical politics on the Polish society and democracy.
+Findings:&amp;nbsp;The manner of presenting the issue of banished soldiers in the core curriculum for teaching history in Polish schools exemplifies the efforts to introduce a new political paradigm into the educational context. The primary purposes of teaching history at schools have become to stir up patriotic emotions and strengthen bonds with the Polish nation. These goals are to be reached by promoting distinguished figures in the country. However, any controversies related to the “heroes” are deliberately ignored, which is especially evident in the case of banished soldiers. Patriotism is identified with a black and white vision of history that emphasizes the good acts of &quot;Poles&quot; and the cruel acts of &quot;others&quot;. The simplified vision of history, which expressly ignores controversies and is reluctant to discuss dilemmas, is a real threat to the future of Polish democracy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_887</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_887">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/887/1456" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_887" DMDID="DMD_biejournals_887">
+            <mets:fptr FILEID="FILE0_biejournals_887"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

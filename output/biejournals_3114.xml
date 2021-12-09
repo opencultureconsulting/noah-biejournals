@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3114">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Humanising the Actors and Working through the Conflict</title>
+                        <subTitle>The Role of Kurdish Literary Narratives and Culture in the Reconciliation Process in Turkey</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bocheńska, Joanna</displayForm>
+                        <namePart type="family">Bocheńska</namePart>
+                        <namePart type="given">Joanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-11-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">This paper examines the modern Kurdish literary narratives and their application to the potential reconciliation between Kurds and Turks. It argues that while the subtle forms of dehumanisation of the Kurds are still entrenched in the Turkish state policy and popular media production – hampering the peace process – Kurdish literary narratives might be helpful in changing the dominant image of the Kurds, humanising them, and stimulating the process of reconciliation. Moreover, they offer diverse perspectives which may assist reconciliation. The peace process in Turkey started in 2009, intensified in 2013, and collapsed in 2015. At the same time, Kurdish culture has not been fully recognised, and it did not become a meaningful factor in the process of ending military conflict and establishing dialogue. The author offers an interdisciplinary approach, focusing on Paul Ricœur’s reflection on reconciliation and forgiveness, the results of socio-psychological study on the subtle forms of dehumanisation, and the role of literature in reconciliation with regard to the imagined contact hypothesis. Martha Nussbaum and Lawrence Hinman’s ideas on moral imagination are also applied to examine examples from Kurdish contemporary literature.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3114</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3114">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3114/pdf" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3114" DMDID="DMD_biejournals_3114">
+            <mets:fptr FILEID="FILE0_biejournals_3114"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

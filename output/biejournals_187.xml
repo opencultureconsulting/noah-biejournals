@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_187">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zielgruppen wissenschaftlicher Weiterbildung. Eine empirische Analyse auf Basis von Studierendendaten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwikal, Anita</displayForm>
+                        <namePart type="family">Schwikal</namePart>
+                        <namePart type="given">Anita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steinmüller, Bastian</displayForm>
+                        <namePart type="family">Steinmüller</namePart>
+                        <namePart type="given">Bastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-07-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Zu  Zielgruppen  wissenschaftlicher  Weiterbildung  werden u.a. Personen gezählt, die einer Berufstätigkeit nachgehen, die  Familienpflichten  haben  oder  arbeitslose  Akademiker sind. Diese Typisierungen spiegelt die mögliche Vielfalt von Studierenden  nur  bedingt  wider.  So  können  auf  Basis  der Beschreibung kaum Rückschlüsse für eine Angebotsentwicklung gewonnen werden, die den zukünftigen Anforderungen und Bedürfnissen der Zielgruppen gerecht werden. Das Projekt E B  hat es sich zur Aufgabe gemacht, wissenschaftliche Weiterbildungsangebote auf Basis von Daten evidenzbasiert zu entwickeln. Zu den Zielgruppenanalysen zählt u.a. eine Studierendenbefragung,  deren  Ergebnisse  Gegenstand  des vorliegenden Beitrages sind. Konkret wird die Zusammensetzung der Fernstudierenden der TU Kaiserslautern analysiert sowie deren Bewertung des Studiums dargestellt. Übergeordnetes  Projektziel  ist  es,  auf  Basis  unterschiedlicher  Datenquellen Aussagen für eine bedarfs- und nachfrageorientierte Gestaltung von Studienangeboten zu treffen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_187</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_187">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/187/176" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_187" DMDID="DMD_biejournals_187">
+            <mets:fptr FILEID="FILE0_biejournals_187"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

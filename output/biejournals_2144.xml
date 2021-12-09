@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2144">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Eigenständigkeit der Supervision im Osten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Galander, Ulrike</displayForm>
+                        <namePart type="family">Galander</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Liebe Kolleginnen, liebe Kollegen,als ich Ihren Brief las, überwog der Schreck und ich schaute schnell in den Spiegel, um meine Ähnlichkeit mit einem Leuchtturm abzugleichen. Der nächste Gedanke war: Bin ich hier richtig in der Reihe der Geehrten? Ich bin als Supervisorin nicht seit den 70er, sondern seit den 90er Jahren tätig und auch erst dann mit der Community verbunden. Also bin ich kein &quot;Aktivist der ersten Stunde&quot;, um in der Sprache meiner DDR-Herkunft zu bleiben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2144</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2144">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2144/2011" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2144" DMDID="DMD_biejournals_2144">
+            <mets:fptr FILEID="FILE0_biejournals_2144"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

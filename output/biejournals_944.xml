@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_944">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the margins of urban society? Inequalities and the differentiation of social space in a metropolis of the modern age – St. Petersburg 1850-1914</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Petersen, Hans-Christian</displayForm>
+                        <namePart type="family">Petersen</namePart>
+                        <namePart type="given">Hans-Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Our images of the socially deprived quarters of the world are usually very similar. They are the result of a ›safe distance‹ perspective. What we see, are largely dull and frequently grey or black tableaus. This is also true for Russia – according to the common belief, the world of the very poor of Russian society consisted (and consists) of people resorting to alcohol, violence and excessive religiousness. No further questions are asked, people on the social peripheries appear as a ›dark‹, anonymous collective body.This essay is about a current research project. Its aim is to shed more light on the peripheries of the cities. Being a European metropolis of the modern age, St. Petersburg was chosen as the centre of the investigations which deal with the social question of urban space by connecting structural factors with individual actions. It will be examined in how far the socially underprivileged of society did not just fall victim to social circumstances, but instead fought against their position on the margins of society by interpreting and adopting social space by means of individual and joint action.  This analysis is based on the concept of ›social space‹. In this way it is possible to connect traditional analyses of social inequalities with more recent cultural-historical approaches and to write an urban history ›from below‹, a history emphasizing the socio-economic dimension of human actions, again without just applying collective categories.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_944</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_944">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/944/1052" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_944" DMDID="DMD_biejournals_944">
+            <mets:fptr FILEID="FILE0_biejournals_944"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

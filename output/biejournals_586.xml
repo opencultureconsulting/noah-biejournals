@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_586">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Native Students Attitudes towards Equal Rights for Immigrants. A Study in 18 European Countries</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Isac, Maria Magdalena</displayForm>
+                        <namePart type="family">Isac</namePart>
+                        <namePart type="given">Maria Magdalena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maslowski, Ralf</displayForm>
+                        <namePart type="family">Maslowski</namePart>
+                        <namePart type="given">Ralf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van der Werf, Greetje</displayForm>
+                        <namePart type="family">van der Werf</namePart>
+                        <namePart type="given">Greetje</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-04-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2011</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The present study investigates the determinants of native student attitudes towards equal rights for immigrants giving particular attention to the effect of immigrant share in the classroom and the extent to which it can be generalized across country contexts. The contribution sheds some new light on the validity of the contact hypothesis, which suggests that mixing native and immigrant students in schools and classrooms can contribute to higher levels of support for immigrants’ rights. The analyses were conducted across 18 countries participating to the ICCS survey in 2009. For the analyses we applied a three-level multilevel model controlling for individual, classroom, and country characteristics. We tested a random slope for immigrant share in the classroom at country level, and we modeled both linear and quadratic effects of immigrant share. The overall pattern suggests that in most countries there is a small positive effect of immigrant share, which does not change dramatically in direction or size at higher immigrant share levels.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_586</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_586">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/586/583" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_586" DMDID="DMD_biejournals_586">
+            <mets:fptr FILEID="FILE0_biejournals_586"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

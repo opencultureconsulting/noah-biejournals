@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_533">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Two Kinds of Political Awakening in the Civic Education Classroom. A Comparative Argumentation Analysis of the “Constitutional Debates” of Two “Found-a-Village” Projects with 8th Graders</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Petrik, Andreas</displayForm>
+                        <namePart type="family">Petrik</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2007</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article proposes an adaption of the Toulmin model of argumentation as a congenial method to investigate interactive political learning processes. The interactive learning environment is provided by the “Found-a-Village” project, where students simulate to establish their own social and political system. I will start my essay by introducing the “genetic” village-setting which works as a trigger for the formation of political judgment and conflict resolution skills. Then, I will define claims, grounds, warrants and premises as basic parts of Toulmin’s model. After presenting six types of politically relevant warrants, I will present a four-level-model for the analysis of political learning processes, distinguishing private, public, institutional and systemic perspectives on politics. Later on, I apply this model by comparing two quite different classes during the initial phase of their village-projects: While the “public” class uses the simulation to seriously negotiate their political values, the second class takes a fairly playful and “private” time-out from typical instruction. Both classes, at a different speed, undergo a continual development from unfounded claims and inadequate arguments to the reflection of their own and opposed political value-orientations. The analysis of implicit parts of individual argumentation confirms the method to be helpful for teachers’ diagnosis skills.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_533</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_533">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/533/530" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_533" DMDID="DMD_biejournals_533">
+            <mets:fptr FILEID="FILE0_biejournals_533"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

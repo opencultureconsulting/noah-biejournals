@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3255">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lehramtsstudierende als Expert*innen und Kolleg*innen in einer Weiterbildung für Lehrkräfte</title>
+                        <subTitle>Phasenübergreifende Geschichtslehrer*innenausbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Students as experts and colleagues in further training for teachers</title>
+                        <subTitle>Networking the phases of teacher education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kreutz, Jessica</displayForm>
+                        <namePart type="family">Kreutz</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-22</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel des Lehr-Lern-Projektes war die Schaffung einer kollegialen Arbeitsgemeinschaft zwischen Lehramtsstudierenden der hochschulischen Ausbildungsphase und bereits im Beruf etablierten Lehrkräften im Fachbereich Geschichte. Traditionell hierarchische Strukturen wurden aufgebrochen, um die jeweiligen Kompetenzen der Teilnehmenden für beide Seiten gewinnbringend zu vereinen. Anders als in den hochschulischen Praktika treten Lehramtsstudierende den Lehrkräften mit Expertise gegenüber: Der Austausch ist daher weniger einseitig als vielmehr von doppelseitigem Nutzen. Dieses Konzept bietet im Sinne einer community of practice nicht nur den Lehramtsstudierenden die Chance, ihr theoretisch erworbenes Wissen praxisorientiert anzuwenden und zu reflektieren, sondern ermöglicht auch den Lehrkräften, an den aktuellen geschichtsdidaktischen Forschungen und Entwicklungen an den Hochschulen teilzuhaben und mithilfe der Studierenden in der eigenen Schulpraxis zu reflektieren und gegebenenfalls anzuwenden. Anliegen des Lehr-Lern-Projektes ist ein Plädoyer, das Potenzial der Hochschulen über die eigenen Studierenden im Fortbildungsbereich der Lehrkräfte gewinnbringend zu nutzen, die schulische Reichweite von fachdidaktischer For-schung auszuschöpfen und den Lehramtsstudierenden zugleich eine weitere Möglichkeit einer schulpraktischen Erfahrung zu bieten. Nicht zuletzt: Die Verzahnung von Ausbildungs- und Weiterbildungsphase ist eine weitere gewinnbringende Möglichkeit, Akteur*innen der Lehrer*innenbildung in einen gewinnbringenden und praxisnahen Dialog zu bringen.</abstract>
+                    <abstract lang="eng">The aim of the project was to create a collegial working group between students of the teaching profession and history teachers. Hierarchical structures were broken down in order to successfully combine the competencies of the participants. In contrast to the school internships, students approach the teachers with expertise. The exchange is less one-sided and more mutually beneficial. In the sense of a community of practice, this concept not only offers students the opportunity to apply and reflect on their knowledge, but also enables teachers to participate in didactic research in history at universities as well as reflect and apply this in school practice. The aim of the project is to put forward a proposal how to use the potential of the universities and the expertise of the students in the further training courses for teachers. This will also help disseminate didactic research and offer students further opportunities to gain school experience.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3255</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3255">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/3255/3598" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3255" DMDID="DMD_biejournals_3255">
+            <mets:fptr FILEID="FILE0_biejournals_3255"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

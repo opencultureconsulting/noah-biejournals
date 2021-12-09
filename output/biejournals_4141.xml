@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4141">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperation der heterogenen Lehrgruppe im inklusiven Unterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rißler, Georg</displayForm>
+                        <namePart type="family">Rißler</namePart>
+                        <namePart type="given">Georg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Blasse, Nina</displayForm>
+                        <namePart type="family">Blasse</namePart>
+                        <namePart type="given">Nina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Budde, Jürgen</displayForm>
+                        <namePart type="family">Budde</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Kooperation in heterogenen Lehrgruppen stellt eine zentrale Herausforderung im Kontext der Entwicklung und Umsetzung schulischer Inklusion dar. Der Beitrag entfaltet ein praktikentheoretisches Verständnis von Kooperation als Aktivitätenchoregraphierung und stellt ethnographisches Material als Anlass zur Reflexion von Kooperationsverständnissen in Aus-, Weiter- und Fortbildungsveranstaltungen für Akteur*innen multiprofessioneller Teams zur Verfügung.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4141</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4141">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4141/4124" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4141">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4141/4125" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4141" DMDID="DMD_biejournals_4141">
+            <mets:fptr FILEID="FILE0_biejournals_4141"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4141" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4141"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_335">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Globalization and Shifting Gender Governance Order(s)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Young, Brigitte</displayForm>
+                        <namePart type="family">Young</namePart>
+                        <namePart type="given">Brigitte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2005-08-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This article analyses the different ways globalisation affects women, showing clearly that the theoretical as well as empirical analyses of globalisation processes remain insufficient without a gender perspective. Based on the thesis that the transformation of specific historic systems of capitalism goes hand in hand with the reconfiguration of gender governance orders, essential elements of this process are described: the decline of the family wage model, the reconfiguration of the public and the private spheres, the increasing polarisation among women and the reprivatization of social reproduction. These changes do not imply only negative consequences for women; they also have the potential of weakening and dissolving local, patriarchal cultures and systems of male domination. Using the examples of the emerging economies in East Asia, the article demonstrates the ambivalence of shifting gender governance orders and emphasises the necessity of future research that includes the gender perspective.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_335</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_335">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/335/332" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_335" DMDID="DMD_biejournals_335">
+            <mets:fptr FILEID="FILE0_biejournals_335"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

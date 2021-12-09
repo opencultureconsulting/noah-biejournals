@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3947">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Werteorientierungen von Lehrkräften mit und ohne Migrationshintergrund im Vergleich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ova, Aylin</displayForm>
+                        <namePart type="family">Ova</namePart>
+                        <namePart type="given">Aylin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stein, Margit</displayForm>
+                        <namePart type="family">Stein</namePart>
+                        <namePart type="given">Margit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zimmer, Veronika</displayForm>
+                        <namePart type="family">Zimmer</namePart>
+                        <namePart type="given">Veronika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Rahmen der vorliegenden Studie wurden insgesamt 51 Lehrkräfte mit und ohne Migrationshintergrund in qualitativ vertiefenden Interviews zu ihren Werteüberzeugungen und Erziehungsmaximen befragt. Gesellschaftspolitisch werden mit Lehrkräften mit Migrationshintergrund hohe Erwartungen verknüpft, da u.a. postuliert wird, dass sie auf Grund geteilter sprachlicher Kompetenzen und Werteüberzeugungen als Brückenbauer zur migrantischen Schülerschaft und deren Eltern fungieren könnten. Lehrkräfte mit Migrationshintergrund sind erst seit kurzem Gegenstand wissenschaftlicher Forschungen – zumeist wurde erfasst, wie sie mit den an sie gestellten Erwartungen umgehen und ob sie Rassismen und Vorurteile gegenüber ihrer Person wahrnehmen. Die vorliegende Studie deckt auf, dass sich die Werteorientierungen von Lehrkräften mit und ohne Migrationshintergrund kaum unterscheiden, was auf geteilte sozialisatorische Bedingungen der zumeist bereits in Deutschland aufgewachsenen Lehrkräfte sowie geteilte sozioökonomische Bedingungen zurückgeführt wird.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3947</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3947">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3947/3922" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3947" DMDID="DMD_biejournals_3947">
+            <mets:fptr FILEID="FILE0_biejournals_3947"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_736">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Encouraging Classroom Discussion</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>McKee, Robert Joseph</displayForm>
+                        <namePart type="family">McKee</namePart>
+                        <namePart type="given">Robert Joseph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-10-31</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Classroom discussion has the potential to enhance the learning environment and encourages students to become active participants in the educational process. Student participation in classroom discussion has been shown to significantly improve the student learning experience. Research suggests that classroom discussion is an effective method for encouraging student classroom participation and for motivating student learning beyond the classroom. Participation in classroom discussion encourages students to become active collaborators in the learning process, while at the same time providing instructors with a practical method of assessing student learning. Classroom discussion is an effective tool for developing higher-level cognitive skills like critical thinking. Despite the potential discussion holds for student learning, many in academia lament the lack of participation in the classroom. The lack of student participation in classroom discussion is not a recent problem; it is one that has frustrated instructors for decades. Instructors report that some of the more current methods for encouraging classroom discussion can be exasperating and at times non-productive. This two-year study of 510 college and university students provides insight into the reasons why some students do not participate in classroom discussion. This study, which also elicited input from sixteen college and university professors and two high school teachers, offers some suggestions for creating and encouraging an environment conducive to student participation in the classroom.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_736</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_736">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/736/796" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_736" DMDID="DMD_biejournals_736">
+            <mets:fptr FILEID="FILE0_biejournals_736"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

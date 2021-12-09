@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_960">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From »World Soviet« to »Fatherland of All Proletarians.« Anticipated World Society and Global Thinking in Early Soviet Russia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Albert, Gleb J.</displayForm>
+                        <namePart type="family">Albert</namePart>
+                        <namePart type="given">Gleb J.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-02</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">After ascending to power in late 1917, the Bolsheviks firmly believed that their revolution would not remain isolated. The call for ›proletarians of all countries‹ to unite, previously expressed by Marx and Engels in the Communist Manifesto, was translated into expectations of an imminent world revolution – and the worldwide unrests in the first years after World War I seemed to prove these expectations true. Using a large variety of sources, the present article has three objectives. Firstly, it sets out to show that the belief in world revolution was not limited to the intellectual leadership of the party, but also permeated larger strata of the party. Regional party activists placed themselves and their revolutionary activity within a global context. Secondly, the article strives to elucidate not only activists’ ideas about the process of world revolution, but also how they imagined the communist world that would come into existence after the worldwide ›proletarian‹ victory. This ›world society‹ in the making is compared to Niklas Luhmann’s concept of world society. And finally, the article evaluates the role of communist ›global thinking‹ in the context of the ascension of Stalinism in the mid- to late-1920s.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_960</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_960">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/960/1068" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_960" DMDID="DMD_biejournals_960">
+            <mets:fptr FILEID="FILE0_biejournals_960"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

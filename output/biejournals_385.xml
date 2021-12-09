@@ -1,0 +1,55 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_385">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>State of Citizenship Education in Turkey</title>
+                        <subTitle>Past and Present</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Çayır, Kenan</displayForm>
+                        <namePart type="family">Çayır</namePart>
+                        <namePart type="given">Kenan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gürkaynak, İpek</displayForm>
+                        <namePart type="family">Gürkaynak</namePart>
+                        <namePart type="given">İpek</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Citizenship education in Turkey has been a part of the state-centric modernization project involving the transformation of public and private lives of Turkish citizens. Although there has always been a separate course on civics, citizenship education emerges as a cross-curricular theme in the Turkish educational system which aims at creating a self-sacrificing and patriotic citizen. Besides its particularistic content, however, Turkish citizenship education also involves references to a universal conception of citizenship in line with Turkey’s aspiration to be a member of the European Union. This paper presents a historical frame and breaking points for citizenship education in Turkey from its foundation to the present. It critically examines paradoxical content of the current citizenship and human rights education curriculum.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_385</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_385">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/385/382" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_385" DMDID="DMD_biejournals_385">
+            <mets:fptr FILEID="FILE0_biejournals_385"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

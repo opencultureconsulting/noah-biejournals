@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2554">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Videobasierte Lehrmodule zur Förderung der professionellen Wahrnehmung von heterogenitätssensiblem Unterricht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Junker, Robin</displayForm>
+                        <namePart type="family">Junker</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rauterberg, Till</displayForm>
+                        <namePart type="family">Rauterberg</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Möller, Kornelia</displayForm>
+                        <namePart type="family">Möller</namePart>
+                        <namePart type="given">Kornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Holodynski, Manfred</displayForm>
+                        <namePart type="family">Holodynski</namePart>
+                        <namePart type="given">Manfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag erläutert den gemeinsamen konzeptuellen Rahmen der fachspezifischen videobasierten Lehrmodule zur Förderung der professionellen Unterrichtswahrnehmung von Lehramtsstudierenden, die im Rahmen der Qualitätsoffensive Lehrerbildung Münster konzipiert und evaluiert wurden. Dazu gehört das Konstrukt der professionellen Unterrichtswahrnehmung und des übergreifenden Analyseschwerpunkts, des Umgangs mit einer heterogenen Schülerschaft im Unterricht, sowie das gemeinsame didaktische Konzept der videobasierten Seminare. Auf der Basis dieser fachlichen Grundlegung stellen die Autoren ein mediendidaktisches Konzept vor, das die kategoriengeleitete Analyse von Unterrichtsvideos als zentrales Aufgabenformat verwendet. Anhand evidenzbasierter mediendidaktischer Prinzipien wird der gemeinsame didaktische Rahmen der videobasierten Seminarkonzepte beschrieben. Dieser Rahmen soll Anregungen für die Konzeption weiterer videobasierter Lehrmodule für andere Unterrichtsfächer und zu weiteren Analyseschwerpunkten bieten. Zum übergreifenden didaktischen Rahmen gehören (1) die Produktion und Auswahl geeigneter Unterrichtsvideos, (2) die Konstruktion von Aufgaben zur videobasierten Unterrichtsanalyse und (3) die Zusammenstellung dieser Aufgaben zu einem schlüssigen und wirksamen Seminarkonzept. Abschließend wird das gemeinsame Evaluationskonzepts der videobasierten Seminare erläutert.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2554</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2554">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2554/3515" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2554" DMDID="DMD_biejournals_2554">
+            <mets:fptr FILEID="FILE0_biejournals_2554"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

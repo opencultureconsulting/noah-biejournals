@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2133">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision und Beratung - Reflexionen im Rahmen einer akademischen Ausbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Riehn-Casarubia, Barbara</displayForm>
+                        <namePart type="family">Riehn-Casarubia</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Hinter mir liegen 25 Jahre engagierte berufliche Sozialarbeit in der Sozialpsychiatrie sowohl in Deutschland als auch Italien. Als Studentin des Masterstudiengangs &quot;Supervision &amp;amp; Beratung&quot; reflektierte ich im Rahmen einer Hausarbeit mein eigenes Beratungsverständnis und konnte endlich meine reichhaltigen Erfahrungen aus der Praxis mit wissenschaftlichen Theorien verknüpfen. Bislang hat in Deutschland wenig Beratungsforschung stattgefunden. Über vielfältige Beratungsformen recherchierend suchte ich nach Gemeinsamkeiten und Unterschieden in der jeweiligen Konzept-, Praxis- und Theorieentwicklung. Ich stelle nun die formalen Ergebnisse dar, ebenso kritische Anmerkungen und Konsequenzen, die daraus zu ziehen sind. Dem fachfremden Leser ermögliche ich einen Einblick in die Praxis, indem ich beispielhaft darstelle, in welchem Dilemma sich Beratung bei gleichzeitigem wirtschaftlichem Druck befinden kann.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2133</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2133">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2133/2000" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2133" DMDID="DMD_biejournals_2133">
+            <mets:fptr FILEID="FILE0_biejournals_2133"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

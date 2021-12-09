@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4358">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Netiquette, Voting &amp; Feedbackkultur</title>
+                        <subTitle>Demokratiebildung in der digitalen Französisch-/Spanisch-Lehrer*innen-Bildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Reinhardt, Janina</displayForm>
+                        <namePart type="family">Reinhardt</namePart>
+                        <namePart type="given">Janina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag soll aufzeigen, inwiefern aktuelle Ansätze und Formate der Fremdsprachen(didaktik)-Lehre zur demokratisch-politischen Bildung beitragen können. Neben einer fachspezifischen Begriffsbestimmung und einer Verortung im fremdsprachendidaktischen Diskurs werden dafür auch konkrete Implementierungsversuche aufgezeigt, die illustrieren sollen, wie Demokratiebildung im Französisch-/Spanischunterricht und in der romanistischen Fremdsprachen-Lehrer*innen-Bildung gefördert werden kann. Da hierbei auch die zunehmende Digitalisierung eine wichtige Rolle spielt und derzeit überwiegend Distanzlehre praktiziert wird, werden insbesondere digitale Umsetzungsmöglichkeiten vorgestellt. Ziel dieses Beitrags ist die Dokumentation, Reflexion und Neu-Konzeption fachbezogener Demokratiefördermöglichkeiten, welche als Anregungen für die universitäre Lehre und auch direkt im schulischen Fremdsprachenunterricht genutzt werden können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4358</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4358">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4358/4224" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4358" DMDID="DMD_biejournals_4358">
+            <mets:fptr FILEID="FILE0_biejournals_4358"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

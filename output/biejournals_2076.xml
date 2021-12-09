@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2076">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision ,in der illegalen Sucht&apos; - Arbeit in der Sphäre von Autonomie und Abhängigkeit, Leben und Sterben</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Helsper, Roland</displayForm>
+                        <namePart type="family">Helsper</namePart>
+                        <namePart type="given">Roland</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag umreißt die Entwicklung der professionellen Behandlung von Abhängigkeitserkrankungen seit Beginn der 80er Jahre, hier bezogen auf den Konsum illegaler SuchtmitteL Er beschreibt stark fokussiert die dem Arbeitsfeld innewohnende Dynamik von Angst, Hoffnung und Enttäuschung, geprägt vom Wunsch nach Sicherheit, Struktur und der gleichzeitigen Tendenz, selbige zu unterlaufen: die Dynamik, wie sie auf Seiten der Abhängigen zu beobachten ist und wie sie ihre Abbildung in den (Überlebens-) Strategien der Mitarbeitenden findet. Der Autor benennt im Folgenden als hauptberuflicher Leiter einer Adaptionseinrichtung aus der Kundenperspektive, was er für Supervidierende und für Supervision in Bezug auf sein Arbeitsfeld als wesentlich erachtet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2076</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2076">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2076/1943" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2076" DMDID="DMD_biejournals_2076">
+            <mets:fptr FILEID="FILE0_biejournals_2076"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

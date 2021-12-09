@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3434">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>A </nonSort>
+                        <title>Dedicated English Portfolio for a Bilingual Primary School</title>
+                        <subTitle>A Project-in-Progress to Address the Transition Challenge and Augment the Agency of Learners at a Bilingual Primary School (and Other Primary Schools)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Skorge, Patricia</displayForm>
+                        <namePart type="family">Skorge</namePart>
+                        <namePart type="given">Patricia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">A bilingual primary school has initiated a project to address the “transition challenge” the children at the school, all of whom have bilingual classes from the start of Year One on, will face in the subject English when they go to secondary school. Working with researchers, a teacher from the school is developing a flexible, easily adaptable self-assessment portfolio that learners are able to present at secondary school so that their new English teachers can build on what the children have learnt and can do. This contribution relates some of the decisions and experiences this project-in-progress entailed in its first implementation with children in Years One and Two. For example, the project team observed informally that working with the portfolio and reflecting on their learning process and progress promotes the children’s agency and autonomy. While the portfolio is a practical instrument initiated at grassroots level, the data gathered are undoubtedly of interest to researchers and provide evidence of the benefits of starting English in Year One, and of an inclusive, across-the-board, immersive bilingual policy.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3434</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3434">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3434/3661" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3434" DMDID="DMD_biejournals_3434">
+            <mets:fptr FILEID="FILE0_biejournals_3434"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

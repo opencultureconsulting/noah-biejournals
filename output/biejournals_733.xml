@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_733">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Science Teachers on Citizenship Education</title>
+                        <subTitle>A Comparative Study of Two Post-Communist Countries</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jeliazkova, Margarita</displayForm>
+                        <namePart type="family">Jeliazkova</namePart>
+                        <namePart type="given">Margarita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-10-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2014</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper presents some of the results of a comparative study of high school social science teachers in two post-communist European countries: Bulgaria and Croatia. In both countries, citizenship education was implemented as a part of the EU accession efforts. I discuss the ways teachers deal with the everyday dilemmas of teaching in a field which is by definition controversial and loaded with diverse political meanings. The study involved teachers in the two countries using Q-methodology, a combination of quantitative and qualitative techniques. Five distinct ways of dealing with these questions, five types of views were found in Bulgaria: Pragmatic Conservatives, Deliberative Liberals, Local Social Guardians, Personal Growth Facilitators, and Global Future Debaters. In Croatia, the types of views were: Patriotic Conservatives, Liberal Democracy Mentors, Reflective Humanists, and Personal Growth Coaches. The differences and similarities between the teachers’ views in both countries are compared. The study highlights the crucial role of teachers, of their beliefs and experiences in shaping national and European citizenship education policies. The implications of the study findings for citizenship education policy, curriculum development, and teacher training are briefly discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_733</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_733">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/733/793" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_733" DMDID="DMD_biejournals_733">
+            <mets:fptr FILEID="FILE0_biejournals_733"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

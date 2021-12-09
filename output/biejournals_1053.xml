@@ -1,0 +1,43 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1053">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Essentializing motherhood</title>
+                        <subTitle>The Ukrainian woman in policy debates</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Tarkhanova, Oleksandra</displayForm>
+                        <namePart type="family">Tarkhanova</namePart>
+                        <namePart type="given">Oleksandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-10-25</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">In the last two and a half decades, the expectations of motherhood and the understanding of women’s reproductive choices in Ukrainian state policy discourses have been changing. Nevertheless, the regime of »compulsory motherhood« has remained dominant, stating that reproduction is what makes a woman. In this paper I explore how the norm of traditional »natural« motherhood is constructed in labor and welfare policy so that it holds through the policy changes influenced by the ideologies of state paternalism, neoliberalism, and conservatism. In the policy discussions from 1990 to 2015, women’s bodies are constructed as vulnerable, particularly in terms of their fertility, as a result of poverty, excessive working responsibilities, or societal moral »decay.« The goal of this paper is to grasp the regime of »compulsory motherhood« and to understand how the subject of voluntarily childless woman becomes unthinkable in these conditions due to the construction of mothering as a biological function of the female body.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1053</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1053">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/1053/1161" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1053" DMDID="DMD_biejournals_1053">
+            <mets:fptr FILEID="FILE0_biejournals_1053"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

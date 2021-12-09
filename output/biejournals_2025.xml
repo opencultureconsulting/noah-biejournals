@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2025">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Von sich selbst erzählen und miteinander sprechen als Spiegel und Promotor lebensgeschichtlicher Strukturen - ein strukturanalytischer Forschungszugang und seine möglichen Implikationen für Supervisionspraxis und Supervisionsfortbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Müller, Jutta</displayForm>
+                        <namePart type="family">Müller</namePart>
+                        <namePart type="given">Jutta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der erste Teil des vorliegenden Beitrags ist dem Verhältnis von Erzählen, Interagieren und biografischer Struktur gewidmet und gibt einen Einblick in die Forschung der Autorin in diesem Bereich auf der Grundlage von struktural-rekonstruktiven Analysen. Im zweiten Teil tritt die Autorin für eine stärkere Verzahnung solcher Forschungsansätze mit der Supervisorischen Praxis ein und zeigt den möglichen Nutzen anhand von eigenen Erfahrungen auf.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2025</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2025">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2025/1892" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2025" DMDID="DMD_biejournals_2025">
+            <mets:fptr FILEID="FILE0_biejournals_2025"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1194">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>HMF-Bestimmung und Honigqualität</title>
+                        <subTitle>Ein neues Experiment für die Schule</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Höhne, Benjamin</displayForm>
+                        <namePart type="family">Höhne</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weyers, Bruno</displayForm>
+                        <namePart type="family">Weyers</namePart>
+                        <namePart type="given">Bruno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohrmann, Johannes</displayForm>
+                        <namePart type="family">Bohrmann</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-11</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Gehalt von Hydroxymethylfurfural (HMF) in Honig ist ein Parameter zur Beurteilung seiner Frische und einer sachgemäßen Wärmebehandlung beim Abfüllen. Die qualitative und quantitative Bestimmung von HMF werden als Schulexperimente vorgestellt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1194</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1194">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1194/1285" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_1194">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1194/1287" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE2_biejournals_1194">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/1194/1288" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1194" DMDID="DMD_biejournals_1194">
+            <mets:fptr FILEID="FILE0_biejournals_1194"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_1194" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_1194"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_1194" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_1194"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4821">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mehr Nachhaltigkeit durch Genomeditierung</title>
+                        <subTitle>Genetische Variation gezielt erzeugen und nutzen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Genome editing for more sustainability</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Clemens, Stephan</displayForm>
+                        <namePart type="family">Clemens</namePart>
+                        <namePart type="given">Stephan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Produktion von Nahrungsmitteln belastet wie keine andere menschliche Aktivität die planetaren Grenzen. Emission von Klimagasen wie Methan, von Stickstoff und Phosphor, der Frischwasserverbrauch oder die Bedrohung der Biodiversität gehen zum Teil schon jetzt über diese Grenzen hinaus. Landwirtschaft muss dringend nachhaltiger werden, gleichzeitig jedoch eine Steigerung der Produktion möglichst gesunder Nahrungsmittel erreichen. Damit dies global gelingen kann, ist eine nachhaltige Intensivierung essentiell, die sich auf eine sinnvolle Kombination aller verfügbaren Werkzeuge und Maßnahmen stützt. Zu diesen müssen Innovationen in der Pflanzenzüchtung gehören. Deren Potenzial hat schon die Errungenschaften der letzten Jahrzehnte mit ermöglicht, und dank neuer Züchtungsmethoden wie der Genomeditierung können heute viele Limitationen der klassischen Züchtung überwunden werden. Genetische Variation kann wissensbasiert erzeugt und genutzt werden, um nachhaltiger bessere Nahrungsmittel zu produzieren.</abstract>
+                    <abstract lang="eng">Among all human activities, food production causes the largest strain on planetary boundaries. Emission of greenhouse gases such as methane, release of nitrogen and phosphorus, freshwater usage and the threat to biodiversity are in part already exceeding those boundaries. Agriculture needs to become more sustainable, yet at the same time it has to achieve increases in the production of healthy food. Globally, this can only be accomplished by sustainable intensification, using a smart mix of measures and tools. Among those, innovations in plant breeding have to play a key role. Their potential enabled many of the achievements in past decades. Novel breeding techniques such as genome editing can help overcome many of the limitations inherent to plant breeding. Based on knowledge, genetic variation can be precisely generated and used to produce healthier food in a more sustainable way.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4821</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4821">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4821/4545" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4821" DMDID="DMD_biejournals_4821">
+            <mets:fptr FILEID="FILE0_biejournals_4821"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

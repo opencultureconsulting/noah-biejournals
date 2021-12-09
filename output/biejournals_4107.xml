@@ -1,0 +1,106 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4107">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Naturschutz und Klimawandel im Leipziger Auwald</title>
+                        <subTitle>Ein Biodiversitätshotspot an der Belastungsgrenze</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Biodiversity conservation and climate change in the floodplain forest of Leipzig</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wirth, Christian</displayForm>
+                        <namePart type="family">Wirth</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Engelmann, Rolf A.</displayForm>
+                        <namePart type="family">Engelmann</namePart>
+                        <namePart type="given">Rolf A.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haack, Nora</displayForm>
+                        <namePart type="family">Haack</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hartmann, Henrik</displayForm>
+                        <namePart type="family">Hartmann</namePart>
+                        <namePart type="given">Henrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Richter, Ronny</displayForm>
+                        <namePart type="family">Richter</namePart>
+                        <namePart type="given">Ronny</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schnabel, Florian</displayForm>
+                        <namePart type="family">Schnabel</namePart>
+                        <namePart type="given">Florian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Scholz, Mathias</displayForm>
+                        <namePart type="family">Scholz</namePart>
+                        <namePart type="given">Mathias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Seele-Dilbat, Carolin</displayForm>
+                        <namePart type="family">Seele-Dilbat</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Leipziger Auwald ist ein streng geschützter Hartholzauenwald mit einer hohen und spezifischen Biodiversität. Diese verdankt er seiner langen Habitattradition, seinem Baumartenreichtum und seiner Nutzungsgeschichte. Flussregulierung und Deichbau in den 1930er Jahren haben das Gebiet entwässert und die notwendigen Überflutungen unterbunden. Das hat die Struktur und die Artenzusammensetzung des Waldes stark verändert. Standortfremde Ahornarten sind auf dem Vormarsch, wodurch sich die Stieleiche nicht mehr verjüngt. Die extremen Trockenjahre 2018 und 2019 haben zu einem großflächigen Absterben vor allem der Esche geführt. Ökophysiologische Untersuchungen und Jahrringanalysen zeigen, dass die Stressbelastung in 2019 stark anstieg und das System an seine Belastungsgrenze geführt hat. Um den Hartholzauenwald zu retten, soll nun eine natürliche Überflutungs- und Grundwasserdynamik wiederhergestellt werden.</abstract>
+                    <abstract lang="eng">The floodplain forest of Leipzig is strictly protected because of its high and unique biodiversity. This exists because of its continuous forest cover, its high richness of tree species and its management history. The river regulation in the 1930s has drained the forest and has prevented flooding which has strongly altered the structure and tree species composition of the forest. Shade-casting maple species, that were historically rare, are gaining dominance which suppresses the natural regeneration of pedunculate oak. The extreme drought years of 2018 and 2019 have led to a large-scale mortality, in particular of Common ash. Eco-physiological investigations and tree ring analyses show that the stress level in 2019 rose strongly and has pushed the system to its limits. To save the unique forest, revitalisation measures that restore the hydrological dynamics of the floodplain are planned.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4107</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4107">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4107/4103" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4107" DMDID="DMD_biejournals_4107">
+            <mets:fptr FILEID="FILE0_biejournals_4107"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

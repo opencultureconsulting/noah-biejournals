@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_388">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Teachers’ Perspectives in Portugal and Recent Institutional Contributions on Citizenship Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Araújo, Helena C.</displayForm>
+                        <namePart type="family">Araújo</namePart>
+                        <namePart type="given">Helena C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2008-02-03</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2005</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">This paper aims to focus the impact of policies on education for citizenship through two research projects pursued in the last ten years on teachers’ perspectives on citizenship education and their relevance for schools and education at large. Moreover, this impact will also be seen through recent policies and state initiatives on citizenship education, as well as on higher education institutions and NGOs in their contribution to these initiatives. These analyses point to the need for a more systematic intervention in teachers’ education on citizenship education and on schools initiatives in this area.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_388</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_388">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/388/385" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_388" DMDID="DMD_biejournals_388">
+            <mets:fptr FILEID="FILE0_biejournals_388"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

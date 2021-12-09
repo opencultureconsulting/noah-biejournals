@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4000">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>(Literar-)ästhetisches Lernen und Kulturelle Bildung</title>
+                        <subTitle>Zentrale Begrifflichkeiten und ihre Relevanz für die Lehrer*innenbildung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>(Literary-)Aesthetic Learning and Cultural Education</title>
+                        <subTitle>Central Concepts and Their Relevance for Teacher Education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Massek, Corinna</displayForm>
+                        <namePart type="family">Massek</namePart>
+                        <namePart type="given">Corinna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Miller, Susanne</displayForm>
+                        <namePart type="family">Miller</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Josting, Petra</displayForm>
+                        <namePart type="family">Josting</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Wert der kulturellen Bildung im schulischen Kontext ist unbestritten. Die zahlreichen Potenziale kultureller Bildung liegen etwa in der Förderung der Persönlichkeitsentwicklung, der Selbstwirksamkeitserwartung und der kulturellen Teilhabe aller Schüler*innen, da der Lernort Schule auch Kinder adressieren kann, die im außerschulischen Kontext nur wenig bis keine Berührungspunkte mit kultureller Bildung haben. Eine strukturelle und fächerübergreifende Verankerung kultureller Bildung in der Lehrer*innenbildung stellt – trotz einiger (oft standortgebundener) Modellversuche – eine systematische Leerstelle dar. Mit diesem Beitrag soll eine Grundlage für eine entsprechende Perspektiverweiterung in der Lehrer*innenausbildung geschaffen werden, denn Lehrkräfte sind als zentrale Multiplikator*innen kultureller Handlungspraxen anzusehen. Zunächst werden zentrale Begrifflichkeiten geklärt, daran anschließend Fragen zur Relevanz und Implementierung der kulturellen Bildung in die Lehrer*innenbildung diskutiert. Ziel ist es, anhand theoretischer Begründungslinien die besondere Bedeutung von (literar-)ästhetischen Zugängen und kultureller Bildung in Schule und Unterricht zu verdeutlichen und zu einer Weiterentwicklung einer entsprechenden Lehrer*innenbildung anzuregen.</abstract>
+                    <abstract lang="eng">The value of cultural education in the school context is undisputed. The numerous potentials of cultural education include the promotion of personality development, the expectation of self-efficacy, and the cultural participation of all students, because school can also address children who have little or no contact with cultural education in an out-of-school context. A structural and interdisciplinary anchoring of cultural education in teacher training is – despite some (often location-bound) pilot projects – a systematic gap. The aim of this article is to create a basis for a corresponding broadening of perspectives in teacher training, since teachers are to be regarded as central multipliers of cultural practices. First, central concepts will be clarified, followed by a discussion of questions concerning the relevance and implementation of cultural education in teacher training. The aim is to clarify the special significance of (literary) aesthetic approaches and cultural education in schools and lessons on the basis of theoretical explanatory approaches and to stimulate the further development of appropriate teacher training.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4000</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4000">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4000/4404" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4000" DMDID="DMD_biejournals_4000">
+            <mets:fptr FILEID="FILE0_biejournals_4000"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

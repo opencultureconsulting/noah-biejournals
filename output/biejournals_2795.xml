@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2795">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Conceptual and Theoretical Frameworks for Organised Violence</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Shaw, Martin</displayForm>
+                        <namePart type="family">Shaw</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The possibility of violence is ubiquitous in human social relations; its forms are manifold and its causes complex. Different types of violence are inter- related, but in complex ways, and they are studied within a wide range of disciplines, so that a general theory, while possible, is difficult to achieve. This paper, acknowledging that violence can negate power and that all forms of social power can entail violence, proceeds on the assumption that the organisation of violence is a particular source of social power. It therefore explores the general relationships of violence to power, the significance of war as the archetype of organised violence, the relationships of other types (revolution, terrorism, genocide) to war, and the significance of civilian-combatant stratification for the understanding of all types of organised violence. It then discusses the problems of applying conceptual types in analysis and the necessity of a historical framework for theorising violence. The paper concludes by offering such a framework in the transition from industrialised total war to global surveillance war.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2795</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2795">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2795/2556" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2795" DMDID="DMD_biejournals_2795">
+            <mets:fptr FILEID="FILE0_biejournals_2795"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

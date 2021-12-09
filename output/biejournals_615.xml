@@ -1,0 +1,93 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_615">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Creating Citizenship Communities</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Davies, Ian</displayForm>
+                        <namePart type="family">Davies</namePart>
+                        <namePart type="given">Ian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hampden Thompson, Gillian</displayForm>
+                        <namePart type="family">Hampden Thompson</namePart>
+                        <namePart type="given">Gillian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tsouroufli, Maria</displayForm>
+                        <namePart type="family">Tsouroufli</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sundaram, Vanita</displayForm>
+                        <namePart type="family">Sundaram</namePart>
+                        <namePart type="given">Vanita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lord, Pippa</displayForm>
+                        <namePart type="family">Lord</namePart>
+                        <namePart type="given">Pippa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jeffes, Jennifer</displayForm>
+                        <namePart type="family">Jeffes</namePart>
+                        <namePart type="given">Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bramley, George</displayForm>
+                        <namePart type="family">Bramley</namePart>
+                        <namePart type="given">George</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-06-27</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">The project ‘Creating Citizenship Communities’ is funded by the Esmée Fairbairn Foundation and is being conducted by a partnership team from the Department of Education, University of York and the National Foundation for Educational Research. This article describes the project design and draws attention to issues emerging from data analysis. An indication is given of the actions to be taken with professionals and young people in light of the project findings. An argument is made for the need to co-ordinate work in schools by developing stronger liaison between citizenship education teachers and those responsible for whole school initiatives to promote community engagement; and helping teachers to build on young people’s existing knowledge and expertise in community matters to help them understand and act more effectively in society</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_615</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_615">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/615/615" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_615" DMDID="DMD_biejournals_615">
+            <mets:fptr FILEID="FILE0_biejournals_615"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

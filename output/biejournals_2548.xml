@@ -1,0 +1,67 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2548">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Didaktische Rekonstruktion als Planungs- und Forschungsrahmen nutzen</title>
+                        <subTitle>Fachliche Klärung, Gestaltung und Evaluation einer universitären Lehrveranstaltung zum Thema Gehirn und Lernen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Educational Reconstruction as a Planning and Research Framework</title>
+                        <subTitle>Scientific Clarification, Design and Evaluation of a University Course on Learning and Memory</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grospietsch, Finja</displayForm>
+                        <namePart type="family">Grospietsch</namePart>
+                        <namePart type="given">Finja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mayer, Jürgen</displayForm>
+                        <namePart type="family">Mayer</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">27</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Empirische Studien zeigen, dass Studierende über ihr Stu-dium hinweg an Fehlvorstellungen zum Thema Gehirn und Lernen (Neuromythen) und transmissiven Lehr-Lern-Überzeugungen festhalten. Derartige Befunde stellen ein Gelingen des allgemeinen Studienziels in Frage, angehenden Lehrkräften ein angemessenes Konzept von Lernen nahezubringen. Mit dem Ziel, Biologielehramtsstu-dierende besser bei der Konstruktion wissenschaftlich angemessener Lehr-Lern-Vorstellungen zu unterstützen, wurde in dem im Rahmen dieses Beitrags beschriebenen Projekt das Modell der Didaktischen Rekonstruktion auf den Hochschulbereich übertragen und als Planungs- und Forschungsrahmen für die Gestaltung und Evaluation der universitären Lehrveranstaltung Gehirngerechtes Lernen – Konzept oder Mythos? verwendet. Im Beitrag wird das Modell der Didaktischen Rekonstruktion für die Hochschulbildung (MDRH) in seinen Unterschieden zu anderen Modellen vorgestellt. Erläutert wird, wie sich eine fachliche Klärung mit fachwissenschaftlicher, fachdidaktischer und bildungswissenschaftlicher Analyse gestaltete und wie sie zur theoretischen Fundierung der Lehrveranstaltung genutzt wurde. Beschrieben wird weiterhin, wie sich die drei Lehrveranstaltungselemente (1) Verschachteltes Lehren von Seminarinhalten, (2) Erfahrungen stiften mit Methoden nachhaltigen Lernens, Lernversuchen und neurodidaktischen Prinzipien sowie (3) Einsatz von Konzeptwechseltexten gestalten, die mittels didaktischer Strukturierung konzipiert wurden. Erläuterungen übertragbarer Konzepte, Durchführungshinweise sowie Onlinematerial sollen einen Transfer ermöglichen. Ein Erfahrungsbericht fasst Evaluationsergebnisse zusammen und diskutiert Praktikabilität und Innovationskraft des MDRH für konstruktivistisches Lehren an Universitäten. Zusammengefasst zeigt sich am Beispiel des Themas Gehirn und Lernen, dass sich das MDRH in der Hochschulbildung anwenden lässt, die didaktisch rekonstruierte Lehrveranstaltung Gehirn und Lernen – Konzept oder Mythos? positive Wirkungen auf Professionswissen, Lehr-Lern-Überzeugungen und Fehlvorstellungen Biologielehramtsstudierender erzielt und die fachliche Klärung zur Theoriebildung in Bezug auf Neuromythen, Professionsforschung und Hochschuldidaktik beitragen kann.</abstract>
+                    <abstract lang="eng">Empirical studies show that university students retain misconceptions about learning and memory (neuromyths) and transmissive beliefs about teaching and learning throughout their studies. These findings call into question whether university teacher education’s general goal of providing pre-service teachers with an appropriate concept of learning is being met. To better support pre-service teachers in constructing scientifically-appropriate conceptions about teaching and learning, the project described in this article transferred the Model of Educational Reconstruction to university education – employing it as a planning and research framework to design and evaluate the university course Brain-friendly Learning – Concept or Myth?. This article presents the Model of Educational Reconstruction for Higher Education (ERM-HE), highlighting its differences to other models. It outlines how a scientific clarification including different analysis was used as a theoretical foundation for the course at hand. The article also presents how the three learning elements (1) interleaved teaching of content, (2) experiences with learning experiments, sustainable learning methods, and neurodidactic principles and (3) conceptual change texts were constructed. Transferrable concepts, implementation tips, and online materials are provided to encourage further use. An experience report summarizes the evaluation results and discusses the practicality and innovation of ERM-HE for constructive learning at universities. In brief, the pre-sented example concerning learning and memory shows that the ERM-HE is applicable to university education, that the course Brain-friendly Learning – Concept or Myth? had positive effects on pre-service biology teachers’ professional knowledge, beliefs about teaching and learning, and misconceptions, and that the scientific clarification contributed to theory-building on neuromyths, profession research, and university didactics.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2548</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2548">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2548/4151" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2548">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2548/4152" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2548" DMDID="DMD_biejournals_2548">
+            <mets:fptr FILEID="FILE0_biejournals_2548"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2548" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2548"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

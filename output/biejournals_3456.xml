@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3456">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploring teaching and learning about the Corona crisis in social studies webinars</title>
+                        <subTitle>A case study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Torrau, Jens Soeren</displayForm>
+                        <namePart type="family">Torrau</namePart>
+                        <namePart type="given">Jens Soeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-19</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: Due to the Corona pandemic in 2020 schools needed to handle a challenging situation: They needed to find solutions to the question how lessons can proceed in times of physical distancing. This stages a broader need to reflect on how learning processes are organized with digital media. Thus, insights into concrete teaching and learning interactions can help to better understand lesson designs in virtual classrooms from a didactic perspective.
+Methodology: This article aims to document a webinar of a German 9th grade class in its moments relevant to social studies teaching. Thus, this paper provides insights into an explorative case study that uses recordings and classroom observations. In order to analyze knowledge processes in digital contexts didactically, the “Wissensdidaktische Hermeneutik” serves as a qualitative research method.
+Findings: The documented sequences of the webinar that deals with the recent media coverage of Corona show that the webinar takes into account both the learning needs of the students and an urgent social studies topic. Therefore, the social studies teacher uses advance organizers through her own explanations so that all students can stay on the same page. Furthermore, she introduces elements of the Flipped Classroom that display implications for social interaction in social studies webinars – particularly for the speech act “to explain”.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3456</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3456">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3456/3594" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3456" DMDID="DMD_biejournals_3456">
+            <mets:fptr FILEID="FILE0_biejournals_3456"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

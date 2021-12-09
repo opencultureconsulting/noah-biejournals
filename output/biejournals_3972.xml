@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3972">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>National disaster preparedness and emergency response of nurses in Germany</title>
+                        <subTitle>An exploratory qualitative study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Grochtdreis, Thomas</displayForm>
+                        <namePart type="family">Grochtdreis</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schröder-Bäck, Peter</displayForm>
+                        <namePart type="family">Schröder-Bäck</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Harenberg, Niels</displayForm>
+                        <namePart type="family">Harenberg</namePart>
+                        <namePart type="given">Niels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Görres, Stefan</displayForm>
+                        <namePart type="family">Görres</namePart>
+                        <namePart type="given">Stefan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>de Jong, Nynke</displayForm>
+                        <namePart type="family">de Jong</namePart>
+                        <namePart type="given">Nynke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-29</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: This study aimed to explore the German nurses’ perceptions of their knowledge, roles and experience in the field of national preparedness and emergency response.
+Methods: An exploratory qualitative design was used with open-ended questions during semi-structured interviews with qualified nurses currently working in hospitals. The setting of the study consisted of wards of different hospitals in three northern federal states of Germany. The data analysis was done by summarizing analysis of the contents. From a convenient sample of n=31 hospitals, n=13 nurses were included in the study.
+Results: The median age of the participants was 45 years and 38% were female. Within the three professional socialization fields, knowledge, roles and experience, 17 themes were clustered.
+Conclusion: Within the themes of knowledge, role and experience in national disaster prepared-ness and emergency response, similarities and differences were explored in comparison to inter-national literature.
+Source of funding: This study did not receive any form of financial or other support.
+Acknowledgements: We would like to thank the nurses who participated in this study. We would also like to thank the nursing managers of the hospitals, the head of the departments and the head nurses for approaching their employees and colleagues.
+Conflict of interest: None declared</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3972</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3972">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3972/3928" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3972" DMDID="DMD_biejournals_3972">
+            <mets:fptr FILEID="FILE0_biejournals_3972"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

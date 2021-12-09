@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1734">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bewertungskompetenz in der Lehramtsausbildung – Vorschlag zur Vermittlung von Professionswissen in der universitären Lehre</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Leubecher, René</displayForm>
+                        <namePart type="family">Leubecher</namePart>
+                        <namePart type="given">René</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krell, Moritz</displayForm>
+                        <namePart type="family">Krell</namePart>
+                        <namePart type="given">Moritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zabel, Jörg</displayForm>
+                        <namePart type="family">Zabel</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-07</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Bewertungskompetenz von Schüler/innen zu fördern stellt Lehrkräfte der Biologie vor besondere Herausforderungen, da der naturwissenschaftliche Unterricht um eine ethische Dimension erweitert wird. Der vorliegende Beitrag gibt einen Überblick über Ansätze für die Unterrichtspraxis und macht einen Vorschlag, wie das Professionswissen angehender Biologielehrkräfte mithilfe der Ergebnisse biologiedidaktischer Forschung in der universitären Lehre gefördert werden kann. Damit richtet sich dieser Beitrag insbesondere an Kolleg/innen der Lehrkräftebildung, die bestrebt sind, Lehramtsstudierende während des Studiums auf den Umgang mit Bewertungskompetenz vorzubereiten.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1734</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1734">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1734/3422" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1734" DMDID="DMD_biejournals_1734">
+            <mets:fptr FILEID="FILE0_biejournals_1734"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3951">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Belastung und Beanspruchung von Lehrpersonen in den ersten Berufsjahren</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hinzke, Jan-Hendrik</displayForm>
+                        <namePart type="family">Hinzke</namePart>
+                        <namePart type="given">Jan-Hendrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vorliegende Forschungsbefunde zu Belastung und Beanspruchung von Lehrpersonen basieren in der Regel auf Selbsteinschätzungen, so etwa Ergebnisse zu Ursachen von Lehrer*innenbelastung und Ressourcen zum Umgang mit Belastungen. Zwischen Lehrpersonen mit unterschiedlich starker Berufserfahrung wird dabei nur vereinzelt differenziert. Vor diesem Hintergrund fokussiert der Beitrag auf Belastungs- und Beanspruchungserfahrungen, die von solchen Lehrpersonen gemacht werden, die sich in den ersten fünf Berufsjahren befinden. In einer explorativ angelegten und mit der Dokumentarischen Methode operierenden Interviewstudie werden diese Erfahrungen als Ausdruck eines sowohl expliziten, von den Lehrpersonen auf den Begriff gebrachten als auch impliziten, handlungsleitenden Wissens interpretiert. Im Ergebnis zeigen sich zwei Ausformungen, wie berufsbezogene Belastungs- und Beanspruchungserfahrungen der interviewten Lehrer*innen mit deren berufsbezogenen Orientierungen verwoben sind. Dabei deutet sich das Potenzial einer rekonstruktiven Erschließung von Belastungen und Beanspruchung an, die an den Perspektiven der Befragten anschließt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3951</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3951">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3951/3917" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3951" DMDID="DMD_biejournals_3951">
+            <mets:fptr FILEID="FILE0_biejournals_3951"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

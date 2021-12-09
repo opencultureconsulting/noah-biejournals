@@ -1,0 +1,47 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2792">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>Uses of Violence</title>
+                        <subTitle>An Examination of Some Cross-Cutting Issues</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eisner, Manuel</displayForm>
+                        <namePart type="family">Eisner</namePart>
+                        <namePart type="given">Manuel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2009-05-01</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A general theory of violence may only be possible in the sense of a meta-theoretical framework. As such it should comprise a parsimonious set of general mechanisms that operate across various manifestations of violence. In order to identify such mechanisms, a general theory of violence needs to equally consider all manifestations of violence, in all societies, and at all times. Departing from this assumption this paper argues that three theoretical approaches may be combined in a non-contradictory way to understand violence as goal-directed instrumental behavior: a theory of the judgment and decision-making processes operating in the situations that give rise to violence; a theory of the evolutionary processes that have resulted in universal cognitive and emotional mechanisms associated with violence; and a theory of the way in which social institutions structure violence by selectively enhanc- ing its effectiveness for some purposes (i.e. legitimate use of force) and controlling other types of violence (i.e. crime). To illustrate the potential use of such a perspective the paper then examines some general mechanisms that may explain many different types of violence. In particular, it examines how the mechanisms of moralistic aggression (Trivers) and moral disengagement (Bandura) may account for many different types of violence.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2792</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2792">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2792/2553" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2792" DMDID="DMD_biejournals_2792">
+            <mets:fptr FILEID="FILE0_biejournals_2792"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

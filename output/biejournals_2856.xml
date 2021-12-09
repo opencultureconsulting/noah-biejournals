@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2856">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Cultural Value Differences, Value Stereotypes, and Diverging Identities in Intergroup Conflicts</title>
+                        <subTitle>The Estonian Example</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dobewall, Henrik</displayForm>
+                        <namePart type="family">Dobewall</namePart>
+                        <namePart type="given">Henrik</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Strack, Micha</displayForm>
+                        <namePart type="family">Strack</namePart>
+                        <namePart type="given">Micha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An examination of the relationship between cultural values, value stereotypes and social identities in Estonia, where intergroup conflicts triggered riots in the capitalTallinn in April 2007, using data from the European Social Survey on cultural differences and value trends as the background to a survey exploring perceivedgroup values and assessed social identities among ethnic Estonians and members of the Russian-speaking minority. The study, conducted in summer 2008, foundagreement across both ethnic groups about the values of a typical group member, but no accuracy in their attribution. The Estonian students (n = 152) avoidedEastern-European identification, while the Russian-speaking students (n = 54) did not want to give up Estonia&amp;rsquo;s Soviet past. We found that attributed rather thanself-rated value differences between groups caused the conflicts, whilst diverging identities were found to make value stereotypes more extreme.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2856</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2856">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2856/pdf_39" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2856">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2856/ePUB" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2856" DMDID="DMD_biejournals_2856">
+            <mets:fptr FILEID="FILE0_biejournals_2856"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2856" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2856"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

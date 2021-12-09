@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3936">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Argumentieren im Biologieunterricht</title>
+                        <subTitle>Ein Vorschlag zur Förderung der Bewertungskompetenz zum Thema Fleischkonsum</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wings, Robin</displayForm>
+                        <namePart type="family">Wings</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Opitz, Ben</displayForm>
+                        <namePart type="family">Opitz</namePart>
+                        <namePart type="given">Ben</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wathiyage Don, Anushari</displayForm>
+                        <namePart type="family">Wathiyage Don</namePart>
+                        <namePart type="given">Anushari</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krell, Moritz</displayForm>
+                        <namePart type="family">Krell</namePart>
+                        <namePart type="given">Moritz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein Ziel des Biologieunterrichts in Deutschland ist der Beitrag zur Entwicklung naturwissenschaftlicher Grundbildung, welche als eine notwendige Voraussetzung für aktives und mündiges Handeln in modernen Gesellschaften betrachtet wird. Als einer von vier Kompetenzbereichen zielt der Bereich Bewertung auf die Entwicklung von Kompetenzen ethischer Urteilsbildung im weitesten Sinne ab. Dieser Beitrag stellt ein Unterrichtskonzept zur Förderung von Bewertungskompetenz im Kontext Ernährung vor, welches sich auf zentrale Aspekte des Reflektierens von Handlungsoptionen und der verantwortungsvollen Rolle des Menschen gegenüber seiner Umwelt im ökologischen und sozialen Sinne bezieht und dadurch auch dem Anspruch auf Bildung für Nachhaltige Entwicklung gerecht wird. Das Unterrichtskonzept stellt das Erfassen deskriptiver und präskriptiver Annahmen im Zuge der Argumententwicklung ins Zentrum des Unterrichts und zielt damit auf die Entwicklung ethischen Basiswissens.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3936</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3936">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3936/4375" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3936" DMDID="DMD_biejournals_3936">
+            <mets:fptr FILEID="FILE0_biejournals_3936"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

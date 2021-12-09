@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3309">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Selektion und Evolution</title>
+                        <subTitle>Ein Schülersimulationsexperiment zur selektiven Wirkung der Räuber-Beute-Beziehung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stiller, Cornelia</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bekel-Kastrup, Holger</displayForm>
+                        <namePart type="family">Bekel-Kastrup</namePart>
+                        <namePart type="given">Holger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stockey, Andreas</displayForm>
+                        <namePart type="family">Stockey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In dieser Unterrichtseinheit wird am Beispiel des Birkenspanners das Phänomen der gerichteten Selektion erarbeitet und mit einem Selektions-Simulations-Experiment veranschaulicht. Dabei erfolgt eine Verknüpfung der genetischen (Vererbbarkeit und Variabilität von Merkmalen), ökologischen (Räuber-Beute-Beziehung und negative Rückkoppelung in Ökosystemen) und evolutiven (Selektion und Anpassung) Aspekte des Phänomens. Auf der methodischen Ebene ermöglicht dieses Simulationsexperiment die Anwendung aller in den vorherigen Experimenten erlernten Kompetenzen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3309</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3309">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3309/3467" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3309">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3309/3468" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3309" DMDID="DMD_biejournals_3309">
+            <mets:fptr FILEID="FILE0_biejournals_3309"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3309" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3309"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

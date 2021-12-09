@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2432">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>CONTENT AND LANGUAGE INTEGRATED LEARNING AT PRIMARY SCHOOL LEVEL</title>
+                        <subTitle>Beispiel einer hochschuldidaktischen Vermittlung von CLIL in der PrimarstufenlehrerInnenausbildung an einer österreichischen Pädagogischen Hochschule</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>CONTENT AND LANGUAGE INTEGRATED LEARNING AT PRIMARY SCHOOL LEVEL</title>
+                        <subTitle>Examples of CLIL Seminars for Primary School Teachers at the KPH Graz</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gruber, Marie-Theres</displayForm>
+                        <namePart type="family">Gruber</namePart>
+                        <namePart type="given">Marie-Theres</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Eines der neuesten und aktuell relevantesten Konzepte im Feld des Fremdsprachenunterrichts ist CLIL: Content and Language Integrated Learning. Der österreichische Lehrplan der Volksschule sieht vor, dass der Fremdsprachenunterricht auf inhaltsbezogenem und cross-curricularem Weg in allen österreichischen Volksschulen stattfinden soll. Dieser erklärt dazu, dass die Vermittlung der Fremdsprache im Rahmen der Pflichtgegenstände wie Sachunterricht, Musikerziehung, Bewegung und Sport, Bildnerische Erziehung und Mathematik erfolgen solle, ohne Kürzung des Bildungsangebotes (vgl. Bauer, Dobart, Gruber&amp;nbsp;&amp;amp; Rieder, 2012, S. 246).
+Dieser Ansatz wird bereits in der Ausbildung zukünftiger österreichischer PädagogInnen der Primarstufe an der Kirchlichen Pädagogischen Hochschule Graz gelehrt. Um die Effizienz des CLIL-Kurses zu erheben, wurde eine Fragebogenumfrage nach Ende der Lehrveranstaltung durchgeführt.
+Die Ergebnisse zeigen, dass die Mehrheit der Studierenden die Lehrveranstaltung sehr informativ und klar strukturiert fand, die Balance zwischen Input, um das Konzept zu verstehen, und gruppendynamischen Aufträgen jedoch noch nicht gefunden zu sein scheint. Dazu gaben einige Studierende an, dass nicht zu viel Input und Theorie gewünscht wird, jedoch mehr Möglichkeit sich aktiv durch gruppendynamische Aufträge einzubringen. Zugleich schien diese Inhaltslastigkeit jedoch nötig zu sein, da einige Studierende noch zu Ende der Lehrveranstaltung meinten, dass das Konzept schwer zu verstehen sei bzw. der Unterschied zum herkömmlichen Englischunterricht noch nicht verstanden wurde. Den Leistungsnachweis, im Speziellen die Posterpräsentation, benannten einige Studierende als Positivum. Einzelne Personen gaben sogar an, dass für diese Thematik mehr Zeit anberaumt werden solle.</abstract>
+                    <abstract lang="eng">The Austrian curriculum for Teachers at the Volksschule requires them to integrate foreign language learning into all subject matter classes without reducing the teaching content (Bauer, Dobart, Gruber &amp;amp; Rieder, 2012, p. 246). One of the most prominent and relevant methods of doing so is CLIL – Content and Language Integrated Learning. At the Kirchliche Hochschule Graz, CLIL is used and evaluated at teacher training for primary education. Results show that students have an enriching experience in the seminars, although group-teaching methods could be enhanced.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2432</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2432">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2432/2434" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2432" DMDID="DMD_biejournals_2432">
+            <mets:fptr FILEID="FILE0_biejournals_2432"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

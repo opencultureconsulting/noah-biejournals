@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3305">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Lösungswärme energetisch betrachtet</title>
+                        <subTitle>Ein Schülerexperiment zur Bestimmung der konzentrationsabhängigen Lösungsenthalpie beim Lösen verschiedener Salze</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stiller, Cornelia</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Beyer-Sehlmeyer, Gabriele</displayForm>
+                        <namePart type="family">Beyer-Sehlmeyer</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Friedrich, Gudrun</displayForm>
+                        <namePart type="family">Friedrich</namePart>
+                        <namePart type="given">Gudrun</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stockey, Andreas</displayForm>
+                        <namePart type="family">Stockey</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Allmers, Tobias</displayForm>
+                        <namePart type="family">Allmers</namePart>
+                        <namePart type="given">Tobias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im folgenden Beitrag wird ein Schülerexperiment zur experimentellen Bestimmung der Temperaturänderung beim Lösen von Salzen vorgestellt. Im Rahmen des Gesamtkonzeptes des Kurses haben sich die Schüler*innen davor mit der Dichte von Salzlösungen beschäftigt. Der für diese Unterrichtseinheit wichtige Energiebegriff wurde bereits in der Unterrichtseinheit zur Energieerhaltung am Beispiel des Fadenpendels eingeführt und wird hier in einem anderen Kontext aufgegriffen. Anhand des Experiments werden die energetischen Vorgänge beim Lösen eines Salzes erarbeitet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3305</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3305">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3305/3458" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_3305">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3305/3459" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3305" DMDID="DMD_biejournals_3305">
+            <mets:fptr FILEID="FILE0_biejournals_3305"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3305" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3305"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

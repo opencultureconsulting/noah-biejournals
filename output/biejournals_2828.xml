@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2828">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Anti-Semitism in Poland and Ukraine</title>
+                        <subTitle>The Belief in Jewish Control as a Mechanism of Scapegoating</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bilewicz, Michal</displayForm>
+                        <namePart type="family">Bilewicz</namePart>
+                        <namePart type="given">Michal</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Krzeminski, Ireneusz</displayForm>
+                        <namePart type="family">Krzeminski</namePart>
+                        <namePart type="given">Ireneusz</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Systemic transition in post-communist Eastern Europe resulted in high inflation, rapid economic changes, and increased lack of control in everyday life. Atthe same time, anti-Semitic incidents were reported in this region after 1989. The ideological model of scapegoating (Glick 2002; 2005) might serve asan explanation of anti-Semitic prejudice in post-transition Eastern Europe. The model predicts that the ideology defining Jews as powerful, cunning, anddangerous would gain popularity in times of crises and would lead to greater discrimination against Jews. In two nationwide representative sample studiesof anti-Semitism, in Poland (n = 1098) and Ukraine (n = 1000), we applied the ideological model of scapegoating to study various forms of anti-Semitism(conspiracy-based belief in Jewish control and discriminatory intentions toward Jews). In both samples, economic deprivation led to increased discriminatoryintentions toward Jews; however, only in the Polish sample was deprivation linked with higher beliefs in Jewish control (scapegoat-defining ideology). InPoland the rise of conspiracy beliefs about Jewish control partially explained the effect of deprivation on discriminatory intentions toward Jews. The implicationsof these results are discussed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2828</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2828">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2828/pdf_8" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2828" DMDID="DMD_biejournals_2828">
+            <mets:fptr FILEID="FILE0_biejournals_2828"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

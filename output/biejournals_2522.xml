@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2522">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Diversität und Inklusion in der Ausbil-dung von Lehrer_innen in der Steiermark</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Diversity and inclusion in the training of teachers in Styria</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Auferbauer, Martin</displayForm>
+                        <namePart type="family">Auferbauer</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hasenhüttl, Erika</displayForm>
+                        <namePart type="family">Hasenhüttl</namePart>
+                        <namePart type="given">Erika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Much, Peter</displayForm>
+                        <namePart type="family">Much</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Komposch, Ursula</displayForm>
+                        <namePart type="family">Komposch</namePart>
+                        <namePart type="given">Ursula</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im österreichischen Bildungssystem vollzieht sich ein Paradigmenwechsel hin zu einem zunehmend inklusiven Bildungssystem, in dem Kinder und Jugendliche mit sonderpädagogischem Förderbedarf überwiegend Regelschulen besuchen. Gleichzeitig gibt es seit 2015 keine eigene Ausbildung mehr für das Sonderschullehramt, stattdessen wurde Inklusive Pädagogik curricularer Bestandteil der Ausbildung für das Primar- und Sekundastufenlehramt. Somit haben sich nunmehr Lehramtsstudierende aller Fächer und für alle Altersgruppen mit Aspekten von Diversität und Strategien zur Inklusion auseinanderzusetzen.
+In diesem Beitrag wird die konkrete Vorgehensweise in einer Lehrveranstaltung zu Diversität und Inklusion sowie die bisher gemachten Erfahrungen dargestellt und reflektiert. In der Lehrveranstaltung wird mit dem reformpädagogischen Konzept der Atelierarbeit versucht, eine inklusionssensible Grundhaltung der Studierenden sowie Kompetenzen für eine inklusive Schule (weiter) zu entwickeln. Dazu soll ein theoretisches Modell präsentiert werden, das die Vielschichtigkeit der Diversitätsmerkmale von Schüler_innen einerseits und die Rahmenbedingungen des schulischen Kontexts andererseits abbildet. Dafür bietet sich eine Weiterentwicklung jener Systematisierungsform an, die von Gardenswartz und Rowe (2002) für den unternehmerischen Bereich vorgelegt wurde. In diesem Modell wird deutlich, dass sich Schüler_innen&amp;nbsp; in zahlreichen Merkmalen voneinander unterscheiden. Gerade im Bemühen um mehr Chancengerechtigkeit braucht es Sensibilität für die verschiedenen Ausgangbedingungen von Kindern und Jugendlichen. Inklusives Handeln braucht zudem aber auch einen Fokus auf die organisationalen Dimensionen von Schule.</abstract>
+                    <abstract lang="eng">The Austrian education system is undergoing a paradigm shift towards an increasingly inclusive education system: Children and young people with special educational needs mainly attend regular schools. Additionally there is no further teacher training program for Special Education teachers. Inclusive Education has been a curricular component of the training program of primary and secondary education teachers instead. Students of all disciplines and for all age groups now have to deal with aspects of diversity and inclusion strategies.
+This paper reflects a specific course on diversity and inclusion. Concepts of Progressive Education are used in the course to develop (or foster) an inclusion-sensitive attitude of the students as well as competences for an inclusive school. For this purpose, a theoretical model of diversity is introduced to illustrate the complexity of the diversity characteristics of pupils on the one hand and the institutional conditions of schools on the other hand. The systematization by Gardenswartz and Rowe (2002) for the entrepreneurial sector has bees adaptetd for the educational context. With this model, it is clarified that students differ in numerous characteristics. Especially in order to raise the equality of opportunities, there is a need for being sensitive to the different living conditions of children and adolescents. But Inclusive Education also requires a focus on the organizational dimensions of schooling.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2522</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2522">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2522/3250" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2522" DMDID="DMD_biejournals_2522">
+            <mets:fptr FILEID="FILE0_biejournals_2522"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

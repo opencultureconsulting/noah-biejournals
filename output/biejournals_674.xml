@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_674">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Political Bildung in the Context of Discipline, Instruction, and Moral Guidance</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rucker, Thomas</displayForm>
+                        <namePart type="family">Rucker</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Johann Friedrich Herbart (1776-1841) is considered the founding father of the science of education. In this article, I will try to show that Herbart sees the promotion of political Bildung as the task of discipline, instruction, and moral guidance, and that his work presents important components of a theory of political Bildung within an educational setting. According to Herbart, the political relationship to self and the world relates to issues that not only affect the lives of some but of a majority of people. But it is not people’s collective life as such that is the point of orientation for the political relationship to self and the world, but only the collective life where problems have arisen. According to Herbart, politics results from a conflict about the question as to how to regulate people’s collective life. While discipline, by providing the basic preconditions for instruction and moral guidance, makes merely an indirect contribution to political Bildung, the two latter forms of education – instruction and moral guidance – serve as the actual means by which political Bildung is achieved.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_674</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_674">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/674/719" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_674" DMDID="DMD_biejournals_674">
+            <mets:fptr FILEID="FILE0_biejournals_674"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2519">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Assessment Literacy</title>
+                        <subTitle>Ein Rahmenkonzept für professionelles Lehrer*innenhandeln bezüglich schulischer Leistungsbeurteilung</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Teachers’ assessment literacy</title>
+                        <subTitle>Proposal of a comprehensive model</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Feser, Markus Sebastian</displayForm>
+                        <namePart type="family">Feser</namePart>
+                        <namePart type="given">Markus Sebastian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Höttecke, Dietmar</displayForm>
+                        <namePart type="family">Höttecke</namePart>
+                        <namePart type="given">Dietmar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Leistungsbeurteilungen gehören zum Schulalltag. Lehrkräfte schätzen die mündliche Mitarbeit ihrer Schüler*innen ein, sie bewerten fachspezifisches praktisches Tun oder korrigieren Klassenarbeiten. Für erziehungswissenschaftliche Forschung stellt sich daher die Frage, was im Kontext von schulischer Leistungsbeurteilung professionelles Lehrer*innenhandeln auszeichnet. Als Antwort auf diese Frage kann das im internationalen Raum zunehmend anerkannte Rahmenkonzept Assessment Literacy gelten. Ziel dieses Beitrags ist, die verschiedenen Konzepte von Assessment Literacy unterschiedlicher Autor*innen in einem kohärenten Modell zusammenzuführen. Hierzu werden zunächst verschiedene Konzepte der Assessment Literacy von Lehrkräften systematisch geordnet. Anschließend erfolgt eine Synthese dieser Konzepte in einem umfassenden Modell. Implikationen des vorgeschlagenen Assessment-Literacy-Modells für die erziehungswissenschaftliche Forschung und für die Verbesserung der Lehrer*in-nenbildung werden am Ende des Beitrags diskutiert.</abstract>
+                    <abstract lang="eng">Performance assessment is a prominent part of teachers’ school routine. During lessons teachers evaluate the oral participation of their students but also assess their own subject-specific practical activities. Furthermore, they have to design and mark assignments and tests. Therefore, the question arises: What characterizes a teacher who acts professionally in such a contexts? An answer to this question offers the increasingly popular concept of teachers’ assessment literacy. This article aims to provide a systematic review of conceptualizations of teachers’ assessment literacy and finally proposes a comprehensive model of teachers’ assessment literacy. Implications are discussed for educational research, the improvement of teacher preparation and in-service teacher education programs.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2519</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2519">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2519/3595" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2519" DMDID="DMD_biejournals_2519">
+            <mets:fptr FILEID="FILE0_biejournals_2519"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_628">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Citizenship education to nanotechnologies</title>
+                        <subTitle>teaching knowledge about nanotechnologies and educating for responsible citizenship</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Panissal, Nathalie</displayForm>
+                        <namePart type="family">Panissal</namePart>
+                        <namePart type="given">Nathalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brossais, Emmanuelle</displayForm>
+                        <namePart type="family">Brossais</namePart>
+                        <namePart type="given">Emmanuelle</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">We present a research based on a project for citizenship education to nanotechnologies in a French highschool which aims at teaching the specific characteristics of nanotechnologies, of their fields of application and of the controversies which are linked to them. At the junction of Socially acute questions didactics and of the cultural-historical Vygotskian theory, we analyse the knowledge at work in a debate on the promises and risks connected with nanotechnologies. The knowledge mobilized by the students (17- to 18 years-old) in their dialogical interactions can refer back to the archetypal narratives whose origin lies in men’s social and cultural history. Through the joint effect of cumulative talk and exploratory talk, the students co-construct the concepts linked to the Social Ethical Issues: risks and human enhancement. We show that the debate at school leads students to be able to construct reasoned opinion and position themselves in their environment in a responsible way. This educational innovation appears to be relevant for combining the learning of academic and cultural contents with social competencies to an education for engaged citizenship in the field of nanotechnologies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_628</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_628">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/628/635" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_628">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/628/636" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="image/jpeg" ID="FILE2_biejournals_628">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/628/637" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_628" DMDID="DMD_biejournals_628">
+            <mets:fptr FILEID="FILE0_biejournals_628"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_628" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_628"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_628" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_628"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

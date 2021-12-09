@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1241">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Funktion und Gestaltung von Formaten wissenschaftlicher Weiterbildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Christmann, Bernhard</displayForm>
+                        <namePart type="family">Christmann</namePart>
+                        <namePart type="given">Bernhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-07-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Nach einer längeren Zeit der Kontinuität unterliegen Formate wissenschaftlicher Weiterbildung aktuell einer Neuausrichtung ihrer Funktion und Gestaltung. Die Anschlussfähigkeit an die Bologna-Formate, die Ausdifferenzierung des Zielgruppenbezugs, eine verstärkte Nachfrage- und Bedarfsorientierung sowie die Forderung nach Durchlässigkeit der Angebote erfordern klare Regelungen hinsichtlich Zulassung, Struktur, Dauer und Abschluss. Warum eine konsequente und allgemein verbindliche Systematisierung und Standardisierung der Formate bisher nicht realisiert wurde und welche Empfehlungen hierzu vorliegen und diskutiert werden, ist Gegenstand dieses Beitrages.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1241</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1241">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/1241/1527" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1241" DMDID="DMD_biejournals_1241">
+            <mets:fptr FILEID="FILE0_biejournals_1241"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

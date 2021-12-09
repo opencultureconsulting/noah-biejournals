@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2444">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Doppelte Professionalität von (Sport-)Lehrkräften? - Wie Forschendes Lernen einen Beitrag zu diesem theoretischen Anspruch leisten kann</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Double Grade of Professionalization of Teachers? How Research-based Learning in PE Teacher Training Can Contribute to This Theoretical Approach</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ukley, Nils</displayForm>
+                        <namePart type="family">Ukley</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fast, Natalie</displayForm>
+                        <namePart type="family">Fast</namePart>
+                        <namePart type="given">Natalie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröben, Bernd</displayForm>
+                        <namePart type="family">Gröben</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kastrup, Valerie</displayForm>
+                        <namePart type="family">Kastrup</namePart>
+                        <namePart type="given">Valerie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-03-14</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Einem professionstheoretischen Verständnis folgend gehört ein reflexiv-forschender Habitus ebenso zum Lehrer_innensein wie eine inhaltliche und vermittlungsbezogene Fachkompetenz. Sportstudierende machen in schulischen Praxisphasen allerdings nicht zwangsläufig diese Erfahrung. Darum messen sie der Entwicklung eines solchen Habitus besonders nach Aufenthalten in der Praxis nur eine geringe Bedeutung hinsichtlich ihrer Professionalisierung bei. Diesem Phänomen wird die Notwendigkeit einer doppelten Professionalität entgegengehalten, die über den hochschuldidaktischen Ansatz des Forschenden Lernens angebahnt werden kann. Insbesondere in der Sportlehrer_innenausbildung kann hierüber neben dem Wechsel von der Lernenden- zur Lehrendenperspektive auch der notwendige Rollenwechsel von sportlichen Akteur_innen zu Arrangeur_innen bewegungskultureller Praxis vollzogen werden. Hierfür bedarf es jedoch einer expliziten, frühzeitigen und kontinuierlichen Beschäftigung mit den verschiedenen Kompetenzfeldern: die Thematisierung inhaltlicher sowie vermittlungs- und forschungsmethodischer Fähigkeiten sollten dabei möglichst integrativ geschehen. Der Beitrag spannt den Bogen von theoretischen Ansprüchen über fachspezifische Herausforderungen und Chancen, Forschendes Lernen gelingend zur Professionalisierung beitragen zu lassen bis hin zu praktischen Handlungsempfehlungen zur didaktischen Umsetzung dieses Ansatzes, die aus der Verbindung von den skizzierten theoretischen und eigenen empirischen Befunden abgeleitet werden.
+&amp;nbsp;</abstract>
+                    <abstract lang="eng">According to a common profession-theoretical understanding, teachers should have at their disposal both a reflective research-driven habitus as well as content-related and didactic professional competence. However, PE stu-dents often do not necessarily experience the need for such double professional-ism in practice, which is why they often attribute little importance to the devel-opment of a research-driven habitus as part of their professionalization. This phenomenon contrasts with the proclaimed need for a double qualification, which can be implemented by the academic didactic approach of research-based learn-ing. Especially in PE teachers’ training, not only the shift from a learner’s to a teachers’ perspective can be achieved through research-based learning, but also the shift of roles from an athlete to a coordinator of motion-cultural activity. However, both shifts require an explicit, early and continuous engagement in the various fields of competences, addressing content-related and didactic skills and research methods from early on. The article discusses theoretical demands and subject-related challenges and opportunities of research-based learning and how it may contribute to professionalization. Finally, practical recommendations for its didactic implementation are addressed, which are derived from a combination of theoretical positions and empirical findings.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2444</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2444">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2444/2446" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2444" DMDID="DMD_biejournals_2444">
+            <mets:fptr FILEID="FILE0_biejournals_2444"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

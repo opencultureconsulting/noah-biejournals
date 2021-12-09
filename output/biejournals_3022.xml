@@ -1,0 +1,69 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3022">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Perceptions of Gay, Lesbian, and Heterosexual Domestic Violence Among Undergraduates in Sweden</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ahmed, Ali</displayForm>
+                        <namePart type="family">Ahmed</namePart>
+                        <namePart type="given">Ali</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aldén, Lina</displayForm>
+                        <namePart type="family">Aldén</namePart>
+                        <namePart type="given">Lina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hammarstedt, Mats</displayForm>
+                        <namePart type="family">Hammarstedt</namePart>
+                        <namePart type="given">Mats</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-10-26</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">An experimental study of perceptions about gay, lesbian, and heterosexual domestic violence in Sweden. Undergraduate students (N = 1009) read one of eight fictitious scenarios of domestic violence in married couple relationships, where sexual orientation, sex of victim and batterer, and severity of violence were varied. Perceptions of seriousness of the described incident and attitudes toward women, gays and lesbians were measured. Domestic violence was perceived as more serious in cases where: the respondent was a woman, the batterer was a man, the victim was a woman, or the battering was severe. Wife-battering in a heterosexual relationship was considered the most serious case in both the less and more severe battering scenario. Where battering was less severe, domestic violence in gay and lesbian relationships was perceived as more serious than heterosexual husband-battering; this difference disappeared in the severe battering scenario. Negative attitudes toward gays, lesbians, and women were associated with less concern about domestic violence in all types of relationships. The findings suggest that stereotypes about gays, lesbians, and women affect perceptions of domestic violence, but mainly when violence is less severe.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3022</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3022">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3022/pdf_83" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_3022">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/3022/2991" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3022" DMDID="DMD_biejournals_3022">
+            <mets:fptr FILEID="FILE0_biejournals_3022"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_3022" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_3022"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

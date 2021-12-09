@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2091">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Supervision - Macht - und öffentliches Vertrauen (2)</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wittenberger, Gerhard</displayForm>
+                        <namePart type="family">Wittenberger</namePart>
+                        <namePart type="given">Gerhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im ersten Teil, den wir im vorhergehenden Heft 33 abgedruckt haben, ging es um den Versuch, Bedingungen für offenes Denken im Supervisionsdiskurszu beschreiben. Im hier vorliegenden zweiten Teil beschäftigt sich der Autor kritisch mit den gegenwärtigen Veränderungen in der Arbeitswelt und versucht eine Position zu beziehen, die zwar nicht fremd, aber radikal erscheinen wird. Angeregt wurde der Autor durch einen Diskussionsbeitrag von Frau Prof. Rothe auf der Tagung von FoRuM Supervision im März 2008, in dem sie forderte, Supervision müsse radikal sein, damit den Supervisanden die Chance gegeben wird, ihre Position im Arbeitsprozess zu finden .</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2091</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2091">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2091/1958" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2091" DMDID="DMD_biejournals_2091">
+            <mets:fptr FILEID="FILE0_biejournals_2091"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

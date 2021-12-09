@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2223">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zur Einschätzung der Lage</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Münch, Winfried</displayForm>
+                        <namePart type="family">Münch</namePart>
+                        <namePart type="given">Winfried</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-12</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Einige zustimmende, kritische Anmerkungen zu dem Artikel &quot;Überdas Verschwinden einer jungen Profession - ZeitgeschichtlicheAspekte zur Entwicklung der Supervision&quot; von Adrian Gaertner(&quot;FoRuM Supervision&quot;, Heft 37/2011, S. 71 ff.)</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2223</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2223">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2223/2132" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2223" DMDID="DMD_biejournals_2223">
+            <mets:fptr FILEID="FILE0_biejournals_2223"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

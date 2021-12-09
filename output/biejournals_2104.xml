@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2104">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Riskante Freiheiten. Supervision und Beratung in der Finanzdienstleistung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Donauer, Barbara</displayForm>
+                        <namePart type="family">Donauer</namePart>
+                        <namePart type="given">Barbara</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">7</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Artikel ist eine vorsichtige Annäherung an das Innenleben von Banken, in denen Diskretion ein hohes Gut ist. Die Auswirkungen der Bankenkrise und die nachfolgenden Veränderungsprozesse in den Unternehmen auf die Mitarbeiter und Mitarbeiterinnen werden skizziert. Arbeitsstrukturen und Orientierung gebende Rollensysteme verändern sich und verlieren ihre angstbindenden Qualitäten. Gleichzeitig wird von Mitarbeiterinnen und Mitarbeitern unternehmerisches Denken und Handeln erwartet, die darauf mit größeren Anstrengungen reagieren, mehr und mehr arbeiten, das Maß verlieren und sich dabei häufig verausgaben. In diesem Spannungsfeld kann Supervision und Beratung für Mitarbeiter und Mitarbeiterinnen ein wertvoller Raum sein, der Entschleunigung, Reflexion und manchmal auch Ermutigung für neue eigene Wege eröffnet.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2104</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2104">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2104/1971" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2104" DMDID="DMD_biejournals_2104">
+            <mets:fptr FILEID="FILE0_biejournals_2104"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

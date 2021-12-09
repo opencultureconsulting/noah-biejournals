@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2286">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Theorien des Verstehens in Wissenschaft, Beratung, Supervision, Sozialer Arbeit und Psychoanalyse</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröning, Katharina</displayForm>
+                        <namePart type="family">Gröning</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-11-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der vorliegende Artikel stellt die Interdependenz von seelischem, sozialem und lebensweltlichem Verstehen als methodische Grundhaltung in der Supervision vor. Dabei wir das seelische verstehen in Weiterführung der Ansätze von Gerhard Leuschner, Thomas Auchter u.a. objektbeziehungstheoretisch buchstabiert. Hier handelt es sich um eine Fähigkeit des Beraters und Supervisors, die aus der Feinfühligkeit entwickelt wird. Demgegenüber werden im Kontext des sozialen und des lebensweltlichen Verstehens Forschungsmethoden und wissenschaftliches Wissen herangezogen. Lebensweltliches verstehen bezieht sich dabei auf die subjektiven Sinnstrukturen, während soziales verstehen die Lebenslage, das Feld, den sozialen Raum und die Biografie in den Fokus nimmt. Lebenslaufstrukturanalysen, Entwicklungsaufgaben, Deutungsmuster und Habitusanalyse werden als Instrumente des sozialen und lebensweltlichen Verstehens eingeführt.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2286</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2286">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2286/2249" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/octet-stream" ID="FILE1_biejournals_2286">
+                <mets:FLocat xlink:href="https://www.beratungundsupervision.de/index.php/fs/article/download/2286/2250" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2286" DMDID="DMD_biejournals_2286">
+            <mets:fptr FILEID="FILE0_biejournals_2286"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2286" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2286"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

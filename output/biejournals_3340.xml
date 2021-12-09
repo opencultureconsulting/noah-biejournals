@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3340">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Universitätsschule Dresden</title>
+                        <subTitle>Das Schulkonzept</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langner, Anke</displayForm>
+                        <namePart type="family">Langner</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heß, Maxi</displayForm>
+                        <namePart type="family">Heß</namePart>
+                        <namePart type="given">Maxi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">25</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Universitätsschule Dresden, etabliert durch die Technische Universität Dresden, steht in der Tradition der sogenannten Laboratory Schools. Sie ist der Idee entsprungen Schulentwicklung aus wissenschaftlichen Erkenntnissen heraus gestalten zu können. Ausgehend von einer kurzen Darlegung der entwicklungspsychologischen Grundlagen der kulturhistorischen Theorie und des didaktischen Modells (die entwicklungslogische Didaktik) des wissenschaftlichen Konzeptes dieses Schulversuches werden ausgewählte Elemente der bisherigen schulischen Umsetzung dargelegt: Lernen in Projekten, Feedbackkultur, Rolle des Raums, Rolle der Lernbegleiter*innen, Zeitkonten für Schüler*innen und Lernbegleiter*innen, Rhythmisierung des Schultages und Nachvollziehbarkeit des Lernprozesses. Abschließend wird dargelegt, wie sich den damit verbundenen Herausforderungen für die Lern- und folglich Schulorganisation durch die Digitalisierung der Schule gestellt wird.
+&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3340</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3340">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/3340/3512" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3340" DMDID="DMD_biejournals_3340">
+            <mets:fptr FILEID="FILE0_biejournals_3340"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

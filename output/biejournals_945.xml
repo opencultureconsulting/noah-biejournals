@@ -1,0 +1,42 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_945">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Institutionalization of dissatisfaction. Towards the dichotomy of »order and disorder«</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Galanova, Olga</displayForm>
+                        <namePart type="family">Galanova</namePart>
+                        <namePart type="given">Olga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-06-15</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Dissatisfaction will be conceptualized in this paper as a medium that makes it possible to relate the concepts of ›order‹ and ›disorder‹ towards each other in a way which overcomes their definition as ›simple dichotomies‹. The description of communicative forms and institutionalized functions of the expressions of dissatisfaction in everyday life allows for the analysis of situations when ›disorder‹ in structures of the social order becomes an object of critical reflection for individuals participating in different types of social relationships. For a sociological analysis these forms can be used to elucidate problems, tensions and disturbances of the social order. It will be shown that the communication of dissatisfaction allows us for an empirical analysis  - from a micro-sociological point of view  - of the relationship between processes of structuring and of changing the social order.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_945</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_945">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/945/1053" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_945" DMDID="DMD_biejournals_945">
+            <mets:fptr FILEID="FILE0_biejournals_945"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

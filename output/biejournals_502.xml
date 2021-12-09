@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_502">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Exploring the Abyss. The Financial Crisis of 2008 ff. as a Central Topic of Problem-Centered Social Science Education</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hippe, Thorsten</displayForm>
+                        <namePart type="family">Hippe</namePart>
+                        <namePart type="given">Thorsten</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-07-12</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2009</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">The financial crisis of 2008 ff. and financial crises in general should be a central topic of social science education because these crises are a recurrent and therefore structural feature of modern capitalism which has severe consequences for citizens’ quality of life. Hence, the citizenry should know how to prevent such developments which endanger its well-being in a massive way. Therefore, learners should understand the relationship between the quality of people’s everyday lives and those economic institutions and political decisions which have led to the current mess. They should be enabled to critically evaluate the current misregulation of the financial sector and the economy in order to identify possible policy measures to prevent or at least to mitigate future crises. By educating (young) citizens in this way, the (future) general public can – as a necessary counterweight to the lobbyism of the finance industry – exert more prudent political pressure which gives politicians a greater incentive to regulate the financial sector and the economy in a manner which is beneficial for the vast majority of the people instead of for a small elite. Two core concepts of the social sciences can be used to make the roots of the seemingly complex topic more understandable for learners: liability and inequality.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_502</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_502">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/502/499" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_502" DMDID="DMD_biejournals_502">
+            <mets:fptr FILEID="FILE0_biejournals_502"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

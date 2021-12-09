@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_514">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Social Knowledge for Financial Markets</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mikl-Horke, Gertraude</displayForm>
+                        <namePart type="family">Mikl-Horke</namePart>
+                        <namePart type="given">Gertraude</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-08-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2008</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Financial literacy is an important issue today, but it is directed/limited to improve the practical skills of people taking financial markets and their present working for granted. However, financial markets are social institutions and social processes involving network relations as well as rules and norms. Globalization has resulted in a dominating role of financial markets over the economy with importance for the transformation of capitalistic society. The sociological perspectives on financial markets have relevance also for the present crisis for which several explanations have been suggested. Most explanations overlook, however, the process of disembedding of the financial markets from the societal context, which is represented by the reliance on a specific kind of knowledge. To illustrate the need for reintegrating financial markets in the economy and making them more responsive to societal concerns, financial knowledge requires to be embedded into social knowledge about the function of financial markets for society, the importance of norms and the social character of marketsFinanzerziehung ist ein wichtiges Anliegen in der Gegenwart, aber die „finanzielle Alphabetisierung“ beschränkt sich auf die Vermittlung praktischen Wissens, ohne die Finanzmärkte und ihr Funktionieren zu hinterfragen. Aber Finanzmärkte sind soziale Institutionen und soziale Prozesse, die Netzwerkbeziehungen sowie Regeln und Normen umfassen. Die Globalisierung resultierte in einer dominierenden Rolle des Finanzsystems im Verhältnis zur Wirtschaft und mit Implikationen für die Transformation der kapitalistischen Gesellschaft. Die soziologischen Perspektiven auf Finanzmärkte sind auch für die gegenwärtige Krise relevant, die verschieden zu erklären versucht wird. Diese Erklärungen übersehen jedoch vielfach den Prozess der Entbettung der Finanzmärkte aus den gesellschaftlichen Kontexten, der sich auch durch die Betonung einer spezifischen Art von Wissen darstellt. Um die Notwendigkeit für die Reintegration der Finanzmärkte in die Wirtschaft und für ihre Verantwortlichkeit für gesellschaftliche Belange verständlich zu machen, bedarf es der Einbettung des finanztechnischen Wissens in soziales Wissen über die Funktion der Finanzmärkte in der Gesellschaft, die Bedeutung von Normen und den sozialen Charakter von Märkten.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_514</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_514">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/514/511" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_514" DMDID="DMD_biejournals_514">
+            <mets:fptr FILEID="FILE0_biejournals_514"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

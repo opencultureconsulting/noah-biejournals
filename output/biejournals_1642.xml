@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1642">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Tierschutz – (k)ein Thema für den Biologieunterricht?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Binngießer, Janine</displayForm>
+                        <namePart type="family">Binngießer</namePart>
+                        <namePart type="given">Janine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Randler, Christoph</displayForm>
+                        <namePart type="family">Randler</namePart>
+                        <namePart type="given">Christoph</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-05-23</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">19</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Mittlerweile besteht ein gesellschaftlicher Konsens über die Bedeutung von emotionaler Erziehung in Schule und Gesellschaft. Dazu kann die Tierschutzerziehung einen wichtigen Beitrag leisten, denn Tierschutzerziehung begünstigt die Ausprägung von Mitgefühl und Verantwortung. Zudem fördert die Beschäftigung mit dem Tierschutz Kinder und Jugendliche bezüglich der von der Kultusministerkonferenz für den Biologieunterricht aufgestellten Basiskompetenz „Bewertung“. Welche Bedeutung dem Thema Tierschutz im Biologieunterricht beigemessen wird, ist Gegenstand der vorliegenden Untersuchung. Es konnte belegt werden, dass Tierschutz im Biologieunterricht, in der Biologielehrerausbildung sowie innerhalb der staatlichen Fortbildungsangebote für Biologielehrer generell eine eher untergeordnete Rolle spielt. Abgeleitet von diesen Untersuchungsergebnissen werden abschließend im Überblick verschiedene Maßnahmen vorgestellt, die langfristig zu einer stärkeren Einbindung der Tierschutzerziehung in den Biologieunterricht beitragen können.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1642</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1642">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/1642/1588" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1642" DMDID="DMD_biejournals_1642">
+            <mets:fptr FILEID="FILE0_biejournals_1642"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

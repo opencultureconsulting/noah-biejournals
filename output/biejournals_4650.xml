@@ -1,0 +1,53 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4650">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>&quot;Heute schreiben wir eine Klassenarbeit in Latein!&quot;</title>
+                        <subTitle>Interview mit Schüler*innen zu ihrer Sicht auf Klassenarbeiten im Fach Latein</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Keip, Marina</displayForm>
+                        <namePart type="family">Keip</namePart>
+                        <namePart type="given">Marina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kurczyk, Stephanie</displayForm>
+                        <namePart type="family">Kurczyk</namePart>
+                        <namePart type="given">Stephanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-09-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">3</extent>
+                    </physicalDescription>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4650</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4650">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/lgnrw/article/download/4650/4481" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4650" DMDID="DMD_biejournals_4650">
+            <mets:fptr FILEID="FILE0_biejournals_4650"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

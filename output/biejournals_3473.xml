@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3473">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Multicultural Competencies of Social Studies Teachers</title>
+                        <subTitle>A Qualitative Study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>KARADAĞ, Yıldıray</displayForm>
+                        <namePart type="family">KARADAĞ</namePart>
+                        <namePart type="given">Yıldıray</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kesten, Alper</displayForm>
+                        <namePart type="family">Kesten</namePart>
+                        <namePart type="given">Alper</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Özdemir Özden , Döndü</displayForm>
+                        <namePart type="family">Özdemir Özden </namePart>
+                        <namePart type="given">Döndü</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: Turkey is a country hosting many people of diverse religious beliefs (e.g., Islam, Christianity, and Judaism) and a great variety of ethnic origins (e.g., Turks, Greeks, Armenians, Slavs, Arabs, Romanians and Kurds). It is also subject to continuous migratory flows from neighboring countries and beyond. Due to these factors, it has become increasingly evident that a more multicultural educational approach is warranted. In this study, researchers analyzed the level of competency in teachers required for the implementation of such approaches within the framework of individual/personal, classroom, and institution/school levels in order to identify the capabilities of social studies teachers’ multicultural competencies. 
+Method: In this study, researchers used a basic qualitative research design. Using a semi-structured interview technique, one-on-one interviews were conducted with 16 teachers from 8 schools with different socio-economic backgrounds and foreign student numbers. The data was analyzed with a thematic analysis approach. 
+Findings: What was found in the course of the work? This will refer to analysis, discussion, or results. The findings of the study showed that teachers’ multicultural competencies were weak in individual/personal, institutional/school levels and in the integration of cultural characteristics into teaching at the classroom level. However, participating teachers indicated stronger multicultural competencies in other subcategories of the classroom level. </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3473</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3473">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3473/4218" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3473" DMDID="DMD_biejournals_3473">
+            <mets:fptr FILEID="FILE0_biejournals_3473"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

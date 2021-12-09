@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2467">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Ein </nonSort>
+                        <title>Blick über den Tellerrand</title>
+                        <subTitle>Inklusion und Heterogenität im internationalen Vergleich erfahren</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Beyond the Horizon</title>
+                        <subTitle>Inclusion and Heterogeneity in International Comparison</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Auner, Nadine</displayForm>
+                        <namePart type="family">Auner</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Palowski, Monika</displayForm>
+                        <namePart type="family">Palowski</namePart>
+                        <namePart type="given">Monika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schüssler, Renate</displayForm>
+                        <namePart type="family">Schüssler</namePart>
+                        <namePart type="given">Renate</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Exkursionsprogramm „International Perspectives“, das an der Universität Bielefeld im Rahmen von BiProfessional innerhalb der Qualitätsoffensive Lehrerbildung durchgeführt wird, soll Lehramtsstudierenden durch Exkursionen in europäische Länder Einblicke in internationale Bildungs-systeme ermöglichen und sie dazu anregen, weitere studienbezogene Auslandsaufenthalte während des Lehramtsstudiums zu absolvieren. Auf diese Weise soll heterogenitätssensible und internationale Lehrer_innenbildung gefördert werden. Der folgende Beitrag skizziert das Exkursionsprogramm „International Perspectives“ und präsentiert erste Erfahrungen der Exkursionsreisen nach Großbritannien und Dänemark.</abstract>
+                    <abstract lang="eng">The “International Perspectives”-program, which is part of BiProfessional at Bielefeld University and the “Initiative for Excellence in Teacher Education”, offers annual excursions to different European countries for teacher training students in order to learn about different educational systems and to en-courage further international experiences. By doing so, it aims to promote hetero-geneity and internationality in teacher education. The following article describes the “International Perspectives”-program and presents first experiences of the excursions to Great Britain and Denmark.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2467</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2467">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2467/3217" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2467" DMDID="DMD_biejournals_2467">
+            <mets:fptr FILEID="FILE0_biejournals_2467"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4409">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wettlauf gegen die Zeit</title>
+                        <subTitle>Wie das BioRescue-Team das Nördliche Breitmaulnashorn rettet</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seet, Steven</displayForm>
+                        <namePart type="family">Seet</namePart>
+                        <namePart type="given">Steven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Es gibt nur noch zwei nördliche Breitmaulnashörner auf der Welt, beide sind weiblich. Kann man diese Tiere noch vor dem Aussterben retten? Zusammen mit internationalen Partnern aus Wissenschaft, Artenschutz und Wirtschaft will das BioRescue-Konsortium durch die Entwicklung fortschrittlicher Methoden der assistierten Reproduktion (aART) und Stammzell-assoziierter Techniken (SCAT) das scheinbar Unmögliche möglich machen.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4409</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4409">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4409/4251" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4409" DMDID="DMD_biejournals_4409">
+            <mets:fptr FILEID="FILE0_biejournals_4409"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

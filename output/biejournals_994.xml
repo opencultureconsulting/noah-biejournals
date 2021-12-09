@@ -1,0 +1,50 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_994">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Educational governance activities and the rise of educational contagion in the Islamic Maghreb. The case of Tunisia.</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jules, Tavis D</displayForm>
+                        <namePart type="family">Jules</namePart>
+                        <namePart type="given">Tavis D</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Barton, Teresa</displayForm>
+                        <namePart type="family">Barton</namePart>
+                        <namePart type="given">Teresa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-12-22</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Tunisia’s recent movement from dictatorship to democracy presents a unique opportunity to understand educational developments in post-revolutionary settings. Within Tunisia, the study of the post-revolutionary scenery is integral because it is likely that education now has to deal with the baggage and verbiage of education for democracy as it attempts to partake in the global souk in a post-Ben Ali era. Using Tunisia as a case study, this research examines educational developments within transitory democratic spaces to advance the research hypothesis that revolutions act as an ‘educational contagion&apos; as new ideas are imported and old ones realigned to seek national competency and international legitimacy. In this context, the study explores how the current post-revolutionary reforms are engendered, as in the case of Tunisia’s recent movement from revolution to elections, and engages in the themes and purposes of educational transformations. Theoretically, this study draws upon two strands of research in comparative and international education that strive to understand why states import new educational reforms and who is responsible for these reforms. A qualitative methodological scaffolding of latent and manifest content analyses is utilized to examine Tunisia’s education policies in the pre-and post-revolutionary period―revealing the “actors” and “institutions” that facilitated, giddied, and undergirded new reform initiatives. It explores the confluence of ‘when’ and ‘why’ educational reform is imported and exported and address who benefits from such reforms. The findings show that the post-revolutionary education reforms have taken on a whole new role and have given Tunisia the potential to become an exemplar for all countries faced with the challenges stemming from economic globalization.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_994</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_994">
+                <mets:FLocat xlink:href="https://www.inter-disciplines.org/index.php/indi/article/download/994/1102" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_994" DMDID="DMD_biejournals_994">
+            <mets:fptr FILEID="FILE0_biejournals_994"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,54 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_851">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Justification and Critique of Educational Reforms in Austria</title>
+                        <subTitle>How Teachers and Head Teachers (Re-)Frame New Governance</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Graß, Doris</displayForm>
+                        <namePart type="family">Graß</namePart>
+                        <namePart type="given">Doris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Purpose: Against the backdrop of a new governance regime of schools in Austria, which combines policies of decentralisation and school autonomy with an accountability program of standardised outcome control, this article explores how the so called “agents of change” – teachers and headteachers – take up these ideas and corresponding governance instruments and frame them on grounds of moral considerations. The aim is to present a theoretical framework for analysing – at the individual level – moments of critical evaluation and affirmative justification of more general political actions as well as of every day’s work practices.Approach: Drawing on the concept of orders of justification and the pragmatist theory of conventions, a qualitative, interview-study with 15 teachers and head teachers in Austrian middle schools was conducted with the intention to discover a repertoire of educational conventions applied by the actors to criticise or justify reform-based decisions, expectations and subjective claims to work.Findings: Besides presenting seven conventions, the article puts a special focus on arguments and corresponding conventions that – on one hand – characterise an economic perspective on schools and education (the market, industrial and flexible convention) and are thus important in deciding whether the new education governance regime is supported by an ‘economised’ constellation of frames that teachers and head teachers use to interpret their actions as well as others. One the other hand, the role of the civic convention receives special attention in relation to the aforementioned ones to include a further aspect into the diagnosis of an economisation of educational practices.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_851</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_851">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/851/964" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_851">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/851/965" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_851" DMDID="DMD_biejournals_851">
+            <mets:fptr FILEID="FILE0_biejournals_851"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_851" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_851"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

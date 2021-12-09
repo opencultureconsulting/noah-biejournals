@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2912">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>From Clinical-Developmental Theory to Assessment</title>
+                        <subTitle>The Holistic Student Assessment Tool</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Noam, Gil</displayForm>
+                        <namePart type="family">Noam</namePart>
+                        <namePart type="given">Gil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Malti, Tina</displayForm>
+                        <namePart type="family">Malti</namePart>
+                        <namePart type="given">Tina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Guhn, Martin</displayForm>
+                        <namePart type="family">Guhn</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2012-11-19</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">A description and test of the Holistic Student Assessment Tool (HSA), an assessment tool to measure children&amp;rsquo;s and adolescents&amp;rsquo; resiliencies in relation to externalizingand internalizing problem behaviors. The HSA is based on the authors&amp;rsquo; research-based clinical-developmental Clover Leaf Model of resilience and&amp;nbsp;psychopathology, and is one of the first attempts at closing the gap between risk and resilience approaches in developmental assessment. The HSA was tested&amp;nbsp;in a cross-sectional sample of 423 children and adolescents.The results lend support to the HSA as a valid measure of children&amp;rsquo;s and adolescents&amp;rsquo; resiliencies. Furthermore, the resilience scales mostly exhibited the theoreticallyexpected convergent and divergent relationships with the psychopathology scales. In addition, we show how the resilience scales predict adolescents&amp;rsquo;&amp;nbsp;externalizing and internalizing symptoms. We contend that evidence-based intervention to address youth aggression needs to be based on sound&amp;nbsp;developmental assessment.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2912</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2912">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2912/pdf_69" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2912">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2912/2767" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2912" DMDID="DMD_biejournals_2912">
+            <mets:fptr FILEID="FILE0_biejournals_2912"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2912" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2912"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

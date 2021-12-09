@@ -1,0 +1,56 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3614">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>How the largest slum in India flattened the COVID curve? A Case Study</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sahu, Monalisha</displayForm>
+                        <namePart type="family">Sahu</namePart>
+                        <namePart type="given">Monalisha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dobe, Madhumita</displayForm>
+                        <namePart type="family">Dobe</namePart>
+                        <namePart type="given">Madhumita</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-09</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Mumbai-The economic capital of India, shrivelled with panic as its infamous slum ‘Dharavi’ recorded its first positive case of COVID-19 on 1st April 2020. Dharavi is the largest slum in India and one of the most densely populated areas in the world. Its narrow lanes, teeming with people and chock-a-block with settlements, make physical distancing practically impossible- posing as an excellent breeding ground for the deadly virus. However, with a policy of ‘chasing the virus’ based on strategy of ‘Tracing Tracking Testing and Treating’ Dharavi flattened its epidemic curve within a hundred days. This was achieved through the immediate public health response with strict containment measures, aggressive active and passive surveillance and integration of resources from government and private sectors to provide essential services. In this paper, we have summarized the ongoing measures for successful prevention and control of COVID-19 in Dharavi, which could provide useful learning for other similar settings worldwide.
+&amp;nbsp;
+Conflicts of interest: None declared.
+&amp;nbsp;
+Acknowledgments: To the health staff and officers of Brihan Mumbai Corporation.
+&amp;nbsp;
+Author Contributions: MS conceptualized the idea and wrote the first draft; MD &amp;amp; MS reviewed and edited the final version. All authors have read and agreed to the published version of the manuscript.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3614</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3614">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/3614/3703" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3614" DMDID="DMD_biejournals_3614">
+            <mets:fptr FILEID="FILE0_biejournals_3614"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

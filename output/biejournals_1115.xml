@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1115">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Inequality and the American classroom</title>
+                        <subTitle>Experiential strategies for teaching social justice</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Johnson, Kristin</displayForm>
+                        <namePart type="family">Johnson</namePart>
+                        <namePart type="given">Kristin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Doerner, Jill K.</displayForm>
+                        <namePart type="family">Doerner</namePart>
+                        <namePart type="given">Jill K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Malloy, Liam C.</displayForm>
+                        <namePart type="family">Malloy</namePart>
+                        <namePart type="given">Liam C.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The purpose of this study is to examine the impact of a mixed format, experiential course on changes in Honors students’ attitudes about various issues of inequality.
+&amp;nbsp;Methodology: Students enrolled in the course (N = 75), taught during the 2016 Presidential election, were asked about their opinions on a variety of inequality topics using a pre-test and post-test survey, with the post-test survey including questions on how perceptions of inequality had changed over the course of the semester.
+&amp;nbsp;Findings and implications: Results indicate that some students became more self-aware of their position in society and were less sure that people in general, and they themselves in particular, would be responsible for their own hard work. Importantly, students were less likely to believe that people faced fair and equal opportunities in the labor market and their overall level of support for unions increased during the semester. Most students agreed that the outside speakers, a key component of the course, provided new information on various aspects of inequality and impacted their overall perceptions of inequality. However, students were much less agreed on how they felt both about the future of the country and the future of inequality.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1115</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1115">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1115/2362" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1115" DMDID="DMD_biejournals_1115">
+            <mets:fptr FILEID="FILE0_biejournals_1115"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

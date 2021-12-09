@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_678">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Practice as Prize</title>
+                        <subTitle>Citizenship Education in two Primary Classrooms in Ireland</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Waldron, Fionnuala</displayForm>
+                        <namePart type="family">Waldron</namePart>
+                        <namePart type="given">Fionnuala</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ruane, Brian</displayForm>
+                        <namePart type="family">Ruane</namePart>
+                        <namePart type="given">Brian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Oberman, Rowan</displayForm>
+                        <namePart type="family">Oberman</namePart>
+                        <namePart type="given">Rowan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2014-02-13</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2013</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">While citizenship education forms part of the formal curriculum at primary level in Ireland, its inclusion as a strand unit of Social, Personal and Health Education, rather than as a discrete subject, tends to make it less visible. In practice, citizenship education is strongly influenced by external agencies and non-governmental organisations (NGOs) active in the field as the dominant producers of teaching resources and programmes in the area. In many cases, these programmes are award-driven, requiring schools to compete with others for recognition or to exemplify a particular standard of practice.  Using thick description (Geertz 1973) and teachers&apos; narratives, this article presents two cases based on the practice of two experienced primary teachers who negotiate the complex space between professional practice and the particular agendas of external agencies and NGOs. Focusing on two exemplars of their teaching, the article locates their work within the broader context of citizenship education in Ireland, highlighting the extent to which the exemplars chosen typify or challenge existing practice. The article includes the outline plans used by the participating teachers and draws on an extended dialogue between the participants and the researchers in which issues relating to citizenship education, classroom and whole school practice and the broader educational context were discussed and probed.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_678</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_678">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/678/723" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/msword" ID="FILE1_biejournals_678">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/678/724" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_678" DMDID="DMD_biejournals_678">
+            <mets:fptr FILEID="FILE0_biejournals_678"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_678" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_678"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2708">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Professionalisierungschancen eines kritisch-reflexiv angelegten Seminars zum Thema Bildungsgerechtigkeit</title>
+                        <subTitle>Sensibilisierung angehender Lehrkräfte durch die Integration bildungsbiographischer, theoriegestützter und praxisbezogener Reflexionen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Professionalization Opportunities of a Critical-Reflective Seminar on the  Subject Educational Justice </title>
+                        <subTitle>Sensibilisierung angehender Lehrkräfte durch die Integration bildungsbiographischer, theoriegestützter und praxisbezogener Reflexionen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>te Poel, Kathrin</displayForm>
+                        <namePart type="family">te Poel</namePart>
+                        <namePart type="given">Kathrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vorstellungen von Bildungsgerechtigkeit, die Lehramtsstudierende mit ins Studium bringen, sind häufig geprägt durch bildungsbiographische Erfahrungen der Studierenden und durch aktuell prominente öffentliche Bildungsgerechtigkeitsdebatten. In der Konsequenz können diese Vorstellungen verkürzt oder sehr fokussiert sein, so dass ein Bewusstsein für die Komplexität gerechtigkeitsbedeutsamer Situationen im Kontext Schule sowie für mögliche gerechtigkeitsrelevante Facetten von (eigenen) Lehrer*innenhandlungen noch geschaffen werden muss. Der Beitrag stellt drei konkrete, in ein Seminar zur Bildungsgerechtigkeitsthematik integrierte Reflexionseinheiten vor, die unterschiedlich akzentuiert sind (biographisch, theoriegestützt und praxisbezogen) und darauf zielen, den Studierenden im Sinne einer reflection-before-action eine bewusste und kritische Auseinandersetzung mit den eigenen (latenten) subjektiven Annahmen ebenso zu ermöglichen wie deren Weiterentwicklung. Professionalisierung wird hier durch die reflektierte Auseinandersetzung mit der eigenen Perspektive und möglichen bisherigen (unbewussten) Fokussetzungen angezielt, wobei eine Perspektiverweiterung wiederum auch die Handlungsoptionen erweitern kann. Das Ziel der Lehrveranstaltung insgesamt besteht in der Sensibilisierung angehender Lehrpersonen für interaktive Praktiken und systembedingte Mechanismen der Reproduktion von Bildungsungleichheit im Kontext Schule sowie für die eigene Handlungsverantwortung.</abstract>
+                    <abstract lang="eng">Students imaginations of educational justice are frequently embossed by their own experiences und by public debates. In consequence, the imaginations are possibly shortened, what may restrict the options for action and the responsibility of the budding teachers. The contribution thematizes concrete reflectance units of a seminar to the educational equity issue. The reflections aim to enable the students for a critical and deliberate confrontation with their own (latent) subjective assumptions and for developing their subjective assumptions. Professionalization happens for the purpose of perspective extension that expands the options for action, too. The seminar aims to sensitize the students and the budding teachers for practices and mechanisms of reproduction of educational injustice at school and for their own action responsibility.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2708</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2708">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2708/3376" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2708" DMDID="DMD_biejournals_2708">
+            <mets:fptr FILEID="FILE0_biejournals_2708"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

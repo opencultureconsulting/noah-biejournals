@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4634">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Verstetigung des de.NBI-Netzwerks</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pühler, Alfred</displayForm>
+                        <namePart type="family">Pühler</namePart>
+                        <namePart type="given">Alfred</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Aufbau einer Bioinformatik-Infrastruktur in Deutschland wird vom BMBF seit dem Jahr 2015 betrieben. Dazu wurde die Fördermaßnahme „Deutsches Netzwerk für Bioinformatik-Infrastruktur (de.NBI)” (www.denbi.de) ins Leben gerufen mit der Aufgabe, Forschenden in den Lebenswissenschaften die Analyse großer Datenmengen zu ermöglichen. Nach Einrichtung der Infrastrukturbereiche Serviceangebote, Trainingskurse und Cloud-Computing steht nun eine Verstetigung dieser Bioinformatik-Infrastruktur durch Integration in die Helmholtz-Gemeinschaft an. Die Bundesregierung hat hierzu in ihrer jüngsten Finanzplanung dem Forschungszentrum Jülich Finanzmittel zur Verfügung gestellt, um die etablierte Bioinformatik-Infrastruktur langfristig zu betreiben.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4634</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4634">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4634/4396" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4634" DMDID="DMD_biejournals_4634">
+            <mets:fptr FILEID="FILE0_biejournals_4634"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

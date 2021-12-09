@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4248">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kieselalgen – winzig, aber wichtig</title>
+                        <subTitle>Biodiversität und Sauerstoffproduktion in einer Glasschachtel</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Diatoms – tiny but important</title>
+                        <subTitle>Biodiversity and oxygen production in a glass box</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jahn, Regine</displayForm>
+                        <namePart type="family">Jahn</namePart>
+                        <namePart type="given">Regine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Abarca, Nélida</displayForm>
+                        <namePart type="family">Abarca</namePart>
+                        <namePart type="given">Nélida</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kusber, Wolf-Henning</displayForm>
+                        <namePart type="family">Kusber</namePart>
+                        <namePart type="given">Wolf-Henning</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Skibbe, Oliver</displayForm>
+                        <namePart type="family">Skibbe</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zimmermann, Jonas</displayForm>
+                        <namePart type="family">Zimmermann</namePart>
+                        <namePart type="given">Jonas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kieselalgen, auch Diatomeen genannt, sind meist photoautotrophe, mikroskopisch kleine, einzellige Eukaryoten und enorm wichtige Primärproduzenten, die mindestens 25 Prozent des globalen Sauerstoffs produzieren. Kieselalgen leben im Plankton sowie im Benthos aller marinen und limnischen Ökosysteme, aber auch teilweise in terrestrischen Ökosystemen. Herausragendes Merkmal der artspezifisch sehr vielfältigen Morphologie ist die namensgebende Zellwand aus Kieselsäure. Die Endosymbioseereignisse und die Evolution ihrer Plastiden sowie die spezifische Kombination von Stoffwechselwegen sind einzigartig. Die Artendiversität der Kieselalgen, die die artenreichste Gruppe der Algen repräsentieren, ist zu diesem Zeitpunkt nur grob zu schätzen. Sie wird mit Hilfe von Integrativer Taxonomie (Analyse von Kulturen, Morphologie, Genetik, etc.) erforscht. Kieselalgen sind aufgrund ihrer hohen Artendiversität, Individuendichte und des artspezifischen Vorkommens in allen Gewässertypen ideale Bioindikatoren für Gewässergüteeinschätzungen mit Hilfe von mikroskopischen und auch zunehmend DNA-basierten Verfahren.</abstract>
+                    <abstract lang="eng">Diatoms are mainly photoautotrophic, microscopic, unicellular eukaryotes and enormously important primary producers, producing at least 25 per cent of global oxygen. Diatoms live in plankton as well as in the benthos of all marine and limnic ecosystems, but also to some extent in terrestrial ecosystems. The outstanding feature of the species-specific very diverse diatom morphology is the cell wall made of silica. The endosymbiosis events and evolution of their plastids as well as the specific combination of metabolic pathways are unique. The species diversity of diatoms, which represent the most species-rich group of algae, can only be roughly estimated at this time. This species diversity is being explored using integrative taxonomy (analysis of cultures, morphology, genetics, etc.). Diatoms are ideal bioindicators for water quality assessments using microscopic and increasingly DNA-based methods due to their high species diversity, individual density and species-specific occurrence in all types of water bodies.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4248</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4248">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4248/4239" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4248" DMDID="DMD_biejournals_4248">
+            <mets:fptr FILEID="FILE0_biejournals_4248"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

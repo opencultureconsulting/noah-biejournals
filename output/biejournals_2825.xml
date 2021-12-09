@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2825">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Public Support for a Ban on Headscarves</title>
+                        <subTitle>A Cross-National Perspective</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>van der Noll, Jolanda</displayForm>
+                        <namePart type="family">van der Noll</namePart>
+                        <namePart type="given">Jolanda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2010-11-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This paper compares a psychological explanation of support for a ban on headscarves in the United Kingdom, France, Germany and the Netherlands. This study examines how perceptions of threat posed by Muslims and Islam and the overall attitude towards Muslims explain support for a ban on headscarves. In addition, cross-national comparisons are made to study how these relations are affected by contextual differences. Analyses are based on the 2005 survey on Islamic extremism by the Pew Research Center. Results show that the countries have a large influence on whether someone supports the ban on headscarves, indicating that contextual differences matter. In addition, having a negative attitude towards Muslims makes it more likely to support a ban on headscarves. In general, perceived threat contributes to stronger support, although there are slight differences in effect between the countries. Finally, perceived threat equally influences support for the ban on headscarves among prejudiced and non-prejudiced people.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2825</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2825">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2825/pdf_7" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2825" DMDID="DMD_biejournals_2825">
+            <mets:fptr FILEID="FILE0_biejournals_2825"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_355">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Zu den Möglichkeiten der Implementation von Bildungsstandards in der wirtschaftsschulischen Bildung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Seeber, Günther</displayForm>
+                        <namePart type="family">Seeber</namePart>
+                        <namePart type="given">Günther</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-09-15</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2003</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die aktuellen Vorschläge zur Einführung von Bildungsstandards an unseren Schulen arbeiten mit einem der Expertiseforschung entnommenen Domänenbegriff und mit dem Kompetenzmodell der Kognitionspsychologie. Beides steht im Widerspruch zur berufsschulischen Praxis bzw. zur berufspädagogischen Tradition: Domäne und Lernfeld kontrastieren ebenso wie das Handlungskompetenzmodell und das in den Vorschlägen zugrunde gelegte Kompetenzmodell. Der folgende Beitrag soll zeigen, dass trotz dieser Divergenzen eine Implementation von Bildungsstandards in der wirtschaftsschulischen Bildung möglich ist. Die Lösungen werden im Rückgriff auf Ergebnisse der fachdidaktischen Forschung und auf jene der Kompetenzdiagnostik in der beruflichen Weiterbildung entwickelt The recent proposals on introducing competence standards in our schools are based on two relevant concepts: First they refer to the domain concept as it is used in the research on expertise, and second, they use the competence model of cognitive psychology. Both concepts don’t fit to the traditional reflections of vocational pedagogy respectively to the practise of vocational education. The following article shall show that, in spite of the existing discrepancies, there is a possibility to harmonize the contrasting concepts and, as a consequence, to implement competence standards in vocational education. The solution refers to results of didactical research and to such of the research on recognising competence acquired in workday life.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_355</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_355">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/355/352" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_355" DMDID="DMD_biejournals_355">
+            <mets:fptr FILEID="FILE0_biejournals_355"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

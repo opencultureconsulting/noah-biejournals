@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4159">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Impfstoffe gegen SARS-CoV-2 – eine Übersicht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sander, Johannes</displayForm>
+                        <namePart type="family">Sander</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">1</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Selbst verwandte Impfstoffe können auf molekularer Ebene unterschiedlich aufgebaut sein. Anhand aktueller Beispiele soll hier das Design einiger Impfstoffe gegen SARS-CoV-2 vorgestellt werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4159</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4159">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4159/4114" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4159" DMDID="DMD_biejournals_4159">
+            <mets:fptr FILEID="FILE0_biejournals_4159"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

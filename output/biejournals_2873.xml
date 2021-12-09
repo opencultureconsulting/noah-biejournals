@@ -1,0 +1,62 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2873">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“The Boys Are Coming to Town”</title>
+                        <subTitle>Youth, Armed Conflict and Urban Violence in Developing Countries</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kunkeler, Josjah Betina</displayForm>
+                        <namePart type="family">Kunkeler</namePart>
+                        <namePart type="given">Josjah Betina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Peters, Krijn</displayForm>
+                        <namePart type="family">Peters</namePart>
+                        <namePart type="given">Krijn</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">14</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">Young people are major participants in contemporary intra-state armed conflicts. Since the end of the Cold War there has been a trend to portray these as criminal violence for private (economic) ends, rather than politically or ideologically motivated. Hence, the perception of young people’s role has moved from “freedom fighters” to “violent criminals.” Our discursive and conceptual reconsideration based on a case study of Sierra Leone finds that the associated dichotomies (“new war/old war,” “greed/grievance,” “criminal/political violence”) are grounded in traditional modernization assumptions and/or constructed for policy purposes, rather than reflecting reality on the ground. Urban and rural youth violence in developing countries cannot be separated from its political roots. Moreover, the violent dynamics in which urban youth violence is embedded challenge our conceptions of what an armed conflict is. Including this form of violence in mainstream conflict theory would open the way for a new interpretation and more effective policy interventions. Extrapolating the experience of Latin American cities plagued by drug violence, the recent and significant increase in drug trafficking on the West African seaboard could mark the beginning of another armed conflict with high youth involvement, this time playing out in urban settings.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2873</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2873">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2873/pdf_33" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2873">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2873/2688" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2873" DMDID="DMD_biejournals_2873">
+            <mets:fptr FILEID="FILE0_biejournals_2873"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2873" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2873"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

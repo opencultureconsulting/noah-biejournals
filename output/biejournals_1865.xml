@@ -1,0 +1,51 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1865">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Global health in transition</title>
+                        <subTitle>The coming of neoliberalism</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Marstein, Egil</displayForm>
+                        <namePart type="family">Marstein</namePart>
+                        <namePart type="given">Egil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Babich, Suzanne M.</displayForm>
+                        <namePart type="family">Babich</namePart>
+                        <namePart type="given">Suzanne M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-01-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng"> Global health as a transnational, intergovernmental, value-based initiative led by the World Health Organization (WHO), working toward improving health and achieving equity in health for all people worldwide, has for years yielded to a growing reliance on corporate-led solutions. Private organizations, non-governmental organizations (NGO), religious and other philanthropic and charitable organizations, increasingly serve a dominant role in setting the global health agenda. Short-term success in combating epidemics and in the provision of funding for project-based initiatives appeals to supporters of marketization of health services. For 30 years, a neoliberal paradigm has dominated the international political economy and hence the governance of global health. A utilitarian logic or the ethics of consequentialism have attained prominence under such banners as effective altruism or venture philanthropy.  This contrasts with the merits and relevance of deontological ethics in which rules and moral duty are central. This paper seeks to explain how neo-liberalism became a governing precept and paradigm for global health governance. A priority is to unmask terms and precepts serving as ethos or moral character for corporate actions that benefit vested stakeholders.   </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1865</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1865">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/1865/1785" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1865" DMDID="DMD_biejournals_1865">
+            <mets:fptr FILEID="FILE0_biejournals_1865"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

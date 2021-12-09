@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2489">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexion und Kasuistik</title>
+                        <subTitle>Systematisierung kasuistischer Lehr-Lern-Formate und deren Zieldimension der Reflexion</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Case-Based Learning and Reflection</title>
+                        <subTitle>Reflection and Case-Based Learning. A Systematization of Types of CaseBased Formats of Teaching and Learning and Their Aim of Reflection</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmidt, Richard</displayForm>
+                        <namePart type="family">Schmidt</namePart>
+                        <namePart type="given">Richard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wittek, Doris</displayForm>
+                        <namePart type="family">Wittek</namePart>
+                        <namePart type="given">Doris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-28</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kasuistische Lehr-Lern-Formate als ‚Methode‘ der Professionalisierung von angehenden Lehrpersonen finden momentan zunehmende Verbreitung – auch im Zuge der Qualitätsoffensive Lehrerbildung (QLB). Solche Formate variieren in ihrer Ausgestaltung stark, weswegen (an den Standorten) unterschiedlichste Ziele mit ihnen verbunden sind. Dabei sind diese Ziele, die entsprechenden Formate, Handlungsschritte und damit auch die unterschiedlichen Verständnisse von Kasuistik bisher unzureichend systematisiert, wenngleich elaborierte Unterscheidungen kasuistischer Formate vorliegen.
+Einigkeit scheint jedoch darin zu bestehen, dass die Anbahnung eines reflexiven Habitus das Ziel von Kasuistik ist. Zudem darüber, dass Kasuistik dazu beitragen kann, Theorie und Praxis in der Lehrer_innenbildung zu relationieren, indem Fälle aus der schulischen Praxis zum Gegenstand kasuistischen Arbeitens gemacht werden. Insofern kann Kasuistik als ‚Setting der Reflexion‘ über Praxis verstanden werden.
+Der Beitrag befasst sich mit einem kasuistischen Format: rekonstruktiver Kasuistik. Es wird systematisiert, was konkret Reflexion im Zuge kasuistischen Arbeitens bedeutet und welche ‚Arten‘ von Reflexion dieses Format von Kasuistik anbahnen kann. Dafür wird vorgeschlagen, das Ziel des reflexiven Habitus in drei Dimensionen einzuteilen: Selbst-Reflexion, Praxis-Reflexion und Meta-Praxis-Reflexion. Daraus lässt sich abschließend ableiten, inwiefern ein Zusammenhang zwischen Kasuistik und Reflexion einerseits und pädagogischer Professionalisierung andererseits besteht.</abstract>
+                    <abstract lang="eng">Case-based formats of teaching and learning are increasingly situating themselves as a ‘method’ of professionalization regarding teacher education. Such formats widely vary in terms of their structure, wherefore a multiplicity of objectives are associated with them at different locations. Even though research has shown distinctions between case-based teaching-formats, their objectives, procedures and the notions of ‘case’ embedded within them, such formats have not been systematized sufficiently. A common point of reference of these varying discourses is a notion of case-based teacher education as a method of habituating reflexivity, as well as a method of relating theory and practice in teacher education programs through transferring cases of learning and teaching into a ‘setting of reflexivity’ regarding the practice of teaching. This article explicitly theorizes reconstructive case methods as a format of teaching and learning with cases. It systematizes its notions of reflection and reflexivity as well as their initiation in teacher education. Regarding this purpose, we propose three dimensions as objectives of habitualized reflexivity: reflexivity of the self, reflexivity of practice, and meta-reflexivity of practice. Concluding thereof, the article evaluates a possible relation between casebased learning and reflection on the one hand and pedagogical professionalization on the other hand.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2489</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2489">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2489/3367" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2489" DMDID="DMD_biejournals_2489">
+            <mets:fptr FILEID="FILE0_biejournals_2489"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

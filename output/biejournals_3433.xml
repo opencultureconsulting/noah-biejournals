@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3433">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Möglichkeiten der Sprachförderung durch Lateinunterricht angesichts einer heterogenen Schülerschaft</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kuhlmann, Peter</displayForm>
+                        <namePart type="family">Kuhlmann</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Sprachförderung stellt heute in Deutschland eine besondere Herausforderung für die Schule dar: Zum einen weisen immer mehr Schüler*innen einen Migrationshintergrund auf und sprechen zu Hause eine andere Sprache als Deutsch. Zum anderen sind auch viele junge deutsche Muttersprachler*innen nicht zuletzt aufgrund der Nutzung elektronischer Medien heute sprachlich anders sozialisiert als in früheren Zeiten. Insbesondere die Normen der schriftlichen Standardsprache spielen im Alltag heutiger Schüler*innen eine zunehmend geringere Rolle. Im Lateinunterricht durchlaufen die Lernenden von Anfang an einen systematischen Durchgang durch das lateinische Sprachsystem, das wiederum stets mit der deutschen Zielsprache kontrastiert wird. Auch durch das Verfahren des Übersetzens werden Lernende mit den Normen der Zielsprache konfrontiert und können diese einüben. Die Vermittlung von metasprachlichen Kategorien kann zudem bei der Ausbildung von Sprachbewusstheit und Sprachreflexion helfen. Im Beitrag werden einige zentrale Aspekte einer solchen Sprachförderung aufgezeigt – v.a. am Beispiel besonderer schriftsprachlicher Kategorien im Deutschen (z.B. Genitiv, Konjunktiv, Präteritum).</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3433</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3433">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3433/3662" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3433" DMDID="DMD_biejournals_3433">
+            <mets:fptr FILEID="FILE0_biejournals_3433"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

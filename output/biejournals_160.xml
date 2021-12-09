@@ -1,0 +1,61 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_160">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Freie Bildungsmaterialien in der wissenschaftlichen Weiterbildung. Herausforderungen und Chancen von OER</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lermen, Markus</displayForm>
+                        <namePart type="family">Lermen</namePart>
+                        <namePart type="given">Markus</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Steinert, Farina</displayForm>
+                        <namePart type="family">Steinert</namePart>
+                        <namePart type="given">Farina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wolf, Norina</displayForm>
+                        <namePart type="family">Wolf</namePart>
+                        <namePart type="given">Norina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2017-02-02</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Einsatz von Open Educational Resources (OER) im deutschen Bildungssystem wird mit zunehmender Tendenz diskutiert (s. KMK 2015; HRK 2016). Im Hochschulsystem gibt es bisher jedoch kaum breitenwirksame Erfahrungen mit frei zugänglichen bzw. frei lizenzierten Lehr-/ Lernmaterialien. Insbesondere in den Auseinandersetzungen zur wissenschaftlichen Weiterbildung ist der Einsatz von OER bisher selten im Fokus (vgl. Blees et al. 2015). Gleichwohl gibt es in diesem Sektor spezielle Gelingensbedingungen und strategierelevante Optionen bei der Einbindung von OER. Der Artikel setzt sich mit den grundlegenden Aspekten auseinander, die bei der Implementierung von OER in der wissenschaftlichen Weiterbildung und in dazugehörigen Fernstudienszenarien von Bedeutung sind. Es werden – u.a. flankiert durch Ergebnisse einer Befragung von Akteuren – Chancen und Herausforderungen in Bezug auf OER aufgezeigt und diskutiert.  </abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_160</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_160">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/160/149" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_160" DMDID="DMD_biejournals_160">
+            <mets:fptr FILEID="FILE0_biejournals_160"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

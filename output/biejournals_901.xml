@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_901">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>On the Digital Lane to Citizenship? Patterns of Internet Use and Civic Engagement Amongst Flemish Adolescents and Young Adults</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Siongers, Jessy</displayForm>
+                        <namePart type="family">Siongers</namePart>
+                        <namePart type="given">Jessy</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Keppens, Gil</displayForm>
+                        <namePart type="family">Keppens</namePart>
+                        <namePart type="given">Gil</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Spruyt, Bram</displayForm>
+                        <namePart type="family">Spruyt</namePart>
+                        <namePart type="given">Bram</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Van Droogenbroeck, Filip</displayForm>
+                        <namePart type="family">Van Droogenbroeck</namePart>
+                        <namePart type="given">Filip</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-01-24</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Purpose: The rise of online communication possibilities has revived the debate surrounding the impact of media on political participation, especially with respect to young people who are considered prime users of online communication technologies. Against that background this paper examines the relationship between the use of new and old media and institutionalized and non-institutionalized forms of political participation.
+Design: We rely on data of a representative sample of Flemish young people aged 14-30 (N=2488). Ordinal logistic regression models are used to model (1) institutional political participation and (2) alternative forms of political participation. We not only focus on whether young people used the Internet but also assess differences according to the purpose of Internet use.
+Findings: Even after taken into account a significant number of background characteristics, different views on politics and other media use, Internet use remains positively related to both conventional and alternative forms of political participation. Internet use for pleasure appears quite strongly associated with alternative political participation, but is not related to conventional political participation. Internet use directed towards gaining information is strongly related to both conventional and alternative forms of political participation by strengthening young people’s political efficacy, interest and political competences.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_901</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_901">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/901/1538" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_901" DMDID="DMD_biejournals_901">
+            <mets:fptr FILEID="FILE0_biejournals_901"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

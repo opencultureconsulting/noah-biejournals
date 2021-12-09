@@ -1,0 +1,45 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_364">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>„Lernen durch und von der Kunst – Impulse der Kunst für die Organisationsentwicklung“</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kaniuth, Thomas</displayForm>
+                        <namePart type="family">Kaniuth</namePart>
+                        <namePart type="given">Thomas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2006-05-10</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2004</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Unternehmen stehen heute angesichts eines enormen Wettbewerbsdruck, hoher Veränderungsraten und großer Unübersichtlichkeiten vor neuen Herausforderungen. Zu ihrer Bewältigung bedarf es einer Ergänzung der bisherigen Vorgehensweisen und Leitbilder. Entsprechend steht auch die Organisationsentwicklung vor der Frage, welche - mitunter auch außergewöhnlichen - Maßnahmen zur Bewältigung der Situation zu ergreifen sind und woher entsprechende Impulse kommen können. Kunst, als der geradezu prototypische Ort von Innovation und schöpferischen Verhalten kann hier zu einer wichtigen Quelle werden. Je nach Ausgangslage können unterschiedliche Schnittstellen gebildet werden, die eines gemeinsam haben - Unternehmen wertvolle Impulse zur Problemlösungen zu liefern.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_364</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_364">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/364/361" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_364" DMDID="DMD_biejournals_364">
+            <mets:fptr FILEID="FILE0_biejournals_364"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,85 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>E-Zigaretten - Hilfe oder Verführer? Eine Dilemmasituation bewerten</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Desch, Inga</displayForm>
+                        <namePart type="family">Desch</namePart>
+                        <namePart type="given">Inga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Herold, Karen</displayForm>
+                        <namePart type="family">Herold</namePart>
+                        <namePart type="given">Karen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Geulen, Julia</displayForm>
+                        <namePart type="family">Geulen</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Penzkofer, Andrea</displayForm>
+                        <namePart type="family">Penzkofer</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Platzer, Katrin</displayForm>
+                        <namePart type="family">Platzer</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weg-Remers, Susanne</displayForm>
+                        <namePart type="family">Weg-Remers</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">23</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Vorgestellt wird ein Unterrichtsentwurf für Schülerinnen und Schüler der Jahrgangsstufe 10-12. Anhand einer Dilemmasituation zu E-Zigaretten soll die Bewertungskompetenz gefördert und die Jugendlichen gegenüber dem Thema sensibilisiert werden.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3331</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3331">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/3331/3798" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3331" DMDID="DMD_biejournals_3331">
+            <mets:fptr FILEID="FILE0_biejournals_3331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

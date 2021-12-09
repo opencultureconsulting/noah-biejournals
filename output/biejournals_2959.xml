@@ -1,0 +1,70 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2959">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“It Depends How You’re Saying It”</title>
+                        <subTitle>The Complexities of Everyday Racism</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Walton, Jessica</displayForm>
+                        <namePart type="family">Walton</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Priest, Naomi</displayForm>
+                        <namePart type="family">Priest</namePart>
+                        <namePart type="given">Naomi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Paradies, Yin</displayForm>
+                        <namePart type="family">Paradies</namePart>
+                        <namePart type="given">Yin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2013-04-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">While racism is widely recognised as a complex social phenomenon, the basis for defining and identifying everyday racism from a lay perspective is not well understood. This exploration of factors used to frame everyday racism draws on seven cognitive interviews and four focus groups conducted in November 2010 and January 2011 with Australian adults predominantly from Anglo ethnic and cultural backgrounds. The study reveals lay theorising centring on tropes of intentionality, effect of speech, relationality and acceptability. Participants were more likely to think of racism as having negative, overtly offensive and emotional connotations. Racialised speech that was not considered to be blatantly racist was more contested, with participants engaging in complex theorising to determine whether or not such speech constituted racism. The study also highlights the potential of qualitative research to inform survey development as an unobtrusive method for in-depth participant reflection. The ambiguous nature of everyday racism demonstrated in this paper indicates a need to foster more nuanced lay understandings of racism that encompass the subtle, rational and complementary expressions that can be situated within institutions and society.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2959</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2959">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2959/pdf_75" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/epub+zip" ID="FILE1_biejournals_2959">
+                <mets:FLocat xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2959/2863" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2959" DMDID="DMD_biejournals_2959">
+            <mets:fptr FILEID="FILE0_biejournals_2959"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2959" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2959"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

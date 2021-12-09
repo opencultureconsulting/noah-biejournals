@@ -1,0 +1,46 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_756">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Speaking of Belonging</title>
+                        <subTitle>Learning to be “Good Citizens” in the Context of Voluntary Language Coaching Projects in Amsterdam, the Netherlands</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mosher, Rhiannon</displayForm>
+                        <namePart type="family">Mosher</namePart>
+                        <namePart type="given">Rhiannon</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2015-09-17</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2012</extent>
+                    </physicalDescription>
+                    <abstract lang="eng">This article explores citizenship education for adult immigrants through informal language education in Amsterdam, the Netherlands. Based on data collected over thirteen months of ethnographic research among volunteer Dutch language coaches in Amsterdam, the primary methods used in this study were in-depth semi-structured interviews and participant observation. While the primary focus of this article is on the ways in which informal educational settings contribute to processes of adult citizenship education, this paper also underscores some of the perceived barriers to integration faced by adult immigrants in the Netherlands. Adopting a Foucauldian theoretical approach to governmentality, this paper considers how volunteer Dutch language coaches both reproduce and challenge contemporary discourses around citizenship and belonging in Dutch society. Experiences and expressions of citizenship among volunteer Dutch language coaches reveal how entangled discourses of cultural difference and neoliberal “active” citizenship shape state and everyday notions of good citizenship practice and integration.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_756</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_756">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/756/823" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_756" DMDID="DMD_biejournals_756">
+            <mets:fptr FILEID="FILE0_biejournals_756"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

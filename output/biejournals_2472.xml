@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2472">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Multiprofessionelle Kooperation in inklusiven Ganztagsschulen in der universitären Lehre</title>
+                        <subTitle>Entwicklung inklusions- und kooperationsbezogener Einstellungen von angehenden Lehrkräften und sozialpädagogischen Fachkräften in einem interdisziplinären Masterseminar</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Multi-Professional Cooperation in Inclusive All-day Schools in University Teaching</title>
+                        <subTitle>Development of Inclusion-related and Cooperative Attitudes of Prospective Teachers and Social Work Professionals in an Interdisciplinary Masters Seminar</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Hopmann, Benedikt</displayForm>
+                        <namePart type="family">Hopmann</namePart>
+                        <namePart type="given">Benedikt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Böhm-Kasper, Oliver</displayForm>
+                        <namePart type="family">Böhm-Kasper</namePart>
+                        <namePart type="given">Oliver</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-18</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">21</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zentrum dieses empirischen Beitrags stehen die quantitativen Befunde eines Teilprojekts zu multiprofessioneller Kooperation an inklusiven Ganztagsschulen, welches im Rahmen der Qualitätsoffensive Lehrerbildung an der Universität Bielefeld durchgeführt wird. Mit diesem Lehr-Forschungsprojekt soll dem Desiderat Rechnung getragen werden, multiprofessionelle Kooperation bereits als Themenfeld der universitären Lehre zu verankern. In einem Prä-Post-Kontrollgruppen-Design (N=90) wurden die Einstellungen der Studierenden zu Inklusion (Forlin, Earle, Loreman &amp;amp; Sharma, 2011) und multiprofessioneller Kooperation (Dizinger, Fussangel &amp;amp; Böhm-Kasper, 2011) vor und nach dem Seminar erhoben und mit den Ergebnissen einer Vergleichsgruppe (N=63) kontrastiert, welche das neu konzipierte Lehr-Forschungsseminar nicht besucht hat. Es zeigt sich, dass die etablierten Messinstrumente der Inklusions- und Kooperationsforschung Einstellungsänderungen nicht auf ausschließlich quantitativem Wege aufzudecken vermögen. Sie bedürfen vielmehr einer (Neu-)Justierung und/oder Ergänzung durch explorativ-qualitative Forschung, um die mitunter dennoch in Gang gesetzten und im Rahmen des Seminars auch angestrebten dialektischen Irritationen und kritisch-reflexiven Prozesse hinreichend abbilden zu können.</abstract>
+                    <abstract lang="eng">This empirical contribution focuses on the quantitative findings of a subproject on multi-professional cooperation in inclusive all-day schools, which is part of the “Qualitätsoffensive Lehrerbildung” at the University of Bielefeld. With this teaching research project, the desideratum to establish multi-professional cooperation as a subject of university teaching is to be taken into account. In a pre-post control group design (N=90), the attitudes of the students towards inclusion (Forlin, Earle, Loreman &amp;amp; Sharma, 2011) and multi-professional cooperation (Di-zinger, Fussangel &amp;amp; Böhm-Kasper, 2011) before and after the seminar were surveyed and contrasted with the results of a comparison group (N=63), which did not attend the newly conceived teaching research seminar. It turns out that the established measuring instruments of inclusion and cooperation research are not able to uncover changes in attitudes by exclusively quantitative means. Rather, they require (re-)adjustment and/or supplementation by explorative-qualitative research, in order to be able to represent the dialectical irritations and critical-reflective processes that are set in motion and are also aspired to with the seminar.</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2472</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2472">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2472/3246" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_2472">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2472/3247" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2472" DMDID="DMD_biejournals_2472">
+            <mets:fptr FILEID="FILE0_biejournals_2472"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_2472" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_2472"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

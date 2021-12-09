@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_2404">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Das ist im Rahmen“ - Das Wissen von fachdidaktischen Lehrenden über die Angemessenheit studentischer Forschung im Praxissemester</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>“This Is within the Bounds” - The  Knowledge  of  University  Teachers from  Subject-related  Didactics  about  the  Appropriateness  of  Student  Research during School Practicums</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schöning, Anke</displayForm>
+                        <namePart type="family">Schöning</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Brandhorst, André</displayForm>
+                        <namePart type="family">Brandhorst</namePart>
+                        <namePart type="given">André</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Goerigk, Paul</displayForm>
+                        <namePart type="family">Goerigk</namePart>
+                        <namePart type="given">Paul</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-21</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Universitären Lernbegleitern im Praxissemester wird eine hohe Bedeutung in der Begleitung der Studierenden bei der Umsetzung Forschenden Lernens zugeschrieben, ohne dass diese bislang selbst aber im Fokus &amp;nbsp;empirischer Untersuchungen stehen. Mit einem Fokus auf die Verknüpfung von Theorie und Praxis im Praxissemester wurde eine Gruppendiskussion unter universitären Lehrenden unterschiedlicher Fachdidaktiken durchgeführt. Mittels der dokumentarischen Methode werden das Verständnis und das Verhältnis von Theorie, Praxis und Forschung bezüglich studentischer Forschungsprojekte im Praxissemester rekonstruiert. In der Rekonstruktion eines Orientierungsrahmens lässt sich ein Primat der Praxis als konjunktives Wissen über die Angemessenheit dieser Forschungsprojekte der Studierenden nachzeichnen. Die Relevanz von Theorie und Forschung im Praxissemester wird aus der Perspektive der Lehrenden nur durch eine Instrumentalisierbarkeit für eine diffus bleibende Unterrichtspraxis gegeben. Forschendes Lernen wird in die Nähe wissenschaftlicher, nicht für Praxis instrumentalisierbarer, Forschung gerückt und damit als ungeeignet für das Ausbildungsziel des Praxissemesters bestimmt.</abstract>
+                    <abstract lang="eng">This article presents a process-based model for mentoring, focusing on research-based learning in teacher training during school practicums. The model responds to the individual learning process of the student and considers various mentors at school and university, taking into account their respective fields of expertise. The involvement of several mentors in the counselling process was adopted with the aim of encouraging students to continuously reflect on their research projects and research activities as well as to further develop their research competence. This paper examines ways of mentoring students during their research activities; different coaching techniques are presented and illustrated using an example from higher education practice.&amp;nbsp;</abstract>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_2404</recordIdentifier>
+                    </recordInfo>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_2404">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/2404/2400" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_2404" DMDID="DMD_biejournals_2404">
+            <mets:fptr FILEID="FILE0_biejournals_2404"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
