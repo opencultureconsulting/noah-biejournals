@@ -202,7 +202,7 @@ tasks:
           echo 1>&2 "Anzahl der generierten Datensätze (${count}) entspricht nicht der erwarteten Mindestanzahl (${minimum})! Bitte manuell prüfen."
         fi
       - | # validate against METS schema
-        xmllint --schema config/mets.xsd --noout --quiet output/*.xml
+        xmllint --schema config/mets.xsd --noout output/*.xml
 
   git:
     desc: commit and push if something changed
