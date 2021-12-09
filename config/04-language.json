@@ -1,0 +1,14 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:language",
+    "expression": "grel:value.replace('deu', 'ger').replace('fra', 'fre')",
+    "onError": "set-to-blank",
+    "newColumnName": "language/languageTerm@authority=iso639-2b",
+    "columnInsertIndex": 2
+  }
+]

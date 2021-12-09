@@ -1,0 +1,181 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:creator",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "name/displayForm",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name/displayForm",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "-, -"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name/displayForm",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Natalia Garcia Cervantes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cervantes, Natalia Garcia"
+      }
+    ]
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "name/displayForm",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Elke A. Gornik"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Gornik, Elke A."
+      }
+    ]
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "name/displayForm",
+          "columnName": "name/displayForm",
+          "query": ",",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "name/displayForm",
+    "expression": "grel:null",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name/displayForm",
+          "expression": "isBlank(value)",
+          "columnName": "name/displayForm",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "name/displayForm",
+    "expression": "grel:'personal'",
+    "onError": "set-to-blank",
+    "newColumnName": "name@type",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "name/displayForm",
+    "expression": "grel:value.split(', ')[0]",
+    "onError": "set-to-blank",
+    "newColumnName": "name/namePart@type=family",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "name/displayForm",
+    "expression": "grel:value.split(', ')[1]",
+    "onError": "set-to-blank",
+    "newColumnName": "name/namePart@type=given",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "name/displayForm",
+          "expression": "isBlank(value)",
+          "columnName": "name/displayForm",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:creator",
+    "expression": "grel:'ctb'",
+    "onError": "set-to-blank",
+    "newColumnName": "name/role/roleTerm@authority=marcrelator",
+    "columnInsertIndex": 2
+  }
+]

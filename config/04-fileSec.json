@@ -1,0 +1,165 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:relation",
+          "columnName": "dc:relation",
+          "query": "^http",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:relation",
+    "expression": "grel:value.replace('/view/','/download/')",
+    "onError": "set-to-blank",
+    "newColumnName": "fileSec/fileGrp/file/Flocat@xlink:href",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:format",
+          "expression": "value",
+          "columnName": "dc:format",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "application/pdf",
+                "l": "application/pdf"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "id",
+          "expression": "isBlank(value)",
+          "columnName": "id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:format",
+    "expression": "grel:'pdf upload'",
+    "onError": "set-to-blank",
+    "newColumnName": "fileSec/fileGrp@USE",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "fileSec/fileGrp/file/Flocat@xlink:href",
+          "expression": "isBlank(value)",
+          "columnName": "fileSec/fileGrp/file/Flocat@xlink:href",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        },
+        {
+          "type": "list",
+          "name": "fileSec/fileGrp@USE",
+          "expression": "isBlank(value)",
+          "columnName": "fileSec/fileGrp@USE",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": true,
+                "l": "true"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "fileSec/fileGrp@USE",
+    "expression": "grel:'generic file'",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:format",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "fileSec/fileGrp/file@MIMETYPE",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:format",
+          "expression": "value",
+          "columnName": "dc:format",
+          "invert": true,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "application/pdf",
+                "l": "application/pdf"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    }
+  }
+]

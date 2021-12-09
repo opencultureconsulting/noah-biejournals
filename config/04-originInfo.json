@@ -1,0 +1,46 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:date",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "originInfo/dateIssued",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:date",
+          "expression": "isBlank(value)",
+          "columnName": "dc:date",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:date",
+    "expression": "grel:'yes'",
+    "onError": "set-to-blank",
+    "newColumnName": "originInfo/dateIssued@keyDate",
+    "columnInsertIndex": 2
+  }
+]

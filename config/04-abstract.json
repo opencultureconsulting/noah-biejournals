@@ -1,0 +1,26 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:description@xml:lang",
+    "expression": "grel:value.replace(/^de.+/,'ger').replace(/^en.+/,'eng').replace(/^fr.+/,'fre')",
+    "onError": "set-to-blank",
+    "newColumnName": "abstract@lang",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:description",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "abstract",
+    "columnInsertIndex": 2
+  }
+]

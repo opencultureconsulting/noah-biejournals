@@ -1,0 +1,35 @@
+name: full harvest and transform
+
+on:
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+    - name: install go-task 3.2.2
+      run: |
+        wget --no-verbose -O task.tar.gz https://github.com/go-task/task/releases/download/v3.2.2/task_linux_amd64.tar.gz
+        sudo tar -xzf task.tar.gz -C /usr/local/bin task && rm task.tar.gz
+    - name: install VuFindHarvest
+      run: task install_vufindharvest
+    - name: install xmllint
+      run: sudo apt-get install -y libxml2-utils
+    - name: install OpenRefine and openrefine-client
+      run: task install_openrefine
+    - name: task reset
+      run: task reset
+    - uses: actions/upload-artifact@v2
+      if: always()
+      with:
+        name: OpenRefine project and logfile
+        path: |
+          .openrefine/data/*.openrefine.tar.gz
+          .openrefine/log.txt
+        retention-days: 1
+    - name: git commit and push
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        task git

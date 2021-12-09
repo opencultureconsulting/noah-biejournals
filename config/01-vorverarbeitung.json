@@ -108,5 +108,22 @@
     "op": "core/column-rename",
     "oldColumnName": "oai_dc:dc - dc:description",
     "newColumnName": "dc:description"
+  },
+  {
+    "op": "core/row-removal",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "id",
+          "columnName": "id",
+          "query": "^0$",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    }
   }
 ]

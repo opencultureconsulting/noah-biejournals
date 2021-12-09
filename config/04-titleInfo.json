@@ -1,0 +1,114 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "record-based"
+    },
+    "baseColumnName": "dc:publisher@xml:lang",
+    "expression": "grel:value.replace(/^de.+/,'ger').replace(/^en.+/,'eng').replace(/^fr.+/,'fre')",
+    "onError": "set-to-blank",
+    "newColumnName": "titleInfo@lang",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:language",
+          "expression": "value",
+          "columnName": "dc:language",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "deu",
+                "l": "deu"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "record-based"
+    },
+    "baseColumnName": "dc:title@xml:lang",
+    "expression": "grel:if(and(isNonBlank(value), value != 'de-DE'), 'translated', null)",
+    "onError": "set-to-blank",
+    "newColumnName": "titleInfo@type",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:title",
+    "expression": "grel:value.split(': ')[0].replace(/:$/,'')",
+    "onError": "set-to-blank",
+    "newColumnName": "titleInfo/title",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:title",
+    "expression": "grel:value.split(': ')[1].replace(/:$/,'')",
+    "onError": "set-to-blank",
+    "newColumnName": "titleInfo/subTitle",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:title",
+    "expression": "grel:with(['a', 'das', 'dem', 'den', 'der', 'des', 'die', 'ein', 'eine', 'einem', 'einen', 'einer', 'eines', 'the'],x,if(inArray(x,value.split(' ')[0].toLowercase()),value.split(' ')[0] + ' ',''))",
+    "onError": "set-to-blank",
+    "newColumnName": "titleInfo/nonsort",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "titleInfo/nonsort",
+          "expression": "isBlank(value)",
+          "columnName": "titleInfo/nonsort",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "titleInfo/title",
+    "expression": "grel:value.split(' ').slice(1).join(' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

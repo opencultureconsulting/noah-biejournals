@@ -99,6 +99,14 @@ with(cross(cells['index'].value, '' , 'index'), rows,
 '                        <titleInfo>' + '\n' +
 '                            <title>' + r.cells['relatedItem/titleInfo/title'].value.escape('xml') + '</title>' + '\n' +
 '                        </titleInfo>' + '\n' +
+                         forNonBlank(r.cells['* relatedItem/originInfo/publisher'].value, v,
+'                        <originInfo>' + '\n' +
+'                            <publisher type="issn">' + v.escape('xml') + '</publisher>' + '\n' +
+'                        </originInfo>' + '\n'
+                         , '') +
+                         forNonBlank(r.cells['relatedItem/identifier@type=issn'].value, v,
+'                        <identifier type="issn">' + v.escape('xml') + '</identifier>' + '\n'
+                         , '') +
 '                        <part>' + '\n' +
                          forNonBlank(r.cells['relatedItem/part/detail@type=volume/number'].value, v,
 '                            <detail type="volume">' + '\n' +
@@ -147,8 +155,8 @@ with(cross(cells['index'].value, '' , 'index'), rows,
 '    </mets:dmdSec>' + '\n' +
 '    <mets:fileSec>' + '\n' +
          forEachIndex(filter(rows, r, isNonBlank(r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value)), i, r,
-'        <mets:fileGrp USE="' + if(r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value == filter(row.record.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value, v, v.toLowercase().contains('.pdf'))[0], 'pdf upload', 'generic file') + '">' + '\n' +
-'            <mets:file MIMETYPE="' + r.cells['fileSec/fileGrp/file@MIMETYPE'].value.escape('xml') + '" ID="FILE' + i + cells['id'].value.escape('xml') + '">' + '\n' +
+'        <mets:fileGrp USE="' + r.cells['fileSec/fileGrp@USE'].value.escape('xml') + '">' + '\n' +
+'            <mets:file MIMETYPE="' + r.cells['fileSec/fileGrp/file@MIMETYPE'].value.escape('xml') + '" ID="FILE' + i + '_' + cells['id'].value.escape('xml') + '">' + '\n' +
 '                <mets:FLocat xlink:href="' + r.cells['fileSec/fileGrp/file/Flocat@xlink:href'].value.escape('xml') + '" LOCTYPE="URL"/>' + '\n' +
 '            </mets:file>' + '\n' +
 '        </mets:fileGrp>' + '\n'
