@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Die Beschulung neuzugewanderter Schüler*innen hat in den letzten Jahren aufgrund steigender Zuwanderungszahlen an Bedeutung für das deutsche Schulsystem gewonnen. Oftmals werden diese Kinder und Jugendliche in eigens für sie eingerichtete Klassen, so genannten „internationalen Klassen“ (IK), Willkommensklassen, Sprachfördergruppen, etc., unterrichtet. Der vorliegende Artikel zeigt, wie in einer solchen Lerngruppe Biologieunterricht trotz geringer Sprachkenntnisse erfolgen kann und ist im Rahmen des Projekts „Biology for Everyone“ entstanden. Zudem lässt er sich auch im Regelunterricht als sprachsensibler Fachunterricht umsetzen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1516</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1516</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

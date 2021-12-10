@@ -24,9 +24,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Fingerhut, eine attraktive, auch bei uns heimische Schlagflurpflanze, ist nach seiner Einführung in Mittel- und Südamerika eine neue Partnerschaft mit Vögeln als Bestäuber eingegangen. Innerhalb weniger Jahrzehnte hat dies zu morphologischen Anpassungen geführt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>321</start>
+                                <end>322</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4871</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4871</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

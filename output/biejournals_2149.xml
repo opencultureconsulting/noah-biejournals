@@ -31,9 +31,29 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Autorinnen sondieren Möglichkeiten, wie das Thema &quot;Liebe am Arbeitplatz&quot; in der Supervision aufgegriffen werden kann. Dabei legen sie den Fokus auf Paarbeziehungen im Team und diskutieren die unterschiedlichen Blickwinkel der Betroffenen - das Paar, die Kolleginnen und Kollegen, die Leitung - anhand von zwei Praxisbeispielen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>93</start>
+                                <end>103</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2149</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2149</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

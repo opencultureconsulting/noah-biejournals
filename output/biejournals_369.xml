@@ -32,9 +32,29 @@
                         <extent unit="page">2005</extent>
                     </physicalDescription>
                     <abstract lang="ger">Kein Abstract vorhandenNo Abstract available</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>2006</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-369</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_369</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

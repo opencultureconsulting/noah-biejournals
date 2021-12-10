@@ -24,9 +24,35 @@
                         <extent unit="page">17</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die RÜTHERsche Moorkunde folgte dem klassischen Motto &quot;Lernen mit Kopf, Herz und Hand&quot;. Auf den Spuren Rüthers wird eine kurze Einführung in den Lebensraum Moor gegeben. Der Darstellung ausgewählter ökologischer Fakten zu Mooren folgt die kritische Diskussion von zwei Standard-Schulversuchen zu Torfmoosen; die Versuche können gravierende Fehlvorstellungen zum Wasserhaushalt von Moorökosystemen provozieren (&quot;Kopf&quot;). Es wird ein neuer Schulversuch präsentiert, der zur Vermeidung solcher Fehlvorstellungen den klassischen Weg der Erkenntnisgewinnung über Hypothesenbildung und quasi-experimentelle Überprüfung (&quot;Kopf&quot; und &quot;Hand&quot;) geht. Zu einer vollständigen biologiedidaktischen Moorkunde gehören auch ästhetische Aspekte (&quot;Herz&quot;). Anhand von Daten einer empirischen Untersuchung zur Bewertung von Moorökosystemen durch Schülerinnen und Schüler wird anschließend gezeigt, wie wichtig und aktuell die &quot;Bildung des Herzens&quot; in Zeiten der Bildung für Nachhaltige Entwicklung bleibt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>10</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 10</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>33</start>
+                                <end>50</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1692</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1692</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

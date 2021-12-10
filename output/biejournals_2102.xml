@@ -23,9 +23,29 @@
                         <extent unit="page">20</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die folgende Praxisreflexion beleuchtet die Spuren und Wirkungen von Macht in einer hierarchisch geprägten Organisation. Gezeigt wird das Gegeneinander und gleichzeitig das Zusammenspiel offizieller und informeller Macht. Wie kann sich Beratung in solch einem Feld bewegen? Und gibt es überhaupt Chancen für Veränderungen?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>44</start>
+                                <end>64</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2102</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2102</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

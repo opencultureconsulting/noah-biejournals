@@ -20,9 +20,25 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-15</dateIssued>
                     </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/fs-4527</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4527</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

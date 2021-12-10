@@ -24,9 +24,29 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Dies ist ein Praxisbericht, der aus langer persönlicher Erfahrung mit Management und Mitarbeitern von verschiedenen Krankenhäusern und Klinikverbünden entstanden ist. Er benennt einige Themen, die aus der Sicht der Autorirr eine neue Qualität von Beratungsbedarf im stationären Bereich erzeugt haben. Grund ist der Beschleunigungsprozess, der längst auch die Kliniken ergriffen hat. Strukturen verändern sich immer schneller, deren psychosoziale Folgen bleiben häufig unbearbeitet.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>102</start>
+                                <end>107</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2166</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2166</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

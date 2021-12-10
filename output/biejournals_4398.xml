@@ -27,9 +27,30 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
                     </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4398</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4398</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

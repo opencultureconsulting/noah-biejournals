@@ -1,0 +1,42 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:identifier",
+          "columnName": "dc:identifier",
+          "query": "10.",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:identifier",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "identifier@type=doi",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "identifier@type=doi",
+    "keyColumnName": "id",
+    "separator": ","
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "identifier@type=doi",
+    "expression": "grel:value.split(',')[0]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

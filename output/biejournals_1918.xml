@@ -20,9 +20,25 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2017-11-06</dateIssued>
                     </originInfo>
                     <abstract lang="eng">Read page 1-122 for free</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/seejph-1918</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1918</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

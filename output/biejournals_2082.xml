@@ -23,9 +23,29 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Bob Dylan und die Supervision</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>114</start>
+                                <end>115</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2082</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2082</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

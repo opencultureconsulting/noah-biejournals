@@ -40,9 +40,29 @@
                         <extent unit="page">6</extent>
                     </physicalDescription>
                     <abstract lang="ger">Seit 2012 ist es für Führungskräfte mit mindestens 10-jähriger Berufserfahrung möglich, nach Absolvieren einer Eingangsprüfung ein Masterstudium ohne vorgängigen akademischen Abschluss aufzunehmen. Eine Untersuchung dieser speziellen Gruppe nicht-traditionell Studierender an der Europäischen Fernhochschule Hamburg zeigt: Ein auf diese Zielgruppe zugeschnittenes „Mastereinstiegsprogramm“ (MEP) trägt dazu bei, dass die Öffnung der Hochschule Personen ohne vorhergehende akademische Graduierung zu einem Erfolg auf ihrem Weg des lebenslangen Lernens verhilft.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>48</start>
+                                <end>54</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zhwb-1149</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1149</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

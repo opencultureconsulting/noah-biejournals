@@ -24,9 +24,31 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-26</dateIssued>
                     </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Herausforderung Lehrer*innenbildung - Zeitschrift zur Konzeption, Gestaltung und Diskussion</title>
+                        </titleInfo>
+                        <identifier type="issn">2625-0675</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/hlz-4118</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4118</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

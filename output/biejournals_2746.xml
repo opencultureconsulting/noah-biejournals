@@ -55,9 +55,35 @@
                         <extent unit="page">0</extent>
                     </physicalDescription>
                     <abstract lang="eng">The 2nd issue of the International Journal of Conflict and Violence focuses on the subject of terrorism. Terrorism has long been a worrisome phenomenon with serious impacts on and implications for the affected societies. Now, since 9/11, fighting international terrorism has moved to the very top of the agenda of the international community, or at least its western members. The special ICJV issue is intended to foster a deeper understanding of this critically important topic.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>91</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-2746</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2746</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

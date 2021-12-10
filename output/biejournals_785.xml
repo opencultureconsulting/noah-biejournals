@@ -24,9 +24,29 @@
                         <extent unit="page">2014</extent>
                     </physicalDescription>
                     <abstract lang="eng">In 2016 there is an important anniversary coming up: The Beutelsbach consensus will have its 40th birthday. This consensus is of vital significance for the German dispute and discussion on teaching civics. Therefore we want to comment on how it was generated and how big its importance still is.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>2</start>
+                                <end>2016</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-785</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_785</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -28,9 +28,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-07</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Die Begriffe Homologie und Analogie werden im Unterricht im Zusammenhang mit Evolution und Ähnlichkeiten verschiedener Tier- oder Pflanzenarten erwähnt. Es bietet sich an, Homologien und Analogien am Beispiel sukkulenter Gewächse und ihrer Ökologie sowie Evolution zu erarbeiten, da viele dieser Beispiele auch leicht im Pflanzenhandel zu erhalten sind.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3382</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3382</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

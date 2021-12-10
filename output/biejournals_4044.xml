@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-23</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Leitendes Prinzip des Open-Access-Journals PraxisForschungLehrer*innenBildung (PFLB) ist die Orientierung an einer Forschungs- und Entwicklungslogik (FuE-Logik) und vermittelt hierüber die Praxisnähe bzw. der grundlegende Praxisbezug der in dieser Zeitschrift für Schul- und Professionsentwicklung dokumentierten Forschung. Das Spektrum reicht dabei – wie im Editorial zur ersten regulären Ausgabe des Journals angekündigt – von klassischer partizipativer Praxisforschung zu Schule und Unterricht bis hin zu lokal relevanter Evaluationsforschung aus anwendungsorientierter Perspektive. Im hiermit vorliegenden Editorial zur zweiten Ausgabe der Zeitschrift erläutern die Herausgeber*innen erneut entlang des Titels der Zeitschrift, wie in den ersten beiden Jahren nach der Entstehung des Journals dessen Intentionen und Grundgedanken realisiert werden konnten.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-4044</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4044</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

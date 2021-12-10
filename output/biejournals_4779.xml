@@ -24,9 +24,35 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Autor reflektiert seine Rolle als Hochschullehrer im Wissenschaftssystem der Universität. Lehren ist Fördern zum Lernen. Die Lehre an Hochschulen steht in einem engen Verhältnis zur Forschung. Durch Lehre wird Forschung öffentlich und kulturell wirksam. Deshalb sollte Lehre an Hochschulen gleichrangig mit – wenn nicht vorrangig zu – Forschung bewertet werden. Lehre betrifft entscheidend die Verantwortung der Wissenschaftler*innen und damit zentral die Wissenschaftsethik. Diesem Verständnis von Forschung und Lehre entspricht das Modell der Didaktischen Rekonstruktion.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>102</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4779</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4779</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

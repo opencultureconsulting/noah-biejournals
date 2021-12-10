@@ -23,9 +23,29 @@
                         <extent unit="page">2007</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Unterrichtsmodell von Rudolf Engelhardt „Parteipolitik in der Schule?“ stammt aus einer Zeit Anfang der 1960er Jahre, in der der Politikunterricht in (West-)Deutschland auf eine neue Grundlage gestellt wurde. Die ersten Nazischmierereien an Synagogen führten zu einem gemeinsamen Beschluss der für die Schulen zuständigen Minister der deutschen Bundesländer, die politische Bildung in den Schulen zu verstärken. Dazu wurde für die älteren Schüler ein eigenes Unterrichtsfach mit dem Namen „Gemeinschaftskunde“ oder „Sozialkunde“ eingeführt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>3</start>
+                                <end>2010</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-530</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_530</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

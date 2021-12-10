@@ -39,9 +39,29 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">Oliver König und Kar! Schattenhojer: Einführung in die Gruppendynamik. Heidelberg (Carl-Auer-Systeme Verlag) 2. Auflage 2007.Waltraud Kirschke: Erdbeeren vor dem Fenster. Assoziative Karten führen zu Kreativität und Kommunikation, Kirchzarten (Moritz Egetmeyer-OH Verlag) 2006.Renate Schwarz: Supervision in der Pflege. Leitfaden für Pflegemanager und -praktiker, Bem (Verlag Hans Huber) 2007.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>114</start>
+                                <end>117</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2003</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2003</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

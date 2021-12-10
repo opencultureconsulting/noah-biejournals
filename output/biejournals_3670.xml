@@ -23,9 +23,29 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Gespräch mit Johannes Wildt</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>9</start>
+                                <end>12</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zhwb-3670</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3670</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -23,9 +23,35 @@
                         <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="eng">Official crime data is generally limited by restrictions of quality and access. Rio de Janeiro in Brazil provides an example of the problems involved in measuring the homicide rate in a developing country, including the lack of proper crime reporting and the use of separate categories to reduce the number of homicides in official crime reports. Using longitudinal data, we can explain differences between the official homicide rate and alternative calculations that consider otherwise neglected categories. The interests of politicians, police, business, and citizens contribute to the difficulties in measuring and controlling homicides in the city.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 5</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>188</start>
+                                <end>199</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-2854</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2854</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

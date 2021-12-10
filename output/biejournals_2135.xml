@@ -23,9 +23,29 @@
                         <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Beitrag erinnert an die Anfänge der Supervision in Deutschland und an eine Generation von Supervisoren, die mit den Zuständen in der Pädagogik und Sozialen Arbeit nicht mehr einverstanden und deutlich am Aufbau einer demokratischen Gesellschaft interessiert waren. Von hier werden theoretische Fragen und Forschungslinien aufgezeigt, die für eine Theorie der Supervision genutzt werden können.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>99</start>
+                                <end>110</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2135</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2135</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

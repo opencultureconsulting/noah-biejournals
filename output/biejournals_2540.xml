@@ -53,9 +53,35 @@
                     </physicalDescription>
                     <abstract lang="ger">Im Artikel werden drei verschiedene Lernzugänge (kompetenzorientiertes, Ästhetisches und biographisches Lernen) vorgestellt und aus theoretischer Perspektive deren motivierender Gehalt für selbstreguliertes Lernen in Praxisphasen des Lehramtsstudiums herausgearbeitet. Als theoretische Grundlage dient die Selbstbestimmungstheorie als zentrale motivationale Theorie zur Erklärung selbstbestimmten Handelns.</abstract>
                     <abstract lang="eng">The article addresses how motivational learning approaches (competency-oriented, aesthetic and biographical) can contribute to the professionalisation of preservice teachers during a long-term internship. As a theoretical basis, the self-determination theory serves as a central motivational theory for explaining self-determined action.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Herausforderung Lehrer*innenbildung - Zeitschrift zur Konzeption, Gestaltung und Diskussion</title>
+                        </titleInfo>
+                        <identifier type="issn">2625-0675</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>18</start>
+                                <end>33</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/hlz-2540</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2540</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

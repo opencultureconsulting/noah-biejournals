@@ -24,9 +24,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Pflanzen verfügen über eine ausgeklügelte Strategie, um sich gegen pathogene Mikroorganismen zu verteidigen. Zunächst aktiviert die Erkennung des pathogenen Bakteriums Rezeptoren auf der Oberfläche der Pflanzenzelle, was zur Auslösung einer frühen, schnellen Verteidigungsantwort führt. Danach erkennen intrazelluläre Rezeptoren spezielle Proteine, die die Bakterien in die infizierten Pflanzenzellen schleusen, was eine zweite Verteidigungswelle auslöst. Während beide Reaktionen Gegenstand intensiver Forschung sind, zeigen neue Forschungsarbeiten, dass es sich dabei nicht um separate Reaktionen handelt, sondern dass sie sich gegenseitig verstärken.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>225</start>
+                                <end>226</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4632</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4632</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

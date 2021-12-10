@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-23</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Im Editorial zum zweiten Jahrgang der Zeitschrift Die Materialwerkstatt – Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht soll neben der Orientierungsfunktion für die Leser*innen durch einen Überblick über die Beiträge auch den beiden weiteren, weniger offensichtlichen Funktionen von Zeitschrifteneditorials, der Reflexions- und Legitimationsfunktion, entsprochen werden. Das Open-Access-Journal ist ein Publikationsort für den interdisziplinären und phasenübergreifenden Austausch von und über Materialien für Hochschullehre in der Lehrer*innenbildung, für die Fortbildung von Lehrpersonen und für den Schulunterricht und hat sich den Anspruch gesetzt, sich bei seiner Qualitätssicherung an einem breiten, pragmatischen Konzept der Evidenzbasierung zu orientieren. Im Editorial wird eruiert, inwiefern diesen Ansprüchen in den ersten beiden Jahrgängen entsprochen werden konnte.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-4042</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4042</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

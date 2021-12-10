@@ -31,9 +31,35 @@
                         <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="eng">Sorry, no abstract available.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>160</start>
+                                <end>162</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-2762</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2762</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -28,9 +28,25 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2014-01-02</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Vorwort zum Heft 41</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2232</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2232</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

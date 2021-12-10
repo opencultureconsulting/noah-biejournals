@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-06-27</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Das Open-Access-Journal „Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht“ ist ein Publikationsort für den interdisziplinären und phasenübergreifenden Austausch von und über Materialien für Hochschullehre in der Lehrer*innenbildung, der Fortbildung von Lehrpersonen und für den Schulunterricht. Im Editorial zur Erstausgabe der Zeitschrift werden die Entstehungsbedingungen im Kontext der „Qualitätsoffensive Lehrerbildung“, die vielfältigen Funktionen und die Qualitätssicherung der Zeitschrift beschrieben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-1536</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1536</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

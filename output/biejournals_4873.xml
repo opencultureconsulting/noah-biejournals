@@ -32,9 +32,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die aus Argentinien und anderen Regionen Südamerikas stammende, seit 2008 wiederholt über Blumenerde importierte, u. a. in Frankreich vorkommende räuberische Obama nungara konnte erstmals für Deutschland nachgewiesen werden. Ein im April 2021 in Regensburg (Bayern) gefundenes, ca. 4 cm langes Exemplar wurde kultiviert und untersucht. Die Landplanarie meidet stehendes Wasser; sie ernährt sich von kleinen Regenwürmern und Gehäuseschnecken. Einheimische Süßwasserplanarien werden von O. nungara gejagt und verschlungen, Mückenlarven und Kellerasseln hingegen ignoriert. Ob es zu einer Bioinvasion kommen wird, ist derzeit noch unbekannt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>324</start>
+                                <end>325</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4873</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4873</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

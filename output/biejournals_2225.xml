@@ -20,9 +20,25 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-12</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Eigentlich hatte ich schon längst angefangen, den Artikel zu verfassen, hatte eine, wie ich fand, ansprechende Einleitung geschrieben, wäre mir da nicht der gestrige Abend auf einer Hotelterrasse im Emsland dazwischen gekommen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2225</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2225</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

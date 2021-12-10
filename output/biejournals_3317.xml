@@ -80,9 +80,35 @@
                         <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">Dieser Beitrag führt in das Themenheft „Forschungsperspektiven auf Unterricht im Spannungsfeld von Kontingenz und Kontinuität“ ein, das die Bielefelder Frühjahrstagung 2019 dokumentiert. Neben einer Einführung in die Thematik und der beispielhaften Darstellung von Kontingenzphänomenen stellt der Beitrag kurz die Beiträge des Themenheftes entlang ihrer jeweiligen Forschungsperspektive auf Unterricht vor.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>5</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-3317</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3317</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

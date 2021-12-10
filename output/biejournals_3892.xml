@@ -64,9 +64,35 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">In diesem Themenheft werden Reflexions- und Feedbackformate zur kohärenten Ausgestaltung des Praxissemesters vorgestellt. Diese Formate wurden im vom BMBF geförderten Projekt „KoLBi – Kohärenz in der Lehrerbildung“ an der Bergischen Universität Wuppertal entwickelt, erprobt, erforscht und evaluiert. Die Darstellung der unterschiedlichen Formate ist so aufbereitet, dass diese hochschuldidaktisch eingesetzt werden können.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>6</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-3892</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3892</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

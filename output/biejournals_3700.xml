@@ -24,9 +24,29 @@
                         <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Unterschied zu den 1970er und 1980er Jahren kommtdem Konzept einer ‚gesellschaftlichen Verantwortung‘ fürdie Ausgestaltung der Hochschulweiterbildung im aktuellenhochschulpolitischen Diskurs keine herausgehobene Bedeutungmehr zu. Ganz im Gegenteil wird heute die individuelleVerantwortung für die Nutzung, aber auch die Finanzierungvon weiterbildenden Angeboten der Hochschulen betont. Damitist zugleich eine Engführung der Angebotsformen sowieder Zielgruppen verbunden.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>15</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zhwb-3700</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3700</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

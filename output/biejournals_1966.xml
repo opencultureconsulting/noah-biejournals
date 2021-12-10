@@ -24,9 +24,35 @@
                         <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird das Bielefelder Leitkonzept zum Forschenden Lernen im Praxissemester vorgestellt. Ausgehend von den Hintergründen, Rahmenbedingungen und Herausforderungen werden hierbei dessen Spezifika erläutert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>10</start>
+                                <end>17</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1966</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1966</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

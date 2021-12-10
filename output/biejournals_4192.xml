@@ -25,9 +25,35 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Konzept der Anerkennung findet seit einigen Jahren verstärkt Zugang in der bildungswissenschaftlichen Forschung und Theoriediskussion. Der vorliegende Beitrag möchte zu dieser Debatte analytische Systematisierungen liefern, die auf Arbeiten der finnischen Philosophen Heikki Ikäheimo und Arto Laitinen zurückgehen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>17</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4192</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4192</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -39,9 +39,35 @@
                         <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Kooperation in heterogenen Lehrgruppen stellt eine zentrale Herausforderung im Kontext der Entwicklung und Umsetzung schulischer Inklusion dar. Der Beitrag entfaltet ein praktikentheoretisches Verständnis von Kooperation als Aktivitätenchoregraphierung und stellt ethnographisches Material als Anlass zur Reflexion von Kooperationsverständnissen in Aus-, Weiter- und Fortbildungsveranstaltungen für Akteur*innen multiprofessioneller Teams zur Verfügung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>8</start>
+                                <end>16</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4141</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4141</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

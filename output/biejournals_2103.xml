@@ -31,9 +31,29 @@
                         <extent unit="page">13</extent>
                     </physicalDescription>
                     <abstract lang="ger">&quot;Die Idee der Universität&quot; - so Jaspers 1946 - verlangt Wahrheit und Freiheit. Modeme Hochschulen haben aber völlig andere Themen und Nöte: der Wettbewerb unter den Organisationen hat Einzug gehalten, die Ökonomisierung setzt Rahmen und strukturiert Inhalte, das Label &quot;Exzellenz&quot; produziert Stolz und Beschämung, die Eliteidee ist neu geboren und selbstverständlich: Beratung, auch in Form von Supervision, wird nachgefragt und gewährt Einblicke in einst eher verschlossene Räume.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>65</start>
+                                <end>78</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2103</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2103</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

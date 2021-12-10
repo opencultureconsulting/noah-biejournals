@@ -23,9 +23,35 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Gegensatz zur Mathematik liegt der Fokus von Forschung bei der Mathematikdidaktik nicht auf universeller Gültigkeit, sondern auf dem lernenden Individuum. Allgemeines theoretisches Wissen kann hierbei nicht einfach umgesetzt werden, sondern muss im Hinblick auf die jeweils konkret vorliegenden spezifischen Bedingungen angepasst und übertragen werden. Hierfür ist eine forschende Grundhaltung aufgrund der hohen subjektiven Situiertheit von Lernprozessen naheliegend und damit von zentraler Bedeutung für Theorie und Praxis der Mathematikdidaktik.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>94</start>
+                                <end>97</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1980</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1980</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

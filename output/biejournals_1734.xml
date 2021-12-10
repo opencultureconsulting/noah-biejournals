@@ -39,9 +39,35 @@
                         <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">Bewertungskompetenz von Schüler/innen zu fördern stellt Lehrkräfte der Biologie vor besondere Herausforderungen, da der naturwissenschaftliche Unterricht um eine ethische Dimension erweitert wird. Der vorliegende Beitrag gibt einen Überblick über Ansätze für die Unterrichtspraxis und macht einen Vorschlag, wie das Professionswissen angehender Biologielehrkräfte mithilfe der Ergebnisse biologiedidaktischer Forschung in der universitären Lehre gefördert werden kann. Damit richtet sich dieser Beitrag insbesondere an Kolleg/innen der Lehrkräftebildung, die bestrebt sind, Lehramtsstudierende während des Studiums auf den Umgang mit Bewertungskompetenz vorzubereiten.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>24</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 24</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>13</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1734</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1734</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

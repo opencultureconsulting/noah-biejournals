@@ -55,9 +55,35 @@
                         <extent unit="page">0</extent>
                     </physicalDescription>
                     <abstract lang="eng">This issue of the International Journal of Conflict and Violence focuses on the topic of anomie/anomia. We would like to thank the guest editors, Steven F. Messner (University of Albany, New York) and Helmut Thome (Martin Luther University, Halle-Wittenberg) for the very fruitful and productive collaboration, and the impressive collection of papers they have put together.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>159</start>
+                                <end>159</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-2761</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2761</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

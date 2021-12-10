@@ -31,9 +31,35 @@
                         <extent unit="page">21</extent>
                     </physicalDescription>
                     <abstract lang="eng">Two alternative hypotheses – referred to as opportunity- and stigma-based behavior – suggest that the magnitude of the link between unemployment and crime also depends on preexisting local crime levels. In order to analyze conjectured nonlinearities between both variables, we use quantile regressions applied to German district panel data. While both conventional OLS and quantile regressions confirm the positive link between unemployment and crime for property crimes, results for assault differ with respect to the method of estimation. Whereas conventional mean regressions do not show any significant effect (which would confirm the usual result found for violent crimes in the literature), quantile regression reveals that size and importance of the relationship are conditional on the crime rate. The partial effect is significantly positive for moderately low and median quantiles of local assault rates.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 8</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>262</start>
+                                <end>283</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-3059</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3059</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

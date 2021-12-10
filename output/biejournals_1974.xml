@@ -23,9 +23,35 @@
                         <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der vorliegende Artikel setzt die Überlegungen von Hahn, Meinholz, Störtländer und Thomas aus dem Jahre 2017 fort, indem auf Erfahrungen aus der Planung, Durchführung und Reflexion von zweisemestrigen Lehrveranstaltungen im Unterrichtsfach Pädagogik zurückgegriffen wird. Hierbei wird insbesondere hinterfragt, inwieweit es im universitären Kontext gelingen kann, einen originären, domänenspezifischen Zugang zur Vermittlung pädagogischen Wissens in der Praxis des Pädagogikunterrichts zu bestimmen. Es wird dafür plädiert, den Stellenwert des Faches in der gesellschaftswissenschaftlichen Fächergruppe genauer in den Blick zu nehmen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>62</start>
+                                <end>66</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1974</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1974</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

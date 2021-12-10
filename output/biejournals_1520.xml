@@ -29,9 +29,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
                     </originInfo>
                     <abstract lang="ger">In Zeiten, in denen bilingualer Unterricht immer mehr an Bedeutung gewinnt und aus der heutigen Schullandschaft kaum noch weg zu denken ist, ist es dennoch nicht für jede Schule möglich, ein institutionalisiertes bilinguales Lehrangebot zu schaffen. Aus diesem Grund sind bilinguale Module auf dem Vormarsch, was bedeutet, dass vereinzelt ganze Unterrichtseinheiten in einer Fremdsprache unterrichtet werden, sofern der Lehrer sich dazu in der Lage sieht. Um diesen Prozess zu unterstützen, wird im vorliegenden Beitrag ein Vorhaben zur Enzymatik vorgestellt – geeignet für Schüler*innen der EF, die bereits gute Sprachfähigkeiten aufweisen und dadurch eine Auflockerung ihres Unterrichtsalltags erleben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1520</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1520</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -24,9 +24,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">In einer digitalen Auswahlrunde qualifizierten sich sechs Schülerinnen und Schüler für die beiden deutschen Nationalteams. Leider dürfen sie aufgrund der Pandemieregeln beim internationalen Wettbewerb in Ungarn nicht an den Start gehen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>327</start>
+                                <end>328</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4875</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4875</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -23,9 +23,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Endrunde der Internationalen BiologieOlympiade 2020, die eigentlich mit Schülerinnen und Schülern und ihren Betreuerteams aus mehr als 75 Ländern im japanischen Nagasaki stattfinden sollte, konnte wie viele andere Veranstaltungen aufgrund der Reisebeschränkungen durch COVID-19 nicht wie geplant durchgeführt werden. Stattdessen hatten die japanischen Organisatoren eine „IBO Challenge 2020“ vorbereitet, an der das deutsche Team mit vier Medaillen und einem Champion Award erfolgreich teilnahm.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>127</start>
+                                <end>128</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4412</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4412</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

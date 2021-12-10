@@ -23,9 +23,29 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">Ein Bericht von der Mitgliederversammlung der DGSv 2018 am 28. und 29.9.2018Â im Haus der Kirche in KasselÂ </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>83</start>
+                                <end>86</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2316</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2316</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

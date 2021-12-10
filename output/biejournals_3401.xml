@@ -63,9 +63,29 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Vor dem Hintergrund der Qualitätsoffensive Lehrerbildung wurden an der Tübingen School of Education (TüSE) im Teilprojekt „Lehrerfort- und -weiterbildung“ bedarfsgerechte und wissenschaftlich fundierte Fort- und Weiterbildungsangebote für Lehrkräfte in Baden-Württemberg pilotiert. Auf dieser Basis und orientiert an erwachsenenpädagogischen Prinzipien wurden Leitlinien für die dritte Phase der Lehrerbildung an Universitäten entwickelt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>58</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zhwb-3401</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3401</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

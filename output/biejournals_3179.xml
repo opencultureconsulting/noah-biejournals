@@ -25,9 +25,35 @@
                     <physicalDescription>
                         <extent unit="page">1</extent>
                     </physicalDescription>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>18</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 18</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>117</start>
+                                <end>118</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-3179</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3179</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

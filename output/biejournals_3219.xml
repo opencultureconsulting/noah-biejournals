@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Die Große Achatschnecke Achatina fulica kann nutzbringend in der Schule gehalten und für vielfältige fachgemäße Arbeitsweisen eingesetzt werden. Sie erlaubt die originale Begegnung mit einem beeindruckenden Vertreter der Mollusken, eines der größten Stämme des Tierreichs. Es werden Hilfestellungen bei Planung, Organisation und Umsetzung der Schneckenhaltung gegeben. Die Arbeitsmaterialien unterstützen die Schülerinnen und Schüler bei der Einrichtung und Pflege des Terrariums, bei der Beschreibung des Körperbaus sowie der Dokumentation von Langzeitbeobachtungen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3219</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3219</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

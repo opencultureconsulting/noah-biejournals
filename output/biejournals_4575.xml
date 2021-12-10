@@ -28,9 +28,34 @@
                     </physicalDescription>
                     <abstract lang="ger">Die Meere mit ihren großen Oberflächen und Tiefen haben ihren Bewohnern im Laufe der Evolution zu einer erstaunlichen Fülle spezifischer Funktionsmorphologien verholfen. Das lässt sich an den Beispielen der harten Haifischzähne, den Wasserwiderstand mindernden Seeigelstacheln, kalottenförmigen Papageifischzähnen, den Angst einflößenden giftigen Seeschlangen und den extrem tief tauchenden Walen eindrucksvoll aufzeigen und kann zu entsprechenden technischen Anwendungen anregen.</abstract>
                     <abstract lang="eng">During the course of evolution, conditions in the wide and deep oceans have led to an amazing diversity of functional morphologies in living organisms. That can be impressively demonstrated with some examples: the hard teeth of sharks, the spines of sea urchins which so efficiently reduce water resistance, the tough teeth of Parrot fish with their dome-shaped caps, highly toxic frightening sea snakes and extremely deep diving whales – all of these animals displaying structures and processes that may trigger technical  applications.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>281</start>
+                                <end>287</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4575</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4575</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

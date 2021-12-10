@@ -23,9 +23,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Paris, die Hauptstadt der Französischen Republik, Sitz des Staatspräsidenten, der Regierung und der beiden Kammern des französischen Parlaments mit über zwei Millionen Einwohnern hat nicht nur für Kunstinteressierte kulturhistorisch einiges zu bieten, sonderrn eignet sich auch für eine Exkursion mit biologischem bzw. naturhistorischem Hintergrund. Von den zahlreichen Entdeckungsmöglichkeiten seien nachfolgend zwei Beispiele herausgegriffen, die einen „Kurztripp“ an die Seine bei jeder Witterung zu einem Naturerlebnis machen können.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>25</start>
+                                <end>26</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4161</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4161</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

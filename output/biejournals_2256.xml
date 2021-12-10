@@ -23,9 +23,29 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Vorwort zum Heft 48 &quot;Fallrekonstruktion als gelebte Praxis einer reflexiven Supervision&quot;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>2</start>
+                                <end>3</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2256</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2256</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

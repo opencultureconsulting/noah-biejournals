@@ -28,9 +28,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-02</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Dieser Artikel soll eine Möglichkeit aufzeigen in einer Unterrichtsreihe zum Thema Aufbau der DNA ein einleitendes Experiment durchzuführen. Bei dem Experiment kann nur mithilfe von wenigen Haushaltsmitteln DNA aus Gemüse extrahiert und sichtbar gemacht werden.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1432</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1432</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

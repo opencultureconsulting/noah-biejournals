@@ -23,9 +23,29 @@
                         <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die diesjährige Mitgliederversammlung der DGSv stand unter dem Titel &quot;Wir zerreißen uns. Zerreißt es die Gesellschaft?&quot;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>81</start>
+                                <end>88</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2198</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2198</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -31,9 +31,35 @@
                         <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Bielefelder Geschichtsdidaktik versteht das Forschende Lernen im Rahmen der Ausbildung von Lehramtsstudierenden als ein Mittel, die Umsetzbarkeit theoretischer Konzepte in der Praxis empirisch zu überprüfen und daraus Konsequenzen für die eigene Unterrichtsplanung und Kompetenzentwicklung abzuleiten. Der folgende Beitrag informiert über Grundlegung, Ziele, Methoden und fachdidaktische Reflexion des Bielefelder Konzepts im Fach Geschichte.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>78</start>
+                                <end>80</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1977</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1977</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

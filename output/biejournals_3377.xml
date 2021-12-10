@@ -45,9 +45,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Mit der Buchreihe „Neue Wege in die Biologie“ gelingt es Ulrich Kattmann auf besondere Weiseunterschiedliche fachspezifische und allgemeine Herausforderungen an moderne Lehrmaterialienvor einem fachdidaktischen Hintergrund mittels innovativer Ansätze zu lösen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3377</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3377</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

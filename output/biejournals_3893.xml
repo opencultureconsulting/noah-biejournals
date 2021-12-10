@@ -23,9 +23,35 @@
                         <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das vorgestellte Lehrkonzept wird im Rahmen der bildungswissenschaftlichen Praxissemestervorbereitung durchgeführt und steht dem Lehrkonzept zur informationsgestützten Auseinandersetzung mit pädagogischen Situationen inhaltlich voran. Der Schwerpunkt liegt auf der Thematisierung individueller Voraussetzungen der Studierenden; darunter fallen persönliche Ziele für das Praxissemester, Vorstellungen zu Zielen des Praxissemesters allgemein, Vorstellungen zur Beziehung zwischen Theorie und Praxis und zur eigenen Professionalisierung sowie Einschätzungen zur Relevanz und zum Nutzen von Theorien. Grundlage dafür bildet die Annahme, dass diese Faktoren die Auseinandersetzung mit wissenschaftlichem Wissen und die Bearbeitung der Anforderungen im Praxissemester beeinflussen und moderieren. Das Lehrkonzept umfasst mehrere Phasen der Reflexion dieser Faktoren und entsprechende thematisch ausgerichtete Kurzvorträge, deren beständige Relationierung die Bereitschaft zur Auseinandersetzung mit und zur Nutzung von wissenschaftlichem Wissen erhöhen soll.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>15</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-3893</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3893</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

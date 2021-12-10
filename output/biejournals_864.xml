@@ -24,9 +24,35 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="eng">Eribon, Didier. 2009. Retour à Reims. Une théorie du sujet, Paris: Librairie Arthème Fayard.Louis, Édouard. 2014. En finir avec Eddy Bellegueule, Paris, Éditions du Seuil.Eribon, Didier. 2016. Rückkehr nach Reims. Berlin, Suhrkamp Verlag.Louis, Édouard. 2016. Das Ende von Eddy, Frankfurt am Main, S. Fischer Verlag.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>17</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 17</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>91</start>
+                                <end>94</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-864</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_864</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

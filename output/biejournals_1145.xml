@@ -30,9 +30,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-20</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Dieser Beitrag thematisiert die Biologie und die Schutzbedürftigkeit der Störe (Acipenseridae), einer urzeitlichen Familie der Knochenfische, deren Vertreter noch vor kurzer Zeit in unseren Flüssen weit verbreitet waren. Es werden Unterrichtsbezüge für die 6. bis 12. Jahrgangsstufe vorgestellt und zu den Gebieten: Ökologie, der Mensch als Umweltfaktor – Biodiversität und Wirbeltiere in verschiedenen Lebensräumen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1145</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1145</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-03</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Das Arbeiten mit lebenden Stabschrecken im Sachunterricht der Grundschule bietet Schülerinnen und Schülern die Möglichkeit, sich intensiv mit Eigenschaften von Insekten auseinanderzusetzen. Mithilfe dieser Tiere kann zugleich das Prinzip bionischer Erfindungen verdeutlicht und somit dem vielperspektivischen Charakter des Sachunterrichts entsprochen werden. In diesem Beitrag werden neben der Nennung des Anlasses und der Ziele, einer Kurzdarstellung des benötigten Fachwissens zum Thema Insekten und Bionik ausführliche Informationen und Tipps zur achtstündigen Unterrichtsreihe gegeben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3138</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3138</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

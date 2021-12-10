@@ -31,9 +31,35 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="eng">When the politician Roman Haider of the party Freiheitliche Partei Österreichs (FPÖ – Freedom Party of Austria) caused the interruption of a lecture about political extremism in an Austrian school in spring 2017, a heated debate erupted over the place of politics in school education. While Haider accused the lecturer of political propaganda, teachers, students and political opponents were upset about this seeming act of censorship. The controversy raises important questions over the aims and principles of civic education, which will continue to engage teachers and educationalists. </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>17</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 17</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>71</start>
+                                <end>76</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-861</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_861</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

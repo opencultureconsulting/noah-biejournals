@@ -55,9 +55,35 @@
                         <extent unit="page">0</extent>
                     </physicalDescription>
                     <abstract lang="eng">This time the focus section of the International Journal of Conflict and Violence deals with the topic of ethnic and racial violence and conflict. We are grateful to our guest editors Robert D. Crutchfield (University of Washington, United States) and Werner Bergmann (TU Berlin, Germany) for putting together an appealing collection of contributions addressing this important field. As usual, our Open Section reflects the enormous breadth of our field, with articles on the theories of Clausewitz and the media’s treatment of rape incidents in kibbutzim.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>145</start>
+                                <end>145</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-2781</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2781</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

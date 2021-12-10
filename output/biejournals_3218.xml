@@ -29,9 +29,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-03</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Viele Insektizide wirken neurotoxisch auf Pflanzenschädlinge. Dies kann in einem Schulexperiment mit einem haushaltsüblichen Pflanzenschutzmittel und Wasserflöhen als Modellorganismen untersucht werden. Das Neurotoxin bewirkt eine Verminderung der Herzschlagfrequenz der Tiere, wobei dieser Effekt reversibel ist. Das Experiment eignet sich für mehrere Inhaltsfelder der Sekundarstufen I und II.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3218</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3218</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

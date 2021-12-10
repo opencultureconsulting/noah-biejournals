@@ -19,9 +19,31 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2011-12-31</dateIssued>
                     </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>InterDisciplines. Journal of History and Sociology</title>
+                        </titleInfo>
+                        <identifier type="issn">2191-6721</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/indi-950</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_950</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

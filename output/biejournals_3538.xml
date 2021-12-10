@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-06-29</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Am Beispiel der Saccharase können einfache Schulexperimente zum Inhaltsfeld Energiestoffwechsel durchgeführt werden. Das Enzym, auch Invertase genannt, ist in Honig enthalten und katalysiert die Spaltung von Saccharose in Fruktose und Glukose. Unter geeigneten Versuchsbedingungen kann letztere mittels eines herkömmlichen Glukometers gemessen werden und ist ein Maß für die Saccharaseaktivität. Es werden Experimente zu verschiedenen Faktoren, die diese beeinflussen, vorgestellt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3538</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3538</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

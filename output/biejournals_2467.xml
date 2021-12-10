@@ -46,9 +46,35 @@
                     </physicalDescription>
                     <abstract lang="ger">Das Exkursionsprogramm „International Perspectives“, das an der Universität Bielefeld im Rahmen von BiProfessional innerhalb der Qualitätsoffensive Lehrerbildung durchgeführt wird, soll Lehramtsstudierenden durch Exkursionen in europäische Länder Einblicke in internationale Bildungs-systeme ermöglichen und sie dazu anregen, weitere studienbezogene Auslandsaufenthalte während des Lehramtsstudiums zu absolvieren. Auf diese Weise soll heterogenitätssensible und internationale Lehrer_innenbildung gefördert werden. Der folgende Beitrag skizziert das Exkursionsprogramm „International Perspectives“ und präsentiert erste Erfahrungen der Exkursionsreisen nach Großbritannien und Dänemark.</abstract>
                     <abstract lang="eng">The “International Perspectives”-program, which is part of BiProfessional at Bielefeld University and the “Initiative for Excellence in Teacher Education”, offers annual excursions to different European countries for teacher training students in order to learn about different educational systems and to en-courage further international experiences. By doing so, it aims to promote hetero-geneity and internationality in teacher education. The following article describes the “International Perspectives”-program and presents first experiences of the excursions to Great Britain and Denmark.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Herausforderung Lehrer*innenbildung - Zeitschrift zur Konzeption, Gestaltung und Diskussion</title>
+                        </titleInfo>
+                        <identifier type="issn">2625-0675</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>102</start>
+                                <end>122</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/hlz-2467</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2467</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

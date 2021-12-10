@@ -24,9 +24,29 @@
                     </physicalDescription>
                     <abstract lang="ger">Walk of Fem*
 Lesekreis zu feministischer Technikkritik</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>IZGOnZeit. Onlinezeitschrift des Interdisziplinären Zentrums für Geschlechterforschung (IZG)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2045</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>102</start>
+                                <end>103</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/izgonzeit-1369</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1369</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -21,9 +21,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-01</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Der Beitrag beschreibt einen Unterrichtsvorschlag in dem Schülerinnen und Schüler über die Präparation, Konservierung und Vermessung von Knochen modellhaft erfahren wie Längenschätzungen von Tierarten anhand einzelner Knochen abgegeben werden können.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1208</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1208</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

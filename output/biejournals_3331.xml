@@ -63,9 +63,35 @@
                         <extent unit="page">23</extent>
                     </physicalDescription>
                     <abstract lang="ger">Vorgestellt wird ein Unterrichtsentwurf für Schülerinnen und Schüler der Jahrgangsstufe 10-12. Anhand einer Dilemmasituation zu E-Zigaretten soll die Bewertungskompetenz gefördert und die Jugendlichen gegenüber dem Thema sensibilisiert werden.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>24</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 24</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>84</start>
+                                <end>107</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-3331</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3331</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

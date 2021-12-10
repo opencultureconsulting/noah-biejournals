@@ -36,9 +36,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-19</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Der Wald bietet sich als kostengünstiges und meist relativ einfach zu erreichendes Exkursionsziel mit Schülerinnen und Schülern an. Die Funktionen des Waldes und seiner Bewohner können dabei auf vielfältige Weise thematisiert werden. Der Beitrag zeigt, wie Schülerinnen und Schüler aktiv den Wald entdecken können, indem sie in der Laubstreu nach Tieren suchen und die Bedeutung dieser Tiere als Destruenten für das gesamte Ökosystem kennenlernen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1121</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1121</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

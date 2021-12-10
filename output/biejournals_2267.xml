@@ -23,9 +23,29 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Vorwort zum Heft 47: Fünf Jahre Master Supervision und Beratung an der Universität Bielefeld - Sozialwissenschaftliche Impulse für die Supervision</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>2</start>
+                                <end>3</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2267</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2267</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

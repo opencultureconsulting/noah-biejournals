@@ -24,9 +24,29 @@
                         <extent unit="page">2011</extent>
                     </physicalDescription>
                     <abstract lang="eng">On May 26–28, 2015, the University of Helsinki acted as the host for the fifth Nordic Conference on Subject Didactics. For historical reasons the Nordic societies have in a global view remarkably intimate contacts with each other. Short distance, affinities of cultural and political traditions, and the density of social networks between them since centuries back in time have conduced to vibrant Nordic collaboration in the number of fields ranging from politics and economy to science and education. This is visible also in the governmental and non-governmental networks in educational sciences. A recent example of this collaboration are the Nordic conferences on subject didactics, the first of which took place in Oslo, in 2007. The conferences are held every second year, and the previous hosts have been Middelfart (Denmark, 2009), Karlstad (Sweden, 2011), and Trondheim (Norway, 2013).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>4</start>
+                                <end>2015</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-770</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_770</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -31,9 +31,29 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Wir stellen hier anhand eines Beispiels eine Methode vor, die dem Soziodrama entlehnt ist, die Organisation fokussieren soll, dabei die (erzählten) Elemente der Organisation miteinander in Beziehung setzt und diese in phantasierte Dialoge umsetzt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>54</start>
+                                <end>59</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2250</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2250</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

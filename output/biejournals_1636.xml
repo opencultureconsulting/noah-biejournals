@@ -39,9 +39,35 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Erwerb von Kompetenzen naturwissenschaftlicher Erkenntnisgewinnung und des Wissenschaftlichen Denkens ist ein zentrales Bildungsziel des naturwissenschaftlichen Unterrichts. Zur Förderung wird das Forschende Lernen empfohlen, jedoch bedarf dieses Unterrichtsprinzip der adäquaten Unterstützung durch die Lehrkraft. In diesem Beitrag wird eine Studie zur Überprüfung der Wirksamkeit von diskursiv-reflexiven Szenarien (Concept Cartoons) im Rahmen des Forschenden Lernens vorgestellt. Es zeigt sich, dass das Forschende Lernen mit Concept Cartoons im Vergleich zu einer Vergleichsgruppe ohne diese Lernunterstützung zu größeren Lernzuwächsen im Wissenschaftlichen Denken, dem Methodenwissen und dem Fachwissen führt. Außerdem kann die kognitive Belastung durch Verwendung der Concept Cartoons reduziert werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 20</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>33</start>
+                                <end>43</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1636</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1636</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -20,9 +20,30 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Schon lange suchen Forscher nach Alternativen zu Zucker, um Speisen und Getränke mit wenig Kalorien zu süßen. Eine Beere aus Westafrika,die kaum größer ist als eine Olive, enthält das Glykoprotein Miraculin. Dessen Besonderheit ist es, die Struktur von Geschmacksezeptoren zu verändern, so dass saure Speisen süß wahrgenommen werden.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4876</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4876</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

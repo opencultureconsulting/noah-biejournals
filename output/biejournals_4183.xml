@@ -29,9 +29,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Das Schülerlabor teutolab-biotechnologie hat in Zeiten der Covid-19-Pandemie ein umfassendes Online-Angebot entwickelt. Der Online-Kurs „Evolution von Coronaviren“ richtet sich an Q2-Biologiekurse der gymnasialen Oberstufe. Er behandelt genetische Untersuchungen (Analyse von Genmutationen), phylogenetische Untersuchungen (Erstellung von Stammbäumen) sowie die Diagnostik von SARS-CoV-2 und wird von Mitarbeiter*innen des teutolab-biotechnologie via Zoom durchgeführt.“</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/bupraktisch-4183</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4183</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

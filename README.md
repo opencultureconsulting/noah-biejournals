@@ -30,52 +30,52 @@ Generell:
 
 MODS:
 
-* [titleInfo@lang](config/04-titleInfo.json): `dc:title@xml:lang` mit Mapping auf iso693-2b
-* [titleInfo@type](config/04-titleInfo.json): `translated` wenn `dc:language` = `deu` und `dc:title@xml:lang` nicht `de-DE`
-* [titleInfo/title](config/04-titleInfo.json): 1. Teil von `dc:title` vor Trennzeichen `: `, Artikel am Anfang entfernen und Doppelpunkt am Ende entfernen
-* [titleInfo/nonsort](config/04-titleInfo.json): Artikel am Anfang von `dc:title`
-* [titleInfo/subTitle](config/04-titleInfo.json): 2. Teil von `dc:title` nach Trennzeichen `: ` und Doppelpunkt am Ende entfernen
+* [titleInfo@lang](config/04-titleInfo.json): **dc:title@xml:lang** mit Mapping auf iso693-2b
+* [titleInfo@type](config/04-titleInfo.json): `translated` wenn **dc:language** = `deu` und **dc:title@xml:lang** nicht `de-DE`
+* [titleInfo/title](config/04-titleInfo.json): 1. Teil von **dc:title** vor Trennzeichen `: `, Artikel am Anfang entfernen und Doppelpunkt am Ende entfernen
+* [titleInfo/nonsort](config/04-titleInfo.json): Artikel am Anfang von **dc:title**
+* [titleInfo/subTitle](config/04-titleInfo.json): 2. Teil von **dc:title** nach Trennzeichen `: ` und Doppelpunkt am Ende entfernen
 * [name@type](config/04-name.json): `personal` (wenn name/displayForm vorhanden)
-* [name@authority=gnd@valueURI: -
-* [name/displayForm](config/04-name.json): `dc:creator` wenn es `,` enthält
+* name@authority=gnd@valueURI: -
+* [name/displayForm](config/04-name.json): **dc:creator** wenn es `,` enthält
   * 2004, 2018, 2034, 2035, 2084: `-, -` entfernen
   * 3163: `Natalia Garcia Cervantes` ändern in `Cervantes, Natalia Garcia`
   * 3479: `Elke A. Gornik` ändern in `Gornik, Elke A.`
-* [name/namePart@type=family](config/04-name.json): 1. Teil von `name/displayForm` vor Trennzeichen `, `
-* [name/namePart@type=given](config/04-name.json): 2. Teil von `name/displayForm` nach Trennzeichen `, `
-* [name/nameIdentifier@type=orcid: -
-* [name/role/roleTerm@authority=marcrelator](config/04-name.json): `ctb` (wenn name/displayform vorhanden)
+* [name/namePart@type=family](config/04-name.json): 1. Teil von **name/displayForm** vor Trennzeichen `, `
+* [name/namePart@type=given](config/04-name.json): 2. Teil von **name/displayForm** nach Trennzeichen `, `
+* name/nameIdentifier@type=orcid: -
+* [name/role/roleTerm@authority=marcrelator](config/04-name.json): `ctb` (wenn **name/displayform** vorhanden)
 * [typeOfResource](config/template.txt): `text`
 * [genre@authority=dini](config/04-genre.json): `article`
-* [originInfo/dateIssued](config/04-originInfo.json): `dc:date`
-* [originInfo/dateIssued@keyDate](config/04-originInfo.json): `yes` (wenn `dc:date` vorhanden)
+* [originInfo/dateIssued](config/04-originInfo.json): **dc:date**
+* [originInfo/dateIssued@keyDate](config/04-originInfo.json): `yes` (wenn **dc:date** vorhanden)
 * originInfo/dateOther: -
 * originInfo/dateOther@keyDate: -
-* [language/languageTerm@authority=iso639-2b](config/04-language.json): `dc:language` mit Mapping auf iso693-2b
-* [physicalDescription/extent@unit=page](config/04-physicalDescription.json): Seitenzahlen extrahieren aus Literaturangabe in `dc:source` und Differenz berechnen
-* [abstract](config/04-abstract.json): `dc:description`
-* [abstract@lang](config/04-abstract.json): `dc:description@xml:lang` mit Mapping auf iso693-2b
+* [language/languageTerm@authority=iso639-2b](config/04-language.json): **dc:language** mit Mapping auf iso693-2b
+* [physicalDescription/extent@unit=page](config/04-physicalDescription.json): Seitenzahlen extrahieren aus Literaturangabe in **dc:source** und Differenz berechnen
+* [abstract](config/04-abstract.json): **dc:description**
+* [abstract@lang](config/04-abstract.json): **dc:description@xml:lang** mit Mapping auf iso693-2b
 * note: -
 * note@type: -
-* subject@lang: 
-* subject/topic: 
+* [subject@lang](config/04-subject.json): **dc:subject@xml:lang** mit Mapping auf iso693-2b
+* [subject/topic](config/04-subject.json): **dc:subject** mit Trennzeichen `,` sowie `;` aufteilen
 * classification@authority=ddc: -
 * classification@authority=ioo@displayLabel: -
-* relatedItem@type: `host` (wenn relatedItem/titleInfo/title vorhanden)
-* relatedItem/titleInfo/title: 
-* relatedItem/originInfo/publisher: (nur der erste Wert)
-* relatedItem/identifier@type=issn: (nur der erste Wert, ohne Bindestrich)
-* relatedItem/part/detail@type=volume/number: 
-* relatedItem/part/detail@type=issue/number: 
-* relatedItem/part/extent@unit=page/start: 
-* relatedItem/part/extent@unit=page/end: 
+* [relatedItem@type](config/04-relatedItem.json): `host` (wenn **relatedItem/titleInfo/title** vorhanden)
+* [relatedItem/titleInfo/title](config/04-relatedItem.json): 1. Teil von **dc:source** mit Trennzeichen `;` (mit Filter **dc:source@xml:lang** auf `de-DE`)
+* [relatedItem/originInfo/publisher](config/04-relatedItem.json): **dc:publisher**
+* [relatedItem/identifier@type=issn](config/04-relatedItem.json): Werte aus **dc:source** im Format 1234-5678 und davon nur den ersten Wert und Bindestrich entfernen
+* [relatedItem/part/detail@type=volume/number](config/04-relatedItem.json): 2. Teil von **dc:source** mit Trennzeichen `;` und daraus Nummer die auf `Bd. ` folgt (mit Filter **dc:source@xml:lang** auf `de-DE`)
+* [relatedItem/part/detail@type=issue/number](config/04-relatedItem.json): 2. Teil von **dc:source** mit Trennzeichen `;` und daraus Nummer die auf `Nr. ` folgt (mit Filter **dc:source@xml:lang** auf `de-DE`)
+* [relatedItem/part/extent@unit=page/start](config/04-relatedItem.json): Letzter Teil von **dc:source** mit Trennzeichen `;` und daraus Teil 1 (Nummer) mit Trennzeichen `-` (mit Filter **dc:source@xml:lang** auf `de-DE`)
+* [relatedItem/part/extent@unit=page/end](config/04-relatedItem.json):  Letzter Teil von **dc:source** mit Trennzeichen `;` und daraus Teil 2 (Nummer) mit Trennzeichen `-` (mit Filter **dc:source@xml:lang** auf `de-DE`)
 * identifier@type=urn: -
-* identifier@type=doi: 
-* identifier@type=sys: 
-* accessCondition: 
-* accessCondition@xlink:href: 
-* extension/vl:doctype: `oaArticle`
-* recordInfo/recordIdentifier: wie id (s.o.)
+* [identifier@type=doi](config/04-identifier.json): DOIs (beginnend mit 10.) aus **dc:identifier**
+* identifier@type=sys: TODO
+* accessCondition: TODO
+* accessCondition@xlink:href: TODO
+* [extension/vl:doctype](config/04-extension.json): `oaArticle`
+* recordInfo/recordIdentifier: wie **id** (s.o.), Umsetzung direkt [im Template](config/template.txt)
 
 METS:
 

@@ -24,9 +24,35 @@
                         <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="ger">Dieser Teil entfällt bei einer Buchrezension</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 20</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>30</start>
+                                <end>32</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1638</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1638</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -28,9 +28,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-08</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Das vorliegende Unterrichtskonzept soll Schüler*innen der Sekundarstufe I Einsichten in die Lebensweise ausgewählter Wildbienen eröffnen. Die Lernenden befassen sich zunächst mit der bestäubungsbiologischen Bedeutung der Tiere. Dann lernen sie die Lebensformen von sechs exemplarischen Bienenarten bzw. –gattungen kennen. In einem weiteren Schritt befassen sie sich mit dem Lebenszyklus der Gehörnten Mauerbiene (Osmia cornuta). Zuletzt stellen sie eine eigene Wildbienen-Nisthilfe her.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/bupraktisch-4018</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4018</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

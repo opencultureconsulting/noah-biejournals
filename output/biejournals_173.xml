@@ -64,9 +64,29 @@
                         <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Projekt „Weiterbildungscampus Magdeburg“ hat es sich zur Aufgabe gemacht, bedarfsgerechte und nachfrageorientierte wissenschaftliche Weiterbildungsstudiengänge anhand der fünf forschungsleitenden Fragestellungen Studierfähigkeit, Teilnehmergewinnung, Curriculaübertragung, Formatentwicklung und Organisationsentwicklung zu er- und beforschen sowie die Erkenntnisse für die (Weiter-)Entwicklung dieser wissenschaftlichen Weiterbildungsangebote zu nutzen. Der Artikel beschreibt die Projektarchitektur unter Einbezug der aktuellen Forschungsarbeiten im Projekt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>32</start>
+                                <end>40</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zhwb-173</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_173</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

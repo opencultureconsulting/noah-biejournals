@@ -56,9 +56,35 @@
                         <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Diese Unterrichtseinheit beinhaltet eine Einführung in die Grundprinzipien des naturwissenschaftlichen Arbeitens und der naturwissenschaftlichen Erkenntnisgewinnung. Die Vertiefung der Inhalte erfolgt an einem historischen Beispiel und in einem Experiment zum Fadenpendel, bei dem die Schritte des Experimentierens erarbeitet und angewendet werden sollen und so der hypothetisch-deduktive Erkenntnisgang vertieft werden soll. Die Auswertung und Interpretation der Ergebnisse bietet eine direkte Anschlussmöglichkeit für das Thema „Energie und Arbeit“ einer potentiellen nächsten Unterrichtseinheit.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>28</start>
+                                <end>39</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-3302</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3302</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

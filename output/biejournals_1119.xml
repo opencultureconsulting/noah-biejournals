@@ -53,9 +53,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-18</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Next Generation Sequencing (NGS) ermöglicht als Hochdurchsatzverfahren die umfassende Analyse des menschlichen Genoms. Entwicklung und diagnostischer Einsatz des NGS sind aber mit bioinformatischen und ethischen Herausforderungen verbunden. Der Beitrag beschreibt die Methodik, erläutert Chancen und Herausforderungen und zeigt anhand der nicht-invasiven pränatalen Testung (NIPT) und eines klinischen Fallbeispiels aktuelle spezifische Anwendungen und Probleme des NGS auf.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1119</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1119</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

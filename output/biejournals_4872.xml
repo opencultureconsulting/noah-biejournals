@@ -21,9 +21,30 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Im Grunde ist die Beschreibung einer biologischen Art eine ernsthafte Aufgabe, die zum Beispiel in den „Rules of Zoological Nomenclature“ mehr oder weniger streng festgeschrieben ist. Laut dem leitenden Paläontologen Robert Fortey vom „Natural History Museum“ in London eine der „langweiligsten Bettlektüren“, die er sich „vorstellen kann“. Dessen ungeachtet beschreibt er in seinem Buch „Trilobiten!“ mit hintergründigem britischem Humor einige Kniffe, wie man in die vordergründige Tristesse der Taxonomie vergnügliche Epitheta einbringen kann – natürlich ohne Linnes’ Inspiration ins Lächerliche zu ziehen. Hinter manch einem gräzisierten oder lateinisierten Epitheton verbergen sich die Namen von Angebeteten, Liebschaften, Rockmusikern, Schauspielern oder Schriftstellern. Leider wurden auch die Namen von Populisten und Diktatoren in die biologische Nomenklatur eingebracht und sind nun als Epitheta festgemeißelt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4872</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4872</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

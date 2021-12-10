@@ -21,9 +21,25 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2013-12-12</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Buchrezension</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2230</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2230</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

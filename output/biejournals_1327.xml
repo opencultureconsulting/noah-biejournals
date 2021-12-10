@@ -54,9 +54,29 @@
                     <physicalDescription>
                         <extent unit="page">3</extent>
                     </physicalDescription>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>IZGOnZeit. Onlinezeitschrift des Interdisziplinären Zentrums für Geschlechterforschung (IZG)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2045</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>116</start>
+                                <end>119</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/izgonzeit-1327</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1327</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

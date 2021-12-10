@@ -30,9 +30,34 @@
                     </physicalDescription>
                     <abstract lang="ger">Die mRNA-Technologie lässt eine neue Produktklasse in der Medizin entstehen, mit der gegen Infektionserkrankungen prophylaktisch und gegen viele Krebsarten therapeutisch geimpft werden kann sowie seltene Krankheiten bekämpft werden können.</abstract>
                     <abstract lang="eng">mRNA technology is giving rise to a novel class of medical products that can be used to prophylactically vaccinate against infectious diseases and therapeutically vaccinate against many types of cancer, as well as to combat rare diseases.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>246</start>
+                                <end>253</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4619</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4619</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

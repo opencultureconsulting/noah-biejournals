@@ -40,9 +40,35 @@
                         <extent unit="page">21</extent>
                     </physicalDescription>
                     <abstract lang="ger">Bei deskriptiver Auswertung der „Profile Forschenden Lernens in den (Fach-)Didaktiken“ – als Selbstauskünfte der an der Lehrer*innenbildung beteiligten Fächer am Studienstandort Bielefeld – findet man neben konsensualen Aspekten eine sehr unterschiedliche inhaltliche Interpretation und methodisch differente Ausgestaltung des Bielefelder Leitkonzepts auf der Umsetzungsebene. Diese Divergenzen werden im folgenden Artikel anhand der 17 Profile näher beleuchtet.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>124</start>
+                                <end>145</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1985</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1985</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

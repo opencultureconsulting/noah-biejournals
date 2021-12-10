@@ -24,9 +24,35 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Essay unternimmt den Versuch, Strukturmerkmale zu skizzieren, die für die Rollenfindung als Lehrende*r in der universitären Lehre(r*innenbildung) als relevant erscheinen. Es wird davon ausgegangen, dass dieser Statusrollenwechsel implizit der Normalform der Erfahrungsreproduktion von Lehrkulturen und -formen des eigenen Studiums folgt. Individuelle Positionierungen lassen sich so als komplexe Realisierungsfiguren in einem Kontinuum denkbarer Herkünfte, Selbstverständnisse, Habitustraditionen und Wirksamkeitshoffnungen beschreiben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>8</start>
+                                <end>13</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4773</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4773</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

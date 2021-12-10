@@ -39,9 +39,35 @@
                         <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird die Perspektive der Abteilung „Biologiedidaktik (Zoologie/Humanbiologie)“ auf das Forschende Lernen dargestellt. Besondere Berücksichtigung finden hierbei die Vorbereitungsveranstaltungen des Praxissemesters. Abschließend werden Möglichkeiten und Ideen für das entstehende Kompetenzzentrum Forschendes Lernen aufgezeigt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>41</start>
+                                <end>45</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1970</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1970</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

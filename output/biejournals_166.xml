@@ -23,9 +23,29 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Durch projektbezogene Forschungs- und Entwicklungsvorhaben wird die hochschulinterne Auseinandersetzung mit dem Bereich der wissenschaftlichen Weiterbildung auf verschiedenen Funktions- und Organisationsebenen gefördert. Hierdurch ergeben sich nicht selten Veränderungsnotwendigkeiten innerhalb der Hochschulorganisation, die vor Projektbeginn nicht im Fokus lagen und erst im Prozess an Relevanz gewinnen. In dem vorliegenden Beitrag wird beispielhaft aufgezeigt, wie Veränderungsprozesse innerhalb von Hochschulen durch das Zusammenwirken von Forschung und (Angebots-)Entwicklung initiiert und von innen heraus intensiviert werden können.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>24</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zhwb-166</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_166</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -24,9 +24,29 @@
                         <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">Prozesse, nicht nur kurz nach der Wende gestartet, haben bis heute Eigendynantiken besonderer Art, die mit verborgenen Wünschen der Supervisandinnen - unter anderem nach Anerkenntnis der Geschichte und der spezifischen Professionalität -, einhergehen, und die auch einer hohen Sensibilität und Neugier einer (West-)Supervisorin oder eines (West-)Supervisors bedürfen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>21</start>
+                                <end>33</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2100</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2100</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

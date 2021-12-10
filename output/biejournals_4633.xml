@@ -23,9 +23,34 @@
                         <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="ger">Xylotheken als Holzbibliotheken entstanden um 1800 und werden heute als wertvolle Objekte in einigen Naturkundemuseen ausgestellt, u. a. in Kassel (Ottoneum), auf Burg Guttenberg am Neckar, in Stuttgart-Hohenheim (Universität) und Ebersberg (Oberbayern). Sie stellen Baumherbarien dar: Ein buchähnlicher Kasten aus dem Holz und der Rinde des jeweiligen Baumes enthält alle botanisch wesentlichen Teile dieses Baumes. Xylotheken sind eine Kombination aus Holzsammlung und Herbarium – sie veranschaulichen die ganze Naturgeschichte der Bäume eines Waldes.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>223</start>
+                                <end>225</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4633</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4633</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

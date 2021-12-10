@@ -23,9 +23,29 @@
                         <extent unit="page">2005</extent>
                     </physicalDescription>
                     <abstract lang="ger">This article provides a brief overview of search engines and describes how they work. It highlights HuriSearch, a human rights search engine, initiated by HURIDOCS - Human Rights Information and Documentation Systems, International. The article describes the background and aims of HuriSearch and the way in which the project has been implemented. This is followed by a comparison between HuriSearch and the general search engine Google, concerning the relevancy of searches and the depth of crawling. Finally, the future perspectives of HuriSearch are outlined.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>2006</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-379</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_379</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-02</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Im Editorial zur ersten regulären Ausgabe der PraxisForschungLehrer*innenBildung (PFLB) – Zeitschrift für Schul- und Professionsentwicklung erläutern die Herausgeber*innen entlang des Titels der Zeitschrift die Intentionen des Journals. Grundgedanke hierbei ist die Praxisnähe bzw. der grundlegende Praxisbezug der hier dokumentierten Forschung. Das Spektrum reicht von klassischer Praxisforschung zu Schule und Unterricht, in der die Praxisnähe und der Praxisbezug durch die partizipativen Forschungsprozesse gemeinsam mit Praktiker*innen sichergestellt werden, bis hin zur lokal relevanten Evaluationsforschung aus anwendungsorientierter Perspektive. Als übergreifendes Merkmal dieses neuen Open-Access-Journals wird damit die Orientierung an einer Forschungs- und Entwicklungslogik (FuE-Logik) herausgestellt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-3550</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3550</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

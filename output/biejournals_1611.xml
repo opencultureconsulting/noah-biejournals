@@ -52,9 +52,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-06</dateIssued>
                     </originInfo>
                     <abstract lang="ger">In diesem Artikel wird ein Kultivierungsexperiment mit Mais vorgestellt, bei dem einfache, selbst gebaute hydroponische Systeme zum Einsatz kommen. Es wird geprüft, ob Maiskeimlinge in einem solchen System ohne Erde ebenso wachsen können wie bei Kultivierung in Erde. Das Experiment ist quantitativ und dabei so einfach und zuverlässig hinsichtlich Durchführung und Ergebnis, dass die Kompetenzentwicklung im Bereich Erkenntnisgewinnung besonders gefördert werden kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1611</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1611</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -48,9 +48,35 @@
                         <extent unit="page">16</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird ein Schülerexperiment zur Bestimmung des Leitwerts von Kochsalzlösungen beschrieben. Die Abhängigkeit des Leitwerts von der Konzentration und der Temperatur wird untersucht und mithilfe von Modellannahmen gedeutet. Während der Auswertung wird in das Auffinden von Ausgleichsgeraden durch Regressionsrechnung eingeführt. Die Stärke des linearen Zusammenhangs wird über eine Korrelationsrechnung kontrolliert. In einer Anwendung werden ferner Konzentrationen von Kochsalzlösungen über die Messung des Leitwerts unter Rückgriff auf eine Kalibrierkurve bestimmt und die Qualität der Methode zur Konzentrationsbestimmung reflektiert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>80</start>
+                                <end>96</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-3306</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3306</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

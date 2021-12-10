@@ -39,9 +39,29 @@
                         <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der folgende Artikel basiert auf realen Erfahrungen aus einer Vielzahl von Projekten der Projektkultur GmbH. Immer ging es um die Einführung oder Anpassung von Systemen des großen Software-Anbieters SAP im Bereich Human Resources. Zum Schutz unserer Kunden und unserer Mitarbeiter erzählen wir Ihnen eine ausgedachte Geschichte. Sie fasst einige unserer Erfahrungen zusammen und hätte genau so passieren können.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>90</start>
+                                <end>99</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2013</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2013</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -23,9 +23,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Ja, das geht! Hinter dem Kürzel LAMP verbirgt sich eine Methode, mit der es möglich ist, ohne Thermocycler bei konstanter Temperatur DNA zu vervielfältigen. Prima, damit können wir also direkt an Ort und Stelle die DNA in einer frisch gesammelten Probe amplifizieren, um z. B. einen Erreger nachzuweisen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>229</start>
+                                <end>230</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4630</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4630</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

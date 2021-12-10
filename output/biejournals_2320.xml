@@ -23,9 +23,29 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Mit Blick auf Cora Baltussens Leben, Wirken und Beratungsverständnis werden die demokratischen, emanzipatorischen und internationalen Wurzeln der Rezeption der Profession Supervision in Deutschland in den 1950er und 1960er Jahren betont. Das ist besonders notwendig angesichts kritischer Weiterentwicklungen von Supervision und Coaching, bei denen die professionsethischen Grundlagenfragen zum Teil aus dem Blick geraten.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>6</start>
+                                <end>16</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2320</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2320</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

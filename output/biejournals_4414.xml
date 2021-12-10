@@ -23,9 +23,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das beliebte Brettspiel „Mensch ärgere dich nicht“ ist im Grunde eine Monte-Carlo-Simulation. Diese Simulationen basieren im Allgemeinen auf einer Vielzahl von Wiederholungen zufälliger Ereignisse. In dem berühmten Brettspiel wird immer wieder mit derselben Wahrscheinlichkeit über das Ereignis entschieden, wie viele Felder die Figur vorrücken darf. Doch wie kann „Mensch ärgere dich nicht“ Wissenschaftler*innen dabei helfen, biologische Prozesse zu verstehen?</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>130</start>
+                                <end>131</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4414</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4414</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

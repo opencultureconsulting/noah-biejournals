@@ -23,9 +23,29 @@
                         <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">ANETTE VOIGT: Renate, wir haben im Laufe der Jahre immer wieder einmal über Deine Erfahrungen mit den Anfängen der Supervision gesprochen. Ich freue mich sehr, dass wir heute ausführlich über Deine Erinnerungen sprechen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>33</start>
+                                <end>37</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2145</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2145</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

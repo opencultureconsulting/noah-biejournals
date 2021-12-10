@@ -24,9 +24,35 @@
                         <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Sachunterricht ist ein Unterrichtsfach, das sich durch Interdisziplinarität, hohen Lebensweltbezug und ein offenes Curriculum auszeichnet. Im Verständnis der Autorin braucht es in der Lehre die Zusammenarbeit von Expert*innen mit unterschiedlichem fachlichem Hintergrund, um die Breite abdecken zu können. Die Studierenden, die später dieses Fach unterrichten werden, können im Studium Planungskompetenz aufbauen, um aus der Fülle der möglichen Inhalte auswählen zu können und Kompetenzentwicklung im Unterricht zu ermöglichen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>123</start>
+                                <end>130</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4781</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4781</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

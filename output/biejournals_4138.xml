@@ -39,9 +39,35 @@
                         <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Unterstützung durch eine Schulbegleitung vollzieht sich – wie jegliches pädagogisches Handeln – im Spannungsfeld von Autonomie und Heteronomie. In der Zusammenarbeit mit professionalisierten Lehrkräften besteht insbesondere in Teamgesprächen das Potenzial, die (gemeinsame) Arbeit zu reflektieren und auch für pädagogische Spannungsfelder zu sensibilisieren. Der Beitrag stellt einen Ausschnitt aus einem solchen Teamgespräch zur Verfügung, der in Aus-, Weiter- und Fortbildungsveranstaltungen mit Lehrkräften und Schulbegleitungen eingesetzt werden kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>28</start>
+                                <end>36</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4138</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4138</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

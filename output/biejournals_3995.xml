@@ -47,9 +47,35 @@
                         <extent unit="page">16</extent>
                     </physicalDescription>
                     <abstract lang="ger">Bereits in der Schule ist es notwendig, ein Verständnis von wissenschaftlichen Forschungsprozessen und dem Zustandekommen der daraus resultierenden Befunde, Schlüsse und Darstellungen zu fördern, um Schüler*innen so auf einen kompetenten Umgang mit Informationen im Alltag vorzubereiten. In diesem Beitrag wird ein Ansatz vorgestellt, wie diese Förderung im Rahmen eines Naturwissenschaftskurses für die Eingangsphase der Oberstufe erfolgen kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>144</start>
+                                <end>160</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-3995</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3995</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

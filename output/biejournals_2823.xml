@@ -31,9 +31,35 @@
                         <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="eng">no abstract&amp;nbsp;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 4</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>172</start>
+                                <end>176</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-2823</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2823</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -36,9 +36,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Bei der Untersuchung von Lebensmittelproben auf die darin verarbeiteten Tierarten werden häufig molekulargenetische Verfahren angewendet. Die Gegenüberstellung von zwei Analyseverfahren bietet einen lebensnahen Kontext zur Anwendung und zum Verständnis der abiturrelevanten Methoden Polymerase-Kettenreaktion (PCR), Restriktionsspaltung und Gelelektrophorese. Ergänzend zur Darstellung der fachlichen Hintergründe und der praktischen Umsetzung wird das Thema auf zwei Arbeitsblättern zur Umsetzung im Unterricht aufgearbeitet.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1080</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1080</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

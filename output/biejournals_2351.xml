@@ -24,9 +24,31 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-09-30</dateIssued>
                     </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>18</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 18</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-2351</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2351</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-19</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Bei gleichzeitiger Stärkung der Freiheitsgrade der Lernenden kann über inklusive Lernumgebungen der Lernprozess in heterogenen Gruppen zur Entwicklung fachübergreifender naturwissenschaftlicher Kompetenzen gesteuert werden. Experimentelle Zugänge machen das Phänomen&amp;nbsp; Oberflächenvergrößerung am Beispiel des Dünndarms erfahrbar. Der Beitrag kombiniert hierzu drei Stationen: zwei Modellexperimente mit unterschiedlichem Schwierigkeitsgrad und einen Informationstext, der auch in einer sprachlich entlasteten Version zur Verfügung steht.&amp;nbsp; Zu jeder Station gibt es außerdem zusätzliche Hilfen und Aufgaben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1117</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1117</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

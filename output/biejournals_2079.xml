@@ -31,9 +31,29 @@
                         <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der folgende Artikel gibt Leserinnen und Lesern einen Einblick in ein für die Supervisionsszene recht unvertrautes Feld: In das der Medien. Die beiden Autoren entschlüsseln das breite Spektrum, das sich hinter diesem Begriff verbirgt, zeigen auf, welchem Wandel es unterliegt und welche Probleme sich daraus ergeben, auch an Beispielen. Sie praktizieren Beratung - ein weiterer Markt öffnet sich.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>67</start>
+                                <end>79</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2079</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2079</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

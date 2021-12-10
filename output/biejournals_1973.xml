@@ -39,9 +39,35 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Beitrag stellt die grundsätzliche Bedeutung Forschenden Lernens für die Entwicklung sozialwissenschaftsdidaktischer Professionalität im Praxissemester heraus. Am Beispiel der sozialwissenschaftlichen Fachdidaktik konkretisiert sich Forschendes Lernen über dessen Verzahnung mit Fachdidaktischen Prinzipien und der Orientierung an den Qualitätskriterien der Wissenschaftlichkeit, der Gesellschaftlichkeit und der theorie- wie methodenbasierten (Selbst-) Reflexivität.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>56</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1973</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1973</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

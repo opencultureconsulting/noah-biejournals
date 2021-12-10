@@ -44,9 +44,25 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-29</dateIssued>
                     </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>IZGOnZeit. Onlinezeitschrift des Interdisziplinären Zentrums für Geschlechterforschung (IZG)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2045</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/izgonzeit-3583</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3583</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

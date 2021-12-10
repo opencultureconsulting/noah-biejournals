@@ -32,9 +32,35 @@
                         <extent unit="page">31</extent>
                     </physicalDescription>
                     <abstract lang="ger">Eine knappe Erläuterung zum Untersuchungsgegenstand „Schulbuch“ und „Experiment“ und zur wissenschaftlichen Schulbuchforschung dient als theoretischer Hintergrund für die Schulbuchanalyse. Ausgewählt wurden hierzu die aktuellen nordrhein-westfälischen Schulbücher für die fünfte und sechste Jahrgangsstufe der Hauptschule. Es wird ein eigenständig entwickeltes Analyseschema vorgestellt, welches Kriterien zur Charakterisierung und Beurteilung der Bücher enthält und als Vorschlag für eine Schulbuchanalyse durch Lehrer verstanden wird. Die Ergebnisse der Schulbuchanalyse und des Schulbuchvergleichs werden diskutiert. Die Durchführung einer Meinungsbefragung von Schülern bezüglich Schulbüchern und Versuchen wird in diesem Heft gesondert vorgestellt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>15</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 15</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>32</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1655</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1655</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

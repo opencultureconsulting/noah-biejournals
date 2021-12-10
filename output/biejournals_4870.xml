@@ -24,9 +24,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Krause Minze (Mentha spicata cv. crispa) kommt ursprünglich aus Westasien, ist aber ebenfalls im mediterranen Raum weitverbreitet. Man findet sie aufgrund ihres süßen und erfrischenden Geschmacks in vielen Küchen als Gewürz oder Teegetränk. Doch nicht nur zum Verzehr eignet sie sich, auch im Pflanzenreich ist diese Pflanze ein Phänomen. Denn die Krause Minze ist ihr eigener Bodyguard.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>320</start>
+                                <end>321</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4870</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4870</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

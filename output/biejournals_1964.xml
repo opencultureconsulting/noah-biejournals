@@ -31,9 +31,35 @@
                         <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Beitrag beinhaltet die Einführung in das Heft zu den Profilen Forschenden Lernens in der Bielefelder Lehrer*innenbildung. Mittels eines historischen Rückblicks werden zunächst die Verbindung zwischen dem Konzept Forschenden Lernens und der Universität Bielefeld aufgezeigt sowie die Genese der Inhalte und Zielvorstellungen Forschenden Lernens nachgezeichnet. Die Diskussion aktueller Herausforderungen Forschenden Lernens in der Lehrerbildung an der Universität Bielefeld rahmt den Überblick über die Beiträge des Heftes und deren inhaltliche Einordnung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>9</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1964</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1964</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

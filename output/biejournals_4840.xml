@@ -56,9 +56,35 @@
                         <extent unit="page">6</extent>
                     </physicalDescription>
                     <abstract lang="ger">In diesem Editorial werden zunächst der Ausgangspunkt des Themenheftes „Selbstdeutung, Positionierung &amp;amp; Rollenfindung: Zum Selbst in der universitären Lehrer*innenbildung“ in den Diskussionen der Bielefelder Materialwerkstätten und die mit dem Heft verfolgte Idee, Impulse für die Auseinandersetzung mit der Lehrendenrolle zu erhalten, erläutert. Unter Rückgriff auf Mollenhauer erfolgt eine kurze thematische Einführung in die Rollenproblematik von Lehrenden. Nach einem Überblick über die einzelnen Beiträge des Heftes schließt das Editorial mit einem ersten Resümee und dem Ausblick auf weiterführende Diskussionen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>7</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4840</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4840</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

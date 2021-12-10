@@ -23,9 +23,29 @@
                         <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="ger">Konferenzbericht vom 07. - 09. Dezember 2018 in Frankfurt am Main (Spenerhaus)</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>54</start>
+                                <end>56</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2325</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2325</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

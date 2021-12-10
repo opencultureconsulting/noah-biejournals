@@ -61,9 +61,34 @@
                     </physicalDescription>
                     <abstract lang="ger">Kieselalgen, auch Diatomeen genannt, sind meist photoautotrophe, mikroskopisch kleine, einzellige Eukaryoten und enorm wichtige Primärproduzenten, die mindestens 25 Prozent des globalen Sauerstoffs produzieren. Kieselalgen leben im Plankton sowie im Benthos aller marinen und limnischen Ökosysteme, aber auch teilweise in terrestrischen Ökosystemen. Herausragendes Merkmal der artspezifisch sehr vielfältigen Morphologie ist die namensgebende Zellwand aus Kieselsäure. Die Endosymbioseereignisse und die Evolution ihrer Plastiden sowie die spezifische Kombination von Stoffwechselwegen sind einzigartig. Die Artendiversität der Kieselalgen, die die artenreichste Gruppe der Algen repräsentieren, ist zu diesem Zeitpunkt nur grob zu schätzen. Sie wird mit Hilfe von Integrativer Taxonomie (Analyse von Kulturen, Morphologie, Genetik, etc.) erforscht. Kieselalgen sind aufgrund ihrer hohen Artendiversität, Individuendichte und des artspezifischen Vorkommens in allen Gewässertypen ideale Bioindikatoren für Gewässergüteeinschätzungen mit Hilfe von mikroskopischen und auch zunehmend DNA-basierten Verfahren.</abstract>
                     <abstract lang="eng">Diatoms are mainly photoautotrophic, microscopic, unicellular eukaryotes and enormously important primary producers, producing at least 25 per cent of global oxygen. Diatoms live in plankton as well as in the benthos of all marine and limnic ecosystems, but also to some extent in terrestrial ecosystems. The outstanding feature of the species-specific very diverse diatom morphology is the cell wall made of silica. The endosymbiosis events and evolution of their plastids as well as the specific combination of metabolic pathways are unique. The species diversity of diatoms, which represent the most species-rich group of algae, can only be roughly estimated at this time. This species diversity is being explored using integrative taxonomy (analysis of cultures, morphology, genetics, etc.). Diatoms are ideal bioindicators for water quality assessments using microscopic and increasingly DNA-based methods due to their high species diversity, individual density and species-specific occurrence in all types of water bodies.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>132</start>
+                                <end>141</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4248</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4248</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

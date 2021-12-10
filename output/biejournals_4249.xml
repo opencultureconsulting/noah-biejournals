@@ -28,9 +28,34 @@
                     </physicalDescription>
                     <abstract lang="ger">Der Begriff Symbiose bezeichnet grundsätzlich eine Vergesellschaftung artfremder Organismen und im engeren Sinne das Zusammenleben von zwei Arten zum gegenseitigen Vorteil (Mutualismus). Eine symbiotische Partnerschaft zwischen einzelligen Algen und Korallen ist Grundlage für die Ausbildung von Korallenriffen. Diese gehören zu den artenreichsten und am dichtest besiedelten Lebensräumen der Welt. Der vorherrschende Konkurrenzkampf hat eine Vielzahl an Überlebensstrategien und Formen des Zusammenlebens hervorgebracht.</abstract>
                     <abstract lang="eng">The term symbiosis basically refers to any interaction of two different organisms. In a narrower sense, it is defined as a relationship in which both partners benefit (mutualism). The foundation of coral reefs is a symbiotic relationship between single-celled algae and corals. Coral Reefs are among the most diverse and densely populated ecosystems in the world. The constant competitive fight between species has led to a broad variety of survival strategies and different types of symbiotic relationships.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>161</start>
+                                <end>167</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4249</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4249</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

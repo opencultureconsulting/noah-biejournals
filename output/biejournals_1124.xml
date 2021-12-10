@@ -29,9 +29,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-19</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Mit einfachen Mittel können Gliederfüßler dauerhaft für die Biologische Sammlung einer Schule konserviert werden. Der Artikel liefert Anleitungen für Lehrkräfte, Schülerinnen und Schüler zur Präparation von Decapoda, Phasmatidae und Theraphosidae.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1124</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1124</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

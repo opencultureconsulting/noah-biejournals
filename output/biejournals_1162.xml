@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-11</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Für manchen mag es etwas befremdend sein, sich vorzustellen, dass Kakteen und Sukkulenten das ganze Jahr frei ausgepflanzt im Garten kultiviert werden können - Pflanzen die man nur von den trockenen und heißen Standorten der USA oder Südafrikas kennt. Der Beitrag liefert eine Anleitung für einen winterfesten Sukkulentengarten in der Schule.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1162</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1162</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

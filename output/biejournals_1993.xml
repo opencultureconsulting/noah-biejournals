@@ -23,9 +23,29 @@
                         <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Zentrum dieses Beitrages sollen sowohl historische als auch konzeptionelle Aspekte behandelt, aber nicht systematisch geschieden werden, weil sie immer wieder wie die Fäden eines Teppichs in verschlungenen Windungen sich gegenseitig durchdringen. Da ist (a) der Supervisionsauftrag, (b) seine Möglichkeiten und (c) seine Grenzen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>18</start>
+                                <end>27</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-1993</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1993</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

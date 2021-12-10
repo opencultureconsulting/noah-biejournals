@@ -45,9 +45,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-11</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Der Gehalt von Hydroxymethylfurfural (HMF) in Honig ist ein Parameter zur Beurteilung seiner Frische und einer sachgemäßen Wärmebehandlung beim Abfüllen. Die qualitative und quantitative Bestimmung von HMF werden als Schulexperimente vorgestellt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1194</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1194</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

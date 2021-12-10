@@ -24,9 +24,35 @@
                         <extent unit="page">18</extent>
                     </physicalDescription>
                     <abstract lang="ger">Naturwissenschaftliche Bildungsstandards werden in Österreich seit 2005 entwickelt und sind seither auch Gegenstand fachdidaktischer Forschung. Obwohl die Einführung von Bildungsstandards rechtlich für die Naturwissenschaften nicht geregelt ist, wurden dennoch zahlreiche Entwicklungen vorangetrieben. So wurden Kompetenzstrukturmodelle für die Sekundarstufen I und II erstellt, es wurden Unterrichtsaufgaben für Lehrpersonen zur Verfügung gestellt, die die Anwendung der Kompetenzen im Unterricht demonstrieren und seit einiger Zeit werden Diagnoseinstrumente für den Einsatz durch die Lehrpersonen entwickelt und evaluiert. Viele dieser Entwicklungen, wie die Evaluation des Kompetenzstrukturmodells oder die Erstellung von Diagnoseaufgaben, beschränken sich jedoch auf die Sekundarstufe I. Dieser Beitrag beleuchtet die ambivalente Stellung der naturwissenschaftlichen Bildungsstandards in Österreich am Beispiel der Biologie und geht dabei auf unterschiedliche Entwicklungen in der Sekundarstufe I und II ein. Dabei werden sowohl abgeschlossene Forschungsprojekte als auch Desiderata für die zukünftige Forschung in diesem Bereich diskutiert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 20</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>63</start>
+                                <end>81</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1635</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1635</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

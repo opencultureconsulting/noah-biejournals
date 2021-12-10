@@ -47,9 +47,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Dieses Jahr werden im Zoo Leipzig 20 lebensgroße Dinosaurierexponate gezeigt. Die in Deutschland einzigartige Ausstellung ist von Don Lessem kuratiert, der für die Jurassic-Park-Filmreihe als Berater für Steven Spielberg tätig war. Im Zoo Leipzig übernahmen Biologiedidaktiker aus Frankfurt in enger Zusammenarbeit mit der Zooschule die didaktische Aufbereitung der komplexen Thematik. Ein Ziel der Ausstellung ist es, Bezüge zu rezenten und im Zoo gepflegten Tierarten herzustellen, um so allgemeinbiologisch relevante Themen zu vermitteln.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>227</start>
+                                <end>228</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4631</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4631</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -29,9 +29,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-11</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Dieser Beitrag thematisiert eine Möglichkeit, Schülerinnen und Schülern der 9. und 10. Jahrgangsstufe einen kleinen Einblick in einen biomedizinischen Kontext zu geben und dabei selber experimentieren zu können. Grundlage ist ein Schnupperkurs des teutolab-biotechnologie, welcher sich mit der medizinischen Anwendung einer DNA-Extraktion befasst. Es werden neben dem benötigten Hintergrundwissen auch verschiedene Variationen für eine praktische, individuelle Umsetzung in der Schule aufgezeigt.&amp;nbsp;</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1180</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1180</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

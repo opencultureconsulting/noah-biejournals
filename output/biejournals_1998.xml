@@ -23,9 +23,29 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Beitrag würdigt das Lebenswerk von Gerhard Leuschner und Gerhard Wittenberger, indem das praxeologische Supervisionskonzept der beiden Gründer von Forum Supervision anhand einiger zentraler Begriffe wie Mündigkeit, Gruppe, Verstehen rekonstruiert wird.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>82</start>
+                                <end>92</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-1998</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1998</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

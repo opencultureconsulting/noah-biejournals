@@ -63,9 +63,35 @@
                         <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Forschungsprojekt BiBi-MINT am Oberstufen-Kol­leg Bielefeld („Bielefelder Binnendifferenzierung in den MINT-Fächern“) verfolgt das Ziel eines Fächerübergriffes zwischen dem Naturwissenschafts- und dem Mathematikunterricht. Schüler*innen sollen unterstützt werden, naturwissenschaftliche Phänomene mathematisch zu beschreiben und gleichzeitig mit anwendungsbezogenen naturwissenschaftlichen Kontexten im Mathematikunterricht zu arbeiten. Neben einer zeitlichen Verzahnung des Naturwissenschafts- und Mathematikunterrichts wird auf binnendifferenzierende Maßnahmen in Form von gestuften Lernhilfen zurückgegriffen. Dieser Beitrag führt somit ein fächerübergreifendes und binnendifferenzierendes Gesamtkonzept zwischen Naturwissenschafts- und Mathematikunterricht an, welches sowohl im schulischen Kontext als auch in der universitären Lehrer*innenbildung Anwendung finden kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>8</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-3282</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3282</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

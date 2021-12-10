@@ -24,9 +24,35 @@
                         <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="eng">Criminological research is often based on time-series data showing some type of trend movement. Trending time-series may correlate strongly even in cases where no causal relationship exists (spurious causality). To avoid this problem researchers often apply some technique of detrending their data, such as by differencing the series. This approach, however, may bring up another problem: that of spurious non-causality. Both problems can, in principle, be avoided if the series under investigation are “difference-stationary” (if the trend movements are stochastic) and “cointegrated” (if the stochastically changing trendmovements in different variables correspond to each other). The article gives a brief introduction to key instruments and interpretative tools applied in cointegration modelling.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 8</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>199</start>
+                                <end>208</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-3055</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3055</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

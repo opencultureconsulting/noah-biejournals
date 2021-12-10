@@ -30,9 +30,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-06</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Wer bereits die Gelegenheit hatte, Helgoland zu besuchen, wird ihn kennen: Den Helgoländer Lummenfelsen. Dieser Vogelfelsen – benannt nach den dort brütenden Trottellummen – ist der Einzige in ganz Deutschland. Wenn nicht grad die Gelegenheit besteht im Rahmen einer biologischen Exkursion bzw. einer Klassen-/ Kursfahrt diesen beeindruckenden Lebensraum erleben zu dürfen, ermöglicht dieser Beitrag eine Auseinandersetzung mittels Gruppenpuzzle mit dem kleinsten Naturschutzgebiet Deutschlands und seinen Bewohnern. Die fachlichen Grundlagen werden mit Hilfe einer Sachanalyse illustriert, die sich im Anhang befindlichen Arbeitsblätter im Anschluss didaktisch kommentiert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1608</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1608</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

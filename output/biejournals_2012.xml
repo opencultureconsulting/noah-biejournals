@@ -23,9 +23,29 @@
                         <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird der Film &quot;Eyes Wide Shut&quot; von Stanley Kubrick einer psychoanalytischen Betrachtung unterzogen. Für Leserinnen und Leser, die den Film nicht kennen oder ihn nicht mehr präsent haben, gibt es am Ende einen Anhang mit einer kurzen Inhaltsangabe.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>77</start>
+                                <end>89</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2012</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2012</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -31,9 +31,35 @@
                         <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="eng">Several models are available for the analysis of pooled time-series cross-section (TSCS) data, defined as “repeated observations on fixed units” (Beck and Katz 1995). In this paper, we run the following models: (1) a completely pooled model, (2) fixed effects models, and (3) multi-level/hierarchical linear models. To illustrate these models, we use a Generalized Least Squares (GLS) estimator with cross-section weights and panel-corrected standard errors (with EViews 8) on the cross-national homicide trends data of forty countries from 1950 to 2005, which we source from published research (Messner et al. 2011). We describe and discuss the similarities and differences between the models, and what information each can contribute to help answer substantive research questions. We conclude with a discussion of how the models we present may help to mitigate validity threats inherent in pooled time-series cross-section data analysis.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>International Journal of Conflict and Violence (IJCV)</title>
+                        </titleInfo>
+                        <identifier type="issn">1864-1385</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>8</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 8</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>209</start>
+                                <end>221</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/ijcv-3056</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3056</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

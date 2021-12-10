@@ -30,9 +30,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-02-11</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Der vorliegende Beitrag analysiert eingangs aus fachwissenschaftlicher Perspektive das Problemfeld der Überfischung der Meere. Dazu werden aktuelle Entwicklungen in der Fischerei (1.1) dargestellt, das allgemeine Problem näher betrachtet (1.2) sowie Gegenmaßnahmen herausgestellt und bewertet (1.3). Im Anschluss erfolgt eine Einbettung des Themas in den schulischen Kontext anhand eines exemplarischen Kernlehrplanbezugs (2.1) und eine didaktische Kommentierung der im Anhang befindlichen Unterrichtsmaterialien (2.2).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1200</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1200</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

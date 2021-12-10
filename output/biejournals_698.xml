@@ -40,9 +40,29 @@
                         <extent unit="page">2012</extent>
                     </physicalDescription>
                     <abstract lang="eng">A lesson on human rights in Turkey is analyzed for its representativity and methodology within the Turkish teaching culture from the viewpoint of a Turkish researcher, an American teacher and curriculum developer, and a German teacher.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>2</start>
+                                <end>2014</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-698</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_698</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -30,9 +30,29 @@
                     <physicalDescription>
                         <extent unit="page">4</extent>
                     </physicalDescription>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>IZGOnZeit. Onlinezeitschrift des Interdisziplinären Zentrums für Geschlechterforschung (IZG)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2045</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>95</start>
+                                <end>99</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/izgonzeit-1322</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1322</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -32,9 +32,29 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">In dem vorliegenden Artikel wird das &quot;Masternetzwerk Supervision&quot; vorgestellt. Dazu wird zunächst ein Einblick in die Entstehung des Netzwerks und seine Verknüpfung zu dem Masterstudiengang &quot;Supervision &amp;amp; Beratung&quot; an der Universität Bielefeld gegeben. Ferner werden Besonderheiten aufgezeigt sowie Perspektiven formuliert.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>72</start>
+                                <end>75</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2181</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2181</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

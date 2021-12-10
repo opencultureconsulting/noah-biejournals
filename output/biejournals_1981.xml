@@ -23,9 +23,35 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">In der Philosophiedidaktik an der Universität Bielefeld wird mit dem Konzept der fachdidaktischen Transformation (Johannes Rohbeck) gearbeitet, um das Forschende Lernen bei Studierenden im Praxissemester anzuleiten. Der Grad an Professionalität als Philosophielehrkraft wird daran gemessen, wie gut die fachdidaktische Transformation gelingt. Studierende haben durch das Verfahren die Möglichkeit, an sich forschend zu erlernen, wie guter Philosophieunterricht bereits im Praxissemester gelingen kann.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>98</start>
+                                <end>101</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1981</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1981</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

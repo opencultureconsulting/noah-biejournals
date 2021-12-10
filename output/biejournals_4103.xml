@@ -84,9 +84,34 @@
                     </physicalDescription>
                     <abstract lang="ger">Optionen für den Beitrag des Waldes zum Klimaschutz verfolgen den Weg des Holzes vom Wald bis zur energetischen Verwertung. Nachhaltig bewirtschafteter Wald kann mit der Bereitstellung von Holz 6 bis 8 Tonnen CO2 ha–1 Jahr–1 Emissionen aus fossilen Brennstoffen vermeiden, während nicht bewirtschafteter Wald durch die Speicherung von Kohlenstoff im Ökosystem Emissionen aus fossilen Brennstoffen kompensiert, aber keine fossilen Brennstoffe einspart.</abstract>
                     <abstract lang="eng">This is an overview of options by which forest management contributes to the mitigation of climate change effects. We follow the wood from harvest to its final energy use. By supply of wood, forest management can substitute 6 to 8 tons CO2 ha–1 yr–1 of fossil fuel emissions while under non-management conditions storage of carbon compensates fossil fuel emissions without reducing fossil fuel use.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>46</start>
+                                <end>54</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4103</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4103</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

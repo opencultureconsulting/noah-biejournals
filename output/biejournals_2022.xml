@@ -23,9 +23,29 @@
                         <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Forschungen zur Veränderung des Lebenslaufs berufen sich zu einem beachtlichen Teil auf die von Ulrich Beck formulierte Entstandardisierungsthese und seine Theorie der anderen Modeme. Empirisch gehört die Ausdehnung der Jugendphase, insbesondere die Entstehung der Postadoleszenz zu einer wissenschaftlich und öffentlich beachteten Lebensphase. Sie war allerdings bis weit in die 1990erJahre mit der Idee des psychosozialen Moratoriums verknüpft, so wie es Erikson. Dies scheint sich gerade zu ändern.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>8</start>
+                                <end>10</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2022</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2022</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

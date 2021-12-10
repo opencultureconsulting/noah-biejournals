@@ -56,9 +56,35 @@
                         <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">In dem Forschungsprojekt „Bielefelder Binnendifferenzierung in den MINT-Fächern“ (BiBi-MINT) am Oberstufen-Kolleg Bielefeld zur Verzahnung von Mathematikunterricht und Naturwissenschaftsunterricht mit gleichzeitigem Fokus auf die Binnendifferenzierung sind unter anderem gestufte Lernhilfen zur Auswertung eines Experimentes zur Bestimmung der Zellsaftkonzentration entwickelt, angewendet und evaluiert worden. Sie sind dazu geeignet, Schüler*innen eigenverantwortlich die Auswertung und Interpretation des Experimentes durchführen zu lassen. Das Untersuchungsprinzip des Experimentes ist das Bestimmen der Masse von Gemüsestreifen vor und nach dem Einlegen in verschieden konzentrierten NaCl-Lösungen. Die Lernhilfen beinhalten dabei sowohl eine wiederholende Hinführung zur Bestimmung der relativen Massendifferenz als auch eine mathematische Auswertung und Bestimmung der Zellsaftkonzentration. Zur Interpretation werden Inhalte der biologischen Unterrichtsreihe zur Osmose vermittelt bzw. wiederholend bearbeitet.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>9</start>
+                                <end>16</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-3283</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3283</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

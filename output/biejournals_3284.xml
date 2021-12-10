@@ -56,9 +56,35 @@
                         <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">In dem Forschungsprojekt „Bielefelder Binnendifferenzierung in den MINT-Fächern“ (BiBi-MINT) am Oberstufen-Kolleg Bielefeld zur Verzahnung von Mathematikunterricht und Naturwissenschaftsunterricht mit gleichzeitiger Binnendifferenzierung sind unter anderem zwei gestufte Lernhilfen zur Wiederholung linearer Funktionen entstanden und evaluiert worden. Sie sind dazu geeignet, dass Schüler*innen eigenverantwortlich lineare Funktionen wiederholen und vertiefen und können ebenfalls als exemplarisches Beispiel in der Lehrer*innenbildung dienen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>17</start>
+                                <end>22</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-3284</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3284</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

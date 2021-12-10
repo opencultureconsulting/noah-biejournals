@@ -23,9 +23,29 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der vorliegende Artikel begründet und systematisiert qualitative Forschungsverfahren im Rahmen von Supervision. An wichtiger Stelle steht der Umgang mit erzähltem Material sowie die gestalttheoretische Betrachtungsweise nach G. Rosenthal.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>FoRuM Supervision - Zeitschrift für Beratungswissenschaft und Supervision</title>
+                        </titleInfo>
+                        <identifier type="issn">2199-6334</identifier>
+                        <part>
+                            <extent unit="page">
+                                <start>5</start>
+                                <end>15</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/fs-2007</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_2007</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

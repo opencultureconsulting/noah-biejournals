@@ -37,9 +37,34 @@
                     </physicalDescription>
                     <abstract lang="ger">Bakterien sind in der Lage, ihre Artgenossen in der Umgebung über unterschiedliche Signalmoleküle wahrzunehmen und über bestimmte Signalwege auf steigendes Zellwachstum gemeinschaftlich zu reagieren. Bezeichnet wird dieser Vorgang als Quorum Sensing und stellt ein Art bakterielle Sprache dar. Bei pathogenen Organismen führt diese Kommunikation meist zu Prozessen, die für den Wirt, wie z. B. uns Menschen, nicht wünschenswert sind. Zu diesen Prozessen gehört beispielsweise die Biofilmbildung auf Implantaten oder Kathetern, und das Anschalten von Virulenzfaktoren, die zu Lungenentzündungen und vielen weiteren Infektionskrankheiten führen. Bisher versucht man dieser Infektionen durch die Behandlung mit Antibiotika Herr zu werden. Dies führt allerdings nicht selten zur Entstehung von Antibiotikaresistenzen bei den Bakterien. In der Natur gilt jedoch: Wo es Signale gibt, gibt es auch Wege diese zu zerstören. Dieser Vorgang wird als Quorum Quenching (QQ) bezeichnet und stellt einen geeigneten Ansatz dar, um das pathogene Verhalten von Organismen ohne den Einsatz von Antibiotika zu vermindern oder gar zu verhindern.</abstract>
                     <abstract lang="eng">Bacteria are able to sense their conspecifics in the environment via different signalling molecules and to react collectively to increasing cell growth via certain signalling pathways. This process is called Quorum Sensing and is a kind of bacterial language. In pathogenic organisms, this usually leads to processes that are not desirable for the host, such as us humans. These processes include, for example, biofilm formation on implants or catheters as well as induction of virulence factors that enable the development of pneumonia and many other infectious diseases. Until now, treatment with antibiotics has been used to try to control these infections, but this often leads to antibiotic resistance in the bacteria. In nature, however, where there are signals, there are also ways to destroy them. This process is called Quorum Quenching (QQ) and is a suitable approach to reduce or even prevent the pathogenic behaviour of organisms without the use of antibiotics.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>142</start>
+                                <end>149</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4250</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4250</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

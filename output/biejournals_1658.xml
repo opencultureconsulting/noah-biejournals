@@ -23,9 +23,35 @@
                         <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Von den naturwissenschaftlichen Fächern wird Biologie am häufi gsten bilingual unterrichtet. In diesem Fall ist das Fach Biologie von dem bekannten Dilemma betroffen, dass die teilnehmenden Schüler gelegentlich die Unterrichtsinhalte kognitiv besser bewältigen, als sie sich (fremd-)sprachlich artikulieren können. Auch aus diesem Grund bedarf es besonderer Maßnahmen, um eine inhaltliche und sprachliche Festigung der Unterrichtsinhalte sicher zu stellen. Der Beitrag diskutiert den Stellenwert dieser besonderen Sicherungsmethoden und nennt Kriterien zu ihrer Auswahl. Praxiserprobte und bewährte Sicherungsmethoden für den bilingualen Biologieunterricht werden vorgestellt und hinsichtlich ihrer Kriterienprofile miteinander verglichen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>15</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 15</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>95</start>
+                                <end>104</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/zdb-1658</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1658</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

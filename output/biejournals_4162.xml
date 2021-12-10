@@ -24,9 +24,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Biochemiker forschen daran, chemische Reaktionen in biologischen Systemen aufzuklären. Dafür ist es sehr wichtig, die Bindungskinetiken und -affinitäten verschiedener biologischer Moleküle zu verstehen. Ein äußerst cleveres Verfahren beruht auf einer Aneinanderreihung physikalischer Prozesse an Grenzflächen. Die Oberflächenplasmonenresonanzspektroskopie, kurz SPR-Spektroskopie (von engl. surface plasmon resonance) als Methode zur Interaktionsanalyse zwischen Biomolekülen mittels quantenphysikalischer Oberflächenphänomene soll hier im Folgenden vorgestellt werden.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>27</start>
+                                <end>28</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4162</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4162</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -31,9 +31,35 @@
                         <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">In diesem Beitrag werden die Bedeutung von Energie, Arbeit, und Energieerhaltung behandelt und die empirische Überprüfung des Energieerhaltungssatzes am Beispiel eines Fadenpendels vorgestellt. Neben der Einführung von experimentellen Arbeitstechniken zur Bestimmung der potentiellen und kinetischen Energie werden die Berücksichtigung von Messgenauigkeit und die Angabe von signifikanten Ziffern vorgenommen. Im Kontext dieses Themenheftes der Zeitschrift PraxisForschungLehrer*innenBildung sind der Begriff „Energie“ und das Konzept der Energieerhaltung für die Interpretation experimenteller Daten aus den anschließenden Experimenten notwendig.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>40</start>
+                                <end>52</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-3303</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3303</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

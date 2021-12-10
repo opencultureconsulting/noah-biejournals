@@ -21,9 +21,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-01</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Der Beitrag erläutert, was ein Begriff (nicht) ist, wie ein solcher gebildet wird, und welche Implikationen sich daraus für die Begriffsvermittlung im Unterricht ergeben. Das vorgeschlagene Unterrichtsmodell zu den Begriffen Mimese und Mimikry ist daraus abgeleitet: Die Schülerinnen und Schüler betrachten und vergleichen exemplarische Vertreter für die beiden Phänomene und entwickeln anhand der konkreten Beispiele und gestützt durch verschiedene Hilfen einfache allgemeine Begriffsbestimmungen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1437</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1437</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

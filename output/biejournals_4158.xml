@@ -23,9 +23,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Infektiosität des SARS-CoV-2-Virus mit einer Basisreproduktionszahl von 3,3 bis 3,8 und eine hohe Dunkelziffer symptomlos Infizierter erschweren die Prävention. Daher sind Wirkstoffe gefragt, die eine (Re-)Infektion der Schleimhaut im Initialstadium der Infektion blockieren, um schweren Verläufen von COVID-19 mit intensivmedizinischem Behandlungsbedarf vorzubeugen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>20</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4158</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4158</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

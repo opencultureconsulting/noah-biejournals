@@ -23,9 +23,35 @@
                         <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Forschende Lernen in den Bildungswissenschaften an der Universität Bielefeld wird beschrieben. Neben einem Überblick über die Rahmenbedingungen wird anhand des Vorgehens des Autors und einer fakultätsweiten Interessengruppe die Ausrichtung von Forschendem Lernen im Praxissemester detaillierter ausgeführt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>28</start>
+                                <end>36</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/pflb-1968</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1968</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

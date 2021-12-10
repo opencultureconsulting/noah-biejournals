@@ -24,9 +24,35 @@
                         <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der essayistische Beitrag zur Selbstpositionierung innerhalb der Literatur- und Mediendidaktik basiert auf der Durchsicht der eigenen Fachbibliothek, ist aber auch getragen von vielen Erinnerungen, insbesondere an Begegnungen mit einigen erfahrenen Kolleg*innen, die Mentor*innenfunktion hatten. Er zeigt schlaglichtartig die Entwicklung der eigenen Disziplin auf und vor diesem Hintergrund den Weg zur Selbstverortung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>122</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4780</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4780</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -1,0 +1,266 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:source@xml:lang",
+          "expression": "value",
+          "columnName": "dc:source@xml:lang",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "de-DE",
+                "l": "de-DE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:source",
+    "expression": "grel:value.split(';')[0]",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/titleInfo/title",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:source@xml:lang",
+          "expression": "value",
+          "columnName": "dc:source@xml:lang",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "de-DE",
+                "l": "de-DE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:source",
+    "expression": "grel:value.split(';')[1].find(/Bd. \\d{1,3}/)[0].replace('Bd. ','')",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/part/detail@type=volume/number",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:source@xml:lang",
+          "expression": "value",
+          "columnName": "dc:source@xml:lang",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "de-DE",
+                "l": "de-DE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:source",
+    "expression": "grel:value.split(';')[1].find(/Bd. \\d{1,3}/)[0].replace('Nr. ','')",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/part/detail@type=issue/number",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:source@xml:lang",
+          "expression": "value",
+          "columnName": "dc:source@xml:lang",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "de-DE",
+                "l": "de-DE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:source",
+    "expression": "grel:with(value.find(/; \\d+-\\d+/)[0].replace('; ',''), x, x.split('-')[0] )",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/part/extent@unit=page/start",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "dc:source@xml:lang",
+          "expression": "value",
+          "columnName": "dc:source@xml:lang",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "de-DE",
+                "l": "de-DE"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:source",
+    "expression": "grel:with(value.find(/; \\d+-\\d+/)[0].replace('; ',''), x, x.split('-')[1] )",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/part/extent@unit=page/end",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "relatedItem/titleInfo/title",
+          "expression": "isBlank(value)",
+          "columnName": "relatedItem/titleInfo/title",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "relatedItem/titleInfo/title",
+    "expression": "grel:'host'",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem@type",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "id",
+          "expression": "isBlank(value)",
+          "columnName": "id",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": false,
+                "l": "false"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:publisher",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/originInfo/publisher",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:source",
+          "columnName": "dc:source",
+          "query": "\\d{4}-\\d{4}",
+          "mode": "regex",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:source",
+    "expression": "grel:value",
+    "onError": "set-to-blank",
+    "newColumnName": "relatedItem/identifier@type=issn",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/multivalued-cell-join",
+    "columnName": "relatedItem/identifier@type=issn",
+    "keyColumnName": "id",
+    "separator": ","
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "relatedItem/identifier@type=issn",
+    "expression": "grel:value.split(',')[0]",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

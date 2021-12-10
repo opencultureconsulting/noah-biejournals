@@ -23,9 +23,34 @@
                         <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Aufbau einer Bioinformatik-Infrastruktur in Deutschland wird vom BMBF seit dem Jahr 2015 betrieben. Dazu wurde die Fördermaßnahme „Deutsches Netzwerk für Bioinformatik-Infrastruktur (de.NBI)” (www.denbi.de) ins Leben gerufen mit der Aufgabe, Forschenden in den Lebenswissenschaften die Analyse großer Datenmengen zu ermöglichen. Nach Einrichtung der Infrastrukturbereiche Serviceangebote, Trainingskurse und Cloud-Computing steht nun eine Verstetigung dieser Bioinformatik-Infrastruktur durch Integration in die Helmholtz-Gemeinschaft an. Die Bundesregierung hat hierzu in ihrer jüngsten Finanzplanung dem Forschungszentrum Jülich Finanzmittel zur Verfügung gestellt, um die etablierte Bioinformatik-Infrastruktur langfristig zu betreiben.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>51</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 51</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>221</start>
+                                <end>222</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4634</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4634</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

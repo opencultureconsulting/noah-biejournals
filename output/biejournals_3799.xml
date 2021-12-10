@@ -53,9 +53,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-07</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Das Wecken der Faszination für Schmetterlinge durch Originalbegegnungen bietet die Chance, dem bedenklichen Insektensterben nachhaltig zu begegnen. Der Beitrag zeigt, wie dies durch entdeckendes Lernen während des Besuchs eines Schmetterlingshauses gelingen kann. Tipps zur Vor- und Nachbereitung werden gegeben und durch altersgerechte Materialien ergänzt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-3799</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3799</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -31,9 +31,35 @@
                         <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Artenkenntnis zu vermitteln ist im Kontext von Umweltbildung bedeutsam: So schützen Menschen besonders das, was sie kennen und lieben. Kinder interessieren sich sehr für Tiere in ihrem Lebensumfeld. Um dieses Interesse aufzugreifen, wird in diesem Beitrag ein Quiz beschrieben, bei welchem die Schüler*innen zwölf Tiere des heimischen Waldes mithilfe des Spielformates „Wer bin ich?“ erraten und so artspezifische Informationen lernen. Die spielerische Herangehensweise wirkt besonders motivierend und fördert so das Lernen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>23</start>
+                                <end>33</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/dimawe-3285</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_3285</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

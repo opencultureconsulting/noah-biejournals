@@ -31,9 +31,35 @@
                         <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird aufgezeigt, dass die Phänomene Diversität, Leistung und Inklusion seit der Gründung des Oberstufen-Kollegs zentrale Topoi für die Forschungs- und Entwicklungsarbeit der Versuchsschule darstellen. Auch wenn sich die Terminologie in den letzten Jahrzehnten gewandelt hat, so hält die Beschäftigung mit diesen Phänomenen an. Die im Jahrbuch enthaltenen Beiträge werden entsprechend vor diesem Hintergrund mit Blick auf die Entwicklungen der Versuchsschule und ihrer Wissenschaftlichen Einrichtung Oberstufen-Kolleg kommentiert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>1</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>4</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/we_os-1104</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1104</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

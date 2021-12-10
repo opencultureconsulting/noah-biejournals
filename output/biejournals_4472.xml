@@ -37,9 +37,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-06-11</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Der Beitrag thematisiert die Erkrankung Mukoviszidose und beschreibt die grundlegenden genetischen Ursachen, Symptome sowie Therapien der Krankheit. Darüber hinaus werden frühdiagnostische Verfahren der Präimplantations- und Pränataldiagnostik in ihren Grundzügen aufgezeigt. Die vorliegenden Unterrichtsanregungen wurden für die Sek. II entwickelt und lassen sich dem Inhaltsfeld Genetik zuordnen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/bupraktisch-4472</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_4472</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>

@@ -53,9 +53,31 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-08-06</dateIssued>
                     </originInfo>
                     <abstract lang="ger">Vertikale Landwirtschaft ist angesichts der Problematik von Klimawandel und Welternährung ein hochaktueller Kontext für den Biologieunterricht. Die Kultivierung von Pflanzen erfolgt hier auf kleiner Fläche und unter kontrollierten Bedingungen in sogenannten hydroponischen Systemen, die optimierte Nährlösungen enthalten. Für die Schule können einfache hydroponische Systeme für Mais und Kresse hergestellt werden. So können modellhaft das Prinzip und die Bedeutung der vertikalen Landwirtschaft aufgezeigt sowie Experimente zum Wachstum und zum Trocken- und Salzstress bei Pflanzen durchgeführt werden.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>2</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>Bd. 2</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/bupraktisch-1609</identifier>
                     <recordInfo>
                         <recordIdentifier>biejournals_1609</recordIdentifier>
                     </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
                 </mods>
             </mets:xmlData>
         </mets:mdWrap>
