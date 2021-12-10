@@ -26,7 +26,7 @@
       "mode": "row-based"
     },
     "baseColumnName": "dc:source",
-    "expression": "grel:with(value.find(/; \\d+-\\d+/)[0].replace('; ',''), x, x.split('-')[1].toNumber() - x.split('-')[0].toNumber() )",
+    "expression": "grel:with(value.find(/; \\d+-\\d+$/)[0].replace('; ',''), x, x.split('-')[1].toNumber() - x.split('-')[0].toNumber() + 1)",
     "onError": "set-to-blank",
     "newColumnName": "physicalDescription/extent@unit=page",
     "columnInsertIndex": 2

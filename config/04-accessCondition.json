@@ -1,0 +1,90 @@
+[
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:rights",
+          "columnName": "dc:rights",
+          "query": "creativecommons.org",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:rights",
+    "expression": "grel:value.replace('https://','').replace('http://','').replace('creativecommons.org/licenses/','CC ').replace('/',' ').trim().toUppercase()",
+    "onError": "set-to-blank",
+    "newColumnName": "accessCondition",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:rights",
+          "columnName": "dc:rights",
+          "query": "creativecommons.org",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "dc:rights",
+    "expression": "grel:value.replace('http://','https://')",
+    "onError": "set-to-blank",
+    "newColumnName": "accessCondition@xlink:href",
+    "columnInsertIndex": 2
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:rights",
+          "columnName": "dc:rights",
+          "query": "dppl",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "accessCondition@xlink:href",
+    "expression": "grel:cells['dc:rights'].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "dc:rights",
+          "columnName": "dc:rights",
+          "query": "dppl",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "accessCondition",
+    "expression": "grel:'Digital Peer Publishing Licence (v3)'",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10
+  }
+]

@@ -62,7 +62,7 @@
       "mode": "row-based"
     },
     "baseColumnName": "dc:title",
-    "expression": "grel:value.split(': ')[1].replace(/:$/,'')",
+    "expression": "grel:value.split(': ')[1].replace(/:$/,'').trim()",
     "onError": "set-to-blank",
     "newColumnName": "titleInfo/subTitle",
     "columnInsertIndex": 2
