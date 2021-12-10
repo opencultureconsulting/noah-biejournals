@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">21</extent>
+                        <extent unit="page">22</extent>
                     </physicalDescription>
                     <abstract lang="ger">In diesem Beitrag wird ein Konzept zur schülergerechten Entwicklung eines mathematischen Modells vorgestellt, mit dem die Beschreibung der zeitabhängigen Aktivität eines Gemisches von Radionukliden gelingt. Den notwendigen Zugang liefert eine Simulation, anhand derer die Vorgänge der Kernumwandlung auf der Teilchenebene nachgestellt und mittels Differenzengleichungen modelliert werden können. Die Ergebnisse der numerischen Simulation werden mit experimentellen Daten verglichen. Die vorgestellte Simulation ist darüber hinaus geeignet, fehlerhafte Präkonzepte zu korrigieren und ein tiefergehendes Verständnis der ablaufenden Prozesse zu ermöglichen, die eine vollständige Interpretation von Messergebnissen ermöglicht.</abstract>
                     <subject lang="ger">
@@ -37,7 +37,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>221</start>
@@ -46,6 +46,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/pflb-4844</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4844</recordIdentifier>
                     </recordInfo>

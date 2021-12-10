@@ -61,7 +61,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">9</extent>
+                        <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Salze sind für Lebewesen lebenswichtig. In hohen Konzentrationen wirken sie aber u.U. toxisch. In vorhergehenden Unterrichtseinheiten haben sich die Schüler*innen bereits mit dem Aufbau und der Struktur von tierischen und pflanzlichen Zellen beschäftigt. In der vorliegenden Einheit wird den Schüler*innen die Gelegenheit gegeben, die Wirkung von Salzen auf Zellen zu verstehen. Eine Messung der Gewichtsveränderung, verursacht durch osmotische Vorgänge in den Zellen, ermöglicht die Bestimmung und den Vergleich der Zellsaft-Konzentration von Gemüsearten.</abstract>
                     <subject lang="ger">
@@ -78,7 +78,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>97</start>
@@ -87,6 +87,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3307</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3307</recordIdentifier>
                     </recordInfo>

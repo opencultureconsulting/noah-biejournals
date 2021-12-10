@@ -33,7 +33,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">7</extent>
+                        <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das aquatische Bakterium Magnetospirillum gryphiswaldense produziert spezielle Organellen, die aus dem Eisenmineral Magnetit bestehen und die Zelle ähnlich einer Kompassnadel entlang der erdmagnetischen Feldlinien ausrichten. Magnetbakterien sind faszinierende Objekte der Grundlagenforschung auf dem Feld der Biomineralisation und Zellbiologie, und neuerdings auch für die Herstellung magnetischer Nanopartikel für biotechnologische und biomedizinische Anwendungen von Interesse.</abstract>
                     <abstract lang="eng">The aquatic bacterium Magnetospirillum gryphiswaldense synthesizes unique organelles. They consist of membrane-enveloped crystals of the iron mineral magnetite, and are used like a compass needle to align the cell along the Earth’s magnetic field lines. Magnetotactic bacteria are a fascinating model-object to study biomineralization and microbial cell biology. Moreover, due to their remarkable properties they have recently attracted considerable interest as producers of magnetic nanoparticles for biotechnological and biomedical applications.</abstract>
@@ -50,7 +50,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>74</start>
@@ -59,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4108</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4108</recordIdentifier>
                     </recordInfo>

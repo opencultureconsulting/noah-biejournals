@@ -36,7 +36,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">4</extent>
+                        <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird die Perspektive der Abteilung „Biologiedidaktik (Zoologie/Humanbiologie)“ auf das Forschende Lernen dargestellt. Besondere Berücksichtigung finden hierbei die Vorbereitungsveranstaltungen des Praxissemesters. Abschließend werden Möglichkeiten und Ideen für das entstehende Kompetenzzentrum Forschendes Lernen aufgezeigt.</abstract>
                     <subject lang="ger">
@@ -53,7 +53,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>41</start>
@@ -62,6 +62,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1970</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1970</recordIdentifier>
                     </recordInfo>

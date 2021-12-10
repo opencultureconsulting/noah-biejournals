@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">10</extent>
+                        <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Projekt „Campusschule“, das seit 2016 im Rahmen der vom BMBF geförderten Gießener Offensive Lehrerbildung (GOL) an der Justus-Liebig-Universität Gießen (JLU) durchgeführt wird, will über unterrichts- und schulbezogene Projekte zur Professionalisierung der Studierenden wie auch der Schulen beitragen und dadurch eine stärkere, systematische Zusammenarbeit zwischen der JLU und Schulen betreiben. Im Campusschulprojekt, einem Netzwerk zwischen der JLU und Schulen der Region, wird mit den Konzepten „Forschendes Lernen“, „Aktionsforschung“ und „Schul- und Unterrichtsentwicklung“ gearbeitet. Neben der Netzwerkarbeit soll in diesem Rahmen auch Lehrerbildungsforschung betrieben werden.
 The “Campus School” project, which has been carried out at the Justus Liebig University Giessen (JLU) since 2016 as part of the “Gießener Offensive Lehrerbildung” (GOL) funded by the BMBF, aims to contribute to the professionalization of students as well as schools by means of teaching and school-related projects, and thus to promote stronger, systematic cooperation between JLU and schools. The Campus School Project, a network between JLU and regional schools in the region, will work with the concepts of “learning through research”, “action research”, and “school and classroom development”. In addition to networking, teacher education research is also to be conducted within this framework.</abstract>
@@ -45,9 +45,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>3</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 3</number>
-                            </detail>
                             <extent unit="page">
                                 <start>159</start>
                                 <end>169</end>
@@ -55,6 +52,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3350</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3350</recordIdentifier>
                     </recordInfo>

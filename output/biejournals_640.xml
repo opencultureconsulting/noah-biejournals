@@ -19,9 +19,6 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2013-03-25</dateIssued>
                     </originInfo>
-                    <physicalDescription>
-                        <extent unit="page">2012</extent>
-                    </physicalDescription>
                     <subject lang="ger">
                     </subject>
                     <subject lang="eng">
@@ -32,13 +29,10 @@
                         </titleInfo>
                         <identifier type="issn">1618-5293</identifier>
                         <part>
-                            <extent unit="page">
-                                <start>1</start>
-                                <end>2013</end>
-                            </extent>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/jsse-640</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_640</recordIdentifier>
                     </recordInfo>

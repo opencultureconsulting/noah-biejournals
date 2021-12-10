@@ -45,7 +45,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-07-21</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">13</extent>
+                        <extent unit="page">14</extent>
                     </physicalDescription>
                     <abstract lang="ger">Ein Ziel des Biologieunterrichts in Deutschland ist der Beitrag zur Entwicklung naturwissenschaftlicher Grundbildung, welche als eine notwendige Voraussetzung für aktives und mündiges Handeln in modernen Gesellschaften betrachtet wird. Als einer von vier Kompetenzbereichen zielt der Bereich Bewertung auf die Entwicklung von Kompetenzen ethischer Urteilsbildung im weitesten Sinne ab. Dieser Beitrag stellt ein Unterrichtskonzept zur Förderung von Bewertungskompetenz im Kontext Ernährung vor, welches sich auf zentrale Aspekte des Reflektierens von Handlungsoptionen und der verantwortungsvollen Rolle des Menschen gegenüber seiner Umwelt im ökologischen und sozialen Sinne bezieht und dadurch auch dem Anspruch auf Bildung für Nachhaltige Entwicklung gerecht wird. Das Unterrichtskonzept stellt das Erfassen deskriptiver und präskriptiver Annahmen im Zuge der Argumententwicklung ins Zentrum des Unterrichts und zielt damit auf die Entwicklung ethischen Basiswissens.</abstract>
                     <subject lang="ger">
@@ -61,9 +61,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>25</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 25</number>
-                            </detail>
                             <extent unit="page">
                                 <start>64</start>
                                 <end>77</end>
@@ -71,6 +68,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/zdb-3936</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3936</recordIdentifier>
                     </recordInfo>

@@ -30,7 +30,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-11</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">19</extent>
+                        <extent unit="page">20</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Modell der planetaren Belastungsgrenzen ist der Versuch globale Umweltveränderungen wissenschaftsbasiert zu erfassen und zu bewerten. In dem Modell wurden neun planetare Belastungsgrenzen identifiziert, deren Überschreitung zur Destabilisation der jeweiligen Erdsysteme führen kann. Damit das Modell für die unterrichtliche Vermittlung genutzt werden kann, fragt dieser Beitrag danach, wie Wissenschaftler/innen und Schpler/innen die Stabilität und Instabilität verschiedener erdsystemarer Prozesse konzeptualisieren. Der Vergleich der wissenschaftlichen Vorstellungen und Vorstellungen der Schüler/innen zeigt, dass die beiden Gruppen in ihren Grundsätzen die Menschen als Ursache für die Instabilität der Erdsyseme sehen. Dennoch zeigen sich Unterschiede in den Vorstellungen bei der Definition von erdsystemarer Stabilität sowie den Folgen der Instabilität der Erdsysteme. Auch nehmen die Wissenschaftler/innen eine dezidiert anthropozentrische Sichtweise im Bezug zu den globalen Umweltveränderungen im Gegensatz zur ökologischen Sichtweise der Lernenden ein.
 Abstract
@@ -49,9 +49,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>23</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 23</number>
-                            </detail>
                             <extent unit="page">
                                 <start>39</start>
                                 <end>58</end>
@@ -59,6 +56,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1739</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1739</recordIdentifier>
                     </recordInfo>

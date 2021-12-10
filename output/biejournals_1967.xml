@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">9</extent>
+                        <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">Welche Rolle spielt die Hochschuldidaktik in der Umsetzung einer forschungsnahen Lehre und beim Forschenden Studieren? Anhand eines hochschuldidaktischen Workshops an der Universität Bielefeld wird dargelegt, wie Lehrende angeregt werden, ihre Lehre forschungsnah auszugestalten. Letztendlich sollen Studierende davon profitieren, indem sie sich motiviert mit einem Sachverhalt tiefgreifend auseinandersetzen. Anschließend werden beispielhaft Projekte anderer Hochschulen skizziert und die dazugehörige Begleitung der Hochschuldidaktik aufgezeigt, um die Spannbreite des Einsatzes dieses Konzeptes aufzuzeigen.</abstract>
                     <subject lang="ger">
@@ -45,7 +45,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>18</start>
@@ -54,6 +54,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1967</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1967</recordIdentifier>
                     </recordInfo>

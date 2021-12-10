@@ -44,7 +44,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-11-27</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">13</extent>
+                        <extent unit="page">14</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das vorgestellte Gesundheitsbildungsprojekt „Du denkst Zukunft!“ hat zum Ziel, Jugendliche an das aktuelle Thema Morbus Alzheimer heranzuführen und sie über medizinische, naturwissenschaftliche und gesellschaftliche Aspekte dieser weitverbreiteten Demenzform aufzuklären. Mittels eines Projekttages an Schulen sowie einem fakultativen anschließenden Praxistag in wissenschaftlichen oder medizinischen Einrichtungen soll das Interesse der Schülerinnen und Schüler geweckt sowie erste thematische und berufsorientierende Einblicke in das Themenfeld ermöglicht werden. Die Evaluation des Projekts, für die 325 Schülerinnen und Schüler der Oberstufe befragt wurden, fokussiert in erster Linie auf das Interesse an medizinischen Aktivitäten, gemessen mit einem adaptierten RIASEC-Ansatz, sowie auf das Wissen über die Demenzform Alzheimer, die Einschätzung der Relevanz für die Gesellschaft, den Berufswunsch sowie die Bereitschaft, sich zukünftig ehrenamtlich im Bereich Alzheimer zu engagieren. Die Ergebnisse zeigen neben einem gesteigerten Wissen insbesondere positiven Zuwachs in einzelnen Interessensdimensionen, ein gefestigtes Interesse, nach der Schule einen medizinischen (aber nicht einen naturwissenschaftlichen) Beruf zu ergreifen, sowie auffallende Geschlechterunterschiede.
 &amp;nbsp;
@@ -63,9 +63,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>23</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 23</number>
-                            </detail>
                             <extent unit="page">
                                 <start>25</start>
                                 <end>38</end>
@@ -73,6 +70,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1737</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1737</recordIdentifier>
                     </recordInfo>

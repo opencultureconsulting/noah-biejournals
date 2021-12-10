@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2016-01-01</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">14</extent>
+                        <extent unit="page">15</extent>
                     </physicalDescription>
                     <subject lang="ger">
                     </subject>
@@ -40,6 +40,9 @@
                         </titleInfo>
                         <identifier type="issn">2567-2045</identifier>
                         <part>
+                            <detail type="issue">
+                                <number>5</number>
+                            </detail>
                             <extent unit="page">
                                 <start>20</start>
                                 <end>34</end>
@@ -47,6 +50,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/izgonzeit-1352</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1352</recordIdentifier>
                     </recordInfo>

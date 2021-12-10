@@ -36,7 +36,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-06</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">18</extent>
+                        <extent unit="page">19</extent>
                     </physicalDescription>
                     <abstract lang="ger">Studierende naturwissenschaftlicher Fächer sollen innerhalb ihrer Lehreramtsausbildung nicht nur Kompetenzen im Experimentieren entwickeln, sondern auch lernen, ihre Fähigkeiten und Fertigkeiten im Experimentieren professionell einzuschätzen. Die Einschätzung eigener Experimentierfähigkeiten wird als experimentbezogenes Fähigkeitsselbstkonzept bezeichnet. Dieses kann theoretisch in die Dimensionen Planung, Durchführung und Auswertung von Experimenten separiert werden. Ein positives experimentbezogenes Fähigkeitsselbstkonzept kann in einer hohen Bereitschaft, Experimentalunterricht zu planen, durchzuführen und zu reflektieren, münden. Dies wird bereits dann bedeutsam, wenn Studierende in schulische Praxisphasen, wie das Praxissemester, eintreten. Forschungsbefunde zum experimentbezogenen Fähigkeitsselbstkonzept von Studierenden sind jedoch noch unzureichend. Um diesem Forschungsdesiderat zu begegnen, wurden innerhalb einer Querschnittsstudie die experimentbezogenen Fähigkeitsselbstkonzepte von 200 Studierenden der Fächer Biologie, Chemie und Sachunterricht mittels Fragebögen untersucht. Eine Erhebung im Fach Physik steht noch aus. Die faktorielle Struktur des experimentbezogenen Fähigkeitsselbstkonzepts und die Ausprägungen des experimentbezogenen Fähigkeitsselbstkonzepts der Studierenden wurden ermittelt. Die Ergebnisse zeigen, dass das experimentbezogene Fähigkeitsselbstkonzept auch empirisch in die Dimensionen Planung, Durchführung und Auswertung unterteilt werden kann. Die höchsten experimentbezogenen Fähigkeitsselbstkonzepte haben die Studierenden im Bereich der Durchführung. Signifikante Unterschiede zwischen den Fächergruppen zeigen sich im Bereich der Auswertung von Experimenten.</abstract>
                     <subject lang="ger">
@@ -52,9 +52,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>24</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 24</number>
-                            </detail>
                             <extent unit="page">
                                 <start>48</start>
                                 <end>66</end>
@@ -62,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1733</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1733</recordIdentifier>
                     </recordInfo>

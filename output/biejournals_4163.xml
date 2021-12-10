@@ -50,7 +50,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-05</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">15</extent>
+                        <extent unit="page">16</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Beschäftigung mit der eigenen Biographie kann zu einer Reflexion des Selbstbildes führen und durch entsprechende Impulse, etwa auf die eigene Lerngeschichte, spezifische Lebensbereiche in den Blick rücken. Dies erscheint gerade auch in der Lehrer*innenbildung ein wichtiger Anknüpfungspunkt für die Ausgestaltung innovativer hochschuldidaktischer Formate zu sein. In diesem Beitrag wird das Instrument Lernbiographiekurve vorgestellt und anhand zweier Beispiele exemplarisch betrachtet. Aufgezeigt werden Perspektiven für den Einsatz in der ersten Phase der Lehrer*innenbildung.</abstract>
                     <abstract lang="eng">Dealing with one’s own biography can lead to a reflection on one’s self-image and, through corresponding impulses, for example on one’s own learning history, bring specific areas of life into view. This seems to be an important starting point for the design of innovative didactic formats in higher education, especially in teacher education. In this article, the instrument “learning biography curve” is presented and examined, using two examples. Perspectives for its use in the first phase of teacher education are shown.</abstract>
@@ -68,7 +68,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>4</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 4</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>249</start>
@@ -77,6 +77,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/hlz-4163</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4163</recordIdentifier>
                     </recordInfo>

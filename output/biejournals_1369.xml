@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2016-01-01</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">1</extent>
+                        <extent unit="page">2</extent>
                     </physicalDescription>
                     <abstract lang="ger">Walk of Fem*
 Lesekreis zu feministischer Technikkritik</abstract>
@@ -34,6 +34,9 @@ Lesekreis zu feministischer Technikkritik</abstract>
                         </titleInfo>
                         <identifier type="issn">2567-2045</identifier>
                         <part>
+                            <detail type="issue">
+                                <number>5</number>
+                            </detail>
                             <extent unit="page">
                                 <start>102</start>
                                 <end>103</end>
@@ -41,6 +44,7 @@ Lesekreis zu feministischer Technikkritik</abstract>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/izgonzeit-1369</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1369</recordIdentifier>
                     </recordInfo>

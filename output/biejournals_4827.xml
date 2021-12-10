@@ -33,7 +33,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-11-08</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">10</extent>
+                        <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Als nicht-kanonische Aminosäuren (nkAS) fasst man alle Aminosäuren zusammen, die nicht über den genetischen Standardcode kodiert sind und entsprechend nicht über die zelluläre Proteinbiosynthese (Translation) in Proteine eingebaut werden. Die physiologisch und damit auch pharmakologisch bedeutendsten nkAS sind α‑l‑AS mit nicht genetisch kodierten Resten, α‑d‑AS sowie β‑AS. Prominente Beispiele sind das Parkinsonmedikament l‑DOPA, d‑Phenylglycinderivate als Seitenketten von Ampicillin und Amoxicillin (bei Kindern meistverschriebene Antibiotika), sowie β‑Phenylalanin in den meisteingesetzten Chemotherapeutika Taxol® und Taxotere® (u. a. gegen Brust- und Prostatakrebs). Die oft unbekannten Biosynthesewege für nkAS und die schwierige Übertragbarkeit auf standardisierte Verfahren mit etablierten Produktionsstämmen erwies sich in der Vergangenheit als große Herausforderung für die industrielle Herstellung. Eine Schlüsselrolle in der Produktion spielen mittlerweile Enzyme; also ausgerechnet Werkzeuge aus kanonischen Aminosäuren – und künftig vielleicht auch aus nicht-kanonischen.</abstract>
                     <abstract lang="eng">Non-canonical amino acids (ncAA) are amino acids that are not part of the standard genetic code and thus are excluded from cellular protein biosynthesis (translation). Amino acids such as α-l-amino acids with non-encoded residues, α-damino acids, and β-amino acids are most important as cellular metabolites and thus as pharmaceuticals. l-DOPA (remedy against Parkinson disease), d-phenylglycine and derivates as side chains of ampicillin and amoxicillin (the antibiotics mostly prescribed for children) as well as β-phenylalanine as pharmacophore of the chemotherapeutic agents Taxol® and Taxotere® (against breast and  prostata cancer a. o.) are prominent examples. The biosynthetic pathways for ncAA – often unknown – and the difficult transfer to standardized techniques with established production strains proved as a major challenge for the industrial production of these molecules in the past. Nowadays, enzymes play a key role in ncAA‘s production; tools that have been composed of canonical amino acids so far – and maybe of non-canonical amino acids in the near future.</abstract>
@@ -50,7 +50,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>4</number>
                             </detail>
                             <extent unit="page">
                                 <start>376</start>
@@ -58,6 +58,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             </extent>
                         </part>
                     </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4827</recordIdentifier>
                     </recordInfo>

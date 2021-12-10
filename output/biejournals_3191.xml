@@ -85,7 +85,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">33</extent>
+                        <extent unit="page">34</extent>
                     </physicalDescription>
                     <abstract lang="ger">Entlang von Textpassagen aus Ludwig Hubers Werk, die an dem zu seinen Ehren veranstalteten Gedenksymposion am 7. Dezember 2019 im Oberstufen-Kolleg diskutiert wurden, dokumentiert und reflektiert dieser Beitrag das breite Spektrum seines Wirkens. Die Textauswahl folgt dabei nicht dem Anspruch einer Repräsentativität oder einer disziplinär legitimierten Fachsystematik, sondern in Anlehnung an Ludwig Hubers Bildungsprogramm zur Auseinandersetzung mit relevanten Kulturgegenständen, also dem Anspruch subjektiver&amp;nbsp; Relevanzsetzungen. Kommentiert und diskutiert werden demnach Textpassagen Ludwig Hubers, die für das Denken der Autor*innen über gymnasiale Oberstufe, Hochschule und Forschung subjektiv bedeutsam geworden sind. Die ebenfalls dokumentierten Diskussionen aus den Lektüregruppen mit den Teilnehmer*innen des Gedenksymposions belegen die nachhaltige Aktualität der Gedanken und Argumente Ludwig Hubers.
 Along the text passages from Ludwig Huber’s work, which were discussed at the commemorative symposium on December 7, 2019, in the Oberstufen-Kolleg, this contribution documents and reflects the broad spectrum of his work. The selection of texts does not follow the claim of representativeness or a disciplinarily legitimized system of subject matter, but rather, in accordance with Ludwig Huber’s educational program for the confrontation with relevant cultural objects, i.e., the claim of subjective relevance. Accordingly, Ludwig Huber’s text passages, which have become subjectively significant for the authors’ thinking about upper secondary school, university, and research, will be commented on and discussed. The discussions documented from the reading groups with the participants of the commemorative symposium prove the lasting topicality of Ludwig Huber’s thoughts and arguments.</abstract>
@@ -102,9 +102,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>2</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 2</number>
-                            </detail>
                             <extent unit="page">
                                 <start>127</start>
                                 <end>160</end>
@@ -112,6 +109,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3191</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3191</recordIdentifier>
                     </recordInfo>

@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">3</extent>
+                        <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird aufgezeigt, dass die Phänomene Diversität, Leistung und Inklusion seit der Gründung des Oberstufen-Kollegs zentrale Topoi für die Forschungs- und Entwicklungsarbeit der Versuchsschule darstellen. Auch wenn sich die Terminologie in den letzten Jahrzehnten gewandelt hat, so hält die Beschäftigung mit diesen Phänomenen an. Die im Jahrbuch enthaltenen Beiträge werden entsprechend vor diesem Hintergrund mit Blick auf die Entwicklungen der Versuchsschule und ihrer Wissenschaftlichen Einrichtung Oberstufen-Kolleg kommentiert.</abstract>
                     <subject lang="ger">
@@ -44,9 +44,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>1</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 1</number>
-                            </detail>
                             <extent unit="page">
                                 <start>1</start>
                                 <end>4</end>
@@ -54,6 +51,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-1104</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1104</recordIdentifier>
                     </recordInfo>

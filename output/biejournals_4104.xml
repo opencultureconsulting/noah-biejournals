@@ -33,7 +33,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">7</extent>
+                        <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die massive Vermehrung winziger Algen im Meer, des Phytoplanktons, führt dazu, dass sich etwa in der Nordsee jedes Frühjahr eine sogenannte Algenblüte bildet. Die Algen bilden nicht nur die Grundlage der Nahrungskette, sie dienen auch Bakterien als Nahrung. Diese zersetzen die Algen und deren Überreste. Für die Bakterien ist dabei nicht entscheidend, welche Algenarten vorhanden sind, sondern welche Mehrfachzucker diese enthalten. Anhand der bakteriellen Genome können wir sehen, welche Bakterien vorkommen, welche Zucker sie vermutlich abbauen und welche Funktion sie im Kohlenstoffkreislauf voraussichtlich haben. Langzeituntersuchungen, Observatorien und Bioarchive sind unverzichtbar für diese Forschung, die angesichts des Klimawandels besonders relevant ist.</abstract>
                     <abstract lang="eng">The massive growth of tiny algae in the ocean, the phytoplankton, causes a so-called algae bloom to form every spring in the North Sea. The algae not only form the basis of the food chain, they also serve as food for bacteria, which decompose the algae and their remains. For the bacteria, it is not decisive which types of algae are present, but which polysaccharides they contain. Based on the bacterial genomes, we can see which bacteria are present, which sugars they might break down and what function they presumably have in the carbon cycle. Long-term studies, observatories and bioarchives are essential for this research, which is particularly relevant in view of climate change.</abstract>
@@ -50,7 +50,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>66</start>
@@ -59,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4104</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4104</recordIdentifier>
                     </recordInfo>

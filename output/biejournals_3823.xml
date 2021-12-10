@@ -84,7 +84,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-06</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">22</extent>
+                        <extent unit="page">23</extent>
                     </physicalDescription>
                     <abstract lang="ger">Seit dem Schuljahr 2014/15 wird die mündliche Reifeprüfung in Österreichs Allgemeinbildenden höheren Schulen verpflichtend kompetenzorientiert abgehalten. Anstatt wie bisher Reifeprüfungsfragen zu stellen, die von Schüler*innen hauptsächlich die Reproduktion von erworbenem Fachwissen verlangen, müssen Biologielehrer*innen nun Prüfungsaufgaben entwickeln, die den Kompetenzerwerb bei Schüler*innen sichtbar machen; d.h. die Fähigkeit, ihr Fachwissen in komplexen, lebensweltlichen Problemsituationen anwenden zu können. Studien aus Deutschland und der Schweiz haben bereits gezeigt, dass Biologielehrer*innen damit große Schwierigkeiten haben. In Österreich wird dies hier erstmals untersucht. Dazu wurden 100 Reifeprüfungsaufgaben, die von Biologielehrer*innen aus ganz Österreich im Zeitraum 2014-2016 entwickelt wurden, mittels eines Kategoriensystems quantitativ analysiert. Die Ergebnisse zeigen, dass der Großteil der Prüfungsaufgaben lediglich die Reproduktion oder Reorganisation von Fakten- bzw. Konzeptwissen in innerfachlichen Anwendung-kontexten verlangen. Deutlich seltener sind Aufgaben, die einen tatsächlichen Transfer des erlernten Wissens auf neue Anwendungssituationen bzw. im Umgang mit komplexen Problemsituationen erfordern. Die Erkenntnisse aus der Studie wurden dazu verwendet, Handreichungen zu entwickeln, die Biologielehrer*innen gezielt bei der Entwicklung von kompetenzorientierten Prüfungsaufgaben unterstützen.</abstract>
                     <subject lang="ger">
@@ -100,9 +100,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>25</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 25</number>
-                            </detail>
                             <extent unit="page">
                                 <start>87</start>
                                 <end>109</end>
@@ -110,6 +107,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/zdb-3823</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3823</recordIdentifier>
                     </recordInfo>

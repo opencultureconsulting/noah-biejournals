@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-02</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">8</extent>
+                        <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Betreuung von Studienprojekten im Rahmen des Praxissemesters, in denen Studierende in einer Verzahnung von Theorie und Praxis forschendes Lernen betreiben sollen, stellt kleine Fächer in der universitären Leh­rerbildung vor besondere Herausforderungen. Der vorliegende Beitrag zeigt am Beispiel des Faches Latein ein Praxismodell für den Ablauf der Praxissemesterstudienprojektbetreuung, der forschendes Lernen durch begleitete Formulierung der Forschungsfrage und begleitende Reflexionsimpulse unterstützt. Hinzu kommen als Sonderfälle die zeitliche Distanz zwischen Vorbereitungsveranstaltung und Praxissemester, die personelle Diskontinuität bei der Betreuung und die Einbindung von Promovierenden.</abstract>
                     <subject lang="ger">
@@ -46,7 +46,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>66</start>
@@ -55,6 +55,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/dimawe-3900</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3900</recordIdentifier>
                     </recordInfo>

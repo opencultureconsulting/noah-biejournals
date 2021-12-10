@@ -24,7 +24,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">6</extent>
+                        <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Meere mit ihren großen Oberflächen und Tiefen haben ihren Bewohnern im Laufe der Evolution zu einer erstaunlichen Fülle spezifischer Funktionsmorphologien verholfen. Das lässt sich an den Beispielen der harten Haifischzähne, den Wasserwiderstand mindernden Seeigelstacheln, kalottenförmigen Papageifischzähnen, den Angst einflößenden giftigen Seeschlangen und den extrem tief tauchenden Walen eindrucksvoll aufzeigen und kann zu entsprechenden technischen Anwendungen anregen.</abstract>
                     <abstract lang="eng">During the course of evolution, conditions in the wide and deep oceans have led to an amazing diversity of functional morphologies in living organisms. That can be impressively demonstrated with some examples: the hard teeth of sharks, the spines of sea urchins which so efficiently reduce water resistance, the tough teeth of Parrot fish with their dome-shaped caps, highly toxic frightening sea snakes and extremely deep diving whales – all of these animals displaying structures and processes that may trigger technical  applications.</abstract>
@@ -41,7 +41,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>3</number>
                             </detail>
                             <extent unit="page">
                                 <start>281</start>
@@ -50,6 +50,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4575</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4575</recordIdentifier>
                     </recordInfo>

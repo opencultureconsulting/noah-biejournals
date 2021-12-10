@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">10</extent>
+                        <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Artenkenntnis zu vermitteln ist im Kontext von Umweltbildung bedeutsam: So schützen Menschen besonders das, was sie kennen und lieben. Kinder interessieren sich sehr für Tiere in ihrem Lebensumfeld. Um dieses Interesse aufzugreifen, wird in diesem Beitrag ein Quiz beschrieben, bei welchem die Schüler*innen zwölf Tiere des heimischen Waldes mithilfe des Spielformates „Wer bin ich?“ erraten und so artspezifische Informationen lernen. Die spielerische Herangehensweise wirkt besonders motivierend und fördert so das Lernen.</abstract>
                     <subject lang="ger">
@@ -45,7 +45,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>23</start>
@@ -54,6 +54,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/dimawe-3285</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3285</recordIdentifier>
                     </recordInfo>

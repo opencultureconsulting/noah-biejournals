@@ -53,7 +53,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">12</extent>
+                        <extent unit="page">13</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im folgenden Beitrag wird ein Schülerexperiment zur experimentellen Bestimmung der Temperaturänderung beim Lösen von Salzen vorgestellt. Im Rahmen des Gesamtkonzeptes des Kurses haben sich die Schüler*innen davor mit der Dichte von Salzlösungen beschäftigt. Der für diese Unterrichtseinheit wichtige Energiebegriff wurde bereits in der Unterrichtseinheit zur Energieerhaltung am Beispiel des Fadenpendels eingeführt und wird hier in einem anderen Kontext aufgegriffen. Anhand des Experiments werden die energetischen Vorgänge beim Lösen eines Salzes erarbeitet.</abstract>
                     <subject lang="ger">
@@ -70,7 +70,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>67</start>
@@ -79,6 +79,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3305</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3305</recordIdentifier>
                     </recordInfo>

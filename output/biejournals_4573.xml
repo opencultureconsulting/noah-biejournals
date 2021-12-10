@@ -33,7 +33,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-09</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">7</extent>
+                        <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Projekt „Edmonds Urzeitreich“ ist eine bisher einzigartige Verbindung aus Museumsarbeit, Grabung und Forschung.Ein Dinosaurier-Bonebed wurde in Zusammenarbeit mit Bürgerwissenschaftler/-innen aus den USA nachFrankfurt verschifft und wird nun im Senckenberg Naturmuseum Frankfurt vor den Augen der Besucher/-innen ausgegraben. Parallel dazu erforscht ein Team aus Geowissenschaftler/-innen das ganze Ökosystem rund um den Fund, von den Pollen bis hin zur Nahrungsweise von Tyrannosaurus rex. Hierbei entsteht ein lebendiges und detailliertes Bild eines Ökosystems vor 70 Millionen Jahren – einer Zeit, in der die CO2-Konzentration in der Erdatmosphäre deutlich höherwar als heutzutage.</abstract>
                     <abstract lang="eng">The project “Edmonds prehistoric realm” is a so far unique combination of exhibition, excavation and research. A dinosaur bonebed was shipped from the USA to Frankfurt in collaboration with citizen scientists and is now being excavated in front of the visitors in the Senckenberg Natural History Museum Frankfurt. At the same time, a team of geoscientists is analysing the entire ecosystem surrounding the findings, from pollen to the diet of Tyrannosaurus rex. This offers the chance to create a vivid and detailed reconstruction of an ecosystem 70 million years ago – a time when the CO2 concentration in the Earth’s atmosphere was significantly higher than today.</abstract>
@@ -50,7 +50,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>3</number>
                             </detail>
                             <extent unit="page">
                                 <start>238</start>
@@ -59,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4573</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4573</recordIdentifier>
                     </recordInfo>

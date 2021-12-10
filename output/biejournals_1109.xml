@@ -61,7 +61,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">21</extent>
+                        <extent unit="page">22</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Qualifizierung der pädagogischen Fachkräfte für die inklusive Bildung im Sekundarbereich stellt eine zentrale Herausforderung dar. „Inklusion“ und „Leistung“ können im Kontext eines nach Leistung differenzierenden selektiven Schulsystems und angesichts einer verstärkten Leistungsorientierung und standardisierten Leistungsüberprüfung als unvereinbar erscheinen. Zugleich zielt inklusive Bildung programmatisch sowohl auf die Anwesenheit von Schüler*innen mit sonderpädagogischen Förderbedarfen in der Regelschule als auch auf den Prozess der Förderung der Akzeptanz, Partizipation und Lern- und Leistungsentwicklung aller Schüler*innen. Aus sozialkonstruktivistischer Perspektive ist hierbei „Leistung“ nicht einfach gegeben, sondern wird in der Schule hergestellt und ist verwoben mit sozialen Differenzkategorien. Ein reflexiver Umgang mit Leistung stellt eine zentrale Anforderung für die Lehrpersonen dar. Das Verbundprojekt Reflexion, Leistung und Inklusion zielt im Rahmen eines Forschungs- und Entwicklungsdesigns auf die Identifizierung von Qualifizierungserfordernissen und -inhalten für einen reflexiven Umgang mit Leistung in der inklusiven Sekundarstufe auf Basis einer qualitativen Untersuchung an zwei Gesamtschulen und zwei Gymnasien. Hierbei wird der Umgang mit der (erweiterten) Leistungsheterogenität im zieldifferenten Unterricht (Förderschwerpunkt Lernen) sowie die Relation von Leistung und Verhalten (Förderschwerpunkt Emotionale und soziale Entwicklung) vertiefend untersucht. Bilden die schulorganisatorischen Kategorien den Ausgangspunkt, rücken im Forschungsprozess die konkreten Konstruktionen von Differenz in den Blick. Im Sinne einer fokussierten Ethnographie erfolgt eine teilnehmende Beobachtung, ergänzt u.a. um ausgewählte Dokumente und Interviews mit Lehrkräften und Lernenden. Die Auswertung orientiert sich an der Grounded Theory. Hierauf aufbauend werden in Kooperation mit der Wissenschaftlichen Einrichtung Oberstufen-Kolleg Materialien für die kasuistische Lehrer*innenaus- und -fortbildung entwickelt und erprobt. Es werden Lehrer*innenfortbildungen (Einzelworkshops) durchgeführt und die Reaktionsmuster der Lehrpersonen rekonstruiert. Auf dieser Basis wird eine längerfristige schulinterne Fortbildung entwickelt.</abstract>
                     <subject lang="ger">
@@ -77,9 +77,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>1</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 1</number>
-                            </detail>
                             <extent unit="page">
                                 <start>84</start>
                                 <end>105</end>
@@ -87,6 +84,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-1109</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1109</recordIdentifier>
                     </recordInfo>

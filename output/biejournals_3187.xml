@@ -45,7 +45,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">16</extent>
+                        <extent unit="page">17</extent>
                     </physicalDescription>
                     <abstract lang="ger">In Bezug auf die Gewährleistung von Chancengleichheit benennt der Bildungsbericht 2018 die ausreichende bildungsbezogene Versorgung von ländlichen sowie eher strukturschwachen Regionen als eine der wichtigsten und schwierigsten Herausforderungen. Damit sind Phänomene sozialer Ungleichheit angesprochen, die sich aus Differenzen zwischen (urbanem) Zentrum und (ländlicher) Peripherie ergeben. In diesem Kontext versprechen kulturelle Bildungsprojekte in ländlichen Räumen notwendige Transformationseffekte hin-sichtlich sozial-kultureller Teilhabe sowie eine entsprechende Persönlichkeits-, Kompetenz- und Strukturentwicklung. Gleichzeitig stellt sich jedoch die Frage, &amp;nbsp;inwieweit Ansätze Kultureller Bildung, die tendenziell durch einen „urbanen Stil“ geprägt sind, Transformations- und Integrationsprozesse in ländlichen Räumen tatsächlich in Gang setzen können. Dieser Gegenstandsraum wird mit dem BMBF-Verbundvorhaben „Passungsverhältnisse Kultureller Bildungsnetzwerke und Kultur(en) in ländlichen Räumen im Kontext sozialer Teilhabe“ (PaKKT) sowohl netzwerktheoretisch als auch bildungs- und kulturtheoretisch konturiert. Im Zentrum stehen dabei kulturelle Bildungsnetzwerke in sehr peripheren ländlichen Räumen. Der Beitrag stellt die theoretische Konzeption, das Forschungsdesign sowie das in Kooperation mit der Wissenschaftlichen Einrichtung Oberstufen-Kolleg entwickelte Transferkonzept des Verbundprojekts vor.
 With regard to ensuring equal opportunities, the Education Report 2018 identifies the provision of sufficient education-related services to rural and structurally weak regions as one of the most important and most difficult challenges. This addresses phenomena of social inequality resulting from differences between (urban) centers and (rural) peripheries. In this context, cultural education projects in rural areas promise necessary transformation effects with regard to social and cultural participation as well as corresponding personal, competence-related and structural development. At the same time, the question arises to what extent approaches to cultural education, which tend to be characterized by an “urban style”, can actually set transformation and integration processes in rural areas in motion. The BMBF joint project “The Fitting of Cultural Education Networks and Culture(s) in Rural Areas in the Context of Social Participation (PaKKT)” will contour this area in terms of network theory, cultural theory, and theory of “Bil-dung”. The focus is on cultural education networks in very peripheral rural areas. This article presents the theoretical conception and the research design of the joint project and introduces the transfer concept, which was developed in co-operation with the Wissenschaftliche Einrichtung Oberstufen-Kolleg.</abstract>
@@ -62,9 +62,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>2</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 2</number>
-                            </detail>
                             <extent unit="page">
                                 <start>65</start>
                                 <end>81</end>
@@ -72,6 +69,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3187</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3187</recordIdentifier>
                     </recordInfo>

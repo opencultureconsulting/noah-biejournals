@@ -37,7 +37,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-09-22</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">22</extent>
+                        <extent unit="page">23</extent>
                     </physicalDescription>
                     <abstract lang="ger">Seit vielen Jahrzehnten versucht die naturwissenschaftsdidaktische Entwicklung die Lernwirksamkeit lernendenaktiver Experimentierphasen durch innovative, unterschiedlich akzentuierte Unterrichtskonzepte zu fördern. Unterrichtskonzepte sind Gesamtorientierungen didaktisch-methodischen Handelns, in denen ein begründeter Zusammenhang von Ziel-, Inhalts- und Methodenentscheidungen hergestellt wird. Dies hat zu einer Vielzahl von namens- wie auch teils inhaltsgleichen Unterrichtskonzepten geführt, aus deren Nebeneinander Lehrkräfte möglichst geeignete Ansätze für ihren Unterricht auswählen sollen. In diesem Artikel werden prominente Unterrichtskonzepte zum Experimentieren gesichtet, geordnet und bezüglich ihrer Potenziale untersucht, Experimentieren im Sinne der Bildungsstandards zu fördern. Zur Analyse werden vornehmlich im deutschsprachigen Raum besprochene Unterrichtskonzepte ausgewählt, die konstruktivistischen Theorien zum aktiven Lernen folgen. Grundlage des kriteriengeleiteten Vergleichs sind acht theoretisch begründete Unterrichtsprinzipien: (P1) ‚Teilprozesse des Experimentierens berücksichtigen‘, (P2) ,Experimentieren als expliziter Unterrichtsgegenstand‘, (P3) ‚Experimentieren üben‘, (P4) ‚Experimentieren zum Problemlösen einsetzen‘, (P5) ‚Prozessreflektierend experimentieren‘, (P6) ‚Grenzen von Experimenten ansprechen‘, (P7) ‚Wissenschaftliche Strenge walten lassen‘, (P8) ‚Zunehmende Selbstständigkeit der Lernenden beim Experimentieren‘. Als Ergebnis ist festzustellen, dass keines der untersuchten Unterrichtskonzepte alle acht Unterrichtsprinzipien berücksichtigt. Besonders hinsichtlich einer zunehmenden Lernendenselbstständigkeit und des Übens wissenschaftlichen Experimentierens wurden bei vielen Unterrichtskonzepten Leerstellen identifiziert. Die Konzepte des Forschend-entdeckenden Lernens nach Höttecke und des Forschenden Lernens nach Arnold versprächen, nach Erweiterung um einen Übungs-Aspekt, die Berücksichtigung aller Unterrichtsprinzipien.</abstract>
                     <subject lang="ger">
@@ -53,9 +53,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>24</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 24</number>
-                            </detail>
                             <extent unit="page">
                                 <start>108</start>
                                 <end>130</end>
@@ -63,6 +60,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-3395</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3395</recordIdentifier>
                     </recordInfo>

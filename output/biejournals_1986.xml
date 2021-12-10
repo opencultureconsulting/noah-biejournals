@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">14</extent>
+                        <extent unit="page">15</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der vorliegende Text unternimmt den Versuch, die von Vertretern der Fachdidaktiken am Standort Bielefeld erstellten sogenannten „Profile Forschendes Lernen“ als Ausdruck eines „normativen Isomorphismus“ zu deuten. Auf Bekenntnisebene reagieren die Profilpapiere mit der Affirmation des Konzepts Forschendes Lernen sowie den damit verknüpften Wirkungshoffnungen unter dem Schlagwort Professionalisierung, was auf die Sonderstellung der Fachdidaktiken im wissenschaftlichen Feld zurückgeführt wird. Der normative Isomorphismus kann so als Ausdruck eines konstitutiv-disziplinären Gegenstandsbezugs des wissenschaftlichen Felds Fachdidaktik gelesen werden, der primär darauf gerichtet ist, die eigene professionelle Disziplinenbildung voranzutreiben.</abstract>
                     <subject lang="ger">
@@ -38,7 +38,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>146</start>
@@ -47,6 +47,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1986</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1986</recordIdentifier>
                     </recordInfo>

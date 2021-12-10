@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">8</extent>
+                        <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Forschende Lernen in den Bildungswissenschaften an der Universität Bielefeld wird beschrieben. Neben einem Überblick über die Rahmenbedingungen wird anhand des Vorgehens des Autors und einer fakultätsweiten Interessengruppe die Ausrichtung von Forschendem Lernen im Praxissemester detaillierter ausgeführt.</abstract>
                     <subject lang="ger">
@@ -37,7 +37,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>28</start>
@@ -46,6 +46,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1968</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1968</recordIdentifier>
                     </recordInfo>

@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-05-28</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">8</extent>
+                        <extent unit="page">9</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Verständnis der Terminologie einer Naturwissenschaft ist essentiell für eine erfolgreiche Teilnahme am Unterricht. Fachspezifische Begriffe sollen dabei nicht additiv, sondern am konkreten Fall gelernt werden. Der vorliegende Beitrag gibt zunächst eine problemorientierte Übersicht über Aufgaben und Lösungsvorschläge zu dem Phänomen der Thermoregulation bei Lebewesen und zeigt, wie uneinheitlich die dabei verwendeten Fachbegriffe homoiotherm/poikilotherm bzw. endo- und ektotherm in verschiedenen Lehrbüchern und Lehrmaterial präsentiert werden. Daran anschließend wird kurz diskutiert, unter welchen Bedingungen diese Begriffe im Unterricht eingeführt werden sollten und wobei es darauf zu achten gilt.</abstract>
                     <subject lang="ger">
@@ -36,9 +36,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>23</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 23</number>
-                            </detail>
                             <extent unit="page">
                                 <start>1</start>
                                 <end>9</end>
@@ -46,6 +43,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1625</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1625</recordIdentifier>
                     </recordInfo>

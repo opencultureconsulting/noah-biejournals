@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">7</extent>
+                        <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Sachunterricht ist ein Unterrichtsfach, das sich durch Interdisziplinarität, hohen Lebensweltbezug und ein offenes Curriculum auszeichnet. Im Verständnis der Autorin braucht es in der Lehre die Zusammenarbeit von Expert*innen mit unterschiedlichem fachlichem Hintergrund, um die Breite abdecken zu können. Die Studierenden, die später dieses Fach unterrichten werden, können im Studium Planungskompetenz aufbauen, um aus der Fülle der möglichen Inhalte auswählen zu können und Kompetenzentwicklung im Unterricht zu ermöglichen.</abstract>
                     <subject lang="ger">
@@ -38,7 +38,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>5</number>
                             </detail>
                             <extent unit="page">
                                 <start>123</start>
@@ -47,6 +47,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/pflb-4781</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4781</recordIdentifier>
                     </recordInfo>

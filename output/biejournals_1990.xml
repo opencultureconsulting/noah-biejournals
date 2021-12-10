@@ -36,7 +36,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-04-03</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">14</extent>
+                        <extent unit="page">15</extent>
                     </physicalDescription>
                     <abstract lang="ger">Biologische Unterrichtstexte können insbesondere für Schüler/-innen mit Migrationshintergrund einige Sprachbarrieren ent-halten, die zu einem geringeren Verständnis der Fachinhalte beitragen können. Parallel zu diesem Umstand erfährt die Leichte Sprache in der Gesellschaft zunehmend an Präsenz. Diese soll Sprachbarrieren in der Gesellschaft senken, wurde jedoch bisher kaum im schulischen Bereich untersucht. Da einige Primäradressaten/-innen der Leichten Sprache im Schulbereich zu finden sind und diese häufig mit den möglichen Sprachbarrieren biologischer Unterrichtstexte konfrontiert werden, beschäftigt sich die Studie mit dem Einsatz der Leichten Sprache im Biologieunterricht. Im Rahmen der vorliegenden Studie konnten mittels Unterrichtsbeobachtungen und anschließender Interviews erste Erkenntnisse darüber gesammelt werden, wie Schüler/-innen einer Oberschule im neunten Jahrgang den Einsatz der Leichten Sprache einschätzen und wie diese sich bei der Wahl zwischen standardsprachlichen Schulbuchtexten und Texten in Leichter Sprache entscheiden würden. Dabei erwiesen sich die Texte in Leichter Sprache als eine geeignete Alternative zu den standardsprachlichen Biologietexten, da die Mehrheit der Schüler/-innen sich für diese Textvariante entschied. Im Rahmen der Interviewbefragung wurden vor allem die Aspekte der Kompaktheit sowie der Zugänglichkeit von Texten in Leichter Sprache als positiv ermittelt.Biological texts in educational settings may pose several linguistic barriers especially for students with a migration background. On the other hand, the concept of plain language (Leichte Sprache) is becoming increasingly present and prominent in German society. Leichte Sprache is supposed to lower linguistic barriers in society but has not been evaluated in the school context yet. Since there can be found numerous addressees of Leichte Sprache in the school context, who may be confronted with linguistic barriers of biological texts, the study presented here deals with the implementation of Leichte Sprache in biology lessons. By means of observations and interviews first insights are given about how grade nine students at a middle school rate the imple-mentation of Leichte Sprache in Biology teaching material and how they decide when having the choice between texts in standard language or Leichte Sprache. It has been found out that texts in Leichte Sprache were accepted as an alternative to the standard biological texts as the majority of the students observed chose this linguistic variant. In the interviews students rated characteristics like compactness and accessibility of the texts in Leichte Sprache positively.</abstract>
                     <subject lang="ger">
@@ -52,9 +52,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>24</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 24</number>
-                            </detail>
                             <extent unit="page">
                                 <start>14</start>
                                 <end>28</end>
@@ -62,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1990</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1990</recordIdentifier>
                     </recordInfo>

@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-05-04</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">11</extent>
+                        <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">In dem Beitrag wird die strukturelle Vielfalt und das Kompatibilitätsproblem der Lehrer*innenbildung innerhalb eines Bundeslandes thematisiert. Exemplarisch wird dazu das Grund-, Haupt- und Realschullehramt in Niedersachsen analysiert. Auf Grundlage der in Niedersachsen gültigen Verordnung über Masterabschlüsse für Lehrämter werden sechs Universitäten hinsichtlich ihrer Studienbestandteile verglichen. Es kann gezeigt werden, dass ein Universitätswechsel nach dem Bachelorstudium innerhalb Niedersachsens nur in elf von 30 Fällen ohne Auflagen möglich ist.</abstract>
                     <subject lang="ger">
@@ -45,7 +45,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>480</start>
@@ -54,6 +54,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/hlz-2524</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_2524</recordIdentifier>
                     </recordInfo>

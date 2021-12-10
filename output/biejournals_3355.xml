@@ -61,7 +61,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">20</extent>
+                        <extent unit="page">21</extent>
                     </physicalDescription>
                     <abstract lang="ger">In diesem Beitrag wird zunächst anhand ausgewählter Themenbereiche das Konzept der Laborschule Bielefeld dargestellt. So wird der Großraum als Rahmen für das Lernen beschrieben, und es werden die Aktivitäten und die Organisation im Bereich der Inklusion und des Lernens durch Erfahrung vorgestellt. Anschließend wird das Modell der Forschung und Entwicklung an der Laborschule thematisiert. Insbesondere wird der Fokus auf die Strukturen und Prozesse gelegt, die die Praxisforschung an der Laborschule unterstützen.
 In this article, first, the concept of the Laborschule (Laboratory School) Bielefeld is presented using selected topics. Thus, the open plan layout of the school building is described as a framework for learning as well as the activities and organization in the field of inclusion and learning by experience. Second, the model of research and development at the Laboratory School is discussed. The focus lies, in particular, on the structures and processes that support action research at the Laboratory School.</abstract>
@@ -78,9 +78,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>3</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 3</number>
-                            </detail>
                             <extent unit="page">
                                 <start>77</start>
                                 <end>97</end>
@@ -88,6 +85,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3355</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3355</recordIdentifier>
                     </recordInfo>

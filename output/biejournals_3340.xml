@@ -30,7 +30,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">25</extent>
+                        <extent unit="page">26</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Universitätsschule Dresden, etabliert durch die Technische Universität Dresden, steht in der Tradition der sogenannten Laboratory Schools. Sie ist der Idee entsprungen Schulentwicklung aus wissenschaftlichen Erkenntnissen heraus gestalten zu können. Ausgehend von einer kurzen Darlegung der entwicklungspsychologischen Grundlagen der kulturhistorischen Theorie und des didaktischen Modells (die entwicklungslogische Didaktik) des wissenschaftlichen Konzeptes dieses Schulversuches werden ausgewählte Elemente der bisherigen schulischen Umsetzung dargelegt: Lernen in Projekten, Feedbackkultur, Rolle des Raums, Rolle der Lernbegleiter*innen, Zeitkonten für Schüler*innen und Lernbegleiter*innen, Rhythmisierung des Schultages und Nachvollziehbarkeit des Lernprozesses. Abschließend wird dargelegt, wie sich den damit verbundenen Herausforderungen für die Lern- und folglich Schulorganisation durch die Digitalisierung der Schule gestellt wird.
 &amp;nbsp;</abstract>
@@ -47,9 +47,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>3</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 3</number>
-                            </detail>
                             <extent unit="page">
                                 <start>11</start>
                                 <end>36</end>
@@ -57,6 +54,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3340</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3340</recordIdentifier>
                     </recordInfo>

@@ -36,7 +36,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">5</extent>
+                        <extent unit="page">6</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Beitrag stellt die grundsätzliche Bedeutung Forschenden Lernens für die Entwicklung sozialwissenschaftsdidaktischer Professionalität im Praxissemester heraus. Am Beispiel der sozialwissenschaftlichen Fachdidaktik konkretisiert sich Forschendes Lernen über dessen Verzahnung mit Fachdidaktischen Prinzipien und der Orientierung an den Qualitätskriterien der Wissenschaftlichkeit, der Gesellschaftlichkeit und der theorie- wie methodenbasierten (Selbst-) Reflexivität.</abstract>
                     <subject lang="ger">
@@ -53,7 +53,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>56</start>
@@ -62,6 +62,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1973</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1973</recordIdentifier>
                     </recordInfo>

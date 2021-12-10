@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">16</extent>
+                        <extent unit="page">17</extent>
                     </physicalDescription>
                     <abstract lang="ger">Traditionell gibt es ein Spannungsverhältnis zwischen humanistischen bzw. reformpädagogischen Bildungsansprüchen einerseits und den ökonomischen Bedingungen gesellschaftlicher Reproduktion andererseits, das sich derzeit im bildungspolitischen Diskurs als „Kritik an der Ökonomisierung des Bildungssystems“ artikuliert. Da es sich angesichts des humanistischen Anspruchs der Zweckfreiheit von Bildung in Abgrenzung zur schulischen Qualifikationsfunktion bei diesem Spannungsverhältnis um ein strukturell bedingtes handelt, gehen wir davon aus, dass es sich nicht abschließend auflösen, wohl aber produktiver oder eben weniger produktiv bearbeiten lässt. Im vorliegenden Beitrag sind wir daher der Frage nachgegangen, inwieweit sich die reformpädagogischen Bemühungen der Versuchsschule Oberstufen-Kolleg auch volkswirtschaftlich abbilden lassen, d.h. eine ökonomische Rendite erzeugen, zugleich aber damit besondere Aufmerksamkeit der Frage gewidmet werden muss, inwiefern ökonomische Motive in Spannung zu den reformpädagogischen Ansprüchen geraten. Zur analytischen Abarbeitung führen wir hierfür die begriffliche Differenzierung zwischen ökonomischer und pädagogischer Effizienz und Effektivität ein. Im Fazit des Beitrags versuchen wir aufzuzeigen, dass es sich unseres Erachtens bei der Differenz zwischen effizienzorientiertem ökonomischen Denken und den Zielbestimmungen von Pädagogik, nämlich Bildung, Mündigkeit und Selbstbestimmung, nicht um einen kontradiktorischen Widerspruch handelt, d.h. einen solchen, in dem sich zwei Elemente unvereinbar gegenüberstehen, wohl aber einen konträren Widerspruch, d.h. einen solchen, in dem zwei Pole einander gegenüberstehen und die pädagogische Aufgabe darin besteht, dieses widersprüchliche Moment möglichst produktiv und konstruktiv miteinander zu vermitteln. Dies erweist sich in einem zugleich humanistischen Ansprüchen und marktwirtschaftlichen Prinzipien folgenden Bildungssystem als dauerhafte sowohl kritische als auch kritisch-konstruktive Vermittlungsaufgabe.</abstract>
                     <subject lang="ger">
@@ -44,9 +44,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>1</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 1</number>
-                            </detail>
                             <extent unit="page">
                                 <start>136</start>
                                 <end>152</end>
@@ -54,6 +51,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-1112</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1112</recordIdentifier>
                     </recordInfo>

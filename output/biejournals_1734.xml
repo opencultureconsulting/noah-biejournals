@@ -36,7 +36,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-07</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">12</extent>
+                        <extent unit="page">13</extent>
                     </physicalDescription>
                     <abstract lang="ger">Bewertungskompetenz von Schüler/innen zu fördern stellt Lehrkräfte der Biologie vor besondere Herausforderungen, da der naturwissenschaftliche Unterricht um eine ethische Dimension erweitert wird. Der vorliegende Beitrag gibt einen Überblick über Ansätze für die Unterrichtspraxis und macht einen Vorschlag, wie das Professionswissen angehender Biologielehrkräfte mithilfe der Ergebnisse biologiedidaktischer Forschung in der universitären Lehre gefördert werden kann. Damit richtet sich dieser Beitrag insbesondere an Kolleg/innen der Lehrkräftebildung, die bestrebt sind, Lehramtsstudierende während des Studiums auf den Umgang mit Bewertungskompetenz vorzubereiten.</abstract>
                     <subject lang="ger">
@@ -52,9 +52,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>24</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 24</number>
-                            </detail>
                             <extent unit="page">
                                 <start>1</start>
                                 <end>13</end>
@@ -62,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1734</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1734</recordIdentifier>
                     </recordInfo>

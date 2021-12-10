@@ -44,7 +44,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">16</extent>
+                        <extent unit="page">17</extent>
                     </physicalDescription>
                     <abstract lang="ger">Bereits in der Schule ist es notwendig, ein Verständnis von wissenschaftlichen Forschungsprozessen und dem Zustandekommen der daraus resultierenden Befunde, Schlüsse und Darstellungen zu fördern, um Schüler*innen so auf einen kompetenten Umgang mit Informationen im Alltag vorzubereiten. In diesem Beitrag wird ein Ansatz vorgestellt, wie diese Förderung im Rahmen eines Naturwissenschaftskurses für die Eingangsphase der Oberstufe erfolgen kann.</abstract>
                     <subject lang="ger">
@@ -61,7 +61,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>144</start>
@@ -70,6 +70,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3995</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3995</recordIdentifier>
                     </recordInfo>

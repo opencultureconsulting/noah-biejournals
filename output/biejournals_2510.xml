@@ -51,7 +51,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-01-29</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">12</extent>
+                        <extent unit="page">13</extent>
                     </physicalDescription>
                     <abstract lang="ger">Vorgestellt wird eine 90-minütige Einführungssitzung in die Botanik mit Bezügen zu Chronobiologie, Evolution und Zoologie. Die Sitzung zeichnet sich durch einen hohen Eigenanteil der Studierenden aus, in dem diese mit Hilfe von rätselartigen, authentischen Problemstellungen botanische Grundkonzepte (Blattaufbau, Blütenaufbau, Wind- und Tierbestäubung) erarbeiten. Die bisherigen Erfahrungen bei der Durchführung der Einführungssitzung haben gezeigt, dass ein zumeist eher als uninteressant wahrgenommenes Thema in einem interessanten, authentischen und autonomieförderlichen Rahmen zu „verstecken“ möglich ist:
 Die Blumenuhr von Carl von Linné wirft die Fragen auf, woher Pflanzen wissen, wie spät es ist und wieso sich manche Blüten zu verschiedenen Zeiten öffnen und schließen. Der ersten Frage wird in einem kurzen Vortrag nachgegangen, in diesem werden auch die aktuellen Erkenntnisse zur Inneren Uhr von Drosophila (Nobelpreis 2017) vorgestellt, sowie die Unterschiede zwischen der Inneren Uhr und einer lichtinduzierten Reaktion bei Pflanzen. In der Gruppenarbeitsphase assistieren die Studierenden einem (ausgedachten) Schüler von Carl von Linné bei der Prüfung neuer Pflanzen für die Blumenuhr und erfahren so, dass das Öffnen und Schließen zu bestimmten Zeiten koevolutive Gründe hat, wieso sich hierfür keine windbestäubten Blüten eignen, was die Blüte überhaupt ist und wie der basale Bauplan der Pflanzen aussieht.</abstract>
@@ -70,7 +70,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>67</start>
@@ -79,6 +79,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/hlz-2510</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_2510</recordIdentifier>
                     </recordInfo>

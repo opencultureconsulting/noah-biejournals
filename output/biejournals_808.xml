@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="eng">
                         <title>Review of the Book</title>
-                        <subTitle> Kerry J. Kennedy; Andreas Brunold (Ed.) 2016. Regional Context and Citizenship Education in Europe and Asia, London</subTitle>
+                        <subTitle>Kerry J. Kennedy; Andreas Brunold (Ed.) 2016. Regional Context and Citizenship Education in Europe and Asia, London</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Chung, Ming-Lun</displayForm>
@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2016-12-11</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">2012</extent>
+                        <extent unit="page">3</extent>
                     </physicalDescription>
                     <subject lang="ger">
                     </subject>
@@ -42,12 +42,13 @@
                         <identifier type="issn">1618-5293</identifier>
                         <part>
                             <extent unit="page">
-                                <start>4</start>
-                                <end>2016</end>
+                                <start>68</start>
+                                <end>70</end>
                             </extent>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/jsse-808</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_808</recordIdentifier>
                     </recordInfo>

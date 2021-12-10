@@ -52,7 +52,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-26</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">12</extent>
+                        <extent unit="page">13</extent>
                     </physicalDescription>
                     <abstract lang="ger">Forschungsberatung für Studierende wird mit der Zunahme des Forschenden Studierens bzw. Forschenden Lernens immer bedeutsamer. In diesem Beitrag werden nach der Klärung der Verständnisse von Forschendem Studieren und von Beratung die Kontexte und Anlässe für Forschungsberatung thematisiert. Diese detaillierte Betrachtung von Forschungsberatung soll als Reflexionsangebot ggf. auch für die Entwicklung eigener Beratungsformate dienen.</abstract>
                     <subject lang="ger">
@@ -69,7 +69,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>97</start>
@@ -78,6 +78,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3556</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3556</recordIdentifier>
                     </recordInfo>

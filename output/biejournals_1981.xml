@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">3</extent>
+                        <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="ger">In der Philosophiedidaktik an der Universität Bielefeld wird mit dem Konzept der fachdidaktischen Transformation (Johannes Rohbeck) gearbeitet, um das Forschende Lernen bei Studierenden im Praxissemester anzuleiten. Der Grad an Professionalität als Philosophielehrkraft wird daran gemessen, wie gut die fachdidaktische Transformation gelingt. Studierende haben durch das Verfahren die Möglichkeit, an sich forschend zu erlernen, wie guter Philosophieunterricht bereits im Praxissemester gelingen kann.</abstract>
                     <subject lang="ger">
@@ -37,7 +37,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>98</start>
@@ -46,6 +46,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1981</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1981</recordIdentifier>
                     </recordInfo>

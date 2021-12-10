@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-27</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">10</extent>
+                        <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Autor reflektiert seine Rolle als Hochschullehrer im Wissenschaftssystem der Universität. Lehren ist Fördern zum Lernen. Die Lehre an Hochschulen steht in einem engen Verhältnis zur Forschung. Durch Lehre wird Forschung öffentlich und kulturell wirksam. Deshalb sollte Lehre an Hochschulen gleichrangig mit – wenn nicht vorrangig zu – Forschung bewertet werden. Lehre betrifft entscheidend die Verantwortung der Wissenschaftler*innen und damit zentral die Wissenschaftsethik. Diesem Verständnis von Forschung und Lehre entspricht das Modell der Didaktischen Rekonstruktion.</abstract>
                     <subject lang="ger">
@@ -38,7 +38,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>5</number>
                             </detail>
                             <extent unit="page">
                                 <start>102</start>
@@ -47,6 +47,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/pflb-4779</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4779</recordIdentifier>
                     </recordInfo>

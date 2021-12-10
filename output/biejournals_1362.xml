@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2016-01-01</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">2</extent>
+                        <extent unit="page">3</extent>
                     </physicalDescription>
                     <abstract lang="ger">Neuerrichtung des Interdisziplinären Zentrums für Geschlechterforschung (IZG)
 Bielefelder Gleichstellungspreis 2015: Kategorie Genderforschung
@@ -36,6 +36,9 @@ Projekt der Gleichstellungsbeauftragten „Gender 2020“</abstract>
                         </titleInfo>
                         <identifier type="issn">2567-2045</identifier>
                         <part>
+                            <detail type="issue">
+                                <number>5</number>
+                            </detail>
                             <extent unit="page">
                                 <start>76</start>
                                 <end>78</end>
@@ -43,6 +46,7 @@ Projekt der Gleichstellungsbeauftragten „Gender 2020“</abstract>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/izgonzeit-1362</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1362</recordIdentifier>
                     </recordInfo>

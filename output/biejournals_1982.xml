@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">4</extent>
+                        <extent unit="page">5</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Praxissemester sollen auch im Fach Sachunterricht eine forschende Grundhaltung, Reflexionsvermögen und die Urteilsfähigkeit innerhalb der Disziplin gefördert werden (WR, 2001). In einem vielperspektivischen Fach wie dem Sachunterricht stellen sich hier besondere Herausforderungen in der Auseinandersetzung mit der Sachunterrichtsdidaktik als wissenschaftlicher Disziplin.</abstract>
                     <subject lang="ger">
@@ -46,7 +46,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>1</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 1</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>102</start>
@@ -55,6 +55,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-1982</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1982</recordIdentifier>
                     </recordInfo>

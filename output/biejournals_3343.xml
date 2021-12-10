@@ -54,7 +54,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">9</extent>
+                        <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="ger">An der Universität Potsdam, der einzigen lehrkräftebildenden Hochschule des Landes Brandenburg, wird im Kontext eines vom Bundesministerium für Bildung und Forschung finanzierten Transferprojekts die Konzeptionierung und Gründung einer Universitätsschule vorangetrieben. Der Beitrag umreißt zunächst den projektspezifischen Zugriff sowie landesspezifische Merkmale der Lehrkräftebildung und Schullandschaft, da die Universitätsschule als staatliche Schule konzeptioniert wird, die Modell- und Transfercharakter für ganz Brandenburg haben soll. Das Konzept der Universitätsschule, das gemeinsam von Vertreter*innen der Universität und der Schulpraxis entwickelt wird, schafft ein pädagogisch-didaktisches Gerüst für eine Schule, an der drei Schwerpunkte verwirklicht werden sollen: Ermöglichung evidenzbasierter Forschungssettings und enger Kooperationen zwischen Wissenschaft und Schulpraxis; Impulse für eine größere Praxisnähe des Lehramtsstudiums; Umsetzung curricularer Innovationen, die möglicherweise von anderen Schulen adaptierbar sind.
 At the University of Potsdam, the only teacher training university in the state of Brandenburg, the conceptual design and founding of a university school is being pursued in the context of a transfer project financed by the Federal Ministry of Education and Research. This article first outlines the project-specific approach as well as the specific characteristics of teacher training and public school forms in Brandenburg, since the university school is being conceived as a public school that is to serve as a model for the whole of Brandenburg. The concept of the university school, which is being developed jointly by representatives of the university and schools in the region, creates a pedagogical-didactic framework for a school that wants to realize three main goals: enabling evidence-based research settings and close cooperation between science and educational practice; impulses for a greater practical relevance of teacher training; implementation of curricular innovations that can potentially be adapted by other schools.</abstract>
@@ -71,9 +71,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>3</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 3</number>
-                            </detail>
                             <extent unit="page">
                                 <start>132</start>
                                 <end>141</end>
@@ -81,6 +78,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3343</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3343</recordIdentifier>
                     </recordInfo>

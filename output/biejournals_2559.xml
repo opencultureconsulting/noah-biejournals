@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="ger">
                         <title>Videobasiertes Lehrmodul im Fach Deutsch</title>
-                        <subTitle> Heterogenitätssensible Förderung des Textverstehens</subTitle>
+                        <subTitle>Heterogenitätssensible Förderung des Textverstehens</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Winter, Katja</displayForm>
@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-03-25</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">21</extent>
+                        <extent unit="page">22</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Förderung des Textverstehens ist eine zentrale Aufgabe des Deutschunterrichts aller Schulstufen und -formen. Sie bedarf – vor allem mit Blick auf die unterschiedlichen sprachlichen, kognitiven und metakognitiven Voraussetzungen von Schüler*innen – einer auf Diagnose basierenden heterogenitätssensiblen Unterrichts- und Materialgestaltung. Dies setzt spezifische Kompetenzen der Deutschlehrkräfte voraus, die bereits in der ersten Lehrerbildungsphase angebahnt werden können. Hier setzt das videobasierte Lehrmodul an, das im Rahmen des Teilprojekts der Qualitätsoffensive Lehrerbildung Videobasierte Lehrmodule als Mittel der Theorie-Praxis-Reflexion an der WWU Münster konzipiert wurde. Durch die Analyse der im Lehrmodul einbezogenen Videosequenzen, die Good-Practice-Unterrichtsbeispiele zeigen, werden die Lehramtsstudierenden des Faches Deutsch nicht nur für verschiedene Möglichkeiten einer differenzierten Lernunterstützung im Lesestrategietraining sensibilisiert, sondern gezielt geschult, diese lernunterstützenden Maßnahmen zu erkennen, sie theoretisch zu verorten, ihre Wirkung zu reflektieren und mögliche Handlungsalternativen zu entwerfen. Dies zielt nicht zuletzt auch darauf, ihre Diagnose- und Reflexionskompetenzen zu stärken. Im folgenden Beitrag werden der konzeptuelle Rahmen des Lehrmoduls sowie dessen Ziele und Inhalte näher erläutert und die konkrete Umsetzung des Seminars, mit der die begründete Auswahl von Unterrichtsvideos, die Aufgabenkonstruktionen zur Videoanalyse sowie das methodische Vorgehen einhergehen, skizziert. Auf Basis der Ergebnisse der Evaluation, einer quasiexperimentellen Untersuchung an einer Stichprobe von insgesamt 77 Studierenden, wird abschließend das Potenzial des videobasierten Lehrmoduls diskutiert.</abstract>
                     <subject lang="ger">
@@ -46,7 +46,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>360</start>
@@ -55,6 +55,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/hlz-2559</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_2559</recordIdentifier>
                     </recordInfo>

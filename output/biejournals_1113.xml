@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-12-14</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">30</extent>
+                        <extent unit="page">31</extent>
                     </physicalDescription>
                     <abstract lang="ger">In diesem Beitrag wird das aktuelle Forschungs- und Entwicklungsmodell für das Oberstufen-Kolleg dargelegt. Dies geschieht sowohl vor dem Hintergrund der aktuellen Kritik an der empirischen Bildungsforschung als auch der Ergebnisse eines externen Peer-Reviews, das im Jahr 2016 gemeinsam für die Versuchsschule und die Wissenschaftliche Einrichtung Oberstufen-Kolleg stattgefunden hat. Es wird deutlich, wie die Fragen des internen Transfers, der Verzahnung von Forschung und Schulentwicklung sowie der stärkeren Einbindung von Schüler*innen des Oberstufen-Kollegs in die Forschung und Entwicklung bearbeitet werden sollen.</abstract>
                     <subject lang="ger">
@@ -45,9 +45,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>1</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 1</number>
-                            </detail>
                             <extent unit="page">
                                 <start>153</start>
                                 <end>183</end>
@@ -55,6 +52,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-1113</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1113</recordIdentifier>
                     </recordInfo>

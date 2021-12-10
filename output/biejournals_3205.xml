@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-13</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">38</extent>
+                        <extent unit="page">39</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der vorliegende Beitrag dokumentiert den diesjährigen Forschungs- und Entwicklungsplan. Die aktuellen Änderungen von Konzepten werden unter Rückgriff auf die Ausdifferenzierung der Typik von Forschung und Entwicklung diskutiert, die der in diesem Jahr verstorbene ehemalige Leiter der Wissenschaftlichen Einrichtung des Oberstufen-Kollegs, Ludwig Huber, vor fünfzehn Jahren für Lehrer*innenforschung beschrieben hat. Neben den am Oberstufen-Kolleg projektförmig und im multiprofessionellen Team organisierten Forschungs- und Entwicklungsprojekten zählen nach Huber auch die Reflexion und Produktion für die Praxis, die Verbreitung, der Austausch sowie die Umsetzung (Dissemination und Implementation) hierzu. Der Beitrag dokumentiert die Einrichtung neuer Disseminationsstrategien durch Online-Journale sowie mehrere neue Netzwerke und Forschungskooperationen.
 This article documents this year’s research and development plan. The current changes in concepts are discussed with reference to the differentiation of the typology of research and development described fifteen years ago by Ludwig Huber, former head of the Action Research Department of the Oberstufen-Kolleg, who died this year. In addition to the research and development organized as projects in a multi-professional team at the Oberstufen-Kolleg, according to Huber this also includes reflection and production for practice, distribution, exchange as well as realization (dissemination and implementation). The article documents the establishment of new dissemination strategies through online journals as well as several new networks and research cooperations.</abstract>
@@ -46,9 +46,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>2</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 2</number>
-                            </detail>
                             <extent unit="page">
                                 <start>161</start>
                                 <end>199</end>
@@ -56,6 +53,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3205</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3205</recordIdentifier>
                     </recordInfo>

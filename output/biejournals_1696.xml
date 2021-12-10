@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="ger">
                         <title>Biologie in Freiland und Labor - Beispiel</title>
-                        <subTitle>Pilze </subTitle>
+                        <subTitle>Pilze</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Gerhardt, Almut</displayForm>
@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2003-10-22</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">21</extent>
+                        <extent unit="page">22</extent>
                     </physicalDescription>
                     <subject lang="ger">
 First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
@@ -43,9 +43,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         <part>
                             <detail type="volume">
                                 <number>10</number>
-                            </detail>
-                            <detail type="issue">
-                                <number>Bd. 10</number>
                             </detail>
                             <extent unit="page">
                                 <start>99</start>

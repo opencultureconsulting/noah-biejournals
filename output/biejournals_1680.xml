@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="ger">
                         <title>Wie Lerner ein Ökosystem verstehen </title>
-                        <subTitle> Lehr-Lernforschung am Beispiel des außerschulischen Lernortes „Heiliges Meer“</subTitle>
+                        <subTitle>Lehr-Lernforschung am Beispiel des außerschulischen Lernortes „Heiliges Meer“</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Dieckmann, Ursula</displayForm>
@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2005-01-21</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">13</extent>
+                        <extent unit="page">14</extent>
                     </physicalDescription>
                     <subject lang="ger">
 First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
@@ -36,9 +36,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>12</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 12</number>
-                            </detail>
                             <extent unit="page">
                                 <start>63</start>
                                 <end>76</end>
@@ -46,6 +43,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1680</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1680</recordIdentifier>
                     </recordInfo>

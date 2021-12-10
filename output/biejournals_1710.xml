@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="ger">
                         <title>Online-Lernen mit Studierenden </title>
-                        <subTitle> Beispiel am Projekt „Wasser“</subTitle>
+                        <subTitle>Beispiel am Projekt „Wasser“</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Graf, Dittmar</displayForm>
@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2003-10-23</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">9</extent>
+                        <extent unit="page">10</extent>
                     </physicalDescription>
                     <subject lang="ger">
 First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
@@ -44,9 +44,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>8</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 8</number>
-                            </detail>
                             <extent unit="page">
                                 <start>43</start>
                                 <end>52</end>
@@ -54,6 +51,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1710</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1710</recordIdentifier>
                     </recordInfo>

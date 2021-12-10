@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2015-06-22</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">9</extent>
+                        <extent unit="page">10</extent>
                     </physicalDescription>
                     <abstract lang="eng">Criminological research is often based on time-series data showing some type of trend movement. Trending time-series may correlate strongly even in cases where no causal relationship exists (spurious causality). To avoid this problem researchers often apply some technique of detrending their data, such as by differencing the series. This approach, however, may bring up another problem: that of spurious non-causality. Both problems can, in principle, be avoided if the series under investigation are “difference-stationary” (if the trend movements are stochastic) and “cointegrated” (if the stochastically changing trendmovements in different variables correspond to each other). The article gives a brief introduction to key instruments and interpretative tools applied in cointegration modelling.</abstract>
                     <subject lang="ger">
@@ -38,7 +38,7 @@
                                 <number>8</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 8</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>199</start>
@@ -47,6 +47,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/ijcv-3055</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nd/4.0">CC BY-ND 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3055</recordIdentifier>
                     </recordInfo>

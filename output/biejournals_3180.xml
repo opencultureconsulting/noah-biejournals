@@ -28,7 +28,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">5</extent>
+                        <extent unit="page">6</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden Beitrag wird aufgezeigt, dass die Hoffnungen auf Transfer der Ergebnisse empirischer Bildungsforschung in die pädagogische Praxis sich nicht in dem Maße erfüllen, wie dies vor einigen Jahren noch erwartet wurde. Praxisforschung scheint hier auf den ersten Blick als eine Alter-native, da sie per definitionem praxisnäher ist und damit die Differenz zwischen Forschungslogik und der Eigenlogik der Praxis automatisch überwunden zu sein scheint. Jenseits der forschungsmethodischen Probleme der Generalisierung und nicht umstandslos vorauszusetzender ökologischer Validität erweist es sich allerdings auch für die Praxisforschung als Tatsache, dass Transfer sich nicht von selbst einstellt, sondern als Gegenstand der eigenen Bearbeitung bedarf. In der Einführung werden ausgehend von diesen Überlegungen die unterschiedlichen Zugänge zu dieser Thematik skizziert, wie sie in den Beiträgen dieses Jahrbuchs der Versuchsschule Oberstufen-Kolleg enthalten sind.
 This article shows that hopes of transferring the results of empirical educational research into pedagogical practice have not been fulfilled so far to that extent as it was expected a few years ago. At first glance, practice research seems to be an alternative, since it is by definition more practice-oriented and thus automatically overcomes the difference between the logic of research logic and the practice’s own logic. Beyond the research-methodological problems of generalization and the not necessarily pre-supposable ecological validity, however, it also turns out to be a fact for practice research that transfer does not take place automatically, but requires its own processing. Based on these considerations, the article outlines the different approaches to this topic as they are presented in the contributions of this yearbook of the experimental school Oberstufen-Kolleg.</abstract>
@@ -45,9 +45,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>2</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 2</number>
-                            </detail>
                             <extent unit="page">
                                 <start>1</start>
                                 <end>6</end>
@@ -55,6 +52,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3180</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3180</recordIdentifier>
                     </recordInfo>

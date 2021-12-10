@@ -80,7 +80,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-02-18</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">10</extent>
+                        <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Leipziger Auwald ist ein streng geschützter Hartholzauenwald mit einer hohen und spezifischen Biodiversität. Diese verdankt er seiner langen Habitattradition, seinem Baumartenreichtum und seiner Nutzungsgeschichte. Flussregulierung und Deichbau in den 1930er Jahren haben das Gebiet entwässert und die notwendigen Überflutungen unterbunden. Das hat die Struktur und die Artenzusammensetzung des Waldes stark verändert. Standortfremde Ahornarten sind auf dem Vormarsch, wodurch sich die Stieleiche nicht mehr verjüngt. Die extremen Trockenjahre 2018 und 2019 haben zu einem großflächigen Absterben vor allem der Esche geführt. Ökophysiologische Untersuchungen und Jahrringanalysen zeigen, dass die Stressbelastung in 2019 stark anstieg und das System an seine Belastungsgrenze geführt hat. Um den Hartholzauenwald zu retten, soll nun eine natürliche Überflutungs- und Grundwasserdynamik wiederhergestellt werden.</abstract>
                     <abstract lang="eng">The floodplain forest of Leipzig is strictly protected because of its high and unique biodiversity. This exists because of its continuous forest cover, its high richness of tree species and its management history. The river regulation in the 1930s has drained the forest and has prevented flooding which has strongly altered the structure and tree species composition of the forest. Shade-casting maple species, that were historically rare, are gaining dominance which suppresses the natural regeneration of pedunculate oak. The extreme drought years of 2018 and 2019 have led to a large-scale mortality, in particular of Common ash. Eco-physiological investigations and tree ring analyses show that the stress level in 2019 rose strongly and has pushed the system to its limits. To save the unique forest, revitalisation measures that restore the hydrological dynamics of the floodplain are planned.</abstract>
@@ -97,7 +97,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>55</start>
@@ -106,6 +106,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4107</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4107</recordIdentifier>
                     </recordInfo>

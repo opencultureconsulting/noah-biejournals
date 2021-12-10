@@ -37,7 +37,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-08-14</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">25</extent>
+                        <extent unit="page">26</extent>
                     </physicalDescription>
                     <abstract lang="ger">Die Technische Universität Dresden (TUD) begleitet seit dem Schuljahr 2019/20 den auf 15 Jahre angelegten Schulversuch „Universitätsschule Dresden“. Der Schulversuch zeichnet sich durch die Ermöglichung von individuellen Entwicklungswegen in kooperativen Lernprozessen aus. Das Lernmanagement und die Schulorganisation erfolgen digital gestützt. Neben den dadurch entstandenen Daten werden systematisch Daten über den Lern- und Entwicklungsprozess der Schüler*innen sowie über die schulorganisatorischen Prozesse erhoben. Im vorliegenden Beitrag werden die grundlegende Forschungsausrichtung und das methodische Vorgehen durch eine Einbettung in die jeweiligen Diskurse (Schul- und Unterrichtsentwicklung, Lern- und Entwicklungsforschung, Professionalisierungs- und Einstellungsforschung) dargelegt.</abstract>
                     <subject lang="ger">
@@ -54,7 +54,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>23</start>
@@ -63,6 +63,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3613</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3613</recordIdentifier>
                     </recordInfo>

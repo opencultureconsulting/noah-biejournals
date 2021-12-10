@@ -34,7 +34,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">10</extent>
+                        <extent unit="page">11</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Navigationsvorgang ist bei Vögeln ein Zwei-Schritt-Prozess: Zunächst wird die Richtung zum Ziel als Kompasskurs bestimmt, dann wird dieser Kurs mit Hilfe eines Kompassmechanismus aufgesucht und in die Flugrichtung umgesetzt. Vögel verfügen über einen Magnetkompass, der dem Magnetfeld der Erde Richtungsinformation entnimmt, sowie über einen erlernten Sonnenkompass, der aus der Richtung der Sonne Richtungsinformation ableitet; bei nächtlich ziehenden Zugvögeln ist zudem ein erlernter Sternkompass nachgewiesen.</abstract>
                     <abstract lang="eng">Avian navigation is a two-step process: First, the direction to the goal is determined as a compass course, in a second step, this course is located with a compass and converted into a flying direction. Birds have a magnetic compass that takes directional information from the geomagnetic field, a learned sun compass which derives direction from the sun azimuth; night-migrating birds can additionally derive directional information from the stars. How birds determine the course to their goal, will be explained in the second part of this article.</abstract>
@@ -51,7 +51,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>150</start>
@@ -60,6 +60,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4264</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4264</recordIdentifier>
                     </recordInfo>

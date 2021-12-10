@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="eng">
                         <title>Review of the Book</title>
-                        <subTitle> Broom, Catherine, Ed. 2016. Youth Civic Engagement in a Globalized World</subTitle>
+                        <subTitle>Broom, Catherine, Ed. 2016. Youth Civic Engagement in a Globalized World</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Solhaug, Trond</displayForm>
@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">1</extent>
+                        <extent unit="page">2</extent>
                     </physicalDescription>
                     <subject lang="ger">
                     </subject>
@@ -37,7 +37,7 @@
                                 <number>17</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 17</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>89</start>
@@ -46,6 +46,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/jsse-859</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_859</recordIdentifier>
                     </recordInfo>

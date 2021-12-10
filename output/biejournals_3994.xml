@@ -45,7 +45,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">17</extent>
+                        <extent unit="page">18</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Sinne einer naturwissenschaftlichen Grundbildung (Scientific Literacy) sollen Schüler*innen Kompetenzen vermittelt werden, durch die diese naturwissenschaftliches Wissen nicht nur abrufen, sondern auch anwenden können. In diesem Beitrag wird ein stark experimentell ausgerichteter Naturwissenschaftskurs mit sukzessiv steigender Selbstständigkeit für die Eingangsphase der Oberstufe vorgestellt, der das Ziel verfolgt, bei Schüler*innen Scientific Literacy anzubahnen.</abstract>
                     <subject lang="ger">
@@ -62,7 +62,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>126</start>
@@ -71,6 +71,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3994</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3994</recordIdentifier>
                     </recordInfo>

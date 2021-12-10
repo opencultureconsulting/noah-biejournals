@@ -29,7 +29,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-12-21</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">34</extent>
+                        <extent unit="page">35</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im vorliegenden „Forschungs- und Entwicklungsplan“ werden zum einen Aktivitäten der Wissenschaftlichen Einrichtung Oberstufen-Kolleg (WE_OS) berichtet, die im Pandemiejahr in von der Planung abweichender Form realisiert werden mussten, wie etwa die Gründung des Verbunds der Universitäts- und Versuchsschulen (VUVS). Es werden zum anderen aber auch solche Aktivitäten dokumentiert, die erst ad hoc angesichts der dynamischen Entwicklungen im Schulleben dieses Jahres notwendig wurden. Dies betrifft sowohl Anpassungen in der Arbeit der Forschungs- und Entwicklungsprojekte als auch die wissenschaftliche Begleitung des erzwungenen Distanzlernens und der damit verbundenen Schulentwicklungsarbeit. Da vor dem Hintergrund des evaluativen Anspruchs und des Auftrags der wissenschaftlichen Begleitung an einer Versuchsschule Schulentwicklungsprozesse und Forschungs- und Entwicklungsplanung eng miteinander verzahnt sind, resultierte u.a. daraus auch die hiermit vorliegende „Forschungs- und Entwicklungsplanung ex post“.
 In this “Research and Development Plan”, we report on the one hand on the activities of the Action Research Department of the Oberstufen-Kolleg, which had to be realized in this pandemic year in ways that deviated strongly from the original planning, for example the foundation of the “Verbund der Universitäts- und Versuchsschulen” [Network of University and Experimental Schools] (VUVS). On the other hand, it documents those activities, which became necessary ad hoc due to the dynamic developments in school life this year. This regards both adjustments in the work of the research and development projects and the scientific monitoring of the enforced distance learning and the school development activities involved. As school development processes and research and development planning are closely connected at an experimental school, due to the evaluative claim and the commission of the scientific monitoring, this results inter alia in this “Research and Development Plan ex post”.</abstract>
@@ -46,9 +46,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>3</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 3</number>
-                            </detail>
                             <extent unit="page">
                                 <start>185</start>
                                 <end>219</end>
@@ -56,6 +53,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/weos-4027</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4027</recordIdentifier>
                     </recordInfo>

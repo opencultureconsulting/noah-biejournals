@@ -27,9 +27,6 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2014-03-25</dateIssued>
                     </originInfo>
-                    <physicalDescription>
-                        <extent unit="page">2013</extent>
-                    </physicalDescription>
                     <abstract lang="eng">.</abstract>
                     <subject lang="ger">
                     </subject>
@@ -41,13 +38,10 @@
                         </titleInfo>
                         <identifier type="issn">1618-5293</identifier>
                         <part>
-                            <extent unit="page">
-                                <start>1</start>
-                                <end>2014</end>
-                            </extent>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/jsse-685</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_685</recordIdentifier>
                     </recordInfo>

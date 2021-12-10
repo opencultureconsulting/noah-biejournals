@@ -20,7 +20,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-08-20</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">17</extent>
+                        <extent unit="page">18</extent>
                     </physicalDescription>
                     <subject lang="ger">
                     </subject>
@@ -32,6 +32,9 @@
                         </titleInfo>
                         <identifier type="issn">2567-2045</identifier>
                         <part>
+                            <detail type="issue">
+                                <number>10</number>
+                            </detail>
                             <extent unit="page">
                                 <start>33</start>
                                 <end>50</end>
@@ -39,6 +42,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/izgonzeit-4692</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4692</recordIdentifier>
                     </recordInfo>

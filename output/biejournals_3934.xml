@@ -45,7 +45,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-11-20</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">7</extent>
+                        <extent unit="page">8</extent>
                     </physicalDescription>
                     <subject lang="ger">
                     </subject>
@@ -60,9 +60,6 @@
                             <detail type="volume">
                                 <number>24</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 24</number>
-                            </detail>
                             <extent unit="page">
                                 <start>131</start>
                                 <end>138</end>
@@ -70,6 +67,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-3934</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3934</recordIdentifier>
                     </recordInfo>

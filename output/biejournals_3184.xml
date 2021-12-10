@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">5</extent>
+                        <extent unit="page">6</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Artikel fasst wesentliche Ergebnisse der Feldstudie „Projektdidaktik in der Praxis“ zusammen. Der Autor skizziert den Entstehungskontext und das Methodensetting seiner Untersuchung, um dann Bausteine der Projektdidaktik herauszuarbeiten und weiterzuentwickeln. Ausgehend von der zuvor noch nicht aufgearbeiteten Praxisgeschichte des Projektunterrichts wird die &amp;nbsp;&amp;nbsp;&amp;nbsp;didaktische Konzeption mit Bildungswert, praxistauglichem Projektbegriff und Abgrenzung zum Lehrgang entwickelt. Eine differenzierte Methodik mit Kriterienkatalog, idealtypischem Verlaufsmuster und einer Typologie der Projektformen sind Grundlage der Erörterung der Leistungsbewertung. Am Fach Geschichte wird exemplifiziert, wie sich Lehrgang und Projekt verbinden und gegenseitig unterstützen können. Zentral ist dann die Untersuchung der organisatorischen Bedingungen für entwickelten Projektunterricht mit der Bestimmung von „Projektkultur“, die anhand einer Merkmalsliste als Untersuchungsinstrument an sechs Regelschulen diente. Alle Entwicklungsschritte münden in einer abschließenden Erörterung von Formen, Möglichkeiten und Grenzen des Transfers von der Versuchsschule in das Regelsystem.
 This article summarizes significant results from the field study “Project Didactics in Practice”. The author outlines the formation context and the methodological setting of his research, then elaborates components of project didactics and develops them further. Based on a history of the practice of project-based instruction, which was not examined so far, he depicts the didactical conception and its educational asset, gives a practicable definition of the term “project”, and delimitates it from the “regular” course. Based on a differentiated method with a catalogue of criteria, an ideal progression pattern and a typology of project forms, the author discusses possibilities to assess project performance. Using the example of the subject History, he shows how course and project can be combined and may support each other mutually. The survey focuses on the organizational requirements of sophisticated project-based instruction, defining a so-called “project culture”, which was used as research instrument (with a list of typical characteristics) at six regular schools. All these steps lead to a discussion of forms, opportunities and limits of a transfer of project didactics from the laboratory school to the regular school system.</abstract>
@@ -38,9 +38,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>2</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 2</number>
-                            </detail>
                             <extent unit="page">
                                 <start>36</start>
                                 <end>41</end>
@@ -48,6 +45,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3184</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3184</recordIdentifier>
                     </recordInfo>

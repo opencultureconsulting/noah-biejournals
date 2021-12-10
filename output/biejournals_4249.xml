@@ -24,7 +24,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-05-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">6</extent>
+                        <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Der Begriff Symbiose bezeichnet grundsätzlich eine Vergesellschaftung artfremder Organismen und im engeren Sinne das Zusammenleben von zwei Arten zum gegenseitigen Vorteil (Mutualismus). Eine symbiotische Partnerschaft zwischen einzelligen Algen und Korallen ist Grundlage für die Ausbildung von Korallenriffen. Diese gehören zu den artenreichsten und am dichtest besiedelten Lebensräumen der Welt. Der vorherrschende Konkurrenzkampf hat eine Vielzahl an Überlebensstrategien und Formen des Zusammenlebens hervorgebracht.</abstract>
                     <abstract lang="eng">The term symbiosis basically refers to any interaction of two different organisms. In a narrower sense, it is defined as a relationship in which both partners benefit (mutualism). The foundation of coral reefs is a symbiotic relationship between single-celled algae and corals. Coral Reefs are among the most diverse and densely populated ecosystems in the world. The constant competitive fight between species has led to a broad variety of survival strategies and different types of symbiotic relationships.</abstract>
@@ -41,7 +41,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>51</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 51</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>161</start>
@@ -50,6 +50,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4249</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4249</recordIdentifier>
                     </recordInfo>

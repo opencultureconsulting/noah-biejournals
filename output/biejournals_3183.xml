@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-12-10</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">11</extent>
+                        <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">Im Beitrag werden die Ziele, das Konzept und die Erfahrungen eines Projekts zum Forschenden Lernen mit Schüler*innen (Kollegiat*innen) am Oberstufen-Kolleg vorgestellt. Innerhalb der in jedem Schulhalbjahr stattfindenden zweiwöchigen Projektphase konnten die Kollegiat*innen in diesem Projekt selbst gestellten Fragestellungen mittels sozialwissenschaftlicher Forschungsmethoden nachgehen. Die Erfahrungen zeigen, dass die Ziele, die mit dem Forschenden Lernen verbunden sind, zwar erreicht werden können, dass aber die zwei Wochen in der Projektphase recht kurz sind und deshalb die Anbindung an den Kursunterricht außerhalb der Projektphase sinnvoll sein könnte. Entwickelt und durchgeführt wurde das Projekt durch einen Professor der Erziehungswissenschaft der Johannes-Gutenberg-Universität Mainz und zwei Studentinnen der Universität Bielefeld.
 The article presents the goals and the concept of and the experiences from a project on research-based learning with students at the Oberstufen-Kolleg (laboratory school for upper secondary education). During the two-weeks project phase, which takes place every half year, the students of this project were able to pursue their own questions using research methods from social sciences. Results show that although the goals associated with the research-based learning can be achieved, two weeks within the project phase are rather short. Therefore, the connection to regular classes besides the project phase might be useful. The project was developed and carried out by a Professor of Educational Science from the Johannes-Gutenberg-University of Mainz and two students from the University of Bielefeld.</abstract>
@@ -38,9 +38,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>2</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 2</number>
-                            </detail>
                             <extent unit="page">
                                 <start>24</start>
                                 <end>35</end>
@@ -48,6 +45,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/we_os-3183</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3183</recordIdentifier>
                     </recordInfo>

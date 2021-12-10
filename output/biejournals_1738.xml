@@ -36,7 +36,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2019-10-07</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">14</extent>
+                        <extent unit="page">15</extent>
                     </physicalDescription>
                     <abstract lang="ger">Dem Experimentieren kommt als Methode zum Erkenntnisgewinn eine große Bedeutung zu. Diese wird auf curricularer Ebene durch entsprechende Kompetenzformulierungen in den Bildungsstandards aufgegriffen. Aber nicht nur fachlich-disziplinäre und curriculare Begründungen weisen das Experimentieren als wichtige Erkenntnismethode für Lernende und daher als expliziten Unterrichtsgegenstand aus. Auch aus den Perspektiven der Bildungs- und Lerntheorie, die in diesem Artikel bei der Ableitung von Unterrichtsprinzipien zusätzlich zu den fachlich-disziplinären und curricularen Perspektiven Beachtung finden, bildet Experimentieren einen wichtigen Lerngegenstand. Entsprechend kommt der Frage des Vorgehens beim Unterrichten, d. h. der Methodik, große Relevanz zu. Für das Unterrichten sind Maßstäbe zur methodischen Orientierung wichtig: dies sind Unterrichtsprinzipien. Unterrichtsprinzipien sind didaktische Grundsätze, welche das Unterrichtsplanen und -handeln leiten sowie Bezugspunkte für die didaktische Forschung darstellen. Die multiperspektivische Begründung des Experimentierens bildet den ersten Schritt bei der Formulierung von Lehr-Lern-Zielen. Aus den Zielen werden danach Unterrichtsprinzipien abgeleitet. Als Unterrichtsprinzipien [P] werden identifiziert: (P1) ‚Teilprozesse des Experimentierens berücksichtigen‘, (P2) ,Experimentieren als expliziter Unterrichtsgegenstand‘, (P3) ‚Experimentieren üben‘, (P4) ‚Experimentieren zum Problemlösen einsetzen‘, (P5) ‚Prozessreflektierend experimentieren‘, (P6) ‚Grenzen von Experimenten ansprechen‘, (P7) ‚wissenschaftliche Strenge walten lassen‘ und (P8) ‚Selbsttätigkeit der Lernenden beim Experimentieren‘.</abstract>
                     <subject lang="ger">
@@ -52,9 +52,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>23</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 23</number>
-                            </detail>
                             <extent unit="page">
                                 <start>10</start>
                                 <end>24</end>
@@ -62,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1738</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1738</recordIdentifier>
                     </recordInfo>

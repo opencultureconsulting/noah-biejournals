@@ -22,7 +22,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2021-04-26</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">6</extent>
+                        <extent unit="page">7</extent>
                     </physicalDescription>
                     <abstract lang="ger">Demokratiebildung kann gerade in Zeiten von Demokratieskepsis und Politikverachtung nicht als selbstverständlich vorausgesetzt werden. Die Frage nach der Legitimität von Demokratiebildung hängt eng mit der Frage nach ihrem Gegenstand zusammen. Der Artikel gibt Antworten auf beide Fragen im Zusammenhang: Demokratie legitimiert sich durch den exzeptionellen Charakter der Demokratie, der auch im Zentrum der Demokratiebildung stehen sollte, ebenso wie die der Demokratie inhärenten Spannungen und ihr Entwicklungspotenzial.</abstract>
                     <subject lang="ger">
@@ -39,7 +39,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>3</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 3</number>
+                                <number>3</number>
                             </detail>
                             <extent unit="page">
                                 <start>1</start>
@@ -48,6 +48,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/pflb-4355</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_4355</recordIdentifier>
                     </recordInfo>

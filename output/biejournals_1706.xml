@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="ger">
                         <title>Individuelles Interesse bei Grundschülern als „Schutz“ gegen Interessenverfall in der Sekundarstufe I </title>
-                        <subTitle> Entwicklung von spezifischen Interessen bei ausgewählten Grundschulkindern</subTitle>
+                        <subTitle>Entwicklung von spezifischen Interessen bei ausgewählten Grundschulkindern</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Vogt, Helmut</displayForm>
@@ -37,7 +37,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2003-10-23</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">17</extent>
+                        <extent unit="page">18</extent>
                     </physicalDescription>
                     <subject lang="ger">
 First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
@@ -52,9 +52,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <detail type="volume">
                                 <number>9</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 9</number>
-                            </detail>
                             <extent unit="page">
                                 <start>83</start>
                                 <end>100</end>
@@ -62,6 +59,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/zdb-1706</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_1706</recordIdentifier>
                     </recordInfo>

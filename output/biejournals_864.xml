@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="eng">
                         <title>Review of the Books</title>
-                        <subTitle> Eribon, Didier. 2013. Returning to Reims, Los Angeles/CA, Semiotext(e).  Louis, Édouard. 2017. The End of Eddy. London, Harvill Secker</subTitle>
+                        <subTitle>Eribon, Didier. 2013. Returning to Reims, Los Angeles/CA, Semiotext(e).  Louis, Édouard. 2017. The End of Eddy. London, Harvill Secker</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Glassmann, Ulrich</displayForm>
@@ -21,7 +21,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2018-03-25</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">3</extent>
+                        <extent unit="page">4</extent>
                     </physicalDescription>
                     <abstract lang="eng">Eribon, Didier. 2009. Retour à Reims. Une théorie du sujet, Paris: Librairie Arthème Fayard.Louis, Édouard. 2014. En finir avec Eddy Bellegueule, Paris, Éditions du Seuil.Eribon, Didier. 2016. Rückkehr nach Reims. Berlin, Suhrkamp Verlag.Louis, Édouard. 2016. Das Ende von Eddy, Frankfurt am Main, S. Fischer Verlag.</abstract>
                     <subject lang="ger">
@@ -38,7 +38,7 @@
                                 <number>17</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 17</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>91</start>
@@ -47,6 +47,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/jsse-864</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_864</recordIdentifier>
                     </recordInfo>

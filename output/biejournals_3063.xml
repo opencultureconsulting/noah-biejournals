@@ -45,7 +45,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2016-04-04</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">0</extent>
+                        <extent unit="page">1</extent>
                     </physicalDescription>
                     <abstract lang="eng">- no abstract -</abstract>
                     <subject lang="ger">
@@ -61,9 +61,6 @@
                             <detail type="volume">
                                 <number>9</number>
                             </detail>
-                            <detail type="issue">
-                                <number>Bd. 9</number>
-                            </detail>
                             <extent unit="page">
                                 <start>3</start>
                                 <end>3</end>
@@ -71,6 +68,7 @@
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/ijcv-3063</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nd/4.0">CC BY-ND 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3063</recordIdentifier>
                     </recordInfo>

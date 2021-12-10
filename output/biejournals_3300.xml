@@ -5,7 +5,7 @@
                 <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
                     <titleInfo lang="ger">
                         <title>Experimentierend zu mehr Selbstbestimmung</title>
-                        <subTitle>Der Basiskurs Naturwissenschaften </subTitle>
+                        <subTitle>Der Basiskurs Naturwissenschaften</subTitle>
                     </titleInfo>
                     <name type="personal">
                         <displayForm>Stiller, Cornelia</displayForm>
@@ -45,7 +45,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-19</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">11</extent>
+                        <extent unit="page">12</extent>
                     </physicalDescription>
                     <abstract lang="ger">Mit dem Begriff Scientific Literacy wird die Forderung verbunden, Schule solle Schüler*innen naturwissenschaftliches Wissen und jene Kompetenzen vermitteln, durch die sie in die Lage versetzt werden, naturwissenschaftliches Wissen anwenden zu können. In Auseinandersetzung mit Konzepten zur Scientific Literacy und empirischen Erkenntnissen aus Fachdidaktiken und Bildungsforschung wurde von einer interdisziplinär zusammengesetzten Gruppe aus Lehrenden, Erziehungswissenschaftler*innen und Fachdidaktiker*innen ein naturwissenschaftliches Curriculum für die Eingangsphase der gymnasialen Oberstufe entwickelt und erprobt. Das Kurskonzept legt dabei den Schwerpunkt auf Scientific Inquiry mit dem Experiment als einer methodischen Grundform der Erkenntnisgewinnung. Der Erkenntnisprozess beim Experimentieren wird in einzelne Schritte unterteilt. Durch eine schrittweise Steigerung der Selbststeuerung beim Experimentieren soll es ermöglicht werden, dass der metakognitive Anforderungsgehalt von den Schüler*innen bewältigt werden kann und ihnen sowohl das Erleben von Autonomie als auch von Kompetenz ermöglicht wird. Ein weiterer Fokus im Kurskonzept liegt auf Data Literacy, die durch eine stetige Auseinandersetzung und Reflexion der Schüler*innen mit den von ihnen erhobenen Daten im gesamten Forschungsprozess gefördert werden soll. Analog zu den Schritten beim Experimentieren werden die dafür notwendigen mathematischen und statistischen Kompetenzen zunächst lehrerzentriert eingeführt und dann immer weiter in die Hände der Schüler*innen gelegt. Empirische Hinweise deuten darauf hin, dass durch die Kurskonzeption für Schüler*innen lernförderliche Lernumgebungen geschaffen werden können. Im Rahmen dieses Beitrags sollen die Grundlagen des Curriculumskonzeptes des Basiskurses Naturwissenschaften vorgestellt werden und so interessierten Lehrenden die Möglichkeit gegeben werden, Anregungen für ihren eigenen Unterricht zu finden.</abstract>
                     <subject lang="ger">
@@ -62,7 +62,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>2</number>
                             </detail>
                             <extent unit="page">
                                 <start>5</start>
@@ -71,6 +71,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/pflb-3300</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3300</recordIdentifier>
                     </recordInfo>

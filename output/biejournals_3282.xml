@@ -60,7 +60,7 @@
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-02-11</dateIssued>
                     </originInfo>
                     <physicalDescription>
-                        <extent unit="page">7</extent>
+                        <extent unit="page">8</extent>
                     </physicalDescription>
                     <abstract lang="ger">Das Forschungsprojekt BiBi-MINT am Oberstufen-Kol­leg Bielefeld („Bielefelder Binnendifferenzierung in den MINT-Fächern“) verfolgt das Ziel eines Fächerübergriffes zwischen dem Naturwissenschafts- und dem Mathematikunterricht. Schüler*innen sollen unterstützt werden, naturwissenschaftliche Phänomene mathematisch zu beschreiben und gleichzeitig mit anwendungsbezogenen naturwissenschaftlichen Kontexten im Mathematikunterricht zu arbeiten. Neben einer zeitlichen Verzahnung des Naturwissenschafts- und Mathematikunterrichts wird auf binnendifferenzierende Maßnahmen in Form von gestuften Lernhilfen zurückgegriffen. Dieser Beitrag führt somit ein fächerübergreifendes und binnendifferenzierendes Gesamtkonzept zwischen Naturwissenschafts- und Mathematikunterricht an, welches sowohl im schulischen Kontext als auch in der universitären Lehrer*innenbildung Anwendung finden kann.</abstract>
                     <subject lang="ger">
@@ -77,7 +77,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                                 <number>2</number>
                             </detail>
                             <detail type="issue">
-                                <number>Bd. 2</number>
+                                <number>1</number>
                             </detail>
                             <extent unit="page">
                                 <start>1</start>
@@ -86,6 +86,7 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.4119/dimawe-3282</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
                     <recordInfo>
                         <recordIdentifier>biejournals_3282</recordIdentifier>
                     </recordInfo>
