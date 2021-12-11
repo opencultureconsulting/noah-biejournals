@@ -2,6 +2,8 @@
 
 Dieser Workflow harvestet die Daten des Zeitschriftenservers [BieJournals](https://www.biejournals.de/) der UB Bielefeld und transformiert diese in METS/MODS für das Portal [noah.nrw](https://noah.nrw/).
 
+Die Daten in diesem Repository werden [alle 24 Stunden nachts ab 03:21 Uhr](https://github.com/opencultureconsulting/noah-biejournals/blob/main/.github/workflows/default.yml#L6) aktualisiert.
+
 ## Systemvoraussetzungen
 
 - GNU/Linux (getestet mit Fedora 32)
@@ -12,13 +14,13 @@ Dieser Workflow harvestet die Daten des Zeitschriftenservers [BieJournals](https
 
 ## Workflow
 
-Der Workflow wird in [Taskfile](Taskfile.yml) definiert und kann entweder lokal oder mit GitHub Actions ausgeführt werden.
+Der Workflow wird in [Taskfile](Taskfile.yml) definiert und kann entweder lokal (`task default`) oder mit [GitHub Actions](.github/workflows/) ausgeführt werden. Er besteht aus zwei Hauptbestandteilen:
 
-Der erste task `harvest` lädt die öffentlichen Datensätze der auf BieJournals gehosteten Zeitschriften über OAI-PMH-Schnittstellen im Format Dublin Core. Das Ergebnis sind XML-Dateien im Verzeichnis [input](input).
+1. Der Task `harvest` lädt die öffentlichen Datensätze der auf BieJournals gehosteten Zeitschriften über OAI-PMH-Schnittstellen im Format Dublin Core. Das Ergebnis sind XML-Dateien im Verzeichnis [input](input).
 
-Der zweite Task `transform` transformiert die heruntergeladenen Daten in METS/MODS. Das Ergebnis sind XML-Dateien im Verzeichnis [output](output).
+2. Der Task `transform` transformiert die heruntergeladenen Daten in METS/MODS. Das Ergebnis sind XML-Dateien im Verzeichnis [output](output).
 
-Beide Tasks verwenden einen Cache, um nur neue Daten abzurufen bzw. zu verarbeiten. Über OAI bekanntgemachte Löschungen werden berücksichtigt. Der Task `reset` führt bei Bedarf ein vollständiges Harvesting inklusive Transformation aus.
+Beide genannten Tasks verwenden einen Cache, um nur neue Daten abzurufen bzw. zu verarbeiten. Über OAI bekanntgemachte Löschungen werden berücksichtigt. Der Task `reset` führt bei Bedarf ein vollständiges Harvesting inklusive Transformation aus.
 
 ## Mapping
 
