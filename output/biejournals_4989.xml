@@ -1,0 +1,128 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4989">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Grüne Wüste Südamerikas? Ökologische Nischen für Pioniere in der Atacama</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Green Desert of South America?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Baumann, Karen</displayForm>
+                        <namePart type="family">Baumann</namePart>
+                        <namePart type="given">Karen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jung, Patrick</displayForm>
+                        <namePart type="family">Jung</namePart>
+                        <namePart type="given">Patrick</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lehnert, Lukas W.</displayForm>
+                        <namePart type="family">Lehnert</namePart>
+                        <namePart type="given">Lukas W.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Samolov, Elena</displayForm>
+                        <namePart type="family">Samolov</namePart>
+                        <namePart type="given">Elena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Baum, Christel</displayForm>
+                        <namePart type="family">Baum</namePart>
+                        <namePart type="given">Christel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bendix, Jörg</displayForm>
+                        <namePart type="family">Bendix</namePart>
+                        <namePart type="given">Jörg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Karsten, Ulf</displayForm>
+                        <namePart type="family">Karsten</namePart>
+                        <namePart type="given">Ulf</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Büdel, Burkhard</displayForm>
+                        <namePart type="family">Büdel</namePart>
+                        <namePart type="given">Burkhard</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Leinweber, Peter</displayForm>
+                        <namePart type="family">Leinweber</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Nationalpark „Pan de Azúcar“ ist eine Nebeloase in der südlichen Atacama-Wüste Chiles. Er beherbergt eine Vielfalt an Cyanobakterien und Grünalgen, die insbesondere in Flechten vorkommen. Diversitätsaufnahmen und ökophysiologische sowie biochemische Untersuchungen zeigten, dass diese Lebewesen hervorragend an das Extremklima angepasst sind und schon bei geringsten Wassermengen aktiv werden können. Durch physikalische und chemische Veränderung ihrer Umwelt tragen sie damit zur Verwitterung von Gestein und Bodenbildung bei und sind an der Formung der Landschaft beteiligt.</abstract>
+                    <abstract lang="eng">“Pan de Azúcar National Park” is a fog oasis in the southern Atacama Desert of Chile. It hosts a diversity of cyanobacteria and green algae, which can especially be found in lichens. Diversity surveys and eco-physiological and biochemical studies have shown that these organisms are excellently adapted to the extreme climate and can already become active even if the amount of water available is very low. By changing their environment physically and chemically, they contribute to the weathering of rocks and soil formation and are thus involved in shaping the landscape.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-4989</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4989</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4989">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/4989/4625" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4989" DMDID="DMD_biejournals_4989">
+            <mets:fptr FILEID="FILE0_biejournals_4989"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
