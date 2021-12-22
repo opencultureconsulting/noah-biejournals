@@ -1,0 +1,72 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5014">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>100 Jahre Forschung an Wanderheuschrecken</title>
+                        <subTitle>Wie harmlose Insekten zu gefährlichen Schwärmen werden</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>100 years of research on locusts</title>
+                        <subTitle>How harmless insects transform into dangerous swarms</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Pflüger, Hans-Joachim</displayForm>
+                        <namePart type="family">Pflüger</namePart>
+                        <namePart type="given">Hans-Joachim</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bräunig, Peter</displayForm>
+                        <namePart type="family">Bräunig</namePart>
+                        <namePart type="given">Peter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-21</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Feldstudien vor 100 Jahren haben ergeben, dass verschiedene Wanderheuschreckenarten in zwei Phasen vorkommen, die davor als getrennte Arten betrachtet worden waren. Als solitäre Tiere (Einzeltiere) leben sie in geringer Dichte in ihrem spezifischen Ökosystem. Unter bestimmten klimatischen Bedingungen (Dürren oder Regen) kommt es zur Verdichtung der Tiere, was eine ganze Reihe unterschiedlicher Veränderungen bewirkt und solitäre Tiere zu gregären Schwarmtieren werden lässt. Berührungen der Tiere untereinander führen zu physiologischen Veränderungen im Organismus. Beeinflusst werden Bildung und Wirkung biogener Amine, von Hormonen und Pheromonen, und es kommt zu einer Vielzahl epigenetischer und genetischer Veränderungen. Zunächst führen alle diese Faktoren zu Verhaltensänderungen der Insekten, später zu Änderungen in ihrem Erscheinungsbild (z. B. Färbung) und zu morphologischen Veränderungen. Das Zusammenspiel aller beteiligten Faktoren ist aber noch nicht völlig verstanden.</abstract>
+                    <abstract lang="eng">100 years ago, field studies showed for the first time that certain migratory locusts exist in two different phases, previously believed to be different species. At low density, they live solitary in their specific ecosystem. Under certain climatic conditions (strong rainfalls, but also droughts and diminishing food supply) the population densities may rise. This causes a number of changes and solitary animals transform into gregarious swarms. Due to overcrowding, contacts between the insects increase in number thus bringing about physiological changes in their organisms: The production and the effect of biogenic amines, hormones and pheromones are influenced; in addition, numerous genetic and epigenetic processes are induced. First of all, all these factors cause changes in insect behaviour, followed by changes in their appearance (e. g. colouration) and finally morphological modifications. The exact interaction between these different factors is not yet fully understood.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5014</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5014</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5014">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5014/4630" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5014" DMDID="DMD_biejournals_5014">
+            <mets:fptr FILEID="FILE0_biejournals_5014"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
