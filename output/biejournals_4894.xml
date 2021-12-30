@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4894">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Richtige Noten im Falschen? Oder</title>
+                        <subTitle>Warum unsere Oberstufe immer exklusiver, ungerechter und irrationaler wird, je genauer wir die Leistungen messen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heinrich, Martin</displayForm>
+                        <namePart type="family">Heinrich</namePart>
+                        <namePart type="given">Martin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ausgehend von der Problemfrage „Wie verhält man sich möglichst rational innerhalb eines irrationalen Systems?“ thematisiert der Beitrag zunächst die Ansprüche, die in Deutschland seitens der Kultusministerkonferenz (KMK) an die gymnasiale Oberstufe formuliert werden (Kap. 1). Kontrastierend zu diesen Ansprüchen auf vertiefte Allgemeinbildung, allgemeine Studierfähigkeit sowie wissenschaftspropädeutische Bildung wird dann die Benotung als Bewertungsmaßstab problematisiert, da mit ihr streng genommen systematisch eine Praxis organisiert wird, die den von der KMK geforderten Maximen entgegensteht, da ihr das Paradox einer Gradierbarkeit von Studierfähigkeit inhärent ist (Kap. 2). Als Grund für diese Widersprüchlichkeit werden dann die diesem System zugrunde liegenden unpädagogischen Gerechtigkeitsvorstellungen diskutiert (Kap. 3) sowie deren Niederschlag und die mit ihnen verbundene unfaire Chancengleichheit im Notensystem (Kap. 4), bevor dann eine Kritik an den klassischen Bezugsnormen der Notengebung erfolgt und das Programm einer Inklusiven Oberstufe jenseits der asozialen und der pseudoindividuellen Bezugsnorm formuliert wird (Kap. 5). Abschließend (Kap. 6) folgt ein Plädoyer für eine Differenzierung zwischen einer pädagogischen und einer bildungspolitischen Rolle, um einen Ausweg aus dem eingangs formulierten Problemkomplex zu finden, also der Versuch einer Antwort auf die Frage: „Wie verhält man sich möglichst rational innerhalb eines irrationalen Systems?“
+Starting from the problem of “How to behave as rationally as possible within an irrational system?”, the article first discusses the demands that the Conference of Ministers of Education and Cultural Affairs of the Laender in Germany (KMK) formulates for the upper secondary schools in Germany (chap. 1). Contrasting these demands for in-depth general education, general study skills, and scientific education, grading as a standard of assessment is then problematized, since, strictly speaking, it systematically organizes a practice that contradicts the maxims demanded by the KMK, since the paradox of gradability of study skills is inherent in it (chap. 2). As a reason for this contradictoriness, the uneducational ideas of justice underlying this system are then discussed (chap. 3), as well as their precipitation and the unfair equality of opportunity associated with them in the grading system (chap. 4), before a critique of the classical reference norms of grading is then made and the program of an inclusive upper secondary school beyond the asocial and the pseudo-individual reference norm is formulated (chap. 5). Finally (chap. 6) follows a plea for a differentiation between a pedagogical and an educational role in order to find a way out of the problem complex formulated at the beginning, i.e., the attempt to answer the question: “How does one behave as rationally as possible within an irrational system?”</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>170</start>
+                                <end>177</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4894</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4894</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4894">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4894/4683" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4894" DMDID="DMD_biejournals_4894">
+            <mets:fptr FILEID="FILE0_biejournals_4894"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

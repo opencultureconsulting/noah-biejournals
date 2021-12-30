@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4999">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>ZUsammenKUNFT</title>
+                        <subTitle>Ein Verein von Fremden für Fremde</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mateo i Ferrer, Maria</displayForm>
+                        <namePart type="family">Mateo i Ferrer</namePart>
+                        <namePart type="given">Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Jahr 2018 gründete eine Gruppe von Kollegiat*innen des Oberstufen-Kollegs einen Verein mit dem Namen ZUsammenKUNFT. Diese Gruppe besteht aus jungen Menschen mit sehr unterschiedlichen Hintergründen und Erfahrungen, die jedoch durch die Erfahrung des Fremdseins vereint sind. In dieser Organisation arbeiten sie gemeinsam, um die Mechanismen zu verstehen, durch die der Diskurs und die Kategorien entstehen, die sie ausschließen. Sie wollen verstehen, wie bestimmt wird, wer in ihrem sozialen Kontext zum „Wir“ und wer zum „Ihr“ gehört. Dafür setzen sie sich mit philosophischen und soziologischen Texten auseinander, die ihnen dabei helfen, ihre konkreten Erfahrungen der Ausgrenzung zu analysieren. Diese Lektüren ermöglichen den Kollegiat*innen, eine neue Perspektive zu gewinnen, von der aus sie nach Wegen zur Überwindung dieser Situation der Fremdheit suchen können. In diesem Sinne ist ZUsammenKUNFT ein Verein, dessen Ziel das Empowerment der Fremden ist. Aber diese jungen Menschen wollen nicht nur ihre persönliche Situation verbessern, sondern auch die homogenisierenden Kategorien der Normalität durchbrechen, um Raum für Vielfalt zu schaffen. Zu diesem Zweck verstehen sie sich als Multiplikator*innen und suchen nach Möglichkeiten, ihre Arbeit an andere junge Menschen weiterzugeben, die ihre Erfahrungen teilen. Mit diesem Ziel vor Augen entwickeln sie Unterrichtsmaterialien, die sie Lehrer*innen anderer Schulen zur Verfügung stellen.
+A group of students at the Oberstufen-Kolleg founded an association “ZUsammenKUNFT“ in 2018. Members of this association are young people with diverse backgrounds and experiences, but they all share the same experience of being strangers. In this organisation, they work together in order to analyse and understand the mechanisms that produce a discourse and categories which exclude them. They want to understand the way “we” and “you” are defined and who is part of these categories in their social context. In order to do that, they deal with philosophical and sociological texts which help them to analyse their experience of being excluded. This theoretical basis allows the students to gain a new perspective that enables them to find a way to overcome their alienation. Therefore, “ZUsammenKUNFT” aims at empowerment of foreigners. But these young people do not only want to improve their own personal situation, but they also want to break up the homogenised categories of normality in order to create space for diversity. In order to achieve that, they see themselves as multiplicators and search for opportunities to pass on their insights to other young people who share their experiences. With this goal in mind they develop teaching material which they provide for teachers of other schools.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>106</start>
+                                <end>120</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4999</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4999</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4999">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4999/4674" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE1_biejournals_4999">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4999/4675" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4999">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4999/4676" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4999" DMDID="DMD_biejournals_4999">
+            <mets:fptr FILEID="FILE0_biejournals_4999"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4999" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4999"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4999" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4999"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

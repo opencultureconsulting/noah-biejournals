@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4896">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Gerechtigkeit durch Flexibilisierung</title>
+                        <subTitle>Eine internationale Perspektive auf Gestaltungsmöglichkeiten der Oberstufe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sliwka, Anne</displayForm>
+                        <namePart type="family">Sliwka</namePart>
+                        <namePart type="given">Anne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roth, Marie Lois</displayForm>
+                        <namePart type="family">Roth</namePart>
+                        <namePart type="given">Marie Lois</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel des Beitrags ist, den Bedarf einer bildungsgerechten Oberstufe zu erläutern und internationale Flexibilisierungsangebote als Antwort darauf vorzustellen. Schüler*innen mit geringem Zugriff auf kulturelles, ökonomisches und soziales Kapital erleben auf ihrem Weg zur sowie in der Oberstufe Bildungsbenachteiligung. International gibt es bereits gute Beispiele für eine bildungsgerechtere Ausgestaltung von Oberstufen. Mit Fokus auf der kriterialen Bezugsnorm sowie formativem Feedback offenbart die internationale Bildungslandschaft Flexibilisierungsangebote vor und am Ende der Oberstufe. Das irische „Transition Year“ sowie die dänische „Efterskole“ schaffen Schüler*innen durch gezielte pädagogische Maßnahmen bei der Vorbereitung auf die Oberstufe Raum zur Persönlichkeits- und Kompetenzentwicklung. Mithilfe von flexibel kombinierbaren Lernmodulen sowie einer individualisierbaren Oberstufenzeit und Abschlussprüfungsanzahl bietet sich finnischen Schüler*innen ein bedürfnisorientierter Gestaltungsraum. In Kanada besteht wiederum die Möglichkeit, Kurse und Abschlussprüfungen zu wiederholen. Schlussendlich bedarf eine bildungsgerechtere Oberstufe in Deutschland eines neuen Designs durch mehr Flexibilisierung.
+This contribution discusses the need of a fairer upper secondary school and presents international flexibilisation concepts which react to this issue. Students with little cultural, economic and social capital experience educational disadvantage on their way to and through upper secondary schools. But there exist already good international examples for a more equitable design of upper secondary schools. The international education landscape shows flexibilisation opportunities at the beginning and at the end of upper secondary schools which focus on the criterial reference standard and on formative feedback. The Irish “Transition Year” and the Danish “Efterskole” provide students, who prepare for upper secondary school, freedom to develop their personality and their competences, taking specific educational measures. By means of flexibly combinable learning modules, individualised study times, and numbers of final examinations, Finnish students find a needs-oriented organisation room. In Canada, students are allowed to repeat courses and final examinations. In conclusion, an educationally fairer upper secondary school in Germany needs a new design with more flexibilisation.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>178</start>
+                                <end>186</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4896</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4896</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4896">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4896/4684" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4896" DMDID="DMD_biejournals_4896">
+            <mets:fptr FILEID="FILE0_biejournals_4896"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

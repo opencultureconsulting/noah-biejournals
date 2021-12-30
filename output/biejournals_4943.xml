@@ -1,0 +1,99 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4943">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>OS auf Distanz</title>
+                        <subTitle>Wie erlebten Kollegiat*innen in der Eingangsphase das Lernen unter Corona-Bedingungen?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stiller, Cornelia</displayForm>
+                        <namePart type="family">Stiller</namePart>
+                        <namePart type="given">Cornelia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lojewski, Johanna</displayForm>
+                        <namePart type="family">Lojewski</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kuhnen, Sebastian Udo</displayForm>
+                        <namePart type="family">Kuhnen</namePart>
+                        <namePart type="given">Sebastian Udo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">37</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Oberstufen-Kolleg wurde, wie auch andere Schulen in Deutschland, zu Beginn des Jahres 2020 von den Schulschließungen aufgrund der Corona-Pandemie und dem damit zusammenhängenden Wechsel von Präsenz- auf Distanzunterricht überrascht. Um die Perspektive der Kollegiat*innen auf das Lernen während der Schulschließungen und des Distanzunterrichts darzustellen, wurden im Rahmen der regelmäßig stattfindenden Erhebungen der Verlaufs- und Absolventenstudie des Oberstufen-Kollegs (VAmOS) Kollegiat*innen zu ihren Erfahrungen während der coronabedingten Schulschließungen in der Eingangsphase 2019/20 befragt. Dieser Beitrag fokussiert dabei die Frage, wie Kollegiat*innen den Distanzunterricht erlebt haben. Dazu wird zunächst auf der Grundlage von deskriptiven Daten ein Überblick über die Situation der Kollegiat*innen während der Zeit der Schulschließungen sowie deren Erleben gegeben. Mittels multipler linearer Regressionen wird genauer betrachtet, welche Faktoren für die Lernqualität und das Belastungsempfinden der Kollegiat*innen im Distanzunterricht eine Rolle spielten. Des Weiteren werden Ergebnisse zu positiven Aspekten während der Zeit der Schulschließungen aus der kategorienbasierten Auswertung der offenen Antworten der Kollegiat*innen dargestellt. Zu diesem sehr ausführlichen Beitrag liegt ein Supplement vor, in dem die grundlegenden Befunde kurz zusammengefasst sind.
+The Oberstufen-Kolleg, like other schools in Germany, was surprised at the beginning of 2020 by the school closures due to the Corona pandemic and the associated change from classroom to distance learning. In order to provide the students’ perspectives on learning during the school closures and distance learning, students were questioned about their experiences during the Corona-related school closures in the introductory phase of the school year 2019/20 as part of the regular surveys of the course and graduate study (VAmOS). This article focuses on the question of how the students experienced the distance learning. For this purpose, an overview of the situation of the students during the time of the school closures and their experience is first given on the basis of descriptive data. By using multiple linear regressions, we take a closer look at which factors played a role in the learning quality and students’ perception of stress during distance learning. Furthermore, results on positive aspects during the time of the school closures are presented from the category-based analysis of the open answers of the students. A supplement to this extensive paper is provided, in which the basic findings are briefly summarised.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>7</start>
+                                <end>43</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4943</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4943</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4943">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4943/4668" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4943">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4943/4669" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4943" DMDID="DMD_biejournals_4943">
+            <mets:fptr FILEID="FILE0_biejournals_4943"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4943" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4943"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

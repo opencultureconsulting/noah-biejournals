@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4892">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Abitur im eigenen Takt“ – neu gedacht</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lau, Ramona</displayForm>
+                        <namePart type="family">Lau</namePart>
+                        <namePart type="given">Ramona</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Geweke, Michaele</displayForm>
+                        <namePart type="family">Geweke</namePart>
+                        <namePart type="given">Michaele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fechner, Rainer</displayForm>
+                        <namePart type="family">Fechner</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">6</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das Abitur in der Bundesrepublik Deutschland wird der heterogenen Schülerschaft in der gymnasialen Oberstufe nicht mehr gerecht. Abitur umfasst in diesem Sinne sowohl die Ausbildung in der Oberstufe als auch die Abschlussprüfungen, die in den Bundesländern in der Regel in einem zentral gesteuerten Prüfungsformat umgesetzt werden. In diesem Beitrag setzen sich die Autor*innen stellvertretend für eine Gruppe von (Schul-)Praktiker*innen mit den veralteten Bedingungen der gymnasialen Oberstufe auseinander und zeigen anhand vieler Praxisverweise auf, warum das derzeitige Abitur nicht mehr zeitgemäß ist. Auf der Basis ihrer Analysen skizzieren die Autor*innen eine moderne Ausbildungs- und Prüfungsordnung für die gymnasiale Oberstufe, die z.B. individualisierte Laufbahnen und auch modular durchgeführte Abschlussprüfungen ermöglicht.
+The Abitur (secondary-school demands) in the Federal Republic of Germany does not do justice to the heterogeneous students at secondary school level. Abitur in this context comprises both teaching and learning at secondary level and the final examinations, which are generally run in a centrally controlled examination format. In this contribution, the authors, representative for a team of (school) practitioners, deal with the outdated requirements at the secondary school level and show why those are no longer in keeping with the lines, using various examples from practice. Based on their analysis, the authors map modern schooling and examination regulations for the secondary school level, which allow, for example, individualized career paths and modularized final exams.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>164</start>
+                                <end>169</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4892</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4892</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4892">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4892/4682" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4892" DMDID="DMD_biejournals_4892">
+            <mets:fptr FILEID="FILE0_biejournals_4892"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5001">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mobilitätsforschung an den Versuchsschulen im Lockdown?! Flexibilisierung in schulischer Praxis und Praxisforschung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gold, Johanna</displayForm>
+                        <namePart type="family">Gold</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Voß, Ian</displayForm>
+                        <namePart type="family">Voß</namePart>
+                        <namePart type="given">Ian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fiedler-Ebke, Wiebke</displayForm>
+                        <namePart type="family">Fiedler-Ebke</namePart>
+                        <namePart type="given">Wiebke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Matthias, Alexander</displayForm>
+                        <namePart type="family">Matthias</namePart>
+                        <namePart type="given">Alexander</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Praxisforschungsprojekte an den Bielefelder Versuchsschulen zeichnen sich durch eine enge Zusammenarbeit zwischen Lehrkräften der Schulen und Mitarbeiter*innen der Wissenschaftlichen Einrichtungen aus. Durch die Verortung in den Schulen sind die Forschungstätigkeiten auf den Ablauf des Schuljahres abgestimmt und nehmen die Belange und Bedarfe der Schüler*innen sehr ernst. Durch die weltweite COVID-19-Pandemie und die weitreichenden Kontaktbeschränkungen und Schulschließungen mussten in der Forschungsarbeit neue Wege gefunden werden, da diese wertvollen Arbeitsstrukturen zeitweise nicht umgesetzt werden konnten. Dieser Beitrag zeichnet nach, welche Zugänge und Arbeitsformen eine Praxisforschungsgruppe in dieser Zeit gefunden hat, die genau den Umstand erforschte, der in Pandemie-Zeiten eigentlich nicht mehr beobachtbar war: die Mobilität von Schüler*innen.
+Practitioner research projects at the experimental schools in Bielefeld are characterised by close cooperation between teachers at the schools and staff at the scientific institutions. By being located in the schools, the research activities are coordinated with the course of the school year and take the concerns and needs of the pupils very seriously. Due to the worldwide COVID-19 pandemic and the far-reaching contact restrictions including school closures, new ways had to be found in the research work, as these valuable working structures could not be implemented at times. This article traces the approaches and forms of work that a practitioner research group found during this time, researching precisely the circumstance that was actually no longer observable in pandemic times: the mobility of pupils.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>76</start>
+                                <end>83</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-5001</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5001</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5001">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/5001/4672" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5001" DMDID="DMD_biejournals_5001">
+            <mets:fptr FILEID="FILE0_biejournals_5001"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

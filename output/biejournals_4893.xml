@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4893">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>flexible Oberstufe</title>
+                        <subTitle>Konzepte und Studien zu einer auf Individualisierung zielenden Oberstufenreform</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Fechner, Rainer</displayForm>
+                        <namePart type="family">Fechner</namePart>
+                        <namePart type="given">Rainer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">4</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das kürzlich erschienene Buch Die flexible Oberstufe   setzt sich in Theorie und Praxis mit der höheren Schulbildung bis zum Abitur auseinander. Das Ziel der Autor*innen ist ein Paradigmenwechsel von der vorherrschenden Reglementierung hin zu einer flexibilisierten Oberstufe, die sich an den individuellen Bedürfnissen der Schüler*innen orientiert. Es wird aus unterschiedlicher Perspektive (Hochschule, Wirtschaft, Gesellschaft, Schule) gezeigt, dass ein Schulsystem, das die unterschiedlichen Bildungsbiografien einer zunehmend heterogenen Gesellschaft auffängt, auf Eigenverantwortlichkeit und Teamfähigkeit setzt sowie individuelle Potenziale entdeckt und fördert, den Anforderungen der nächsten Jahrzehnte besser gerecht wird als das derzeitige. Die im Sinne einer Studierfähigkeit unerlässlichen hohen Qualitätsstandards im Abitur können auf flexiblen Wegen besser gesichert werden. Vielfältige Anregungen aus der Praxis bieten einen intensiven Einblick in die mögliche Umsetzung des Konzeptes einer veränderten Oberstufe. Daraus ergeben sich konkrete Forderungen an Gesellschaft und Politik, Rahmenbedingungen zu schaffen, die eine in diesem Sinne moderne Schule möglich machen.
+The recently published book Die flexible Oberstufe (The Flexible Upper Secondary School) deals with higher education up to the Abitur in theory and practice. The authors’ goal is a paradigm shift from the prevailing regimentation to a more flexible upper school that is oriented towards the individual needs of the students. From different perspectives (university, economy, society, school), it is shown that a school system that accommodates the different educational biographies of an increasingly heterogeneous society, focuses on individual responsibility and teamwork, and discovers and promotes individual potential, will better meet the requirements of the next decades than the current system. The high quality standards in the Abitur, which are indispensable in the sense of being able to study, can be better ensured in flexible ways. Diverse suggestions from the practice offer an intensive insight into the possible implementation of the concept of a modified upper secondary school. This leads to concrete demands on society and politics to create framework conditions that make a modern school in this sense possible.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>160</start>
+                                <end>163</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4893</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4893</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4893">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4893/4681" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4893" DMDID="DMD_biejournals_4893">
+            <mets:fptr FILEID="FILE0_biejournals_4893"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

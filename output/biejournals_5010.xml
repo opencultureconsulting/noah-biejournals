@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5010">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Exkurs über das (nächste) Fremde</title>
+                        <subTitle>Perspektiven aus der lateinischen Fachdidaktik</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Herzig, Niels</displayForm>
+                        <namePart type="family">Herzig</namePart>
+                        <namePart type="given">Niels</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Antike als das nächste Fremde zu bezeichnen, ist ein wiederkehrendes Phänomen in der Altphilologie. In diesem Kontext wird das zu erwerbende Verständnis für die Differenz, die aus der zeitlichen Distanz erwächst, als Argument für die Reflexion der Gegenwart formuliert. Dieser essayistische Exkurs offenbart, dass die Fremde, die in der lateinischen Literatur verhandelt wird, über die Reflexion der zeitlichen Distanz hinausgehende Argumente für die Reflexion des Begriffs Fremde per se bietet. Mittels einer interdisziplinären Zugangsweise wird ausgehend von Simmels soziologisch-philosophischer Deutung des Fremden diese mit der Latinistik dahingehend verknüpft, schulische Praxis zu reflektieren. So wird – exemplarisch an Caesars Germanenbild und Senecas commutatio loci – klar, dass die lateinische Literatur konkrete Anknüpfungspunkte ausweist, die vor allem in Inklusion betreffenden Aspekten praxisrelevant sind: die Deutung der Fremde aus dem Blickwinkel derjenigen Gruppe, welche die kulturellen Eigenheiten der als fremd beschriebenen Menschen für sich als wertvolle Erfahrungen schätzen lernen kann; und die durch Migration erworbenen Fähigkeiten im Sinne selbstreflexiver Erfahrungen, die gleichsam als Qualitäten bestehende Lerngruppen in vielfältiger Hinsicht bereichern können.
+Referring to antiquity as close strangeness is a recurring phenomenon in classical philology. In this context, the understanding to be acquired of the difference that arises from temporal distance is formulated as an argument for reflecting on the present. This essayistic excursus reveals that the strangeness negotiated in Latin literature offers arguments for the reflection of the concept of strangeness per se that goes beyond the reflection of temporal distance. Using an interdisciplinary approach based on Simmel’s sociological-philosophical interpretation of the stranger, this is linked with Latin studies to reflect on school practice. In this way, it becomes clear – using Caesar’s image of Germanic peoples and Seneca’s commutatio loci as examples – that Latin literature has concrete points of contact that are relevant to practice, especially in aspects relating to inclusion: the interpretation of strangeness from the perspective of the group who can learn to appreciate the cultural peculiarities of the people described as strange as valuable experiences for themselves, and the skills acquired through migration in the sense of self-reflective experiences that can enrich existing learning groups as qualities in many ways.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>131</start>
+                                <end>140</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-5010</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5010</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5010">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/5010/4679" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5010" DMDID="DMD_biejournals_5010">
+            <mets:fptr FILEID="FILE0_biejournals_5010"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

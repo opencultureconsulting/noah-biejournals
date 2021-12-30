@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4948">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Projektarbeit</title>
+                        <subTitle>Struktur und Methode</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Langner, Anke</displayForm>
+                        <namePart type="family">Langner</namePart>
+                        <namePart type="given">Anke</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heß, Maxi</displayForm>
+                        <namePart type="family">Heß</namePart>
+                        <namePart type="given">Maxi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wiechmann, Katja</displayForm>
+                        <namePart type="family">Wiechmann</namePart>
+                        <namePart type="given">Katja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Ausgangspunkt für die pädagogische Entwicklung an der Universitätsschule Dresden ist die Bestimmung, dass Lernen sich, wie es die kulturhistorische Theorie (u.a. Vygotskij, 2002) bestimmt, im Dialog vollzieht, bzw. wird das Lernen dem Konstruktivismus folgend als Ko-Konstruktionsprozess zwischen Schüler*innen und auch zwischen Schüler*innen und Lehrer*innen verstanden. Der vorliegende Beitrag stellt das Konzept und die Umsetzung der Projektarbeit als Kern des Lehr-Lernsettings an der Universitätsschule dar. In einem ersten Schritt wird das Konzept der Projektarbeit mit seinen Prämissen und Charakteristika skizziert, bevor im Anschluss die Projektarbeit exemplarisch für drei Altersstufen dargelegt wird. Anhand dessen werden die didaktisch-methodische Umsetzung und auch die Heranführung der Schüler*innen an die Projektarbeit deutlich. Nach der Differenzierung der Projektarbeit in der Primarstufe, der Mittelstufe und der Oberstufe werden zwei Aspekte der Umsetzung der Projektarbeit in der Universitätsschule noch einmal näher beleuchtet: Zum einen wird die Standardisierung von schulischen Prozessen zur Ermöglichung von individualisierter Entwicklung in kooperativen Lernprozessen über die Projektarbeit und zum anderen die Verbindung zwischen Projektarbeit und Digitalisierung in dieser Schule herausgearbeitet. Abschließend wird die aktuelle Umsetzung der Projektarbeit in der Universitätsschule Dresden als Entwicklung in einem Ko-Konstruktionsprozess von Praxis und Wissenschaft skizziert.
+At the University School Dresden, the starting point for the pedagogical development is the determination that learning takes place in dialogue as described by cultural-historical theory (e.g., Vygotskij, 2002); or, according to constructivism, learning is understood as co-construction process between students as well as between students and teachers. This paper presents the concept and implementation of project work as the core of the teaching-learning setting at the University School Dresden. In a first step, the concept of project work with its premises and characteristics is outlined, before project work is exemplified for three age groups. The didactic-methodical implementation and also the introduction of the pupils to the project work are elaborated. After the differentiation of project work at the primary, the intermediate and the advanced levels, two aspects of the implementation of project work are examined in more detail: on the one hand, the standardization of school processes which aim at enabling individualized development in cooperative learning processes via project work, and, on the other hand, the connection between project work and digitalization. Finally, the current implementation of project work at the University School Dresden is outlined as a co-construction process of practice and science.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>187</start>
+                                <end>204</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4948</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4948</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4948">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4948/4686" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4948" DMDID="DMD_biejournals_4948">
+            <mets:fptr FILEID="FILE0_biejournals_4948"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

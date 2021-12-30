@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4944">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Und das Schwierigste ist und bleibt halt, alleine zu lernen“</title>
+                        <subTitle>Eine explorative Untersuchung zum Lehren und Lernen auf Distanz in der Oberstufe</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Frohn, Julia</displayForm>
+                        <namePart type="family">Frohn</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pozas, Marcela</displayForm>
+                        <namePart type="family">Pozas</namePart>
+                        <namePart type="given">Marcela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">22</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag zielt auf die explorative Bearbeitung zweier wenig beachteter Forschungsfelder im Rahmen der bildungsbezogenen Covid-19-Forschung: Zum einen soll er Aufschluss darüber geben, welche Potenziale und Herausforderungen der „Fernunterricht“ in der Oberstufe im Vergleich zu anderen Schulstufen und ‑formen birgt; damit verbunden steht zum anderen die Frage im Mittelpunkt, wie die Förderung von Autonomieerleben, Kompetenzerleben und sozialer Eingebundenheit über die Distanz dazu beitragen kann, den besonderen Bedingungen im „Fernunterricht“ der Oberstufe zu begegnen. Methodisch stützt sich der Beitrag auf Impulse aus einer Interviewstudie (N = 14) sowie aus einer detaillierten Analyse eines Fallbeispiels als Sonderfall im Datenmaterial. Die Interviews wurden – als Nachfolgeerhebung zu einer Befragung im April 2020 – zwischen April und Juni 2021 geführt und nach Anonymisierung und Transkription inhaltsanalytisch mithilfe des Programms MAXQDA ausgewertet. Aus dem Material wurden die Kategorien Selbstständigkeit, Corona-bedingte Unsicherheiten sowie Wissenschaftspropädeutik durch fachliches und überfachliches Lernen als Besonderheiten für den Distanzunterricht in der Oberstufe herausgearbeitet. Das Fallbeispiel wiederum zeigt als „practice example“ Möglichkeiten auf, diesen Besonderheiten durch Stärkung von Autonomieerleben, Kompetenzerleben und sozialer Eingebundenheit produktiv zu begegnen.
+The paper presents an exploratory study on two current research gaps within the context of Covid-19 educational research: On the one hand, the study aims to examine the potentials and challenges of “distance learning” at upper secondary school (Oberstufe) compared to other school forms and tracks. On the other hand, it focuses on investigating how fostering students’ autonomy, competence and relatedness through distance learning can help meet the special learning and teaching conditions at upper secondary school. Following a qualitative research design, the study analyses data from an interview study (N = 14) including an in-depth exploration of data material from a case study. Concerning the interviews, data stems from a follow-up survey conducted between April and June 2021. After anonymization and transcription, the data was analyzed using the MAXQDA program. From the material, the categories of self-regulated learning, Corona-related uncertainties, and science propaedeutics through subject-specific and interdisciplinary learning were worked out as special features concerning distance teaching and learning at the upper level of secondary school. Furthermore, the case study serves as a “practice example” and sheds information on the possibilities to productively work these peculiarities by strengthening autonomy, competence and relatedness.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>WE_OS Jahrbuch</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4450</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>84</start>
+                                <end>105</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/weos-4944</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4944</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4944">
+                <mets:FLocat xlink:href="https://www.biejournals.de/index.php/we_os/article/download/4944/4673" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4944" DMDID="DMD_biejournals_4944">
+            <mets:fptr FILEID="FILE0_biejournals_4944"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
