@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4517">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Flags, crucifix, and language regimes</title>
+                        <subTitle>Space-marking in three central european primary schools</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wagner, Josefine</displayForm>
+                        <namePart type="family">Wagner</namePart>
+                        <namePart type="given">Josefine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Multi-sited ethnographies allow for a cross-cultural qualitative reading of schooling spaces.
+Flags, crucifix and language regimes are sociocultural and political symbols that set the tone for narratives of belonging inside and outside of the classroom.
+Transclusion (Biesta 2019) provides a fruitful concept to dissect and interpret how authority over space, language and resources is shared in schooling communities.
+Drawing on Biesta’s functions of education (qualification, socialization, subjectification), the three case studies give insights into the ways that space-marking indicates how schools prioritize one function of education over another.
+Central European schools exist within the complex history of the continent and must be locally contextualized to understand how the “ruinations” (Abu El-Haj 2020) of the myth of monoethnic (Poland), segregated migrant labor districts (Germany) or multicultural communities (Austria) play out in the everyday lives of schools.
+In the German-speaking schools, efforts were made to embrace diversity but the German language bias remained an uncontested site of power, achievement and discipline.
+At the Polish site, emphasis on homogeneity and competition favors passive learning settings and renders diverse student needs invisible.
+
+Purpose: Against the backdrop of a global policyscape of inclusion, this paper investigates how three primary schools (Poland, Austria, Germany) mark entry halls and classrooms with state and religious symbolism and grant presence or absence of multilingualism.
+Design/methodology/approach: This multi-sited school ethnography investigates how EU educational policy projects on social justice and inclusion are appropriated and negotiated in the spaces of three Central European schools (Abu El-Haj et al. 2017; Levinson, et al. 2018). I build on Gert Biesta’s concept of “transclusion” (2019) to interpret how school spaces appropriate EU inclusion policies and create a shared sense of community and belonging.
+Research limitations: Findings must be treated with caution as these are snapshots into the everyday life of three schools and cannot serve as general claims.
+Findings: Monoethnic expressions of religious faith (cross), national symbolism (flag) and language regimes co-construct national narratives that draw a line between those who belong and those who do not. Strong national narratives, communicated through entry hall decorations and classroom practices, allow little space for peripheral identities, i.e. migrant students, to claim voice and participate in the classroom and other shared spaces (Poland). Where there is less overlap between entry hall and classroom discourses (Austria), on the other hand, students receive mixed messages when it comes to their acceptance as AustriansBlank spaces (Germany) presume a possibility to create shared spaces of communication and decision-making that students playfully engage in. However, in both Germany and Austria the ambivalence around space-marking means that language regimes are the more prominent factor in drawing the demarcation line between insiders and outsiders.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4517</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4517</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4517">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4517/4689" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4517" DMDID="DMD_biejournals_4517">
+            <mets:fptr FILEID="FILE0_biejournals_4517"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

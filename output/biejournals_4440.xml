@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4440">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Our space at the heart of the smallpox vaccine expedition</title>
+                        <subTitle>A service-learning project for social studies and citizenship education in Galicia (Spain)</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>García-Morís, Roberto</displayForm>
+                        <namePart type="family">García-Morís</namePart>
+                        <namePart type="given">Roberto</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Muriano, Montserrat</displayForm>
+                        <namePart type="family">Muriano</namePart>
+                        <namePart type="given">Montserrat</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bas, Begoña</displayForm>
+                        <namePart type="family">Bas</namePart>
+                        <namePart type="given">Begoña</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">The study reports on, analyses and gives voice to the participants of a service-learning project involving students of education in a real educational context.
+The project was based on a historical event whose proximity to the students’ local environment helped them to realise its relevance to their own lives.
+The interdisciplinary nature of the project approaches citizenship education from the perspective of historical issues and events.
+The preparation and delivery of teacher training activities in a real educational context proved a positive, effective and enriching experience for all of the agents involved.
+The Smallpox Vaccine Expedition offers a more historiographically inclusive approach to school history and is directly relatable to current social issues.
+
+Purpose: The article reports on and analyses the creation, development and implementation of a service-learning project involving primary and secondary school pupils and students of education (bachelor’s and master’s level), carried out in a real educational setting over the course of two academic years.
+Approach: The project was conducted within a social science didactics framework of issues-centred teaching for the study of socially acute questions and global citizenship.
+Findings: The research yielded very positive results. The task for student teachers of contextualising their social studies learning in a real educational setting was found to be a motivating factor and provided useful lessons in relation to practical teacher training experiences of this kind.
+Implications: Greater emphasis should be placed on teacher training projects that include direct experience in real educational settings, particularly in relation to service-learning methodologies involving community service.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4440</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4440</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4440">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4440/4694" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4440" DMDID="DMD_biejournals_4440">
+            <mets:fptr FILEID="FILE0_biejournals_4440"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

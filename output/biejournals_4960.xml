@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4960">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Andreas Petrik, David Jahr &amp; Christopher Hempel (eds.) 2021</title>
+                        <subTitle>Methoden der qualitativen Politikunterrichtsforschung. Acht Persepktiven auf eine Unterrichtsstunde zum Thema Wahlen [Methods of qualitative social studies education research. Eight perspectives on a “elections” lesson]</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Torrau, Jens Soeren</displayForm>
+                        <namePart type="family">Torrau</namePart>
+                        <namePart type="given">Jens Soeren</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4960</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4960</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4960">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4960/4696" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4960" DMDID="DMD_biejournals_4960">
+            <mets:fptr FILEID="FILE0_biejournals_4960"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

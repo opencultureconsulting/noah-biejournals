@@ -1,0 +1,64 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4950">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Thanks to Referees 2020/2021</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>JSSE , Editors of the</displayForm>
+                        <namePart type="family">JSSE </namePart>
+                        <namePart type="given">Editors of the</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Maintaining the high quality of the Journal of Social Science Education is greatly dependent on the dedicated work of the academics who give their valuable time to review the papers that have been submitted to the journal. In the JSSE we are aware of the pressure for time that researchers have to face, and we are extremely grateful for their support to our editorial work. Thus the Editors of the Journal of Social Science Education would like to express our warm and heartfelt thank you to the following people who have reviewed papers for the journal in 2020 and 2021! </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4950</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4950">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4950/4688" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4950" DMDID="DMD_biejournals_4950">
+            <mets:fptr FILEID="FILE0_biejournals_4950"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4459">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Mutual rejection</title>
+                        <subTitle>an ethnography of social science at a Swedish elite school</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lundberg, Janna</displayForm>
+                        <namePart type="family">Lundberg</namePart>
+                        <namePart type="given">Janna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">At an elite school in Sweden, social science education contradicts the ideals of democratic education.
+Micro-power actions change when students outperform their teacher’s subject knowledge.
+Micro-interactional power is expressed by recognition and misrecognition in the classroom.
+As an observer in the elite school, one simultaneously becomes loud and invisible.
+Further ethnographic “studies up from below” are needed in social science education.
+
+Purpose: This paper offers insights into the dynamic of misrecognition in an elite school. It presents new findings on micro-interactional power relations in the classroom and argues for additional ethnographies of social science education in elite schools.
+Methodology: This paper uses an ethnographic method. Its research employs the observational position of a “belonging stranger” is put forward in contrast to the idea of “going native”. The focus is on the power of micro-interaction.
+Findings: A key empirical finding is the change in power relations that occurs when students outrank their social science teacher in subject knowledge.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4459</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4459</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4459">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4459/4690" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4459" DMDID="DMD_biejournals_4459">
+            <mets:fptr FILEID="FILE0_biejournals_4459"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

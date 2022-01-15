@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4452">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Visual ethnography in classrooms</title>
+                        <subTitle>the “action of showing” in classroom videos in contexts of social science teacher education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Jehle, May</displayForm>
+                        <namePart type="family">Jehle</namePart>
+                        <namePart type="given">May</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Unique historical sources of German social science classroom videos in the phase of 1990–91
+Historical documentation of the relations between camerawork and intentions for further use
+Insights into documentary practices and implicit images of teaching methods and practices
+Reconstruction of the complex and multi-layered process of image production
+Classroom videography needs a reflection of the complex process of meaningful image production
+
+Purpose: The paper discusses the camerawork within a historic video case study as a meaningful practice of visualization of classrooms and also as an aspect worth consideration in current contexts of video-based classroom research and teacher education.
+Design/methodology/approach: The case study combines elements of video hermeneutics and a visual sociology of knowledge to reconstruct the visual within historic classroom videos. It discusses these reconstructions based on the theoretical framework of video ethnography as an alternative method of classroom research focused on specific actions of showing within the historical context.
+Findings: The analysis and interpretation underpin the assumption of relations between camerawork and intentions for the use of the videos and enables insights into practices of documentation, implicit images of teaching practices, and classroom interaction as a part of the history of social science education.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4452</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4452</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4452">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4452/4692" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4452" DMDID="DMD_biejournals_4452">
+            <mets:fptr FILEID="FILE0_biejournals_4452"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

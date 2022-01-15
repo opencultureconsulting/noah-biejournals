@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4551">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>“It makes me angry. REALLY angry”</title>
+                        <subTitle>exploring emotional responses to climate change education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Whitehouse, Sarah</displayForm>
+                        <namePart type="family">Whitehouse</namePart>
+                        <namePart type="given">Sarah</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Jones, Verity</displayForm>
+                        <namePart type="family">Jones</namePart>
+                        <namePart type="given">Verity</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Consideration of emotional response to climate education in a primary classroom
+Exploration of emotions that teaching about climate change may raise for teacher, researcher and pupil
+Identification of gender and cultural bias in children’s climate mitigation visions
+Use of three stage approach to climate education with emotion navigated, not ignored
+
+Purpose: Climate change education and the emotional consequences this topic raises in the classroom has been largely ignored by researchers. This paper considers the emotional response to climate education in a primary classroom (age 9-10 years) in England and begins to explore the emotions that teaching about climate change may raise for both teacher, researcher and pupil. 
+Design: Part of a long- term ethnographic project in a school in England. Analysis of c60, 9-10-year olds drawings, participant observation notes and research diaries.
+Limitations: This is a small study - further research with larger numbers, different ages and in different geographical regions are required with both pupils and teachers.
+Practical implications: This work identifies pedagogies that allow injustices children identify to be explored with emotional responses being navigated rather than ignored. Such approaches support wellbeing in the face of growing numbers of young people suffering from eco-anxiety. </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4551</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4551</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4551">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4551/4693" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4551" DMDID="DMD_biejournals_4551">
+            <mets:fptr FILEID="FILE0_biejournals_4551"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

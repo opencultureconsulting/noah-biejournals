@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4468">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Contractualism as an element of democratic pedagogy?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Budde, Jürgen</displayForm>
+                        <namePart type="family">Budde</namePart>
+                        <namePart type="given">Jürgen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hellberg, Lotta</displayForm>
+                        <namePart type="family">Hellberg</namePart>
+                        <namePart type="given">Lotta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weuster, Nora</displayForm>
+                        <namePart type="family">Weuster</namePart>
+                        <namePart type="given">Nora</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-14</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Pedagogical practices are based on establishing commitment.
+Contractual pedagogy corresponds to a contract-based social order.
+Contractual pedagogy aims at democratizing pedagogical relationships.
+Contractual pedagogy involves a pedagogic process of collective subjectivation.
+Contractual pedagogy does not represent the kind of pedagogical ‘counter-model’ familiar to progressive pedagogies that aspire towards democratic codetermination.
+
+Purpose: This article investigates the establishment of commitment in pedagogical practices through what are known as ‘behavioural contracts’. Such contracts are seen as a participatory element of democratic pedagogy and are linked to the aim of strengthening students’ self-determination. The objective is to demonstrate that as a pedagogical phenomenon, contractual pedagogy is oriented towards a practice of self-control achieved through external control, assuming a basis of sovereignty and reason.
+Methodology: The article provides an investigation of material from an ethnographic research project in Germany on social learning in school-based pedagogical contexts. The study is informed by practice theory, theory of school and theory of social pedagogics.
+Findings: This article argues that contractual pedagogy as a subjectivising constellation is primarily directed towards re-establishing the pre-existing institutional order. It demonstrates that contractual pedagogy can neither be understood as a particularly participatory method of democratic pedagogy, nor as a governmental power strategy, but as a subjectivising exercise that introduces students to a central tenet in modern societies. Through this, connections are formed between specific forms of (collective) subjectivation.
+Research implications: Further theoretical and empirical analyses are required, which make other pedagogical impulses, such as an ethics of care or the critique of the subject, fruitful for Democratic Pedagogy.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>20</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>4</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4468</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4468</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4468">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4468/4691" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4468" DMDID="DMD_biejournals_4468">
+            <mets:fptr FILEID="FILE0_biejournals_4468"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
