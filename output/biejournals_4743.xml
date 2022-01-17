@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4743">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Programmplanung und Entwicklung interprofessioneller wissenschaftlicher Weiterbildungsangebote für Gesundheitsfachpersonal</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schaffrin, Sandra</displayForm>
+                        <namePart type="family">Schaffrin</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tschupke, Sandra</displayForm>
+                        <namePart type="family">Tschupke</namePart>
+                        <namePart type="given">Sandra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hasseler, Martina</displayForm>
+                        <namePart type="family">Hasseler</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thies, Vera</displayForm>
+                        <namePart type="family">Thies</namePart>
+                        <namePart type="given">Vera</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Ostfalia Hochschule für angewandte Wissenschaften entwickelt und erprobt im Rahmen des niedersächsischen Förderprogramms „Öffnung von Hochschulen“ mit dem Projekt „InWeit – Interprofessionelles Weiterbildungsprogramm“ fünf Weiterbildungsmodule mit Zertifikatsabschluss sowie zwei Massive Open Online Courses (MOOCs), die im Anschluss an die Erprobung und Evaluation in ein modular ausgestaltetes, frei kombinierbares, interprofessionell ausgerichtetes Weiterbildungsprogramm überführt werden. Mit Hilfe des interprofessionellen Weiterbildungsprogramms soll ein niedrigschwelliger Hochschuleinstieg für die nicht-traditionellen Zielgruppen des Gesundheitswesens, speziell für die in den Pflegeberufen tätigen Fachkräfte erreicht werden. Die thematische Entwicklung und organisatorische Ausgestaltung erfolgt dabei auf der Grundlage umfassender regionaler Bedarfserhebungen. Um eine Vereinbarkeit von Beruf, Familie und Weiterbildung zu gewährleisten, sind die modularen Angebote nach dem Blended Learning Konzept gestaltet. Das interprofessionelle Weiterbildungsprogramm entspricht aufgrund seiner großen Flexibilität in besonderem Maße den Bedürfnissen der Zielgruppe der Gesundheits- und Pflegefachberufe und bietet den Teilnehmenden die Möglichkeit, neue Schwerpunkte in ihrer persönlichen Karriereentwicklung zu legen.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4743</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4743">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/4743/4712" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4743" DMDID="DMD_biejournals_4743">
+            <mets:fptr FILEID="FILE0_biejournals_4743"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

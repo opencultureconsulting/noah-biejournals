@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4321">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sonderweg oder Königsweg</title>
+                        <subTitle>Ein akteurs- und prozessorientiertes Modell für die Entwicklung weiterbildender Studiengänge</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Glaß, Elise</displayForm>
+                        <namePart type="family">Glaß</namePart>
+                        <namePart type="given">Elise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bauhofer, Christine</displayForm>
+                        <namePart type="family">Bauhofer</namePart>
+                        <namePart type="given">Christine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gröger, Gabriele</displayForm>
+                        <namePart type="family">Gröger</namePart>
+                        <namePart type="given">Gabriele</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mai, Andreas</displayForm>
+                        <namePart type="family">Mai</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klages, Benjamin</displayForm>
+                        <namePart type="family">Klages</namePart>
+                        <namePart type="given">Benjamin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Beitrag stellt ein idealtypisches Modell für die Entwicklung weiterbildender Studiengänge vor, das relevante Akteur*innen und zentrale Aufgabenbereiche in Form einer Prozessmatrix darstellt. Dabei wird u.a. an das Modell von Hanft (2014) angeschlossen und durch zentrale Erkenntnisse aus der Umsetzungspraxis ausgewählter Projekte im Rahmen des Bund-Länder-Wettbewerbs „Aufstieg durch Bildung: offene Hochschulen“ erweitert. Hierfür gehen die Autor*innen auf den Stand der Modellbildung und Forschung ein und führen die Ergebnisse in einem Bezugsrahmen für die anschließende Modellableitung zusammen. Die entwickelte Prozessmatrix wird grafisch dargestellt, hinsichtlich ihrer Struktur, der zentralen Rollen bzw. Akteur*innen und Prozessschritte erläutert sowie als idealtypisches Prozessmodell diskutiert. Abschließend werden ausgewählte Nutzungs- und Forschungsperspektiven aufgezeigt und weiterführende Überlegungen zur Bedeutung von weiterbildenden Studiengängen im Kontext der Hochschulentwicklung skizziert.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zhwb-4321</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4321</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4321">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/4321/4707" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4321" DMDID="DMD_biejournals_4321">
+            <mets:fptr FILEID="FILE0_biejournals_4321"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

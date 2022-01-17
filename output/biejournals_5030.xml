@@ -1,0 +1,58 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5030">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kooperativ, vernetzt - agil? Zusammenarbeit in der wissenschaftlichen Weiterbildung</title>
+                        <subTitle>Bericht zur DGWF Jahrestagung 2021 an der Philipps-Universität Marburg in Kooperation mit dem Deutschen Institut für Erwachsenenbildung - Leibniz-Zentrum für Lebenslanges Lernen vom 15. bis 17. September 2021</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lutzmann, Franziska</displayForm>
+                        <namePart type="family">Lutzmann</namePart>
+                        <namePart type="given">Franziska</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-16</dateIssued>
+                    </originInfo>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5030</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5030">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/5030/4714" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5030" DMDID="DMD_biejournals_5030">
+            <mets:fptr FILEID="FILE0_biejournals_5030"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

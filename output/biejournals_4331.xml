@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Zwischen Innovation und Stagnation </title>
+                        <subTitle>Nachhaltige Angebotsentwicklung in der Wissenschaftlichen Weiterbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Vollstädt, Michael</displayForm>
+                        <namePart type="family">Vollstädt</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bünemann, Toni Charlotte</displayForm>
+                        <namePart type="family">Bünemann</namePart>
+                        <namePart type="given">Toni Charlotte</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der vorliegende Artikel möchte einen Beitrag zu einem differenzierten Nachhaltigkeitsverständnis in der wissenschaftlichen Weiterbildung leisten. Ausgehend von den bisherigen Arbeiten zur Nachhaltigkeit von Projekten im Kontext des Bund-Länder-Wettbewerbs „Aufstieg durch Bildung: offene Hochschulen“ (Maschwitz, Speck, Brinkmann, Johannsen &amp;amp; Von Fleischbein, 2019; Fautz, Speck, Brinkmann &amp;amp; Bök, 2020) wird der von Stockmann (1992; 1996) entwickelte „innovationsorientierte Nachhaltigkeitstyp“ näher untersucht. Dieses innovative Nachhaltigkeitsverständnis ist kompatibel mit Ergebnissen der Entrepreneurship-Forschung. Es werden Verbindungen zu einem nachhaltig-unternehmerischen Verständnis sowie agilen Projekt- und Organisationsformen hergestellt. Damit werden Innovation, Transformation und Agilität zu Bestandteilen des Nachhaltigkeitsbegriffs und ermöglichen eine integrative Auslegung für die Angebotsentwicklung in der wissenschaftlichen Weiterbildung. Abschließend werden anhand der drei Nachhaltigkeitskategorien (Effizienz, Suffizienz und Konsistenz) Vorschläge für die Anwendung in der wissenschaftlichen Weiterbildung vorgebracht und weitere Forschungsdesiderate herausgestellt.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zhwb-4331</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4331</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4331">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/4331/4711" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4331" DMDID="DMD_biejournals_4331">
+            <mets:fptr FILEID="FILE0_biejournals_4331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

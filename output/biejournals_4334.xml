@@ -1,0 +1,83 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4334">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Erfolgsfaktoren in der wissenschaftlichen Weiterbildung</title>
+                        <subTitle>Ergebnisse einer Erhebung an bayerischen Hochschulen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Höhn, Nicole</displayForm>
+                        <namePart type="family">Höhn</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Piwonka, Martina</displayForm>
+                        <namePart type="family">Piwonka</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preiss, Carola</displayForm>
+                        <namePart type="family">Preiss</namePart>
+                        <namePart type="given">Carola</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Klippel, Susanne</displayForm>
+                        <namePart type="family">Klippel</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-16</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Ziel der in der DGWF Engagierten ist es, hochwertige und dauerhaft erfolgreiche Weiterbildungsangebote zu schaffen. Dieser Beitrag präsentiert die Ergebnisse einer quantitativen Umfrage mit Verantwortlichen für wissenschaftliche Weiterbildung an Hochschulen im Freistaat Bayern zum Thema Erfolgsfaktoren. Darin wird die Facheinschätzung jener 34 Expert*innen zu den wichtigsten Elementen in Konzeption, Organisation und Angebotsausführung wiedergegeben, auf dass eine erfolgreiche Etablierung gelingt. Darüber hinaus liefern die Autorinnen einen Überblick zur aktuellen bayerischen Situation der wissenschaftlichen Weiterbildung mit Verortung auf nationaler Ebene und vergleichen die zentralsten Forschungsergebnisse mit thematisch verwandten Studien. Der Beitrag schließt mit Diskussionsanregungen zu aktuellen Entwicklungsperspektiven.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift Hochschule und Weiterbildung (ZHWB)</title>
+                        </titleInfo>
+                        <identifier type="issn">2567-2673</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4334</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4334">
+                <mets:FLocat xlink:href="https://www.hochschule-und-weiterbildung.net/index.php/zhwb/article/download/4334/4713" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4334" DMDID="DMD_biejournals_4334">
+            <mets:fptr FILEID="FILE0_biejournals_4334"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
