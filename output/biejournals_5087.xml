@@ -1,0 +1,96 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5087">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Biologieunterricht praktisch und digital</title>
+                        <subTitle>Kompetenzorientierte Lehr-Lernarrangements zur Modellierung von Blütenmodellen mit 3D-Druck</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>A </nonSort>
+                        <title>competence-oriented teaching-learning arrangement for modeling flower models by means of 3D printing</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Bonorden, Marcel</displayForm>
+                        <namePart type="family">Bonorden</namePart>
+                        <namePart type="given">Marcel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meinders, Kai</displayForm>
+                        <namePart type="family">Meinders</namePart>
+                        <namePart type="given">Kai</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Offermann, Sascha</displayForm>
+                        <namePart type="family">Offermann</namePart>
+                        <namePart type="given">Sascha</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Riemenschneider, Anja</displayForm>
+                        <namePart type="family">Riemenschneider</namePart>
+                        <namePart type="given">Anja</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Papenbrock, Jutta</displayForm>
+                        <namePart type="family">Papenbrock</namePart>
+                        <namePart type="given">Jutta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Die Umsetzung der Digitalisierung von Schule und Unterricht ist mit Herausforderungen für Lehrkräfte verbunden.Sie müssen die nötige technische Kompetenz aufweisen, um neue Technologien wie computergestützte Modellierung und 3D-Druck sinnvoll und gewinnbringend in ihren Unterricht integrieren können. Um Lehrkräfte zu entlasten, ist ein Angebot von didaktisch legitimierten und in der Praxis erprobten Unterrichtskonzepten notwendig. Eine wichtige Grundlage bei diesem Prozess bilden Modellprojekte für innovativen Biologieunterricht. Im Rahmen eines solchen Projektes wurden von Schüler/-innen Blütenmodelle ausgehend von realen Blüten erstellt. Der Lernerfolg wurde wissenschaftlich ausgewertet und ein dazugehöriges Unterrichtskonzept für Lehrkräfte weiterentwickelt. Die Studie konnte zeigen, dass sich der Projektunterricht positiv auf das botanische Fachwissen auswirkt.</abstract>
+                    <abstract lang="eng">Implementing the digitalization of schools and teaching involves challenges for teachers. They need the necessary technical expertise to be able to integrate new technologies such as computer-aided modeling and 3D printing into their lessons in a meaningful and profitable way. In order to support teachers, it is necessary to offer didactic legitimate teaching concepts that have been tested in practice. Model projects for innovative biology teaching form an important basis for this process. Within the framework of such a project, students create flower models based on real flowers. The learning success was evaluated and a corresponding teaching concept further developed. The study showed that project teaching has a positive effect on botanical knowledge.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5087</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5087</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5087">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5087/4723" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5087" DMDID="DMD_biejournals_5087">
+            <mets:fptr FILEID="FILE0_biejournals_5087"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

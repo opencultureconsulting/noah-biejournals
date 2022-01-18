@@ -1,0 +1,63 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5088">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bakterielle Sensorenkomplexe zur Umweltnavigation</title>
+                        <subTitle>Wie sich Bakterien in ihrer Umwelt zurechtfinden</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Bacterial sensory complexes for environmental navigation</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Briegel, Ariane</displayForm>
+                        <namePart type="family">Briegel</namePart>
+                        <namePart type="given">Ariane</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-17</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Viele bewegliche Bakterien sind in der Lage, mithilfe von ausgedehnten Rezeptorgittern ihre chemische Umwelt wahrzunehmen und ihren Bewegungsapparat dementsprechend zu kontrollieren. Das System ist hochempfindlich und kann Nährstoffe in Konzentrationen über fünf Größenordnungen wahrnehmen. Darüber hinaus können die Bakterien den gegenwärtigen Zustand mit der Vergangenheit vergleichen, was ihnen ermöglicht, Närstoffgradienten zu verfolgen. Dieses Verhalten wird Chemotaxis genannt und ermöglicht den Bakterien, optimale Lebensräume aufzusuchen. Chemotaxis ist eines der am besten verstandenen Signaltransduktionssysteme in der Biologie, und der genaue Aufbau und die Funktion der einzelnen Komponenten ist mittlerweile besonders im Modelsystem E. coli gut untersucht. Chemotaxis wird auch von pathogenen Bakterien verwendet und ist ein wichtiger Bestandteil für einen ungestörten Infektionsverlauf. Neue Forschungsergebnisse zeigen, dass die Grundstruktur der Gitter, in denen die Komponenten der Chemotaxis angeordnet sind, in unterschiedlichen Bakterien vom bekannten Modellsystem E. coli abweichen kann.</abstract>
+                    <abstract lang="eng">Many motile bacteria rely on extensive chemoreceptor arrays to sense their chemical environment and control their motility apparatus. This enables the bacteria to follow nutrient gradients by comparing their current condition with that one of the recent past. This system is highly sensitive and can respond to nutrient concentrations over five orders of magnitude. This behaviour is called chemotaxis and enables the cells to seek out favourable environments. Chemotaxis is one of the best understood signal transduction systems in biology, and the structure and function of the chemoreceptor arrays is well understood in the model system of E. coli. Furthermore, chemotaxis is also a key behaviour in the infection process of pathogenic bacteria. New research findings show that chemoreceptor array architecture can differ from the model system of E. coli, and that we find a great variability with regard to other bacterial species.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5088</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5088</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5088">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5088/4724" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5088" DMDID="DMD_biejournals_5088">
+            <mets:fptr FILEID="FILE0_biejournals_5088"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
