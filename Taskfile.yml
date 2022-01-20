@@ -10,11 +10,11 @@ tasks:
       - task: transform
 
   reset:
-    desc: delete cache, harvest and transform
+    desc: delete cache; harvest and transform
     cmds:
-      - task: harvest_reset
+      - rm -rf input/*
       - task: harvest
-      - task: transform_reset
+      - rm -rf output/*
       - task: transform
 
   install:
@@ -95,18 +95,13 @@ tasks:
           echo 1>&2 "Anzahl der heruntergeladenen Datensätze (${count}) entspricht nicht der erwarteten Mindestanzahl (${minimum})! Bitte manuell prüfen."; exit 1
         fi
 
-  harvest_reset:
-    cmds:
-      - rm -rf input/*
-
   transform:
     desc: transform data to mets/mods xml
     cmds:
       - task: transform_start
       - task: transform_client
-      - task: transform_stop
       - task: transform_split
-      - task: validate
+      - task: transform_validate
     sources:
       - input/*/*.xml
       - config/**
@@ -128,6 +123,7 @@ tasks:
 
   transform_client:
     cmds:
+      - defer: { task: transform_stop } # will run even when one of the following commands fail
       - | # prepare workspace
         mkdir -p output
       - | # create temporary zip archive with new files (modified less than 1 day ago)
@@ -152,7 +148,6 @@ tasks:
         --rowSeparator '' \
         --output "$(readlink -m output/biejournals.txt)" \
         > >(tee -a .openrefine/log.txt) 2>&1
-    ignore_error: true # workaround to avoid an orphaned Java process on error https://github.com/go-task/task/issues/141
 
   transform_stop:
     cmds:
@@ -182,11 +177,7 @@ tasks:
             do mv "$f" "$(xmllint --xpath "//*[local-name(.) = 'recordIdentifier']/text()" "$f").xml"
         done)
 
-  transform_reset:
-    cmds:
-      - rm -rf output/*
-
-  validate:
+  transform_validate:
     desc: check output and validate against METS schema
     cmds:
       - | # requirement xmllint

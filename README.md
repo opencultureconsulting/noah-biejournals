@@ -9,7 +9,7 @@ Die Daten in diesem Repository werden [alle 24 Stunden nachts ab 03:21 Uhr](http
 - GNU/Linux (getestet mit Fedora 32)
 - JAVA 8+ (für OpenRefine)
 - PHP 7.3+ und Composer (für VuFindHarvest)
-- [go-task](https://github.com/go-task/task) 3.0.0+
+- [go-task](https://github.com/go-task/task) 3.10.0+
 - xmllint (libxml2)
 
 ## Workflow
