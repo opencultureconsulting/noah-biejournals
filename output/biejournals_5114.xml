@@ -1,0 +1,88 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5114">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Burnout and optimism among health workers  during the period of COVID-19</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Theofilou, Paraskevi</displayForm>
+                        <namePart type="family">Theofilou</namePart>
+                        <namePart type="given">Paraskevi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Platis, Charalampos</displayForm>
+                        <namePart type="family">Platis</namePart>
+                        <namePart type="given">Charalampos</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Madia, Konstantina</displayForm>
+                        <namePart type="family">Madia</namePart>
+                        <namePart type="given">Konstantina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kotsiopoulos, Ioannis</displayForm>
+                        <namePart type="family">Kotsiopoulos</namePart>
+                        <namePart type="given">Ioannis</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: The investigation of the level of burnout and optimism as well as the effect of socio-demographic and other factors on the above two variables among health workers during the period of covid-19.
+Methods: The following two psychometric tools were used to collect the research data: the Maslach Burnout Inventory to assess burnout and the Revised Life Orientation Test (LOT-R) to assess the level of optimism.
+Results: In the present study 10 men (24.4%) and 31 women (75.6%) participated. The majority of them were between 36-45 years (36.6%), married and unmarried (48.8% and 48.8% respectively), holding bachelor degree (61.0%) and with 11-25 years of work experience (53.7%). Very high levels of exhaustion and especially emotional exhaustion and depersonalization were observed with also a high degree of personal achievement. The levels of optimism were high. There were statistically significant differences between the two genders in terms of burnout (only the dimension of emotional exhaustion) with women showing higher rates. Employees aged 25-35 years and those who had 1-10 years of work seemed to have higher levels of emotional exhaustion (all differences were considered statistically significant for p&amp;lt;0.05). Finally, a statistically significant correlation took place between burnout and optimism (p&amp;lt;0.05).
+Conclusions: The level of burnout among health workers seems to be high during the period of covid-19. In addition, various socio-demographic and occupational factors appear to influence burnout.
+Conflicts of interest: None.
+Acknowledgements: None.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5114</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5114</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5114">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5114/4721" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5114" DMDID="DMD_biejournals_5114">
+            <mets:fptr FILEID="FILE0_biejournals_5114"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

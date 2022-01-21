@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5112">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Circular health</title>
+                        <subTitle>a needed approach to promote health and prevent pandemics and other health hazards</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Lirussi, Flavio</displayForm>
+                        <namePart type="family">Lirussi</namePart>
+                        <namePart type="given">Flavio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ziglio, Erio</displayForm>
+                        <namePart type="family">Ziglio</namePart>
+                        <namePart type="given">Erio</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">SARS-Cov-2 is a perfect example of the intimate relationship between human, animal and environmental health. Circular health goes beyond the biomedical concept of health, operating on the interface between individuals, microorganisms and ecosystems. The World Health Organization endorses this concept and stresses the importance of protecting the environment and addressing and reversing the negative impact of climate change. The application of circular health to the governance for population health is based on protection of all forms of life, interdisciplinarity, involvement of all of society, big data, artificial intelligence, and correct scientific information. It also considers a combination of health, environmental, social and economic problems caused by the synergistic interaction between the acute diseases - in this case caused by SARS-Cov-2, and a number of non-transmittable chronic pathologies. Disinformation and misuse of social media could be more dangerous for the pandemic&apos;s development than the virus itself. The adoption of circular health is an urgent necessity in restructuring development policies and making them more effective and sustainable, and protecting and promoting individual and collective health. Within public health, circular health should urgently become the mainstream approach to prevent pandemics and other health hazards. Given the many social, economic, and cultural changes undergoing in the countries of the South-Eastern European Network the conceptual and policy framework related to circular health could be of great value in further advancing progress in this part of Europe.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5112</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5112</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5112">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5112/4719" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5112" DMDID="DMD_biejournals_5112">
+            <mets:fptr FILEID="FILE0_biejournals_5112"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

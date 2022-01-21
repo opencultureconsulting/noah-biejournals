@@ -1,0 +1,68 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5111">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Climate change and its extensions in infectious diseases</title>
+                        <subTitle>South-Eastern Europe under focus</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kayacan, Zeynep Cigdem</displayForm>
+                        <namePart type="family">Kayacan</namePart>
+                        <namePart type="given">Zeynep Cigdem</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Akgul, Ozer</displayForm>
+                        <namePart type="family">Akgul</namePart>
+                        <namePart type="given">Ozer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Climate change is a result of natural processes and human-made activities influencing the atmosphere. Many infectious diseases are climate-sensitive and their nature and epidemiology are changing in parallel with the change in climatic conditions and global warming. Increased replication rates of pathogens at higher temperatures, extended transmission seasons, migration of vectors or human populations are some outcomes of the changing climate, to trigger new concerns including new epidemics with old or new pathogens. Climate change is presenting itself today as an urgent global health threat and it requires immediate international action with high priority. Infectious diseases in relation to changing climatic conditions are reviewed with predominating current examples, keeping a focus on Europe with particular emphasis on South-Eastern European and Eurasian regions.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5111</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5111</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5111">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5111/4718" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5111" DMDID="DMD_biejournals_5111">
+            <mets:fptr FILEID="FILE0_biejournals_5111"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

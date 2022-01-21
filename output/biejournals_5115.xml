@@ -1,0 +1,59 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5115">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Pay-for-performance and tools for quality assurance in health care</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Donev, Doncho</displayForm>
+                        <namePart type="family">Donev</namePart>
+                        <namePart type="given">Doncho</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-20</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Ongoing health care reforms in the countries of Southeast Europe (SEE) to modernise and promote the health sector include the introduction of innovative payment methods for health care providers in hospitals and outpatient services. The idea of remunerating health workers according to the work they do and the results they achieve has been present in the countries of SEE for more than four decades. This includes the need to develop and implement objective measures and criteria to regulate the work of health facilities and health professionals. Implementing the &quot;Pay-for-performance&quot; (P4P) model is a major challenge with the risk of compromising the quality of health services in all countries, and positive experiences for quality assurance have been modest in many countries around the world. Standards and norms (S/N), clinical pathways (CPW) and checklists (CL) are necessary regulatory tools that complement each other to protect the quality of health services and implement the &quot;Payment for success&quot; (P4S) model. The absence of S/N, CPW and CL in the implementation of the P4P model leads to inefficiencies, inadequate/unrealistic numbers, and poor quality of health services, as well as more frequent medical errors. With the development, introduction and implementation of S/N, CPW and CL in the application of the P4S model, everyone benefits: patients, healthcare organisations and their employees, health insurance companies, ministries of health and the state.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5115</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5115</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5115">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5115/4722" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5115" DMDID="DMD_biejournals_5115">
+            <mets:fptr FILEID="FILE0_biejournals_5115"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
