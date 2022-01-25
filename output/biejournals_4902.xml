@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4902">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexion von Lernprozessen bei der Planung und Gestaltung von Unterricht im Fach Musik auf Grundlage des Basismodells pädagogischen Handelns</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Zuther, Luise</displayForm>
+                        <namePart type="family">Zuther</namePart>
+                        <namePart type="given">Luise</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ziel der viermonatigen schulischen Praxisphase in der niedersächsischen Lehrer*innenbildung ist die Befähigung der Studierenden zur Reflexion von Unterricht und zur Auseinandersetzung mit ihren pädagogischen Überzeugungen und Kompetenzen als Lehrkraft. Der folgende Beitrag geht auf die Förderung der Reflexionsfähigkeit am Beispiel ausgewählter Unterrichtsplanungen für den Musikunterricht ein. Die Studierenden analysieren und reflektieren auf der Grundlage des Basismodells pädagogischen Handelns nach Fritz Oser exemplarisch Lernprozesse in ausgewählten Unterrichtssituationen. Das vorliegende Material diente während der Corona-Pandemie in musikpädagogischen Online-Veranstaltungen der Universität Osnabrück zur Reflexion von Unterrichtsentwürfen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>53</start>
+                                <end>60</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4902</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4902</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4902">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4902/4746" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4902">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4902/4747" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4902" DMDID="DMD_biejournals_4902">
+            <mets:fptr FILEID="FILE0_biejournals_4902"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4902" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4902"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

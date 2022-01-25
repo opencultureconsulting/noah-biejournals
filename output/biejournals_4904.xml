@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4904">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kunst, Musik und Sport in Szene gesetzt</title>
+                        <subTitle>Bilderbücher als Ausgangspunkt für ein transdisziplinäres Theaterprojekt</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sigl, Mirjam</displayForm>
+                        <namePart type="family">Sigl</namePart>
+                        <namePart type="given">Mirjam</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zuge der &quot;Qualitätsoffensive Lehrerbildung&quot; wurde an der Universität Passau im Rahmen des Projekts SKILL (Strategien zur Kompetenzentwicklung: Innovative Lehr- und Beratungskonzepte in der Lehrerbildung) ein Lehr-Lern-Format entwickelt, das sich durch eine fächerübergreifende Verbindung fachdidaktischer Studieninhalte der Fächer Kunst, Musik und Sport (KuMuSp) auszeichnet und im Team-Teaching durchgeführt wird. Ziel der Entwicklung des Lehrprojekts war, das Selbstvertrauen und die Selbstwirksamkeitserwartungen von Studierenden des Lehramts Grundschule zu stärken, die die Fächer Musik, Sport und Kunst nicht studieren, aber später unterrichten müssen. In Anlehnung an das Konzept des Elementaren Musiktheaters entwickeln und präsentieren die Studierenden ein szenisches Spiel, das Elemente aus den Fächern Kunst, Musik und Sport enthält. Inhaltlicher Ausgangspunkt sind Bilderbücher. Im Beitrag werden die Konzeptionierung von fächerübergreifenden Projektwochenenden und Gedanken zur „De-Fragmentierung“ der beteiligten Fächer in der universitären Lehre dargestellt. Die Seminargestaltung sowie konkrete Warming-up-Übungen und eine Liederliste zu Bilderbüchern finden sich im Online-Supplement. Arbeitsergebnisse des szenischen Spiels zu erprobten Bilderbüchern, Erfahrungen der Studierenden sowie lessons learned aus bisher zehn Modellseminaren mit über 200 Studierenden runden den Beitrag ab.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>72</start>
+                                <end>80</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4904</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4904</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4904">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4904/4742" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4904">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4904/4743" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4904" DMDID="DMD_biejournals_4904">
+            <mets:fptr FILEID="FILE0_biejournals_4904"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4904" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4904"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

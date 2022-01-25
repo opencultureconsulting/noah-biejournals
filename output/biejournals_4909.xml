@@ -1,0 +1,105 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4909">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Reflexionsanlässe schaffen</title>
+                        <subTitle>Einblicke in Dortmunder Entwicklungsforschungsprojekte zur Musiklehrer*innenbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Höller, Katharina</displayForm>
+                        <namePart type="family">Höller</namePart>
+                        <namePart type="given">Katharina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Duve, Jan</displayForm>
+                        <namePart type="family">Duve</namePart>
+                        <namePart type="given">Jan</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hildebrand, Thilo</displayForm>
+                        <namePart type="family">Hildebrand</namePart>
+                        <namePart type="given">Thilo</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Langner, Johanna</displayForm>
+                        <namePart type="family">Langner</namePart>
+                        <namePart type="given">Johanna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kranefeld, Ulrike</displayForm>
+                        <namePart type="family">Kranefeld</namePart>
+                        <namePart type="given">Ulrike</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Für Lehramtsstudierende im Fach Musik besteht eine zentrale Herausforderung darin, sich im Laufe ihres Studiums innerhalb der Pluralität oftmals unverbunden nebeneinanderstehender fachdidaktischer Konzeptionen zu orientieren. Dabei müssen sie nicht nur mit divergierenden Zieldimensionen, sondern zudem mit unterschiedlichen Gegenstandsverständnissen umgehen. Deshalb bedarf es einer reflexiven Musiklehrer*innenbildung, die durch sorgfältig entwickelte Impulse Reflexionsprozesse initiiert und damit eigene fachdidaktische Positionierungen der Studierenden für die spätere Berufspraxis anbahnt. Im Beitrag werden Erträge der Entwicklung von hochschuldidaktischen Lehr-/Lernformaten in den BMBF-geförderten Projekten „Degree 4.0“, „K4D“ und „DoProfiL“ an der musikpädagogischen Forschungsstelle der TU Dortmund dargestellt. Die Projekte zielen auf die Förderung von Reflexionsprozessen und reflexionsbezogenen Dispositionen (wie einer reflexiven Haltung) und nehmen dabei digitale, teils videobasierte Lernsettings zum Musik-Erfinden, zum Sprechen über Musik und zur Inklusion im Musikunterricht in den Blick.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>121</start>
+                                <end>138</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4909</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4909</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4909">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4909/4732" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4909" DMDID="DMD_biejournals_4909">
+            <mets:fptr FILEID="FILE0_biejournals_4909"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4898">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>Biographon</title>
+                        <subTitle>Ein Instrument zur künstlerischen Reflexion der musikalischen Biographie</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Immerz, Anna</displayForm>
+                        <namePart type="family">Immerz</namePart>
+                        <namePart type="given">Anna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Tralle, Eva-Maria</displayForm>
+                        <namePart type="family">Tralle</namePart>
+                        <namePart type="given">Eva-Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">In diesem Beitrag wird das Biographon als Instrument zur künstlerischen Reflexion der musikalischen Biographie vorgestellt, welches theoretisch an Überlegungen zur Biographiearbeit anknüpft und Professionalisierungsprozesse angehender Musiklehrer*innen befördert. Das Biographon wurde im Rahmen eines musikpädagogischen Seminars mit Lehramtsstudierenden an der Hochschule für Musik Freiburg erstmalig angewandt und erprobt. In diesem Artikel werden die Seminarkonzeption und die Aufgabenstellung des Reflexionsinstruments vorgestellt und theoretisch eingebettet sowie Studierendenergebnisse der Biographone und die Erfahrungen der Seminarleiterinnen besprochen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>8</start>
+                                <end>15</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4898</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4898</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4898">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4898/4759" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4898" DMDID="DMD_biejournals_4898">
+            <mets:fptr FILEID="FILE0_biejournals_4898"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

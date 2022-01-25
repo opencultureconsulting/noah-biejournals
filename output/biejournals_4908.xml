@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4908">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Musikdidaktische Konzeptionen als „Massive Open Online Course“ (MOOC)</title>
+                        <subTitle>Eine Chance für die Lehrer*innenbildung?</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wieneke, Julia</displayForm>
+                        <namePart type="family">Wieneke</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag beschreibt die Hintergründe und Organisation eines umfassenden Online-Kurses zur Geschichte musikdidaktischer Konzeptionen. Der Aufbau des MOOCs mit den sieben Modulen wird kurz vorgestellt, und es werden die verfügbaren zusätzlichen Materialien beschrieben. Der Kurs auf der iMooX-Plattform ermöglicht durch die offene Lizensierung als „Open Educational Resource“ (OER) auch eine Bearbeitung durch die Nutzer*innen und eröffnet dadurch weitere Verwendungsweisen in der universitären Lehre und darüber hinaus. Einige Ideen für die Einbindung in der Lehrer*innenbildung werden vorgestellt, und es wird ein Einblick gegeben in die Erfahrungen und das bisherige Feedback, seit der Kurs im November 2020 online gegangen ist.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>113</start>
+                                <end>120</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4908</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4908</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4908">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4908/4733" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4908" DMDID="DMD_biejournals_4908">
+            <mets:fptr FILEID="FILE0_biejournals_4908"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

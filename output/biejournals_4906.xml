@@ -1,0 +1,153 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4906">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Ästhetische Erfahrungen von Musik begünstigen</title>
+                        <subTitle>Szenische Interpretationen und gemeinsames Musizieren im Seminar „Musikgeschichte“ der Lehramtsausbildung zum Werk „March of the Women“ von Ethel Smyth</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schiemann, Steven</displayForm>
+                        <namePart type="family">Schiemann</namePart>
+                        <namePart type="given">Steven</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Schäffer, Jessica</displayForm>
+                        <namePart type="family">Schäffer</namePart>
+                        <namePart type="given">Jessica</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rose, Joris</displayForm>
+                        <namePart type="family">Rose</namePart>
+                        <namePart type="given">Joris</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-01-24</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Zentrum dieses Beitrages für das Seminar Musikgeschichte der Lehramtsausbildung Musik an der Sekundarstufe steht das Werk „March of the Women“ von Ethel Smyth (1858–1944), welches als „Hymne“ der englischen Suffragetten-Bewegung gilt. Audiodateien zur musikalischen Begleitung, ein Lernvideo und Materialien für eine Szenische Interpretation von Musik und Theater (SIMT) zielen auf den kombinierten Erwerb von Fachwissen, musikdidaktischem Wissen und Primärerfahrungen. Dieses Vorgehen könnte auch für den schulischen Musikunterricht genutzt werden. Die geschichtliche Referenz auf die englische Frauenbewegung des 20. Jahrhunderts ermöglicht einen Bezug zu aktuellen Protesten der Gegenwart, z.B. „Black Lives Matter-Movement” und „Fridays for Future“. Bewusst wurde ein Werk einer Komponistin in den Fokus gerückt, um auf die Rolle von Musikerinnen und Komponistinnen in der Musikgeschichte aufmerksam zu machen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>92</start>
+                                <end>102</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4906</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4906</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4737" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4738" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4739" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE3_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4766" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="audio/x-wav" ID="FILE4_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4767" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE5_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4768" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="audio/x-wav" ID="FILE6_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4769" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="video/mp4" ID="FILE7_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4770" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE8_biejournals_4906">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4906/4771" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4906" DMDID="DMD_biejournals_4906">
+            <mets:fptr FILEID="FILE0_biejournals_4906"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART3_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE3_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART4_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE4_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART5_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE5_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART6_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE6_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART7_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE7_biejournals_4906"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART8_biejournals_4906" LABEL="">
+                <mets:fptr FILEID="FILE8_biejournals_4906"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
