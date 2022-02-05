@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5185">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Somatosensorik und Ionenkanäle</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Backes, Tobias M.</displayForm>
+                        <namePart type="family">Backes</namePart>
+                        <namePart type="given">Tobias M.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rössler, Oliver G.</displayForm>
+                        <namePart type="family">Rössler</namePart>
+                        <namePart type="given">Oliver G.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Thiel, Gerald</displayForm>
+                        <namePart type="family">Thiel</namePart>
+                        <namePart type="given">Gerald</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Nobelpreis für Physiologie oder Medizin wurde dieses Jahr an die Wissenschaftler David Julius und Ardem Patapoutian für ihre Arbeiten über die Wahrnehmung thermischer und mechanischer Reize verliehen. Die beiden Forscher identifizierten Kationenkanäle, die für die Perzeption von Temperatur und Druck essentiell sind.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>18</start>
+                                <end>19</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5185</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5185</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5185">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5185/4778" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5185" DMDID="DMD_biejournals_5185">
+            <mets:fptr FILEID="FILE0_biejournals_5185"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

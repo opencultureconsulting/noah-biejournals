@@ -86,8 +86,11 @@
                     <typeOfResource>text</typeOfResource>
                     <genre authority="dini">article</genre>
                     <originInfo>
-                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-14</dateIssued>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
                     </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
                     <abstract lang="ger">Der Nationalpark „Pan de Azúcar“ ist eine Nebeloase in der südlichen Atacama-Wüste Chiles. Er beherbergt eine Vielfalt an Cyanobakterien und Grünalgen, die insbesondere in Flechten vorkommen. Diversitätsaufnahmen und ökophysiologische sowie biochemische Untersuchungen zeigten, dass diese Lebewesen hervorragend an das Extremklima angepasst sind und schon bei geringsten Wassermengen aktiv werden können. Durch physikalische und chemische Veränderung ihrer Umwelt tragen sie damit zur Verwitterung von Gestein und Bodenbildung bei und sind an der Formung der Landschaft beteiligt.</abstract>
                     <abstract lang="eng">“Pan de Azúcar National Park” is a fog oasis in the southern Atacama Desert of Chile. It hosts a diversity of cyanobacteria and green algae, which can especially be found in lichens. Diversity surveys and eco-physiological and biochemical studies have shown that these organisms are excellently adapted to the extreme climate and can already become active even if the amount of water available is very low. By changing their environment physically and chemically, they contribute to the weathering of rocks and soil formation and are thus involved in shaping the landscape.</abstract>
                     <subject lang="ger">
@@ -99,6 +102,16 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>Biologie in unserer Zeit</title>
                         </titleInfo>
                         <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>58</start>
+                                <end>65</end>
+                            </extent>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4989</identifier>

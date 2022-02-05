@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5190">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Museen und Zoos zu Hause erleben?</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kubi, Michael</displayForm>
+                        <namePart type="family">Kubi</namePart>
+                        <namePart type="given">Michael</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel, Volker</displayForm>
+                        <namePart type="family">Wenzel</namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weiser, Martina</displayForm>
+                        <namePart type="family">Weiser</namePart>
+                        <namePart type="given">Martina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">2</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Um Besucher/-innen und insbesondere Schüler/-innen auch in Zeiten von Corona die Möglichkeit zu bieten, außerschulische Lernorte zu besuchen, kann man im Frankfurter Senckenberg Naturmuseum virtuelle Live-Führungen buchen. Die Guides werden dabei von einem „Kameramann“ per Handy gefilmt, der auch Fragen des Publikums direkt weiterleiten kann, so dass ein möglichst authentisches Führungserlebnis entsteht. Dies hat die Bildungsforscher der Biologiedidaktik der Goethe-Universität auf den Plan gerufen, die nun untersuchen wollen, welchen Einfluss die originalen Exponate im Vergleich zu den virtuellen Repräsentationen auf das Interesse und damit die Lernwirksamkeit bei Schüler/-innen haben.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>27</start>
+                                <end>28</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5190</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5190</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5190">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5190/4783" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5190" DMDID="DMD_biejournals_5190">
+            <mets:fptr FILEID="FILE0_biejournals_5190"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

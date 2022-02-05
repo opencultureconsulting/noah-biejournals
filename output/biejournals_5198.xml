@@ -1,0 +1,108 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5198">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Measles, a re-emerging disease in Albania</title>
+                        <subTitle>Epidemiology and clinical presentations</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Çomo, Najada</displayForm>
+                        <namePart type="family">Çomo</namePart>
+                        <namePart type="given">Najada</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Meta, Esmeralda</displayForm>
+                        <namePart type="family">Meta</namePart>
+                        <namePart type="given">Esmeralda</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Qato, Migena</displayForm>
+                        <namePart type="family">Qato</namePart>
+                        <namePart type="given">Migena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kraja, Dhimiter</displayForm>
+                        <namePart type="family">Kraja</namePart>
+                        <namePart type="given">Dhimiter</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Pipero, Pellumb</displayForm>
+                        <namePart type="family">Pipero</namePart>
+                        <namePart type="given">Pellumb</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Fico, Albana</displayForm>
+                        <namePart type="family">Fico</namePart>
+                        <namePart type="given">Albana</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="eng">Aim: Measles is a highly contagious disease caused by the measles virus. Albania is one of many European countries that have successfully interrupted endemic transmission of this disease. However, during the years 2018-2019, an outbreak of measles occurred in Albania. The aim of this study was to describe the clinical features and complications of hospitalized measles patients in Tirana, Albania, as related to age-group and risk factors.
+&amp;nbsp;
+Methods: All patients hospitalized for over 24 hours from January 2018 to December 2019 at the Service of Infectious Diseases, University Hospital Centre “Mother Teresa” in Tirana were included in this study. We included patients over 14 years old as this is an Infectious Diseases Service for adult patients only. Clinical and laboratory data were analysed.
+&amp;nbsp;
+Results: Of the 318 hospitalized patients (139 females), about 35%, 26%, 17%, 14%, and 7% were 15-24, 25-34, 35-44, 45-54, and over 55 years old, respectively. Females constituted 37% of the total number of patients. The average and median ages were 30.9 years and 28.5 years, respectively. Average time from the first symptom to the hospital presentation was 3.8 days. Contact with other patients with measles was noted in 21% of the patients. Body rashes were identified as maculopapular in 96% of the patients. Pathognomonic enanthema or Koplik spots and conjunctivitis were detected in 62% and 52% of the patients, respectively. Measles-related complications were noted in 53% of the patients; pneumonia/pneumonitis, hepatitis, neurological complications were presented by 24%, 26%, and 3% of the patients, respectively. Average duration of hospitalization was 5.4 days, whereas mortality was 0.3%.
+&amp;nbsp;
+Conclusion: This study provides valuable evidence about the distribution and clinical features of measles in Albania. Measles is a highly contagious disease and, as long as the measles virus is circulating, the risk of transmission remains high.
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5198</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5198</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5198">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5198/4791" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5198" DMDID="DMD_biejournals_5198">
+            <mets:fptr FILEID="FILE0_biejournals_5198"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

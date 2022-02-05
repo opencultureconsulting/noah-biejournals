@@ -38,8 +38,11 @@
                     <typeOfResource>text</typeOfResource>
                     <genre authority="dini">article</genre>
                     <originInfo>
-                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-21</dateIssued>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
                     </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
                     <abstract lang="ger">Die abyssale Tiefsee der Antarktis wurde seit 2002 mit der Reihe der ANDEEP-Expeditionen untersucht. Die Fauna der Antarktischen Tiefsee ist sehr divers. Viele unbekannte Tierarten wurden entdeckt, Verbreitungsareale angepasst und systematische Zusammenhänge neu definiert. Tiefseearten kommen in der Antarktis auch auf dem Schelf vor, weil dieser tiefer liegt als der anderer Kontinente. Unter dem Schelfeis herrschen Bedingungen ähnlich wie in der Tiefsee, weshalb typische Tiefseegemeinschaften und -arten auch in diesen Regionen vorkommen.</abstract>
                     <abstract lang="eng">The abyssal deep sea of Antarctica has been studied with a series of ANDEEP expeditions since 2002. The fauna of the Antarctic deep sea is very diverse. Many unknown species have been discovered, distribution ranges adapted and systematic relationships redefined. Deep-sea species also occur on the Antarctic shelf because it is deeper than that of other continents. Conditions under ice shelves are similar to those in the deep sea, which is why typical deep-sea communities and species also occur in these regions.</abstract>
                     <subject lang="ger">
@@ -51,6 +54,16 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>Biologie in unserer Zeit</title>
                         </titleInfo>
                         <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>47</start>
+                                <end>57</end>
+                            </extent>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-5011</identifier>

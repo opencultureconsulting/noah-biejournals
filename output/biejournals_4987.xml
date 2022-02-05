@@ -39,8 +39,11 @@
                     <typeOfResource>text</typeOfResource>
                     <genre authority="dini">article</genre>
                     <originInfo>
-                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-14</dateIssued>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
                     </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
                     <abstract lang="ger">Jüngste Erkenntnisse aus der modernen Tiergiftforschung zeigen, dass die Vorfahren der Hundertfüßer vermutlich ein recht simples Gift mit wenigen neurotoxischen Komponenten und Enzymen besaßen. Dieser Giftcocktail wurde im Laufe der Evolution unerwartet stark verändert und an die heutige Lebensweise der Hundertfüßer angepasst. Tatsächlich gibt es keine Toxinfamilie, die in den Giften der untersuchten Arten aller fünf Ordnungen gemeinsam vorkommt, und damit gibt es auch nicht das eine Hundertfüßergift. Die Klimax sind die extrem diversen Gifte der Skolopender, die zahlreiche neue Neurotoxine beinhalten. Die Prozesse, wie die Giftproteine in den Hunderfüßern entstehen und evolvieren, sind hier durch neue Studien beleuchtet. Erste Daten zeigen, dass auf genomischer Ebene sogar horizontaler Gentransfer eine Rolle spielen könnte.</abstract>
                     <abstract lang="eng">Recent studies in the field of modern venomics illustrate that the ancestors of today’s centipedes presumably had a rather simple venom cocktail at their disposal with few neurotoxic components and enzymes. In the course of evolution, this venom cocktail has experienced unexpected changes with diverse adaptations to centipede lifestyles – a development that led to unique venoms in all five centipede orders that share no single toxin family, which makes it impossible to speak of a centipede venom. The venoms of giant centipedes (Scolopendromorpha) represent a climax with several new neurotoxic peptides. The processes that have led to the development and evolution of venom proteins in centipedes are illustrated here. First data on genomic level suggest that even horizontal gene transfer might play an important role.</abstract>
                     <subject lang="ger">
@@ -52,6 +55,16 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
                             <title>Biologie in unserer Zeit</title>
                         </titleInfo>
                         <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>38</start>
+                                <end>46</end>
+                            </extent>
                         </part>
                     </relatedItem>
                     <identifier type="doi">10.11576/biuz-4987</identifier>

@@ -1,0 +1,65 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5187">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Milane</title>
+                        <subTitle>Stabile Bestände bei Langzeitmonitoring in Westpolen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Irsch, Wilhelm</displayForm>
+                        <namePart type="family">Irsch</namePart>
+                        <namePart type="given">Wilhelm</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-04</dateIssued>
+                    </originInfo>
+                    <abstract lang="ger">Der Rotmilan steht auch als „Konfliktart“ immer wieder im Spannungsfeld der Interessen, z. B. wenn es um die Landschaftsentwicklung geht. Seine Eignung als Bioindikator zur Bewertung der Qualität von Räumen lässt sich vor allem durch Langzeituntersuchungen in unterschiedlichen Regionen untermauern. Dies gilt auch für die Zwillingsart Schwarzmilan und das Verhältnis beider Arten zueinander.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                            <detail type="volume">
+                                <number>52</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5187</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5187</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5187">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5187/4780" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5187" DMDID="DMD_biejournals_5187">
+            <mets:fptr FILEID="FILE0_biejournals_5187"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
