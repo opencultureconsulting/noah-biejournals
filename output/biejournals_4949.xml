@@ -1,0 +1,120 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4949">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Rollenhut als Vermittlungsmedium</title>
+                        <subTitle>Rollenklärungsprozesse im Kontext multiprofessioneller Kooperationen als Thema universitärer Aus- und Fortbildungen von Lehrkräften und Sozialpädagog*innen</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <nonSort>The </nonSort>
+                        <title>Role Hat as Medium </title>
+                        <subTitle>Clarification Processes in the Context of Mul-tiprofessional Cooperations as Topic of Teacher and Social Worker Education and Training at the University</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Neumann, Phillip</displayForm>
+                        <namePart type="family">Neumann</namePart>
+                        <namePart type="given">Phillip</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hopmann, Benedikt</displayForm>
+                        <namePart type="family">Hopmann</namePart>
+                        <namePart type="given">Benedikt</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wohnhas, Verena</displayForm>
+                        <namePart type="family">Wohnhas</namePart>
+                        <namePart type="given">Verena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Lütje-Klose, Birgit</displayForm>
+                        <namePart type="family">Lütje-Klose</namePart>
+                        <namePart type="given">Birgit</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">13</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Multiprofessionelle Kooperation zwischen allgemeinen und sonderpädagogischen Lehrkräften und mit weiteren Fachkräften, u.a. der Schulsozialarbeit, der Schulpsychologie und mit Schulbegleitungen, gilt bei der Entwicklung inklusiver Schulen als zentrale Stellschraube. Dementsprechend wird Kooperation im Kontext Schule auch in der universitären Ausbildung von zukünftig miteinander kooperierenden Professionen sowie in Fortbildungen für Lehrkräfte und multiprofessionelle Teams verstärkt ins Blickfeld gerückt. Zugleich lässt sich beobachten, dass in inklusiven Schulen bislang vermeintlich klare Zuständigkeiten, insbesondere zwischen Sonder- und Sozialpädagog*innen, aufweichen und neu austariert werden müssen. Bei der Entwicklung multiprofessioneller Teams gilt die Klärung von Rollen und Aufgaben als eine besondere Herausforderung, wenn unterschiedliche Professionen mit unterschiedlichen institutionellen Anbindungen und pädagogischen Zielperspektiven oder Grundhaltungen mitei-nander kooperieren. Das vorgestellte Instrument – der Rollenhut – dient dazu, in multiprofessionellen Gruppen eine individuelle Reflexion über die eigenen Aufgaben anzustoßen und auf dieser Grundlage gemeinsam über die gegenseitigen Erwartungen und Rollen zu diskutieren. Das Instrument wurde im Kontext von Fortbildungen multiprofessioneller Teams an Schulen konzipiert und auch im Rahmen der universitären Lehrer*innenbildung erprobt.</abstract>
+                    <abstract lang="eng">Multiprofessional cooperation between general and special education teachers and with other specialists, including school social work, school psychology and school support services, is considered a key factor in the development of inclusive schools. Accordingly, cooperation is being given greater attention in university training for professions that will cooperate with each other in schools in the future, as well as in onsite trainings for teachers and multiprofessional teams. At the same time, it can be observed that in inclusive schools, previously supposedly clear responsibilities, especially between special educators and social workers, need to be rebalanced. In the development of multiprofessional teams, the clarification of roles and tasks is considered a particular challenge when different professions with different institutional ties and pedagogical goal perspectives or basic attitudes cooperate with each other. The presented instrument – the role hat – serves to initiate an individual reflection on one’s own tasks in multiprofessional groups and to discuss mutual expectations and roles on this basis. The instrument was conceived in the context of onsite trainings of multiprofessional teams at schools and was also tested in the context of university teacher training.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Herausforderung Lehrer*innenbildung - Zeitschrift zur Konzeption, Gestaltung und Diskussion</title>
+                        </titleInfo>
+                        <identifier type="issn">2625-0675</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>13</start>
+                                <end>25</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/hlz-4949</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4949</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4949">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4949/4798" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4949">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4949/4799" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4949">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4949/4800" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4949" DMDID="DMD_biejournals_4949">
+            <mets:fptr FILEID="FILE0_biejournals_4949"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4949" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4949"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4949" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4949"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

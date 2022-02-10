@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5205">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Der </nonSort>
+                        <title>Einsatz gestufter Lernhilfen als Unterstützung für Lernende im Kontext des biologischen Experimentierens</title>
+                        <subTitle>Einfluss auf die Schüler*innen-Motivation im Naturwissenschafts- und Mathematikunterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleinert, Svea Isabel</displayForm>
+                        <namePart type="family">Kleinert</namePart>
+                        <namePart type="given">Svea Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Besa, Kris-Stephen</displayForm>
+                        <namePart type="family">Besa</namePart>
+                        <namePart type="given">Kris-Stephen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-09</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Experimentieren im Biologieunterricht als komplexer Problemlöseprozess könnte durch den Einsatz gestufter Lernhilfen gefördert werden. Aus lernpsychologischer Sicht unterstützen diese binnendifferenzierenden und selbstständigkeitsfördernden Instrumente die Kompetenzwahrnehmung von Schüler*innen. Gleichzeitig könnte dem Motivations- und Interessenabfall in den Naturwissenschaften begegnet werden. Vor dem Hintergrund fehlender mathematischer Kompetenzen bei der Auswertung eines Experimentes könnten zusätzliche gestufte Lernhilfen im Mathematikunterricht implementiert werden. Diese instruktionalen Unterstützungen könnten gleichzeitig einen positiven Einfluss auf die wahrgenommene Kompetenz und die intrinsische Motivation der Lernenden entfalten. Die vorliegende Studie untersuchte daher den Einfluss gestufter Lernhilfen während der Auswertung eines Experimentes im Biologieunterricht sowie im Rahmen einer Unterrichtseinheit zum Thema Lineare Funktionen im Mathematikunterricht auf die Kompetenzwahrnehmung und die intrinsische Motivation der Schüler*innen. Hierzu wurden 75 Lernende einer Versuchsschule (55,2 % weiblich; MAlter = 16.5 Jahre, SDAlter = 0.80 Jahre) in einer Unterrichtseinheit zum Thema Osmose im Naturwissenschaftsunterricht sowie zum Thema Lineare Funktionen im Fach Mathematik unterrichtet und Daten zur Kompetenzwahrnehmung und weitere Daten zur intrinsischen Motivation erhoben. Mithilfe von univariaten Kovarianzanalysen wurden für den Naturwissenschafts- und Mathematikunterricht deutliche deskriptive bzw. signifikante Unterschiede in der wahrgenommenen Kompetenz, zugunsten der Lernenden, die beim biologischen Experimentieren gestufte Lernhilfen nutzten, gefunden; tendenziell signifikante Unterschiede in der intrinsischen Motivation konnten nur für das biologische Experimentieren berichtet werden. Der zusätzliche Einsatz gestufter Lernhilfen im Mathematikunterricht konnte keine Hinweise auf eine erhöhte Motivation der Lernenden hervorbringen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>26</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>18</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zdb-5205</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5205</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5205">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/5205/4801" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5205" DMDID="DMD_biejournals_5205">
+            <mets:fptr FILEID="FILE0_biejournals_5205"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
