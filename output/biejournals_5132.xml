@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5132">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Dafür, dass alles so plötzlich kam, fand ich den Umstieg [...] gelungen!“</title>
+                        <subTitle>Perspektiven von Teilnehmenden auf die coronabedingte Digitalisierung in Weiterbildungsstudien für Deutsch als Zweitsprache</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Maahs, Ina-Maria</displayForm>
+                        <namePart type="family">Maahs</namePart>
+                        <namePart type="given">Ina-Maria</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Sotkov, Mihail</displayForm>
+                        <namePart type="family">Sotkov</namePart>
+                        <namePart type="given">Mihail</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">18</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Im Frühjahr 2020 mussten in der Bundesrepublik Deutschland bedingt durch die Covid-19-Pandemie völlig unerwartet plötzlich beinahe alle Lehr- und Lernangebote auf Distanz umgestellt werden. In der öffentlichen Debatte werden diesbezüglich häufig an erster Stelle die Herausforderungen für die allgemeinbildenden Schulen diskutiert; von dieser plötzlichen Änderung der Rahmenbedingungen betroffen waren aber auch viele weitere Bereiche des Bildungssektors. So wurden zu dem Zeitpunkt im Kontext der Hochschullehre und Lehrkräfteweiterbildung die sonst üblichen Präsenzveranstaltung ad hoc auf digitale Bildungsangebote umgestellt. Die vorliegende Studie beleuchtet diese Umstellung für die Weiterbildungsstudien Deutsch als Zweitsprache in Nordrhein-Westfalen und stellt dabei die Perspektive der teilnehmenden Lehrkräfte in den Fokus. Dabei zeigt sich dieser historisch einmalige Moment als aufschlussreiche Lerngelegenheit für die Gestaltung zukünftiger Angebote, da durch die notgedrungenen Erfahrungen mit Online-Formaten nicht nur Hinweise auf konkrete Herausforderungen und Potenziale digitaler Weiterbildungsstudien aufgezeigt werden können, sondern sich auch Veränderungen in der Haltung der befragten Lehrkräfte zu E-Learning-Angeboten in der Weiterbildung beobachten lassen. Als besonders zukunftsweisend scheinen in diesem Kontext hybride Formate zu sein, die Vorteile von Präsenz- und Online-Angeboten systematisch und gewinnbringend kombinieren.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>18</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-5132</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5132</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5132">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/5132/4809" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5132" DMDID="DMD_biejournals_5132">
+            <mets:fptr FILEID="FILE0_biejournals_5132"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

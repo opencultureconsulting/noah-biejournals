@@ -1,0 +1,73 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5133">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wege zum Selbstverständnis künstlerischer Lehre im Lehramt</title>
+                        <subTitle>Biografische Spurensuche hochschuldidaktischer Erfahrungsbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kathke, Petra</displayForm>
+                        <namePart type="family">Kathke</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">28</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Der Beitrag deckt anhand einer Rekonstruktion professionsbezogener Lern- und Lehrerfahrungen akademische und berufsbiografische Einflussfaktoren auf, die am Prozess der Rollenfindung als Hochschullehrerin im Fach Kunst beteiligt waren. Identitätsstiftende (Aus-)Bildungsräume zwischen Schulzeit, Studium, berufsfeldbezogener Tätigkeit und professoraler Hochschullehre werden kartografisch rekonstruiert und anhand exemplarisch verdichteter Situationsschilderungen daraufhin befragt, wie sie letztlich über Umwege zur Ausbildung eines Selbstverständnisses künstlerischer Lehre und der sie grundierenden kunstpädagogischen Haltung führen konnten. Im Spiegel der Erinnerungen zeigt sich, dass ein entscheidender Ertrag der Professionalisierung für die eigene Hochschullehre in der Erfahrungsproduktion des Dazwischen liegt, da der nicht abrupt, sondern allmählich vollzogene Rollenwechsel von Rückkopplungen systemisch bedingter Differenzen und fachspezifischer Lernkulturen an Pädagogischer Hochschule, Universität, Schule und außerschulischen Bildungseinrichtungen profitiert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>34</start>
+                                <end>61</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-5133</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5133</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5133">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/5133/4811" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5133" DMDID="DMD_biejournals_5133">
+            <mets:fptr FILEID="FILE0_biejournals_5133"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

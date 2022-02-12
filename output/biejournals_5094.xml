@@ -1,0 +1,81 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5094">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Videobasierte Fallarbeit zu kompetenzorientiertem Bewegungs- und Sportunterricht</title>
+                        <subTitle>Konkretes Lehr-Lern-Format für die fachdidaktische Ausbildung angehender Sportlehrpersonen</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Molinari, Vera</displayForm>
+                        <namePart type="family">Molinari</namePart>
+                        <namePart type="given">Vera</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rindlisbacher, Fabian</displayForm>
+                        <namePart type="family">Rindlisbacher</namePart>
+                        <namePart type="given">Fabian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-11</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">15</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Einführung kompetenzorientierter Lehrpläne impliziert für Fachdidaktik-Dozierende, angehende Lehrpersonen auf das Planen und Durchführen kompetenzorientieren Unterrichts vorzubereiten. Videobasierte Fallarbeit stellt dazu ein probates Mittel dar. Basierend auf einer systematischen Literaturrecherche fasst dieser Beitrag aktuelle Erkenntnisse zum Einsatz videobasierter Fallarbeit in der (sport-)fachdidaktischen Ausbildung zusammen. Darauf aufbauend wird ein spezifisches Lehr-Lern-Format videobasierter Fallarbeit zur Förderung der professionellen Kompetenz angehender Sportlehrpersonen hinsichtlich der Planung und Durchführung kompetenzorientierten Bewegungs- und Sportunterrichts skizziert.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>33</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-5094</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5094</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5094">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/5094/4810" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5094" DMDID="DMD_biejournals_5094">
+            <mets:fptr FILEID="FILE0_biejournals_5094"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
