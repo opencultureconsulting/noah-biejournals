@@ -1,0 +1,80 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4915">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Sportunterricht als demokratieförderliches Setting verstehen – Fachliche Einordnungen und hochschuldidaktische Implikationen</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Gröben, Bernd</displayForm>
+                        <namePart type="family">Gröben</namePart>
+                        <namePart type="given">Bernd</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ukley, Nils</displayForm>
+                        <namePart type="family">Ukley</namePart>
+                        <namePart type="given">Nils</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-29</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">10</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Die Universität ist für eine ebenso sinnvolle wie notwendige Demokratieförderung prädestiniert. Diesem Anspruch kann sowohl auf überfachlicher als auch auf fachlicher Ebene entsprochen werden. Im Hinblick auf das Lehramtsstudium im Fach Sport zeigt dieser Beitrag, dass der schulische Sportunterricht als adressiertes berufliches Zielfeld spezifische Anschlussofferten bietet, die sich bildungstheoretisch durch den sogenannten Doppelauftrag einer Erziehung im und durch Sport ergeben – verstanden als Bewegungsbildung und allgemeine Bildung. Vor diesem Hintergrund lassen sich Potenziale einer Förderung habituell-demokratischer Kompetenzen herausarbeiten. Von diesen Potenzialen ausgehend versuchen wir zu ergründen, wie solche Überlegungen zur Demokratieförderung im schulischen Sportunterricht auch im sportwissenschaftlichen Hochschulstudium vermittelt werden können. Im Ergebnis (Perspektive 1) profiliert dies eine demokratiespezifische Kompetenzerwartung, wonach Studierende im Lehramt des Fachs Sport a) theoretische Kenntnisse über die Bedingungen der Möglichkeit eines demokratiefördernden Sportunterrichts verstehen, b) strukturelle Besonderheiten und Limitationen des Settings kennen und c) prinzipielle     Lösungen für fachliche Vermittlungsfragen finden können sollten. Es zeigt sich jedoch auch, dass solche Erwartungen zu vage bleiben, wenn nicht auch die Erarbeitungsprozesse und mithin die Hochschullehre selbst in einem demokratiefördernden Milieu stattfinden. Daher wird auch skizziert (Perspektive 2), wie Bildungsgehalte des Sports in der eigenen Erfahrung erschlossen und mit Fragen nach den Zielen, Wegen und der Verantwortbarkeit des schulischen Sportunterrichts verbunden werden können. Schließlich wird dafür plädiert, solche durchaus mäeutischen Wege der Lehre verstärkt zu nutzen.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>3</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>103</start>
+                                <end>112</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4915</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4915</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4915">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4915/4772" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4915" DMDID="DMD_biejournals_4915">
+            <mets:fptr FILEID="FILE0_biejournals_4915"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
