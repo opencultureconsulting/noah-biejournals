@@ -1,0 +1,98 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4995">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Das </nonSort>
+                        <title>UNESCO-Weltnaturerbe Wattenmeer</title>
+                        <subTitle>Eine Stationsarbeit zu diesem einzigartigen Ökosystem für den naturwissenschaftlichen Unterricht</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schmäing, Till</displayForm>
+                        <namePart type="family">Schmäing</namePart>
+                        <namePart type="given">Till</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-16</dateIssued>
+                    </originInfo>
+                    <physicalDescription>
+                        <extent unit="page">12</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Ein Kennzeichen der deutschen Nordseeküste ist das Wattenmeer. Dieses Ökosystem wird vor allem aufgrund seiner zahlreichen zoologischen, botanischen sowie geologischen Besonderheiten und der damit einhergehenden Relevanz nicht nur seit den Achtzigerjahren in Deutschland im Rahmen von drei Nationalparks geschützt, sondern wurde im Jahr 2009 darüber hinaus von der UNESCO zum Weltnaturerbe ernannt. Trotz der internationalen Bedeutung dieses Lebensraums liegen wenige unterrichtspraktische Materialien für eine Thematisierung im schulischen Kontext vor. Dieser Beitrag bietet die Möglichkeit einer ausführlichen Erarbeitung des Wattenmeers im Schulunterricht der höheren Jahrgänge der Sekundarstufe I. Dabei können ausgewählte Inhalte des Themengebiets mit Hilfe einer Stationsarbeit in den Unterricht transferiert werden. So wird unter anderem auf die globale Relevanz des Wattenmeers, den Wattboden, charakteristische Tier- und Pflanzenarten, die Salzwiese als Lebensraum sowie die verschiedenartigen Gefährdungen des Ökosystems fokussiert. Einige der vorgestellten Materialien können in Abhängigkeit von den vorhandenen Möglichkeiten der Lehrenden optional mit originalen Objekten (z.B. Präparaten von Strandkrabben oder Muschelschalen) oder mit leicht umsetzbaren Experimenten unterstützt werden. Im Allgemeinen werden mit den verschiedenen Modifizierungen der Arbeitsblätter durchgängig zahlreiche Differenzierungsmöglichkeiten gegeben.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>12</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-4995</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4995</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4995">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4995/4818" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_4995">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4995/4819" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_4995">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/4995/4820" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4995" DMDID="DMD_biejournals_4995">
+            <mets:fptr FILEID="FILE0_biejournals_4995"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4995" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4995"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_4995" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_4995"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
