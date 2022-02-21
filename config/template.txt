@@ -50,7 +50,7 @@ with(cross(cells['index'].value, '' , 'index'), rows,
 '                        <dateOther encoding="w3cdtf"' + forNonBlank(r.cells['originInfo/dateOther@keyDate'].value, v, ' keyDate="' + v.escape('xml') + '"', '') + '>' + r.cells['originInfo/dateOther'].value.escape('xml') + '</dateOther>' + '\n'
                      ).join('') +
 '                    </originInfo>' + '\n' +
-                     forNonBlank(cells['language/languageTerm@authority=iso639-2'].value, v,
+                     forNonBlank(cells['language/languageTerm@authority=iso639-2b'].value, v,
 '                    <language>' + '\n' +
 '                        <languageTerm type="code" authority="iso639-2b">' + v.escape('xml') + '</languageTerm>' + '\n' +
 '                    </language>' + '\n'
