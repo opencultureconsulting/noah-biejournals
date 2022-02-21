@@ -1,0 +1,121 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4176">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Impfen gegen Krebs? </title>
+                        <subTitle>Unterrichtskonzept zum Thema Humane Papillomviren</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Desch, Inga</displayForm>
+                        <namePart type="family">Desch</namePart>
+                        <namePart type="given">Inga</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Geulen, Julia</displayForm>
+                        <namePart type="family">Geulen</namePart>
+                        <namePart type="given">Julia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Herold, Karen</displayForm>
+                        <namePart type="family">Herold</namePart>
+                        <namePart type="given">Karen</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Penzkofer, Andrea</displayForm>
+                        <namePart type="family">Penzkofer</namePart>
+                        <namePart type="given">Andrea</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Platzer, Katrin</displayForm>
+                        <namePart type="family">Platzer</namePart>
+                        <namePart type="given">Katrin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Zetzl, Simone</displayForm>
+                        <namePart type="family">Zetzl</namePart>
+                        <namePart type="given">Simone</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Weg-Remers, Susanne</displayForm>
+                        <namePart type="family">Weg-Remers</namePart>
+                        <namePart type="given">Susanne</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">17</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Eine HPV-Impfung wird von der Ständigen Impfkommission (STIKO) für Jungen und Mädchen im Alter zwischen 9 und 14 Jahren empfohlen. Die Impfung kann eine Ansteckung mit Hochrisiko-HPV-Typen, insbesondere HPV 16 und 18, verhindern und damit das Risiko für Gebärmutterhalskrebs und andere Tumoren z.B. an Vulva, Scheide, Penis, After und im Mund-Rachen-Bereich deutlich senken. Die vorgestellte Unterrichtseinheit soll die Schülerinnen und Schüler durch fundierte und verständliche Informationen dabei unterstützen eine persönliche, begründete Entscheidung für oder gegen eine Impfung zu treffen. Grundlage dieser Entscheidung sind neben den bereitgestellten Informationen auch selbst recherchierte Fakten. Daher wird auch das Überprüfen von Internetseiten auf Glaubwürdigkeit und Seriosität thematisiert und so insbesondere die digitale Gesundheitskompetenz gestärkt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Zeitschrift für Didaktik der Biologie (ZDB) - Biologie Lehren und Lernen</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-7255</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>26</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>19</start>
+                                <end>35</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/zdb-4176</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4176</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4176">
+                <mets:FLocat xlink:href="https://zdb.uni-bielefeld.de/index.php/zdb/article/download/4176/4821" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4176" DMDID="DMD_biejournals_4176">
+            <mets:fptr FILEID="FILE0_biejournals_4176"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

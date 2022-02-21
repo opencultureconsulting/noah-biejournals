@@ -1,0 +1,79 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4620">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Kritisches Filmlesen im bildungswissenschaftlichen Lehramtsstudium</title>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>How to see film in a critical way</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mantel-Görner, Carolin</displayForm>
+                        <namePart type="family">Mantel-Görner</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-10-26</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">11</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Dieser Beitrag zielt darauf ab, ein für das Lehramtsstudium entwickeltes hochschuldidaktisches Setting vorzustellen, in welchem Filme kritisch im Kontext medien-, bildungs-, erziehungs- und gesellschaftstheoretischer Bezüge analysiert und reflektiert werden. Dieses Konzept stellt dabei den Begriff der Kritik in das Zentrum der Überlegungen und verfolgt einen Ansatz, der kritisches Denken und den filmpädagogischen Begriff der Filmbildung verknüpft. Das Medium Film wird dabei unter der jeweiligen Perspektive von Kritik, Bildung, Erziehung und Gesellschaft von den Studierenden analysiert; ihre subjektiv-persönlichen Filmerfahrungen dokumentieren sie in einem Filmtagebuch. Dabei treten die Studierenden in einen Dialog mit sich selbst ein. Nicht zuletzt ist kritisches Filmlesen auch im Zusammenhang mit den Medienkompetenzanforderungen angehender Lehrer*innen zu betrachten, welche einen reflektierten und begründeten Umgang mit Medien im Unterricht postulieren.</abstract>
+                    <abstract lang="eng">This article wants to show in which way the medium film offers different perspectives on critical thinking in university teacher training. The teaching concept bases on the terms education, society and critical thinking as main components students deal with. First, theoretical approaches make them aware of multiple views. According to this, students develop their own way of interpretation: What is the subject matter of the film? Further, the examination of film contrasts varied reactions of students in another way: writing down their film impressions in a film diary makes them conscious of their individual reception.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Herausforderung Lehrer*innenbildung - Zeitschrift zur Konzeption, Gestaltung und Diskussion</title>
+                        </titleInfo>
+                        <identifier type="issn">2625-0675</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>298</start>
+                                <end>308</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/hlz-4620</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4620</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4620">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4620/4727" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4620" DMDID="DMD_biejournals_4620">
+            <mets:fptr FILEID="FILE0_biejournals_4620"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

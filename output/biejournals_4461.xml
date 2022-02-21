@@ -1,0 +1,97 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4461">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Inklusive Bildung unter dem Fokus der Kinderrechte</title>
+                        <subTitle>Ein Seminarangebot für Masterstudierende in den Bildungswissenschaften</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Inclusive Education with a Focus on Children’s Rights</title>
+                        <subTitle>A University Seminar for Master Students of Educational Sciences</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rott, David</displayForm>
+                        <namePart type="family">Rott</namePart>
+                        <namePart type="given">David</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bertels, Daniel</displayForm>
+                        <namePart type="family">Bertels</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Stroetmann, Elisabeth</displayForm>
+                        <namePart type="family">Stroetmann</namePart>
+                        <namePart type="given">Elisabeth</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-14</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">20</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Inklusive Bildung ist ein zentrales Thema der Lehrer*innenbildung und ein wichtiger Baustein mit Blick auf die Professionalisierung von angehenden Lehrpersonen. Im Sinne einer dekategorisierenden Form inklusiver Schul- und Unterrichtsgestaltung erweist sich die Inblicknahme der Rechte der Kinder und Jugendlichen (UN-Kinderrechtskonvention) auf die Ausgestaltung entsprechender hochschulischer Praxis als gewinnbringende Perspektive. Dabei sind die Kinderrechte sowohl individuell als auch strukturell ein bedeutsames Element der Ausrichtung pädagogischer Handlungen. Im Seminar „Inklusive Bildung unter dem Fokus der Kinderrechte“ lernen die Masterstudierenden die UN-Kinderrechte als völkerrechtlich verbindliche Grundlage schulischer Praxis kennen und können sie im Kontext Inklusiver Bildung und Sozialer Ungleichheit verorten. Anschließend kommen sie mit verschiedenen Akteur*innen der pädagogischen Praxis zusammen und entwickeln im Sinne des forschenden Lernens explorative Interviewvorhaben, die in Kleingruppen durchgeführt werden. In Hinblick auf die Professionalisierung von Lehrkräften für Inklusion deuten die Ergebnisse der Studierenden auf eine reflektierte Auseinandersetzung mit den schulischen Herausforderungen der Verwirklichung der UN-Kinderrechtskonvention und UN-Behindertenrechtskonvention hin. Dabei gerät auch die Antinomie aus schulpolitischen Forderungen und schulstrukturellen Rahmenbedingungen in den Blick, in der sich Lehrkräfte tagtäglich bewegen.</abstract>
+                    <abstract lang="eng">Inclusive education is a central topic in teacher training and important for the professionalisation of future teachers. In the sense of a decategorising form of inclusive school and teaching, the consideration of Children’s Rights in the design of corresponding higher education practice proves to be a profitable perspective. In this context, children’s rights are a significant element in the orientation of pedagogical actions, both individually and structurally. In the seminar “Inclusive Education with a Focus on Children’s Rights”, the Master students learn about the UN Children’s Rights as a basis for school practice that is binding under international law and can situate them in the context of inclusive education and social inequality. Subsequently, they meet with different actors in educational practice and develop explorative interview projects in the sense of research-based learning, which are conducted in small groups. The results of the studies show which questions the students develop, which perspectives they gain and which further ideas are developed from the seminar.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Herausforderung Lehrer*innenbildung - Zeitschrift zur Konzeption, Gestaltung und Diskussion</title>
+                        </titleInfo>
+                        <identifier type="issn">2625-0675</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>398</start>
+                                <end>417</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/hlz-4461</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4461</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4461">
+                <mets:FLocat xlink:href="https://www.herausforderung-lehrerinnenbildung.de/index.php/hlz/article/download/4461/4624" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4461" DMDID="DMD_biejournals_4461">
+            <mets:fptr FILEID="FILE0_biejournals_4461"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

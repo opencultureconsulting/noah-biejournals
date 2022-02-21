@@ -36,6 +36,9 @@
                     <originInfo>
                         <dateIssued encoding="w3cdtf" keyDate="yes">2020-07-02</dateIssued>
                     </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
                     <abstract lang="ger">Im Editorial zur ersten regulären Ausgabe der PraxisForschungLehrer*innenBildung (PFLB) – Zeitschrift für Schul- und Professionsentwicklung erläutern die Herausgeber*innen entlang des Titels der Zeitschrift die Intentionen des Journals. Grundgedanke hierbei ist die Praxisnähe bzw. der grundlegende Praxisbezug der hier dokumentierten Forschung. Das Spektrum reicht von klassischer Praxisforschung zu Schule und Unterricht, in der die Praxisnähe und der Praxisbezug durch die partizipativen Forschungsprozesse gemeinsam mit Praktiker*innen sichergestellt werden, bis hin zur lokal relevanten Evaluationsforschung aus anwendungsorientierter Perspektive. Als übergreifendes Merkmal dieses neuen Open-Access-Journals wird damit die Orientierung an einer Forschungs- und Entwicklungslogik (FuE-Logik) herausgestellt.</abstract>
                     <subject lang="ger">
 First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
@@ -70,11 +73,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
     <mets:fileSec>
         <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3550">
-                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3550/3665" LOCTYPE="URL"/>
-            </mets:file>
-        </mets:fileGrp>
-        <mets:fileGrp USE="generic file">
-            <mets:file MIMETYPE="" ID="FILE1_biejournals_3550">
                 <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/3550/3666" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
@@ -82,9 +80,6 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
     <mets:structMap TYPE="LOGICAL">
         <mets:div TYPE="document" ID="biejournals_3550" DMDID="DMD_biejournals_3550">
             <mets:fptr FILEID="FILE0_biejournals_3550"/>
-            <mets:div TYPE="part" ID="PART1_biejournals_3550" LABEL="">
-                <mets:fptr FILEID="FILE1_biejournals_3550"/>
-            </mets:div>
         </mets:div>
     </mets:structMap>
 </mets:mets>
