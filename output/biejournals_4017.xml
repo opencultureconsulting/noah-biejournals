@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4017">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Honigbiene und Wespe im Vergleich</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Emge, Daniel</displayForm>
+                        <namePart type="family">Emge</namePart>
+                        <namePart type="given">Daniel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wenzel , Volker</displayForm>
+                        <namePart type="family">Wenzel </namePart>
+                        <namePart type="given">Volker</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Unterscheidung von Bienen, Wespen und anderen Hautfl&amp;uuml;glern f&amp;auml;llt vielen Menschen schwer. Es ist daher sinnvoll, im Biologieunterricht grundlegende Kenntnisse &amp;uuml;ber das Aussehen und die Lebensformen dieser Tiere zu vermitteln. Das vorliegende Unterrichtskonzept soll Lernende der Sekundarstufe I mit dem K&amp;ouml;rperbau der genannten Insekten vertraut machen. Zu diesem Zweck werden tote Honigbienen untersucht, die von Imkern bereitgestellt werden k&amp;ouml;nnen. Dar&amp;uuml;ber hinaus setzen sich die Lernenden mit der Nistweise und dem Reproduktionsverhalten der Tiere auseinander.
+&amp;nbsp;
+&amp;nbsp;</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/bupraktisch-4017</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4017</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4017">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4017/4828" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_4017">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4017/4829" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4017" DMDID="DMD_biejournals_4017">
+            <mets:fptr FILEID="FILE0_biejournals_4017"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4017" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4017"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

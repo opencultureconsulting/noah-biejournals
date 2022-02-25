@@ -1,0 +1,95 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4921">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <nonSort>Die </nonSort>
+                        <title>Flussperlmuschel</title>
+                        <subTitle>Eine vom Aussterben bedrohte Tierart als Unterrichtsgegenstand vor dem Hintergrund der Umweltbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Briest, Pia</displayForm>
+                        <namePart type="family">Briest</namePart>
+                        <namePart type="given">Pia</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Maak, Anna-Lena</displayForm>
+                        <namePart type="family">Maak</namePart>
+                        <namePart type="given">Anna-Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Grotjohann, Norbert</displayForm>
+                        <namePart type="family">Grotjohann</namePart>
+                        <namePart type="given">Norbert</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die ökologische Krise beschreibt die Umweltverschmutzung, die durch den Menschen verursacht wird. Der Klimawandel und der saure Regen stellen dabei lediglich zwei Folgen dieser Krise dar. Durch die Einbringung von Schadstoffen in die Umwelt wird das menschliche und tierische Leben gefährdet, lebende Ressourcen geschädigt und ökologische Schäden ausgelöst. Da der Mensch Verursacher der Umweltverschmutzung ist, kann diese nur durch einen Bewusstseinswandel verhindert werden. Direkte Begegnungen mit der Natur in der Kindheit können einen positiven Einfluss auf das Umwelthandeln von Erwachsenen haben und zu einem verantwortungsvollen Umgang mit der Umwelt anregen. Daher können Naturerfahrungen in der Schule einen wesentlichen Beitrag zur Entstehung umweltbewusster Einstellungen leisten und zu einer wirksamen Umweltbildung beitragen. Durch die Umweltbildung werden Einsichten in die komplexen Zusammenhänge des Umweltgefüges vermittelt, wodurch diese zur Ausbildung eines Umweltbewusstseins beiträgt.
+Für die Vermittlung umweltbewusster Einstellungen eignet sich die Flussperlmuschel (Margaritifera margaritifera) als Unterrichtsgegenstand, welche bereits als ausgestorben oder verschollen gilt. Der Grund ihres Gefährdungsstatus ist die ökologische Krise. Der im Zuge der Umweltverschmutzung entstehende saure Regen, verändert den Lebensraum der empfindlichen Flussperlmuschel und macht ihr Überleben unmöglich.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/bupraktisch-4921</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4921</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4921">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4921/4830" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_4921">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4921/4831" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4921" DMDID="DMD_biejournals_4921">
+            <mets:fptr FILEID="FILE0_biejournals_4921"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4921" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4921"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

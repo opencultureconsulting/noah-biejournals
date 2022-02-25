@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4735">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Auslese, Premium oder „nur“ Honig? Bestimmung der Saccharaseaktivität zur Einschätzung der Honigqualität</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Weyers, Bruno</displayForm>
+                        <namePart type="family">Weyers</namePart>
+                        <namePart type="given">Bruno</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bohrmann, Johannes</displayForm>
+                        <namePart type="family">Bohrmann</namePart>
+                        <namePart type="given">Johannes</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-24</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Honig ist ein lebensmittelrechtlich stark reglementiertes Nahrungsmittel. Da das im Honig enthaltene Enzym Saccharase sehr temperaturempfindlich ist, kann seine Aktivität als Parameter zur Beurteilung seiner Frische und einer sachgemäßen Wärmebehandlung beim Abfüllen herangezogen werden. Je höher die Saccharaseaktivität eines Honigs ist, desto höher ist seine Qualität. Sie ist ein wichtiges Kriterium dafür, ob ein Honig die Bezeichnung „Auslese“ oder „Premium“ erhalten darf. In diesem Beitrag wird die quantitative Bestimmung der Saccharaseaktivität als Schulexperiment vorgestellt. Schwerpunkt des Unterrichtsmodells ist die Erarbeitung der Methodik, um diese je nach Auswahl der zu testenden Honige zur Klärung unterschiedlicher Fragestellungen nutzen zu können. Das Material eignet sich auch für asynchrones Arbeiten, z.B. im Distanzunterricht und bei Verzicht auf die praktische Durchführung der Untersuchung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>BU praktisch - Das Online-Journal für den Biologieunterricht</title>
+                        </titleInfo>
+                        <identifier type="issn">2627-4469</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>5</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/bupraktisch-4735</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0">CC BY-NC-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4735</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4735">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4735/4832" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_4735">
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/4735/4833" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4735" DMDID="DMD_biejournals_4735">
+            <mets:fptr FILEID="FILE0_biejournals_4735"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_4735" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_4735"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
