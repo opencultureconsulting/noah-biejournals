@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5214">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Demokratiebildung als (hoch-)schulische Querschnittsaufgabe und demokratisch-politische Bildung als Prinzip der Lehrer*innenbildung</title>
+                        <subTitle>Einführung in das Themenheft</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dempki, Carolin</displayForm>
+                        <namePart type="family">Dempki</namePart>
+                        <namePart type="given">Carolin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Josting, Petra</displayForm>
+                        <namePart type="family">Josting</namePart>
+                        <namePart type="given">Petra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2021-12-30</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Demokratie wird immer wieder aufs Neue auf den Prüfstand gestellt, sei es durch Wahlsiege rechtspopulistischer Parteien oder durch die aktuelle „Corona-Krise“. Vor diesem Hintergrund ist das Erlernen und Erleben von Demokratie insbesondere für die heranwachsende Generation zentral, woraus sich für Schule und Unterricht die Querschnittsaufgabe Demokratiebildung ergibt. Anzusetzen ist dabei auch bei den (zukünftigen) Lehrkräften. Dieses Editorial führt in das Themenheft „Demokratiebildung als (hoch-)schulische Querschnittsaufgabe und demokratisch-politische Bildung als Prinzip der Lehrer*innenbildung“ ein und erläutert seine Entstehung. Neben einer Einführung in die Thematik werden die Beiträge des Themenheftes vorgestellt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>3</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>3</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-5214</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5214</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5214">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/5214/4844" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5214" DMDID="DMD_biejournals_5214">
+            <mets:fptr FILEID="FILE0_biejournals_5214"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

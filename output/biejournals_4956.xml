@@ -1,0 +1,76 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4956">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Globales Lernen im Geschichtsunterricht</title>
+                        <subTitle>Verflechtungsgeschichtliche Perspektiven für die Lehrer*innenbildung</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Schwabe, Nicole</displayForm>
+                        <namePart type="family">Schwabe</namePart>
+                        <namePart type="given">Nicole</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Während globalgeschichtliche Ansätze sich aus der Geschichtswissenschaft nicht mehr wegdenken lassen, dominiert im Geschichtsunterricht ein nationales Narrativ. Der Unterricht verpasst auf diese Weise nicht nur den Anschluss an gegenwärtige Entwicklungen in der Wissenschaft, sondern verfehlt das selbst gesetzte Ziel, den Schüler*innen Orientierung in ihrer Lebenswelt zu bieten. Wie kann historisches Lernen einen Beitrag dazu leisten, dass sich Schüler*innen in einer zunehmend globaleren Welt zurechtfinden und dazu befähigt werden, Gesellschaft mitzugestalten? Welche Akzente kann die geschichtsdidaktische Lehrer*innenbildung im Rahmen der Querschnittsaufgabe Globales Lernen für die Demokratiebildung setzen? Wie muss sich der Geschichtsunterricht verändern, um der Diversität an Lebenswelten, die in einem Klassenraum zusammenfinden, gerecht zu werden? Im Praxisprojekt Wissen um globale Verflechtungen haben Didaktiker*innen und Fachwissenschaftler*innen an der Universität Bielefeld gemeinsam Unterrichtsmaterialien für den Schulunterricht entwickelt, um aufzuzeigen, wie sich die Forderung einer Perspektiverweiterung sowie die Förderung verflechtungsgeschichtlicher Perspektiven im Unterricht in der Schulpraxis umsetzen lassen. Davon ausgehend formuliert der vorliegende Artikel Impulse für die Lehrer*innenbildung.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>38</start>
+                                <end>46</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-4956</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4956</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4956">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/4956/4840" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4956" DMDID="DMD_biejournals_4956">
+            <mets:fptr FILEID="FILE0_biejournals_4956"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

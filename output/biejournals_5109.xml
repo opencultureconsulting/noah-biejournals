@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5109">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Partizipation in den Naturwissenschaften und gesellschaftliche Teilhabe</title>
+                        <subTitle>Reflexion über für alle Lernenden zugängliche Kontexte</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Basten, Melanie</displayForm>
+                        <namePart type="family">Basten</namePart>
+                        <namePart type="given">Melanie</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Großmann, Nadine</displayForm>
+                        <namePart type="family">Großmann</namePart>
+                        <namePart type="given">Nadine</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-28</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">16</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Kinder und Jugendliche, die in Armut leben, befinden sich in einem Teufelskreis der sozialen Benachteiligung, aus dem sie vornehmlich durch Bildung potenziell ausbrechen könnten. Der Bereich der Naturwissenschaften liefert im Laufe der Schulzeit die Ausbildung einer „scientific literacy“ als Teil einer grundlegenden Bildung. Diese soll allen Lernenden zuteilwerden. „Scientific literacy“ führt dazu, dass Lernende sich (zukünftig) an gesellschaftlichen Diskursen und Entscheidungsprozessen beteiligen können. Das Netzwerk inklusiver naturwissenschaftlicher Unterricht (NinU) hat ein Raster entwickelt, mit dem „scientific literacy for all“ in der Unterrichtsplanung realisiert werden kann. Unter anderem spielen in diesem Raster die Kontexte, in denen Kompetenzen erworben werden, eine große Rolle für den Lernerfolg, da sie sich auf den Wissenserwerb und die Lernmotivation auswirken. Es müssen im Unterricht also Kontexte gefunden werden, die für alle Lernenden relevant und motivierend sind, damit alle an einem ko-konstruktiven Lernprozess partizipieren können und niemand ausgegrenzt wird.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>PraxisForschungLehrer*innenBildung. Zeitschrift für Schul- und Professionsentwicklung.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5628</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>2</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>1</start>
+                                <end>16</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/pflb-5109</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5109</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5109">
+                <mets:FLocat xlink:href="https://www.pflb-journal.de/index.php/pflb/article/download/5109/4842" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5109" DMDID="DMD_biejournals_5109">
+            <mets:fptr FILEID="FILE0_biejournals_5109"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
