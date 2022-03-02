@@ -8,14 +8,6 @@
                         <subTitle>Ein Unterrichtsmodell für den Präsenz- und Distanzunterricht</subTitle>
                     </titleInfo>
                     <name type="personal">
-                        <displayForm>Heil, Ingeborg</displayForm>
-                        <namePart type="family">Heil</namePart>
-                        <namePart type="given">Ingeborg</namePart>
-                        <role>
-                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
-                        </role>
-                    </name>
-                    <name type="personal">
                         <displayForm>Helbing, Isabell</displayForm>
                         <namePart type="family">Helbing</namePart>
                         <namePart type="given">Isabell</namePart>
@@ -23,10 +15,18 @@
                             <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
                         </role>
                     </name>
+                    <name type="personal">
+                        <displayForm>Heil, Ingeborg</displayForm>
+                        <namePart type="family">Heil</namePart>
+                        <namePart type="given">Ingeborg</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
                     <typeOfResource>text</typeOfResource>
                     <genre authority="dini">article</genre>
                     <originInfo>
-                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-02-24</dateIssued>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-01</dateIssued>
                     </originInfo>
                     <language>
                         <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
@@ -65,12 +65,12 @@ First argument to forEach is not an array or JSON objectFirst argument to forEac
     <mets:fileSec>
         <mets:fileGrp USE="pdf upload">
             <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5005">
-                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/5005/4834" LOCTYPE="URL"/>
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/5005/4847" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="generic file">
             <mets:file MIMETYPE="application/vnd.openxmlformats-officedocument.wordprocessingml.document" ID="FILE1_biejournals_5005">
-                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/5005/4835" LOCTYPE="URL"/>
+                <mets:FLocat xlink:href="https://www.bu-praktisch.de/index.php/bupraktisch/article/download/5005/4848" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>
