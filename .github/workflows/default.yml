@@ -21,7 +21,9 @@ jobs:
     - name: install VuFindHarvest
       run: task install_vufindharvest
     - name: install xmllint
-      run: sudo apt-get install -y libxml2-utils
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libxml2-utils
     - name: install OpenRefine and openrefine-client
       run: task install_openrefine
     - name: task default
