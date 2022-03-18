@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5311">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Rund, spitz, gespalten</title>
+                        <subTitle>Flügelformen als Ergebnis der Evolution</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Wingtips – shape and significance</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Eder, Heinrich</displayForm>
+                        <namePart type="family">Eder</namePart>
+                        <namePart type="given">Heinrich</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nachtigall, Werner</displayForm>
+                        <namePart type="family">Nachtigall</namePart>
+                        <namePart type="given">Werner</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die Flugleistungen von Vögeln und Insekten hängen eng mit der Flügelform zusammen. Jeder auftriebsbelastete Flügel erzeugt Abwind, der unmittelbar auf ihn wirkt und der den induzierten Widerstand hervorruft. Die Evolution hat bestimmte Flügelformen hervorgebracht, die ein Minimum an induziertem Widerstand besitzen. Das verschafft z. B. den Vögeln Vorteile bei der Futtersuche, indem sich die Reichweite erhöht oder Migration ermöglicht wird. Seevögel zeichnen sich durch zugespitzte schlanke Flügel aus, während Landsegler dagegen breite Flügel mit Auffächerung der Handschwingen besitzen. Jede Flügelform scheint bezogen auf den Lebensraum des Individuums ein Optimum darzustellen. Mit den heutigen mathematischen Methoden können die Ergebnisse der Evolution voll bestätigt werden.</abstract>
+                    <abstract lang="eng">Flight performance of birds and insects is closely related to wing shape. Each lift-loaded wing generates a downwash that acts directly on it, causing induced drag. Evolution has produced specific wing shapes that have a minimum of induced drag. This provides advantages for the birds in foraging, for example, by increasing the range, or allows migration. Seabirds are characterized by pointed, slender wings, while land gliders have broad wings with fanned out hand wings. Each wing shape seems to be an optimum in relation to the habitat of the individual. With today’s mathematical methods, the results of evolution can be fully confirmed.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5311</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5311</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5311">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5311/4888" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5311" DMDID="DMD_biejournals_5311">
+            <mets:fptr FILEID="FILE0_biejournals_5311"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

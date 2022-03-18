@@ -1,0 +1,82 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5278">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>„Wahre Treue“? Monogamie bei Kupferroten Springaffen</title>
+                        <subTitle>Freilandforschung an Primaten im Amazonasregenwald</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>True faithfulness? Pair living and monogamy in coppery titi monkeys</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Heymann, Eckhard W.</displayForm>
+                        <namePart type="family">Heymann</namePart>
+                        <namePart type="given">Eckhard W.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Dolotovskaya, Sofya</displayForm>
+                        <namePart type="family">Dolotovskaya</namePart>
+                        <namePart type="given">Sofya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Roos, Christian</displayForm>
+                        <namePart type="family">Roos</namePart>
+                        <namePart type="given">Christian</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Paarleben ist bei Säugetieren im Allgemeinen selten, bei Primaten jedoch relativ häufig, und findet sich unter anderem bei den südamerikanischen Springaffen. In einer Freilandstudie an Kupferroten Springaffen untersuchten wir die Mechanismen des Paarlebens und fragten, ob Paarleben mit genetischer Monogamie einhergeht. In unseren Studiengruppen investierten Weibchen mehr in die Paarbeziehung als Männchen, vor allem durch häufigere soziale Fellpflege und einen aktiveren Beitrag zur Aufrechterhaltung der räumlichen Nähe. Männchen hingegen waren die exklusiven Träger von Jungtieren und außerdem aktiver bei der Verteidigung des Territoriums und gegenüber Raubfeinden. Wir fanden keinerlei Hinweise auf Vaterschaften außerhalb der Paare. Zusammengenommen unterstützen unsere Befunde die „male-services“-Hypothese als Erklärung von Evolution und Aufrechterhaltung des Paarlebens bei Springaffen.</abstract>
+                    <abstract lang="eng">Pair living is rare amongst mammals in general, but relatively common in primates, and found e. g. in the South American titi monkeys. In a field study on coppery titi monkeys in Peruvian Amazonia we examined the mechanisms of pair living and whether pair living is associated with genetic monogamy. In our study groups, female titi monkeys invested more in pair bonding by grooming the pair mate more often than vice versa and by being more active in the maintenance of spatial proximity between the mates. Males were the exclusive carriers of infants and also were more active in the defense of the territory and against predators than females. We did not find evidence for extra-pair paternities. Taken together, our findings support the “male-services” hypothesis for the evolution and maintenance of pair living in titi monkeys.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5278</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5278</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5278">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5278/4877" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5278" DMDID="DMD_biejournals_5278">
+            <mets:fptr FILEID="FILE0_biejournals_5278"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

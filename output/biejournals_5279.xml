@@ -1,0 +1,90 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5279">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Bakterien als Plastikmüllabfuhr</title>
+                        <subTitle>Können Mikroorganismen unser globales Plastikproblem lösen?</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>Bacteria as waste disposal service</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Chow, Jennifer</displayForm>
+                        <namePart type="family">Chow</namePart>
+                        <namePart type="given">Jennifer</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Preuß, Lena</displayForm>
+                        <namePart type="family">Preuß</namePart>
+                        <namePart type="given">Lena</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Gruscke, Marno Falk</displayForm>
+                        <namePart type="family">Gruscke</namePart>
+                        <namePart type="given">Marno Falk</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Streit, Wolfgang</displayForm>
+                        <namePart type="family">Streit</namePart>
+                        <namePart type="given">Wolfgang</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Trotz erster Erfolge beim mikrobiellen PET-Abbau gibt es für die meisten Plastiksorten keine bekannten mikrobiellen Abbauwege. Mikrobieller Abbau von synthetischen Polymeren (Kunststoffen oder Plastik) ist ein wichtiges Forschungsfeld, das sich gerade erst entwickelt. Erste Erfolge zeigen, dass amorphes PET und auf Esterbindungen aufgebautes PUR durch Enzyme (Esterasen und Cutinasen) zumindest unter Laborbedingungen abbaubar sind. Das ist vielversprechend und liefert die Grundlage für erste biotechnologische Re- und Upcycling-Verfahren. Auch gibt es erste Hinweise darauf, dass PET in der Natur durch sezernierte Enzyme über sehr lange Zeiträume abgebaut werden kann. Für die große Mehrzahl (&amp;gt; 85 %) der synthetischen und auf Rohöl basierenden Polymere gibt es jedoch zurzeit keine gesicherten Erkenntnisse über mögliche Abbauwege und daran beteiligte Enzyme. Hier besteht weiterhin sehr großer Forschungsbedarf.</abstract>
+                    <abstract lang="eng">Despite initial successes in microbial PET degradation, there are no known microbial degradation pathways for most types of plastic. Microbial degradation of synthetic polymers (synthetics or plastic) is an important research areathat is just emerging. Initial successes show that amorphous PET and PUR based on ester bonds can be degraded by enzymes (esterases und cutinases), at least under laboratory conditions. This is promising and provides the basis for the first biotechnological recycling and upcycling processes. There are also first indications that PET can be degraded in nature by secreted enzymes over a very long period of time. Notably, for the vast majority (&amp;gt; 85 %) of synthetic and crude oil-based polymers, however, there is still no reliable knowledge of possible degradation pathways and the microbial enzymes involved. Here in particular, there is still a great need for research.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5279</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5279</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5279">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5279/4876" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5279" DMDID="DMD_biejournals_5279">
+            <mets:fptr FILEID="FILE0_biejournals_5279"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

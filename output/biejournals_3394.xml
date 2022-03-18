@@ -1,0 +1,77 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3394">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Trouble making? </title>
+                        <subTitle>Addressing irritation in innovativeness education</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Stuppacher, Kirstin</displayForm>
+                        <namePart type="family">Stuppacher</namePart>
+                        <namePart type="given">Kirstin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Innovation education is not compatible with a queer pedagogical approach.
+Innovativeness education and queer pedagogies are theoretically compatible.
+Being in trouble and making trouble might help to initiate an ongoing innovation process.
+Trouble making and irritation can be useful for innovative education and fostering innovativeness as an ability.
+
+Purpose: The aim of this contribution is to research assumptions of the education for innovativeness approach within a queer theoretical notion of pedagogy and to discuss im/possibilities of the approach in the framework of Geography and Economic education.
+Approach: This article explores intersections between the approaches of queer theories and the theory of education for innovativeness by focussing on the potentials and limitations of trouble making as a starting point in innovativeness education in the secondary education sector.
+Findings: If we consider trouble making and irritation within an education that fosters innovativeness, we could expand education by focusing the power structures that manifest themselves within innovation processes and education.
+ </abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>21</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-3394</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3394</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3394">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3394/4886" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3394" DMDID="DMD_biejournals_3394">
+            <mets:fptr FILEID="FILE0_biejournals_3394"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

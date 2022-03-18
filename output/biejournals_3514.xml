@@ -1,0 +1,78 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_3514">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Material interpolations</title>
+                        <subTitle>Youth engagement with inclusive and exclusionary citizenship discourses</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Dansholm, Kerenina K.</displayForm>
+                        <namePart type="family">Dansholm</namePart>
+                        <namePart type="given">Kerenina K.</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Citizenship education, in its varying forms, seeks to address challenges of diversity and promote inclusion, while a discourse of othering within public debate implies exclusion for racialised minority citizens and residents.
+Youth must navigate these dichotomous citizenship discourses in order to craft their own meaning of the concept of citizenship.
+This research shows that youth draw on material and sensory tokens, such as skin colour, clothing, and audible language, to justify or challenge citizenship belonging.
+The implication is that it is vital for citizenship education researchers to address the material and sensory tokens implicit in racialised discourses which Other minority citizens.
+
+Purpose: The aim of this research is to investigate youth understandings of citizenship against the dual backgrounds of inclusive citizenship education and exclusionary discourse in the public sphere.
+Design / methodology / approach: The topic was explored through group interviews with 10th grade students, while the emergent theme of material or sensory tokens as indicators of belonging was analysed through an adapted discursive-material knot framework.
+Findings: The analysis shows that exclusionary citizenship discourses visible in public debate impact youth’s understanding of citizenship, and that youth use material or sensory tokens, such as skin colour, clothing, and audible language to justify or challenge citizenship belonging.
+Research limitations / implications: The research demonstrates youth engagement with citizenship discourse within the public sphere and their sense-making of citizen stereotypes and prejudices. However, more research is needed in order to further explore the issue within different contexts.
+Practical implications: As previous research has indicated, a clear vocabulary is needed in order to effectively address racialised prejudice in citizenship education. These findings indicate that addressing the material or sensory tokens inherent in such exclusionary discourse may be a useful starting point.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>21</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.4119/jsse-3514</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_3514</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_3514">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/3514/4883" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_3514" DMDID="DMD_biejournals_3514">
+            <mets:fptr FILEID="FILE0_biejournals_3514"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

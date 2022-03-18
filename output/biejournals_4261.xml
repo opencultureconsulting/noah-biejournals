@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4261">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Twenty-five years of the European dimension in education in Croatia</title>
+                        <subTitle>Research origins, theoretical deficiencies, and the future development pathway</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Turk, Marko</displayForm>
+                        <namePart type="family">Turk</namePart>
+                        <namePart type="given">Marko</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">The European dimension in education was formed as a multilateral project of the Council of Europe and the European Union to improve European integration processes.
+From the scholarly perspective, the development of the European dimension in education in Croatia is analysed from 1996 until 2020
+Political praxiology of education is introduced as a possible theoretical framework for future development.
+
+Purpose: This paper aims to present the twenty-five-year evolving pathway of the European dimension in education in Croatia. Furthermore, the paper critically problematises the lack of a theoretical framework that has marked this concept&apos;s research and partly contributed to its conceptual dispersion and scholarly ambiguity.
+Design: The paper design is based on chronological and content analysis of the European dimension in education development, primarily focusing on the Croatian context. The period analysed is from 1996, when the first paper on the European dimension in education in Croatia was published until 2020.
+Findings: The development frame of the European dimension in education is proposed, with an overview of appurtenant phases, followed by chronological and detailed elaborated thematic groups. As an answer to detected theoretical deficiencies, the political praxiology of education is introduced as a direction of its future theoretical development and a partly new shift in the conceptual definition of the European dimension in education is proposed.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>21</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4261</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4261</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4261">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4261/4887" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4261" DMDID="DMD_biejournals_4261">
+            <mets:fptr FILEID="FILE0_biejournals_4261"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

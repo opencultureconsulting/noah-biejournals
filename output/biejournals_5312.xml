@@ -1,0 +1,74 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5312">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Mit Staubsaugern und Handschuhen gegen Viren</title>
+                        <subTitle>Verständliche Immunabwehr durch anschauliche Modelle</subTitle>
+                    </titleInfo>
+                    <titleInfo type="translated">
+                        <title>With vacuum cleaners and gloves against viruses</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Korn-Müller, Andreas</displayForm>
+                        <namePart type="family">Korn-Müller</namePart>
+                        <namePart type="given">Andreas</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <abstract lang="ger">Die humorale und zelluläre Immunantwort bei einer Infektion ist hoch komplex. Mit selbstgebauten und ansprechenden Modellen werden die wesentlichen Grundzüge der Immunabwehr Lernenden ab der 7. Klasse und wissenschaftlichen Laien anschaulich und verständlich kommuniziert. Die drei wichtigsten Zellen der Immunabwehr – B-Zelle, Killerzelle und Helferzelle – kommen als comicartige Modelle aus Styroporkugeln und Pappmaché zum Einsatz. Ein umgestalteter Staubsauger dient als Modell für Fresszellen (Makrophagen), Hände fungieren als Antigene und unterschiedlich große Fausthandschuhe stellen Antikörper dar. Mit Hilfe einer beweglichen Holzhand werden Mutationen der viralen Oberflächenproteine veranschaulicht. Wie ein Antikörper- und ein Antigentest im Prinzip funktionieren, verdeutlichen auf einer Holzplatte montierte Schaufensterpuppenhände, Fausthandschuhe und leuchtende Wäscheklammern.</abstract>
+                    <abstract lang="eng">The humoral and cellular immune response to an infection is highly complex. With the help of self-made and appealing models, the essential characteristics of the immune defense are imparted in a clear and comprehensible way to learners from the 7th grade onwards and to scientifically interested laymen. The three most important cells of the immune defense system – B cells, killer cells and T helper cells – are used as comic-like models made of ­styrofoam balls and papier-mâché. A modified vacuum cleaner serves as model for scavenger cells (macrophages), hands function as antigens and mittens of different sizes represent antibodies. With the help of a flexible wooden hand, mutations of viral surface proteins are made clear. How an antibody and an antigen test work in principle is demonstrated by hands of shop window mannequins fastened on to a wooden board, mittens and luminous clothes pegs.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Biologie in unserer Zeit</title>
+                        </titleInfo>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/biuz-5312</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5312</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5312">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5312/4889" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_5312">
+                <mets:FLocat xlink:href="https://www.biuz.de/index.php/biuz/article/download/5312/4891" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5312" DMDID="DMD_biejournals_5312">
+            <mets:fptr FILEID="FILE0_biejournals_5312"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_5312" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_5312"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

@@ -1,0 +1,89 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_1454">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>English</title>
+                        <subTitle>An analysis of relations in four European countries</subTitle>
+                    </titleInfo>
+                    <titleInfo>
+                        <title>Youth participation and citizenship education</title>
+                        <subTitle>An analysis of relations in four European countries</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ribeiro, Ana Bela</displayForm>
+                        <namePart type="family">Ribeiro</namePart>
+                        <namePart type="given">Ana Bela</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Menezes, Isabel</displayForm>
+                        <namePart type="family">Menezes</namePart>
+                        <namePart type="given">Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Young people are often accused of a lack of interest and disengagement from public affairs.
+Little is known about the opportunities and experiences for youngsters to be more engaged.
+Citizenship education has been at the centre of educational proposals in many European countries.
+The investments made in education policies, concerning citizenship education seem to fall short.
+
+Purpose: We intend to bring into debate what seems to be a paradoxical relation between the lack of youth civic and political participation, and the current disinvestment in the effective implementation of citizenship education policies.
+Design: A comparative framework between four European countries concerning youth civic and political participation, and citizenship education policies, including the involvement of NGOs in youth civic education.
+Findings: Data shows that young people’s (apparent) participatory apathy may have other readings or other meanings. Young people seem to be increasingly looking for more dynamic and less traditional forms of participation, and there is a need for citizenship education policies to be more grounded in this reality.
+Implications: Overall, we might be facing a paradox where educational policies seem to be tailor-made for young people who do not actually relate to them.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>21</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-1454</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_1454</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_1454">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/1454/4880" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_1454" DMDID="DMD_biejournals_1454">
+            <mets:fptr FILEID="FILE0_biejournals_1454"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

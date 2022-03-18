@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_4428">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Space for linguistic and civic hybridity? </title>
+                        <subTitle>The case of social sciences in the language introduction programme in Sweden</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Wedin, Åsa</displayForm>
+                        <namePart type="family">Wedin</namePart>
+                        <namePart type="given">Åsa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Aho, Erika</displayForm>
+                        <namePart type="family">Aho</namePart>
+                        <namePart type="given">Erika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-17</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">In Social Sciences, subject content needs to be related to students’ experiences and knowledge.
+In secondary school, the language used to construct knowledge is abstract, dense, and complex.
+The concept of Third space (Bhabha,1994) revealed problems with teaching and teachers’ perceptions of L2 students’ needs.
+Education here appears as a space for a restricted curriculum with Swedish as the gatekeeper.
+This shows that subject teachers need to learn linguistic aspects of their own subject.
+
+Purpose: The aim is to analyse linguistic aspects of education in Social Sciences for L2 students.
+Method: Lingustic ethnography is used for studying the hybridity of Social Sciences with material from nine lesson observations and interviews with three teachers.
+Findings: Findings showed that students’ earlier experiences, knowledge, and perspectives on life were not acknowledged. The Third space appears as a transitional space where students are perceived as deficient, not yet reaching the goal of the introduction programme: to enter mainstream education. Students’ agency was related to this space where the transformation was expected to take place, while teachers positioned themselves as outside, and the knowledge presented was simplified and fragmentized. While teachers expressed dissatisfaction with students’ (lacking) Swedish proficiency, they did not seem to understand their own role to teach Swedish through Social Sciences.
+Implications: This shows that subject teachers need to learn linguistic aspects of their own subject and conditions for L2 students’ learning.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>JSSE - Journal of Social Science Education</title>
+                        </titleInfo>
+                        <identifier type="issn">1618-5293</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>21</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/jsse-4428</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_4428</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_4428">
+                <mets:FLocat xlink:href="https://www.jsse.org/index.php/jsse/article/download/4428/4882" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_4428" DMDID="DMD_biejournals_4428">
+            <mets:fptr FILEID="FILE0_biejournals_4428"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
