@@ -1,0 +1,84 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5272">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Emotionale und soziale Kompetenz</title>
+                        <subTitle>Eine Lehreinheit zur Vorbereitung und Begleitung von Lehramtsstudierenden im Praxissemester</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Ritter, Rosi</displayForm>
+                        <namePart type="family">Ritter</namePart>
+                        <namePart type="given">Rosi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-18</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">9</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Das vorgestellte Lehrkonzept wird im Rahmen der bildungswissenschaftlichen Vorbereitung auf das Praxissemester durchgeführt. Der Schwerpunkt des Konzeptes liegt darauf, die Relevanz der emotionalen und sozialen Kompetenz im pädagogischen Kontext zu unterstreichen und ein Bewusstsein für deren Rolle in einer Lehr-Lern-Beziehung zu schaffen. Dafür werden jeweils zu den 5 Teilkompetenzen (1) Erkennen der eigenen Emotionen, (2) Erkennen der Emotionen bei anderen, (3) Regulation eigener Emotionen, (4) emotionale Expressivität und (5) Aushalten von Emotionen thematisch ausgerichtete Kurzvorträge und praktische Übungsphasen angeboten, sodass die Studierenden den theoretischen Input praktisch erfassen und erproben können mit dem Ziel, sowohl deklaratives Wissen über emotionale Prozesse zu erwerben als auch die eigene emotionale und soziale Kompetenz zu fördern und emotionales Wissen aufzubauen. Fallbeispiele aus der Schule (Videoaufzeichnungen von unterrichtlichen Situationen oder Fallvignetten) dienen dazu, die zentrale Rolle von Emotionen in der Lehrkraft-Schüler*innen-Interaktion zu erfahren und Strategien zu entwickeln, situationsspezifisch und ggf. deeskalierend agieren zu können. Gleichzeitig wird ein Bewusstsein dafür geschaffen, dass Lehrkräfte eine Vorbildfunktion für die Schüler*innen bezüglich der emotionalen Kompetenz und der Emotionsregulation haben und deren emotionale und soziale Kompetenzentwicklung unterstützen sollen. Um die Bedeutung von und den Umgang mit Emotionen im Schulkontext wahrzunehmen und zu reflektieren, verfassen die Studierenden während der praktischen Phase ein Lerntagebuch zu diesem Thema.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>13</start>
+                                <end>21</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-5272</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5272</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5272">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/5272/4892" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_5272">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/5272/4893" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5272" DMDID="DMD_biejournals_5272">
+            <mets:fptr FILEID="FILE0_biejournals_5272"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_5272" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_5272"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
