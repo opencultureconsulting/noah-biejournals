@@ -1,0 +1,91 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5332">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Implementation of health protocols in the workplace during the Covid-19 pandemic in Indonesia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Yuantari, Catur</displayForm>
+                        <namePart type="family">Yuantari</namePart>
+                        <namePart type="given">Catur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Rachmani, Enny</displayForm>
+                        <namePart type="family">Rachmani</namePart>
+                        <namePart type="given">Enny</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kusuma, Edi Jaya</displayForm>
+                        <namePart type="family">Kusuma</namePart>
+                        <namePart type="given">Edi Jaya</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Ariyanto, Amelia Devi Putri</displayForm>
+                        <namePart type="family">Ariyanto</namePart>
+                        <namePart type="given">Amelia Devi Putri</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Covid-19 is a new disease for which no cure has been found; prevention of disease transmission is an alternative to reducing cases. The workplace is one of the places that have the potential for information of Covid-19 because workers will have direct contact in one place with other workers. This study aims to analyze the characteristics and availability of health protocol facilities on worker compliance in the workplace during the Covid-19 pandemic.
+Methods: The research method uses quantitative methods with a cross-sectional approach. The population in this study are workers who work in formal and informal sectors in Indonesia, with a sample of 217 respondents. Data collection used a survey method and obtained as much as 217 data. For data processing, we used the Rank Spearman test.
+Results: The results showed that there was a relationship between years of service (p-value 0.008; rho: 0.148), educational level (p-value 0.000; rho: 0.363), number of employees (p-value 0.000; rho: 0.488), and the availability of health protocol facilities (p-value 0.000; r: 0.498) at the workplace. As for age and the level of compliance with the application of health protocols, there was no relationship (p-value 0.044).
+Discussion: The level of compliance with suitable health protocols at the workplace can help suppress the spread of Covid-19. There are still workplaces where workers do not comply with health protocols, such as workers who do not practice social distancing and lower masks to their chins when talking to colleagues.
+Conflicts of interest: None declared.
+Acknowledgments: The researcher would like to thank LPPM and the Faculty of Health at Dian Nuswantoro University for providing financial support for this research.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5332</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5332</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5332">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5332/4901" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5332" DMDID="DMD_biejournals_5332">
+            <mets:fptr FILEID="FILE0_biejournals_5332"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

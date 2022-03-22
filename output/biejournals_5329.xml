@@ -1,0 +1,86 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5329">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <nonSort>The </nonSort>
+                        <title>role of Diabetes mellitus comorbidity on Tuberculosis treatment outcomes in Nepal</title>
+                        <subTitle>A prospective cohort study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mahato, Roshan Kumar</displayForm>
+                        <namePart type="family">Mahato</namePart>
+                        <namePart type="given">Roshan Kumar</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Laohasiriwong, Wongsa</displayForm>
+                        <namePart type="family">Laohasiriwong</namePart>
+                        <namePart type="given">Wongsa</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Koju, Rajendra</displayForm>
+                        <namePart type="family">Koju</namePart>
+                        <namePart type="given">Rajendra</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aim: The Objective of this study was to assess the effect of Diabetes Mellitus (DM) on treatment outcomes of tuberculosis (TB) patients in the Central Development Region of Nepal.
+Methods: A prospective cohort study was conducted in central Nepal. The study population of n=408 was consecutively recruited from treatment centers of all 19 districts of central Nepal. The TB cases (n=306) and TB with DM (n=102) cases were followed up for the estimation of blood glucose level, HbA1c level, and sputum examination on 2, 5, and 6 months after TB treatment started. The Generalized Estimating Equation (GEE) was performed to identify the risk ratio among TB and TB with DM cases on treatment outcome.
+Results: Our study identified that the magnitude of treatment failure among the tuberculosis cases was 19.7% (95% CI: 17.44-21.95). The GEE analysis observed that factors associated with the treatment failure had uncontrolled DM (HbA1C ≥7 %) (adj.RR=5.24, 95% CI: 2.58-10.62, P value &amp;lt;0.001), aged ≥ 45 (adj.RR= 6.13, 95% CI: 2.55-14.76, P value &amp;lt;0.001), had inadequate financial status (adj.RR= 2.33, 95% CI: 1.07-5.06, P value 0.033) and had prior TB (adj.RR=2.33, 95% CI: 1.09-4.97, P value 0.028) respectively.&amp;nbsp;
+Conclusion: The prevalence of worsening TB treatment among patients with TB and DM was significantly higher than those who had TB only. Poor glycaemic control, increasing age, inadequate financial status, and previous history of tuberculosis were strong predictors of worsening tuberculosis treatment outcomes.
+Conflict of interest: None declared.
+Ethical approval: The Ethics Committee in Human Research of Khon Kaen University, Khon Kaen, Thailand (HE612209), the Nepal Health Research Council (2640) and Institutional Review Committee (Protocol approved number 01/18), Kathmandu University School of Medical Sciences, Dhulikhel, Nepal had approved to conduct this study.
+Acknowledgment: The author wishes to thank the National Tuberculosis Centre, Nepal, for providing the approval to conduct this study. We would like to express our sincere gratitude to the Faculty of Public Health, Khon Kaen University, for their sincere guidance and support during the study period.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5329</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5329</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5329">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5329/4898" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5329" DMDID="DMD_biejournals_5329">
+            <mets:fptr FILEID="FILE0_biejournals_5329"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

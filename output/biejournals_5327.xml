@@ -1,0 +1,87 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5327">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Fetal outcome of adolescent pregnancy in a tertiary care center in western Nepal</title>
+                        <subTitle>A case control study</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mahato, Sweta</displayForm>
+                        <namePart type="family">Mahato</namePart>
+                        <namePart type="given">Sweta</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Younjan, Sanjeev</displayForm>
+                        <namePart type="family">Younjan</namePart>
+                        <namePart type="given">Sanjeev</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Mahato, Anamika</displayForm>
+                        <namePart type="family">Mahato</namePart>
+                        <namePart type="given">Anamika</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: The incidence of adolescent pregnancy is decreasing in developed countries, whereas developing countries like Nepal still report a high incidence.
+Aims: To compare the fetal outcomes of adolescent pregnancies with those of the optimal reproductive age group in a country that accounts for 95% of teenage pregnancies, in contrast to 11% worldwide.&amp;nbsp;
+Method: A hospital-based case-control study was conducted with 150 pregnant women with singleton gestation admitted to Kathmandu University Hospital. An adolescent pregnancy (&amp;lt;19 yrs.) was considered a case, and pregnant women of the optimal age group (20-35 yrs.) were considered the control. The data were collected from Jan 5, 2018, to Jan 5, 2019. The control group was selected by matching the parity of the cases in the study groups during the same study period. Respondents were interviewed and examined with a pre-structured tool. Odds Ratio (OR) and 95% Confidence Interval (CI) were calculated using conditional logistic regression (P&amp;lt;0.05 considered significant).
+Results: The mean age of adolescent mothers was 17 years, the majority being primigravida. This study identified that fetal complications were higher in adolescent pregnancies (61% vs. 40%). The fetal complications like low birth weight (OR 2.42, 95%CI :1.044-5.43, P=0.03), NICU admission (OR 3.27, 95%CI:1.48-7.25, P=0.003), low APGAR score (OR 2.32, 95%CI:1.05-5.11, P=0.034) and Neonatal Death (OR 3.72, 95%CI:1.15-12.01, P=0.04) were associated with the adolescent pregnancies respectively.
+Conclusion: Adolescent pregnancies are at increased risk of fetal complications compared to pregnancies in the optimal reproductive group. Adolescent pregnancies were at increased risk of low birth weight, neonatal death, low APGAR score, and higher admission in NICU. Therefore, an adequate antenatal visiting program for early detection and timely management likely will reduce the fetal complications during adolescent pregnancy.
+&amp;nbsp;
+Keywords: adolescent pregnancy, complications, .
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5327</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5327</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5327">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5327/4896" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5327" DMDID="DMD_biejournals_5327">
+            <mets:fptr FILEID="FILE0_biejournals_5327"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

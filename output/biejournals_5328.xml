@@ -1,0 +1,92 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5328">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Assessing Reproductive Health Literacy</title>
+                        <subTitle>Terms of Sex Genital among Caregivers in Semarang city</subTitle>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Rimawati, Eti</displayForm>
+                        <namePart type="family">Rimawati</namePart>
+                        <namePart type="given">Eti</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Kristina, Tri Nur</displayForm>
+                        <namePart type="family">Kristina</namePart>
+                        <namePart type="given">Tri Nur</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Nugraheni, Sri Achadi</displayForm>
+                        <namePart type="family">Nugraheni</namePart>
+                        <namePart type="given">Sri Achadi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Margawati, Ani</displayForm>
+                        <namePart type="family">Margawati</namePart>
+                        <namePart type="given">Ani</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Introduction: Taboos, filth, and shame are moral values ​​resulting from cultural construction that limit names, leading to inappropriate sexuality. These values will impact the practice of caregivers in communicating reproductive health to their children. This study aims to describe the terms used for the names of reproductive organs and examine the connotations built in the marking of these names.
+Methods: The research design was a case report study. The sample comprised 224 caregivers to early childhood who were selected by stratified random sampling in the city of Semarang. Data analysis was carried out by description and basic quantification.
+Results: Researchers found 27 language terms for the names of male and female genital organs. The name&apos;s connotation was built because of inheritance, similarity to certain animals, and texture of the organs.
+Conclusion: The use of the connotation of reproductive organs in communicating to children will continue to reduce the culture of taboo and shame continuously. It is necessary to increase the ability of parents to say the correct name for the genital organs.
+Conflicts of interest: None declared.
+Ethical approval: This research has received ethical approval from the Faculty of Public Health, the University of Diponegoro, number 223/EA/KEPK-FKM/2020.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5328</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5328</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5328">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5328/4897" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5328" DMDID="DMD_biejournals_5328">
+            <mets:fptr FILEID="FILE0_biejournals_5328"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

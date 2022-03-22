@@ -1,0 +1,66 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Effect of safety and hygiene practices on lung function among Indonesian farmers exposed to pesticides</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Mahawati, Eni</displayForm>
+                        <namePart type="family">Mahawati</namePart>
+                        <namePart type="given">Eni</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aim:&amp;nbsp;This study aimed to detect lung function impairment in farmers exposed to pesticides related to safety and hygiene practices in pesticide application.
+Methods:&amp;nbsp;This was a cross-sectional study with respondents are 200 farmers who were exposed to pesticides in Grobogan, the main agricultural center in Central Java, Indonesia, which has 95.75% agricultural workers. Data were collected by a questionnaire-based interview, observation, and spirometry measurement. Chi-square and Multinomial Regression were used for the statistical test.
+Results:&amp;nbsp;The survey results of all respondents showed that 12% had restriction lung function, 32% had obstruction lung function, and 56% had normal lung function. There was a significant effect between work period, pesticide spraying hour per day, spraying against wind direction, changing clothes directly after exposure to pesticides, taking a bath directly after exposure to pesticides with &quot;farmer&apos;s lung function&quot; based on statistical test results.&amp;nbsp;
+Conclusion:&amp;nbsp;The Safety and hygiene practices of farmers exposed to pesticides could affect their lung function. It is suggested that to improve management and regulation control of pesticide application, educational programs and reinforcement of &quot;safety and hygiene practices&quot; in the workplace as effective approaches for preventing respiratory disorders related to pesticide exposures.
+Conflicts of interest: None declared.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5331</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5331</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5331">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5331/4900" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5331" DMDID="DMD_biejournals_5331">
+            <mets:fptr FILEID="FILE0_biejournals_5331"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>

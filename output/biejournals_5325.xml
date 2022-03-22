@@ -1,0 +1,75 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5325">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Legal protection of the patient&apos;s right to access medical records in Indonesia</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Sudra, Rano Indradi</displayForm>
+                        <namePart type="family">Sudra</namePart>
+                        <namePart type="given">Rano Indradi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Putra, Sarsintorini</displayForm>
+                        <namePart type="family">Putra</namePart>
+                        <namePart type="given">Sarsintorini</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-20</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Background: Patient access rights to medical records are related to the retention period because they can only be accessed as long as they have not been destroyed. The study aims to identify the corresponding regulations to assess the legal protection of the patient&apos;s right to access her/his medical record.
+Methods: Tracing and identifying primary legal sources in regulatory content related to patient rights of access. An analysis was conducted on the clarity and consistency of the contents identified.
+Results: Regulations identified regarding patients&apos; rights to access their medical records are Law number 29 of 2004, Government Regulation number 47 of 2021, and Minister of Health Regulation number 269 of 2008. The regulations governing the retention period of medical records are Law number 11 of 2008, Law number 44 of 2009, Government Regulation number 46 of 2017 and number 71 of 2019, Minister of Health Regulation number 269 of 2008, number 82 of 2013, and number 46 of 2017.
+Conclusions: The condition of disharmony and inconsistency among regulations governing patient access rights and the retention period of medical records creates uncertainty for patients to access their medical records.
+&amp;nbsp;
+Conflicts of interest: None declared.</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5325</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5325</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5325">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5325/4894" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5325" DMDID="DMD_biejournals_5325">
+            <mets:fptr FILEID="FILE0_biejournals_5325"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
