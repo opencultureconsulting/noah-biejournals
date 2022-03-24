@@ -1,0 +1,107 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5346">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="eng">
+                        <title>Correlates of level of satisfaction among primary health care workers in Albania</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Naum, Alvi</displayForm>
+                        <namePart type="family">Naum</namePart>
+                        <namePart type="given">Alvi</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Toçi, Ervin</displayForm>
+                        <namePart type="family">Toçi</namePart>
+                        <namePart type="given">Ervin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Toçi, Dorina</displayForm>
+                        <namePart type="family">Toçi</namePart>
+                        <namePart type="given">Dorina</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Burazeri, Genc</displayForm>
+                        <namePart type="family">Burazeri</namePart>
+                        <namePart type="given">Genc</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>van Kessel, Robin</displayForm>
+                        <namePart type="family">van Kessel</namePart>
+                        <namePart type="given">Robin</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Czabanowska, Katarzyna</displayForm>
+                        <namePart type="family">Czabanowska</namePart>
+                        <namePart type="given">Katarzyna</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-03-23</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+                    </language>
+                    <abstract lang="eng">Aim: The aim of this study was to explore the level of satisfaction of primary health care staff in Albania and the factors associated with it.
+Methods: A cross-sectional study was conducted in Tirana city, the Albanian capital, from 11 November 2020 until 25 November 2020. Among all health centers (HCs) and health centers of specialties (HCSs) of Tirana Municipality, there were selected randomly a HC in rural areas, a HC in urban areas and one HCS. All the staff (doctors and nurses) being present at the time of data collection was interviewed, using an international standardized tool (the Dartmouth-Hitchcock Medical Center instrument) assessing the satisfaction with various elements of the work in PHC, validated in Albanian. A total of 102 PHC staff were included in the study. Binary logistic regression was used to assess the association of staff satisfaction with independent factors.
+Results: The aspects of work most appreciated by PHC staff (% satisfied or very satisfied) were: respectful treatment by colleagues (78.2%), staff morale and their positive attitude towards work (73.2%). The most disliked aspects of work by PHC staff (% dissatisfied or very dissatisfied) were: current salary (60.8%), stress at work (38.3%), physical and medical infrastructure in the institution (27%). Staff in rural HCs, older staff, females and nurses and family doctors are more likely to be satisfied compared to their respective colleagues.
+Conclusion: Our findings suggest various factors associated with the satisfaction of PHC staff in Albania. These findings could be guiding future efforts aiming to improve the work conditions of the professionals working in primary health care in Albania.
+Conflicts of interest: None declared.
+Acknowledgment: This study was funded by the “Health for All Project” in Albania (hap.org.al), which is a project of the Swiss Agency for Development and Cooperation (SDC).</abstract>
+                    <subject lang="ger">
+                    </subject>
+                    <subject lang="eng">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>South Eastern European Journal of Public Health (SEEJPH)</title>
+                        </titleInfo>
+                        <identifier type="issn">2197-5248</identifier>
+                        <part>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/seejph-5346</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by/4.0">CC BY 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5346</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5346">
+                <mets:FLocat xlink:href="https://www.seejph.com/index.php/seejph/article/download/5346/4905" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5346" DMDID="DMD_biejournals_5346">
+            <mets:fptr FILEID="FILE0_biejournals_5346"/>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
