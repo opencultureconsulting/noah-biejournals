@@ -99,6 +99,7 @@ tasks:
     desc: transform data to mets/mods xml
     cmds:
       - task: transform_start
+      - defer: { task: transform_stop } # will run even when one of the following commands fail
       - task: transform_client
       - task: transform_split
       - task: transform_validate
@@ -123,7 +124,6 @@ tasks:
 
   transform_client:
     cmds:
-      - defer: { task: transform_stop } # will run even when one of the following commands fail
       - | # prepare workspace
         mkdir -p output
       - | # create temporary zip archive with new files (modified less than 1 day ago)
