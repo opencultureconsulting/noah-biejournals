@@ -2,8 +2,8 @@ name: harvest and transform
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '21 3 * * *'
+#  schedule:
+#    - cron:  '21 3 * * *'
 
 jobs:
   main:

@@ -2,7 +2,7 @@
 
 Dieser Workflow harvestet die Daten des Zeitschriftenservers [BieJournals](https://www.biejournals.de/) der UB Bielefeld im Format Dublin Core und transformiert diese in METS/MODS für das Portal [noah.nrw](https://noah.nrw/).
 
-Die Daten in diesem Repository werden [alle 24 Stunden nachts ab 03:21 Uhr](https://github.com/opencultureconsulting/noah-biejournals/blob/main/.github/workflows/default.yml#L6) aktualisiert.
+~~Die Daten in diesem Repository werden [alle 24 Stunden nachts ab 03:21 Uhr](.github/workflows/default.yml#L6) aktualisiert.~~ (pausiert)
 
 ## Systemvoraussetzungen
 
