@@ -1,0 +1,123 @@
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mets:dmdSec ID="DMD_biejournals_5273">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods xmlns="http://www.loc.gov/mods/v3" version="3.7" xmlns:vl="http://visuallibrary.net/vl">
+                    <titleInfo lang="ger">
+                        <title>Wie hoch ist die Salztoleranz unterschiedlicher Getreidesorten? Eigenständiges Experimentieren mit digitalen gestuften Lernhilfen zur Thematik Ökologische Nische und Keimung</title>
+                    </titleInfo>
+                    <name type="personal">
+                        <displayForm>Kleinert, Svea Isabel</displayForm>
+                        <namePart type="family">Kleinert</namePart>
+                        <namePart type="given">Svea Isabel</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Haunhorst, Darius</displayForm>
+                        <namePart type="family">Haunhorst</namePart>
+                        <namePart type="given">Darius</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Bekel-Kastrup, Holger</displayForm>
+                        <namePart type="family">Bekel-Kastrup</namePart>
+                        <namePart type="given">Holger</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Hamers, Philipp</displayForm>
+                        <namePart type="family">Hamers</namePart>
+                        <namePart type="given">Philipp</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <name type="personal">
+                        <displayForm>Wilde, Matthias</displayForm>
+                        <namePart type="family">Wilde</namePart>
+                        <namePart type="given">Matthias</namePart>
+                        <role>
+                            <roleTerm type="code" authority="marcrelator">ctb</roleTerm>
+                        </role>
+                    </name>
+                    <typeOfResource>text</typeOfResource>
+                    <genre authority="dini">article</genre>
+                    <originInfo>
+                        <dateIssued encoding="w3cdtf" keyDate="yes">2022-04-10</dateIssued>
+                    </originInfo>
+                    <language>
+                        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+                    </language>
+                    <physicalDescription>
+                        <extent unit="page">8</extent>
+                    </physicalDescription>
+                    <abstract lang="ger">Aufgrund der Corona-Pandemie wurde das Experimentieren im Naturwissenschaftsunterricht stark eingeschränkt. Die Heterogenität der Schüler*innen im Hinblick auf ihre experimentellen Fähigkeiten könnte sich im Kontext des Distanzunterrichts zudem verstärkt haben. Um das Experimentieren im Naturwissenschaftsunterricht auch im Distanzunterricht zu ermöglichen, wurde eine Unterrichtseinheit im Themenbereich Ökologische Nische und Keimung in ein Online-Format umgestaltet. Um gleichermaßen den heterogenen experimentellen Fähigkeiten der Lernenden zu begegnen, wurden experimentierbegleitend gestufte digitale Lernhilfen entwickelt.</abstract>
+                    <subject lang="ger">
+First argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON objectFirst argument to forEach is not an array or JSON object                    </subject>
+                    <subject lang="eng">
+                    </subject>
+                    <relatedItem type="host">
+                        <titleInfo>
+                            <title>Die Materialwerkstatt. Zeitschrift für Konzepte und Arbeitsmaterialien für Lehrer*innenbildung und Unterricht.</title>
+                        </titleInfo>
+                        <identifier type="issn">2629-5598</identifier>
+                        <part>
+                            <detail type="volume">
+                                <number>4</number>
+                            </detail>
+                            <detail type="issue">
+                                <number>1</number>
+                            </detail>
+                            <extent unit="page">
+                                <start>22</start>
+                                <end>29</end>
+                            </extent>
+                        </part>
+                    </relatedItem>
+                    <identifier type="doi">10.11576/dimawe-5273</identifier>
+                    <accessCondition type="use and reproduction" xlink:href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</accessCondition>
+                    <recordInfo>
+                        <recordIdentifier>biejournals_5273</recordIdentifier>
+                    </recordInfo>
+                    <extension>
+                        <vl:doctype>oaArticle</vl:doctype>
+                    </extension>
+                </mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="pdf upload">
+            <mets:file MIMETYPE="application/pdf" ID="FILE0_biejournals_5273">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/5273/4910" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE1_biejournals_5273">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/5273/4911" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="generic file">
+            <mets:file MIMETYPE="application/pdf" ID="FILE2_biejournals_5273">
+                <mets:FLocat xlink:href="https://www.dimawe.de/index.php/dimawe/article/download/5273/4912" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div TYPE="document" ID="biejournals_5273" DMDID="DMD_biejournals_5273">
+            <mets:fptr FILEID="FILE0_biejournals_5273"/>
+            <mets:div TYPE="part" ID="PART1_biejournals_5273" LABEL="">
+                <mets:fptr FILEID="FILE1_biejournals_5273"/>
+            </mets:div>
+            <mets:div TYPE="part" ID="PART2_biejournals_5273" LABEL="">
+                <mets:fptr FILEID="FILE2_biejournals_5273"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+</mets:mets>
