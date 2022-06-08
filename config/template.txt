@@ -99,7 +99,7 @@ with(cross(cells['index'].value, '' , 'index'), rows,
 '                        <titleInfo>' + '\n' +
 '                            <title>' + r.cells['relatedItem/titleInfo/title'].value.escape('xml') + '</title>' + '\n' +
 '                        </titleInfo>' + '\n' +
-                         forNonBlank(r.cells['* relatedItem/originInfo/publisher'].value, v,
+                         forNonBlank(r.cells['relatedItem/originInfo/publisher'].value, v,
 '                        <originInfo>' + '\n' +
 '                            <publisher type="issn">' + v.escape('xml') + '</publisher>' + '\n' +
 '                        </originInfo>' + '\n'
