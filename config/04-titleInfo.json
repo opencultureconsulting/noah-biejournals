@@ -5,7 +5,7 @@
       "facets": [],
       "mode": "record-based"
     },
-    "baseColumnName": "dc:publisher@xml:lang",
+    "baseColumnName": "dc:title@xml:lang",
     "expression": "grel:value.replace(/^de.+/,'ger').replace(/^en.+/,'eng').replace(/^fr.+/,'fre')",
     "onError": "set-to-blank",
     "newColumnName": "titleInfo@lang",
